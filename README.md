@@ -41,16 +41,27 @@ TELEGRAM_CHAT_ID=-1003502567927
 TELEGRAM_MESSAGE_THREAD_ID=18410
 ```
 
-## Tekrar mesaj atma mantigi
+## Haber cekme ve tekrar mesaj atma mantigi
 
-Bot haber linklerini `tv_news_cache.json` icinde saklar. Bu yuzden ayni haber normalde tekrar gonderilmez.
-
-Ilk calistirmada eski haber seli olmasin diye en fazla son 10 haber gonderilir. O anda gorunen diger haberler cache'e yazilir ve sonraki turda tekrar gonderilmez.
-
-Sonraki calismalarda yeni ne haber geldiyse Telegram'a gonderilir.
-
-Bildirimlerdeki link haber detay sayfasina degil, dogrudan TradingView haber akisina gider:
+Bot haberleri ana TradingView haber akisindan okur:
 
 ```text
 https://tr.tradingview.com/news-flow/
+```
+
+Telegram bildirimindeki link ise ilgili haberin kendi TradingView detay sayfasina gider.
+
+Bot `tv_news_cache.json` icinde en son gorulen haber linkini `last_seen_key` olarak saklar.
+
+Ilk calistirmada eski haber seli olmasin diye mesaj gondermez; sadece ana akistaki en ust haberi referans alir.
+
+Sonraki calismalarda ana akista bu son gorulen haberin ustune gelen yeni haberleri Telegram'a gonderir.
+
+Cache formati:
+
+```text
+{
+  "last_seen_key": "...",
+  "seen_keys": []
+}
 ```
