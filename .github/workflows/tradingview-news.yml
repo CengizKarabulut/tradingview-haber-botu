@@ -239,6 +239,8 @@ jobs:
                           if (line.length < 12) return true;
                           if (skipTextParts.some((part) => lower.includes(part))) return true;
                           if (/^(\\d+\\s*(dk|sa|saat|gun|gün)|\\d{1,2}:\\d{2})/i.test(lower)) return true;
+                          if (/\\b(dakika|saat|gün|gun)\\s+önce\\b/i.test(lower)) return true;
+                          if (/\\b(dakika|saat|gün|gun)\\s+once\\b/i.test(lower)) return true;
                           if (/^(borsa|kripto|forex|vadeli|tahvil|ekonomi|piyasa|haberler)$/i.test(lower)) return true;
                           if (/^(reuters|beincrypto|matriks|foreks|kap|tradingview)$/i.test(lower)) return true;
                           return false;
@@ -253,6 +255,10 @@ jobs:
                           }
                           return lines;
                       };
+                      const elementCandidates = (element, provider, weight) => {
+                          if (!element) return [];
+                          return collectLines(element.innerText || element.textContent || "", weight, provider);
+                      };
                       const scoreLine = (candidate, provider) => {
                           let score = candidate.weight * 1000;
                           score += Math.min(candidate.line.length, 150);
@@ -261,6 +267,43 @@ jobs:
                               score -= 500;
                           }
                           return score;
+                      };
+                      const findNewsRow = (anchor, provider) => {
+                          let node = anchor;
+                          while (node && node.nodeType === Node.ELEMENT_NODE && node !== document.body && node !== document.documentElement) {
+                              const rect = node.getBoundingClientRect();
+                              const candidates = elementCandidates(node, provider, 1);
+                              const looksLikeRow =
+                                  rect.width >= 260 &&
+                                  rect.height >= 28 &&
+                                  rect.height <= 170 &&
+                                  candidates.length > 0;
+                              if (looksLikeRow) return node;
+                              node = node.parentElement;
+                          }
+                          return null;
+                      };
+                      const pickTitle = (anchor, row, provider) => {
+                          const candidates = [];
+                          candidates.push(...collectLines(anchor.getAttribute("aria-label"), 6, provider));
+                          candidates.push(...collectLines(anchor.getAttribute("title"), 6, provider));
+                          candidates.push(...elementCandidates(anchor, provider, 5));
+
+                          if (row) {
+                              const titleNodes = Array.from(row.querySelectorAll(
+                                  '[class*="title"], [class*="Title"], [class*="headline"], [class*="Headline"], h1, h2, h3'
+                              ));
+                              for (const node of titleNodes) {
+                                  candidates.push(...elementCandidates(node, provider, 4));
+                              }
+                              candidates.push(...elementCandidates(row, provider, 2));
+                          }
+
+                          if (!candidates.length) return "";
+                          candidates.sort((a, b) => scoreLine(b, provider) - scoreLine(a, provider));
+                          let title = candidates[0].line;
+                          if (title.length > 220) title = title.slice(0, 217).trim() + "...";
+                          return title;
                       };
 
                       const anchors = Array.from(document.querySelectorAll('a[href*="/news/"]'));
@@ -272,38 +315,14 @@ jobs:
                           if (!isArticleLink(link)) continue;
                           const provider = providerFromLink(link);
 
-                          const card = anchor.closest(
-                              'article, [data-testid*="news"], div[class*="story"], div[class*="Story"], div[class*="card"], div[class*="Card"], div[class*="item"], div[class*="Item"]'
-                          ) || anchor.parentElement;
-
-                          const candidates = [];
-                          candidates.push(...collectLines(anchor.getAttribute("aria-label"), 5, provider));
-                          candidates.push(...collectLines(anchor.getAttribute("title"), 5, provider));
-                          candidates.push(...collectLines(anchor.innerText, 4, provider));
-
-                          const possibleTitleNodes = card
-                              ? Array.from(card.querySelectorAll('[class*="title"], [class*="Title"], [class*="headline"], [class*="Headline"], h1, h2, h3'))
-                              : [];
-                          for (const node of possibleTitleNodes) {
-                              candidates.push(...collectLines(node.innerText || node.textContent, 3, provider));
-                          }
-
-                          if (!candidates.length) {
-                              candidates.push(...collectLines(anchor.textContent, 2, provider));
-                          }
-                          if (!candidates.length && card) {
-                              candidates.push(...collectLines(card.innerText, 1, provider));
-                          }
-                          if (!candidates.length) continue;
-
-                          candidates.sort((a, b) => scoreLine(b, provider) - scoreLine(a, provider));
-                          let title = candidates[0].line;
-                          if (title.length > 220) title = title.slice(0, 217).trim() + "...";
+                          const row = findNewsRow(anchor, provider);
+                          const title = pickTitle(anchor, row, provider);
+                          if (!title) continue;
 
                           const dedupeKey = link.split(/[?#]/)[0];
                           if (seen.has(dedupeKey)) continue;
                           seen.add(dedupeKey);
-                          results.push({title, link, provider});
+                          results.push({title, link, provider, rowText: row ? clean(row.innerText || row.textContent || "").slice(0, 220) : ""});
                           if (results.length >= limit) break;
                       }
                       return results;
@@ -317,7 +336,7 @@ jobs:
 
               print(f"TradingView akistan bulunan haber sayisi: {len(found_news_links)}")
               for item in found_news_links[:10]:
-                  print(f"- {item['title']}")
+                  print(f"- {item['title']} | {item['link']}")
 
               if not found_news_links:
                   print("Haber bulunamadi; cache degistirilmeyecek.")
