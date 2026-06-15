@@ -26,10 +26,9 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Tarayici ve kutuphaneleri yukle
+      - name: Kutuphaneleri yukle
         run: |
-          pip install requests playwright
-          playwright install --with-deps chromium
+          pip install requests
 
       - name: TradingView haberlerini cek ve Telegram'a gonder
         shell: python
@@ -38,20 +37,26 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_MESSAGE_THREAD_ID: ${{ secrets.TELEGRAM_MESSAGE_THREAD_ID }}
         run: |
-          from playwright.sync_api import sync_playwright
           import html
           import json
           import os
           import re
           import time
-          from urllib.parse import urlparse, urlunparse
+          from urllib.parse import urljoin, urlparse, urlunparse
 
           import requests
 
           TV_BASE_URL = "https://tr.tradingview.com"
           TV_NEWS_URL = "https://tr.tradingview.com/news-flow/"
+          NEWS_API_URL = "https://news-mediator.tradingview.com/public/news-flow/v2/news"
+          NEWS_API_PARAMS = {
+              "filter": "lang:tr",
+              "client": "screener",
+              "user_prostatus": "free",
+          }
           CACHE_FILE = "tv_news_cache.json"
-          NEWS_LIMIT = 100
+          SOURCE_VERSION = "tradingview-news-mediator-v2"
+          NEWS_LIMIT = 200
           CACHE_LIMIT = 500
           PER_RUN_SEND_LIMIT = 100
 
@@ -92,7 +97,7 @@ jobs:
               return result
 
           def load_state(path):
-              state = {"last_seen_key": "", "seen_keys": []}
+              state = {"source_version": "", "last_seen_key": "", "seen_keys": []}
               if not os.path.exists(path):
                   return state
               try:
@@ -102,6 +107,9 @@ jobs:
                   return state
 
               if isinstance(data, dict):
+                  source_version = data.get("source_version")
+                  if isinstance(source_version, str):
+                      state["source_version"] = source_version.strip()
                   seen_keys = data.get("seen_keys", [])
                   if isinstance(seen_keys, list):
                       state["seen_keys"] = [
@@ -136,6 +144,7 @@ jobs:
               with open(CACHE_FILE, "w", encoding="utf-8") as f:
                   json.dump(
                       {
+                          "source_version": SOURCE_VERSION,
                           "last_seen_key": last_seen_key,
                           "seen_keys": unique_keys(keys),
                       },
@@ -145,9 +154,70 @@ jobs:
                   )
 
           cache_state = load_state(CACHE_FILE)
-          old_news = cache_state["seen_keys"]
-          last_seen_key = cache_state["last_seen_key"]
+          if cache_state["source_version"] != SOURCE_VERSION:
+              print("Cache veri kaynagi eski veya farkli; eski haberleri gondermemek icin sadece yeni referans alinacak.")
+              old_news = []
+              last_seen_key = ""
+          else:
+              old_news = cache_state["seen_keys"]
+              last_seen_key = cache_state["last_seen_key"]
           old_news_set = set(old_news)
+
+          def fetch_news_flow():
+              headers = {
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                  "Accept": "application/json",
+                  "Origin": TV_BASE_URL,
+                  "Referer": TV_NEWS_URL,
+              }
+              response = requests.get(
+                  NEWS_API_URL,
+                  params=NEWS_API_PARAMS,
+                  headers=headers,
+                  timeout=20,
+              )
+              response.raise_for_status()
+
+              data = response.json()
+              items = data.get("items", [])
+              if not isinstance(items, list):
+                  return []
+
+              found = []
+              for item in items:
+                  if not isinstance(item, dict):
+                      continue
+
+                  title = normalize_space(item.get("title"))
+                  story_path = normalize_space(
+                      item.get("storyPath")
+                      or item.get("story_path")
+                      or item.get("url")
+                  )
+                  if not title or not story_path:
+                      continue
+
+                  link = story_path if story_path.startswith("http") else urljoin(TV_BASE_URL, story_path)
+                  provider = item.get("provider") or {}
+                  provider_name = ""
+                  if isinstance(provider, dict):
+                      provider_name = normalize_space(provider.get("name") or provider.get("id"))
+                  elif isinstance(provider, str):
+                      provider_name = normalize_space(provider)
+
+                  found.append(
+                      {
+                          "title": title,
+                          "link": link,
+                          "provider": provider_name,
+                          "published": item.get("published"),
+                          "id": normalize_space(item.get("id")),
+                      }
+                  )
+                  if len(found) >= NEWS_LIMIT:
+                      break
+
+              return found
 
           def send_telegram(text):
               tg_url = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -168,218 +238,53 @@ jobs:
               if response.status_code >= 400:
                   raise RuntimeError(f"Telegram hata verdi: {response.status_code} {response.text[:300]}")
 
-          with sync_playwright() as p:
-              print(f"TradingView haber akisi aciliyor: {TV_NEWS_URL}")
-              browser = p.chromium.launch(headless=True)
-              context = browser.new_context(
-                  user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                  viewport={"width": 1920, "height": 1080},
-                  locale="tr-TR",
-                  timezone_id="Europe/Istanbul",
-              )
-              page = context.new_page()
+          print(f"TradingView haber API aciliyor: {NEWS_API_URL}")
+          found_news_links = fetch_news_flow()
 
-              try:
-                  page.goto(TV_NEWS_URL, timeout=45000, wait_until="domcontentloaded")
-                  page.wait_for_selector('a[href*="/news/"]', timeout=20000)
-                  for _ in range(8):
-                      page.mouse.wheel(0, 1000)
-                      page.wait_for_timeout(900)
-              except Exception as e:
-                  print(f"Sayfa tam yuklenmemis olabilir; eldeki DOM ile devam ediliyor: {e}")
+          print(f"TradingView akistan bulunan haber sayisi: {len(found_news_links)}")
+          for item in found_news_links[:10]:
+              provider = f" [{item['provider']}]" if item.get("provider") else ""
+              print(f"- {item['title']}{provider} | {item['link']}")
 
-              found_news_links = page.evaluate(
-                  """({baseUrl, skipTextParts, limit}) => {
-                      const results = [];
-                      const seen = new Set();
-                      const clean = (value) => (value || "").replace(/\\s+/g, " ").trim();
-                      const providerFromLink = (link) => {
-                          const path = new URL(link, baseUrl).pathname;
-                          const match = path.match(/^\\/news\\/([^:]+):/i);
-                          if (!match) return "";
-                          const raw = match[1]
-                              .replace(/\\.com.*$/i, "")
-                              .replace(/[^a-z0-9]+/gi, " ")
-                              .trim();
-                          if (!raw) return "";
-                          return raw
-                              .split(" ")
-                              .map((part) => part ? part[0].toUpperCase() + part.slice(1).toLowerCase() : "")
-                              .join(" ");
-                      };
-                      const stripProviderPrefix = (title, provider) => {
-                          let value = clean(title);
-                          if (!provider) return value;
-                          const variants = [
-                              provider,
-                              provider.replace(/\\s+/g, ""),
-                              provider.split(" ")[0],
-                          ].filter(Boolean);
-                          for (const variant of variants) {
-                              const lowerValue = value.toLocaleLowerCase("tr-TR");
-                              const lowerVariant = variant.toLocaleLowerCase("tr-TR");
-                              if (lowerValue === lowerVariant) return "";
-                              if (lowerValue.startsWith(lowerVariant) && value.length > variant.length + 8) {
-                                  value = value.slice(variant.length).replace(/^\\s*[:|\\-–—]?\\s*/, "");
-                              }
-                          }
-                          return value;
-                      };
-                      const articlePath = (link) => new URL(link, baseUrl).pathname;
-                      const isCategoryLink = (link) => {
-                          const path = articlePath(link);
-                          return /^\\/news\\/(markets|stocks|crypto|forex|futures|bonds|economy|all|authors)?\\/?$/i.test(path);
-                      };
-                      const isArticleLink = (link) => {
-                          const path = articlePath(link);
-                          return /^\\/news\\/[^/]+:[^/]+/i.test(path) && !isCategoryLink(link);
-                      };
-                      const isBadLine = (line) => {
-                          const lower = line.toLocaleLowerCase("tr-TR");
-                          if (line.length < 12) return true;
-                          if (skipTextParts.some((part) => lower.includes(part))) return true;
-                          if (/^(\\d+\\s*(dk|sa|saat|gun|gün)|\\d{1,2}:\\d{2})/i.test(lower)) return true;
-                          if (/\\b(dakika|saat|gün|gun)\\s+önce\\b/i.test(lower)) return true;
-                          if (/\\b(dakika|saat|gün|gun)\\s+once\\b/i.test(lower)) return true;
-                          if (/^(borsa|kripto|forex|vadeli|tahvil|ekonomi|piyasa|haberler)$/i.test(lower)) return true;
-                          if (/^(reuters|beincrypto|matriks|foreks|kap|tradingview)$/i.test(lower)) return true;
-                          return false;
-                      };
-                      const collectLines = (value, weight, provider) => {
-                          const lines = [];
-                          for (const part of String(value || "").split("\\n").map(clean)) {
-                              const line = stripProviderPrefix(part, provider);
-                              if (!isBadLine(line)) {
-                                  lines.push({line, weight});
-                              }
-                          }
-                          return lines;
-                      };
-                      const elementCandidates = (element, provider, weight) => {
-                          if (!element) return [];
-                          return collectLines(element.innerText || element.textContent || "", weight, provider);
-                      };
-                      const scoreLine = (candidate, provider) => {
-                          let score = candidate.weight * 1000;
-                          score += Math.min(candidate.line.length, 150);
-                          score -= Math.max(0, candidate.line.length - 180) * 3;
-                          if (provider && candidate.line.toLocaleLowerCase("tr-TR").startsWith(provider.toLocaleLowerCase("tr-TR"))) {
-                              score -= 500;
-                          }
-                          return score;
-                      };
-                      const findNewsRow = (anchor, provider) => {
-                          let node = anchor;
-                          while (node && node.nodeType === Node.ELEMENT_NODE && node !== document.body && node !== document.documentElement) {
-                              const rect = node.getBoundingClientRect();
-                              const candidates = elementCandidates(node, provider, 1);
-                              const looksLikeRow =
-                                  rect.width >= 260 &&
-                                  rect.height >= 28 &&
-                                  rect.height <= 170 &&
-                                  candidates.length > 0;
-                              if (looksLikeRow) return node;
-                              node = node.parentElement;
-                          }
-                          return null;
-                      };
-                      const pickTitle = (anchor, row, provider) => {
-                          const candidates = [];
-                          candidates.push(...collectLines(anchor.getAttribute("aria-label"), 6, provider));
-                          candidates.push(...collectLines(anchor.getAttribute("title"), 6, provider));
-                          candidates.push(...elementCandidates(anchor, provider, 5));
+          if not found_news_links:
+              print("Haber bulunamadi; cache degistirilmeyecek.")
+              raise SystemExit(0)
 
-                          if (row) {
-                              const titleNodes = Array.from(row.querySelectorAll(
-                                  '[class*="title"], [class*="Title"], [class*="headline"], [class*="Headline"], h1, h2, h3'
-                              ));
-                              for (const node of titleNodes) {
-                                  candidates.push(...elementCandidates(node, provider, 4));
-                              }
-                              candidates.push(...elementCandidates(row, provider, 2));
-                          }
+          current_keys = [news_key(news) for news in found_news_links]
+          latest_key = current_keys[0]
 
-                          if (!candidates.length) return "";
-                          candidates.sort((a, b) => scoreLine(b, provider) - scoreLine(a, provider));
-                          let title = candidates[0].line;
-                          if (title.length > 220) title = title.slice(0, 217).trim() + "...";
-                          return title;
-                      };
-
-                      const anchors = Array.from(document.querySelectorAll('a[href*="/news/"]'));
-                      for (const anchor of anchors) {
-                          const href = anchor.getAttribute("href") || "";
-                          if (!href) continue;
-
-                          const link = href.startsWith("http") ? href : new URL(href, baseUrl).href;
-                          if (!isArticleLink(link)) continue;
-                          const provider = providerFromLink(link);
-
-                          const row = findNewsRow(anchor, provider);
-                          const title = pickTitle(anchor, row, provider);
-                          if (!title) continue;
-
-                          const dedupeKey = link.split(/[?#]/)[0];
-                          if (seen.has(dedupeKey)) continue;
-                          seen.add(dedupeKey);
-                          results.push({title, link, provider, rowText: row ? clean(row.innerText || row.textContent || "").slice(0, 220) : ""});
-                          if (results.length >= limit) break;
-                      }
-                      return results;
-                  }""",
-                  {
-                      "baseUrl": TV_BASE_URL,
-                      "skipTextParts": ["giris yap", "giriş yap", "premium", "ozel haber", "özel haber"],
-                      "limit": NEWS_LIMIT,
-                  },
-              )
-
-              print(f"TradingView akistan bulunan haber sayisi: {len(found_news_links)}")
-              for item in found_news_links[:10]:
-                  print(f"- {item['title']} | {item['link']}")
-
-              if not found_news_links:
-                  print("Haber bulunamadi; cache degistirilmeyecek.")
-                  browser.close()
-                  raise SystemExit(0)
-
-              current_keys = [news_key(news) for news in found_news_links]
-              latest_key = current_keys[0]
-
-              if not last_seen_key:
-                  news_to_process = []
-                  print("Ilk calistirma: en ustteki haber referans alindi; eski haberler gonderilmeyecek.")
-              elif last_seen_key in current_keys:
-                  cutoff_index = current_keys.index(last_seen_key)
+          if not last_seen_key:
+              news_to_process = []
+              print("Ilk calistirma: en ustteki haber referans alindi; eski haberler gonderilmeyecek.")
+          elif last_seen_key in current_keys:
+              cutoff_index = current_keys.index(last_seen_key)
+              news_to_process = list(reversed(found_news_links[:cutoff_index]))[:PER_RUN_SEND_LIMIT]
+              print(f"Son gorulen haber bulundu. Yeni haber sayisi: {cutoff_index}")
+          else:
+              seen_indexes = [
+                  index
+                  for index, key in enumerate(current_keys)
+                  if key in old_news_set
+              ]
+              if seen_indexes:
+                  cutoff_index = min(seen_indexes)
                   news_to_process = list(reversed(found_news_links[:cutoff_index]))[:PER_RUN_SEND_LIMIT]
-                  print(f"Son gorulen haber bulundu. Yeni haber sayisi: {cutoff_index}")
+                  print(f"Son gorulen haber listede yok, ama daha once gorulmus bir haber bulundu. Yeni haber sayisi: {cutoff_index}")
               else:
-                  seen_indexes = [
-                      index
-                      for index, key in enumerate(current_keys)
-                      if key in old_news_set
-                  ]
-                  if seen_indexes:
-                      cutoff_index = min(seen_indexes)
-                      news_to_process = list(reversed(found_news_links[:cutoff_index]))[:PER_RUN_SEND_LIMIT]
-                      print(f"Son gorulen haber listede yok, ama daha once gorulmus bir haber bulundu. Yeni haber sayisi: {cutoff_index}")
-                  else:
-                      news_to_process = []
-                      print("Son gorulen haber akista bulunamadi; eski haberleri tekrar atmamak icin sadece yeni referans alinacak.")
+                  news_to_process = []
+                  print("Son gorulen haber akista bulunamadi; eski haberleri tekrar atmamak icin sadece yeni referans alinacak.")
 
-              for news in news_to_process:
-                  print(f"Gonderiliyor: {news['title'][:90]}")
-                  safe_title = html.escape(news["title"])
-                  safe_news_link = html.escape(news["link"], quote=True)
-                  message = (
-                      f"<b>{safe_title}</b>\n\n"
-                      f"<a href=\"{safe_news_link}\">TradingView'de oku</a>"
-                  )
+          for news in news_to_process:
+              print(f"Gonderiliyor: {news['title'][:90]}")
+              safe_title = html.escape(news["title"])
+              safe_news_link = html.escape(news["link"], quote=True)
+              message = (
+                  f"<b>{safe_title}</b>\n\n"
+                  f"<a href=\"{safe_news_link}\">TradingView'de oku</a>"
+              )
 
-                  send_telegram(message)
-                  time.sleep(2)
-
-              browser.close()
+              send_telegram(message)
+              time.sleep(2)
 
           save_state(latest_key, current_keys + old_news)
           print("TradingView haber cache'i guncellendi.")
