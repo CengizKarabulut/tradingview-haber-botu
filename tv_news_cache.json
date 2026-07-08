@@ -1,7 +1,14 @@
 {
   "source_version": "tradingview-news-mediator-v2",
+<<<<<<< Updated upstream
   "last_seen_key": "https://tr.tradingview.com/news/matriks:6578733:0",
   "seen_keys": [
+=======
+  "last_seen_key": "https://tr.tradingview.com/news/fxstreet:e3d1fac11d9e8:0",
+  "seen_keys": [
+    "https://tr.tradingview.com/news/fxstreet:e3d1fac11d9e8:0",
+    "https://tr.tradingview.com/news/matriks:6578775:0",
+>>>>>>> Stashed changes
     "https://tr.tradingview.com/news/matriks:6578733:0",
     "https://tr.tradingview.com/news/matriks:6578725:0",
     "https://tr.tradingview.com/news/matriks:6578716:0",
@@ -499,8 +506,12 @@
     "https://tr.tradingview.com/news/fxstreet:86ef2b9d2d9e8:0",
     "https://tr.tradingview.com/news/fxstreet:251b6bbc3d9e8:0",
     "https://tr.tradingview.com/news/fxstreet:01ab5635ed9e8:0",
+<<<<<<< Updated upstream
     "https://tr.tradingview.com/news/fxstreet:75cf7ff00d9e8:0",
     "https://tr.tradingview.com/news/beincrypto:89fe81ff6d9e8:0",
     "https://tr.tradingview.com/news/fxstreet:64899dc91d9e8:0"
+=======
+    "https://tr.tradingview.com/news/fxstreet:75cf7ff00d9e8:0"
+>>>>>>> Stashed changes
   ]
 }
