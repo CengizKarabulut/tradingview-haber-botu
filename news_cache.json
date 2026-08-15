@@ -163,8 +163,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/trex-svp-amy-fernandez-52572-dolarlk-hisse-satt-93CH-4031801",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/cdwnin-ticari-direktoru-connelly-367-milyon-dolarlk-hisse-satt-93CH-4031802",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/cdwnin-ticari-direktoru-connelly-367-milyon-dolarlk-hisse-satt-93CH-4031802",
         "investing:https://tr.investing.com/news/insider-trading-news/trex-svp-amy-fernandez-52572-dolarlk-hisse-satt-93CH-4031801",
         "investing:https://tr.investing.com/news/insider-trading-news/hii-ceosu-kastner-425-milyon-dolarlk-hisse-satt-93CH-4031800",
         "investing:https://tr.investing.com/news/insider-trading-news/koppers-cao-bradley-pearce-102020-dolarlk-hisse-satt-93CH-4031798",
@@ -174,7 +175,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/nvidiann-500-milyar-dolarlk-yatrm-hamlesi-neden-olumlu-4031795",
         "investing:https://tr.investing.com/news/insider-trading-news/atmos-energy-yoneticisi-william-ware-50278-dolarlk-hisse-ald-93CH-4031793",
         "investing:https://tr.investing.com/news/insider-trading-news/home-bancshares-yoneticisi-jim-rankin-462966-dolar-degerinde-hisse-satt-93CH-4031792",
-        "investing:https://tr.investing.com/news/stock-market-news/nvidia-ohiodaki-yapay-zeka-veri-merkezi-icin-sb-energyye-3-milyar-dolar-yatrm-degerlendiriyor-4031791",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -195,6 +195,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/stock-market-news/nvidia-ohiodaki-yapay-zeka-veri-merkezi-icin-sb-energyye-3-milyar-dolar-yatrm-degerlendiriyor-4031791",
         "investing:https://tr.investing.com/news/insider-trading-news/kestra-medical-technologies-ceosu-692214-dolar-degerinde-hisse-satt-93CH-4031789",
         "investing:https://tr.investing.com/news/insider-trading-news/cactus-ceosu-scott-bender-499-milyon-dolarlk-hisse-satt-93CH-4031787",
         "investing:https://tr.investing.com/news/insider-trading-news/equinix-yoneticisi-christopher-paisley-408-milyon-dolarlk-hisse-satt-93CH-4031788",
@@ -442,6 +443,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "cdw nin ticari direktoru connelly 3 67 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/cdwnin-ticari-direktoru-connelly-367-milyon-dolarlk-hisse-satt-93CH-4031802"
+    },
     {
       "source": "investing",
       "text": "trex svp amy fernandez 52 572 dolarl k hisse satt",
