@@ -1,4 +1,4 @@
-"""TradingView, Bloomberg HT ve KAP haberlerini Telegram'a gönderir."""
+"""KAP, ekonomi haberleri ve forex takvim olaylarını Telegram'a gönderir."""
 
 import html
 import json
@@ -22,15 +22,22 @@ BHT_BASE = "https://www.bloomberght.com"
 BHT_LIST = f"{BHT_BASE}/tumhaberler"
 KAP_BASE = "https://www.kap.org.tr"
 KAP_API = f"{KAP_BASE}/tr/api/disclosure/members/byCriteria"
+FOREX_FACTORY_CALENDAR = "https://www.forexfactory.com/calendar"
+FOREX_FACTORY_API = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
+FOREX_CURRENCIES = {"USD", "EUR", "GBP", "JPY", "TRY", "CHF", "CAD", "AUD", "NZD"}
+FOREX_ALERT_MINUTES = int(os.getenv("FOREX_ALERT_MINUTES", "75"))
 SOURCE_LABELS = {
     "kap": "KAP",
     "bloomberght": "Bloomberg HT",
+    "forexfactory": "Forex Factory Takvimi",
     "investing": "Investing.com Türkiye",
     "ntvpara": "NTV Para",
     "trthaber": "TRT Haber Ekonomi",
     "tradingview": "TradingView",
 }
-SOURCE_PRIORITY = ["kap", "bloomberght", "investing", "ntvpara", "trthaber", "tradingview"]
+SOURCE_PRIORITY = [
+    "kap", "bloomberght", "forexfactory", "investing", "ntvpara", "trthaber", "tradingview"
+]
 RSS_FEEDS = {
     "investing": [
         "https://tr.investing.com/rss/news.rss",
@@ -40,7 +47,7 @@ RSS_FEEDS = {
     "ntvpara": ["https://www.ntv.com.tr/ntvpara.rss"],
     "trthaber": ["https://www.trthaber.com/ekonomi_articles.rss"],
 }
-SOURCE_VERSION = "multi-source-v2"
+SOURCE_VERSION = "multi-source-v3"
 
 CACHE_FILE = os.getenv("CACHE_FILE", "news_cache.json")
 NEWS_LIMIT = int(os.getenv("NEWS_LIMIT", "100"))
@@ -52,7 +59,7 @@ DRY_RUN = os.getenv("DRY_RUN", "").lower() in {"1", "true", "yes"}
 _requested_sources = {
     value.strip().lower()
     for value in os.getenv(
-        "NEWS_SOURCES", "kap,bloomberght,investing,ntvpara,trthaber,tradingview"
+        "NEWS_SOURCES", "kap,bloomberght,forexfactory,investing,ntvpara,trthaber,tradingview"
     ).split(",")
 }
 # Ortam değişkenindeki sıra ne olursa olsun güvenilir kaynak önceliğini koru.
@@ -102,6 +109,8 @@ def is_cross_source_duplicate(item, fingerprints):
         return False
     candidate_tokens = set(candidate.split())
     for previous in fingerprints:
+        if isinstance(previous, dict) and previous.get("source") == item.get("source"):
+            continue
         previous_text = previous.get("text", "") if isinstance(previous, dict) else clean(previous)
         if not previous_text:
             continue
@@ -180,6 +189,76 @@ def fetch_kap(session=requests):
         if len(found) >= NEWS_LIMIT:
             break
     return dedupe(found)
+
+
+def parse_iso_datetime(value):
+    try:
+        parsed = datetime.fromisoformat(clean(value).replace("Z", "+00:00"))
+        return parsed if parsed.tzinfo else parsed.replace(tzinfo=ZoneInfo("UTC"))
+    except (TypeError, ValueError):
+        return None
+
+
+def fetch_forex_factory(session=requests, now=None):
+    now = now or datetime.now(ZoneInfo("Europe/Istanbul"))
+    rows = None
+    for attempt in range(3):
+        response = session.get(
+            FOREX_FACTORY_API,
+            headers=headers(FOREX_FACTORY_CALENDAR, True),
+            timeout=25,
+        )
+        if getattr(response, "status_code", 200) == 429 and attempt < 2:
+            retry_after = clean(getattr(response, "headers", {}).get("Retry-After"))
+            delay = min(int(retry_after), 20) if retry_after.isdigit() else 5 * (attempt + 1)
+            print(f"Forex Factory hız sınırı; {delay} saniye sonra yeniden denenecek")
+            time.sleep(delay)
+            continue
+        response.raise_for_status()
+        rows = response.json()
+        break
+    if rows is None:
+        return []
+    found = []
+    for row in rows if isinstance(rows, list) else []:
+        currency = clean(row.get("country")).upper()
+        event_name = clean(row.get("title"))
+        event_time = parse_iso_datetime(row.get("date"))
+        impact = clean(row.get("impact")).lower()
+        if currency not in FOREX_CURRENCIES or not event_name or not event_time or impact != "high":
+            continue
+        minutes = (event_time.astimezone(ZoneInfo("UTC")) - now.astimezone(ZoneInfo("UTC"))).total_seconds() / 60
+        actual = clean(row.get("actual"))
+        if 0 <= minutes <= FOREX_ALERT_MINUTES:
+            phase = "upcoming"
+            provider = "Yaklaşan yüksek etkili olay"
+            timing = f"Yaklaşık {max(1, round(minutes))} dakika sonra"
+        elif -30 <= minutes < 0 and actual:
+            phase = "released"
+            provider = "Yüksek etkili veri açıklandı"
+            timing = "Yeni açıklandı"
+        else:
+            continue
+        values = [timing, "Etki: Yüksek"]
+        for label, value in (
+            ("Açıklanan", actual),
+            ("Beklenti", clean(row.get("forecast"))),
+            ("Önceki", clean(row.get("previous"))),
+        ):
+            if value:
+                values.append(f"{label}: {value}")
+        event_id = f"{phase}:{currency}:{event_time.isoformat()}:{event_name.lower()}"
+        found.append(blank_item(
+            "forexfactory",
+            f"{currency} — {event_name}",
+            FOREX_FACTORY_CALENDAR,
+            id=event_id,
+            provider=provider,
+            published=event_time.isoformat(),
+            summary=" · ".join(values),
+            category="Ekonomik Takvim",
+        ))
+    return dedupe(sorted(found, key=lambda item: item["published"]))
 
 
 def fetch_bloomberght(session=requests):
@@ -312,7 +391,7 @@ def meta(soup, *selectors):
 
 
 def enrich(item, session=requests):
-    if item["source"] == "tradingview":
+    if item["source"] in {"tradingview", "forexfactory"}:
         return item
     response = session.get(item["link"], headers=headers(), timeout=30)
     response.raise_for_status()
@@ -350,6 +429,7 @@ def enrich(item, session=requests):
 FETCHERS = {
     "kap": fetch_kap,
     "bloomberght": fetch_bloomberght,
+    "forexfactory": fetch_forex_factory,
     "investing": lambda session=requests: fetch_rss_source("investing", session),
     "ntvpara": lambda session=requests: fetch_rss_source("ntvpara", session),
     "trthaber": lambda session=requests: fetch_rss_source("trthaber", session),
@@ -393,6 +473,9 @@ def format_date(value):
     if isinstance(value, (int, float)):
         value = value / 1000 if value > 10_000_000_000 else value
         return time.strftime("%d.%m.%Y %H:%M", time.localtime(value))
+    parsed = parse_iso_datetime(value)
+    if parsed:
+        return parsed.astimezone(ZoneInfo("Europe/Istanbul")).strftime("%d.%m.%Y %H:%M")
     return clean(value).replace("T", " ").replace("Z", " UTC")
 
 
@@ -462,8 +545,16 @@ def main():
         if not items:
             continue
         source_state = state["sources"].setdefault(source, {"last_seen_key": "", "seen_keys": []})
-        candidates, current_keys = select_new(items, source_state)
-        if not source_state["last_seen_key"] or (not candidates and source_state["last_seen_key"] not in current_keys):
+        if source == "forexfactory":
+            current_keys = [item_key(item) for item in items]
+            seen = set(source_state.get("seen_keys", []))
+            candidates = [item for item in items if item_key(item) not in seen]
+        else:
+            candidates, current_keys = select_new(items, source_state)
+        if source != "forexfactory" and (
+            not source_state["last_seen_key"]
+            or (not candidates and source_state["last_seen_key"] not in current_keys)
+        ):
             source_state.update({"last_seen_key": current_keys[0], "seen_keys": current_keys[:500]})
             print(f"{SOURCE_LABELS[source]} başlangıç referansı alındı; eski haberler gönderilmedi")
             continue

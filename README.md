@@ -6,14 +6,20 @@ KAP bildirimlerini ve Türkçe ekonomi/piyasa haberlerini öncelik sırasıyla T
 
 1. KAP (resmî şirket bildirimleri)
 2. Bloomberg HT
-3. Investing.com Türkiye (genel, forex ve hisse RSS akışları)
-4. NTV Para
-5. TRT Haber Ekonomi
-6. TradingView
+3. Forex Factory ekonomik takvimi (yüksek etkili olaylar)
+4. Investing.com Türkiye (genel, forex ve hisse RSS akışları)
+5. NTV Para
+6. TRT Haber Ekonomi
+7. TradingView
 
 Kaynak sırası sabittir; `NEWS_SOURCES` farklı sırada verilse de bot bu güven sırasını korur.
 Foreks'in herkese açık RSS adresi otomatik istemcilere `403` döndürdüğü için kırılgan bir kazıyıcı
 eklenmemiştir.
+
+Forex Factory takvimi yaklaşan yüksek etkili USD, EUR, GBP, JPY, TRY, CHF, CAD, AUD ve NZD
+olaylarını varsayılan olarak 75 dakika öncesinden bildirir. Akış gerçekleşen değer sağlıyorsa
+açıklanan, beklenti ve önceki değerler ayrıca gönderilir. Olayın yaklaşma ve açıklanma bildirimleri
+ayrı kimliklerle takip edildiği için aynı aşama tekrar gönderilmez.
 
 KAP sorgu yapısı için MIT lisanslı
 [`pykap`](https://github.com/cemsinano/pykap) ve
@@ -48,7 +54,8 @@ TELEGRAM_MESSAGE_THREAD_ID
 ## İsteğe bağlı ortam değişkenleri
 
 ```text
-NEWS_SOURCES=kap,bloomberght,investing,ntvpara,trthaber,tradingview
+NEWS_SOURCES=kap,bloomberght,forexfactory,investing,ntvpara,trthaber,tradingview
+FOREX_ALERT_MINUTES=75
 NEWS_LIMIT=100
 PER_RUN_SEND_LIMIT=30
 DETAIL_MAX_CHARS=1800
