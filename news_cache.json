@@ -106,8 +106,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/katar-iranli-pilotlarin-esir-alindigi-iddialarini-reddetti-3785643",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-16082026-3785644",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-16082026-3785644",
         "bloomberght:https://www.bloomberght.com/katar-iranli-pilotlarin-esir-alindigi-iddialarini-reddetti-3785643",
         "bloomberght:https://www.bloomberght.com/erdogan-trump-in-f-35-sozunu-tutmasini-bekliyorum-3785642",
         "bloomberght:https://www.bloomberght.com/ingiltere-den-kurakliktan-etkilenen-ciftcilere-65-milyon-sterlin-ek-destek-3785641",
@@ -162,8 +163,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/atmos-energy-yoneticisi-william-ware-50278-dolarlk-hisse-ald-93CH-4031793",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/nvidiann-500-milyar-dolarlk-yatrm-hamlesi-neden-olumlu-4031795",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/nvidiann-500-milyar-dolarlk-yatrm-hamlesi-neden-olumlu-4031795",
         "investing:https://tr.investing.com/news/insider-trading-news/atmos-energy-yoneticisi-william-ware-50278-dolarlk-hisse-ald-93CH-4031793",
         "investing:https://tr.investing.com/news/insider-trading-news/home-bancshares-yoneticisi-jim-rankin-462966-dolar-degerinde-hisse-satt-93CH-4031792",
         "investing:https://tr.investing.com/news/stock-market-news/nvidia-ohiodaki-yapay-zeka-veri-merkezi-icin-sb-energyye-3-milyar-dolar-yatrm-degerlendiriyor-4031791",
@@ -173,7 +175,6 @@
         "investing:https://tr.investing.com/news/economy-news/israilin-guney-lubnandaki-saldrlarnda-en-az-11-kisi-oldu-4031785",
         "investing:https://tr.investing.com/news/insider-trading-news/kestra-medical-technologies-yoneticisi-traci-umberger-512791-dolar-satt-93CH-4031783",
         "investing:https://tr.investing.com/news/insider-trading-news/kestra-medical-technologies-cco-642-bin-dolarlk-hisse-satt-93CH-4031782",
-        "investing:https://tr.investing.com/news/insider-trading-news/cactus-baskan-joel-bender-499-milyon-dolarlk-hisse-satt-93CH-4031781",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +195,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/cactus-baskan-joel-bender-499-milyon-dolarlk-hisse-satt-93CH-4031781",
         "investing:https://tr.investing.com/news/insider-trading-news/kestra-medical-cfosu-418217-dolarlk-hisse-satt-93CH-4031780",
         "investing:https://tr.investing.com/news/insider-trading-news/cavco-industries-yoneticisi-lisa-daniels-17098-dolar-hisse-satt-93CH-4031779",
         "investing:https://tr.investing.com/news/insider-trading-news/thrivent-financial-gloo-holdings-hisselerinden-93387-dolar-satt-93CH-4031778",
@@ -434,6 +436,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "nvidia n n 500 milyar dolarl k yat r m hamlesi neden olumlu",
+      "link": "https://tr.investing.com/news/stock-market-news/nvidiann-500-milyar-dolarlk-yatrm-hamlesi-neden-olumlu-4031795"
+    },
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 16 08 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-16082026-3785644"
+    },
     {
       "source": "investing",
       "text": "atmos energy yoneticisi william ware 50 278 dolarl k hisse ald",
