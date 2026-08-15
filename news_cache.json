@@ -160,8 +160,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/general-dynamics-yoneticisi-peter-wall-788897-dolar-degerinde-hisse-satt-93CH-4031765",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/nuveen-amtfree-belediye-tahvil-fonu-portfoy-yoneticisi-62250-dolar-degerinde-hisse-satt-93CH-4031768",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/nuveen-amtfree-belediye-tahvil-fonu-portfoy-yoneticisi-62250-dolar-degerinde-hisse-satt-93CH-4031768",
         "investing:https://tr.investing.com/news/insider-trading-news/general-dynamics-yoneticisi-peter-wall-788897-dolar-degerinde-hisse-satt-93CH-4031765",
         "investing:https://tr.investing.com/news/stock-market-news/sp-500-rallisinin-altnda-performans-ve-temellerden-kopus-4031767",
         "investing:https://tr.investing.com/news/insider-trading-news/wesbanco-evp-ve-cco-robert-friend-252-bin-dolarlk-hisse-satt-93CH-4031764",
@@ -171,7 +172,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/hrt-financial-lp-10-hissedar-36816-dolar-degerinde-hisse-satt-93CH-4031758",
         "investing:https://tr.investing.com/news/insider-trading-news/bank-of-the-james-baskan-2705-dolar-degerinde-hisse-ald-93CH-4031757",
         "investing:https://tr.investing.com/news/insider-trading-news/hrt-financial-lp-maison-solutions-hisselerini-6103-dolara-satt-93CH-4031756",
-        "investing:https://tr.investing.com/news/insider-trading-news/axogen-yoneticisi-amy-wendell-646-bin-dolarlk-hisse-satt-93CH-4031753",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -192,6 +192,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/axogen-yoneticisi-amy-wendell-646-bin-dolarlk-hisse-satt-93CH-4031753",
         "investing:https://tr.investing.com/news/insider-trading-news/finance-of-america-cio-prahm-130402-dolarlk-foa-hissesi-satt-93CH-4031752",
         "investing:https://tr.investing.com/news/insider-trading-news/merck-evp-deluca-59-milyon-dolarlk-hisse-satt-93CH-4031751",
         "investing:https://tr.investing.com/news/insider-trading-news/celanese-svp-murray-98004-dolarlk-adi-hisse-senedi-satn-ald-93CH-4031750",
@@ -340,6 +341,7 @@
         "tradingview:fxstreet:1668bb34ed9e8:0",
         "tradingview:matriks:6673911:0",
         "tradingview:beincrypto:af0c88195d9e8:0",
+        "tradingview:matriks:6673886:0",
         "tradingview:matriks:6673864:0",
         "tradingview:fxstreet:9135d8b88d9e8:0",
         "tradingview:fxstreet:1bcd15a9ed9e8:0",
@@ -407,6 +409,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "nuveen amt free belediye tahvil fonu portfoy yoneticisi 62 250 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/nuveen-amtfree-belediye-tahvil-fonu-portfoy-yoneticisi-62250-dolar-degerinde-hisse-satt-93CH-4031768"
+    },
     {
       "source": "investing",
       "text": "general dynamics yoneticisi peter wall 788 897 dolar degerinde hisse satt",
