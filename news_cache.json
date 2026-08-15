@@ -160,18 +160,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/samsara-ceosu-sanjit-biswas-101-milyon-dolarlk-hisse-satt-93CH-4031774",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/thrivent-financial-gloo-holdings-hisselerinden-93387-dolar-satt-93CH-4031778",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/thrivent-financial-gloo-holdings-hisselerinden-93387-dolar-satt-93CH-4031778",
+        "investing:https://tr.investing.com/news/insider-trading-news/kestra-medical-cbo-timothy-moran-348310-dolarlk-hisse-satt-93CH-4031777",
+        "investing:https://tr.investing.com/news/insider-trading-news/appfolio-yoneticisi-maurice-duca-16-milyon-dolarlk-hisse-satt-93CH-4031776",
+        "investing:https://tr.investing.com/news/insider-trading-news/ajb-investment-fund-ii-jewett-cameronda-9880-dolar-degerinde-hisse-ald-93CH-4031775",
         "investing:https://tr.investing.com/news/insider-trading-news/samsara-ceosu-sanjit-biswas-101-milyon-dolarlk-hisse-satt-93CH-4031774",
         "investing:https://tr.investing.com/news/insider-trading-news/curbline-properties-yoneticisi-alexander-otto-52-milyon-dolarlk-hisse-satt-93CH-4031773",
         "investing:https://tr.investing.com/news/insider-trading-news/otter-tail-ik-baskan-yardmcs-68159-dolar-degerinde-hisse-satt-93CH-4031772",
         "investing:https://tr.investing.com/news/insider-trading-news/compx-yoneticisi-ann-manix-a-snf-hisselerden-44395-dolar-satt-93CH-4031771",
         "investing:https://tr.investing.com/news/insider-trading-news/hb-fuller-yoneticisi-nathan-weaver-593-bin-dolarlk-hisse-satt-93CH-4031770",
         "investing:https://tr.investing.com/news/insider-trading-news/park-aerospace-ceosu-284-milyon-dolarlk-hisse-satt-93CH-4031769",
-        "investing:https://tr.investing.com/news/insider-trading-news/nuveen-amtfree-belediye-tahvil-fonu-portfoy-yoneticisi-62250-dolar-degerinde-hisse-satt-93CH-4031768",
-        "investing:https://tr.investing.com/news/insider-trading-news/general-dynamics-yoneticisi-peter-wall-788897-dolar-degerinde-hisse-satt-93CH-4031765",
-        "investing:https://tr.investing.com/news/stock-market-news/sp-500-rallisinin-altnda-performans-ve-temellerden-kopus-4031767",
-        "investing:https://tr.investing.com/news/insider-trading-news/wesbanco-evp-ve-cco-robert-friend-252-bin-dolarlk-hisse-satt-93CH-4031764",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -192,6 +192,10 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/nuveen-amtfree-belediye-tahvil-fonu-portfoy-yoneticisi-62250-dolar-degerinde-hisse-satt-93CH-4031768",
+        "investing:https://tr.investing.com/news/insider-trading-news/general-dynamics-yoneticisi-peter-wall-788897-dolar-degerinde-hisse-satt-93CH-4031765",
+        "investing:https://tr.investing.com/news/stock-market-news/sp-500-rallisinin-altnda-performans-ve-temellerden-kopus-4031767",
+        "investing:https://tr.investing.com/news/insider-trading-news/wesbanco-evp-ve-cco-robert-friend-252-bin-dolarlk-hisse-satt-93CH-4031764",
         "investing:https://tr.investing.com/news/insider-trading-news/citizens-inc-ceosu-jon-stenberg-43795-dolarlk-hisse-ald-93CH-4031763",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fund-hisselerinden-2260-dolar-ald-93CH-4031762",
         "investing:https://tr.investing.com/news/insider-trading-news/hrt-financial-profusa-hisselerini-2211-dolara-satt-93CH-4031759",
@@ -415,6 +419,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "thrivent financial gloo holdings hisselerinden 93 387 dolar satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/thrivent-financial-gloo-holdings-hisselerinden-93387-dolar-satt-93CH-4031778"
+    },
+    {
+      "source": "investing",
+      "text": "kestra medical cbo timothy moran 348 310 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/kestra-medical-cbo-timothy-moran-348310-dolarlk-hisse-satt-93CH-4031777"
+    },
+    {
+      "source": "investing",
+      "text": "appfolio yoneticisi maurice duca 1 6 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/appfolio-yoneticisi-maurice-duca-16-milyon-dolarlk-hisse-satt-93CH-4031776"
+    },
+    {
+      "source": "investing",
+      "text": "ajb investment fund ii jewett cameron 9 880 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/ajb-investment-fund-ii-jewett-cameronda-9880-dolar-degerinde-hisse-ald-93CH-4031775"
+    },
     {
       "source": "investing",
       "text": "samsara ceo su sanjit biswas 10 1 milyon dolarl k hisse satt",
