@@ -1,26 +1,27 @@
-# TradingView Haber Botu
+# KAP, Bloomberg HT ve TradingView Haber Botu
 
-TradingView genel haber akisindan gelen yeni haberleri Telegram'a gonderen GitHub Actions botu.
+Resmî KAP bildirimlerini, Bloomberg HT ekonomi haberlerini ve TradingView Türkçe haber akışını Telegram'a gönderir.
 
-Kaynak:
+## Kaynaklar
 
-```text
-https://tr.tradingview.com/news-flow/
-```
+- KAP: `https://www.kap.org.tr/tr/api/disclosure/members/byCriteria`
+- Bloomberg HT: `https://www.bloomberght.com/tumhaberler`
+- TradingView: `https://tr.tradingview.com/news-flow/`
 
-## Calisma sikligi
+KAP ana ve resmî şirket bildirimi kaynağıdır. KAP sorgu yapısı için MIT lisanslı
+[`pykap`](https://github.com/cemsinano/pykap) ve
+[`borsajs`](https://github.com/mesutpiskin/borsajs) projelerindeki güncel entegrasyon
+yaklaşımları referans alınmıştır. Bot bu paketleri bağımlılık olarak kurmaz.
 
-Bot GitHub Actions uzerinde 15 dakikada bir calisir.
+## Telegram mesajları
 
-```yaml
-cron: '*/15 * * * *'
-```
+Mesajlarda mümkün olduğunda kaynak, yayın zamanı, şirket, başlık, kısa özet,
+sınırlı haber ayrıntısı, KAP ek sayısı ve kaynak bağlantısı bulunur. Tam makaleler
+yeniden yayımlanmaz. Telegram bağlantı ve büyük görsel önizlemesi açıktır.
 
-Istersen GitHub Actions ekranindan elle de calistirabilirsin.
+## GitHub Secrets
 
-## Gerekli GitHub Secrets
-
-Repo ayarlarinda `Settings > Secrets and variables > Actions > New repository secret` bolumune su secret'lar eklenmeli:
+`Settings > Secrets and variables > Actions` altında:
 
 ```text
 TELEGRAM_TOKEN
@@ -28,40 +29,34 @@ TELEGRAM_CHAT_ID
 TELEGRAM_MESSAGE_THREAD_ID
 ```
 
-`TELEGRAM_TOKEN`, BotFather'dan aldigin bot tokenidir.
+`TELEGRAM_MESSAGE_THREAD_ID` yalnızca Telegram forum konusu kullanılıyorsa gereklidir.
 
-`TELEGRAM_CHAT_ID`, mesajlarin gidecegi grup veya kanal ID'sidir. Grup ID'leri genelde `-100...` ile baslar.
-
-`TELEGRAM_MESSAGE_THREAD_ID`, mesajlarin gidecegi Telegram konu ID'sidir. Konu kullanmiyorsan bos birakabilirsin.
-
-Bu bot icin paylasilan konu URL'sinden cikan degerler:
+## İsteğe bağlı ortam değişkenleri
 
 ```text
-TELEGRAM_CHAT_ID=-1003502567927
-TELEGRAM_MESSAGE_THREAD_ID=18410
+NEWS_SOURCES=kap,bloomberght,tradingview
+NEWS_LIMIT=100
+PER_RUN_SEND_LIMIT=30
+DETAIL_MAX_CHARS=1800
+TELEGRAM_SEND_DELAY=4
 ```
 
-## Haber cekme ve tekrar mesaj atma mantigi
+## Cache ve ilk çalışma
 
-Bot haberleri ana TradingView haber akisindan okur:
+Her kaynak `news_cache.json` içinde ayrı takip edilir. Yeni kaynak ilk çalışmada eski
+haberleri göndermez. Bir kaynak hata verirse diğerleri çalışmaya devam eder ve
+başarısız kaynağın cache'i ilerletilmez.
 
-```text
-https://tr.tradingview.com/news-flow/
+## Yerel test
+
+```bash
+pip install -r requirements.txt
+DRY_RUN=1 python news_bot.py
 ```
 
-Telegram bildirimindeki link ise ilgili haberin kendi TradingView detay sayfasina gider.
+PowerShell:
 
-Bot `tv_news_cache.json` icinde en son gorulen haber linkini `last_seen_key` olarak saklar.
-
-Ilk calistirmada eski haber seli olmasin diye mesaj gondermez; sadece ana akistaki en ust haberi referans alir.
-
-Sonraki calismalarda ana akista bu son gorulen haberin ustune gelen yeni haberleri Telegram'a gonderir.
-
-Cache formati:
-
-```text
-{
-  "last_seen_key": "...",
-  "seen_keys": []
-}
+```powershell
+$env:DRY_RUN='1'
+python news_bot.py
 ```
