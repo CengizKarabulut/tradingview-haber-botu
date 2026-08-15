@@ -160,8 +160,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/thrivent-financial-gloo-holdings-hisselerinden-93387-dolar-satt-93CH-4031778",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/kestra-medical-cfosu-418217-dolarlk-hisse-satt-93CH-4031780",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/kestra-medical-cfosu-418217-dolarlk-hisse-satt-93CH-4031780",
+        "investing:https://tr.investing.com/news/insider-trading-news/cavco-industries-yoneticisi-lisa-daniels-17098-dolar-hisse-satt-93CH-4031779",
         "investing:https://tr.investing.com/news/insider-trading-news/thrivent-financial-gloo-holdings-hisselerinden-93387-dolar-satt-93CH-4031778",
         "investing:https://tr.investing.com/news/insider-trading-news/kestra-medical-cbo-timothy-moran-348310-dolarlk-hisse-satt-93CH-4031777",
         "investing:https://tr.investing.com/news/insider-trading-news/appfolio-yoneticisi-maurice-duca-16-milyon-dolarlk-hisse-satt-93CH-4031776",
@@ -170,8 +172,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/curbline-properties-yoneticisi-alexander-otto-52-milyon-dolarlk-hisse-satt-93CH-4031773",
         "investing:https://tr.investing.com/news/insider-trading-news/otter-tail-ik-baskan-yardmcs-68159-dolar-degerinde-hisse-satt-93CH-4031772",
         "investing:https://tr.investing.com/news/insider-trading-news/compx-yoneticisi-ann-manix-a-snf-hisselerden-44395-dolar-satt-93CH-4031771",
-        "investing:https://tr.investing.com/news/insider-trading-news/hb-fuller-yoneticisi-nathan-weaver-593-bin-dolarlk-hisse-satt-93CH-4031770",
-        "investing:https://tr.investing.com/news/insider-trading-news/park-aerospace-ceosu-284-milyon-dolarlk-hisse-satt-93CH-4031769",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -192,6 +192,8 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/hb-fuller-yoneticisi-nathan-weaver-593-bin-dolarlk-hisse-satt-93CH-4031770",
+        "investing:https://tr.investing.com/news/insider-trading-news/park-aerospace-ceosu-284-milyon-dolarlk-hisse-satt-93CH-4031769",
         "investing:https://tr.investing.com/news/insider-trading-news/nuveen-amtfree-belediye-tahvil-fonu-portfoy-yoneticisi-62250-dolar-degerinde-hisse-satt-93CH-4031768",
         "investing:https://tr.investing.com/news/insider-trading-news/general-dynamics-yoneticisi-peter-wall-788897-dolar-degerinde-hisse-satt-93CH-4031765",
         "investing:https://tr.investing.com/news/stock-market-news/sp-500-rallisinin-altnda-performans-ve-temellerden-kopus-4031767",
@@ -311,8 +313,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:593b9abe2d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:5fdd1c06bd9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:5fdd1c06bd9e8:0",
         "tradingview:beincrypto:593b9abe2d9e8:0",
         "tradingview:matriks:6675118:0",
         "tradingview:matriks:6675110:0",
@@ -419,6 +422,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bitcoin 21 milyon s n r tart smas adam back uyard",
+      "link": "https://tr.tradingview.com/news/beincrypto:5fdd1c06bd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "kestra medical cfo su 418 217 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/kestra-medical-cfosu-418217-dolarlk-hisse-satt-93CH-4031780"
+    },
+    {
+      "source": "investing",
+      "text": "cavco industries yoneticisi lisa daniels 17 098 dolar hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/cavco-industries-yoneticisi-lisa-daniels-17098-dolar-hisse-satt-93CH-4031779"
+    },
     {
       "source": "investing",
       "text": "thrivent financial gloo holdings hisselerinden 93 387 dolar satt",
