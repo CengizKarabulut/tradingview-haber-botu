@@ -1,23 +1,37 @@
-# KAP, Bloomberg HT ve TradingView Haber Botu
+# Çok Kaynaklı Finans Haber Botu
 
-Resmî KAP bildirimlerini, Bloomberg HT ekonomi haberlerini ve TradingView Türkçe haber akışını Telegram'a gönderir.
+KAP bildirimlerini ve Türkçe ekonomi/piyasa haberlerini öncelik sırasıyla Telegram'a gönderir.
 
-## Kaynaklar
+## Kaynaklar ve öncelik
 
-- KAP: `https://www.kap.org.tr/tr/api/disclosure/members/byCriteria`
-- Bloomberg HT: `https://www.bloomberght.com/tumhaberler`
-- TradingView: `https://tr.tradingview.com/news-flow/`
+1. KAP (resmî şirket bildirimleri)
+2. Bloomberg HT
+3. Investing.com Türkiye (genel, forex ve hisse RSS akışları)
+4. NTV Para
+5. TRT Haber Ekonomi
+6. TradingView
 
-KAP ana ve resmî şirket bildirimi kaynağıdır. KAP sorgu yapısı için MIT lisanslı
+Kaynak sırası sabittir; `NEWS_SOURCES` farklı sırada verilse de bot bu güven sırasını korur.
+Foreks'in herkese açık RSS adresi otomatik istemcilere `403` döndürdüğü için kırılgan bir kazıyıcı
+eklenmemiştir.
+
+KAP sorgu yapısı için MIT lisanslı
 [`pykap`](https://github.com/cemsinano/pykap) ve
 [`borsajs`](https://github.com/mesutpiskin/borsajs) projelerindeki güncel entegrasyon
 yaklaşımları referans alınmıştır. Bot bu paketleri bağımlılık olarak kurmaz.
 
+## Tekrar haber filtresi
+
+Bot önce aynı kaynaktaki kimlik, bağlantı ve başlık tekrarlarını kaldırır. Sonra başlık ile kısa
+özeti normalize ederek kaynaklar arasında benzerlik karşılaştırması yapar. Aynı olay daha düşük
+öncelikli bir kaynakta tekrar görülürse Telegram'a yeniden gönderilmez. Son 1.500 haber izi
+`news_cache.json` içinde tutulur.
+
 ## Telegram mesajları
 
-Mesajlarda mümkün olduğunda kaynak, yayın zamanı, şirket, başlık, kısa özet,
-sınırlı haber ayrıntısı, KAP ek sayısı ve kaynak bağlantısı bulunur. Tam makaleler
-yeniden yayımlanmaz. Telegram bağlantı ve büyük görsel önizlemesi açıktır.
+Mesajlarda mümkün olduğunda kaynak, yayın zamanı, şirket, başlık, kısa özet, sınırlı haber
+ayrıntısı, KAP ek sayısı ve kaynak bağlantısı bulunur. Tam makaleler yeniden yayımlanmaz.
+Telegram bağlantı ve büyük görsel önizlemesi açıktır.
 
 ## GitHub Secrets
 
@@ -34,7 +48,7 @@ TELEGRAM_MESSAGE_THREAD_ID
 ## İsteğe bağlı ortam değişkenleri
 
 ```text
-NEWS_SOURCES=kap,bloomberght,tradingview
+NEWS_SOURCES=kap,bloomberght,investing,ntvpara,trthaber,tradingview
 NEWS_LIMIT=100
 PER_RUN_SEND_LIMIT=30
 DETAIL_MAX_CHARS=1800
@@ -43,14 +57,15 @@ TELEGRAM_SEND_DELAY=4
 
 ## Cache ve ilk çalışma
 
-Her kaynak `news_cache.json` içinde ayrı takip edilir. Yeni kaynak ilk çalışmada eski
-haberleri göndermez. Bir kaynak hata verirse diğerleri çalışmaya devam eder ve
-başarısız kaynağın cache'i ilerletilmez.
+Her kaynak `news_cache.json` içinde ayrı takip edilir. Yeni kaynak ilk çalışmada eski haberleri
+göndermez. Bir kaynak hata verirse diğerleri çalışmaya devam eder ve başarısız kaynağın cache'i
+ilerletilmez.
 
 ## Yerel test
 
 ```bash
 pip install -r requirements.txt
+python -m unittest -v test_news_bot.py test_news_sources.py
 DRY_RUN=1 python news_bot.py
 ```
 

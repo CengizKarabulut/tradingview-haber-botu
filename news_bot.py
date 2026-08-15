@@ -5,9 +5,12 @@ import json
 import os
 import re
 import time
+import unicodedata
 from datetime import datetime, timedelta
+from difflib import SequenceMatcher
 from urllib.parse import urljoin, urlparse, urlunparse
 from zoneinfo import ZoneInfo
+from xml.etree import ElementTree
 
 import requests
 from bs4 import BeautifulSoup
@@ -19,8 +22,25 @@ BHT_BASE = "https://www.bloomberght.com"
 BHT_LIST = f"{BHT_BASE}/tumhaberler"
 KAP_BASE = "https://www.kap.org.tr"
 KAP_API = f"{KAP_BASE}/tr/api/disclosure/members/byCriteria"
-SOURCE_LABELS = {"kap": "KAP", "bloomberght": "Bloomberg HT", "tradingview": "TradingView"}
-SOURCE_VERSION = "multi-source-v1"
+SOURCE_LABELS = {
+    "kap": "KAP",
+    "bloomberght": "Bloomberg HT",
+    "investing": "Investing.com Türkiye",
+    "ntvpara": "NTV Para",
+    "trthaber": "TRT Haber Ekonomi",
+    "tradingview": "TradingView",
+}
+SOURCE_PRIORITY = ["kap", "bloomberght", "investing", "ntvpara", "trthaber", "tradingview"]
+RSS_FEEDS = {
+    "investing": [
+        "https://tr.investing.com/rss/news.rss",
+        "https://tr.investing.com/rss/forex.rss",
+        "https://tr.investing.com/rss/stock.rss",
+    ],
+    "ntvpara": ["https://www.ntv.com.tr/ntvpara.rss"],
+    "trthaber": ["https://www.trthaber.com/ekonomi_articles.rss"],
+}
+SOURCE_VERSION = "multi-source-v2"
 
 CACHE_FILE = os.getenv("CACHE_FILE", "news_cache.json")
 NEWS_LIMIT = int(os.getenv("NEWS_LIMIT", "100"))
@@ -29,11 +49,14 @@ DETAIL_MAX_CHARS = int(os.getenv("DETAIL_MAX_CHARS", "1800"))
 SEND_DELAY = float(os.getenv("TELEGRAM_SEND_DELAY", "4"))
 MAX_ATTEMPTS = int(os.getenv("MAX_TELEGRAM_ATTEMPTS", "5"))
 DRY_RUN = os.getenv("DRY_RUN", "").lower() in {"1", "true", "yes"}
-ENABLED_SOURCES = [
+_requested_sources = {
     value.strip().lower()
-    for value in os.getenv("NEWS_SOURCES", "kap,bloomberght,tradingview").split(",")
-    if value.strip().lower() in SOURCE_LABELS
-]
+    for value in os.getenv(
+        "NEWS_SOURCES", "kap,bloomberght,investing,ntvpara,trthaber,tradingview"
+    ).split(",")
+}
+# Ortam değişkenindeki sıra ne olursa olsun güvenilir kaynak önceliğini koru.
+ENABLED_SOURCES = [source for source in SOURCE_PRIORITY if source in _requested_sources]
 
 
 def clean(value):
@@ -60,6 +83,45 @@ def dedupe(items):
         seen.update((key, title_key))
         result.append(item)
     return result
+
+
+def normalized_story_text(item):
+    value = f"{clean(item.get('title'))} {clean(item.get('summary'))[:240]}".lower()
+    value = "".join(
+        character for character in unicodedata.normalize("NFKD", value)
+        if not unicodedata.combining(character)
+    )
+    value = re.sub(r"[^a-z0-9]+", " ", value)
+    stopwords = {"ve", "ile", "icin", "bir", "bu", "da", "de", "mi", "ne", "son", "dakika"}
+    return " ".join(word for word in value.split() if word not in stopwords)
+
+
+def is_cross_source_duplicate(item, fingerprints):
+    candidate = normalized_story_text(item)
+    if not candidate:
+        return False
+    candidate_tokens = set(candidate.split())
+    for previous in fingerprints:
+        previous_text = previous.get("text", "") if isinstance(previous, dict) else clean(previous)
+        if not previous_text:
+            continue
+        if candidate == previous_text or SequenceMatcher(None, candidate, previous_text).ratio() >= 0.84:
+            return True
+        previous_tokens = set(previous_text.split())
+        union = candidate_tokens | previous_tokens
+        if len(candidate_tokens) >= 4 and len(previous_tokens) >= 4 and union:
+            if len(candidate_tokens & previous_tokens) / len(union) >= 0.68:
+                return True
+    return False
+
+
+def remember_story(item, fingerprints):
+    fingerprints.insert(0, {
+        "source": item["source"],
+        "text": normalized_story_text(item),
+        "link": canonical_url(item.get("link")),
+    })
+    del fingerprints[1500:]
 
 
 def headers(referer=None, json_response=False):
@@ -173,6 +235,74 @@ def fetch_tradingview(session=requests):
     return dedupe(found)
 
 
+def xml_child_text(node, *names):
+    wanted = {name.lower() for name in names}
+    for child in node:
+        if child.tag.rsplit("}", 1)[-1].lower() in wanted:
+            return clean("".join(child.itertext()))
+    return ""
+
+
+def xml_child_link(node):
+    for child in node:
+        if child.tag.rsplit("}", 1)[-1].lower() == "link":
+            link = clean(child.get("href") or "".join(child.itertext()))
+            if link and child.get("rel", "alternate") in {"alternate", ""}:
+                return link
+    return ""
+
+
+def fetch_rss_source(source, session=requests):
+    found = []
+    for feed_url in RSS_FEEDS[source]:
+        root = None
+        for attempt in range(2):
+            try:
+                response = session.get(
+                    feed_url,
+                    headers=headers(feed_url) | {"Accept": "application/rss+xml,application/xml,text/xml"},
+                    timeout=25,
+                )
+                response.raise_for_status()
+                root = ElementTree.fromstring(response.content)
+                break
+            except (requests.RequestException, ElementTree.ParseError) as exc:
+                if attempt == 1:
+                    print(f"RSS alt akışı atlandı [{SOURCE_LABELS[source]}]: {feed_url} ({exc})")
+        if root is None:
+            continue
+        for node in root.iter():
+            if node.tag.rsplit("}", 1)[-1].lower() not in {"item", "entry"}:
+                continue
+            title = xml_child_text(node, "title")
+            link = xml_child_link(node)
+            if not title or not link:
+                continue
+            raw_summary = xml_child_text(node, "description", "summary", "content", "subtitle")
+            summary = clean(BeautifulSoup(raw_summary, "html.parser").get_text(" ", strip=True))
+            image = ""
+            for child in node:
+                local_name = child.tag.rsplit("}", 1)[-1].lower()
+                image_url = child.get("url") or (
+                    child.get("href") if child.get("rel") == "enclosure" else ""
+                )
+                if local_name in {"enclosure", "content", "thumbnail", "link"} and image_url:
+                    image = clean(image_url)
+                    break
+            found.append(blank_item(
+                source, title, link,
+                id=xml_child_text(node, "guid", "id") or link,
+                published=xml_child_text(node, "pubDate", "published", "updated"),
+                summary=summary,
+                image=image,
+            ))
+            if len(found) >= NEWS_LIMIT:
+                break
+        if len(found) >= NEWS_LIMIT:
+            break
+    return dedupe(found)
+
+
 def meta(soup, *selectors):
     for selector in selectors:
         node = soup.select_one(selector)
@@ -197,18 +327,38 @@ def enrich(item, session=requests):
         match = re.search(r"\d{1,2}\s+[A-Za-zÇĞİÖŞÜçğıöşü]+\s+\d{4},\s+\d{2}:\d{2}", clean(article.get_text(" ", strip=True)) if article else "")
         if match:
             item["published"] = match.group(0)
-    else:
+    elif item["source"] == "kap":
         content = soup.select_one(".disclosureScrollableArea")
         if content:
             item["detail"] = clean(content.get_text(" ", strip=True))[:DETAIL_MAX_CHARS]
+    else:
+        item["summary"] = meta(
+            soup, 'meta[property="og:description"]', 'meta[name="description"]'
+        ) or item["summary"]
+        item["image"] = meta(
+            soup, 'meta[property="og:image"]', 'meta[name="twitter:image"]'
+        ) or item["image"]
+        paragraphs = [
+            clean(node.get_text(" ", strip=True))
+            for node in soup.select("article p, main article p")
+        ]
+        paragraphs = list(dict.fromkeys(value for value in paragraphs if len(value) >= 40))
+        item["detail"] = "\n\n".join(paragraphs)[:DETAIL_MAX_CHARS]
     return item
 
 
-FETCHERS = {"kap": fetch_kap, "bloomberght": fetch_bloomberght, "tradingview": fetch_tradingview}
+FETCHERS = {
+    "kap": fetch_kap,
+    "bloomberght": fetch_bloomberght,
+    "investing": lambda session=requests: fetch_rss_source("investing", session),
+    "ntvpara": lambda session=requests: fetch_rss_source("ntvpara", session),
+    "trthaber": lambda session=requests: fetch_rss_source("trthaber", session),
+    "tradingview": fetch_tradingview,
+}
 
 
 def load_state():
-    empty = {"source_version": SOURCE_VERSION, "sources": {}}
+    empty = {"source_version": SOURCE_VERSION, "sources": {}, "fingerprints": []}
     try:
         with open(CACHE_FILE, encoding="utf-8") as stream:
             data = json.load(stream)
@@ -301,6 +451,7 @@ def send_message(text):
 
 def main():
     state, remaining = load_state(), PER_RUN_SEND_LIMIT
+    fingerprints = state.setdefault("fingerprints", [])
     for source in ENABLED_SOURCES:
         try:
             items = FETCHERS[source]()
@@ -316,21 +467,28 @@ def main():
             source_state.update({"last_seen_key": current_keys[0], "seen_keys": current_keys[:500]})
             print(f"{SOURCE_LABELS[source]} başlangıç referansı alındı; eski haberler gönderilmedi")
             continue
-        sent = []
-        for item in candidates[:remaining]:
+        processed = []
+        for item in candidates:
+            if is_cross_source_duplicate(item, fingerprints):
+                print(f"Tekrar haber atlandı [{SOURCE_LABELS[source]}]: {item['title'][:90]}")
+                processed.append(item_key(item))
+                continue
+            if remaining <= 0:
+                break
             try:
                 enrich(item)
             except Exception as exc:
                 print(f"Detay alınamadı; liste özeti kullanılacak: {exc}")
             if not send_message(build_message(item)):
                 break
-            sent.append(item_key(item))
+            processed.append(item_key(item))
+            remember_story(item, fingerprints)
             remaining -= 1
             time.sleep(SEND_DELAY)
-        if len(sent) == len(candidates):
+        if len(processed) == len(candidates):
             source_state.update({"last_seen_key": current_keys[0], "seen_keys": list(dict.fromkeys(current_keys + source_state["seen_keys"]))[:500]})
-        elif sent:
-            source_state.update({"last_seen_key": sent[-1], "seen_keys": list(dict.fromkeys(list(reversed(sent)) + source_state["seen_keys"]))[:500]})
+        elif processed:
+            source_state.update({"last_seen_key": processed[-1], "seen_keys": list(dict.fromkeys(list(reversed(processed)) + source_state["seen_keys"]))[:500]})
         if remaining <= 0:
             break
     save_state(state)
