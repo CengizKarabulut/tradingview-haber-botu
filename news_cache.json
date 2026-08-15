@@ -159,18 +159,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/corcept-therapeutics-gelistirme-direktoru-18-milyon-dolarlk-hisse-satt-93CH-4031745",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/merck-evp-deluca-59-milyon-dolarlk-hisse-satt-93CH-4031751",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/merck-evp-deluca-59-milyon-dolarlk-hisse-satt-93CH-4031751",
+        "investing:https://tr.investing.com/news/insider-trading-news/celanese-svp-murray-98004-dolarlk-adi-hisse-senedi-satn-ald-93CH-4031750",
+        "investing:https://tr.investing.com/news/insider-trading-news/avalo-therapeutics-cmo-mittie-doyle-13580-dolarlk-hisse-satt-93CH-4031749",
+        "investing:https://tr.investing.com/news/insider-trading-news/avalo-therapeutics-cso-jennifer-riley-52012-dolarlk-hisse-satt-93CH-4031748",
+        "investing:https://tr.investing.com/news/insider-trading-news/twilio-yoneticisi-erika-rottenberg-881-bin-dolarlk-hisse-satt-93CH-4031747",
         "investing:https://tr.investing.com/news/insider-trading-news/corcept-therapeutics-gelistirme-direktoru-18-milyon-dolarlk-hisse-satt-93CH-4031745",
         "investing:https://tr.investing.com/news/insider-trading-news/patricia-mulroy-bowman-consulting-hisselerinden-37415-dolar-satt-93CH-4031744",
         "investing:https://tr.investing.com/news/insider-trading-news/a10-networks-genel-dansman-392435-dolar-degerinde-hisse-satt-93CH-4031743",
         "investing:https://tr.investing.com/news/insider-trading-news/biote-corp-yonetim-kurulu-baskan-marc-beer-202-bin-dolar-degerinde-hisse-ald-93CH-4031742",
         "investing:https://tr.investing.com/news/insider-trading-news/tactile-systems-ceosu-sheri-dodd-323242-dolarlk-hisse-satt-93CH-4031741",
-        "investing:https://tr.investing.com/news/insider-trading-news/q2-holdings-insan-kaynaklar-direktoru-630700-dolar-hisse-satt-93CH-4031740",
-        "investing:https://tr.investing.com/news/insider-trading-news/sysconun-evpsi-ronald-phillips-558-bin-dolarlk-hisse-satt-93CH-4031739",
-        "investing:https://tr.investing.com/news/stock-market-news/alphabet-yapay-zeka-stratejisinde-degisim-mi-sinyali-veriyor-4031737",
-        "investing:https://tr.investing.com/news/economy-news/ukrayna-rassvet-uydu-agyla-baglantl-rus-uzay-merkezini-vurdu-4031735",
-        "investing:https://tr.investing.com/news/insider-trading-news/hippo-ceosu-richard-mccathron-160000-dolarlk-hisse-satt-93CH-4031733",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -190,7 +190,12 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
-        "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248"
+        "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/q2-holdings-insan-kaynaklar-direktoru-630700-dolar-hisse-satt-93CH-4031740",
+        "investing:https://tr.investing.com/news/insider-trading-news/sysconun-evpsi-ronald-phillips-558-bin-dolarlk-hisse-satt-93CH-4031739",
+        "investing:https://tr.investing.com/news/stock-market-news/alphabet-yapay-zeka-stratejisinde-degisim-mi-sinyali-veriyor-4031737",
+        "investing:https://tr.investing.com/news/economy-news/ukrayna-rassvet-uydu-agyla-baglantl-rus-uzay-merkezini-vurdu-4031735",
+        "investing:https://tr.investing.com/news/insider-trading-news/hippo-ceosu-richard-mccathron-160000-dolarlk-hisse-satt-93CH-4031733"
       ]
     },
     "ntvpara": {
@@ -388,5 +393,31 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "investing",
+      "text": "merck evp deluca 5 9 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/merck-evp-deluca-59-milyon-dolarlk-hisse-satt-93CH-4031751"
+    },
+    {
+      "source": "investing",
+      "text": "celanese svp murray 98 004 dolarl k adi hisse senedi sat n ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/celanese-svp-murray-98004-dolarlk-adi-hisse-senedi-satn-ald-93CH-4031750"
+    },
+    {
+      "source": "investing",
+      "text": "avalo therapeutics cmo mittie doyle 13 580 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/avalo-therapeutics-cmo-mittie-doyle-13580-dolarlk-hisse-satt-93CH-4031749"
+    },
+    {
+      "source": "investing",
+      "text": "avalo therapeutics cso jennifer riley 52 012 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/avalo-therapeutics-cso-jennifer-riley-52012-dolarlk-hisse-satt-93CH-4031748"
+    },
+    {
+      "source": "investing",
+      "text": "twilio yoneticisi erika rottenberg 881 bin dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/twilio-yoneticisi-erika-rottenberg-881-bin-dolarlk-hisse-satt-93CH-4031747"
+    }
+  ]
 }
