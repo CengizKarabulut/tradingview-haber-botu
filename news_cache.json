@@ -106,8 +106,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/iran-ile-tacikistan-arasinda-petrol-anlasmasi-3785640",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/ingiltere-den-kurakliktan-etkilenen-ciftcilere-65-milyon-sterlin-ek-destek-3785641",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/ingiltere-den-kurakliktan-etkilenen-ciftcilere-65-milyon-sterlin-ek-destek-3785641",
         "bloomberght:https://www.bloomberght.com/iran-ile-tacikistan-arasinda-petrol-anlasmasi-3785640",
         "bloomberght:https://www.bloomberght.com/enka-insaat-in-net-kri-ikinci-ceyrekte-beklentileri-asti-3785639",
         "bloomberght:https://www.bloomberght.com/6-ay-sonra-ortaya-cikti-iranli-pilotlar-katar-da-esir-tutuluyor-3785638",
@@ -159,8 +160,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/wesbanco-evp-ve-cco-robert-friend-252-bin-dolarlk-hisse-satt-93CH-4031764",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/general-dynamics-yoneticisi-peter-wall-788897-dolar-degerinde-hisse-satt-93CH-4031765",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/general-dynamics-yoneticisi-peter-wall-788897-dolar-degerinde-hisse-satt-93CH-4031765",
+        "investing:https://tr.investing.com/news/stock-market-news/sp-500-rallisinin-altnda-performans-ve-temellerden-kopus-4031767",
         "investing:https://tr.investing.com/news/insider-trading-news/wesbanco-evp-ve-cco-robert-friend-252-bin-dolarlk-hisse-satt-93CH-4031764",
         "investing:https://tr.investing.com/news/insider-trading-news/citizens-inc-ceosu-jon-stenberg-43795-dolarlk-hisse-ald-93CH-4031763",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fund-hisselerinden-2260-dolar-ald-93CH-4031762",
@@ -169,8 +172,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/bank-of-the-james-baskan-2705-dolar-degerinde-hisse-ald-93CH-4031757",
         "investing:https://tr.investing.com/news/insider-trading-news/hrt-financial-lp-maison-solutions-hisselerini-6103-dolara-satt-93CH-4031756",
         "investing:https://tr.investing.com/news/insider-trading-news/axogen-yoneticisi-amy-wendell-646-bin-dolarlk-hisse-satt-93CH-4031753",
-        "investing:https://tr.investing.com/news/insider-trading-news/finance-of-america-cio-prahm-130402-dolarlk-foa-hissesi-satt-93CH-4031752",
-        "investing:https://tr.investing.com/news/insider-trading-news/merck-evp-deluca-59-milyon-dolarlk-hisse-satt-93CH-4031751",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -191,6 +192,8 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/finance-of-america-cio-prahm-130402-dolarlk-foa-hissesi-satt-93CH-4031752",
+        "investing:https://tr.investing.com/news/insider-trading-news/merck-evp-deluca-59-milyon-dolarlk-hisse-satt-93CH-4031751",
         "investing:https://tr.investing.com/news/insider-trading-news/celanese-svp-murray-98004-dolarlk-adi-hisse-senedi-satn-ald-93CH-4031750",
         "investing:https://tr.investing.com/news/insider-trading-news/avalo-therapeutics-cmo-mittie-doyle-13580-dolarlk-hisse-satt-93CH-4031749",
         "investing:https://tr.investing.com/news/insider-trading-news/avalo-therapeutics-cso-jennifer-riley-52012-dolarlk-hisse-satt-93CH-4031748",
@@ -404,6 +407,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "general dynamics yoneticisi peter wall 788 897 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/general-dynamics-yoneticisi-peter-wall-788897-dolar-degerinde-hisse-satt-93CH-4031765"
+    },
+    {
+      "source": "investing",
+      "text": "s p 500 rallisinin alt nda performans temellerden kopus",
+      "link": "https://tr.investing.com/news/stock-market-news/sp-500-rallisinin-altnda-performans-ve-temellerden-kopus-4031767"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ingiltere den kurakl ktan etkilenen ciftcilere 65 milyon sterlin ek destek ingiltere basbakan andy burnham kay tlara gecen en kurak temmuz ay n n ard ndan kurakl ktan etkilenen ciftciler 65 milyon sterlinlik ek kaynak ayr ld g n ac klad",
+      "link": "https://www.bloomberght.com/ingiltere-den-kurakliktan-etkilenen-ciftcilere-65-milyon-sterlin-ek-destek-3785641"
+    },
     {
       "source": "investing",
       "text": "wesbanco evp cco robert friend 252 bin dolarl k hisse satt",
