@@ -163,18 +163,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/avis-budget-group-evp-652574-dolarlk-hisse-satt-93CH-4031814",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/iran-savas-komutan-uss-abraham-lincolnu-ziyaret-etti-4031820",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/iran-savas-komutan-uss-abraham-lincolnu-ziyaret-etti-4031820",
+        "investing:https://tr.investing.com/news/insider-trading-news/extreme-networks-yoneticisi-raj-khanna-363001-dolar-degerinde-hisse-satt-93CH-4031819",
+        "investing:https://tr.investing.com/news/insider-trading-news/phillips-66-baskan-yardmcs-kluppel-165-milyon-dolarlk-hisse-satt-93CH-4031818",
+        "investing:https://tr.investing.com/news/insider-trading-news/viasat-svp-robert-blair-215-milyon-dolarlk-hisse-satt-93CH-4031817",
+        "investing:https://tr.investing.com/news/insider-trading-news/stanley-black--decker-cao-105164-dolarlk-hisse-satt-93CH-4031816",
+        "investing:https://tr.investing.com/news/insider-trading-news/consumers-bancorp-yoneticisi-david-bickerton-6205-dolar-degerinde-hisse-ald-93CH-4031815",
         "investing:https://tr.investing.com/news/insider-trading-news/avis-budget-group-evp-652574-dolarlk-hisse-satt-93CH-4031814",
         "investing:https://tr.investing.com/news/insider-trading-news/allstate-baskan-john-dugenske-889-milyon-dolarlk-hisse-satt-93CH-4031813",
         "investing:https://tr.investing.com/news/economy-news/ack-agrlkl-modeller-genai-roicyi-nasl-etkiler-4031812",
         "investing:https://tr.investing.com/news/insider-trading-news/tidewater-evp-daniel-hudson-445050-dolarlk-hisse-satt-93CH-4031810",
-        "investing:https://tr.investing.com/news/insider-trading-news/chemours-baskan-michael-foley-29999-dolarlk-hisse-satn-ald-93CH-4031809",
-        "investing:https://tr.investing.com/news/insider-trading-news/chemours-yoneticisi-mary-b-cranston-94950-dolarlk-hisse-ald-93CH-4031808",
-        "investing:https://tr.investing.com/news/insider-trading-news/chemours-baskan-martinko-30008-dolarlk-hisse-satn-ald-93CH-4031807",
-        "investing:https://tr.investing.com/news/insider-trading-news/magnolia-oil--gas-yoneticisi-ropp-123125-dolar-degerinde-hisse-ald-93CH-4031806",
-        "investing:https://tr.investing.com/news/insider-trading-news/chemours-yoneticisi-alister-cowan-203060-dolar-degerinde-hisse-ald-93CH-4031805",
-        "investing:https://tr.investing.com/news/insider-trading-news/cargurus-ceosu-45166-dolarlk-a-snf-hisse-satt-93CH-4031804",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -195,6 +195,12 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/chemours-baskan-michael-foley-29999-dolarlk-hisse-satn-ald-93CH-4031809",
+        "investing:https://tr.investing.com/news/insider-trading-news/chemours-yoneticisi-mary-b-cranston-94950-dolarlk-hisse-ald-93CH-4031808",
+        "investing:https://tr.investing.com/news/insider-trading-news/chemours-baskan-martinko-30008-dolarlk-hisse-satn-ald-93CH-4031807",
+        "investing:https://tr.investing.com/news/insider-trading-news/magnolia-oil--gas-yoneticisi-ropp-123125-dolar-degerinde-hisse-ald-93CH-4031806",
+        "investing:https://tr.investing.com/news/insider-trading-news/chemours-yoneticisi-alister-cowan-203060-dolar-degerinde-hisse-ald-93CH-4031805",
+        "investing:https://tr.investing.com/news/insider-trading-news/cargurus-ceosu-45166-dolarlk-a-snf-hisse-satt-93CH-4031804",
         "investing:https://tr.investing.com/news/insider-trading-news/zebra-technologies-csosu-michael-cho-131-milyon-dolarlk-hisse-satt-93CH-4031803",
         "investing:https://tr.investing.com/news/insider-trading-news/cdwnin-ticari-direktoru-connelly-367-milyon-dolarlk-hisse-satt-93CH-4031802",
         "investing:https://tr.investing.com/news/insider-trading-news/trex-svp-amy-fernandez-52572-dolarlk-hisse-satt-93CH-4031801",
@@ -455,6 +461,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "iran savas komutan uss abraham lincoln u ziyaret etti",
+      "link": "https://tr.investing.com/news/economy-news/iran-savas-komutan-uss-abraham-lincolnu-ziyaret-etti-4031820"
+    },
+    {
+      "source": "investing",
+      "text": "extreme networks yoneticisi raj khanna 363 001 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/extreme-networks-yoneticisi-raj-khanna-363001-dolar-degerinde-hisse-satt-93CH-4031819"
+    },
+    {
+      "source": "investing",
+      "text": "phillips 66 baskan yard mc s kluppel 1 65 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/phillips-66-baskan-yardmcs-kluppel-165-milyon-dolarlk-hisse-satt-93CH-4031818"
+    },
+    {
+      "source": "investing",
+      "text": "viasat svp robert blair 2 15 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/viasat-svp-robert-blair-215-milyon-dolarlk-hisse-satt-93CH-4031817"
+    },
+    {
+      "source": "investing",
+      "text": "stanley black decker cao 105 164 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/stanley-black--decker-cao-105164-dolarlk-hisse-satt-93CH-4031816"
+    },
+    {
+      "source": "investing",
+      "text": "consumers bancorp yoneticisi david bickerton 6 205 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/consumers-bancorp-yoneticisi-david-bickerton-6205-dolar-degerinde-hisse-ald-93CH-4031815"
+    },
     {
       "source": "tradingview",
       "text": "bitcoin paray derin dondurucu ya alan sistem anlama geliyor",
