@@ -163,8 +163,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/popular-evp-lidio-soriano-523515-dolarlk-hisse-satt-93CH-4031837",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/hengliye-irana-yaptrm-uygulanan-petrol-almlaryla-fon-saglama-suclamas-4031839",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/hengliye-irana-yaptrm-uygulanan-petrol-almlaryla-fon-saglama-suclamas-4031839",
         "investing:https://tr.investing.com/news/insider-trading-news/popular-evp-lidio-soriano-523515-dolarlk-hisse-satt-93CH-4031837",
         "investing:https://tr.investing.com/news/economy-news/rusyann-fuze-saldrsnn-ardndan-kievde-yangnlar-ckt-4031835",
         "investing:https://tr.investing.com/news/insider-trading-news/everus-construction-baskan-yardmcs-451077-dolar-degerinde-hisse-satt-93CH-4031834",
@@ -174,7 +175,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/abd-buyuk-olcekli-hisse-senedi-fonlarnn-sadece-13u-son-on-ylda-kyaslamalar-gecti-4031827",
         "investing:https://tr.investing.com/news/insider-trading-news/amalgamated-financial-yoneticisi-mark-finser-39880-dolar-degerinde-hisse-satt-93CH-4031824",
         "investing:https://tr.investing.com/news/stock-market-news/disney-anlat-ivmesini-nasl-geri-kazanabilir-4031826",
-        "investing:https://tr.investing.com/news/insider-trading-news/ufp-technologies-yonetim-kurulu-baskan-41-milyon-dolarlk-hisse-satt-93CH-4031823",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -195,6 +195,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/ufp-technologies-yonetim-kurulu-baskan-41-milyon-dolarlk-hisse-satt-93CH-4031823",
         "investing:https://tr.investing.com/news/insider-trading-news/arlo-technologies-yoneticisi-amy-rothstein-149218-dolar-degerinde-hisse-satt-93CH-4031822",
         "investing:https://tr.investing.com/news/economy-news/iran-savas-komutan-uss-abraham-lincolnu-ziyaret-etti-4031820",
         "investing:https://tr.investing.com/news/insider-trading-news/extreme-networks-yoneticisi-raj-khanna-363001-dolar-degerinde-hisse-satt-93CH-4031819",
@@ -473,6 +474,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "hengli ye iran a yapt r m uygulanan petrol al mlar yla fon saglama suclamas",
+      "link": "https://tr.investing.com/news/economy-news/hengliye-irana-yaptrm-uygulanan-petrol-almlaryla-fon-saglama-suclamas-4031839"
+    },
     {
       "source": "investing",
       "text": "popular evp lidio soriano 523 515 dolarl k hisse satt",
