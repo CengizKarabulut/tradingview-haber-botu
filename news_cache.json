@@ -177,8 +177,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-ceosu-mark-walsh-24-milyon-dolar-askn-hisse-satt-93CH-4031943",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-quinton-12-milyon-dolarn-uzerinde-hisse-satt-93CH-4031946",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-quinton-12-milyon-dolarn-uzerinde-hisse-satt-93CH-4031946",
+        "investing:https://tr.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-55-milyon-dolarlk-hisse-satt-93CH-4031945",
         "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-ceosu-mark-walsh-24-milyon-dolar-askn-hisse-satt-93CH-4031943",
         "investing:https://tr.investing.com/news/insider-trading-news/insan-kaynaklar-direktoru-melinda-geisser-766-bin-dolarlk-hisse-satt-93CH-4031942",
         "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-cfosu-613417-dolarlk-hisse-satt-93CH-4031941",
@@ -187,8 +189,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/sentinelone-muhasebe-muduru-109799-dolarlk-hisse-satt-93CH-4031937",
         "investing:https://tr.investing.com/news/insider-trading-news/roku-baskan-fuchsberg-16-milyon-dolarlk-hisse-satt-93CH-4031936",
         "investing:https://tr.investing.com/news/stock-market-news/tarihi-2c-kazanc-sezonunda-hisse-fiyat-tepkileri-giderek-kopuyor-4031934",
-        "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-kaya-henderson-130812-dolar-hisse-satt-93CH-4031932",
-        "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-ceosu-rajeev-goel-375-milyon-dolarlk-hisse-satt-93CH-4031930",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -209,6 +209,8 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-kaya-henderson-130812-dolar-hisse-satt-93CH-4031932",
+        "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-ceosu-rajeev-goel-375-milyon-dolarlk-hisse-satt-93CH-4031930",
         "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-genel-dansman-medway-648900-dolarlk-hisse-satt-93CH-4031928",
         "investing:https://tr.investing.com/news/insider-trading-news/natera-yoneticisi-jonathan-sheena-289-milyon-dolarlk-hisse-satt-93CH-4031926",
         "investing:https://tr.investing.com/news/insider-trading-news/netlist-evp-ve-cfo-gail-sasaki-99750-dolar-degerinde-hisse-satt-93CH-4031925",
@@ -574,6 +576,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "scholastic yoneticisi quinton 1 2 milyon dolar n uzerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-quinton-12-milyon-dolarn-uzerinde-hisse-satt-93CH-4031946"
+    },
+    {
+      "source": "investing",
+      "text": "sharkninja cco neil shah 5 5 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-55-milyon-dolarlk-hisse-satt-93CH-4031945"
+    },
     {
       "source": "investing",
       "text": "savers value village ceo su mark walsh 2 4 milyon dolar ask n hisse satt",
