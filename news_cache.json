@@ -175,8 +175,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-genel-dansman-medway-648900-dolarlk-hisse-satt-93CH-4031928",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-ceosu-rajeev-goel-375-milyon-dolarlk-hisse-satt-93CH-4031930",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-ceosu-rajeev-goel-375-milyon-dolarlk-hisse-satt-93CH-4031930",
         "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-genel-dansman-medway-648900-dolarlk-hisse-satt-93CH-4031928",
         "investing:https://tr.investing.com/news/insider-trading-news/natera-yoneticisi-jonathan-sheena-289-milyon-dolarlk-hisse-satt-93CH-4031926",
         "investing:https://tr.investing.com/news/insider-trading-news/netlist-evp-ve-cfo-gail-sasaki-99750-dolar-degerinde-hisse-satt-93CH-4031925",
@@ -186,7 +187,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/paysign-ceosu-mark-newcomer-178-milyon-dolarlk-hisse-satt-93CH-4031916",
         "investing:https://tr.investing.com/news/insider-trading-news/nyli-mackay-portfoy-yoneticisi-john-lawlor-18752-dolar-degerinde-mmd-hissesi-satt-93CH-4031913",
         "investing:https://tr.investing.com/news/economy-news/abdnin-mays-aynda-iran-devrim-muhafzlar-ile-dogrudan-gorustugu-iddia-edildi-4031912",
-        "investing:https://tr.investing.com/news/insider-trading-news/sonoco-products-ceosu-r-howard-coker-249-bin-dolarlk-hisse-ald-93CH-4031910",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -207,6 +207,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/sonoco-products-ceosu-r-howard-coker-249-bin-dolarlk-hisse-ald-93CH-4031910",
         "investing:https://tr.investing.com/news/insider-trading-news/arcbest-yonetim-kurulu-uyesi-judy-mcreynolds-397065-dolar-degerinde-hisse-satt-93CH-4031909",
         "investing:https://tr.investing.com/news/insider-trading-news/atn-international-yoneticisi-prior-223744-dolarlk-hisse-satt-93CH-4031908",
         "investing:https://tr.investing.com/news/insider-trading-news/vivos-inc-ceosu-michael-korenko-7965-dolar-degerinde-hisse-ald-93CH-4031907",
@@ -442,8 +443,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:7dac5e9dcd9e8:0",
+      "last_seen_key": "tradingview:beincrypto:b06ffa74fd9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:b06ffa74fd9e8:0",
         "tradingview:beincrypto:7dac5e9dcd9e8:0",
         "tradingview:beincrypto:3e1b42baed9e8:0",
         "tradingview:beincrypto:86e691882d9e8:0",
@@ -557,6 +559,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cardano kurucusundan yeni arac anthropic in ai filigran art k silinebilecek",
+      "link": "https://tr.tradingview.com/news/beincrypto:b06ffa74fd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "pubmatic ceo su rajeev goel 3 75 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/pubmatic-ceosu-rajeev-goel-375-milyon-dolarlk-hisse-satt-93CH-4031930"
+    },
     {
       "source": "tradingview",
       "text": "peter thiel n en buyuk ikinci yat r m art k teknoloji hissesi degil",
