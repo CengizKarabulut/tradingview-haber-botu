@@ -169,8 +169,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/matthews-international-yoneticisi-schawk-118000-dolarlk-hisse-ald-93CH-4031895",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/ttm-technologies-svp-37-milyon-dolarlk-hisse-satt-93CH-4031898",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/ttm-technologies-svp-37-milyon-dolarlk-hisse-satt-93CH-4031898",
+        "investing:https://tr.investing.com/news/insider-trading-news/euronet-yoneticisi-thomas-mcdonnell-55138-dolar-degerinde-hisse-ald-93CH-4031897",
         "investing:https://tr.investing.com/news/insider-trading-news/matthews-international-yoneticisi-schawk-118000-dolarlk-hisse-ald-93CH-4031895",
         "investing:https://tr.investing.com/news/general-news/haftann-one-ckan-analist-tavsiyeleri-4031896",
         "investing:https://tr.investing.com/news/insider-trading-news/hrt-financial-lp-profusa-hisselerini-1234-dolara-satt-93CH-4031892",
@@ -179,8 +181,6 @@
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-fiyat-63000-dolarn-uzerinde-islem-goruyor-4031887",
         "investing:https://tr.investing.com/news/insider-trading-news/pennant-group-evp-kirk-cheney-53661-dolar-degerinde-hisse-satt-93CH-4031885",
         "investing:https://tr.investing.com/news/insider-trading-news/pennant-group-ceosu-brent-guerisoli-165066-dolar-degerinde-hisse-satt-93CH-4031884",
-        "investing:https://tr.investing.com/news/insider-trading-news/pennant-group-klinik-direktoru-53699-dolarlk-hisse-satt-93CH-4031883",
-        "investing:https://tr.investing.com/news/insider-trading-news/first-commonwealth-financial-yoneticisi-grebenc-325453-dolar-degerinde-hisse-satt-93CH-4031882",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -201,6 +201,8 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/pennant-group-klinik-direktoru-53699-dolarlk-hisse-satt-93CH-4031883",
+        "investing:https://tr.investing.com/news/insider-trading-news/first-commonwealth-financial-yoneticisi-grebenc-325453-dolar-degerinde-hisse-satt-93CH-4031882",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-5-buyuk-yapay-zeka-hamlesi-4031886",
         "investing:https://tr.investing.com/news/insider-trading-news/iron-mountain-ceosu-468-milyon-dolarlk-hisse-satt-93CH-4031880",
         "investing:https://tr.investing.com/news/insider-trading-news/ametek-baskan-david-hermance-168-milyon-dolarlk-hisse-satt-93CH-4031879",
@@ -347,8 +349,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kamuda-calisan-sayisi-5-milyon-417-bine-yukseldi-954071.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/mukelleflere-sms-gonderildi-mtv-tahsilatinda-rekor-kirildi-954081.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/mukelleflere-sms-gonderildi-mtv-tahsilatinda-rekor-kirildi-954081.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kamuda-calisan-sayisi-5-milyon-417-bine-yukseldi-954071.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/agustos-ayi-sosyal-ve-ekonomik-destek-odemeleri-hesaplara-yatirildi-954040.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/arac-kiralama-sektorunde-yeni-donem-954031.html",
@@ -412,8 +415,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:ef2fa5abcd9e8:0",
+      "last_seen_key": "tradingview:beincrypto:86e691882d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:86e691882d9e8:0",
         "tradingview:beincrypto:ef2fa5abcd9e8:0",
         "tradingview:beincrypto:12ee1a824d9e8:0",
         "tradingview:beincrypto:5fdd1c06bd9e8:0",
@@ -524,6 +528,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "microstrategy bitcoin 1 y ll k performans yar s nda zafer kimin",
+      "link": "https://tr.tradingview.com/news/beincrypto:86e691882d9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "mukelleflere sms gonderildi mtv tahsilat nda rekor k r ld hazine maliye bakanl g gelir idaresi baskanl g vergiye gonullu uyumu guclendirmek yuruttugu cal smalar kapsam nda basta sms olmak uzere mukelleflere yonelik rehberlik bilgilendirme faaliyetlerini art rd",
+      "link": "https://www.trthaber.com/haber/ekonomi/mukelleflere-sms-gonderildi-mtv-tahsilatinda-rekor-kirildi-954081.html"
+    },
+    {
+      "source": "investing",
+      "text": "ttm technologies svp 3 7 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/ttm-technologies-svp-37-milyon-dolarlk-hisse-satt-93CH-4031898"
+    },
+    {
+      "source": "investing",
+      "text": "euronet yoneticisi thomas mcdonnell 55 138 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/euronet-yoneticisi-thomas-mcdonnell-55138-dolar-degerinde-hisse-ald-93CH-4031897"
+    },
     {
       "source": "investing",
       "text": "matthews international yoneticisi schawk 118 000 dolarl k hisse ald",
