@@ -177,8 +177,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/ferrarinin-elektrikli-otomobili-luce-hayr-muzayedesinde-40-milyon-dolara-satld-4031948",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/nvidiann-neocloud-finansman-onemli-gelir-aks-saglayabilir-4031951",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/nvidiann-neocloud-finansman-onemli-gelir-aks-saglayabilir-4031951",
         "investing:https://tr.investing.com/news/company-news/ferrarinin-elektrikli-otomobili-luce-hayr-muzayedesinde-40-milyon-dolara-satld-4031948",
         "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-quinton-12-milyon-dolarn-uzerinde-hisse-satt-93CH-4031946",
         "investing:https://tr.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-55-milyon-dolarlk-hisse-satt-93CH-4031945",
@@ -188,7 +189,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/natera-icra-kurulu-baskan-matthew-rabinowitz-641800-dolarlk-hisse-satt-93CH-4031940",
         "investing:https://tr.investing.com/news/economy-news/morgan-stanley-dezenflasyon-baslad-ama-2027-faiz-riski-var-4031939",
         "investing:https://tr.investing.com/news/insider-trading-news/sentinelone-muhasebe-muduru-109799-dolarlk-hisse-satt-93CH-4031937",
-        "investing:https://tr.investing.com/news/insider-trading-news/roku-baskan-fuchsberg-16-milyon-dolarlk-hisse-satt-93CH-4031936",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -209,6 +209,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/roku-baskan-fuchsberg-16-milyon-dolarlk-hisse-satt-93CH-4031936",
         "investing:https://tr.investing.com/news/stock-market-news/tarihi-2c-kazanc-sezonunda-hisse-fiyat-tepkileri-giderek-kopuyor-4031934",
         "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-kaya-henderson-130812-dolar-hisse-satt-93CH-4031932",
         "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-ceosu-rajeev-goel-375-milyon-dolarlk-hisse-satt-93CH-4031930",
@@ -457,8 +458,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:efe5595c7d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:d683262cbd9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:d683262cbd9e8:0",
+        "tradingview:beincrypto:f4175b390d9e8:0",
         "tradingview:beincrypto:efe5595c7d9e8:0",
         "tradingview:beincrypto:76da7f037d9e8:0",
         "tradingview:beincrypto:b38b0f2f7d9e8:0",
@@ -579,6 +582,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bitcoin xrp agustos un en kritik haftas 4 onemli sebep",
+      "link": "https://tr.tradingview.com/news/beincrypto:d683262cbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin 20 y ll k teknoloji uzman 15 000 saatini harcad buldu",
+      "link": "https://tr.tradingview.com/news/beincrypto:f4175b390d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "nvidia n n neocloud finansman onemli gelir ak s saglayabilir",
+      "link": "https://tr.investing.com/news/company-news/nvidiann-neocloud-finansman-onemli-gelir-aks-saglayabilir-4031951"
+    },
     {
       "source": "investing",
       "text": "ferrari nin elektrikli otomobili luce hay r muzayedesinde 40 milyon dolara sat ld",
