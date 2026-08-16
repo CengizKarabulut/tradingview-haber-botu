@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1650959",
+      "last_seen_key": "kap:1650963",
       "seen_keys": [
+        "kap:1650963",
+        "kap:1650962",
+        "kap:1650961",
+        "kap:1650960",
         "kap:1650959",
         "kap:1650958",
         "kap:1650957",
@@ -179,8 +183,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/nvidiann-neocloud-finansman-onemli-gelir-aks-saglayabilir-4031951",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/yapay-zeka-finansman-alclara-is-modelleri-uzerinde-daha-fazla-kontrol-saglyor-4031952",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/yapay-zeka-finansman-alclara-is-modelleri-uzerinde-daha-fazla-kontrol-saglyor-4031952",
         "investing:https://tr.investing.com/news/company-news/nvidiann-neocloud-finansman-onemli-gelir-aks-saglayabilir-4031951",
         "investing:https://tr.investing.com/news/company-news/ferrarinin-elektrikli-otomobili-luce-hayr-muzayedesinde-40-milyon-dolara-satld-4031948",
         "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-quinton-12-milyon-dolarn-uzerinde-hisse-satt-93CH-4031946",
@@ -190,7 +195,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-cfosu-613417-dolarlk-hisse-satt-93CH-4031941",
         "investing:https://tr.investing.com/news/insider-trading-news/natera-icra-kurulu-baskan-matthew-rabinowitz-641800-dolarlk-hisse-satt-93CH-4031940",
         "investing:https://tr.investing.com/news/economy-news/morgan-stanley-dezenflasyon-baslad-ama-2027-faiz-riski-var-4031939",
-        "investing:https://tr.investing.com/news/insider-trading-news/sentinelone-muhasebe-muduru-109799-dolarlk-hisse-satt-93CH-4031937",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -211,6 +215,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/sentinelone-muhasebe-muduru-109799-dolarlk-hisse-satt-93CH-4031937",
         "investing:https://tr.investing.com/news/insider-trading-news/roku-baskan-fuchsberg-16-milyon-dolarlk-hisse-satt-93CH-4031936",
         "investing:https://tr.investing.com/news/stock-market-news/tarihi-2c-kazanc-sezonunda-hisse-fiyat-tepkileri-giderek-kopuyor-4031934",
         "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-kaya-henderson-130812-dolar-hisse-satt-93CH-4031932",
@@ -585,6 +590,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "yapay zeka finansman al c lara is modelleri uzerinde daha fazla kontrol sagl yor",
+      "link": "https://tr.investing.com/news/economy-news/yapay-zeka-finansman-alclara-is-modelleri-uzerinde-daha-fazla-kontrol-saglyor-4031952"
+    },
+    {
+      "source": "kap",
+      "text": "cvkmd sorumluluk beyan konsolide 2026 y l 2 ceyrek sorumluluk beyan sirket cvk maden isletmeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650963"
+    },
+    {
+      "source": "kap",
+      "text": "cvkmd faaliyet raporu konsolide 2026 y l 2 ceyrek faaliyet raporu sirket cvk maden isletmeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650962"
+    },
+    {
+      "source": "kap",
+      "text": "cvkmd finansal rapor sirket cvk maden isletmeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650961"
+    },
+    {
+      "source": "kap",
+      "text": "cvkmd sirket genel bilgi formu sirket cvk maden isletmeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650960"
+    },
     {
       "source": "tradingview",
       "text": "polymarket pokemon kartlar tahmin platformu ac ld",
