@@ -109,8 +109,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-17082026-3785656",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-tan-mekke-anlasmasi-na-destek-3785657",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/trump-tan-mekke-anlasmasi-na-destek-3785657",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-17082026-3785656",
         "bloomberght:https://www.bloomberght.com/abd-buyumek-istiyor-ama-gocmen-istemiyor-3785655",
         "bloomberght:https://www.bloomberght.com/istanbul-da-donusturulen-konut-sayisi-1-milyona-ulasti-3785654",
@@ -459,8 +460,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:d683262cbd9e8:0",
+      "last_seen_key": "tradingview:beincrypto:d22b0c78fd9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:d22b0c78fd9e8:0",
         "tradingview:beincrypto:d683262cbd9e8:0",
         "tradingview:beincrypto:f4175b390d9e8:0",
         "tradingview:beincrypto:efe5595c7d9e8:0",
@@ -583,6 +585,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "polymarket pokemon kartlar tahmin platformu ac ld",
+      "link": "https://tr.tradingview.com/news/beincrypto:d22b0c78fd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "trump tan mekke anlasmas na destek abd baskan donald trump turkiye suudi arabistan pakistan n imzalad g mekke ortak savunma anlasmas ndan buyuk memnuniyet duydugunu belirterek anlasmay buyuk cesur onemli ilk ad m olarak nitelendirdi",
+      "link": "https://www.bloomberght.com/trump-tan-mekke-anlasmasi-na-destek-3785657"
+    },
     {
       "source": "bloomberght",
       "text": "resmi gazete bugun 17 08 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
