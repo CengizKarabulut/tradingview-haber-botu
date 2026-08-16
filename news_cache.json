@@ -163,18 +163,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/iran-savas-komutan-uss-abraham-lincolnu-ziyaret-etti-4031820",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/amalgamated-financial-yoneticisi-mark-finser-39880-dolar-degerinde-hisse-satt-93CH-4031824",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/amalgamated-financial-yoneticisi-mark-finser-39880-dolar-degerinde-hisse-satt-93CH-4031824",
+        "investing:https://tr.investing.com/news/stock-market-news/disney-anlat-ivmesini-nasl-geri-kazanabilir-4031826",
+        "investing:https://tr.investing.com/news/insider-trading-news/ufp-technologies-yonetim-kurulu-baskan-41-milyon-dolarlk-hisse-satt-93CH-4031823",
+        "investing:https://tr.investing.com/news/insider-trading-news/arlo-technologies-yoneticisi-amy-rothstein-149218-dolar-degerinde-hisse-satt-93CH-4031822",
         "investing:https://tr.investing.com/news/economy-news/iran-savas-komutan-uss-abraham-lincolnu-ziyaret-etti-4031820",
         "investing:https://tr.investing.com/news/insider-trading-news/extreme-networks-yoneticisi-raj-khanna-363001-dolar-degerinde-hisse-satt-93CH-4031819",
         "investing:https://tr.investing.com/news/insider-trading-news/phillips-66-baskan-yardmcs-kluppel-165-milyon-dolarlk-hisse-satt-93CH-4031818",
         "investing:https://tr.investing.com/news/insider-trading-news/viasat-svp-robert-blair-215-milyon-dolarlk-hisse-satt-93CH-4031817",
         "investing:https://tr.investing.com/news/insider-trading-news/stanley-black--decker-cao-105164-dolarlk-hisse-satt-93CH-4031816",
         "investing:https://tr.investing.com/news/insider-trading-news/consumers-bancorp-yoneticisi-david-bickerton-6205-dolar-degerinde-hisse-ald-93CH-4031815",
-        "investing:https://tr.investing.com/news/insider-trading-news/avis-budget-group-evp-652574-dolarlk-hisse-satt-93CH-4031814",
-        "investing:https://tr.investing.com/news/insider-trading-news/allstate-baskan-john-dugenske-889-milyon-dolarlk-hisse-satt-93CH-4031813",
-        "investing:https://tr.investing.com/news/economy-news/ack-agrlkl-modeller-genai-roicyi-nasl-etkiler-4031812",
-        "investing:https://tr.investing.com/news/insider-trading-news/tidewater-evp-daniel-hudson-445050-dolarlk-hisse-satt-93CH-4031810",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -195,6 +195,10 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/avis-budget-group-evp-652574-dolarlk-hisse-satt-93CH-4031814",
+        "investing:https://tr.investing.com/news/insider-trading-news/allstate-baskan-john-dugenske-889-milyon-dolarlk-hisse-satt-93CH-4031813",
+        "investing:https://tr.investing.com/news/economy-news/ack-agrlkl-modeller-genai-roicyi-nasl-etkiler-4031812",
+        "investing:https://tr.investing.com/news/insider-trading-news/tidewater-evp-daniel-hudson-445050-dolarlk-hisse-satt-93CH-4031810",
         "investing:https://tr.investing.com/news/insider-trading-news/chemours-baskan-michael-foley-29999-dolarlk-hisse-satn-ald-93CH-4031809",
         "investing:https://tr.investing.com/news/insider-trading-news/chemours-yoneticisi-mary-b-cranston-94950-dolarlk-hisse-ald-93CH-4031808",
         "investing:https://tr.investing.com/news/insider-trading-news/chemours-baskan-martinko-30008-dolarlk-hisse-satn-ald-93CH-4031807",
@@ -451,6 +455,7 @@
         "tradingview:fxstreet:8e0730ffbd9e8:0",
         "tradingview:matriks:6673023:0",
         "tradingview:matriks:6673011:0",
+        "tradingview:matriks:6673005:0",
         "tradingview:tag:reuters.com,2026:newsml_S8N43P0HU:0",
         "tradingview:fxstreet:73e85fd1cd9e8:0",
         "tradingview:matriks:6672966:0",
@@ -461,6 +466,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "amalgamated financial yoneticisi mark finser 39 880 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/amalgamated-financial-yoneticisi-mark-finser-39880-dolar-degerinde-hisse-satt-93CH-4031824"
+    },
+    {
+      "source": "investing",
+      "text": "disney anlat ivmesini nas l geri kazanabilir",
+      "link": "https://tr.investing.com/news/stock-market-news/disney-anlat-ivmesini-nasl-geri-kazanabilir-4031826"
+    },
+    {
+      "source": "investing",
+      "text": "ufp technologies yonetim kurulu baskan 4 1 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/ufp-technologies-yonetim-kurulu-baskan-41-milyon-dolarlk-hisse-satt-93CH-4031823"
+    },
+    {
+      "source": "investing",
+      "text": "arlo technologies yoneticisi amy rothstein 149 218 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/arlo-technologies-yoneticisi-amy-rothstein-149218-dolar-degerinde-hisse-satt-93CH-4031822"
+    },
     {
       "source": "investing",
       "text": "iran savas komutan uss abraham lincoln u ziyaret etti",
