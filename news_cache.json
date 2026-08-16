@@ -175,8 +175,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/tarihi-2c-kazanc-sezonunda-hisse-fiyat-tepkileri-giderek-kopuyor-4031934",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/sentinelone-muhasebe-muduru-109799-dolarlk-hisse-satt-93CH-4031937",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/sentinelone-muhasebe-muduru-109799-dolarlk-hisse-satt-93CH-4031937",
+        "investing:https://tr.investing.com/news/insider-trading-news/roku-baskan-fuchsberg-16-milyon-dolarlk-hisse-satt-93CH-4031936",
         "investing:https://tr.investing.com/news/stock-market-news/tarihi-2c-kazanc-sezonunda-hisse-fiyat-tepkileri-giderek-kopuyor-4031934",
         "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-kaya-henderson-130812-dolar-hisse-satt-93CH-4031932",
         "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-ceosu-rajeev-goel-375-milyon-dolarlk-hisse-satt-93CH-4031930",
@@ -185,8 +187,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/netlist-evp-ve-cfo-gail-sasaki-99750-dolar-degerinde-hisse-satt-93CH-4031925",
         "investing:https://tr.investing.com/news/insider-trading-news/lear-corp-yoneticisi-conrad-mallett-jr-199742-dolar-degerinde-hisse-satt-93CH-4031924",
         "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-girisleri-haftalk-bazda-uce-katland-4031923",
-        "investing:https://tr.investing.com/news/insider-trading-news/landmark-bancorp-yoneticisi-kohlrus-31767-dolarlk-hisse-ald-93CH-4031917",
-        "investing:https://tr.investing.com/news/insider-trading-news/paysign-ceosu-mark-newcomer-178-milyon-dolarlk-hisse-satt-93CH-4031916",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -207,6 +207,8 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/landmark-bancorp-yoneticisi-kohlrus-31767-dolarlk-hisse-ald-93CH-4031917",
+        "investing:https://tr.investing.com/news/insider-trading-news/paysign-ceosu-mark-newcomer-178-milyon-dolarlk-hisse-satt-93CH-4031916",
         "investing:https://tr.investing.com/news/insider-trading-news/nyli-mackay-portfoy-yoneticisi-john-lawlor-18752-dolar-degerinde-mmd-hissesi-satt-93CH-4031913",
         "investing:https://tr.investing.com/news/economy-news/abdnin-mays-aynda-iran-devrim-muhafzlar-ile-dogrudan-gorustugu-iddia-edildi-4031912",
         "investing:https://tr.investing.com/news/insider-trading-news/sonoco-products-ceosu-r-howard-coker-249-bin-dolarlk-hisse-ald-93CH-4031910",
@@ -564,6 +566,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "sentinelone muhasebe muduru 109 799 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/sentinelone-muhasebe-muduru-109799-dolarlk-hisse-satt-93CH-4031937"
+    },
+    {
+      "source": "investing",
+      "text": "roku baskan fuchsberg 1 6 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/roku-baskan-fuchsberg-16-milyon-dolarlk-hisse-satt-93CH-4031936"
+    },
     {
       "source": "investing",
       "text": "tarihi 2c kazanc sezonunda hisse fiyat tepkileri giderek kopuyor",
