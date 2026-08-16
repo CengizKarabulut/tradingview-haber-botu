@@ -175,8 +175,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/landmark-bancorp-yoneticisi-kohlrus-31767-dolarlk-hisse-ald-93CH-4031917",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/netlist-evp-ve-cfo-gail-sasaki-99750-dolar-degerinde-hisse-satt-93CH-4031925",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/netlist-evp-ve-cfo-gail-sasaki-99750-dolar-degerinde-hisse-satt-93CH-4031925",
+        "investing:https://tr.investing.com/news/insider-trading-news/lear-corp-yoneticisi-conrad-mallett-jr-199742-dolar-degerinde-hisse-satt-93CH-4031924",
+        "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-girisleri-haftalk-bazda-uce-katland-4031923",
         "investing:https://tr.investing.com/news/insider-trading-news/landmark-bancorp-yoneticisi-kohlrus-31767-dolarlk-hisse-ald-93CH-4031917",
         "investing:https://tr.investing.com/news/insider-trading-news/paysign-ceosu-mark-newcomer-178-milyon-dolarlk-hisse-satt-93CH-4031916",
         "investing:https://tr.investing.com/news/insider-trading-news/nyli-mackay-portfoy-yoneticisi-john-lawlor-18752-dolar-degerinde-mmd-hissesi-satt-93CH-4031913",
@@ -184,9 +187,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/sonoco-products-ceosu-r-howard-coker-249-bin-dolarlk-hisse-ald-93CH-4031910",
         "investing:https://tr.investing.com/news/insider-trading-news/arcbest-yonetim-kurulu-uyesi-judy-mcreynolds-397065-dolar-degerinde-hisse-satt-93CH-4031909",
         "investing:https://tr.investing.com/news/insider-trading-news/atn-international-yoneticisi-prior-223744-dolarlk-hisse-satt-93CH-4031908",
-        "investing:https://tr.investing.com/news/insider-trading-news/vivos-inc-ceosu-michael-korenko-7965-dolar-degerinde-hisse-ald-93CH-4031907",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-kordsada-50-getiri-saglad-93CH-4031906",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-ormay-47-dususten-once-isaretledi-93CH-4031905",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -207,6 +207,9 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/vivos-inc-ceosu-michael-korenko-7965-dolar-degerinde-hisse-ald-93CH-4031907",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-kordsada-50-getiri-saglad-93CH-4031906",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-ormay-47-dususten-once-isaretledi-93CH-4031905",
         "investing:https://tr.investing.com/news/insider-trading-news/globalfoundries-hukuk-direktoru-16177-dolar-degerinde-hisse-satt-93CH-4031903",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-liverampte-5-ayda-68-getiri-yakalad-93CH-4031902",
         "investing:https://tr.investing.com/news/insider-trading-news/ttm-technologies-svp-37-milyon-dolarlk-hisse-satt-93CH-4031898",
@@ -551,6 +554,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "netlist evp cfo gail sasaki 99 750 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/netlist-evp-ve-cfo-gail-sasaki-99750-dolar-degerinde-hisse-satt-93CH-4031925"
+    },
+    {
+      "source": "investing",
+      "text": "lear corp yoneticisi conrad mallett jr 199 742 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/lear-corp-yoneticisi-conrad-mallett-jr-199742-dolar-degerinde-hisse-satt-93CH-4031924"
+    },
+    {
+      "source": "investing",
+      "text": "abd hisse senedi girisleri haftal k bazda uce katland",
+      "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-girisleri-haftalk-bazda-uce-katland-4031923"
+    },
     {
       "source": "investing",
       "text": "landmark bancorp yoneticisi kohlrus 31 767 dolarl k hisse ald",
