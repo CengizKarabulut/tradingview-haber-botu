@@ -163,8 +163,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/msa-safety-baskan-nishan-vartanian-388-milyon-dolarlk-hisse-satt-93CH-4031861",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/scotts-miraclegro-yoneticisi-kingdon-51226-dolarlk-hisse-satt-93CH-4031864",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/scotts-miraclegro-yoneticisi-kingdon-51226-dolarlk-hisse-satt-93CH-4031864",
+        "investing:https://tr.investing.com/news/insider-trading-news/nvr-yonetim-kurulu-uyesi-george-oliver-405185-dolar-degerinde-hisse-ald-93CH-4031863",
         "investing:https://tr.investing.com/news/insider-trading-news/msa-safety-baskan-nishan-vartanian-388-milyon-dolarlk-hisse-satt-93CH-4031861",
         "investing:https://tr.investing.com/news/economy-news/cin-yenilenebilir-enerji-geri-donusum-kurallarn-hzlandryor-4031860",
         "investing:https://tr.investing.com/news/insider-trading-news/aehr-baskan-yardmcs-201916-dolarlk-hisse-satt-93CH-4031859",
@@ -173,8 +175,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/netflixin-ortak-ceosu-2-milyon-dolarlk-hisse-satt-93CH-4031856",
         "investing:https://tr.investing.com/news/insider-trading-news/netflix-yoneticisi-richard-barton-162216-dolar-degerinde-hisse-satt-93CH-4031855",
         "investing:https://tr.investing.com/news/insider-trading-news/blackstone-mortgage-trust-yoneticisi-nassau-143357-dolar-hisse-ald-93CH-4031854",
-        "investing:https://tr.investing.com/news/insider-trading-news/sensient-technologies-yoneticisi-mario-ferruzzi-155372-dolar-degerinde-hisse-satt-93CH-4031853",
-        "investing:https://tr.investing.com/news/insider-trading-news/packaging-corp-baskan-hassfurther-179-milyon-dolarlk-hisse-satt-93CH-4031851",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -195,6 +195,8 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/sensient-technologies-yoneticisi-mario-ferruzzi-155372-dolar-degerinde-hisse-satt-93CH-4031853",
+        "investing:https://tr.investing.com/news/insider-trading-news/packaging-corp-baskan-hassfurther-179-milyon-dolarlk-hisse-satt-93CH-4031851",
         "investing:https://tr.investing.com/news/company-news/kanadal-zimar-nijerde-19-milyar-dolarlk-rafineri-kuracak-4031850",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landden-345-dolar-degerinde-hisse-ald-93CH-4031848",
         "investing:https://tr.investing.com/news/economy-news/romanya-hava-sahasn-ihlal-eden-droneu-dusurdu-4031846",
@@ -490,6 +492,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "scotts miracle gro yoneticisi kingdon 51 226 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/scotts-miraclegro-yoneticisi-kingdon-51226-dolarlk-hisse-satt-93CH-4031864"
+    },
+    {
+      "source": "investing",
+      "text": "nvr yonetim kurulu uyesi george oliver 405 185 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/nvr-yonetim-kurulu-uyesi-george-oliver-405185-dolar-degerinde-hisse-ald-93CH-4031863"
+    },
     {
       "source": "investing",
       "text": "msa safety baskan nishan vartanian 3 88 milyon dolarl k hisse satt",
