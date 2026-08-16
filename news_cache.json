@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1650957",
+      "last_seen_key": "kap:1650958",
       "seen_keys": [
+        "kap:1650958",
         "kap:1650957",
         "kap:1650956",
         "kap:1650955",
@@ -113,6 +114,7 @@
         "bloomberght:https://www.bloomberght.com/iran-katar-dan-kayip-pilotlari-arastiracak-ekip-icin-izin-istedi-3785646",
         "bloomberght:https://www.bloomberght.com/iran-dan-trump-a-blofleri-birak-kendi-guvenligini-dusun-3785645",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-16082026-3785644",
+        "bloomberght:https://www.bloomberght.com/yorum/caglar-kuzlukluoglu/3785648-merkez-bankasi-iletisiminde-seslerin-ozneye-donusme-esigi",
         "bloomberght:https://www.bloomberght.com/katar-iranli-pilotlarin-esir-alindigi-iddialarini-reddetti-3785643",
         "bloomberght:https://www.bloomberght.com/erdogan-trump-in-f-35-sozunu-tutmasini-bekliyorum-3785642",
         "bloomberght:https://www.bloomberght.com/ingiltere-den-kurakliktan-etkilenen-ciftcilere-65-milyon-sterlin-ek-destek-3785641",
@@ -167,8 +169,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-fiyat-63000-dolarn-uzerinde-islem-goruyor-4031887",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/evp-lee-lyon-first-commonwealth-hisselerini-536580-dolara-satt-93CH-4031889",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/evp-lee-lyon-first-commonwealth-hisselerini-536580-dolara-satt-93CH-4031889",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-fiyat-63000-dolarn-uzerinde-islem-goruyor-4031887",
         "investing:https://tr.investing.com/news/insider-trading-news/pennant-group-evp-kirk-cheney-53661-dolar-degerinde-hisse-satt-93CH-4031885",
         "investing:https://tr.investing.com/news/insider-trading-news/pennant-group-ceosu-brent-guerisoli-165066-dolar-degerinde-hisse-satt-93CH-4031884",
@@ -178,7 +181,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/iron-mountain-ceosu-468-milyon-dolarlk-hisse-satt-93CH-4031880",
         "investing:https://tr.investing.com/news/insider-trading-news/ametek-baskan-david-hermance-168-milyon-dolarlk-hisse-satt-93CH-4031879",
         "investing:https://tr.investing.com/news/insider-trading-news/origin-bancorp-yonetim-kurulu-uyesi-199282-dolarlk-hisse-ald-93CH-4031878",
-        "investing:https://tr.investing.com/news/insider-trading-news/immunome-yoneticisi-isaac-barchas-940453-dolar-degerinde-hisse-satt-93CH-4031876",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -199,6 +201,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/immunome-yoneticisi-isaac-barchas-940453-dolar-degerinde-hisse-satt-93CH-4031876",
         "investing:https://tr.investing.com/news/insider-trading-news/paylocity-yoneticisi-steven-sarowitz-168-milyon-dolarlk-hisse-satt-93CH-4031875",
         "investing:https://tr.investing.com/news/insider-trading-news/velocity-financial-cfo-36320-dolarlk-hisse-satt-93CH-4031874",
         "investing:https://tr.investing.com/news/economy-news/alman-yatrmlar-abdde-uc-yln-en-dusugune-geriledi-4031872",
@@ -517,6 +520,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "evp lee lyon first commonwealth hisselerini 536 580 dolara satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/evp-lee-lyon-first-commonwealth-hisselerini-536580-dolara-satt-93CH-4031889"
+    },
+    {
+      "source": "kap",
+      "text": "cusan kat l m finans ilkeleri bilgi formu sirket cuhadaroglu metal sanayi pazarlama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650958"
+    },
     {
       "source": "tradingview",
       "text": "binance kurucusu cz milyoner lar yak nda 1 bitcoin alamayacak",
