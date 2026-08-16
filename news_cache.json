@@ -175,8 +175,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-ceosu-rajeev-goel-375-milyon-dolarlk-hisse-satt-93CH-4031930",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-kaya-henderson-130812-dolar-hisse-satt-93CH-4031932",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-kaya-henderson-130812-dolar-hisse-satt-93CH-4031932",
         "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-ceosu-rajeev-goel-375-milyon-dolarlk-hisse-satt-93CH-4031930",
         "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-genel-dansman-medway-648900-dolarlk-hisse-satt-93CH-4031928",
         "investing:https://tr.investing.com/news/insider-trading-news/natera-yoneticisi-jonathan-sheena-289-milyon-dolarlk-hisse-satt-93CH-4031926",
@@ -186,7 +187,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/landmark-bancorp-yoneticisi-kohlrus-31767-dolarlk-hisse-ald-93CH-4031917",
         "investing:https://tr.investing.com/news/insider-trading-news/paysign-ceosu-mark-newcomer-178-milyon-dolarlk-hisse-satt-93CH-4031916",
         "investing:https://tr.investing.com/news/insider-trading-news/nyli-mackay-portfoy-yoneticisi-john-lawlor-18752-dolar-degerinde-mmd-hissesi-satt-93CH-4031913",
-        "investing:https://tr.investing.com/news/economy-news/abdnin-mays-aynda-iran-devrim-muhafzlar-ile-dogrudan-gorustugu-iddia-edildi-4031912",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -207,6 +207,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/economy-news/abdnin-mays-aynda-iran-devrim-muhafzlar-ile-dogrudan-gorustugu-iddia-edildi-4031912",
         "investing:https://tr.investing.com/news/insider-trading-news/sonoco-products-ceosu-r-howard-coker-249-bin-dolarlk-hisse-ald-93CH-4031910",
         "investing:https://tr.investing.com/news/insider-trading-news/arcbest-yonetim-kurulu-uyesi-judy-mcreynolds-397065-dolar-degerinde-hisse-satt-93CH-4031909",
         "investing:https://tr.investing.com/news/insider-trading-news/atn-international-yoneticisi-prior-223744-dolarlk-hisse-satt-93CH-4031908",
@@ -559,6 +560,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "scholastic yoneticisi kaya henderson 130 812 dolar hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-kaya-henderson-130812-dolar-hisse-satt-93CH-4031932"
+    },
     {
       "source": "tradingview",
       "text": "cardano kurucusundan yeni arac anthropic in ai filigran art k silinebilecek",
