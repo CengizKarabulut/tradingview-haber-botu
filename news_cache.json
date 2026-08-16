@@ -163,8 +163,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/romanya-hava-sahasn-ihlal-eden-droneu-dusurdu-4031846",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landden-345-dolar-degerinde-hisse-ald-93CH-4031848",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landden-345-dolar-degerinde-hisse-ald-93CH-4031848",
         "investing:https://tr.investing.com/news/economy-news/romanya-hava-sahasn-ihlal-eden-droneu-dusurdu-4031846",
         "investing:https://tr.investing.com/news/insider-trading-news/kearny-financial-yoneticisi-leopold-montanaro-45152-dolar-hisse-ald-93CH-4031845",
         "investing:https://tr.investing.com/news/stock-market-news/spacex-yapay-zeka-alannda-scrama-yapabilir-mi-4031842",
@@ -174,7 +175,6 @@
         "investing:https://tr.investing.com/news/economy-news/rusyann-fuze-saldrsnn-ardndan-kievde-yangnlar-ckt-4031835",
         "investing:https://tr.investing.com/news/insider-trading-news/everus-construction-baskan-yardmcs-451077-dolar-degerinde-hisse-satt-93CH-4031834",
         "investing:https://tr.investing.com/news/stock-market-news/peter-thiel-arjantinin-vista-energysinde-1-hisse-ald-4031832",
-        "investing:https://tr.investing.com/news/insider-trading-news/mckesson-yoneticisi-bradley-lerman-268589-dolar-degerinde-hisse-satt-93CH-4031830",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -195,6 +195,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/mckesson-yoneticisi-bradley-lerman-268589-dolar-degerinde-hisse-satt-93CH-4031830",
         "investing:https://tr.investing.com/news/insider-trading-news/aehr-test-systems-baskan-yardmcs-108490-dolarlk-hisse-satt-93CH-4031829",
         "investing:https://tr.investing.com/news/stock-market-news/abd-buyuk-olcekli-hisse-senedi-fonlarnn-sadece-13u-son-on-ylda-kyaslamalar-gecti-4031827",
         "investing:https://tr.investing.com/news/insider-trading-news/amalgamated-financial-yoneticisi-mark-finser-39880-dolar-degerinde-hisse-satt-93CH-4031824",
@@ -478,6 +479,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "horizon kinetics texas pacific land den 345 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landden-345-dolar-degerinde-hisse-ald-93CH-4031848"
+    },
     {
       "source": "investing",
       "text": "romanya hava sahas n ihlal eden drone u dusurdu",
