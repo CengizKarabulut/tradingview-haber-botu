@@ -169,18 +169,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/evp-lee-lyon-first-commonwealth-hisselerini-536580-dolara-satt-93CH-4031889",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/matthews-international-yoneticisi-schawk-118000-dolarlk-hisse-ald-93CH-4031895",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/matthews-international-yoneticisi-schawk-118000-dolarlk-hisse-ald-93CH-4031895",
+        "investing:https://tr.investing.com/news/general-news/haftann-one-ckan-analist-tavsiyeleri-4031896",
+        "investing:https://tr.investing.com/news/insider-trading-news/hrt-financial-lp-profusa-hisselerini-1234-dolara-satt-93CH-4031892",
+        "investing:https://tr.investing.com/news/insider-trading-news/citizens--northern-yoneticisi-frank-pellegrino-5244-dolarlk-hisse-ald-93CH-4031891",
         "investing:https://tr.investing.com/news/insider-trading-news/evp-lee-lyon-first-commonwealth-hisselerini-536580-dolara-satt-93CH-4031889",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-fiyat-63000-dolarn-uzerinde-islem-goruyor-4031887",
         "investing:https://tr.investing.com/news/insider-trading-news/pennant-group-evp-kirk-cheney-53661-dolar-degerinde-hisse-satt-93CH-4031885",
         "investing:https://tr.investing.com/news/insider-trading-news/pennant-group-ceosu-brent-guerisoli-165066-dolar-degerinde-hisse-satt-93CH-4031884",
         "investing:https://tr.investing.com/news/insider-trading-news/pennant-group-klinik-direktoru-53699-dolarlk-hisse-satt-93CH-4031883",
         "investing:https://tr.investing.com/news/insider-trading-news/first-commonwealth-financial-yoneticisi-grebenc-325453-dolar-degerinde-hisse-satt-93CH-4031882",
-        "investing:https://tr.investing.com/news/stock-market-news/analistlerden-5-buyuk-yapay-zeka-hamlesi-4031886",
-        "investing:https://tr.investing.com/news/insider-trading-news/iron-mountain-ceosu-468-milyon-dolarlk-hisse-satt-93CH-4031880",
-        "investing:https://tr.investing.com/news/insider-trading-news/ametek-baskan-david-hermance-168-milyon-dolarlk-hisse-satt-93CH-4031879",
-        "investing:https://tr.investing.com/news/insider-trading-news/origin-bancorp-yonetim-kurulu-uyesi-199282-dolarlk-hisse-ald-93CH-4031878",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -201,6 +201,10 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/stock-market-news/analistlerden-5-buyuk-yapay-zeka-hamlesi-4031886",
+        "investing:https://tr.investing.com/news/insider-trading-news/iron-mountain-ceosu-468-milyon-dolarlk-hisse-satt-93CH-4031880",
+        "investing:https://tr.investing.com/news/insider-trading-news/ametek-baskan-david-hermance-168-milyon-dolarlk-hisse-satt-93CH-4031879",
+        "investing:https://tr.investing.com/news/insider-trading-news/origin-bancorp-yonetim-kurulu-uyesi-199282-dolarlk-hisse-ald-93CH-4031878",
         "investing:https://tr.investing.com/news/insider-trading-news/immunome-yoneticisi-isaac-barchas-940453-dolar-degerinde-hisse-satt-93CH-4031876",
         "investing:https://tr.investing.com/news/insider-trading-news/paylocity-yoneticisi-steven-sarowitz-168-milyon-dolarlk-hisse-satt-93CH-4031875",
         "investing:https://tr.investing.com/news/insider-trading-news/velocity-financial-cfo-36320-dolarlk-hisse-satt-93CH-4031874",
@@ -520,6 +524,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "matthews international yoneticisi schawk 118 000 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/matthews-international-yoneticisi-schawk-118000-dolarlk-hisse-ald-93CH-4031895"
+    },
+    {
+      "source": "investing",
+      "text": "haftan n one c kan analist tavsiyeleri",
+      "link": "https://tr.investing.com/news/general-news/haftann-one-ckan-analist-tavsiyeleri-4031896"
+    },
+    {
+      "source": "investing",
+      "text": "hrt financial lp profusa hisselerini 1 234 dolara satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/hrt-financial-lp-profusa-hisselerini-1234-dolara-satt-93CH-4031892"
+    },
+    {
+      "source": "investing",
+      "text": "citizens northern yoneticisi frank pellegrino 5 244 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/citizens--northern-yoneticisi-frank-pellegrino-5244-dolarlk-hisse-ald-93CH-4031891"
+    },
     {
       "source": "investing",
       "text": "evp lee lyon first commonwealth hisselerini 536 580 dolara satt",
