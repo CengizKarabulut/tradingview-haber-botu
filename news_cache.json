@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1650956",
+      "last_seen_key": "kap:1650957",
       "seen_keys": [
+        "kap:1650957",
         "kap:1650956",
         "kap:1650955",
         "kap:1650954",
@@ -164,18 +165,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/alman-yatrmlar-abdde-uc-yln-en-dusugune-geriledi-4031872",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/iron-mountain-ceosu-468-milyon-dolarlk-hisse-satt-93CH-4031880",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/iron-mountain-ceosu-468-milyon-dolarlk-hisse-satt-93CH-4031880",
+        "investing:https://tr.investing.com/news/insider-trading-news/ametek-baskan-david-hermance-168-milyon-dolarlk-hisse-satt-93CH-4031879",
+        "investing:https://tr.investing.com/news/insider-trading-news/origin-bancorp-yonetim-kurulu-uyesi-199282-dolarlk-hisse-ald-93CH-4031878",
+        "investing:https://tr.investing.com/news/insider-trading-news/immunome-yoneticisi-isaac-barchas-940453-dolar-degerinde-hisse-satt-93CH-4031876",
+        "investing:https://tr.investing.com/news/insider-trading-news/paylocity-yoneticisi-steven-sarowitz-168-milyon-dolarlk-hisse-satt-93CH-4031875",
+        "investing:https://tr.investing.com/news/insider-trading-news/velocity-financial-cfo-36320-dolarlk-hisse-satt-93CH-4031874",
         "investing:https://tr.investing.com/news/economy-news/alman-yatrmlar-abdde-uc-yln-en-dusugune-geriledi-4031872",
         "investing:https://tr.investing.com/news/insider-trading-news/equitable-holdings-muhasebe-direktoru-50072-dolarlk-hisse-satt-93CH-4031869",
         "investing:https://tr.investing.com/news/insider-trading-news/travel--leisure-cfosu-michael-brown-15800-dolarlk-hisse-satt-93CH-4031870",
         "investing:https://tr.investing.com/news/insider-trading-news/ameriprise-evp-deirdre-mcgraw-134-milyon-dolarlk-hisse-satt-93CH-4031868",
-        "investing:https://tr.investing.com/news/insider-trading-news/equitable-holdings-yoneticisi-386-bin-dolarlk-hisse-satt-93CH-4031867",
-        "investing:https://tr.investing.com/news/economy-news/merkez-bankas-mudahaleleri-kaldrac-ve-gelecek-krizleri-korukluyor-4031865",
-        "investing:https://tr.investing.com/news/insider-trading-news/scotts-miraclegro-yoneticisi-kingdon-51226-dolarlk-hisse-satt-93CH-4031864",
-        "investing:https://tr.investing.com/news/insider-trading-news/nvr-yonetim-kurulu-uyesi-george-oliver-405185-dolar-degerinde-hisse-ald-93CH-4031863",
-        "investing:https://tr.investing.com/news/insider-trading-news/msa-safety-baskan-nishan-vartanian-388-milyon-dolarlk-hisse-satt-93CH-4031861",
-        "investing:https://tr.investing.com/news/economy-news/cin-yenilenebilir-enerji-geri-donusum-kurallarn-hzlandryor-4031860",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -196,6 +197,12 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/equitable-holdings-yoneticisi-386-bin-dolarlk-hisse-satt-93CH-4031867",
+        "investing:https://tr.investing.com/news/economy-news/merkez-bankas-mudahaleleri-kaldrac-ve-gelecek-krizleri-korukluyor-4031865",
+        "investing:https://tr.investing.com/news/insider-trading-news/scotts-miraclegro-yoneticisi-kingdon-51226-dolarlk-hisse-satt-93CH-4031864",
+        "investing:https://tr.investing.com/news/insider-trading-news/nvr-yonetim-kurulu-uyesi-george-oliver-405185-dolar-degerinde-hisse-ald-93CH-4031863",
+        "investing:https://tr.investing.com/news/insider-trading-news/msa-safety-baskan-nishan-vartanian-388-milyon-dolarlk-hisse-satt-93CH-4031861",
+        "investing:https://tr.investing.com/news/economy-news/cin-yenilenebilir-enerji-geri-donusum-kurallarn-hzlandryor-4031860",
         "investing:https://tr.investing.com/news/insider-trading-news/aehr-baskan-yardmcs-201916-dolarlk-hisse-satt-93CH-4031859",
         "investing:https://tr.investing.com/news/insider-trading-news/stonex-group-yoneticisi-john-fowler-118770-dolar-degerinde-hisse-satt-93CH-4031858",
         "investing:https://tr.investing.com/news/insider-trading-news/richardson-electronics-yoneticisi-belin-107300-dolarlk-hisse-satt-93CH-4031857",
@@ -325,8 +332,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/agustos-ayi-sosyal-ve-ekonomik-destek-odemeleri-hesaplara-yatirildi-954040.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kamuda-calisan-sayisi-5-milyon-417-bine-yukseldi-954071.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/kamuda-calisan-sayisi-5-milyon-417-bine-yukseldi-954071.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/agustos-ayi-sosyal-ve-ekonomik-destek-odemeleri-hesaplara-yatirildi-954040.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/arac-kiralama-sektorunde-yeni-donem-954031.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/evde-bakim-yardimi-odemeleri-hesaplara-yatirildi-954029.html",
@@ -500,6 +508,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "kamuda cal san say s 5 milyon 417 bine yukseldi turkiye y l n ikinci ceyreginde kamuda istihdam edilen personel say s gecen y l n ayn donemine gore 127 bin 677 kisi art sla 5 milyon 417 bini gecti",
+      "link": "https://www.trthaber.com/haber/ekonomi/kamuda-calisan-sayisi-5-milyon-417-bine-yukseldi-954071.html"
+    },
+    {
+      "source": "investing",
+      "text": "iron mountain ceo su 4 68 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/iron-mountain-ceosu-468-milyon-dolarlk-hisse-satt-93CH-4031880"
+    },
+    {
+      "source": "investing",
+      "text": "ametek baskan david hermance 1 68 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/ametek-baskan-david-hermance-168-milyon-dolarlk-hisse-satt-93CH-4031879"
+    },
+    {
+      "source": "investing",
+      "text": "origin bancorp yonetim kurulu uyesi 199 282 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/origin-bancorp-yonetim-kurulu-uyesi-199282-dolarlk-hisse-ald-93CH-4031878"
+    },
+    {
+      "source": "investing",
+      "text": "immunome yoneticisi isaac barchas 940 453 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/immunome-yoneticisi-isaac-barchas-940453-dolar-degerinde-hisse-satt-93CH-4031876"
+    },
+    {
+      "source": "investing",
+      "text": "paylocity yoneticisi steven sarowitz 1 68 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/paylocity-yoneticisi-steven-sarowitz-168-milyon-dolarlk-hisse-satt-93CH-4031875"
+    },
+    {
+      "source": "investing",
+      "text": "velocity financial cfo 36 320 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/velocity-financial-cfo-36320-dolarlk-hisse-satt-93CH-4031874"
+    },
+    {
+      "source": "kap",
+      "text": "alctl kat l m finans ilkeleri bilgi formu sirket alcatel lucent teletas telekomunikasyon a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650957"
+    },
     {
       "source": "investing",
       "text": "alman yat r mlar abd uc y l n en dusugune geriledi",
