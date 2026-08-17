@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651182",
+      "last_seen_key": "kap:1651185",
       "seen_keys": [
+        "kap:1651185",
+        "kap:1651184",
+        "kap:1651183",
         "kap:1651182",
         "kap:1651181",
         "kap:1651180",
@@ -276,8 +279,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/hazine-iki-tahvilde-101-7-milyar-tl-borclandi-3785713",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/deutsche-banka-gore-piyasadaki-goldilocks-senaryosu-kirilgan-3785714",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/deutsche-banka-gore-piyasadaki-goldilocks-senaryosu-kirilgan-3785714",
         "bloomberght:https://www.bloomberght.com/hazine-iki-tahvilde-101-7-milyar-tl-borclandi-3785713",
         "bloomberght:https://www.bloomberght.com/new-york-ta-fabrika-faaliyetlerinde-2021-sonundan-beri-en-buyuk-genisleme-3785710",
         "bloomberght:https://www.bloomberght.com/husiler-suudi-arabistan-cikarma-gemisini-vurdu-3785708",
@@ -918,8 +922,22 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6677780:0",
+      "last_seen_key": "tradingview:matriks:6677862:0",
       "seen_keys": [
+        "tradingview:matriks:6677862:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44E0OS:0",
+        "tradingview:matriks:6677855:0",
+        "tradingview:matriks:6677849:0",
+        "tradingview:matriks:6677848:0",
+        "tradingview:matriks:6677845:0",
+        "tradingview:matriks:6677835:0",
+        "tradingview:fxstreet:0aa3d97e1d9e8:0",
+        "tradingview:matriks:6677832:0",
+        "tradingview:matriks:6677826:0",
+        "tradingview:fxstreet:0a970fceed9e8:0",
+        "tradingview:fxstreet:2f4cc5bc4d9e8:0",
+        "tradingview:matriks:6677791:0",
+        "tradingview:beincrypto:b56166147d9e8:0",
         "tradingview:matriks:6677780:0",
         "tradingview:matriks:6677766:0",
         "tradingview:matriks:6677763:0",
@@ -935,6 +953,7 @@
         "tradingview:matriks:6677752:0",
         "tradingview:matriks:6677736:0",
         "tradingview:matriks:6677719:0",
+        "tradingview:fxstreet:118721548d9e8:0",
         "tradingview:matriks:6677708:0",
         "tradingview:fxstreet:ad39c1401d9e8:0",
         "tradingview:matriks:6677705:0",
@@ -962,6 +981,7 @@
         "tradingview:fxstreet:172a30fb7d9e8:0",
         "tradingview:matriks:6677612:0",
         "tradingview:matriks:6677611:0",
+        "tradingview:matriks:6677589:0",
         "tradingview:matriks:6677572:0",
         "tradingview:fxstreet:19c1d9b43d9e8:0",
         "tradingview:fxstreet:dde3ee186d9e8:0",
@@ -980,8 +1000,8 @@
         "tradingview:matriks:6677479:0",
         "tradingview:matriks:6677472:0",
         "tradingview:matriks:6677471:0",
+        "tradingview:matriks:6677466:0",
         "tradingview:fxstreet:aa3288fa7d9e8:0",
-        "tradingview:fxstreet:118721548d9e8:0",
         "tradingview:matriks:6677420:0",
         "tradingview:beincrypto:b4353cee5d9e8:0",
         "tradingview:matriks:6677402:0",
@@ -1403,23 +1423,7 @@
         "tradingview:fxstreet:23aafc4ebd9e8:0",
         "tradingview:matriks:6674216:0",
         "tradingview:fxstreet:38080fa66d9e8:0",
-        "tradingview:matriks:6674159:0",
-        "tradingview:fxstreet:9b2526750d9e8:0",
-        "tradingview:fxstreet:1668bb34ed9e8:0",
-        "tradingview:matriks:6673911:0",
-        "tradingview:beincrypto:af0c88195d9e8:0",
-        "tradingview:matriks:6673886:0",
-        "tradingview:matriks:6673864:0",
-        "tradingview:fxstreet:9135d8b88d9e8:0",
-        "tradingview:fxstreet:1bcd15a9ed9e8:0",
-        "tradingview:matriks:6673810:0",
-        "tradingview:fxstreet:83f5ee9b1d9e8:0",
-        "tradingview:fxstreet:ef6211a1ed9e8:0",
-        "tradingview:matriks:6673672:0",
-        "tradingview:matriks:6673667:0",
-        "tradingview:matriks:6673655:0",
-        "tradingview:fxstreet:ed4d6e861d9e8:0",
-        "tradingview:fxstreet:30c07ed94d9e8:0"
+        "tradingview:matriks:6674159:0"
       ]
     },
     "forexfactory": {
@@ -1432,6 +1436,96 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "wells fargo fed in gelecek y l 25 baz puan faiz art rmas n faizlerin 4 00 4 25 aral g nda olmas n bekliyor onceki tahminde degisim beklenmiyordu",
+      "link": "https://tr.tradingview.com/news/matriks:6677862:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "s p 500 ortadogu cat smalar n n etkisiyle yatay nasdaq yapay zeka hisselerinin destegiyle art ac lmaya haz rlan yor",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44E0OS:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "welss fargo fed in y l 25 baz puan faiz art rmas n bekliyor onceki tahmin faizlerin degistirilmemesi yonundeydi",
+      "link": "https://tr.tradingview.com/news/matriks:6677855:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi krdmd seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6677849:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ced duyurusu sonmez cimento",
+      "link": "https://tr.tradingview.com/news/matriks:6677848:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "haftal k yat r m bulteni albaraka turk",
+      "link": "https://tr.tradingview.com/news/matriks:6677845:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar bulteni ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6677835:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin zay f talebi dengelemek mali destek standard chartered",
+      "link": "https://tr.tradingview.com/news/fxstreet:0aa3d97e1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "forex bulten ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6677832:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "jpmorgan japonya topix endeksi ici y l sonu hedefini 4 400 den 4 600 e yukseltti",
+      "link": "https://tr.tradingview.com/news/matriks:6677826:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar abd dolar ndaki zay fl g n zay f cin verilerini dengelemesiyle iki ayl k zirveye ulast",
+      "link": "https://tr.tradingview.com/news/fxstreet:0a970fceed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tayvan guclu cift haneli gsyh genislemesinin surmesi bekleniyor dbs",
+      "link": "https://tr.tradingview.com/news/fxstreet:2f4cc5bc4d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "goknur g sirketimizin mevcut yonetim yap s faaliyetleri herhangi degisiklik olmaks z n olagan sekilde devam etmektedir",
+      "link": "https://tr.tradingview.com/news/matriks:6677791:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "xrp 1 dolar neden tutunam yor binance verileri ac kl yor",
+      "link": "https://tr.tradingview.com/news/beincrypto:b56166147d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "deutsche bank a gore piyasadaki goldilocks senaryosu k r lgan deutsche bank a gore kuresel hisse senedi piyasalar goldilocks olarak bilinen her seyin yolunda gittigi kusursuza yak n senaryoyu fiyatlasa makroekonomik senaryolar mevcut dengenin tum varl k s n flar ac s ndan surdurulebilir olm",
+      "link": "https://www.bloomberght.com/deutsche-banka-gore-piyasadaki-goldilocks-senaryosu-kirilgan-3785714"
+    },
+    {
+      "source": "kap",
+      "text": "euyo haftal k rapor 14 08 2026 tarihli haftal k rapor sirket euro menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651185"
+    },
+    {
+      "source": "kap",
+      "text": "euyo ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651184"
+    },
+    {
+      "source": "kap",
+      "text": "aksue herhangi otoriteye mali tablo verilmesi 2026 y l ii donem gecici vergi beyannamesi ekinde sunulan gelir tablosu hk sirket aksu enerji ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651183"
+    },
     {
       "source": "tradingview",
       "text": "hazine nin iki tahvil ihalesinde yaklas k 38 milyar liral k net sat s yap ld",
