@@ -1182,8 +1182,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:4294c0c9cd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:969c171fcd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:969c171fcd9e8:0",
         "tradingview:fxstreet:4294c0c9cd9e8:0",
         "tradingview:fxstreet:0647750fed9e8:0",
         "tradingview:fxstreet:32743b6aed9e8:0",
@@ -1682,8 +1683,7 @@
         "tradingview:matriks:6676326:0",
         "tradingview:matriks:6676327:0",
         "tradingview:matriks:6676325:0",
-        "tradingview:matriks:6676322:0",
-        "tradingview:matriks:6676323:0"
+        "tradingview:matriks:6676322:0"
       ]
     },
     "forexfactory": {
@@ -1696,6 +1696,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni kendi ithalat faturas kars s nda deger kaybediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:969c171fcd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "eur usd fiyat analizi 1 1600 zorlan yor 100 gunluk sma n n alt na geriliyor",
@@ -9190,11 +9195,6 @@
       "source": "tradingview",
       "text": "metgun enerji nin net kar y l n ilk yar s nda 1 2 milyar tl ye ulas rken has lat ise 773 milyon tl oldu",
       "link": "https://tr.tradingview.com/news/matriks:6676313:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "otomotiv sektorunde ocak temmuz doneminde gecen y l n ayn donemine gore 8 gerileyen toplam uretim 767 bin 216 adet olarak gerceklesti",
-      "link": "https://tr.tradingview.com/news/matriks:6676314:0"
     }
   ]
 }
