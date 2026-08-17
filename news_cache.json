@@ -2,8 +2,21 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651208",
+      "last_seen_key": "kap:1651222",
       "seen_keys": [
+        "kap:1651222",
+        "kap:1651221",
+        "kap:1651220",
+        "kap:1651219",
+        "kap:1651218",
+        "kap:1651217",
+        "kap:1651216",
+        "kap:1651215",
+        "kap:1651214",
+        "kap:1651213",
+        "kap:1651212",
+        "kap:1651211",
+        "kap:1651209",
         "kap:1651208",
         "kap:1651207",
         "kap:1651206",
@@ -72,7 +85,6 @@
         "kap:1651115",
         "kap:1651114",
         "kap:1651113",
-        "kap:1651112",
         "kap:1651111",
         "kap:1651101",
         "kap:1651100",
@@ -88,6 +100,7 @@
         "kap:1651085",
         "kap:1651083",
         "kap:1651082",
+        "kap:1651112",
         "kap:1651081",
         "kap:1651080",
         "kap:1651079",
@@ -298,8 +311,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/devrim-muhafizlari-ndan-trump-in-iddialarina-yalanlama-3785716",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/dogalgaz-fiyat-artis-kanada-da-enflasyonunu-yukseltti-3785718",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/dogalgaz-fiyat-artis-kanada-da-enflasyonunu-yukseltti-3785718",
         "bloomberght:https://www.bloomberght.com/devrim-muhafizlari-ndan-trump-in-iddialarina-yalanlama-3785716",
         "bloomberght:https://www.bloomberght.com/iran-dan-saldirilara-misilleme-uyarisi-3785715",
         "bloomberght:https://www.bloomberght.com/deutsche-banka-gore-piyasadaki-goldilocks-senaryosu-kirilgan-3785714",
@@ -975,8 +989,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:0426c6dbed9e8:0",
+      "last_seen_key": "tradingview:fxstreet:3dea391c6d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:3dea391c6d9e8:0",
+        "tradingview:fxstreet:abd3537a9d9e8:0",
+        "tradingview:matriks:6677992:0",
         "tradingview:fxstreet:0426c6dbed9e8:0",
         "tradingview:matriks:6677967:0",
         "tradingview:matriks:6677963:0",
@@ -1473,10 +1490,7 @@
         "tradingview:beincrypto:1dcecaa0bd9e8:0",
         "tradingview:beincrypto:d81642b93d9e8:0",
         "tradingview:beincrypto:a025a7ab4d9e8:0",
-        "tradingview:fxstreet:bc65fd9a9d9e8:0",
-        "tradingview:fxstreet:d9153582cd9e8:0",
-        "tradingview:fxstreet:4cf5143efd9e8:0",
-        "tradingview:beincrypto:368ee6562d9e8:0"
+        "tradingview:fxstreet:bc65fd9a9d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1489,6 +1503,91 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar yeniden asag yonlu riskle kars kars ya commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:3dea391c6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n yat r mc lar uzun pozisyonlar art r yor ancak riskleri hedge ediyor td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:abd3537a9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tether tarihinin en kapsaml ilk finansal denetimini tamamlad",
+      "link": "https://tr.tradingview.com/news/matriks:6677992:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "dogalgaz fiyat art s kanada enflasyonu yukseltti ortadogu daki cat sman n benzin fiyatlar n yukseltmesiyle kanada enflasyon oran yuzde 3 e yukselirken temel fiyat art s olcutleri dusuk seviyelerde kald",
+      "link": "https://www.bloomberght.com/dogalgaz-fiyat-artis-kanada-da-enflasyonunu-yukseltti-3785718"
+    },
+    {
+      "source": "kap",
+      "text": "islem iptali bap islem iptali sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651222"
+    },
+    {
+      "source": "kap",
+      "text": "elite herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket elite naturel organik gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651221"
+    },
+    {
+      "source": "kap",
+      "text": "ergli tmks ykyat borclanma araclar n n kira sertifikalar n n islem gormeye baslamas borclanma araclar n n kira sertifikalar n n islem gormeye baslamas sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651220"
+    },
+    {
+      "source": "kap",
+      "text": "aksgy herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi gelir tablosu sirket akis gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651219"
+    },
+    {
+      "source": "kap",
+      "text": "pcilt herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket pc iletisim medya hizmetleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651218"
+    },
+    {
+      "source": "kap",
+      "text": "akfis hak kullan m sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651217"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym yat r m kurulusu varant sertifika senetlerine iliskin bildirim is yat r m sertifika varant al m sat m islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651216"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi borsa yat r m fonu piyasa yap c l g islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651215"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren borclanma arac ihrac sat s n tamamlanmas sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651214"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank odunc pay piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651213"
+    },
+    {
+      "source": "kap",
+      "text": "kgyo ozel durum ac klamas genel yurt ici yurt d s data center projelerine iliskin cal smalar hakk nda sirket koray gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651212"
+    },
+    {
+      "source": "kap",
+      "text": "agrot bera efor ybtas borsada islem goren tipe donusum duyurusu donusum sirket merkezi kayit kurulusu a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651211"
+    },
+    {
+      "source": "kap",
+      "text": "erm ozel durum ac klamas genel ozel durum ac klamas genel sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651209"
+    },
     {
       "source": "tradingview",
       "text": "euro yukselis ivmesi abd dolar kars s nda 1 17 lerin ortas n hedefliyor scotiabank",
