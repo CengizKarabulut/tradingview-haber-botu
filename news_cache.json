@@ -183,8 +183,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/yapay-zeka-finansman-alclara-is-modelleri-uzerinde-daha-fazla-kontrol-saglyor-4031952",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/a2-milk-hissesi-neden-dusuyor-93CH-4031957",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/a2-milk-hissesi-neden-dusuyor-93CH-4031957",
+        "investing:https://tr.investing.com/news/stock-market-news/a2-milkin-yllk-kar-cindeki-tedarik-aksaklklar-nedeniyle-44-dustu-93CH-4031956",
+        "investing:https://tr.investing.com/news/economy-news/trump-pentagondan-guney-kore-ile-tatbikatlar-azaltmasn-istedi-4031955",
         "investing:https://tr.investing.com/news/economy-news/yapay-zeka-finansman-alclara-is-modelleri-uzerinde-daha-fazla-kontrol-saglyor-4031952",
         "investing:https://tr.investing.com/news/company-news/nvidiann-neocloud-finansman-onemli-gelir-aks-saglayabilir-4031951",
         "investing:https://tr.investing.com/news/company-news/ferrarinin-elektrikli-otomobili-luce-hayr-muzayedesinde-40-milyon-dolara-satld-4031948",
@@ -192,9 +195,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-55-milyon-dolarlk-hisse-satt-93CH-4031945",
         "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-ceosu-mark-walsh-24-milyon-dolar-askn-hisse-satt-93CH-4031943",
         "investing:https://tr.investing.com/news/insider-trading-news/insan-kaynaklar-direktoru-melinda-geisser-766-bin-dolarlk-hisse-satt-93CH-4031942",
-        "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-cfosu-613417-dolarlk-hisse-satt-93CH-4031941",
-        "investing:https://tr.investing.com/news/insider-trading-news/natera-icra-kurulu-baskan-matthew-rabinowitz-641800-dolarlk-hisse-satt-93CH-4031940",
-        "investing:https://tr.investing.com/news/economy-news/morgan-stanley-dezenflasyon-baslad-ama-2027-faiz-riski-var-4031939",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -215,6 +215,9 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/insider-trading-news/savers-value-village-cfosu-613417-dolarlk-hisse-satt-93CH-4031941",
+        "investing:https://tr.investing.com/news/insider-trading-news/natera-icra-kurulu-baskan-matthew-rabinowitz-641800-dolarlk-hisse-satt-93CH-4031940",
+        "investing:https://tr.investing.com/news/economy-news/morgan-stanley-dezenflasyon-baslad-ama-2027-faiz-riski-var-4031939",
         "investing:https://tr.investing.com/news/insider-trading-news/sentinelone-muhasebe-muduru-109799-dolarlk-hisse-satt-93CH-4031937",
         "investing:https://tr.investing.com/news/insider-trading-news/roku-baskan-fuchsberg-16-milyon-dolarlk-hisse-satt-93CH-4031936",
         "investing:https://tr.investing.com/news/stock-market-news/tarihi-2c-kazanc-sezonunda-hisse-fiyat-tepkileri-giderek-kopuyor-4031934",
@@ -465,8 +468,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:14c57b3d1d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:d6c40c0d1d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:d6c40c0d1d9e8:0",
+        "tradingview:fxstreet:08e38409fd9e8:0",
         "tradingview:fxstreet:14c57b3d1d9e8:0",
         "tradingview:fxstreet:45d94f6d6d9e8:0",
         "tradingview:fxstreet:fddd92637d9e8:0",
@@ -477,6 +482,7 @@
         "tradingview:fxstreet:4d96cbc1fd9e8:0",
         "tradingview:fxstreet:bb9840ee7d9e8:0",
         "tradingview:fxstreet:ea1d6eb5fd9e8:0",
+        "tradingview:matriks:6676146:0",
         "tradingview:beincrypto:d22b0c78fd9e8:0",
         "tradingview:beincrypto:d683262cbd9e8:0",
         "tradingview:beincrypto:f4175b390d9e8:0",
@@ -600,6 +606,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "fed faiz art r m beklentileri azal rken euro 1 1550 nin uzerine gucleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d6c40c0d1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya n n gsyh si 2026 2 ceyrekte ceyreklik bazda 0 5 beklentisi kars s nda 0 3 artt",
+      "link": "https://tr.tradingview.com/news/fxstreet:08e38409fd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "a2 milk hissesi neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/a2-milk-hissesi-neden-dusuyor-93CH-4031957"
+    },
+    {
+      "source": "investing",
+      "text": "a2 milk in y ll k kar cin deki tedarik aksakl klar nedeniyle 44 dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/a2-milkin-yllk-kar-cindeki-tedarik-aksaklklar-nedeniyle-44-dustu-93CH-4031956"
+    },
+    {
+      "source": "investing",
+      "text": "trump pentagon dan guney kore tatbikatlar azaltmas n istedi",
+      "link": "https://tr.investing.com/news/economy-news/trump-pentagondan-guney-kore-ile-tatbikatlar-azaltmasn-istedi-4031955"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar azalan fed faiz art r m beklentileriyle 0 7100 e yak n ivme kazand",
