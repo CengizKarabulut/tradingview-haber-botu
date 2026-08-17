@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1650967",
+      "last_seen_key": "kap:1650970",
       "seen_keys": [
+        "kap:1650970",
+        "kap:1650969",
+        "kap:1650968",
         "kap:1650967",
         "kap:1650966",
         "kap:1650965",
@@ -117,8 +120,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/goldman-sachs-piyasa-fedin-faiz-artisi-konusunda-fazla-sahin-3785665",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/bloomberg-economics-ten-enflasyon-riski-uyarisi-3785668",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/bloomberg-economics-ten-enflasyon-riski-uyarisi-3785668",
+        "bloomberght:https://www.bloomberght.com/boj-her-toplantida-faiz-artirmali-3785666",
         "bloomberght:https://www.bloomberght.com/goldman-sachs-piyasa-fedin-faiz-artisi-konusunda-fazla-sahin-3785665",
         "bloomberght:https://www.bloomberght.com/trump-iran-savasi-nedeniyle-guney-kore-ile-ortak-tatbikatlari-azaltiyor-3785664",
         "bloomberght:https://www.bloomberght.com/bakir-arz-sikisikligiyla-lmede-rekor-seviyeye-yaklasiyor-3785663",
@@ -535,8 +540,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6676450:0",
+      "last_seen_key": "tradingview:matriks:6676473:0",
       "seen_keys": [
+        "tradingview:matriks:6676473:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44E04G:0",
+        "tradingview:fxstreet:ce8d68e3ed9e8:0",
+        "tradingview:fxstreet:24b3c21bdd9e8:0",
+        "tradingview:matriks:6676451:0",
         "tradingview:matriks:6676450:0",
         "tradingview:fxstreet:3f0f14210d9e8:0",
         "tradingview:matriks:6676449:0",
@@ -797,6 +807,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "teknik bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6676473:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 17 agustos pazartesi",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44E04G:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini zay f abd verilerinin fed faiz art r m beklentilerini sogutmas yla 1 3550 seviyesinin uzerinde guc topluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ce8d68e3ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "endonezya rupisi prabowo nun buyume hedefi zay f abd dolar nedeniyle gucleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:24b3c21bdd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi ekgyo seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6676451:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bloomberg economics ten enflasyon riski uyar s bloomberg economics e gore petrol soku hafiflese kuresel enflasyon riskleri yuksek seviyede seyretmeye devam ediyor",
+      "link": "https://www.bloomberght.com/bloomberg-economics-ten-enflasyon-riski-uyarisi-3785668"
+    },
+    {
+      "source": "bloomberght",
+      "text": "boj her toplant faiz art rmal japonya maliye bakanl g nda uluslararas islerden sorumlu eski basbakan yard mc s takehiko nakao yenin daha fazla deger kaybetmesini onlemek yaln zca doviz mudahalesinin yeterli olmayacag n para politikas yoluyla faizlerin yuk",
+      "link": "https://www.bloomberght.com/boj-her-toplantida-faiz-artirmali-3785666"
+    },
+    {
+      "source": "kap",
+      "text": "tsk tskb halka arz sonuclar kapeks kimya sanayi a s paylar n n halka arz sonuclar sirket turkiye sinai kalkinma bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650970"
+    },
+    {
+      "source": "kap",
+      "text": "klsyn pltur bistech pay piyasas al m sat m sistemi duyurusu hak kullan m sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650969"
+    },
+    {
+      "source": "kap",
+      "text": "efor pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650968"
+    },
     {
       "source": "tradingview",
       "text": "gunluk bulten bulls yat r m",
