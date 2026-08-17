@@ -117,8 +117,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/bakir-arz-sikisikligiyla-lmede-rekor-seviyeye-yaklasiyor-3785663",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-iran-savasi-nedeniyle-guney-kore-ile-ortak-tatbikatlari-azaltiyor-3785664",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/trump-iran-savasi-nedeniyle-guney-kore-ile-ortak-tatbikatlari-azaltiyor-3785664",
         "bloomberght:https://www.bloomberght.com/bakir-arz-sikisikligiyla-lmede-rekor-seviyeye-yaklasiyor-3785663",
         "bloomberght:https://www.bloomberght.com/altin-zayif-dolar-ve-faiz-beklentileriyle-yukseldi-3785661",
         "bloomberght:https://www.bloomberght.com/japonya-ekonomisi-ikinci-ceyrekte-beklentilerin-altinda-buyudu-3785660",
@@ -523,8 +524,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6676405:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44E03Z:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44E03Z:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44E03X:0",
+        "tradingview:matriks:6676418:0",
+        "tradingview:fxstreet:2e85500e8d9e8:0",
         "tradingview:matriks:6676405:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44E07O:0",
         "tradingview:matriks:6676398:0",
@@ -760,6 +765,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "emlak konut q2 1 0 mlyr tl net kar etti gecen y l ayn donem 7 9 mlyr tl net kar",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44E03Z:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "enka insaat q2 15 0 mlyr tl net kar etti gecen y l ayn donem 11 7 mlyr tl net kar",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44E03X:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasalarda bugun qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6676418:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro azalan fed faiz art r m beklentileri aras nda zorlanan usd kars s nda iki ayl k zirveye yukseliyor 1 1600 seviyesini hedefliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2e85500e8d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "trump iran savas nedeniyle guney kore ortak tatbikatlar azalt yor abd baskan donald trump guney kore duzenlenen ortak askeri tatbikatlar n onemli olcude azalt lmas talimat n pentagon a verdigini ac klad",
+      "link": "https://www.bloomberght.com/trump-iran-savasi-nedeniyle-guney-kore-ile-ortak-tatbikatlari-azaltiyor-3785664"
+    },
     {
       "source": "tradingview",
       "text": "piyasa bulteni qnb invest",
