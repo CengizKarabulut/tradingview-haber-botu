@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651667",
+      "last_seen_key": "kap:1651668",
       "seen_keys": [
+        "kap:1651668",
         "kap:1651667",
         "kap:1651666",
         "kap:1651665",
@@ -502,8 +503,7 @@
         "kap:1651043",
         "kap:1651042",
         "kap:1651041",
-        "kap:1651040",
-        "kap:1651039"
+        "kap:1651040"
       ]
     },
     "bloomberght": {
@@ -1761,6 +1761,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "vestl ozel durum ac klamas genel 2026 2 ceyrek finansal tablolar n ac klanmas sirket vestel elektronik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651668"
+    },
     {
       "source": "investing",
       "text": "bws financial inter parfums hissesini kazanc endiseleriyle dusurdu",
@@ -9255,11 +9260,6 @@
       "source": "investing",
       "text": "nvidia n n neocloud finansman onemli gelir ak s saglayabilir",
       "link": "https://tr.investing.com/news/company-news/nvidiann-neocloud-finansman-onemli-gelir-aks-saglayabilir-4031951"
-    },
-    {
-      "source": "investing",
-      "text": "ferrari nin elektrikli otomobili luce hay r muzayedesinde 40 milyon dolara sat ld",
-      "link": "https://tr.investing.com/news/company-news/ferrarinin-elektrikli-otomobili-luce-hayr-muzayedesinde-40-milyon-dolara-satld-4031948"
     }
   ]
 }
