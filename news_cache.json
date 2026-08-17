@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651072",
+      "last_seen_key": "kap:1651078",
       "seen_keys": [
+        "kap:1651078",
+        "kap:1651077",
+        "kap:1651076",
+        "kap:1651075",
+        "kap:1651074",
+        "kap:1651073",
         "kap:1651072",
         "kap:1651070",
         "kap:1651069",
@@ -775,8 +781,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44E0JG:0",
+      "last_seen_key": "tradingview:matriks:6677402:0",
       "seen_keys": [
+        "tradingview:matriks:6677402:0",
+        "tradingview:matriks:6677396:0",
+        "tradingview:fxstreet:7f5f164acd9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44E0JG:0",
         "tradingview:matriks:6677355:0",
         "tradingview:fxstreet:0818f1533d9e8:0",
@@ -1266,6 +1275,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "mia teknoloji bagl ortakl g m tripy mobility y ld z teknik universitesi aras nda universite yerleskesi icerisinde paylas ml elektrikli bisiklet sisteminin isletilmesine yonelik hizmetlerin sunulmas na iliskin sozlesme imzaland",
+      "link": "https://tr.tradingview.com/news/matriks:6677402:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "makro analiz gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6677396:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yen japonya gsyh sinin yavaslamas yla abd dolar kars s nda 159 00 seviyesinin alt na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:7f5f164acd9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "dnisi ihrac belgesi sermaye art r m na iliskin onayl ihrac belgesi sirket dinamik isi makina yalitim malzemeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651078"
+    },
+    {
+      "source": "kap",
+      "text": "dnisi sermaye art r m azalt m islemlerine iliskin bildirim bedelsiz sermaye art rm na iliskin spk basvuru sonucu sirket dinamik isi makina yalitim malzemeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651077"
+    },
+    {
+      "source": "kap",
+      "text": "sekur herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem kurum gecici vergi beyannamesi hakk nda sirket sekuro plastik ambalaj sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651076"
+    },
+    {
+      "source": "kap",
+      "text": "qnbff ihrac tavan na iliskin bildirim menkul k ymet ihrac na yonelik yonetim kurulu karar al nm st r sirket qnb faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651075"
+    },
+    {
+      "source": "kap",
+      "text": "pkart pay baz nda devre kesici bildirimi pkart e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651074"
+    },
+    {
+      "source": "kap",
+      "text": "miatk ozel durum ac klamas genel tripy mobility y ld z teknik universitesi sozlesme hak sirket mia teknoloji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651073"
+    },
     {
       "source": "tradingview",
       "text": "endonezya daki depremde olenlerin say s 68 e yukseldi arama kurtarma cal smalar devam ediyor",
