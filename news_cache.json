@@ -1182,8 +1182,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:9d557319fd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:30eae7061d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:30eae7061d9e8:0",
         "tradingview:fxstreet:9d557319fd9e8:0",
         "tradingview:fxstreet:969c171fcd9e8:0",
         "tradingview:fxstreet:4294c0c9cd9e8:0",
@@ -1682,8 +1683,7 @@
         "tradingview:matriks:6676337:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44E03E:0",
         "tradingview:matriks:6676332:0",
-        "tradingview:matriks:6676326:0",
-        "tradingview:matriks:6676327:0"
+        "tradingview:matriks:6676326:0"
       ]
     },
     "forexfactory": {
@@ -1696,6 +1696,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar zay f abd verileriyle dolar n dusmesiyle yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:30eae7061d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "gbp jpy fiyat analizi al c lar 50 gunluk sma y yeniden ele gecirdi gozler 217 00 seviyesinde",
@@ -9190,11 +9195,6 @@
       "source": "tradingview",
       "text": "japonya 1 ceyrek gecici gsyh y ll kland r lm s 1 1 beklenti 2 0 onceki 1 9",
       "link": "https://tr.tradingview.com/news/matriks:6676325:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japonya 1 ceyrek gecici d s talep onceki ceyrege gore 0 5 beklenti 0 3 onceki 0 3",
-      "link": "https://tr.tradingview.com/news/matriks:6676322:0"
     }
   ]
 }
