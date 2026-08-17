@@ -117,8 +117,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-iran-savasi-nedeniyle-guney-kore-ile-ortak-tatbikatlari-azaltiyor-3785664",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/goldman-sachs-piyasa-fedin-faiz-artisi-konusunda-fazla-sahin-3785665",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/goldman-sachs-piyasa-fedin-faiz-artisi-konusunda-fazla-sahin-3785665",
         "bloomberght:https://www.bloomberght.com/trump-iran-savasi-nedeniyle-guney-kore-ile-ortak-tatbikatlari-azaltiyor-3785664",
         "bloomberght:https://www.bloomberght.com/bakir-arz-sikisikligiyla-lmede-rekor-seviyeye-yaklasiyor-3785663",
         "bloomberght:https://www.bloomberght.com/altin-zayif-dolar-ve-faiz-beklentileriyle-yukseldi-3785661",
@@ -193,8 +194,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/national-australia-bank-hisseleri-neden-dusuyor-93CH-4032021",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/genco-diana-shippingin-satn-alma-teklifini-reddetti-93CH-4032025",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/genco-diana-shippingin-satn-alma-teklifini-reddetti-93CH-4032025",
         "investing:https://tr.investing.com/news/stock-market-news/national-australia-bank-hisseleri-neden-dusuyor-93CH-4032021",
         "investing:https://tr.investing.com/news/stock-market-news/hutchmed-hissesi-bugun-neden-yukseliste-93CH-4032020",
         "investing:https://tr.investing.com/news/stock-market-news/geely-automobile-hisseleri-neden-yukseliste-93CH-4032019",
@@ -204,7 +206,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/sun-pharma-lipitor-anlasmasyla-ilgili-davay-kazand-93CH-4032012",
         "investing:https://tr.investing.com/news/insider-trading-news/gates-industrial-yoneticisi-zhang-peifang-171720-dolar-degerinde-hisse-satt-93CH-4032011",
         "investing:https://tr.investing.com/news/stock-market-news/aurizon-hissesi-bugun-neden-dusuyor-93CH-4032010",
-        "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-fed-faiz-artrm-beklentilerinde-dususle-yukseldi-4032005",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -225,6 +226,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-fed-faiz-artrm-beklentilerinde-dususle-yukseldi-4032005",
         "investing:https://tr.investing.com/news/insider-trading-news/magnite-yoneticisi-knopper-848296-dolar-degerinde-hisse-satt-93CH-4032002",
         "investing:https://tr.investing.com/news/stock-market-news/dentsu-hisseleri-neden-dusuyor-93CH-4032001",
         "investing:https://tr.investing.com/news/stock-market-news/ebara-hissesi-bugun-neden-dusuyor-93CH-4032000",
@@ -524,8 +526,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44E03Z:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44E08B:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L6N44E08B:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44E03Z:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44E03X:0",
         "tradingview:matriks:6676418:0",
@@ -765,6 +768,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz tahvil petrol alt n",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44E08B:0"
+    },
+    {
+      "source": "investing",
+      "text": "genco diana shipping in sat n alma teklifini reddetti",
+      "link": "https://tr.investing.com/news/company-news/genco-diana-shippingin-satn-alma-teklifini-reddetti-93CH-4032025"
+    },
+    {
+      "source": "bloomberght",
+      "text": "goldman sachs piyasa fed in faiz art s konusunda fazla sahin goldman sachs group inc e gore abd enflasyonun h z kesmesi nedeniyle piyasalar n fed in faiz art racag yonundeki beklentileri hala fazla agresif",
+      "link": "https://www.bloomberght.com/goldman-sachs-piyasa-fedin-faiz-artisi-konusunda-fazla-sahin-3785665"
+    },
     {
       "source": "tradingview",
       "text": "emlak konut q2 1 0 mlyr tl net kar etti gecen y l ayn donem 7 9 mlyr tl net kar",
