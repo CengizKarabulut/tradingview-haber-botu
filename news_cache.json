@@ -2,8 +2,29 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1650980",
+      "last_seen_key": "kap:1651010",
       "seen_keys": [
+        "kap:1651010",
+        "kap:1651009",
+        "kap:1651008",
+        "kap:1651007",
+        "kap:1651006",
+        "kap:1651005",
+        "kap:1651004",
+        "kap:1651003",
+        "kap:1651002",
+        "kap:1651001",
+        "kap:1651000",
+        "kap:1650999",
+        "kap:1650998",
+        "kap:1650997",
+        "kap:1650995",
+        "kap:1650991",
+        "kap:1650990",
+        "kap:1650989",
+        "kap:1650987",
+        "kap:1650986",
+        "kap:1650981",
         "kap:1650980",
         "kap:1650979",
         "kap:1650978",
@@ -126,8 +147,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-petrolun-seyri-izleniyor-3785670",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/citi-den-tcmb-analizi-ikinci-yari-icin-sinirli-alani-var-3785674",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/citi-den-tcmb-analizi-ikinci-yari-icin-sinirli-alani-var-3785674",
+        "bloomberght:https://www.bloomberght.com/kapeks-kimya-da-halka-arz-buyuklugu-2-36-milyar-tl-3785671",
         "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-petrolun-seyri-izleniyor-3785670",
         "bloomberght:https://www.bloomberght.com/osd-otomotiv-uretimi-ilk-7-ayda-yuzde-8-geriledi-3785669",
         "bloomberght:https://www.bloomberght.com/bloomberg-economics-ten-enflasyon-riski-uyarisi-3785668",
@@ -141,6 +164,7 @@
         "bloomberght:https://www.bloomberght.com/petrol-hurmuz-gerilimiyle-yukseldi-3785659",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-17-agustos-2026-3785658",
         "bloomberght:https://www.bloomberght.com/trump-tan-mekke-anlasmasi-na-destek-3785657",
+        "bloomberght:https://www.bloomberght.com/dolar-ne-kadar-oldu-17-agustos-2026-dolar-kurunda-son-durum-ne-pkh2-3785673",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-17082026-3785656",
         "bloomberght:https://www.bloomberght.com/abd-buyumek-istiyor-ama-gocmen-istemiyor-3785655",
         "bloomberght:https://www.bloomberght.com/istanbul-da-donusturulen-konut-sayisi-1-milyona-ulasti-3785654",
@@ -208,8 +232,15 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/hiscox-300-milyon-dolarlk-geri-alm-programnn-ilk-ksmn-tamamlad-93CH-4032051",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/astrazeneca-akciger-kanseri-ilac-denemesini-durdurdu-93CH-4032096",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/astrazeneca-akciger-kanseri-ilac-denemesini-durdurdu-93CH-4032096",
+        "investing:https://tr.investing.com/news/company-news/enhertu-akciger-kanseri-denemesinde-ilerlemesiz-sagkalm-faydas-gosterdi-93CH-4032091",
+        "investing:https://tr.investing.com/news/company-news/cleantech-lithium-genel-kurul-toplantsn-11-eylule-ald-93CH-4032082",
+        "investing:https://tr.investing.com/news/company-news/alien-metals-avustralya-bakraltn-projesi-icin-12-aylk-plan-acklad-93CH-4032067",
+        "investing:https://tr.investing.com/news/company-news/astrazenecann-tagrisso-ve-orpathys-kombinasyonu-akciger-kanserinde-yasam-suresini-uzatt-93CH-4032060",
+        "investing:https://tr.investing.com/news/company-news/bsf-enterprise-laboratuvar-deri-ve-robotik-icin-ortaklk-kurdu-93CH-4032055",
+        "investing:https://tr.investing.com/news/stock-market-news/sig-group-erkensi-ceo-olarak-atad-ve-ketonun-yerini-ald-4032056",
         "investing:https://tr.investing.com/news/company-news/hiscox-300-milyon-dolarlk-geri-alm-programnn-ilk-ksmn-tamamlad-93CH-4032051",
         "investing:https://tr.investing.com/news/company-news/greencoat-renewables-guney-afrika-temettusu-icin-kur-belirledi-93CH-4032050",
         "investing:https://tr.investing.com/news/company-news/thungela-550-sent-ara-temettu-acklad-93CH-4032049",
@@ -847,6 +878,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "astrazeneca akciger kanseri ilac denemesini durdurdu",
+      "link": "https://tr.investing.com/news/company-news/astrazeneca-akciger-kanseri-ilac-denemesini-durdurdu-93CH-4032096"
+    },
+    {
+      "source": "investing",
+      "text": "enhertu akciger kanseri denemesinde ilerlemesiz sagkal m faydas gosterdi",
+      "link": "https://tr.investing.com/news/company-news/enhertu-akciger-kanseri-denemesinde-ilerlemesiz-sagkalm-faydas-gosterdi-93CH-4032091"
+    },
+    {
+      "source": "investing",
+      "text": "cleantech lithium genel kurul toplant s n 11 eylul e ald",
+      "link": "https://tr.investing.com/news/company-news/cleantech-lithium-genel-kurul-toplantsn-11-eylule-ald-93CH-4032082"
+    },
+    {
+      "source": "investing",
+      "text": "alien metals avustralya bak r alt n projesi 12 ayl k plan ac klad",
+      "link": "https://tr.investing.com/news/company-news/alien-metals-avustralya-bakraltn-projesi-icin-12-aylk-plan-acklad-93CH-4032067"
+    },
+    {
+      "source": "investing",
+      "text": "astrazeneca n n tagrisso orpathys kombinasyonu akciger kanserinde yasam suresini uzatt",
+      "link": "https://tr.investing.com/news/company-news/astrazenecann-tagrisso-ve-orpathys-kombinasyonu-akciger-kanserinde-yasam-suresini-uzatt-93CH-4032060"
+    },
+    {
+      "source": "investing",
+      "text": "bsf enterprise laboratuvar deri robotik ortakl k kurdu",
+      "link": "https://tr.investing.com/news/company-news/bsf-enterprise-laboratuvar-deri-ve-robotik-icin-ortaklk-kurdu-93CH-4032055"
+    },
+    {
+      "source": "investing",
+      "text": "sig group erkens i ceo olarak atad keto nun yerini ald",
+      "link": "https://tr.investing.com/news/stock-market-news/sig-group-erkensi-ceo-olarak-atad-ve-ketonun-yerini-ald-4032056"
+    },
+    {
+      "source": "bloomberght",
+      "text": "citi den tcmb analizi ikinci yar s n rl alan var citigroup turkiye cumhuriyet merkez bankas n n tcmb y l n ikinci yar s nda faiz indirimi alan n n s n rl oldugunu politika faizinin y l sonunda yuzde 35 seviyesinde gerceklesecegini ongordu",
+      "link": "https://www.bloomberght.com/citi-den-tcmb-analizi-ikinci-yari-icin-sinirli-alani-var-3785674"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kapeks kimya halka arz buyuklugu 2 36 milyar tl 12 14 agustos tarihleri aras nda talep toplama sureci gerceklestirilen kapeks kimya n n halka arz sonuclar ac kland",
+      "link": "https://www.bloomberght.com/kapeks-kimya-da-halka-arz-buyuklugu-2-36-milyar-tl-3785671"
+    },
+    {
+      "source": "kap",
+      "text": "ardyz pay baz nda devre kesici bildirimi ardyz e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651010"
+    },
+    {
+      "source": "kap",
+      "text": "lydho pay baz nda devre kesici bildirimi lydho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651009"
+    },
+    {
+      "source": "kap",
+      "text": "hktm ozel durum ac klamas genel pay sahiplerinin pay sat s na iliskin gorusmeleri hakk nda sirket hidropar hareket kontrol teknolojileri merkezi sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651008"
+    },
+    {
+      "source": "kap",
+      "text": "surgy pay baz nda devre kesici bildirimi surgy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651007"
+    },
+    {
+      "source": "kap",
+      "text": "akenr pay baz nda devre kesici bildirimi akenr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651006"
+    },
+    {
+      "source": "kap",
+      "text": "rodrg pay baz nda devre kesici bildirimi rodrg e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651005"
+    },
+    {
+      "source": "kap",
+      "text": "crfsa pay baz nda devre kesici bildirimi crfsa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651004"
+    },
+    {
+      "source": "kap",
+      "text": "rnpol pay baz nda devre kesici bildirimi rnpol e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651003"
+    },
+    {
+      "source": "kap",
+      "text": "tera tra ozel durum ac klamas genel besiktas tera holding grup sirketleri aras ndaki mevcut is birliginin genisletilmesi sirket tera yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651002"
+    },
+    {
+      "source": "kap",
+      "text": "nrbnk nyb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsnurl82710 isin kodlu tahvil sat s n n tamamlanmas duzeltme bildirimi sirket nurol yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651001"
+    },
+    {
+      "source": "kap",
+      "text": "eplas herhangi otoriteye mali tablo verilmesi eplas 30 06 2026 tarihli solo gelir tablosu sirket egeplast ege plastik ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651000"
+    },
+    {
+      "source": "kap",
+      "text": "mzhld herhangi otoriteye mali tablo verilmesi mzhld 30 06 2026 tarihli solo gelir tablosu sirket mazhar zorlu holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650999"
+    },
+    {
+      "source": "kap",
+      "text": "hrket ozel durum ac klamas genel ict50 listesi s ralamas sirket hareket proje tasimaciligi yuk muhendisligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650998"
+    },
+    {
+      "source": "kap",
+      "text": "bjkas ozel durum ac klamas genel tera holding grup sirketleri mevcut is iliskisinin genisletilmesi sirket besiktas futbol yatirimlari sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650997"
+    },
+    {
+      "source": "kap",
+      "text": "isatr isbtr isctr iskur tib pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren yurtd s piyasalara tahvil ihrac sirket turkiye is bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650995"
+    },
+    {
+      "source": "kap",
+      "text": "halki hly halka arz islemlerinde sermaye piyasas arac n n 5 inden fazlas n sat n alanlara iliskin bildirim turker vangolu enerji yat r m a s paylar n n halka arz nda 5ten fazla pay alan yat r mc listesi sirket halk yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650991"
+    },
+    {
+      "source": "kap",
+      "text": "halki hly halka arz sonuclar turker vangolu enerji yat r m a s paylar n n halka arz na iliskin sonuclar sirket halk yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650990"
+    },
+    {
+      "source": "kap",
+      "text": "tby tebyt yat r m kurulusu varant sertifika senetlerine iliskin bildirim haftalik varant alim satim sirket teb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650989"
+    },
+    {
+      "source": "kap",
+      "text": "ihlas ozel durum ac klamas genel istirak sermaye art r m sirket ihlas holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650987"
+    },
+    {
+      "source": "kap",
+      "text": "ihlas finansal duran varl k edinimi orta asya investment holding paylar n n devral nmas hk sirket ihlas holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650986"
+    },
+    {
+      "source": "kap",
+      "text": "zkbvr tertip ihrac belgesi tertip ihrac belgesi sirket zkb varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650981"
+    },
     {
       "source": "tradingview",
       "text": "teknik bulten ata yat r m",
