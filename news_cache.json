@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651102",
+      "last_seen_key": "kap:1651116",
       "seen_keys": [
+        "kap:1651116",
+        "kap:1651115",
+        "kap:1651114",
+        "kap:1651113",
+        "kap:1651112",
+        "kap:1651111",
         "kap:1651102",
         "kap:1651101",
         "kap:1651100",
@@ -328,18 +334,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-yapay-zeka-potansiyeli-nedeniyle-okta-hissesini-yukseltti-93CH-4032646",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/global-net-lease-hisseleri-neden-yukseliyor-93CH-4032688",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-yapay-zeka-potansiyeli-nedeniyle-okta-hissesini-yukseltti-93CH-4032646",
-        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-crowdstrike-hissesi-icin-hedef-fiyat-yukseltti-93CH-4032644",
-        "investing:https://tr.investing.com/news/investment-ideas/gercege-uygun-deger-insperitynin-68lik-rallisini-9-ay-once-tespit-etti-93CH-4032643",
-        "investing:https://tr.investing.com/news/company-news/eyepointin-duravyu-ilac-yas-amd-denemesinde-basarsz-oldu-93CH-4032641",
-        "investing:https://tr.investing.com/news/company-news/castle-biosciences-nasdaq-texasta-ikili-kote-oldu-93CH-4032638",
-        "investing:https://tr.investing.com/news/company-news/vinfast-surucu-destek-teknolojisi-ve-tedarik-zinciri-stratejisini-acklad-93CH-4032639",
-        "investing:https://tr.investing.com/news/company-news/fulcrum-therapeutics-slate-medicines-ile-245-milyon-dolarlk-birlesme-93CH-4032640",
-        "investing:https://tr.investing.com/news/company-news/auddia-dijital-radyo-yaynlar-icin-amg-corp-ile-ortaklk-kurdu-93CH-4032636",
-        "investing:https://tr.investing.com/news/company-news/united-therapeutics-akciger-fibrozu-calsmasnda-kayt-tamamlad-93CH-4032637",
-        "investing:https://tr.investing.com/news/company-news/dynatracein-yan-kurulusu-125-milyar-dolarlk-tahvil-ihrac-planlyor-93CH-4032634",
+        "investing:https://tr.investing.com/news/stock-market-news/global-net-lease-hisseleri-neden-yukseliyor-93CH-4032688",
+        "investing:https://tr.investing.com/news/insider-trading-news/fnb-toptan-bankaclk-direktoru-78038-dolarlk-hisse-satt-93CH-4032685",
+        "investing:https://tr.investing.com/news/economy-news/cin-yeni-bes-yllk-planda-petrol-ve-gaz-hedeflerini-acklad-93CH-4032683",
+        "investing:https://tr.investing.com/news/insider-trading-news/v-f-corp-yoneticisi-richard-carucci-294600-dolar-hisse-ald-93CH-4032682",
+        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-alumis-hissesi-icin-notr-gorusunu-korudu-93CH-4032681",
+        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-celcuity-hissesi-icin-hedef-fiyat-korudu-93CH-4032679",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-gemini-space-station-icin-hisse-hedefini-dusurdu-93CH-4032680",
+        "investing:https://tr.investing.com/news/analyst-ratings/wainwright-dyne-therapeutics-icin-hisse-onerisini-korudu-93CH-4032678",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-intuitin-hisse-hedefini-2027-gorunumu-nedeniyle-dusurdu-93CH-4032677",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-amylyx-hisse-hedefini-fiyatlamaya-dayanarak-30-dolara-yukseltti-93CH-4032676",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -360,6 +366,16 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-yapay-zeka-potansiyeli-nedeniyle-okta-hissesini-yukseltti-93CH-4032646",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-crowdstrike-hissesi-icin-hedef-fiyat-yukseltti-93CH-4032644",
+        "investing:https://tr.investing.com/news/investment-ideas/gercege-uygun-deger-insperitynin-68lik-rallisini-9-ay-once-tespit-etti-93CH-4032643",
+        "investing:https://tr.investing.com/news/company-news/eyepointin-duravyu-ilac-yas-amd-denemesinde-basarsz-oldu-93CH-4032641",
+        "investing:https://tr.investing.com/news/company-news/castle-biosciences-nasdaq-texasta-ikili-kote-oldu-93CH-4032638",
+        "investing:https://tr.investing.com/news/company-news/vinfast-surucu-destek-teknolojisi-ve-tedarik-zinciri-stratejisini-acklad-93CH-4032639",
+        "investing:https://tr.investing.com/news/company-news/fulcrum-therapeutics-slate-medicines-ile-245-milyon-dolarlk-birlesme-93CH-4032640",
+        "investing:https://tr.investing.com/news/company-news/auddia-dijital-radyo-yaynlar-icin-amg-corp-ile-ortaklk-kurdu-93CH-4032636",
+        "investing:https://tr.investing.com/news/company-news/united-therapeutics-akciger-fibrozu-calsmasnda-kayt-tamamlad-93CH-4032637",
+        "investing:https://tr.investing.com/news/company-news/dynatracein-yan-kurulusu-125-milyar-dolarlk-tahvil-ihrac-planlyor-93CH-4032634",
         "investing:https://tr.investing.com/news/economy-news/ecb-teknoloji-hisse-duzeltmesi-konusunda-uyard-4032547",
         "investing:https://tr.investing.com/news/analyst-ratings/susquehanna-jdcom-icin-hedef-fiyat-dusurdu-93CH-4032544",
         "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-alpha-compute-hissesini-notr-notla-takibe-ald-93CH-4032543",
@@ -822,8 +838,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:07dd88ebad9e8:0",
+      "last_seen_key": "tradingview:matriks:6677546:0",
       "seen_keys": [
+        "tradingview:matriks:6677546:0",
+        "tradingview:matriks:6677532:0",
+        "tradingview:fxstreet:b667c9a36d9e8:0",
+        "tradingview:matriks:6677507:0",
+        "tradingview:fxstreet:5208361c7d9e8:0",
+        "tradingview:matriks:6677503:0",
         "tradingview:fxstreet:07dd88ebad9e8:0",
         "tradingview:fxstreet:33064feded9e8:0",
         "tradingview:matriks:6677484:0",
@@ -1317,13 +1339,7 @@
         "tradingview:fxstreet:8e0730ffbd9e8:0",
         "tradingview:matriks:6673023:0",
         "tradingview:matriks:6673011:0",
-        "tradingview:matriks:6673005:0",
-        "tradingview:tag:reuters.com,2026:newsml_S8N43P0HU:0",
-        "tradingview:fxstreet:73e85fd1cd9e8:0",
-        "tradingview:matriks:6672966:0",
-        "tradingview:matriks:6672964:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44B143:0",
-        "tradingview:matriks:6672956:0"
+        "tradingview:matriks:6673005:0"
       ]
     },
     "forexfactory": {
@@ -1336,6 +1352,116 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "trump iran devrim muhaf zlar dogrudan temas kurduk savas bitirmekte acelem yok",
+      "link": "https://tr.tradingview.com/news/matriks:6677546:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ozel haber tcmb rezervlerinin gecen hafta 5 1 milyar dolar artt g hesapland",
+      "link": "https://tr.tradingview.com/news/matriks:6677532:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni 160 seviyesine yak n mudahale riski vurguland dbs",
+      "link": "https://tr.tradingview.com/news/fxstreet:b667c9a36d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "butce dengesi is bankas",
+      "link": "https://tr.tradingview.com/news/matriks:6677507:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n azalan fed faiz art r m beklentilerinin abd dolar uzerinde bask olusturmas yla 4 400 civar nda tutunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5208361c7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "trump umman tehdit etti hurmuz bogaz nda onumuze c karsa bombalar z",
+      "link": "https://tr.tradingview.com/news/matriks:6677503:0"
+    },
+    {
+      "source": "investing",
+      "text": "global net lease hisseleri neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/global-net-lease-hisseleri-neden-yukseliyor-93CH-4032688"
+    },
+    {
+      "source": "investing",
+      "text": "fnb toptan bankac l k direktoru 78 038 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/fnb-toptan-bankaclk-direktoru-78038-dolarlk-hisse-satt-93CH-4032685"
+    },
+    {
+      "source": "investing",
+      "text": "cin yeni bes y ll k planda petrol gaz hedeflerini ac klad",
+      "link": "https://tr.investing.com/news/economy-news/cin-yeni-bes-yllk-planda-petrol-ve-gaz-hedeflerini-acklad-93CH-4032683"
+    },
+    {
+      "source": "investing",
+      "text": "v f corp yoneticisi richard carucci 294 600 dolar hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/v-f-corp-yoneticisi-richard-carucci-294600-dolar-hisse-ald-93CH-4032682"
+    },
+    {
+      "source": "investing",
+      "text": "h c wainwright alumis hissesi notr gorusunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-alumis-hissesi-icin-notr-gorusunu-korudu-93CH-4032681"
+    },
+    {
+      "source": "investing",
+      "text": "h c wainwright celcuity hissesi hedef fiyat korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-celcuity-hissesi-icin-hedef-fiyat-korudu-93CH-4032679"
+    },
+    {
+      "source": "investing",
+      "text": "mizuho gemini space station hisse hedefini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-gemini-space-station-icin-hisse-hedefini-dusurdu-93CH-4032680"
+    },
+    {
+      "source": "investing",
+      "text": "wainwright dyne therapeutics hisse onerisini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/wainwright-dyne-therapeutics-icin-hisse-onerisini-korudu-93CH-4032678"
+    },
+    {
+      "source": "investing",
+      "text": "mizuho intuit in hisse hedefini 2027 gorunumu nedeniyle dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-intuitin-hisse-hedefini-2027-gorunumu-nedeniyle-dusurdu-93CH-4032677"
+    },
+    {
+      "source": "investing",
+      "text": "mizuho amylyx hisse hedefini fiyatlamaya dayanarak 30 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-amylyx-hisse-hedefini-fiyatlamaya-dayanarak-30-dolara-yukseltti-93CH-4032676"
+    },
+    {
+      "source": "kap",
+      "text": "izfas herhangi otoriteye mali tablo verilmesi 2026 yili 2 donemine ait kurumlar gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket izmir firca sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651116"
+    },
+    {
+      "source": "kap",
+      "text": "gerel herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket gersan elektrik ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651115"
+    },
+    {
+      "source": "kap",
+      "text": "hlgyo pay baz nda devre kesici bildirimi hlgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651114"
+    },
+    {
+      "source": "kap",
+      "text": "dstkf pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 20 000 000 usd nominal degerli tahvilin kupon odemesi yurt d s sirket destek finans faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651113"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym yat r m kurulusu varant sertifika senetlerine iliskin bildirim is yat r m arac kurulus varantlar n n itfa bildirimi sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651112"
+    },
+    {
+      "source": "kap",
+      "text": "trgyo herhangi otoriteye mali tablo verilmesi 2026 yili 2 donemine ait kurumlar gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket torunlar gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651111"
+    },
     {
       "source": "tradingview",
       "text": "kanada dolar enflasyon verilerinin boc gorunumunu test etmeye haz rlanmas yla deger kazand",
