@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651011",
+      "last_seen_key": "kap:1651017",
       "seen_keys": [
+        "kap:1651017",
+        "kap:1651016",
+        "kap:1651013",
+        "kap:1651012",
         "kap:1651011",
         "kap:1651010",
         "kap:1651009",
@@ -148,8 +152,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/turker-vangolu-halka-arzdan-6-04-milyar-lira-topladi-3785678",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/ticari-gayrimenkulde-reel-kayip-yuzde-2-yi-asti-3785687",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/ticari-gayrimenkulde-reel-kayip-yuzde-2-yi-asti-3785687",
         "bloomberght:https://www.bloomberght.com/turker-vangolu-halka-arzdan-6-04-milyar-lira-topladi-3785678",
         "bloomberght:https://www.bloomberght.com/bloomberg-ht-tuketici-guven-on-endeksinde-artis-3785676",
         "bloomberght:https://www.bloomberght.com/citi-den-tcmb-analizi-ikinci-yari-icin-sinirli-alani-var-3785674",
@@ -236,17 +241,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-rekabet-basks-nedeniyle-pldt-hissesini-dusurdu-93CH-4032121",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/investacc-group-hisseleri-yukselen-gorunumle-9-artt-93CH-4032143",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-rekabet-basks-nedeniyle-pldt-hissesini-dusurdu-93CH-4032121",
-        "investing:https://tr.investing.com/news/economy-news/goldman-sachsn-uyars-fed-beklentileri-hala-fazla-sahin-tlye-nefes-var-m-4032120",
-        "investing:https://tr.investing.com/news/global-filings/son-dakika-edip-gayrimenkul-17-agustos16-eylul-acga-satsa-kapal-93CH-4032116",
-        "investing:https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yukseliste-fed-beklentileri-destek-veriyor-4032117",
-        "investing:https://tr.investing.com/news/stock-market-news/astrazeneca-akciger-kanseri-denemesini-durdurdu-4032113",
-        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-635-bin-dolarda-sabit-iran-gerilimi-ve-abd-duzenlemeleri-odakta-4032103",
-        "investing:https://tr.investing.com/news/stock-market-news/jpmin-2026nn-geri-kalan-icin-en-onemli-hisse-senedi-temalar-4032105",
-        "investing:https://tr.investing.com/news/company-news/astrazeneca-akciger-kanseri-ilac-denemesini-durdurdu-93CH-4032096",
-        "investing:https://tr.investing.com/news/company-news/enhertu-akciger-kanseri-denemesinde-ilerlemesiz-sagkalm-faydas-gosterdi-93CH-4032091",
+        "investing:https://tr.investing.com/news/stock-market-news/investacc-group-hisseleri-yukselen-gorunumle-9-artt-93CH-4032143",
+        "investing:https://tr.investing.com/news/stock-market-news/gulf-marine-services-hisseleri-sozlesme-uzatmyla-yukseldi-93CH-4032137",
+        "investing:https://tr.investing.com/news/stock-market-news/astrazeneca-hisseleri-neden-bugun-yukseldi-93CH-4032136",
+        "investing:https://tr.investing.com/news/company-news/oceanagold-ausgoldu-776-milyon-a-karslgnda-satn-alyor-93CH-4032133",
+        "investing:https://tr.investing.com/news/commodities-news/hurmuz-ckmaz-ve-talep-kaygs-brenti-90-dolarda-tutuyor-4032132",
+        "investing:https://tr.investing.com/news/company-news/ote-52-milyon-euroya-262106-hisse-geri-satn-ald-93CH-4032129",
+        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-york-space-systems-hissesini-dusurdu-93CH-4032128",
+        "investing:https://tr.investing.com/news/stock-market-news/argenx-hisseleri-otoimmun-miyozit-denemesinde-olumlu-sonuclarla-yukseldi-4032130",
+        "investing:https://tr.investing.com/news/stock-market-news/ftse-100-abd-perakende-verileri-fed-faiz-beklentilerini-azaltt-4032135",
+        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-freenome-hissesi-icin-kanser-tarama-potansiyeline-dayanarak-al-onerisi-verdi-93CH-4032124",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -267,6 +273,15 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-rekabet-basks-nedeniyle-pldt-hissesini-dusurdu-93CH-4032121",
+        "investing:https://tr.investing.com/news/economy-news/goldman-sachsn-uyars-fed-beklentileri-hala-fazla-sahin-tlye-nefes-var-m-4032120",
+        "investing:https://tr.investing.com/news/global-filings/son-dakika-edip-gayrimenkul-17-agustos16-eylul-acga-satsa-kapal-93CH-4032116",
+        "investing:https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yukseliste-fed-beklentileri-destek-veriyor-4032117",
+        "investing:https://tr.investing.com/news/stock-market-news/astrazeneca-akciger-kanseri-denemesini-durdurdu-4032113",
+        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-635-bin-dolarda-sabit-iran-gerilimi-ve-abd-duzenlemeleri-odakta-4032103",
+        "investing:https://tr.investing.com/news/stock-market-news/jpmin-2026nn-geri-kalan-icin-en-onemli-hisse-senedi-temalar-4032105",
+        "investing:https://tr.investing.com/news/company-news/astrazeneca-akciger-kanseri-ilac-denemesini-durdurdu-93CH-4032096",
+        "investing:https://tr.investing.com/news/company-news/enhertu-akciger-kanseri-denemesinde-ilerlemesiz-sagkalm-faydas-gosterdi-93CH-4032091",
         "investing:https://tr.investing.com/news/company-news/cleantech-lithium-genel-kurul-toplantsn-11-eylule-ald-93CH-4032082",
         "investing:https://tr.investing.com/news/company-news/alien-metals-avustralya-bakraltn-projesi-icin-12-aylk-plan-acklad-93CH-4032067",
         "investing:https://tr.investing.com/news/company-news/astrazenecann-tagrisso-ve-orpathys-kombinasyonu-akciger-kanserinde-yasam-suresini-uzatt-93CH-4032060",
@@ -606,8 +621,23 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6676563:0",
+      "last_seen_key": "tradingview:matriks:6676697:0",
       "seen_keys": [
+        "tradingview:matriks:6676697:0",
+        "tradingview:matriks:6676694:0",
+        "tradingview:matriks:6676691:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44E06H:0",
+        "tradingview:fxstreet:57d6b50a6d9e8:0",
+        "tradingview:matriks:6676621:0",
+        "tradingview:matriks:6676611:0",
+        "tradingview:matriks:6676609:0",
+        "tradingview:matriks:6676607:0",
+        "tradingview:matriks:6676606:0",
+        "tradingview:matriks:6676602:0",
+        "tradingview:matriks:6676598:0",
+        "tradingview:matriks:6676595:0",
+        "tradingview:matriks:6676578:0",
+        "tradingview:matriks:6676572:0",
         "tradingview:matriks:6676563:0",
         "tradingview:matriks:6676561:0",
         "tradingview:fxstreet:ba82db8c7d9e8:0",
@@ -910,6 +940,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi enkai gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6676697:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tematik analiz yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6676694:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sirket raporu tavhl akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6676691:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "otomotiv ana sanayi uretimi temmuz 19 2 ocak temmuz 8 geriledi osd",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44E06H:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini veri karmas abd dolar kars s nda surdurulebilir kazanclar s n rl yor bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:57d6b50a6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "deniz yat r m sise 60 tl hedef fiyat belirledi tut tavsiyesini korudu onceki hedef fiyat 60 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6676621:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "qnb invest cwene hedef fiyat 60 tl tavsiye endeks ustu getiri",
+      "link": "https://tr.tradingview.com/news/matriks:6676611:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6676609:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi sise deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6676607:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "is yat r m krdmd 60 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 48 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6676606:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb nin usd cinsi zorunlu kars l klara uygulayacag gecelik faiz oran bugun 2 750 olarak ac kland",
+      "link": "https://tr.tradingview.com/news/matriks:6676602:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "seker yat r m sise 65 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 65 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6676598:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "deniz yat r m medtr 38 5 tl hedef fiyat belirledi tut tavsiyesini korudu onceki hedef fiyat 45 5 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6676595:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "deniz yat r m enkai 129 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 129 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6676578:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "model portfoy guncellemesi gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6676572:0"
+    },
+    {
+      "source": "investing",
+      "text": "investacc group hisseleri yukselen gorunumle 9 artt",
+      "link": "https://tr.investing.com/news/stock-market-news/investacc-group-hisseleri-yukselen-gorunumle-9-artt-93CH-4032143"
+    },
+    {
+      "source": "investing",
+      "text": "gulf marine services hisseleri sozlesme uzat m yla yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/gulf-marine-services-hisseleri-sozlesme-uzatmyla-yukseldi-93CH-4032137"
+    },
+    {
+      "source": "investing",
+      "text": "astrazeneca hisseleri neden bugun yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/astrazeneca-hisseleri-neden-bugun-yukseldi-93CH-4032136"
+    },
+    {
+      "source": "investing",
+      "text": "oceanagold ausgold u 776 milyon a kars l g nda sat n al yor",
+      "link": "https://tr.investing.com/news/company-news/oceanagold-ausgoldu-776-milyon-a-karslgnda-satn-alyor-93CH-4032133"
+    },
+    {
+      "source": "investing",
+      "text": "hurmuz c kmaz talep kayg s brent i 90 dolarda tutuyor",
+      "link": "https://tr.investing.com/news/commodities-news/hurmuz-ckmaz-ve-talep-kaygs-brenti-90-dolarda-tutuyor-4032132"
+    },
+    {
+      "source": "investing",
+      "text": "ote 5 2 milyon euroya 262 106 hisse geri sat n ald",
+      "link": "https://tr.investing.com/news/company-news/ote-52-milyon-euroya-262106-hisse-geri-satn-ald-93CH-4032129"
+    },
+    {
+      "source": "investing",
+      "text": "jpmorgan york space systems hissesini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-york-space-systems-hissesini-dusurdu-93CH-4032128"
+    },
+    {
+      "source": "investing",
+      "text": "argenx hisseleri otoimmun miyozit denemesinde olumlu sonuclarla yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/argenx-hisseleri-otoimmun-miyozit-denemesinde-olumlu-sonuclarla-yukseldi-4032130"
+    },
+    {
+      "source": "investing",
+      "text": "ftse 100 bugun abd perakende verisi fed beklentilerini dusurdu hisseler yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/ftse-100-abd-perakende-verileri-fed-faiz-beklentilerini-azaltt-4032135"
+    },
+    {
+      "source": "investing",
+      "text": "jefferies freenome hissesi kanser tarama potansiyeline dayanarak al onerisi verdi",
+      "link": "https://tr.investing.com/news/analyst-ratings/jefferies-freenome-hissesi-icin-kanser-tarama-potansiyeline-dayanarak-al-onerisi-verdi-93CH-4032124"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ticari gayrimenkulde reel kay p y l n ilk ceyreginde turkiye genelinde ticari gayrimenkul fiyatlar onceki y l n ayn ceyregine gore nominal olarak yuzde 29 4 oran nda artarken reel olarak ise yuzde 2 2 oran nda dustu",
+      "link": "https://www.bloomberght.com/ticari-gayrimenkulde-reel-kayip-yuzde-2-yi-asti-3785687"
+    },
+    {
+      "source": "kap",
+      "text": "kboru yeni is iliskisi yeni is sozlesmeleri sirket kuzey boru a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651017"
+    },
+    {
+      "source": "kap",
+      "text": "rubns finansal tablo veya dipnot degisikligi 30 06 2026 finansal tablo sunum para birim fiyat n n duzeltilmesi hk sirket rubenis tekstil sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651016"
+    },
+    {
+      "source": "kap",
+      "text": "tavhl sirket genel bilgi formu sirket tav havalimanlari holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651013"
+    },
+    {
+      "source": "kap",
+      "text": "nuhcm herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyanname eki gelir tablosu sirket nuh cimento sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651012"
+    },
     {
       "source": "tradingview",
       "text": "teknik bulten seker yat r m",
