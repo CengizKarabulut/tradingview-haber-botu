@@ -507,8 +507,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-18082026-3785740",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/bim-den-275-yeni-magaza-8-milyar-tl-net-kr-3785742",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/bim-den-275-yeni-magaza-8-milyar-tl-net-kr-3785742",
+        "bloomberght:https://www.bloomberght.com/anthropic-in-yilliklandirilmis-geliri-halka-arz-oncesi-65-milyar-dolari-asti-3785741",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-18082026-3785740",
         "bloomberght:https://www.bloomberght.com/mikro-ihracatta-hava-yolu-transit-surecleri-kolaylasiyor-3785739",
         "bloomberght:https://www.bloomberght.com/sok-marketler-ikinci-ceyrekte-beklentinin-altinda-zarar-acikladi-3785738",
@@ -1180,8 +1182,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:9236b7ed7d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:287715ee0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:287715ee0d9e8:0",
         "tradingview:fxstreet:9236b7ed7d9e8:0",
         "tradingview:fxstreet:32743b6aed9e8:0",
         "tradingview:fxstreet:3cd2cb310d9e8:0",
@@ -1680,8 +1683,7 @@
         "tradingview:matriks:6676324:0",
         "tradingview:matriks:6676329:0",
         "tradingview:matriks:6676328:0",
-        "tradingview:matriks:6676316:0",
-        "tradingview:matriks:6676315:0"
+        "tradingview:matriks:6676316:0"
       ]
     },
     "forexfactory": {
@@ -1694,6 +1696,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin yavaslarken yeni zelanda dolar duraks yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:287715ee0d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bim den 275 yeni magaza 8 milyar tl net kar bim 2026 n n ikinci ceyreginde 8 milyar tl net kar ac klayarak 5 7 milyar tl lik piyasa konsensusunun uzerine c kt net kar y ll k bazda yuzde 128 artt",
+      "link": "https://www.bloomberght.com/bim-den-275-yeni-magaza-8-milyar-tl-net-kr-3785742"
+    },
+    {
+      "source": "bloomberght",
+      "text": "anthropic in y ll kland r lm s geliri halka arz oncesi 65 milyar dolar ast yapay zeka devi anthropic in y ll kland r lm s geliri gecen y l sonundaki seviyesinin 7 kat ndan fazla artarak temmuz sonu itibar yla 65 milyar dolara ulast",
+      "link": "https://www.bloomberght.com/anthropic-in-yilliklandirilmis-geliri-halka-arz-oncesi-65-milyar-dolari-asti-3785741"
+    },
     {
       "source": "investing",
       "text": "jefferies rehber dususu sonras york space systems hisse hedefini kesti",
@@ -9178,21 +9195,6 @@
       "source": "tradingview",
       "text": "hazine finansman program tablo",
       "link": "https://tr.tradingview.com/news/matriks:6676280:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hazine ic borc odemeleri tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6676279:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hazine maliye bakanl g n n uluslararas sermaye piyasalar nda gerceklestirdigi tahvil sukuk ihraclar tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6676275:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "merkezi yonetim d s borc odeme projeksiyonlar 12 ayl k tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6676277:0"
     }
   ]
 }
