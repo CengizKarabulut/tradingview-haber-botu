@@ -183,8 +183,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-guclu-haftann-ardndan-geriledi-iran-endiseleri-suruyor-4031976",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/coastal-financial-ceosu-eric-sprink-444500-dolarlk-hisse-ald-93CH-4031979",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/coastal-financial-ceosu-eric-sprink-444500-dolarlk-hisse-ald-93CH-4031979",
+        "investing:https://tr.investing.com/news/stock-market-news/alibaba-yapay-zeka-odag-guclenirken-oyun-bolumunu-15-milyar-dolara-satyor-4031978",
         "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-guclu-haftann-ardndan-geriledi-iran-endiseleri-suruyor-4031976",
         "investing:https://tr.investing.com/news/stock-market-news/trend-micro-hissesi-bugun-neden-dusuyor-93CH-4031974",
         "investing:https://tr.investing.com/news/stock-market-news/jpmorgann-dimon-ingiltereyi-banka-vergisi-artslar-konusunda-uyard-93CH-4031973",
@@ -193,8 +195,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/bluescopeun-yllk-kar-abd-ve-asyadaki-gucle-100un-uzerinde-artt-93CH-4031968",
         "investing:https://tr.investing.com/news/company-news/mesoblast-faz-3-bel-agrs-denemesinde-hasta-tedavisini-tamamlad-93CH-4031966",
         "investing:https://tr.investing.com/news/insider-trading-news/coastal-financial-yonetim-kurulu-baskan-adams-13093-dolarlk-hisse-ald-93CH-4031963",
-        "investing:https://tr.investing.com/news/stock-market-news/synlait-fonterra-ve-a2-milk-ile-devralma-gorusmelerini-yalanlad-4031962",
-        "investing:https://tr.investing.com/news/economic-indicators/japonya-2-ceyrek-gsyih-buyumesi-beklentilerin-altnda-kald-4031959",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -215,6 +215,8 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/stock-market-news/synlait-fonterra-ve-a2-milk-ile-devralma-gorusmelerini-yalanlad-4031962",
+        "investing:https://tr.investing.com/news/economic-indicators/japonya-2-ceyrek-gsyih-buyumesi-beklentilerin-altnda-kald-4031959",
         "investing:https://tr.investing.com/news/stock-market-news/a2-milk-hissesi-neden-dusuyor-93CH-4031957",
         "investing:https://tr.investing.com/news/stock-market-news/a2-milkin-yllk-kar-cindeki-tedarik-aksaklklar-nedeniyle-44-dustu-93CH-4031956",
         "investing:https://tr.investing.com/news/economy-news/trump-pentagondan-guney-kore-ile-tatbikatlar-azaltmasn-istedi-4031955",
@@ -625,6 +627,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "coastal financial ceo su eric sprink 444 500 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/coastal-financial-ceosu-eric-sprink-444500-dolarlk-hisse-ald-93CH-4031979"
+    },
+    {
+      "source": "investing",
+      "text": "alibaba yapay zeka odag guclenirken oyun bolumunu 1 5 milyar dolara sat yor",
+      "link": "https://tr.investing.com/news/stock-market-news/alibaba-yapay-zeka-odag-guclenirken-oyun-bolumunu-15-milyar-dolara-satyor-4031978"
+    },
     {
       "source": "tradingview",
       "text": "emisyon hacmi 14 08 2026 itibariyle 978 45 milyar tl",
