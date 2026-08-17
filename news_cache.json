@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651774",
+      "last_seen_key": "kap:1651804",
       "seen_keys": [
+        "kap:1651804",
+        "kap:1651803",
+        "kap:1651802",
+        "kap:1651801",
+        "kap:1651800",
+        "kap:1651799",
         "kap:1651774",
         "kap:1651773",
         "kap:1651772",
@@ -497,13 +503,7 @@
         "kap:1651083",
         "kap:1651082",
         "kap:1651112",
-        "kap:1651081",
-        "kap:1651080",
-        "kap:1651079",
-        "kap:1651078",
-        "kap:1651076",
-        "kap:1651075",
-        "kap:1651074"
+        "kap:1651081"
       ]
     },
     "bloomberght": {
@@ -565,18 +565,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/908-devices-ceosu-knopp-283677-dolar-degerinde-hisse-satt-93CH-4033654",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/cisco-cfo-mark-patterson-578979-dolarlk-hisse-satt-93CH-4033660",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/cisco-cfo-mark-patterson-578979-dolarlk-hisse-satt-93CH-4033660",
+        "investing:https://tr.investing.com/news/insider-trading-news/chiron-real-estate-ciosu-matthew-whitlock-36795-dolar-degerinde-hisse-ald-93CH-4033659",
+        "investing:https://tr.investing.com/news/sec-filings/avax-one-technology-yatrmc-anlasmasn-degistirdi-93CH-4033658",
+        "investing:https://tr.investing.com/news/sec-filings/firy-inc-80-milyon-dolarlk-tahvili-geri-odedi-93CH-4033657",
+        "investing:https://tr.investing.com/news/sec-filings/helix-acquisition-corp-iii-nasdaqdan-uyar-ald-93CH-4033656",
         "investing:https://tr.investing.com/news/insider-trading-news/908-devices-ceosu-knopp-283677-dolar-degerinde-hisse-satt-93CH-4033654",
         "investing:https://tr.investing.com/news/insider-trading-news/dyne-therapeutics-yoneticisi-jason-rhodes-652-milyon-dolarlk-hisse-satt-93CH-4033653",
         "investing:https://tr.investing.com/news/insider-trading-news/cisco-baskan-patel-799928-dolarlk-hisse-satt-93CH-4033652",
         "investing:https://tr.investing.com/news/insider-trading-news/atn-international-yoneticisi-80959-dolarlk-hisse-satt-93CH-4033651",
         "investing:https://tr.investing.com/news/company-news/mitek-systems-aaron-seyleri-gelir-muduru-olarak-atad-93CH-4033650",
-        "investing:https://tr.investing.com/news/stock-market-news/andersen-group-hisseleri-ikincil-arzla-yuzde-43-dustu-93CH-4033649",
-        "investing:https://tr.investing.com/news/transcripts/new-era-2c26-tahminlerini-kacrd-veri-merkezi-plan-ilerliyor-93CH-4033648",
-        "investing:https://tr.investing.com/news/stock-market-news/amylyx-hisseleri-faz-3-deneme-sonuc-tarihiyle-yukseldi-93CH-4033646",
-        "investing:https://tr.investing.com/news/stock-market-news/kura-oncology-hisseleri-ceonun-iceriden-almyla-yukseldi-93CH-4033645",
-        "investing:https://tr.investing.com/news/analyst-ratings/bofa-kanzhun-hissesi-icin-tarafsz-notla-kapsama-baslatt-93CH-4033644",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -597,6 +597,11 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/stock-market-news/andersen-group-hisseleri-ikincil-arzla-yuzde-43-dustu-93CH-4033649",
+        "investing:https://tr.investing.com/news/transcripts/new-era-2c26-tahminlerini-kacrd-veri-merkezi-plan-ilerliyor-93CH-4033648",
+        "investing:https://tr.investing.com/news/stock-market-news/amylyx-hisseleri-faz-3-deneme-sonuc-tarihiyle-yukseldi-93CH-4033646",
+        "investing:https://tr.investing.com/news/stock-market-news/kura-oncology-hisseleri-ceonun-iceriden-almyla-yukseldi-93CH-4033645",
+        "investing:https://tr.investing.com/news/analyst-ratings/bofa-kanzhun-hissesi-icin-tarafsz-notla-kapsama-baslatt-93CH-4033644",
         "investing:https://tr.investing.com/news/analyst-ratings/bofa-definium-hissesi-icin-al-onerisiyle-kapsama-baslad-93CH-4033643",
         "investing:https://tr.investing.com/news/company-news/hni-corporation-ceyreklik-35-sent-temettu-acklad-93CH-4033642",
         "investing:https://tr.investing.com/news/company-news/bunge-2031-vadeli-600-milyon-dolarlk-tahvil-ihrac-fiyatlad-93CH-4033641",
@@ -1061,12 +1066,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/ufp-technologies-yonetim-kurulu-baskan-41-milyon-dolarlk-hisse-satt-93CH-4031823",
         "investing:https://tr.investing.com/news/insider-trading-news/arlo-technologies-yoneticisi-amy-rothstein-149218-dolar-degerinde-hisse-satt-93CH-4031822",
         "investing:https://tr.investing.com/news/economy-news/iran-savas-komutan-uss-abraham-lincolnu-ziyaret-etti-4031820",
-        "investing:https://tr.investing.com/news/insider-trading-news/extreme-networks-yoneticisi-raj-khanna-363001-dolar-degerinde-hisse-satt-93CH-4031819",
-        "investing:https://tr.investing.com/news/insider-trading-news/phillips-66-baskan-yardmcs-kluppel-165-milyon-dolarlk-hisse-satt-93CH-4031818",
-        "investing:https://tr.investing.com/news/insider-trading-news/viasat-svp-robert-blair-215-milyon-dolarlk-hisse-satt-93CH-4031817",
-        "investing:https://tr.investing.com/news/insider-trading-news/stanley-black--decker-cao-105164-dolarlk-hisse-satt-93CH-4031816",
-        "investing:https://tr.investing.com/news/insider-trading-news/consumers-bancorp-yoneticisi-david-bickerton-6205-dolar-degerinde-hisse-ald-93CH-4031815",
-        "investing:https://tr.investing.com/news/insider-trading-news/avis-budget-group-evp-652574-dolarlk-hisse-satt-93CH-4031814"
+        "investing:https://tr.investing.com/news/insider-trading-news/extreme-networks-yoneticisi-raj-khanna-363001-dolar-degerinde-hisse-satt-93CH-4031819"
       ]
     },
     "ntvpara": {
@@ -1182,8 +1182,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:32743b6aed9e8:0",
+      "last_seen_key": "tradingview:fxstreet:4294c0c9cd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:4294c0c9cd9e8:0",
+        "tradingview:fxstreet:0647750fed9e8:0",
         "tradingview:fxstreet:32743b6aed9e8:0",
         "tradingview:fxstreet:773ba5c9dd9e8:0",
         "tradingview:fxstreet:287715ee0d9e8:0",
@@ -1681,9 +1683,7 @@
         "tradingview:matriks:6676327:0",
         "tradingview:matriks:6676325:0",
         "tradingview:matriks:6676322:0",
-        "tradingview:matriks:6676323:0",
-        "tradingview:matriks:6676324:0",
-        "tradingview:matriks:6676329:0"
+        "tradingview:matriks:6676323:0"
       ]
     },
     "forexfactory": {
@@ -1696,6 +1696,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "eur usd fiyat analizi 1 1600 zorlan yor 100 gunluk sma n n alt na geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:4294c0c9cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini uc ayl k en yuksek seviyesini koruyamad",
+      "link": "https://tr.tradingview.com/news/fxstreet:0647750fed9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "cisco cfo mark patterson 578 979 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/cisco-cfo-mark-patterson-578979-dolarlk-hisse-satt-93CH-4033660"
+    },
+    {
+      "source": "investing",
+      "text": "chiron real estate cio su matthew whitlock 36 795 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/chiron-real-estate-ciosu-matthew-whitlock-36795-dolar-degerinde-hisse-ald-93CH-4033659"
+    },
+    {
+      "source": "investing",
+      "text": "avax one technology yat r mc anlasmas n degistirdi",
+      "link": "https://tr.investing.com/news/sec-filings/avax-one-technology-yatrmc-anlasmasn-degistirdi-93CH-4033658"
+    },
+    {
+      "source": "investing",
+      "text": "firy inc 80 milyon dolarl k tahvili geri odedi",
+      "link": "https://tr.investing.com/news/sec-filings/firy-inc-80-milyon-dolarlk-tahvili-geri-odedi-93CH-4033657"
+    },
+    {
+      "source": "investing",
+      "text": "helix acquisition corp iii nasdaq dan uyar ald",
+      "link": "https://tr.investing.com/news/sec-filings/helix-acquisition-corp-iii-nasdaqdan-uyar-ald-93CH-4033656"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651804"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr kat l m finans ilkeleri bilgi formu sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651803"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr sorumluluk beyan konsolide 30 06 2026 sorumluluk beyan sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651802"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr faaliyet raporu konsolide faaliyet raporu 30 06 2026 sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651801"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr finansal rapor sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651800"
+    },
+    {
+      "source": "kap",
+      "text": "grtho kat l m finans ilkeleri bilgi formu sirket grainturk holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651799"
+    },
     {
       "source": "tradingview",
       "text": "dow jones industrial average savas n sonunu fiyatl yor",
@@ -9130,71 +9195,6 @@
       "source": "tradingview",
       "text": "otomotiv sektorunde ocak temmuz doneminde gecen y l n ayn donemine gore 8 gerileyen toplam uretim 767 bin 216 adet olarak gerceklesti",
       "link": "https://tr.tradingview.com/news/matriks:6676314:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "2026 n n ilk yar s nda siparislerini 11 milyar tl ye sat s gelirleri ise 8 6 milyar tl ye c karan netas 202 milyon tl vergi oncesi kar elde etti",
-      "link": "https://tr.tradingview.com/news/matriks:6676310:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ahlatc alt n isletmeleri nin sar kaya alt n madeni projesine iliskin umrek raporu revize ediildi",
-      "link": "https://tr.tradingview.com/news/matriks:6676303:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "garanti bankas takipteki krediler portfoyunde yer alan alacaklar ndan bes ayr portfoy halinde sat s yapt",
-      "link": "https://tr.tradingview.com/news/matriks:6676302:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kaleseramik 2026 y l beklentilerini revize etti",
-      "link": "https://tr.tradingview.com/news/matriks:6676306:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "reysas lojistik sermaye art r m basvurusunun geri cekilmesi sermaye piyasas kurulu na basvuru yapt",
-      "link": "https://tr.tradingview.com/news/matriks:6676301:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ruzy madencilik yat r mc sunumu yay nland",
-      "link": "https://tr.tradingview.com/news/matriks:6676308:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "skyalp borsa istanbul merkezi veri depolama urunu sat n al m konusunda hizmet sozlesmesi imzalad",
-      "link": "https://tr.tradingview.com/news/matriks:6676305:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcc group holdings in yeni yap lanmas kapsam nda oyak cimento nun mevcut faaliyetlerinde yonetiminde borsa istanbul islem gorme statusunde herhangi degisiklik bulunmad g bildirildi",
-      "link": "https://tr.tradingview.com/news/matriks:6676307:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "vbts kapsam nda edip e paylar seans bas ndan 16 eylul seans sonuna kadar ac ga sat sa kredili islemlere konu edilemeyecek",
-      "link": "https://tr.tradingview.com/news/matriks:6676304:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yukselen celik 2026 y l n n ilk yar s n 54 milyon tl net kar tamamlad",
-      "link": "https://tr.tradingview.com/news/matriks:6676312:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "sisecam y l n ilk yar s nda 122 milyar tl net sat s gerceklestirdi",
-      "link": "https://tr.tradingview.com/news/matriks:6676311:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "altny alt nay savunma teknolojileri konsolide bilanco 2026 6 ayl k net zarar 64 229 573 tl onceki 78 647 325 tl net kar",
-      "link": "https://tr.tradingview.com/news/matriks:6676300:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bankalar serbest mevduat gun bas toplam likidite tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6676288:0"
     }
   ]
 }
