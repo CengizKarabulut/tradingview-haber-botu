@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651654",
+      "last_seen_key": "kap:1651655",
       "seen_keys": [
+        "kap:1651655",
         "kap:1651654",
         "kap:1651653",
         "kap:1651652",
@@ -502,13 +503,13 @@
         "kap:1651030",
         "kap:1651029",
         "kap:1651028",
-        "kap:1651027",
-        "kap:1651026"
+        "kap:1651027"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-iran-mutabakatini-uzatmak-istemiyoruz-3785734",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/seddk-dan-sigorta-suistimallerine-karsi-yeni-adim-3785735",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/seddk-dan-sigorta-suistimallerine-karsi-yeni-adim-3785735",
         "bloomberght:https://www.bloomberght.com/trump-iran-mutabakatini-uzatmak-istemiyoruz-3785734",
         "bloomberght:https://www.bloomberght.com/sasa-dan-sermaye-artirimi-karari-3785733",
         "bloomberght:https://www.bloomberght.com/iran-bae-ye-ait-petrol-tankerini-hurmuz-de-alikoydu-3785727",
@@ -1246,8 +1247,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:e8d079208d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:819977522d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:819977522d9e8:0",
         "tradingview:fxstreet:e8d079208d9e8:0",
         "tradingview:beincrypto:52ebef992d9e8:0",
         "tradingview:fxstreet:94ee8a3a8d9e8:0",
@@ -1746,8 +1748,7 @@
         "tradingview:matriks:6676308:0",
         "tradingview:matriks:6676305:0",
         "tradingview:matriks:6676307:0",
-        "tradingview:matriks:6676304:0",
-        "tradingview:matriks:6676312:0"
+        "tradingview:matriks:6676304:0"
       ]
     },
     "forexfactory": {
@@ -1760,6 +1761,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin yuan politika yap c lar olculu rmb degerlenmesine yon veriyor ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:819977522d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "seddk dan sigorta suistimallerine kars yeni ad m seddk sigorta suistimalleriyle mucadelede kurumlar aras koordinasyonu art rmak risk alanlar n belirlemek ortak stratejiler gelistirmek amac yla sigorta suistimalleri mucadele komitesi suistimal cal sma heyeti kuracak",
+      "link": "https://www.bloomberght.com/seddk-dan-sigorta-suistimallerine-karsi-yeni-adim-3785735"
+    },
+    {
+      "source": "kap",
+      "text": "kuvva herhangi otoriteye mali tablo verilmesi 01 01 2026 30 06 2026 donemi gecici vergi beyannamesi eki gelir tablosu hk sirket kuvva gida ticaret sanayi yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651655"
+    },
     {
       "source": "investing",
       "text": "td cowen argenx hissesi hedef fiyat miyozit gorunumuyle 1 353 dolara yukseltti",
@@ -9244,21 +9260,6 @@
       "source": "tradingview",
       "text": "peter thiel n en buyuk ikinci yat r m art k teknoloji hissesi degil",
       "link": "https://tr.tradingview.com/news/beincrypto:7dac5e9dcd9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "savers value village genel dan sman medway 648 900 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/savers-value-village-genel-dansman-medway-648900-dolarlk-hisse-satt-93CH-4031928"
-    },
-    {
-      "source": "investing",
-      "text": "natera yoneticisi jonathan sheena 2 89 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/natera-yoneticisi-jonathan-sheena-289-milyon-dolarlk-hisse-satt-93CH-4031926"
-    },
-    {
-      "source": "investing",
-      "text": "netlist evp cfo gail sasaki 99 750 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/netlist-evp-ve-cfo-gail-sasaki-99750-dolar-degerinde-hisse-satt-93CH-4031925"
     }
   ]
 }
