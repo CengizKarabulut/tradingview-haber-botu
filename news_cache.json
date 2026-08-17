@@ -506,8 +506,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6676322:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44E03E:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44E03E:0",
+        "tradingview:matriks:6676332:0",
+        "tradingview:matriks:6676326:0",
+        "tradingview:matriks:6676327:0",
+        "tradingview:matriks:6676325:0",
         "tradingview:matriks:6676322:0",
         "tradingview:matriks:6676323:0",
         "tradingview:matriks:6676324:0",
@@ -556,6 +561,7 @@
         "tradingview:matriks:6676261:0",
         "tradingview:matriks:6676264:0",
         "tradingview:matriks:6676263:0",
+        "tradingview:beincrypto:89dbb33c9d9e8:0",
         "tradingview:beincrypto:1d4500d46d9e8:0",
         "tradingview:fxstreet:8a5b3bdedd9e8:0",
         "tradingview:fxstreet:9781bdbead9e8:0",
@@ -713,6 +719,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kuvvet komutanl klar nda ust duzey 205 atama yap ld",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44E03E:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro dolar kars s nda iki ay n en yuksek seviyesi olan 1 1586 y gordu",
+      "link": "https://tr.tradingview.com/news/matriks:6676332:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya 1 ceyrek gecici gsyh onceki ceyrege gore 0 3 beklenti 0 5 onceki 0 5",
+      "link": "https://tr.tradingview.com/news/matriks:6676326:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya 1 ceyrek gecici gsyh deflatoru 2 6 onceki 3 2",
+      "link": "https://tr.tradingview.com/news/matriks:6676327:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya 1 ceyrek gecici gsyh y ll kland r lm s 1 1 beklenti 2 0 onceki 1 9",
+      "link": "https://tr.tradingview.com/news/matriks:6676325:0"
+    },
     {
       "source": "tradingview",
       "text": "japonya 1 ceyrek gecici d s talep onceki ceyrege gore 0 5 beklenti 0 3 onceki 0 3",
