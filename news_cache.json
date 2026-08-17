@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1650970",
+      "last_seen_key": "kap:1650973",
       "seen_keys": [
+        "kap:1650973",
+        "kap:1650972",
+        "kap:1650971",
         "kap:1650970",
         "kap:1650969",
         "kap:1650968",
@@ -123,6 +126,7 @@
       "last_seen_key": "bloomberght:https://www.bloomberght.com/bloomberg-economics-ten-enflasyon-riski-uyarisi-3785668",
       "seen_keys": [
         "bloomberght:https://www.bloomberght.com/bloomberg-economics-ten-enflasyon-riski-uyarisi-3785668",
+        "bloomberght:https://www.bloomberght.com/orta-doguda-gizli-petrol-akisi-fiyatlari-dengede-tutuyor-3785667",
         "bloomberght:https://www.bloomberght.com/boj-her-toplantida-faiz-artirmali-3785666",
         "bloomberght:https://www.bloomberght.com/goldman-sachs-piyasa-fedin-faiz-artisi-konusunda-fazla-sahin-3785665",
         "bloomberght:https://www.bloomberght.com/trump-iran-savasi-nedeniyle-guney-kore-ile-ortak-tatbikatlari-azaltiyor-3785664",
@@ -199,18 +203,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/jyske-bank-33-haftada-54769-hisse-geri-ald-93CH-4032039",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/insmed-cmo-martina-flammer-349-milyon-dolarlk-hisse-satt-93CH-4032046",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/insmed-cmo-martina-flammer-349-milyon-dolarlk-hisse-satt-93CH-4032046",
+        "investing:https://tr.investing.com/news/stock-market-news/alibaba-hissesi-bugun-neden-yukseliyor-93CH-4032045",
+        "investing:https://tr.investing.com/news/stock-market-news/shanghai-henlius-biotech-hisseleri-neden-yukseliyor-93CH-4032044",
+        "investing:https://tr.investing.com/news/company-news/sampo-33-haftada-121-milyon-euro-degerinde-hisse-geri-ald-93CH-4032043",
+        "investing:https://tr.investing.com/news/company-news/sampo-33-haftada-127-milyon-hisse-geri-ald-93CH-4032042",
+        "investing:https://tr.investing.com/news/company-news/hive-digital-350-milyon-dolarlk-gpu-bulut-hizmeti-sozlesmesi-ald-93CH-4032040",
         "investing:https://tr.investing.com/news/company-news/jyske-bank-33-haftada-54769-hisse-geri-ald-93CH-4032039",
         "investing:https://tr.investing.com/news/insider-trading-news/mayville-engineering-svp-leuba-327031-dolarlk-hisse-satt-93CH-4032037",
         "investing:https://tr.investing.com/news/insider-trading-news/kb-home-evpsi-129-milyon-dolarlk-hisse-satt-93CH-4032036",
         "investing:https://tr.investing.com/news/stock-market-news/cansino-biologics-hissesi-bugun-neden-yukseliyor-93CH-4032033",
-        "investing:https://tr.investing.com/news/stock-market-news/tayland-2-ceyrek-gsyihsi-beklentileri-ast-19-buyudu-93CH-4032031",
-        "investing:https://tr.investing.com/news/stock-market-news/shanghai-biren-technology-hisseleri-neden-yukseliste-93CH-4032029",
-        "investing:https://tr.investing.com/news/stock-market-news/sandoz-shanghai-henlius-biotechten-uc-biyobenzer-ilac-hakk-icin-77-milyon-dolara-kadar-odeyecek-93CH-4032030",
-        "investing:https://tr.investing.com/news/stock-market-news/hutchmed-hisseleri-akciger-kanseri-ilac-denemesinin-ardndan-5-yukseldi-4032028",
-        "investing:https://tr.investing.com/news/company-news/genco-diana-shippingin-satn-alma-teklifini-reddetti-93CH-4032025",
-        "investing:https://tr.investing.com/news/stock-market-news/national-australia-bank-hisseleri-neden-dusuyor-93CH-4032021",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -231,6 +235,12 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
         "investing:https://tr.investing.com/analysis/yapay-zeka-25-fark-att--bist-100u-ezen-investing-pro-portfoyu-200505248",
+        "investing:https://tr.investing.com/news/stock-market-news/tayland-2-ceyrek-gsyihsi-beklentileri-ast-19-buyudu-93CH-4032031",
+        "investing:https://tr.investing.com/news/stock-market-news/shanghai-biren-technology-hisseleri-neden-yukseliste-93CH-4032029",
+        "investing:https://tr.investing.com/news/stock-market-news/sandoz-shanghai-henlius-biotechten-uc-biyobenzer-ilac-hakk-icin-77-milyon-dolara-kadar-odeyecek-93CH-4032030",
+        "investing:https://tr.investing.com/news/stock-market-news/hutchmed-hisseleri-akciger-kanseri-ilac-denemesinin-ardndan-5-yukseldi-4032028",
+        "investing:https://tr.investing.com/news/company-news/genco-diana-shippingin-satn-alma-teklifini-reddetti-93CH-4032025",
+        "investing:https://tr.investing.com/news/stock-market-news/national-australia-bank-hisseleri-neden-dusuyor-93CH-4032021",
         "investing:https://tr.investing.com/news/stock-market-news/hutchmed-hissesi-bugun-neden-yukseliste-93CH-4032020",
         "investing:https://tr.investing.com/news/stock-market-news/geely-automobile-hisseleri-neden-yukseliste-93CH-4032019",
         "investing:https://tr.investing.com/news/insider-trading-news/908-devices-yoneticisi-christopher-brown-169800-dolarlk-hisse-satt-93CH-4032018",
@@ -807,6 +817,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "insmed cmo martina flammer 3 49 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/insmed-cmo-martina-flammer-349-milyon-dolarlk-hisse-satt-93CH-4032046"
+    },
+    {
+      "source": "investing",
+      "text": "alibaba hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/alibaba-hissesi-bugun-neden-yukseliyor-93CH-4032045"
+    },
+    {
+      "source": "investing",
+      "text": "shanghai henlius biotech hisseleri neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/shanghai-henlius-biotech-hisseleri-neden-yukseliyor-93CH-4032044"
+    },
+    {
+      "source": "investing",
+      "text": "sampo 33 haftada 12 1 milyon euro degerinde hisse geri ald",
+      "link": "https://tr.investing.com/news/company-news/sampo-33-haftada-121-milyon-euro-degerinde-hisse-geri-ald-93CH-4032043"
+    },
+    {
+      "source": "investing",
+      "text": "sampo 33 haftada 1 27 milyon hisse geri ald",
+      "link": "https://tr.investing.com/news/company-news/sampo-33-haftada-127-milyon-hisse-geri-ald-93CH-4032042"
+    },
+    {
+      "source": "investing",
+      "text": "hive digital 350 milyon dolarl k gpu bulut hizmeti sozlesmesi ald",
+      "link": "https://tr.investing.com/news/company-news/hive-digital-350-milyon-dolarlk-gpu-bulut-hizmeti-sozlesmesi-ald-93CH-4032040"
+    },
+    {
+      "source": "kap",
+      "text": "alves balsu gundg krtek manas ozsub paseu pcs pnu pry taten thf kamuyu ayd nlatma platformu duyurusu ozel durumlar tebligi nin 12 4 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650973"
+    },
+    {
+      "source": "kap",
+      "text": "tsk tskb halka arz islemlerinde sermaye piyasas arac n n 5 inden fazlas n sat n alanlara iliskin bildirim kapeks kimya sanayi a s paylar n n halka arz nda paylar n 5inden fazlas n sat n alan yat r mc listesi sirket turkiye sinai kalkinma bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650972"
+    },
+    {
+      "source": "kap",
+      "text": "tsk tskb ozel durum ac klamas genel kapeks kimya sanayi a s idari sorumlulugu bulunan icsel bilgiye ulasan kisilerin pay al mlar sirket turkiye sinai kalkinma bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1650971"
+    },
     {
       "source": "tradingview",
       "text": "teknik bulten kuveyt turk yat r m",
