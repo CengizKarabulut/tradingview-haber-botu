@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651749",
+      "last_seen_key": "kap:1651750",
       "seen_keys": [
+        "kap:1651750",
         "kap:1651749",
         "kap:1651694",
         "kap:1651693",
@@ -502,13 +503,14 @@
         "kap:1651074",
         "kap:1651073",
         "kap:1651072",
-        "kap:1651070",
-        "kap:1651069"
+        "kap:1651070"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-tan-guney-kore-ye-iran-tepkisi-3785737",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/mikro-ihracatta-hava-yolu-transit-surecleri-kolaylasiyor-3785739",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/mikro-ihracatta-hava-yolu-transit-surecleri-kolaylasiyor-3785739",
+        "bloomberght:https://www.bloomberght.com/sok-marketler-ikinci-ceyrekte-beklentinin-altinda-zarar-acikladi-3785738",
         "bloomberght:https://www.bloomberght.com/trump-tan-guney-kore-ye-iran-tepkisi-3785737",
         "bloomberght:https://www.bloomberght.com/seddk-dan-sigorta-suistimallerine-karsi-yeni-adim-3785735",
         "bloomberght:https://www.bloomberght.com/trump-iran-mutabakatini-uzatmak-istemiyoruz-3785734",
@@ -1691,6 +1693,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "mikro ihracatta hava yolu transit surecleri kolaylas yor ticaret bakanl g mikro ihracat kargolar n n hava yolu transit gumruk sureclerini basitlestirecek yeni duzenlemeyi yar n uygulamaya alacak duzenlemeyle islem surelerinin k salt lmas operasyonel maliyetlerin azalt lmas hedefleniyor",
+      "link": "https://www.bloomberght.com/mikro-ihracatta-hava-yolu-transit-surecleri-kolaylasiyor-3785739"
+    },
+    {
+      "source": "bloomberght",
+      "text": "sok marketler ikinci ceyrekte beklentinin alt nda zarar ac klad sok marketler 2026 n n ikinci ceyreginde 564 milyon tl net zarar ac klayarak 590 milyon tl lik piyasa beklentisinden daha s n rl kay p kaydetti",
+      "link": "https://www.bloomberght.com/sok-marketler-ikinci-ceyrekte-beklentinin-altinda-zarar-acikladi-3785738"
+    },
+    {
+      "source": "kap",
+      "text": "balat herhangi otoriteye mali tablo verilmesi 01 01 2026 30 06 2026 gecici vergi beyan sirket balatacilar balatacilik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651750"
+    },
     {
       "source": "tradingview",
       "text": "abd hazine getirileri yukselirken 30 y ll k getiri 2007 zirvesine ulast",
@@ -9175,21 +9192,6 @@
       "source": "tradingview",
       "text": "abd dolar endeksi yat r mc lar n fed faiz art r m beklentilerini geri cekmesiyle 99 50 seviyesine geriledi",
       "link": "https://tr.tradingview.com/news/fxstreet:9781bdbead9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gumus fiyat analizi xag usd al c lar 66 00 uzerinde kabul bekliyor 100 gunluk ema k r l m",
-      "link": "https://tr.tradingview.com/news/fxstreet:76c5bd997d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "avustralya dolar s k lasmac rba gorunumuyle yukseliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:ce8e50d3cd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "google a berkshire dan 17 milyar dolar daha michael burry neden endiseli",
-      "link": "https://tr.tradingview.com/news/beincrypto:a314294b6d9e8:0"
     }
   ]
 }
