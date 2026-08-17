@@ -478,8 +478,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:dc95f1145d9e8:0",
+      "last_seen_key": "tradingview:matriks:6676187:0",
       "seen_keys": [
+        "tradingview:matriks:6676187:0",
+        "tradingview:fxstreet:344f4969bd9e8:0",
+        "tradingview:fxstreet:4522c5ad7d9e8:0",
+        "tradingview:fxstreet:c0af815acd9e8:0",
         "tradingview:fxstreet:dc95f1145d9e8:0",
         "tradingview:fxstreet:94fa710e0d9e8:0",
         "tradingview:fxstreet:bec450e4ad9e8:0",
@@ -621,6 +625,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "emisyon hacmi 14 08 2026 itibariyle 978 45 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6676187:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar daha zay f abd dolar daha yuksek petrol fiyatlar nedeniyle yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:344f4969bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti ham petrol fiyat abd iran c kmaz n degerlendiren yat r mc lar aras nda 81 50 n uzerinde mutevaz kazanclar kaydediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:4522c5ad7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar 0 5900 seviyesinin uzerine c kt abd dolar zay f kalmaya devam ederken 3 haziran dan yana en yuksek seviyede",
+      "link": "https://tr.tradingview.com/news/fxstreet:c0af815acd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7878 seviyesine k yasla 6 7873 olarak belirledi",
