@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651116",
+      "last_seen_key": "kap:1651119",
       "seen_keys": [
+        "kap:1651119",
+        "kap:1651118",
+        "kap:1651117",
         "kap:1651116",
         "kap:1651115",
         "kap:1651114",
@@ -838,8 +841,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6677546:0",
+      "last_seen_key": "tradingview:fxstreet:19c1d9b43d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:19c1d9b43d9e8:0",
+        "tradingview:fxstreet:dde3ee186d9e8:0",
+        "tradingview:matriks:6677557:0",
+        "tradingview:fxstreet:6a7958b34d9e8:0",
         "tradingview:matriks:6677546:0",
         "tradingview:matriks:6677532:0",
         "tradingview:fxstreet:b667c9a36d9e8:0",
@@ -1335,11 +1342,7 @@
         "tradingview:matriks:6673084:0",
         "tradingview:matriks:6673062:0",
         "tradingview:matriks:6673048:0",
-        "tradingview:matriks:6673034:0",
-        "tradingview:fxstreet:8e0730ffbd9e8:0",
-        "tradingview:matriks:6673023:0",
-        "tradingview:matriks:6673011:0",
-        "tradingview:matriks:6673005:0"
+        "tradingview:matriks:6673034:0"
       ]
     },
     "forexfactory": {
@@ -1352,6 +1355,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japonya zay f talep nedeniyle boj un yolu sorgulan yor societe generale",
+      "link": "https://tr.tradingview.com/news/fxstreet:19c1d9b43d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur jpy fiyat analizi al c lar 185 00 direnc bolgesini hedefliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:dde3ee186d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "atp yaz l m cinali y l sonunda 24 civar favok art s planl yoruz cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6677557:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ekonomistler hemfikir fed y l faiz oranlar n degistirmeyecek reuters anketi",
+      "link": "https://tr.tradingview.com/news/fxstreet:6a7958b34d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "kervn kar pay dag t m islemlerine iliskin bildirim kar dag t lmamas hususunda olagan genel kurul toplant neticesi hakk nda sirket kervansaray yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651119"
+    },
+    {
+      "source": "kap",
+      "text": "tac tcryt herhangi otoriteye mali tablo verilmesi herhangi otoriteye mali tablo verilmesi sirket tacirler yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651118"
+    },
+    {
+      "source": "kap",
+      "text": "kervn genel kurul islemlerine iliskin bildirim olagan genel kurul toplant s n n neticesi hakk nda sirket kervansaray yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651117"
+    },
     {
       "source": "tradingview",
       "text": "trump iran devrim muhaf zlar dogrudan temas kurduk savas bitirmekte acelem yok",
