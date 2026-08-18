@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652398",
+      "last_seen_key": "kap:1652401",
       "seen_keys": [
+        "kap:1652401",
+        "kap:1652400",
+        "kap:1652399",
         "kap:1652398",
         "kap:1652397",
         "kap:1652396",
@@ -291,18 +294,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/transcripts/granite-ridge-resources-enercom-denverda-nakit-aksna-gecis-plan-93CH-4035215",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/eyepoint-yoneticisi-karen-l-zaderej-52258-dolar-hisse-ald-93CH-4035295",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/transcripts/granite-ridge-resources-enercom-denverda-nakit-aksna-gecis-plan-93CH-4035215",
-        "investing:https://tr.investing.com/news/stock-market-news/trumpn-ibogaine-acklamas-psyence-biomedical-hisselerini-ucurdu-93CH-4035214",
-        "investing:https://tr.investing.com/news/stock-market-news/ccc-intelligent-solutions-hisseleri-satn-alma-haberiyle-scrad-93CH-4035213",
-        "investing:https://tr.investing.com/news/company-news/national-healthcare-corp-hissesi-23278-dolarda-rekor-krd-93CH-4035212",
-        "investing:https://tr.investing.com/news/stock-market-news/moodys-darling-ingredients-notunu-teyit-etti-gorunumu-revize-etti-93CH-4035211",
-        "investing:https://tr.investing.com/news/world-news/bae-bolgesel-gerilim-ortamnda-irann-fuze-saldrs-duzenledigini-acklad-93CH-4035208",
-        "investing:https://tr.investing.com/news/sec-filings/lion-copper-and-gold-hissedarlar-yonetim-kurulunu-onaylad-93CH-4035206",
-        "investing:https://tr.investing.com/news/insider-trading-news/borgwarner-baskan-yardmcs-70000-dolar-degerinde-hisse-satt-93CH-4035205",
-        "investing:https://tr.investing.com/news/insider-trading-news/borgwarner-evp-tonit-calaway-306-milyon-dolarlk-hisse-satt-93CH-4035204",
-        "investing:https://tr.investing.com/news/economy-news/trump-fda-baskanlg-icin-adaylarla-gorusuyor--bloomberg-93CH-4035201",
+        "investing:https://tr.investing.com/news/insider-trading-news/eyepoint-yoneticisi-karen-l-zaderej-52258-dolar-hisse-ald-93CH-4035295",
+        "investing:https://tr.investing.com/news/stock-market-news/backblaze-hissesi-bugun-neden-dusuyor-93CH-4035294",
+        "investing:https://tr.investing.com/news/sec-filings/levi-strauss-yonetim-kurulu-emekliligi-ve-yeni-komite-baskan-atad-93CH-4035290",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-amylyx-hissesi-icin-hedef-fiyat-42-dolara-yukseltti-93CH-4035289",
+        "investing:https://tr.investing.com/news/transcripts/amplify-energy-enercom-denverda-daha-yaln-portfoy-daha-buyuk-potansiyel-93CH-4035288",
+        "investing:https://tr.investing.com/news/stock-market-news/mercury-systems-hisseleri-neden-dusuyor-93CH-4035286",
+        "investing:https://tr.investing.com/news/stock-market-news/fcc-baskan-disney-dei-sorusturmasn-savundu-93CH-4035285",
+        "investing:https://tr.investing.com/news/sec-filings/ups-325-milyon-dolarlk-degisken-faizli-tahvil-ihrac-acklad-93CH-4035284",
+        "investing:https://tr.investing.com/news/company-news/better-eski-ceo-garga-menkul-kymet-ihlalleri-nedeniyle-dava-act-93CH-4035282",
+        "investing:https://tr.investing.com/news/company-news/rocket-one-savunma-icin-iha-suru-egitim-platformunu-baslatt-93CH-4035281",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -323,6 +326,16 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/transcripts/granite-ridge-resources-enercom-denverda-nakit-aksna-gecis-plan-93CH-4035215",
+        "investing:https://tr.investing.com/news/stock-market-news/trumpn-ibogaine-acklamas-psyence-biomedical-hisselerini-ucurdu-93CH-4035214",
+        "investing:https://tr.investing.com/news/stock-market-news/ccc-intelligent-solutions-hisseleri-satn-alma-haberiyle-scrad-93CH-4035213",
+        "investing:https://tr.investing.com/news/company-news/national-healthcare-corp-hissesi-23278-dolarda-rekor-krd-93CH-4035212",
+        "investing:https://tr.investing.com/news/stock-market-news/moodys-darling-ingredients-notunu-teyit-etti-gorunumu-revize-etti-93CH-4035211",
+        "investing:https://tr.investing.com/news/world-news/bae-bolgesel-gerilim-ortamnda-irann-fuze-saldrs-duzenledigini-acklad-93CH-4035208",
+        "investing:https://tr.investing.com/news/sec-filings/lion-copper-and-gold-hissedarlar-yonetim-kurulunu-onaylad-93CH-4035206",
+        "investing:https://tr.investing.com/news/insider-trading-news/borgwarner-baskan-yardmcs-70000-dolar-degerinde-hisse-satt-93CH-4035205",
+        "investing:https://tr.investing.com/news/insider-trading-news/borgwarner-evp-tonit-calaway-306-milyon-dolarlk-hisse-satt-93CH-4035204",
+        "investing:https://tr.investing.com/news/economy-news/trump-fda-baskanlg-icin-adaylarla-gorusuyor--bloomberg-93CH-4035201",
         "investing:https://tr.investing.com/news/transcripts/epsilon-enercom-denverda-buyume-envanter-ve-sermaye-disiplini-93CH-4035200",
         "investing:https://tr.investing.com/news/world-news/sp-belizein-bb-notunu-lml-buyume-gorunumuyle-teyit-etti-93CH-4035199",
         "investing:https://tr.investing.com/news/stock-market-news/sp-emergent-biosolutionsn-gorunumunu-dusurdu-93CH-4035197",
@@ -782,17 +795,7 @@
         "investing:https://tr.investing.com/news/company-news/andersen-hissedarlar-43-milyon-hisse-sats-baslatyor-93CH-4033574",
         "investing:https://tr.investing.com/news/company-news/coherent-yapay-zeka-icin-300mm-silikon-karbur-substrat-orneklemesine-baslad-93CH-4033566",
         "investing:https://tr.investing.com/news/company-news/gaxosai-varant-kullanmyla-36-milyon-dolar-toplad-93CH-4033565",
-        "investing:https://tr.investing.com/news/company-news/resmed-carol-burtu-bas-direktor-olarak-atad-93CH-4033564",
-        "investing:https://tr.investing.com/news/company-news/genflat-katlanabilir-konteynerleri-vietnamda-deneyecek-93CH-4033539",
-        "investing:https://tr.investing.com/news/stock-market-news/exxonmobil-mozambik-lng-projesi-icin-11-milyar-dolarlk-sozlesme-verdi-93CH-4033538",
-        "investing:https://tr.investing.com/news/company-news/zentalis-pharmaceuticals-926-milyon-dolarlk-hisse-arzn-tamamlad-93CH-4033537",
-        "investing:https://tr.investing.com/news/company-news/amylyx-hipoglisemi-ilac-icin-faz-3-deneme-sonuclarn-acklayacak-93CH-4033536",
-        "investing:https://tr.investing.com/news/commodities-news/soya-fasulyesi-vadeli-islemleri-guclu-ezme-hzyla-yukseldi-93CH-4033535",
-        "investing:https://tr.investing.com/news/forex-news/latin-amerika-paralar-fed-faiz-artrm-beklentileri-azalnca-yukseldi-93CH-4033534",
-        "investing:https://tr.investing.com/news/stock-market-news/apple-almanya-sorusturmas-sonras-reklam-takibi-kurallarn-degistirecek-93CH-4033533",
-        "investing:https://tr.investing.com/news/commodities-news/msr-vadeli-islemleri-pro-farmer-tur-sonuclar-oncesi-yukseldi-93CH-4033532",
-        "investing:https://tr.investing.com/news/stock-market-news/anthropicin-gelir-hz-temmuzda-65-milyar-dolar-ast-4033531",
-        "investing:https://tr.investing.com/news/stock-market-news/google-spirit-airlinesn-verilerini-yapay-zeka-egitimi-icin-ald-93CH-4033529"
+        "investing:https://tr.investing.com/news/company-news/resmed-carol-burtu-bas-direktor-olarak-atad-93CH-4033564"
       ]
     },
     "ntvpara": {
@@ -1440,6 +1443,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "eyepoint yoneticisi karen l zaderej 52 258 dolar hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/eyepoint-yoneticisi-karen-l-zaderej-52258-dolar-hisse-ald-93CH-4035295"
+    },
+    {
+      "source": "investing",
+      "text": "backblaze hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/backblaze-hissesi-bugun-neden-dusuyor-93CH-4035294"
+    },
+    {
+      "source": "investing",
+      "text": "levi strauss yonetim kurulu emekliligi yeni komite baskan atad",
+      "link": "https://tr.investing.com/news/sec-filings/levi-strauss-yonetim-kurulu-emekliligi-ve-yeni-komite-baskan-atad-93CH-4035290"
+    },
+    {
+      "source": "investing",
+      "text": "mizuho amylyx hissesi hedef fiyat 42 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-amylyx-hissesi-icin-hedef-fiyat-42-dolara-yukseltti-93CH-4035289"
+    },
+    {
+      "source": "investing",
+      "text": "amplify energy enercom denver daha yal n portfoy daha buyuk potansiyel",
+      "link": "https://tr.investing.com/news/transcripts/amplify-energy-enercom-denverda-daha-yaln-portfoy-daha-buyuk-potansiyel-93CH-4035288"
+    },
+    {
+      "source": "investing",
+      "text": "mercury systems hisseleri neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/mercury-systems-hisseleri-neden-dusuyor-93CH-4035286"
+    },
+    {
+      "source": "investing",
+      "text": "fcc baskan disney dei sorusturmas n savundu",
+      "link": "https://tr.investing.com/news/stock-market-news/fcc-baskan-disney-dei-sorusturmasn-savundu-93CH-4035285"
+    },
+    {
+      "source": "investing",
+      "text": "ups 325 milyon dolarl k degisken faizli tahvil ihrac ac klad",
+      "link": "https://tr.investing.com/news/sec-filings/ups-325-milyon-dolarlk-degisken-faizli-tahvil-ihrac-acklad-93CH-4035284"
+    },
+    {
+      "source": "investing",
+      "text": "better eski ceo garg a menkul k ymet ihlalleri nedeniyle dava act",
+      "link": "https://tr.investing.com/news/company-news/better-eski-ceo-garga-menkul-kymet-ihlalleri-nedeniyle-dava-act-93CH-4035282"
+    },
+    {
+      "source": "investing",
+      "text": "rocket one savunma iha suru egitim platformunu baslatt",
+      "link": "https://tr.investing.com/news/company-news/rocket-one-savunma-icin-iha-suru-egitim-platformunu-baslatt-93CH-4035281"
+    },
+    {
+      "source": "kap",
+      "text": "ecogr sorumluluk beyan konsolide sorumluluk beyan sirket ecogreen enerji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652401"
+    },
+    {
+      "source": "kap",
+      "text": "meysu kat l m finans ilkeleri bilgi formu sirket meysu gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652400"
+    },
+    {
+      "source": "kap",
+      "text": "yunsa tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket yunsa yunlu sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652399"
+    },
     {
       "source": "tradingview",
       "text": "guney kore wonu 1 400 destegiyle dusus egilimli won gorunumu td securities",
@@ -8874,71 +8942,6 @@
       "source": "kap",
       "text": "hurgz faaliyet raporu konsolide 01 01 2026 30 06 2026 ara hesap donemine ait yonetim kurulu faaliyet raporu sirket hurriyet gazetecilik matbaacilik a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651638"
-    },
-    {
-      "source": "kap",
-      "text": "hurgz finansal rapor sirket hurriyet gazetecilik matbaacilik a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651637"
-    },
-    {
-      "source": "kap",
-      "text": "binho finansal rapor sirket 1000 yatirimlar holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651636"
-    },
-    {
-      "source": "tradingview",
-      "text": "eygyo eyg gayrimenkul yat r m ortakl g solo bilanco 2026 6 ayl k net zarar 111 374 503 tl onceki 185 624 476 tl net zarar",
-      "link": "https://tr.tradingview.com/news/matriks:6678451:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "eygyo eyg gayrimenkul yat r m ortakl g konsolide bilanco 2026 6 ayl k net zarar 107 099 511 tl onceki 192 903 017 tl net zarar",
-      "link": "https://tr.tradingview.com/news/matriks:6678441:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "dow jones industrial average rafinerilerin savas fiyatlamas na olanak tan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:79d6baf3ad9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "fonet fonet bilgi teknolojileri konsolide bilanco 2026 6 ayl k net kar 103 596 829 tl onceki 45 158 650 tl net kar",
-      "link": "https://tr.tradingview.com/news/matriks:6678435:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "blsmd bulls yat r m menkul degerler konsolide bilanco 2026 6 ayl k net zarar 374 675 336 tl onceki 111 424 288 tl net kar",
-      "link": "https://tr.tradingview.com/news/matriks:6678423:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "selec 2026 2 ceyrek net kar 534 39 milyon tl matriks haber anketi medyan beklenti 1 55 milyar tl net kar",
-      "link": "https://tr.tradingview.com/news/matriks:6678415:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "selec selcuk ecza deposu tic sanayi konsolide bilanco 2026 6 ayl k net kar 2 181 877 268 tl onceki 421 720 171 tl net zarar",
-      "link": "https://tr.tradingview.com/news/matriks:6678408:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ftx davas iflas durusmas nda raund",
-      "link": "https://tr.tradingview.com/news/beincrypto:a124d1271d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "wti petrol washington tahran kars kars ya gelmesinin arz endiselerini yeniden alevlendirmesiyle 82 n uzerine c kt",
-      "link": "https://tr.tradingview.com/news/fxstreet:ca83f3d22d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "katmr katmerciler arac ustu ekipman sanayi tic konsolide bilanco 2026 6 ayl k net kar 318 919 663 tl onceki 572 652 455 tl net kar",
-      "link": "https://tr.tradingview.com/news/matriks:6678398:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yeotk yeo teknoloji enerji endustri konsolide bilanco 2026 6 ayl k net kar 669 688 592 tl onceki 114 440 323 tl net zarar",
-      "link": "https://tr.tradingview.com/news/matriks:6678395:0"
     }
   ]
 }
