@@ -2,10 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652052",
+      "last_seen_key": "kap:1652057",
       "seen_keys": [
+        "kap:1652057",
+        "kap:1652055",
+        "kap:1652053",
         "kap:1652052",
-        "kap:1652051",
         "kap:1652050",
         "kap:1652049",
         "kap:1652045",
@@ -90,6 +92,7 @@
         "kap:1651920",
         "kap:1651913",
         "kap:1651912",
+        "kap:1652051",
         "kap:1651905",
         "kap:1651900",
         "kap:1651895",
@@ -500,17 +503,13 @@
         "kap:1651299",
         "kap:1651298",
         "kap:1651297",
-        "kap:1651296",
-        "kap:1651295",
-        "kap:1651294",
-        "kap:1651293"
+        "kap:1651296"
       ]
     },
     "bloomberght": {
       "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-iran-ile-gorusme-yapilmiyor-3785802",
       "seen_keys": [
         "bloomberght:https://www.bloomberght.com/trump-iran-ile-gorusme-yapilmiyor-3785802",
-        "bloomberght:https://www.bloomberght.com/abd-de-sanayi-uretimi-ikinci-ayda-da-artti-3785801",
         "bloomberght:https://www.bloomberght.com/guney-kore-den-abd-ile-istisare-mesaji-3785799",
         "bloomberght:https://www.bloomberght.com/ingye-gore-dolardaki-dususun-pesinden-gitmek-icin-cok-erken-3785796",
         "bloomberght:https://www.bloomberght.com/abd-de-ithalat-fiyat-endeksi-geriledi-3785793",
@@ -558,6 +557,7 @@
         "bloomberght:https://www.bloomberght.com/stellantis-1-milyona-yakin-araci-geri-cagiriyor-3785725",
         "bloomberght:https://www.bloomberght.com/cin-de-konut-fiyatlarindaki-dusus-devam-ediyor-3785724",
         "bloomberght:https://www.bloomberght.com/aramco-dan-hurmuz-e-alternatif-petrol-rotasi-3785723",
+        "bloomberght:https://www.bloomberght.com/abd-de-sanayi-uretimi-ikinci-ayda-da-artti-3785801",
         "bloomberght:https://www.bloomberght.com/yht-bilet-fiyatlarina-zam-yapildi-3785720",
         "bloomberght:https://www.bloomberght.com/dogalgaz-fiyat-artis-kanada-da-enflasyonunu-yukseltti-3785718",
         "bloomberght:https://www.bloomberght.com/devrim-muhafizlari-ndan-trump-in-iddialarina-yalanlama-3785716"
@@ -1198,8 +1198,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6681174:0",
+      "last_seen_key": "tradingview:matriks:6681190:0",
       "seen_keys": [
+        "tradingview:matriks:6681190:0",
+        "tradingview:fxstreet:fb3d0ef52d9e8:0",
+        "tradingview:matriks:6681183:0",
+        "tradingview:matriks:6681181:0",
         "tradingview:matriks:6681174:0",
         "tradingview:matriks:6681173:0",
         "tradingview:matriks:6681172:0",
@@ -1695,11 +1699,7 @@
         "tradingview:matriks:6678383:0",
         "tradingview:matriks:6678373:0",
         "tradingview:matriks:6678372:0",
-        "tradingview:matriks:6678367:0",
-        "tradingview:matriks:6678351:0",
-        "tradingview:matriks:6678331:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44E13Z:0",
-        "tradingview:matriks:6678319:0"
+        "tradingview:matriks:6678367:0"
       ]
     },
     "forexfactory": {
@@ -1713,6 +1713,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avrupa ekonomisi enerji sokunu 2022 deki soka gore cok daha direncli sekilde atlatt capital economics rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6681190:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar abd dolar kars s nda daha fazla kazanc 1 35 1 37 seviyesini hedefliyor scotiabank",
+      "link": "https://tr.tradingview.com/news/fxstreet:fb3d0ef52d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s aksam teknik bulteni ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6681183:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi vestl ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6681181:0"
+    },
+    {
+      "source": "kap",
+      "text": "arsnf ihrac tavan na iliskin bildirim ihrac limit onayi sirket arsan finans faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652057"
+    },
+    {
+      "source": "kap",
+      "text": "mintf pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfmint52719 isin kodlu finansman bonosu ihrac sirket mint finansman a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652055"
+    },
+    {
+      "source": "kap",
+      "text": "kvy sirket genel bilgi formu sirket kuveyt turk yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652053"
+    },
     {
       "source": "tradingview",
       "text": "abd tahvil getirilerindeki yukselis asya gelismekte olan piyasalar n doviz faiz piyasalar uzerinde oldukca s n rl etki yaratt mufg",
@@ -9177,41 +9212,6 @@
       "source": "kap",
       "text": "betae sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m ndan elde edilen fonun kullan m na iliskin rapor sirket beta enerji teknoloji a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651243"
-    },
-    {
-      "source": "kap",
-      "text": "glb glbmd tsrs uyumlu surdurulebilirlik raporu 2025 tsrs uyumlu surdurulebilirlik raporu sirket global menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651242"
-    },
-    {
-      "source": "kap",
-      "text": "verus herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde sunulan gelir tablosu hakk nda sirket verusa holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651241"
-    },
-    {
-      "source": "kap",
-      "text": "uluse herhangi otoriteye mali tablo verilmesi 2026 2 donem gecici vergi beyan hk sirket ulusoy elektrik imalat taahhut ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651240"
-    },
-    {
-      "source": "kap",
-      "text": "pltur herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde gelir tablosu verilmesi hakk nda sirket platform turizm tasimacilik gida insaat temizlik hizmetleri sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651239"
-    },
-    {
-      "source": "kap",
-      "text": "seykm herhangi otoriteye mali tablo verilmesi herhangi otoriteye mali tablo verilmesi hk sirket seyitler kimya sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651238"
-    },
-    {
-      "source": "kap",
-      "text": "avod herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyanname eki gelir tablosu sirket a v o d kurutulmus gida tarim urunleri sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651237"
-    },
-    {
-      "source": "kap",
-      "text": "tamfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trstamf82621 isin kodlu tahvilin 4 kupon oran n n belirlenmesi hakk nda sirket tam finans faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651236"
     }
   ]
 }
