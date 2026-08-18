@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651853",
+      "last_seen_key": "kap:1651865",
       "seen_keys": [
+        "kap:1651865",
+        "kap:1651863",
+        "kap:1651862",
+        "kap:1651856",
+        "kap:1651855",
+        "kap:1651854",
         "kap:1651853",
         "kap:1651852",
         "kap:1651851",
@@ -497,13 +503,7 @@
         "kap:1651169",
         "kap:1651168",
         "kap:1651167",
-        "kap:1651166",
-        "kap:1651165",
-        "kap:1651162",
-        "kap:1651161",
-        "kap:1651160",
-        "kap:1651159",
-        "kap:1651158"
+        "kap:1651166"
       ]
     },
     "bloomberght": {
@@ -1206,8 +1206,32 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6679737:0",
+      "last_seen_key": "tradingview:matriks:6679816:0",
       "seen_keys": [
+        "tradingview:matriks:6679816:0",
+        "tradingview:fxstreet:d853d49d1d9e8:0",
+        "tradingview:matriks:6679813:0",
+        "tradingview:matriks:6679810:0",
+        "tradingview:matriks:6679809:0",
+        "tradingview:matriks:6679805:0",
+        "tradingview:beincrypto:3c33e53ffd9e8:0",
+        "tradingview:matriks:6679802:0",
+        "tradingview:matriks:6679801:0",
+        "tradingview:matriks:6679800:0",
+        "tradingview:matriks:6679797:0",
+        "tradingview:matriks:6679796:0",
+        "tradingview:matriks:6679795:0",
+        "tradingview:matriks:6679793:0",
+        "tradingview:matriks:6679792:0",
+        "tradingview:matriks:6679785:0",
+        "tradingview:matriks:6679779:0",
+        "tradingview:matriks:6679777:0",
+        "tradingview:matriks:6679767:0",
+        "tradingview:matriks:6679765:0",
+        "tradingview:matriks:6679755:0",
+        "tradingview:matriks:6679748:0",
+        "tradingview:matriks:6679741:0",
+        "tradingview:fxstreet:c3965c55ad9e8:0",
         "tradingview:matriks:6679737:0",
         "tradingview:fxstreet:8bb5616a0d9e8:0",
         "tradingview:matriks:6679727:0",
@@ -1683,31 +1707,7 @@
         "tradingview:matriks:6676843:0",
         "tradingview:matriks:6676841:0",
         "tradingview:fxstreet:95df7c206d9e8:0",
-        "tradingview:matriks:6676833:0",
-        "tradingview:matriks:6676832:0",
-        "tradingview:matriks:6676826:0",
-        "tradingview:matriks:6676825:0",
-        "tradingview:matriks:6676819:0",
-        "tradingview:beincrypto:ff812de20d9e8:0",
-        "tradingview:matriks:6676818:0",
-        "tradingview:fxstreet:8e8ab1062d9e8:0",
-        "tradingview:matriks:6676811:0",
-        "tradingview:matriks:6676810:0",
-        "tradingview:matriks:6676808:0",
-        "tradingview:matriks:6676806:0",
-        "tradingview:fxstreet:8571e077ed9e8:0",
-        "tradingview:matriks:6676805:0",
-        "tradingview:matriks:6676798:0",
-        "tradingview:matriks:6676797:0",
-        "tradingview:matriks:6676796:0",
-        "tradingview:matriks:6676795:0",
-        "tradingview:matriks:6676794:0",
-        "tradingview:matriks:6676788:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44E0DQ:0",
-        "tradingview:fxstreet:3f0bfc64bd9e8:0",
-        "tradingview:matriks:6676776:0",
-        "tradingview:matriks:6676775:0",
-        "tradingview:matriks:6676768:0"
+        "tradingview:matriks:6676833:0"
       ]
     },
     "forexfactory": {
@@ -1721,6 +1721,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hazine bulteni alnus yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679816:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro ingiltere issizlik verilerinin hayal k r kl g yaratmas yla sterlin kars s nda kazanclar n koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d853d49d1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi selec deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679813:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist 100 y ld z pazar teknik gostergeleri gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679810:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk oneri destek direnc tablosu yabanc takas raporu gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679809:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679805:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "harmony zincir gecmisinin haftas n silecek",
+      "link": "https://tr.tradingview.com/news/beincrypto:3c33e53ffd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ftse russell serbest dolas m yap lan degisikliklerin etkisini gozlemlemek eylul 2026 daki endeks gozden gecirmesini erteliyoruz bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6679802:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ftse russell mkk taraf ndan guncellenen serbest dolas m kriterleri olumlu ad m bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6679801:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "market watch seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679800:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi lkmnh deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679797:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt ici piyasalar gunluk bulten burgan yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679796:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gedik yat r m sokm 88 tl hedef fiyat belirledi endeks ustu getiri tavsiyesini korudu onceki hedef fiyat 88 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6679795:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx bulten seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679793:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi sokm phillipcapital",
+      "link": "https://tr.tradingview.com/news/matriks:6679792:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679785:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gedik yat r m lkmnh 23 7 tl hedef fiyat belirledi endeks ustu getiri tavsiyesini korudu onceki hedef fiyat 23 7 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6679779:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop bulten seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679777:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679767:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk piyasa ozeti garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679765:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679755:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gedik yat r m bimas 530 tl hedef fiyat belirledi endekse paralel getiri tavsiyesini korudu onceki hedef fiyat 530 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6679748:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya nikkei 225 endeksi 2 54 dususle 67460 73 puandan kapand",
+      "link": "https://tr.tradingview.com/news/matriks:6679741:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini kar s k ingiltere istihdam verilerinin ard ndan 1 3520 civar nda yeni dip seviyelere geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:c3965c55ad9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "krvgd pay baz nda devre kesici bildirimi krvgd e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651865"
+    },
+    {
+      "source": "kap",
+      "text": "ardyz pay baz nda devre kesici bildirimi ardyz e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651863"
+    },
+    {
+      "source": "kap",
+      "text": "uluse pay baz nda devre kesici bildirimi uluse e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651862"
+    },
+    {
+      "source": "kap",
+      "text": "vbtyz pay baz nda devre kesici bildirimi vbtyz e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651856"
+    },
+    {
+      "source": "kap",
+      "text": "zgyo pay baz nda devre kesici bildirimi zgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651855"
+    },
+    {
+      "source": "kap",
+      "text": "gozde kartn endekslerde kullan lan fiili dolas mdaki pay oran degisiklikleri sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651854"
+    },
     {
       "source": "tradingview",
       "text": "tcmb nin usd cinsi zorunlu kars l klara uygulayacag gecelik faiz oran bugun 2 750 olarak ac kland",
@@ -9070,156 +9220,6 @@
       "source": "tradingview",
       "text": "bist50 teknik bulten aktif yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6676797:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bulls yat r m ardyz hedef fiyat 156 tl tavsiye endeks ustu getiri",
-      "link": "https://tr.tradingview.com/news/matriks:6676796:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gedik yat r m sise 68 tl hedef fiyat belirledi endeks ustu getiri tavsiyesini korudu onceki hedef fiyat 68 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6676795:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten aktif yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676794:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi enkai yap kredi yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676788:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turker vangolu enerji nin halka arz nda talep planlanan tahsisat n alt nda kald halka arz buyuklugu 6 milyar tl oldu",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44E0DQ:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar veriler gumruk tarifleri k sa vadeli riskleri sekillendiriyor td securities",
-      "link": "https://tr.tradingview.com/news/fxstreet:3f0bfc64bd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk piyasa ozeti garanti bbva yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676776:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "telefon numaras tas ma say s 218 milyonu gecti ulast rma altyap bakan abdulkadir uraloglu mobil hizmetlerde abone say s n n y l n birinci ceyregi sonu itibar yla 86 milyona nufusa gore mobil abone yayg nl g n n ise yuzde 100 3 e yukseldigini belirterek donemde tas nan 3 5 mil",
-      "link": "https://www.trthaber.com/haber/ekonomi/telefon-numarasi-tasima-sayisi-218-milyonu-gecti-954150.html"
-    },
-    {
-      "source": "investing",
-      "text": "smart gunes enerjisi 230 milyon tl sermaye avans ald",
-      "link": "https://tr.investing.com/news/global-filings/son-dakika-smart-gunes-enerjisi-230-milyon-tl-sermaye-avans-ald-93CH-4032259"
-    },
-    {
-      "source": "investing",
-      "text": "garanti bbva ya 400 milyon dolar 100 milyon euro tahvil ihrac onay",
-      "link": "https://tr.investing.com/news/company-news/garanti-bbvaya-400-milyon-dolar-ve-100-milyon-euro-tahvil-ihrac-onay-93CH-4032257"
-    },
-    {
-      "source": "investing",
-      "text": "orma yonetim kurulu uyesi omer civril in istifas n ac klad",
-      "link": "https://tr.investing.com/news/global-filings/orma-yonetim-kurulu-uyesi-omer-civrilin-istifasn-acklad-93CH-4032256"
-    },
-    {
-      "source": "investing",
-      "text": "efor yat r m geri al nan 17 9 milyon tl pay 230 1 milyon tl karla satt",
-      "link": "https://tr.investing.com/news/global-filings/efor-yatrm-geri-alnan-179-milyon-tl-pay-2301-milyon-tl-karla-satt-93CH-4032245"
-    },
-    {
-      "source": "investing",
-      "text": "ashok leyland hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/ashok-leyland-hissesi-bugun-neden-yukseliyor-93CH-4032244"
-    },
-    {
-      "source": "investing",
-      "text": "enerya enerji yozgat alt n sahas nda 654 927 bin ons potansiyel belirledi",
-      "link": "https://tr.investing.com/news/global-filings/enerya-enerji-yozgat-altn-sahasnda-654927-bin-ons-potansiyel-belirledi-93CH-4032235"
-    },
-    {
-      "source": "investing",
-      "text": "ahlatc dogal gaz yozgat alt n sahas arama hedefi raporunu revize etti",
-      "link": "https://tr.investing.com/news/global-filings/ahlatc-dogal-gaz-yozgat-altn-sahas-arama-hedefi-raporunu-revize-etti-93CH-4032232"
-    },
-    {
-      "source": "investing",
-      "text": "sa ra enerji 318 75 milyon tl lik siparis ald",
-      "link": "https://tr.investing.com/news/global-filings/sara-enerji-31875-milyon-tllik-siparis-ald-93CH-4032231"
-    },
-    {
-      "source": "investing",
-      "text": "sandoz hissesi neden bugun yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/sandoz-hissesi-neden-bugun-yukseliyor-93CH-4032226"
-    },
-    {
-      "source": "investing",
-      "text": "eregli tekstil 381 4 milyon tl tutar nda finansman bonosu ihrac etti",
-      "link": "https://tr.investing.com/news/global-filings/eregli-tekstil-3814-milyon-tl-tutarnda-finansman-bonosu-ihrac-etti-93CH-4032224"
-    },
-    {
-      "source": "bloomberght",
-      "text": "teknika plast n halka arz buyuklugu 2 65 milyar lira oldu 12 14 agustos tarihleri aras nda talep toplama sureci gerceklestirilen teknika plast n halka arz sonuclar ac kland",
-      "link": "https://www.bloomberght.com/teknika-plast-in-halka-arz-buyuklugu-2-65-milyar-lira-oldu-3785696"
-    },
-    {
-      "source": "bloomberght",
-      "text": "iran 60 gunluk sure tamamen anlams z hale geldi iran d sisleri bakanl g sozcusu ismail bekayi mutabakat zapt n n abd taraf ndan ihlal edilmesi nedeniyle 60 gunluk sure tamamen anlams z hale geldigini belirterek dunyaya dayat lan guvensizlik abd israil rejiminin yasad s askeri ey",
-      "link": "https://www.bloomberght.com/iran-60-gunluk-sure-tamamen-anlamsiz-hale-geldi-3785695"
-    },
-    {
-      "source": "kap",
-      "text": "ykfkt ihrac tavan na iliskin bildirim yurtd s borclanma arac ihrac limitine iliskin yonetim kurulu karar sirket yapi kredi faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651048"
-    },
-    {
-      "source": "kap",
-      "text": "endae herhangi otoriteye mali tablo verilmesi 2026 y l ii donem gecici vergi beyannamesi hk sirket enda enerji holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651047"
-    },
-    {
-      "source": "kap",
-      "text": "glbmd pay baz nda devre kesici bildirimi glbmd e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651046"
-    },
-    {
-      "source": "kap",
-      "text": "sohoe kurumsal yonetim bilgi formu guncelleme yonetim kurulu 3 kurumsal yonetim bilgi formu guncelleme sirket soho giyim enerji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651044"
-    },
-    {
-      "source": "kap",
-      "text": "sohoe kurumsal yonetim bilgi formu guncelleme yonetim kurulu 1 kurumsal yonetim bilgi formu guncelleme sirket soho giyim enerji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651043"
-    },
-    {
-      "source": "kap",
-      "text": "sohoe kurumsal yonetim bilgi formu guncelleme pay sahipleri kurumsal yonetim bilgi formu guncelleme sirket soho giyim enerji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651042"
-    },
-    {
-      "source": "kap",
-      "text": "atlas haftal k rapor haftal k rapor sirket atlas menkul kiymetler yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651041"
-    },
-    {
-      "source": "kap",
-      "text": "gubrf herhangi otoriteye mali tablo verilmesi herhangi otoriteye mali tablo verilmesi sirket gubre fabrikalari t a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651040"
-    },
-    {
-      "source": "kap",
-      "text": "lkmnh pay baz nda devre kesici bildirimi lkmnh e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651039"
-    },
-    {
-      "source": "tradingview",
-      "text": "yenileme ticari gayrimenkul fiyat endeksi 2 ceyrekte nominal olarak y ll k 29 4 art t",
-      "link": "https://tr.tradingview.com/news/matriks:6676775:0"
     }
   ]
 }
