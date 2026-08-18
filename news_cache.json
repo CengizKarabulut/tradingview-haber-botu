@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652366",
+      "last_seen_key": "kap:1652370",
       "seen_keys": [
+        "kap:1652370",
+        "kap:1652369",
+        "kap:1652368",
+        "kap:1652367",
         "kap:1652366",
         "kap:1652365",
         "kap:1652364",
@@ -888,8 +892,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:86256dd52d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:325d3faaad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:325d3faaad9e8:0",
         "tradingview:fxstreet:86256dd52d9e8:0",
         "tradingview:cointelegraph:f5de79fadd9e8:0",
         "tradingview:fxstreet:e93876d5ad9e8:0",
@@ -905,9 +910,11 @@
         "tradingview:cointelegraph:a6c3a422bd9e8:0",
         "tradingview:matriks:6681762:0",
         "tradingview:matriks:6681756:0",
+        "tradingview:fxstreet:b32a29cd3d9e8:0",
         "tradingview:fxstreet:938b83a9ad9e8:0",
         "tradingview:fxstreet:02b453930d9e8:0",
         "tradingview:matriks:6681739:0",
+        "tradingview:fxstreet:cfff09c60d9e8:0",
         "tradingview:cointelegraph:6cc9eb251d9e8:0",
         "tradingview:beincrypto:aaba4e4b1d9e8:0",
         "tradingview:beincrypto:9050d545bd9e8:0",
@@ -1386,10 +1393,7 @@
         "tradingview:matriks:6679338:0",
         "tradingview:matriks:6679336:0",
         "tradingview:matriks:6679340:0",
-        "tradingview:matriks:6679337:0",
-        "tradingview:matriks:6679349:0",
-        "tradingview:matriks:6679345:0",
-        "tradingview:matriks:6679346:0"
+        "tradingview:matriks:6679337:0"
       ]
     },
     "forexfactory": {
@@ -1403,6 +1407,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "endonezya rupiah mali disiplin istikrar destekliyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:325d3faaad9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "atakp ozel durum ac klamas genel bag ms z yonetim kurulu uyelerinin yeniden aday gosterilmesine iliskin spk onay na sunma sirket atakey patates gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652370"
+    },
+    {
+      "source": "kap",
+      "text": "kzbgy kat l m finans ilkeleri bilgi formu sirket kizilbuk gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652369"
+    },
+    {
+      "source": "kap",
+      "text": "anele tsrs uyumlu surdurulebilirlik raporu tsrs uyumlu surdurulebilirlik raporu sirket anel elektrik proje taahhut ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652368"
+    },
+    {
+      "source": "kap",
+      "text": "anele sorumluluk beyan konsolide 2026 y l 2 ceyrek donemi sorumluluk beyan sirket anel elektrik proje taahhut ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652367"
+    },
     {
       "source": "tradingview",
       "text": "alt n fiyat abd getirilerinin yukselmesiyle dusuyor kulce alt n uzerinde bask olusturuyor",
@@ -8877,31 +8906,6 @@
       "source": "kap",
       "text": "ralyh faaliyet raporu konsolide 01 01 2026 30 06 2026 yonetim kurulu faaliyet raporu sirket ral yatirim holding a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651600"
-    },
-    {
-      "source": "kap",
-      "text": "ralyh finansal rapor sirket ral yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651599"
-    },
-    {
-      "source": "kap",
-      "text": "ralyh sorumluluk beyan konsolide 01 01 2026 30 06 2026 donemi sorumluluk beyan sirket ral yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651598"
-    },
-    {
-      "source": "kap",
-      "text": "bizim tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket bizim toptan satis magazalari a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651597"
-    },
-    {
-      "source": "kap",
-      "text": "yyapi herhangi otoriteye mali tablo verilmesi 01 01 2026 30 06 2026 donemi gecici vergi beyannamesi eki gelir tablosu hakk nda sirket yesil yapi endustrisi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651596"
-    },
-    {
-      "source": "kap",
-      "text": "brksn herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde sunulan gelir tablosu hk sirket berkosan yalitim tecrit maddeleri uretim ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651595"
     }
   ]
 }
