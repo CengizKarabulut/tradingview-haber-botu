@@ -1183,8 +1183,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:fc8447a35d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:5be177088d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:5be177088d9e8:0",
         "tradingview:fxstreet:fc8447a35d9e8:0",
         "tradingview:fxstreet:67f5432d9d9e8:0",
         "tradingview:fxstreet:e18adc217d9e8:0",
@@ -1683,8 +1684,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L6N44E072:0",
         "tradingview:matriks:6676361:0",
         "tradingview:matriks:6676359:0",
-        "tradingview:fxstreet:0857d508cd9e8:0",
-        "tradingview:matriks:6676357:0"
+        "tradingview:fxstreet:0857d508cd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1697,6 +1697,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kanada dolar yukselen petrol fiyatlar n n mutevaz abd dolar gucunu dengelemesiyle haziran bas ndaki en yuksek seviyesine yak n seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5be177088d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini fed faiz art r m beklentileri azal rken ingiltere istihdam verileri yaklas rken 1 3550 seviyesine yak n guc kazan yor",
@@ -9191,11 +9196,6 @@
       "source": "tradingview",
       "text": "akhan akhan un fabrikas tar m urunleri g sanayi tic konsolide bilanco 2026 6 ayl k net kar 57 695 862 tl onceki 137 784 864 tl net kar",
       "link": "https://tr.tradingview.com/news/matriks:6676392:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "binance research taraf ndan yay mlanan yeni rapor z kusag n n kuresel yat r m piyasalar ndaki ag rl g n n h zla artt g n ortaya koydu",
-      "link": "https://tr.tradingview.com/news/matriks:6676390:0"
     }
   ]
 }
