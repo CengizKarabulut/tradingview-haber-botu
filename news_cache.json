@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651970",
+      "last_seen_key": "kap:1651972",
       "seen_keys": [
+        "kap:1651972",
+        "kap:1651971",
         "kap:1651970",
         "kap:1651969",
         "kap:1651968",
@@ -501,14 +503,13 @@
         "kap:1651249",
         "kap:1651248",
         "kap:1651247",
-        "kap:1651246",
-        "kap:1651245",
-        "kap:1651244"
+        "kap:1651246"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/hazine-ve-maliye-bakanligi-ndan-koklu-degisiklik-iddiasina-yanit-3785784",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/almanya-da-son-15-yilin-en-maliyetli-uzun-vadeli-borclanmasi-3785786",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/almanya-da-son-15-yilin-en-maliyetli-uzun-vadeli-borclanmasi-3785786",
         "bloomberght:https://www.bloomberght.com/hazine-ve-maliye-bakanligi-ndan-koklu-degisiklik-iddiasina-yanit-3785784",
         "bloomberght:https://www.bloomberght.com/almanya-da-yatirimci-guveni-iyilesiyor-3785783",
         "bloomberght:https://www.bloomberght.com/hurmuz-bogazi-abluka-ve-petrol-yaptirimlari-kaldirilmadan-acilmayacak-3785782",
@@ -1203,8 +1204,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:44531df8ad9e8:0",
+      "last_seen_key": "tradingview:matriks:6680788:0",
       "seen_keys": [
+        "tradingview:matriks:6680788:0",
+        "tradingview:matriks:6680781:0",
+        "tradingview:fxstreet:f701232e9d9e8:0",
+        "tradingview:fxstreet:ce76af186d9e8:0",
+        "tradingview:fxstreet:aab151607d9e8:0",
         "tradingview:fxstreet:44531df8ad9e8:0",
         "tradingview:matriks:6680754:0",
         "tradingview:matriks:6680751:0",
@@ -1273,6 +1279,7 @@
         "tradingview:matriks:6680300:0",
         "tradingview:fxstreet:ee993df6ad9e8:0",
         "tradingview:matriks:6680263:0",
+        "tradingview:matriks:6680259:0",
         "tradingview:matriks:6680248:0",
         "tradingview:fxstreet:2c6e1d227d9e8:0",
         "tradingview:fxstreet:3d690ee18d9e8:0",
@@ -1698,13 +1705,7 @@
         "tradingview:matriks:6677770:0",
         "tradingview:matriks:6677767:0",
         "tradingview:matriks:6677769:0",
-        "tradingview:matriks:6677768:0",
-        "tradingview:matriks:6677761:0",
-        "tradingview:matriks:6677760:0",
-        "tradingview:matriks:6677756:0",
-        "tradingview:matriks:6677752:0",
-        "tradingview:matriks:6677736:0",
-        "tradingview:matriks:6677719:0"
+        "tradingview:matriks:6677768:0"
       ]
     },
     "forexfactory": {
@@ -1718,6 +1719,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi ofsym deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6680788:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi bimas ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6680781:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus enerji gerilimlerinin gorunumu golgelemesiyle fed tutanaklar oncesinde 65 a dogru geri cekiliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f701232e9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n daha yuksek faiz riski fiyatlar yatay seyirde tutacak td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:ce76af186d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nzd usd fiyat analizi yeni zelanda dolar 0 5900 un uzerinde devam ivmesi bulam yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:aab151607d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "almanya 15 y l n en maliyetli uzun vadeli borclanmas almanya artan kamu borcu kal c enflasyon endiselerinin piyasalar bask lamas yla uzun vadeli tahvil ihrac nda 15 y l n en yuksek borclanma maliyetiyle kars kars ya kald",
+      "link": "https://www.bloomberght.com/almanya-da-son-15-yilin-en-maliyetli-uzun-vadeli-borclanmasi-3785786"
+    },
+    {
+      "source": "kap",
+      "text": "grtho pay baz nda devre kesici bildirimi grtho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651972"
+    },
+    {
+      "source": "kap",
+      "text": "pbt pbtr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren pasha yat r m bankas a s vdmk itfas sirket pasha yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651971"
+    },
     {
       "source": "tradingview",
       "text": "petrol hurmuz cat smas fiyatlar yuksek tutuyor bny",
@@ -9177,46 +9218,6 @@
       "source": "investing",
       "text": "goknur g tmsf yonetim kayy m kald r ld",
       "link": "https://tr.investing.com/news/global-filings/son-dakika-goknur-gda-tmsf-yonetim-kayym-kaldrld-93CH-4033023"
-    },
-    {
-      "source": "investing",
-      "text": "cantor fitzgerald nyxoah hissesi hedef fiyat dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-nyxoah-hissesi-icin-hedef-fiyat-dusurdu-93CH-4033022"
-    },
-    {
-      "source": "investing",
-      "text": "corebridge financial equitable birlesmesiyle ilgili mali tablolar sundu",
-      "link": "https://tr.investing.com/news/sec-filings/corebridge-financial-equitable-birlesmesiyle-ilgili-mali-tablolar-sundu-93CH-4033008"
-    },
-    {
-      "source": "bloomberght",
-      "text": "hazine iki tahvilde 101 7 milyar tl borcland hazine maliye bakanl g ihale oncesi sat slarla birlikte iki tahvilde 101 7 milyar tl lik borclanma gerceklestirdi",
-      "link": "https://www.bloomberght.com/hazine-iki-tahvilde-101-7-milyar-tl-borclandi-3785713"
-    },
-    {
-      "source": "bloomberght",
-      "text": "new york imalat endeksinde 2021 sonundan beri en buyuk genisleme new york empire state agustos ay fabrika faaliyetleri siparislerdeki art s birikmis siparislerin guclu seyrini surdurmesiyle 2021 sonundan beri en buyuk genislemeyi gerceklestirdi",
-      "link": "https://www.bloomberght.com/new-york-ta-fabrika-faaliyetlerinde-2021-sonundan-beri-en-buyuk-genisleme-3785710"
-    },
-    {
-      "source": "kap",
-      "text": "przma olagan d s fiyat miktar hareketleri olagand s fiyat miktar hareketi hk sirket prizma pres matbaacilik yayincilik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651175"
-    },
-    {
-      "source": "kap",
-      "text": "mrbkf tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket mercedes benz kamyon finansman a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651172"
-    },
-    {
-      "source": "kap",
-      "text": "krgyo pay baz nda devre kesici bildirimi krgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651171"
-    },
-    {
-      "source": "kap",
-      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren tmks akbank birinci varl k finansman fonu vdmk itfas sirket birlesik ipotek finansmani a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651170"
     }
   ]
 }
