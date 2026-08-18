@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651942",
+      "last_seen_key": "kap:1651943",
       "seen_keys": [
+        "kap:1651943",
         "kap:1651942",
         "kap:1651941",
         "kap:1651940",
@@ -502,8 +503,7 @@
         "kap:1651221",
         "kap:1651220",
         "kap:1651219",
-        "kap:1651218",
-        "kap:1651217"
+        "kap:1651218"
       ]
     },
     "bloomberght": {
@@ -1202,8 +1202,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:c052d48c7d9e8:0",
+      "last_seen_key": "tradingview:matriks:6680538:0",
       "seen_keys": [
+        "tradingview:matriks:6680538:0",
+        "tradingview:matriks:6680525:0",
+        "tradingview:fxstreet:963f84bc0d9e8:0",
+        "tradingview:matriks:6680509:0",
+        "tradingview:matriks:6680499:0",
+        "tradingview:fxstreet:93e405e50d9e8:0",
         "tradingview:fxstreet:c052d48c7d9e8:0",
         "tradingview:matriks:6680478:0",
         "tradingview:fxstreet:4e0cce7eed9e8:0",
@@ -1216,12 +1222,14 @@
         "tradingview:matriks:6680434:0",
         "tradingview:fxstreet:dc0838d65d9e8:0",
         "tradingview:fxstreet:1e5c6a28ed9e8:0",
+        "tradingview:beincrypto:5bd95a1a5d9e8:0",
         "tradingview:fxstreet:5d24e0ad0d9e8:0",
         "tradingview:fxstreet:8ff742ea6d9e8:0",
         "tradingview:matriks:6680398:0",
         "tradingview:tag:reuters.com,2026:newsml_ZRN00EEIU:0",
         "tradingview:matriks:6680384:0",
         "tradingview:fxstreet:521d6b9c6d9e8:0",
+        "tradingview:beincrypto:7de995fb5d9e8:0",
         "tradingview:matriks:6680368:0",
         "tradingview:fxstreet:0d1cd7a1bd9e8:0",
         "tradingview:matriks:6680367:0",
@@ -1695,15 +1703,7 @@
         "tradingview:matriks:6677637:0",
         "tradingview:matriks:6677636:0",
         "tradingview:matriks:6677627:0",
-        "tradingview:matriks:6677625:0",
-        "tradingview:matriks:6677618:0",
-        "tradingview:matriks:6677616:0",
-        "tradingview:fxstreet:172a30fb7d9e8:0",
-        "tradingview:matriks:6677612:0",
-        "tradingview:matriks:6677611:0",
-        "tradingview:matriks:6677589:0",
-        "tradingview:matriks:6677572:0",
-        "tradingview:fxstreet:19c1d9b43d9e8:0"
+        "tradingview:matriks:6677625:0"
       ]
     },
     "forexfactory": {
@@ -1717,6 +1717,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "home depot ikinci ceyrek sonuclar n ac klad y ll k beklentilerini korudu",
+      "link": "https://tr.tradingview.com/news/matriks:6680538:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kuresel tahvil getirileri y llar n en yuksek seviyelerine ulast",
+      "link": "https://tr.tradingview.com/news/matriks:6680525:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "isvicre frang fonlama para birimi olarak artan rolu ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:963f84bc0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kervan g sirketimizin seker sorusturmas kapsam nda supheli ilgili sirket bilgi sahibi veya taraf s fat bulunmamaktad r",
+      "link": "https://tr.tradingview.com/news/matriks:6680509:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin devlet kontrolundeki iki buyuk nakliye sirketi artan guvenlik riskleri nedeniyle hurmuz bogaz babulmendeb uzerinden petrol tankeri sevkiyat n durdurma karar ald",
+      "link": "https://tr.tradingview.com/news/matriks:6680499:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro iyimser almanya ekonomik hissiyat n n ard ndan ingiliz sterlini kars s nda hafif yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:93e405e50d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "brisa sirket genel bilgi formu sirket brisa bridgestone sabanci lastik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651943"
+    },
     {
       "source": "investing",
       "text": "wolfe anketi makro endiseler aras nda l ml iyimserlik gosteriyor",
@@ -9181,41 +9216,6 @@
       "source": "investing",
       "text": "wainwright dyne therapeutics hisse onerisini korudu",
       "link": "https://tr.investing.com/news/analyst-ratings/wainwright-dyne-therapeutics-icin-hisse-onerisini-korudu-93CH-4032678"
-    },
-    {
-      "source": "investing",
-      "text": "mizuho intuit in hisse hedefini 2027 gorunumu nedeniyle dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-intuitin-hisse-hedefini-2027-gorunumu-nedeniyle-dusurdu-93CH-4032677"
-    },
-    {
-      "source": "investing",
-      "text": "mizuho amylyx hisse hedefini fiyatlamaya dayanarak 30 dolara yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-amylyx-hisse-hedefini-fiyatlamaya-dayanarak-30-dolara-yukseltti-93CH-4032676"
-    },
-    {
-      "source": "kap",
-      "text": "izfas herhangi otoriteye mali tablo verilmesi 2026 yili 2 donemine ait kurumlar gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket izmir firca sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651116"
-    },
-    {
-      "source": "kap",
-      "text": "gerel herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket gersan elektrik ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651115"
-    },
-    {
-      "source": "kap",
-      "text": "hlgyo pay baz nda devre kesici bildirimi hlgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651114"
-    },
-    {
-      "source": "kap",
-      "text": "dstkf pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 20 000 000 usd nominal degerli tahvilin kupon odemesi yurt d s sirket destek finans faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651113"
-    },
-    {
-      "source": "kap",
-      "text": "ismen iym yat r m kurulusu varant sertifika senetlerine iliskin bildirim is yat r m arac kurulus varantlar n n itfa bildirimi sirket is yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651112"
     }
   ]
 }
