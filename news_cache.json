@@ -919,8 +919,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f8ad955c5d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:ddda43b49d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:ddda43b49d9e8:0",
         "tradingview:fxstreet:f8ad955c5d9e8:0",
         "tradingview:fxstreet:c0e755f5fd9e8:0",
         "tradingview:fxstreet:74a9fa83dd9e8:0",
@@ -1419,8 +1420,7 @@
         "tradingview:matriks:6679380:0",
         "tradingview:matriks:6679379:0",
         "tradingview:matriks:6679378:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44F02L:0",
-        "tradingview:matriks:6679376:0"
+        "tradingview:tag:reuters.com,2026:newsml_L8N44F02L:0"
       ]
     },
     "forexfactory": {
@@ -1434,6 +1434,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini nin uc ayl k zirvesi amerika olustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:ddda43b49d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "yeni zelanda dolar guclu abd dolar kars s nda yatay seyrediyor",
@@ -8928,11 +8933,6 @@
       "source": "kap",
       "text": "binho tsrs uyumlu surdurulebilirlik raporu tsrs uyumlu 2025 y l surdurulebilirlik raporu sirket 1000 yatirimlar holding a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651653"
-    },
-    {
-      "source": "kap",
-      "text": "obams herhangi otoriteye mali tablo verilmesi 01 01 2026 30 06 2026 donemi gecici vergi beyannamesi eki gelir tablosu hakk nda sirket oba makarnacilik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651652"
     }
   ]
 }
