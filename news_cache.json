@@ -2,9 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652057",
+      "last_seen_key": "kap:1652067",
       "seen_keys": [
-        "kap:1652057",
+        "kap:1652067",
+        "kap:1652065",
+        "kap:1652064",
+        "kap:1652062",
+        "kap:1652061",
+        "kap:1652060",
+        "kap:1652059",
         "kap:1652055",
         "kap:1652053",
         "kap:1652052",
@@ -86,6 +92,7 @@
         "kap:1651930",
         "kap:1651929",
         "kap:1651928",
+        "kap:1652057",
         "kap:1651927",
         "kap:1651926",
         "kap:1651923",
@@ -496,20 +503,14 @@
         "kap:1651311",
         "kap:1651305",
         "kap:1651304",
-        "kap:1651303",
-        "kap:1651302",
-        "kap:1651301",
-        "kap:1651300",
-        "kap:1651299",
-        "kap:1651298",
-        "kap:1651297",
-        "kap:1651296"
+        "kap:1651303"
       ]
     },
     "bloomberght": {
       "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-iran-ile-gorusme-yapilmiyor-3785802",
       "seen_keys": [
         "bloomberght:https://www.bloomberght.com/trump-iran-ile-gorusme-yapilmiyor-3785802",
+        "bloomberght:https://www.bloomberght.com/abd-de-sanayi-uretimi-ikinci-ayda-da-artti-3785801",
         "bloomberght:https://www.bloomberght.com/guney-kore-den-abd-ile-istisare-mesaji-3785799",
         "bloomberght:https://www.bloomberght.com/ingye-gore-dolardaki-dususun-pesinden-gitmek-icin-cok-erken-3785796",
         "bloomberght:https://www.bloomberght.com/abd-de-ithalat-fiyat-endeksi-geriledi-3785793",
@@ -557,25 +558,24 @@
         "bloomberght:https://www.bloomberght.com/stellantis-1-milyona-yakin-araci-geri-cagiriyor-3785725",
         "bloomberght:https://www.bloomberght.com/cin-de-konut-fiyatlarindaki-dusus-devam-ediyor-3785724",
         "bloomberght:https://www.bloomberght.com/aramco-dan-hurmuz-e-alternatif-petrol-rotasi-3785723",
-        "bloomberght:https://www.bloomberght.com/abd-de-sanayi-uretimi-ikinci-ayda-da-artti-3785801",
         "bloomberght:https://www.bloomberght.com/yht-bilet-fiyatlarina-zam-yapildi-3785720",
         "bloomberght:https://www.bloomberght.com/dogalgaz-fiyat-artis-kanada-da-enflasyonunu-yukseltti-3785718",
         "bloomberght:https://www.bloomberght.com/devrim-muhafizlari-ndan-trump-in-iddialarina-yalanlama-3785716"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/truist-amcor-hissesi-icin-al-tavsiyesini-yineledi-51-dolar-hedef-fiyat-korudu-93CH-4034934",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/energy-vault-yoneticisi-dylan-hixon-106536-dolar-degerinde-hisse-ald-93CH-4034980",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/truist-amcor-hissesi-icin-al-tavsiyesini-yineledi-51-dolar-hedef-fiyat-korudu-93CH-4034934",
-        "investing:https://tr.investing.com/news/company-news/nationwide-building-society-cekirdek-sermaye-hisselerini-126-sterlinden-satt-93CH-4034933",
-        "investing:https://tr.investing.com/news/stock-market-news/intel-hisseleri-neden-bugun-dusuyor-93CH-4034932",
-        "investing:https://tr.investing.com/news/stock-market-news/micron-technology-hisseleri-neden-bugun-dusuyor-93CH-4034926",
-        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-amgenin-hisse-hedefini-yukseltti-93CH-4034925",
-        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-nvidia-hissesi-icin-tavsiyesini-ai-talep-gucuyle-korudu-93CH-4034924",
-        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-quince-therapeutics-hissesi-icin-gorusunu-tekrarlad-93CH-4034923",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-gartnern-hisse-hedefini-dusurdu-93CH-4034922",
-        "investing:https://tr.investing.com/news/analyst-ratings/cowen-optik-konumundaki-guc-nedeniyle-marvell-hisse-hedefini-yukseltti-93CH-4034921",
-        "investing:https://tr.investing.com/news/company-news/cbl-international-ilk-yarda-kara-dondu-93CH-4034920",
+        "investing:https://tr.investing.com/news/insider-trading-news/energy-vault-yoneticisi-dylan-hixon-106536-dolar-degerinde-hisse-ald-93CH-4034980",
+        "investing:https://tr.investing.com/news/stock-market-news/northrop-grumman-e2d-yukseltmesi-icin-tasarm-incelemesini-tamamlad-93CH-4034979",
+        "investing:https://tr.investing.com/news/stock-market-news/lyntris-halka-arzda-fiyat-aralgn-alt-yarsnda-belirleyecek-93CH-4034975",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-crowdstrike-icin-hisse-hedefini-yapay-zeka-buyumesiyle-250-dolara-yukseltti-93CH-4034972",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-kanser-tedavisindeki-ilerlemeler-sonras-genelux-hisse-notunu-korudu-93CH-4034971",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-nephros-hissesi-icin-spekulatif-al-tavsiyesini-korudu-93CH-4034970",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-buyume-gorunumuyle-smartfinancial-hisse-hedefini-yukseltti-93CH-4034969",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-h-world-group-hissesi-icin-tavsiyesini-yineledi-93CH-4034968",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-zayf-sonuclar-sonras-defi-technologies-hisse-hedefini-dusurdu-93CH-4034967",
+        "investing:https://tr.investing.com/news/company-news/albion-vctler-60-milyon-sterline-kadar-hisse-arz-baslatt-93CH-4034966",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -596,6 +596,16 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-amcor-hissesi-icin-al-tavsiyesini-yineledi-51-dolar-hedef-fiyat-korudu-93CH-4034934",
+        "investing:https://tr.investing.com/news/company-news/nationwide-building-society-cekirdek-sermaye-hisselerini-126-sterlinden-satt-93CH-4034933",
+        "investing:https://tr.investing.com/news/stock-market-news/intel-hisseleri-neden-bugun-dusuyor-93CH-4034932",
+        "investing:https://tr.investing.com/news/stock-market-news/micron-technology-hisseleri-neden-bugun-dusuyor-93CH-4034926",
+        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-amgenin-hisse-hedefini-yukseltti-93CH-4034925",
+        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-nvidia-hissesi-icin-tavsiyesini-ai-talep-gucuyle-korudu-93CH-4034924",
+        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-quince-therapeutics-hissesi-icin-gorusunu-tekrarlad-93CH-4034923",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-gartnern-hisse-hedefini-dusurdu-93CH-4034922",
+        "investing:https://tr.investing.com/news/analyst-ratings/cowen-optik-konumundaki-guc-nedeniyle-marvell-hisse-hedefini-yukseltti-93CH-4034921",
+        "investing:https://tr.investing.com/news/company-news/cbl-international-ilk-yarda-kara-dondu-93CH-4034920",
         "investing:https://tr.investing.com/news/company-news/energy-transfer-hissesi-2112-dolarda-52-haftalk-zirve-yapt-93CH-4034887",
         "investing:https://tr.investing.com/news/company-news/aixc-robotik-alanna-yoneliyor-dijital-varlklardan-ckyor-93CH-4034886",
         "investing:https://tr.investing.com/news/company-news/amylyx-pharmaceuticals-hissesi-2986-dolarda-zirve-yapt-93CH-4034884",
@@ -1055,17 +1065,7 @@
         "investing:https://tr.investing.com/news/economy-news/cin-yeni-bes-yllk-planda-petrol-ve-gaz-hedeflerini-acklad-93CH-4032683",
         "investing:https://tr.investing.com/news/insider-trading-news/v-f-corp-yoneticisi-richard-carucci-294600-dolar-hisse-ald-93CH-4032682",
         "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-alumis-hissesi-icin-notr-gorusunu-korudu-93CH-4032681",
-        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-celcuity-hissesi-icin-hedef-fiyat-korudu-93CH-4032679",
-        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-gemini-space-station-icin-hisse-hedefini-dusurdu-93CH-4032680",
-        "investing:https://tr.investing.com/news/analyst-ratings/wainwright-dyne-therapeutics-icin-hisse-onerisini-korudu-93CH-4032678",
-        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-intuitin-hisse-hedefini-2027-gorunumu-nedeniyle-dusurdu-93CH-4032677",
-        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-amylyx-hisse-hedefini-fiyatlamaya-dayanarak-30-dolara-yukseltti-93CH-4032676",
-        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-yapay-zeka-potansiyeli-nedeniyle-okta-hissesini-yukseltti-93CH-4032646",
-        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-crowdstrike-hissesi-icin-hedef-fiyat-yukseltti-93CH-4032644",
-        "investing:https://tr.investing.com/news/investment-ideas/gercege-uygun-deger-insperitynin-68lik-rallisini-9-ay-once-tespit-etti-93CH-4032643",
-        "investing:https://tr.investing.com/news/company-news/eyepointin-duravyu-ilac-yas-amd-denemesinde-basarsz-oldu-93CH-4032641",
-        "investing:https://tr.investing.com/news/company-news/castle-biosciences-nasdaq-texasta-ikili-kote-oldu-93CH-4032638",
-        "investing:https://tr.investing.com/news/company-news/vinfast-surucu-destek-teknolojisi-ve-tedarik-zinciri-stratejisini-acklad-93CH-4032639"
+        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-celcuity-hissesi-icin-hedef-fiyat-korudu-93CH-4032679"
       ]
     },
     "ntvpara": {
@@ -1198,8 +1198,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6681190:0",
+      "last_seen_key": "tradingview:fxstreet:bd148c361d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:bd148c361d9e8:0",
         "tradingview:matriks:6681190:0",
         "tradingview:fxstreet:fb3d0ef52d9e8:0",
         "tradingview:matriks:6681183:0",
@@ -1698,8 +1699,7 @@
         "tradingview:fxstreet:fa879dd0fd9e8:0",
         "tradingview:matriks:6678383:0",
         "tradingview:matriks:6678373:0",
-        "tradingview:matriks:6678372:0",
-        "tradingview:matriks:6678367:0"
+        "tradingview:matriks:6678372:0"
       ]
     },
     "forexfactory": {
@@ -1713,6 +1713,96 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar fed tutanaklar oncesinde iki ayl k zirvesinin yak nlar nda direncli kal yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:bd148c361d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "energy vault yoneticisi dylan hixon 106 536 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/energy-vault-yoneticisi-dylan-hixon-106536-dolar-degerinde-hisse-ald-93CH-4034980"
+    },
+    {
+      "source": "investing",
+      "text": "northrop grumman e 2d yukseltmesi tasar m incelemesini tamamlad",
+      "link": "https://tr.investing.com/news/stock-market-news/northrop-grumman-e2d-yukseltmesi-icin-tasarm-incelemesini-tamamlad-93CH-4034979"
+    },
+    {
+      "source": "investing",
+      "text": "lyntris halka arzda fiyat aral g n alt yar s nda belirleyecek",
+      "link": "https://tr.investing.com/news/stock-market-news/lyntris-halka-arzda-fiyat-aralgn-alt-yarsnda-belirleyecek-93CH-4034975"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark crowdstrike hisse hedefini yapay zeka buyumesiyle 250 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-crowdstrike-icin-hisse-hedefini-yapay-zeka-buyumesiyle-250-dolara-yukseltti-93CH-4034972"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark kanser tedavisindeki ilerlemeler sonras genelux hisse notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-kanser-tedavisindeki-ilerlemeler-sonras-genelux-hisse-notunu-korudu-93CH-4034971"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark nephros hissesi spekulatif al tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-nephros-hissesi-icin-spekulatif-al-tavsiyesini-korudu-93CH-4034970"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark buyume gorunumuyle smartfinancial hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-buyume-gorunumuyle-smartfinancial-hisse-hedefini-yukseltti-93CH-4034969"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark h world group hissesi tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-h-world-group-hissesi-icin-tavsiyesini-yineledi-93CH-4034968"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark zay f sonuclar sonras defi technologies hisse hedefini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-zayf-sonuclar-sonras-defi-technologies-hisse-hedefini-dusurdu-93CH-4034967"
+    },
+    {
+      "source": "investing",
+      "text": "albion vct ler 60 milyon sterline kadar hisse arz baslatt",
+      "link": "https://tr.investing.com/news/company-news/albion-vctler-60-milyon-sterline-kadar-hisse-arz-baslatt-93CH-4034966"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank odunc pay piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652067"
+    },
+    {
+      "source": "kap",
+      "text": "arsnf ihrac tavan na iliskin bildirim ihrac limit onayi sirket arsan finans faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652065"
+    },
+    {
+      "source": "kap",
+      "text": "yatvk ihrac tavan na iliskin bildirim kira sertifikas ihrac na iliskin spk basvurusu sirket yatirim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652064"
+    },
+    {
+      "source": "kap",
+      "text": "tabgd ozel durum ac klamas genel bag ms z yonetim kurulu uyelerinin yeniden aday gosterilmesine iliskin spk basvurusu sirket tab gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652062"
+    },
+    {
+      "source": "kap",
+      "text": "akm akmen yat r m kurulusu varant sertifika senetlerine iliskin bildirim yat r m kurulusu varantlar ilk sat s fiyatlar sirket ak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652061"
+    },
+    {
+      "source": "kap",
+      "text": "lydye pay baz nda devre kesici bildirimi lydye e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652060"
+    },
+    {
+      "source": "kap",
+      "text": "smrtg pay baz nda devre kesici bildirimi smrtg e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652059"
+    },
     {
       "source": "tradingview",
       "text": "avrupa ekonomisi enerji sokunu 2022 deki soka gore cok daha direncli sekilde atlatt capital economics rapor",
@@ -9122,96 +9212,6 @@
       "source": "kap",
       "text": "edip herhangi otoriteye mali tablo verilmesi gecici vergi ekinde vergi dairesine verilen gelir tablosu sirket edip gayrimenkul yatirim sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651261"
-    },
-    {
-      "source": "kap",
-      "text": "usak kat l m finans ilkeleri bilgi formu sirket usak seramik sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651260"
-    },
-    {
-      "source": "kap",
-      "text": "sernt sorumluluk beyan konsolide sorumluluk beyan sirket seranit granit seramik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651259"
-    },
-    {
-      "source": "kap",
-      "text": "bagfs faaliyet raporu konsolide faaliyet raporu sirket bagfas bandirma gubre fabrikalari a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651258"
-    },
-    {
-      "source": "kap",
-      "text": "bulgs kat l m finans ilkeleri bilgi formu sirket bulls girisim sermayesi yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651257"
-    },
-    {
-      "source": "kap",
-      "text": "derhl ayr lma hakk kullan m na iliskin bildirim esas sozlesme degisikligi sirket derluks yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651256"
-    },
-    {
-      "source": "kap",
-      "text": "sernt faaliyet raporu konsolide yonetim kurulu faaliyet raporu 01 01 2026 30 06 2026 konsolide sirket seranit granit seramik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651255"
-    },
-    {
-      "source": "kap",
-      "text": "miatk herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde gelir tablosu verilmesi hk sirket mia teknoloji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651254"
-    },
-    {
-      "source": "kap",
-      "text": "pamel herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde sunulan gelir tablosu hakk nda sirket pamel yenilenebilir elektrik uretim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651253"
-    },
-    {
-      "source": "kap",
-      "text": "bagfs finansal rapor sirket bagfas bandirma gubre fabrikalari a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651252"
-    },
-    {
-      "source": "kap",
-      "text": "izmdc herhangi otoriteye mali tablo verilmesi 01 01 2026 30 06 2026 donemine ait gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket izmir demir celik sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651251"
-    },
-    {
-      "source": "kap",
-      "text": "derhl esas sozlesme tadili esas sozlesme tadil metni sirket derluks yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651250"
-    },
-    {
-      "source": "kap",
-      "text": "sernt finansal rapor sirket seranit granit seramik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651249"
-    },
-    {
-      "source": "kap",
-      "text": "hlgyo kat l m finans ilkeleri bilgi formu sirket halk gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651248"
-    },
-    {
-      "source": "kap",
-      "text": "betae halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu sirket beta enerji teknoloji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651247"
-    },
-    {
-      "source": "kap",
-      "text": "blume pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651246"
-    },
-    {
-      "source": "kap",
-      "text": "inves ozel durum ac klamas genel bagl ortakl g m z rem gsyo a s nin sermaye art r m kay tl sermaye tavan iznine iliskin ticaret bakanl g onay hakk nda sirket investco holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651245"
-    },
-    {
-      "source": "kap",
-      "text": "bakab herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi gelir tablosu sirket bak ambalaj sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651244"
-    },
-    {
-      "source": "kap",
-      "text": "betae sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m ndan elde edilen fonun kullan m na iliskin rapor sirket beta enerji teknoloji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651243"
     }
   ]
 }
