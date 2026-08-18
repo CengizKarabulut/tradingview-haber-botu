@@ -507,8 +507,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu-3785744",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/altin-fed-faiz-artisi-beklentilerinin-zayiflamasiyla-yukseldi-3785746",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/altin-fed-faiz-artisi-beklentilerinin-zayiflamasiyla-yukseldi-3785746",
+        "bloomberght:https://www.bloomberght.com/petrol-iran-abd-geriliminin-tirmanmasiyla-yukseldi-3785745",
         "bloomberght:https://www.bloomberght.com/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu-3785744",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-18-agustos-2026-3785743",
         "bloomberght:https://www.bloomberght.com/bim-den-275-yeni-magaza-8-milyar-tl-net-kr-3785742",
@@ -1186,8 +1188,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:d7bd46196d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:c43ed9f14d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:c43ed9f14d9e8:0",
+        "tradingview:fxstreet:51110d676d9e8:0",
         "tradingview:fxstreet:d7bd46196d9e8:0",
         "tradingview:fxstreet:698215aa0d9e8:0",
         "tradingview:fxstreet:39b93093cd9e8:0",
@@ -1685,9 +1689,7 @@
         "tradingview:matriks:6676384:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44E03J:0",
         "tradingview:fxstreet:2fd03bbd8d9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44E03I:0",
-        "tradingview:matriks:6676370:0",
-        "tradingview:matriks:6676367:0"
+        "tradingview:tag:reuters.com,2026:newsml_L8N44E03I:0"
       ]
     },
     "forexfactory": {
@@ -1700,6 +1702,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n petrol kaynakl enflasyon riskleri abd iran gerilimlerinin usd yi desteklemesiyle geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:c43ed9f14d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ukmto hurmuz bogaz nda olay bildirdi reuters",
+      "link": "https://tr.tradingview.com/news/fxstreet:51110d676d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "alt n fed faiz art s beklentilerinin zay flamas yla yukseldi alt n abd merkez bankas n n fed gelecek ay faiz art racag na yonelik beklentilerin zay flamas yla sal gunu ust uste ucuncu seansta yukseldi",
+      "link": "https://www.bloomberght.com/altin-fed-faiz-artisi-beklentilerinin-zayiflamasiyla-yukseldi-3785746"
+    },
+    {
+      "source": "bloomberght",
+      "text": "petrol iran abd geriliminin t rmanmas yla yukseldi petrol fiyatlar sal gunu yukseldi",
+      "link": "https://www.bloomberght.com/petrol-iran-abd-geriliminin-tirmanmasiyla-yukseldi-3785745"
+    },
     {
       "source": "tradingview",
       "text": "japon yeni boj dan s k lasmac beklentilere ragmen abd dolar kars s nda iki haftan n en dusuk seviyesi yak nlar nda kalmaya devam ediyor",
@@ -9179,26 +9201,6 @@
       "source": "tradingview",
       "text": "endonezya rupisi prabowo nun buyume hedefi zay f abd dolar nedeniyle gucleniyor",
       "link": "https://tr.tradingview.com/news/fxstreet:24b3c21bdd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi ekgyo seker yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676451:0"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bloomberg economics ten enflasyon riski uyar s bloomberg economics e gore petrol soku hafiflese kuresel enflasyon riskleri yuksek seviyede seyretmeye devam ediyor",
-      "link": "https://www.bloomberght.com/bloomberg-economics-ten-enflasyon-riski-uyarisi-3785668"
-    },
-    {
-      "source": "bloomberght",
-      "text": "boj her toplant faiz art rmal japonya maliye bakanl g nda uluslararas islerden sorumlu eski basbakan yard mc s takehiko nakao yenin daha fazla deger kaybetmesini onlemek yaln zca doviz mudahalesinin yeterli olmayacag n para politikas yoluyla faizlerin yuk",
-      "link": "https://www.bloomberght.com/boj-her-toplantida-faiz-artirmali-3785666"
-    },
-    {
-      "source": "kap",
-      "text": "tsk tskb halka arz sonuclar kapeks kimya sanayi a s paylar n n halka arz sonuclar sirket turkiye sinai kalkinma bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1650970"
     }
   ]
 }
