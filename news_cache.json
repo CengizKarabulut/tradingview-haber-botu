@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652396",
+      "last_seen_key": "kap:1652398",
       "seen_keys": [
+        "kap:1652398",
+        "kap:1652397",
         "kap:1652396",
         "kap:1652395",
         "kap:1652394",
@@ -222,8 +224,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/rusya-ukrayna-savasi-enerji-faturamizi-100-milyar-dolara-cikardi-3785815",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/sec-den-kripto-varliklar-icin-yeni-duzenleme-teklifi-3785816",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/sec-den-kripto-varliklar-icin-yeni-duzenleme-teklifi-3785816",
         "bloomberght:https://www.bloomberght.com/rusya-ukrayna-savasi-enerji-faturamizi-100-milyar-dolara-cikardi-3785815",
         "bloomberght:https://www.bloomberght.com/apple-ab-de-uygulama-basina-alinan-teknoloji-ucretini-kaldiriyor-3785814",
         "bloomberght:https://www.bloomberght.com/iran-abd-nin-taviz-koparma-hesabi-sonucsuz-kalacak-3785813",
@@ -922,13 +925,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:7dcaffde4d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:19590efe3d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:19590efe3d9e8:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:fxstreet:89169269dd9e8:0",
         "tradingview:fxstreet:7dcaffde4d9e8:0",
         "tradingview:cointelegraph:06339c41bd9e8:0",
         "tradingview:fxstreet:1544149c9d9e8:0",
-        "tradingview:fxstreet:89169269dd9e8:0",
         "tradingview:cointelegraph:496c503fad9e8:0",
+        "tradingview:beincrypto:dbaa2f802d9e8:0",
         "tradingview:beincrypto:7a3272c2cd9e8:0",
         "tradingview:fxstreet:433da7055d9e8:0",
         "tradingview:beincrypto:dc83802efd9e8:0",
@@ -1039,7 +1045,6 @@
         "tradingview:matriks:6681159:0",
         "tradingview:fxstreet:d48958e3dd9e8:0",
         "tradingview:matriks:6681140:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:7e8443413d9e8:0",
         "tradingview:cointelegraph:904a13ab8d9e8:0",
         "tradingview:matriks:6681107:0",
@@ -1421,9 +1426,7 @@
         "tradingview:matriks:6679364:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44F02E:0",
         "tradingview:matriks:6679360:0",
-        "tradingview:beincrypto:3f9cecb83d9e8:0",
-        "tradingview:matriks:6679357:0",
-        "tradingview:beincrypto:4bee0260fd9e8:0"
+        "tradingview:beincrypto:3f9cecb83d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1437,6 +1440,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu 1 400 destegiyle dusus egilimli won gorunumu td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:19590efe3d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "sec den kripto varl klar yeni duzenleme teklifi abd menkul k ymetler borsa komisyonu sec kripto varl klar iceren yat r m sozlesmelerine yonelik yeni kurallar onerirken duzenleme kapsam nda ihracc lara kay t muafiyetleri sartl guvenli liman uygulamas getirilmesi ongoruluyor",
+      "link": "https://www.bloomberght.com/sec-den-kripto-varliklar-icin-yeni-duzenleme-teklifi-3785816"
+    },
+    {
+      "source": "kap",
+      "text": "ecogr faaliyet raporu konsolide 30 06 2026 faaliyet raporu konsolide sirket ecogreen enerji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652398"
+    },
+    {
+      "source": "kap",
+      "text": "ecogr finansal rapor sirket ecogreen enerji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652397"
+    },
     {
       "source": "tradingview",
       "text": "foreks piyasas nda bugun abd dolar ingiltere tufe fomc tutanaklar oncesinde hurmuz gerilimiyle gucleniyor",
@@ -8916,26 +8939,6 @@
       "source": "tradingview",
       "text": "yeotk yeo teknoloji enerji endustri konsolide bilanco 2026 6 ayl k net kar 669 688 592 tl onceki 114 440 323 tl net zarar",
       "link": "https://tr.tradingview.com/news/matriks:6678395:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiliz sterlini yat r mc lar n ingiltere istihdam tufe verilerini beklemesiyle yukseliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:fa879dd0fd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "grtho gra nturk holding konsolide bilanco 2026 6 ayl k net kar 424 218 308 tl onceki 563 517 749 tl net kar",
-      "link": "https://tr.tradingview.com/news/matriks:6678383:0"
-    },
-    {
-      "source": "investing",
-      "text": "brent petrol vadeli islemleri neden bugun yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/brent-petrol-vadeli-islemleri-neden-bugun-yukseliyor-93CH-4033486"
-    },
-    {
-      "source": "investing",
-      "text": "flotek industries hissesi neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/flotek-industries-hissesi-neden-dusuyor-93CH-4033483"
     }
   ]
 }
