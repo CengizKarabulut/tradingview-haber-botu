@@ -2,9 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652020",
+      "last_seen_key": "kap:1652025",
       "seen_keys": [
-        "kap:1652020",
+        "kap:1652025",
+        "kap:1652023",
+        "kap:1652022",
+        "kap:1652021",
         "kap:1652002",
         "kap:1652000",
         "kap:1651999",
@@ -42,7 +45,6 @@
         "kap:1651950",
         "kap:1651949",
         "kap:1651948",
-        "kap:1651947",
         "kap:1651946",
         "kap:1651945",
         "kap:1651944",
@@ -89,6 +91,8 @@
         "kap:1651856",
         "kap:1651854",
         "kap:1651853",
+        "kap:1652020",
+        "kap:1651947",
         "kap:1651852",
         "kap:1651851",
         "kap:1651850",
@@ -499,11 +503,7 @@
         "kap:1651272",
         "kap:1651271",
         "kap:1651270",
-        "kap:1651269",
-        "kap:1651268",
-        "kap:1651267",
-        "kap:1651266",
-        "kap:1651265"
+        "kap:1651269"
       ]
     },
     "bloomberght": {
@@ -576,18 +576,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/qt-imaging-ilk-yarda-14-milyon-dolar-gelir-bildirdi-93CH-4034697",
+      "last_seen_key": "investing:https://tr.investing.com/news/global-filings/bossa-jcr-eurasia-ratingden-a-tr-kredi-notu-ald-93CH-4034825",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/qt-imaging-ilk-yarda-14-milyon-dolar-gelir-bildirdi-93CH-4034697",
-        "investing:https://tr.investing.com/news/company-news/cardio-diagnostics-iowada-clia-sertifikal-laboratuvar-act-93CH-4034696",
-        "investing:https://tr.investing.com/news/company-news/sagtec-1500-yapay-zeka-destekli-robot-icin-3-milyon-dolarlk-siparis-ald-93CH-4034695",
-        "investing:https://tr.investing.com/news/company-news/biomarin-alesta-therapeuticsi-275-milyon-dolara-satn-alyor-93CH-4034694",
-        "investing:https://tr.investing.com/news/company-news/ramaco-resources-galyum-icin-bedrock-semiconductor-ile-mutabakat-zapt-imzalad-93CH-4034693",
-        "investing:https://tr.investing.com/news/company-news/sealsq-hindistanda-kuantum-guvenlik-icin-palm-ile-ortaklk-kurdu-93CH-4034692",
-        "investing:https://tr.investing.com/news/company-news/edx-markets-kripto-ticareti-icin-stonex-digital-ile-ortaklk-kurdu-93CH-4034691",
-        "investing:https://tr.investing.com/news/company-news/airjoule-veri-merkezi-merkeziyle-ssu-teknolojisi-icin-ortak-oldu-93CH-4034690",
-        "investing:https://tr.investing.com/news/company-news/commvault-cloud-rewind-urununde-azure-kapsamn-genisletti-93CH-4034689",
-        "investing:https://tr.investing.com/news/company-news/hawkeye-360-nro-ile-radyo-frekans-verisi-sozlesmesi-kazand-93CH-4034687",
+        "investing:https://tr.investing.com/news/global-filings/bossa-jcr-eurasia-ratingden-a-tr-kredi-notu-ald-93CH-4034825",
+        "investing:https://tr.investing.com/news/global-filings/tera-varlk-kiralama-12-milyar-tl-kira-sertifikas-ihracna-karar-verdi-93CH-4034823",
+        "investing:https://tr.investing.com/news/company-news/nutanix-ve-chronoscale-yapay-zeka-altyaps-ortaklg-duyurdu-93CH-4034820",
+        "investing:https://tr.investing.com/news/company-news/rexford-industrial-12-milyar-dolarlk-portfoyu-satyor-93CH-4034819",
+        "investing:https://tr.investing.com/news/company-news/square-opentable-ortaklgn-rezervasyon-entegrasyonuyla-genisletti-93CH-4034818",
+        "investing:https://tr.investing.com/news/company-news/snowflake-maliyetleri-dusurmek-icin-dinamik-yonlendirme-ekliyor-93CH-4034817",
+        "investing:https://tr.investing.com/news/company-news/pegasystems-yapay-zeka-yonetisim-araclarn-piyasaya-surdu-93CH-4034815",
+        "investing:https://tr.investing.com/news/company-news/genasys-asyapasifik-ve-avrupadan-14-milyon-dolarlk-siparis-ald-93CH-4034816",
+        "investing:https://tr.investing.com/news/company-news/palogic-granite-point-mortgagea-maliyet-kesintisi-cagrs-yapt-93CH-4034814",
+        "investing:https://tr.investing.com/news/company-news/francisco-partners-weavei-650-milyon-dolara-satn-alacak-93CH-4034813",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -608,6 +608,16 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/company-news/qt-imaging-ilk-yarda-14-milyon-dolar-gelir-bildirdi-93CH-4034697",
+        "investing:https://tr.investing.com/news/company-news/cardio-diagnostics-iowada-clia-sertifikal-laboratuvar-act-93CH-4034696",
+        "investing:https://tr.investing.com/news/company-news/sagtec-1500-yapay-zeka-destekli-robot-icin-3-milyon-dolarlk-siparis-ald-93CH-4034695",
+        "investing:https://tr.investing.com/news/company-news/biomarin-alesta-therapeuticsi-275-milyon-dolara-satn-alyor-93CH-4034694",
+        "investing:https://tr.investing.com/news/company-news/ramaco-resources-galyum-icin-bedrock-semiconductor-ile-mutabakat-zapt-imzalad-93CH-4034693",
+        "investing:https://tr.investing.com/news/company-news/sealsq-hindistanda-kuantum-guvenlik-icin-palm-ile-ortaklk-kurdu-93CH-4034692",
+        "investing:https://tr.investing.com/news/company-news/edx-markets-kripto-ticareti-icin-stonex-digital-ile-ortaklk-kurdu-93CH-4034691",
+        "investing:https://tr.investing.com/news/company-news/airjoule-veri-merkezi-merkeziyle-ssu-teknolojisi-icin-ortak-oldu-93CH-4034690",
+        "investing:https://tr.investing.com/news/company-news/commvault-cloud-rewind-urununde-azure-kapsamn-genisletti-93CH-4034689",
+        "investing:https://tr.investing.com/news/company-news/hawkeye-360-nro-ile-radyo-frekans-verisi-sozlesmesi-kazand-93CH-4034687",
         "investing:https://tr.investing.com/news/sec-filings/nano-dimension-yonetim-kuruluna-bagmsz-direktor-atand-93CH-4034527",
         "investing:https://tr.investing.com/news/stock-market-news/bim-birlesik-magazalar-hissesi-bugun-neden-yukseldi-93CH-4034524",
         "investing:https://tr.investing.com/news/global-filings/pasha-yatrm-bankas-250-milyon-tllik-vdmk-itfasn-tamamlad-93CH-4034522",
@@ -1067,17 +1077,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/wells-fargo-dolar-magazalarnn-kazanclarn-farkl-goruslerle-degerlendirdi-93CH-4032462",
         "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-crowdstrike-icin-hedef-fiyat-yapay-zeka-guvenligi-talebiyle-235-dolara-yukseltti-93CH-4032459",
         "investing:https://tr.investing.com/news/analyst-ratings/bmo-global-net-lease-hissesini-yuksek-performans-notuyla-kapsama-ald-93CH-4032455",
-        "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-yz-finansman-2026-yazn-tanmlayacak-93CH-4032450",
-        "investing:https://tr.investing.com/news/stock-market-news/apple-almanya-sorusturmas-sonras-reklam-takibi-kurallarn-degistirecek-93CH-4032448",
-        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-yapay-zeka-guvenligi-talebine-dayanarak-palo-alto-networks-hisse-hedefini-yukseltti-93CH-4032446",
-        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-zscaler-icin-hisse-hedefini-200-dolara-yukseltti-93CH-4032443",
-        "investing:https://tr.investing.com/news/analyst-ratings/btig-freenome-hissesi-icin-kanser-testi-potansiyeline-dayanarak-al-onerisi-verdi-93CH-4032442",
-        "investing:https://tr.investing.com/news/company-news/omniab-lisans-faaliyetleriyle-2026-nakit-rehberini-yukseltti-93CH-4032428",
-        "investing:https://tr.investing.com/news/company-news/guardian-metal-varant-kullanmyla-16-milyon-sterlin-toplad-93CH-4032427",
-        "investing:https://tr.investing.com/news/company-news/harbour-energy-ara-temettu-icin-doviz-kurunu-belirledi-93CH-4032417",
-        "investing:https://tr.investing.com/news/company-news/nuran-nasdaqda-islem-gormeye-baslad-5-milyon-dolarlk-proje-93CH-4032416",
-        "investing:https://tr.investing.com/news/company-news/zai-lab-ve-argenx-miyozit-ilac-icin-olumlu-faz-3-verileri-acklad-93CH-4032415",
-        "investing:https://tr.investing.com/news/company-news/kbr-natodan-patriot-savunma-sistemi-icin-60-milyon-dolarlk-sozlesme-ald-93CH-4032413"
+        "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-yz-finansman-2026-yazn-tanmlayacak-93CH-4032450"
       ]
     },
     "ntvpara": {
@@ -1210,8 +1210,21 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6680984:0",
+      "last_seen_key": "tradingview:matriks:6681065:0",
       "seen_keys": [
+        "tradingview:matriks:6681065:0",
+        "tradingview:matriks:6681062:0",
+        "tradingview:fxstreet:9ab0797d1d9e8:0",
+        "tradingview:matriks:6681043:0",
+        "tradingview:fxstreet:94f468a87d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44F0WK:0",
+        "tradingview:matriks:6681008:0",
+        "tradingview:matriks:6681003:0",
+        "tradingview:matriks:6680993:0",
+        "tradingview:matriks:6680992:0",
+        "tradingview:cointelegraph:7437e8054d9e8:0",
+        "tradingview:matriks:6680988:0",
+        "tradingview:fxstreet:afdc13705d9e8:0",
         "tradingview:matriks:6680984:0",
         "tradingview:matriks:6680958:0",
         "tradingview:matriks:6680947:0",
@@ -1221,6 +1234,7 @@
         "tradingview:fxstreet:10389bf09d9e8:0",
         "tradingview:matriks:6680938:0",
         "tradingview:matriks:6680937:0",
+        "tradingview:fxstreet:db46072b5d9e8:0",
         "tradingview:matriks:6680912:0",
         "tradingview:matriks:6680910:0",
         "tradingview:matriks:6680907:0",
@@ -1248,12 +1262,14 @@
         "tradingview:fxstreet:c11650a01d9e8:0",
         "tradingview:matriks:6680848:0",
         "tradingview:matriks:6680846:0",
+        "tradingview:matriks:6680845:0",
         "tradingview:matriks:6680844:0",
         "tradingview:matriks:6680831:0",
         "tradingview:matriks:6680826:0",
         "tradingview:matriks:6680824:0",
         "tradingview:matriks:6680823:0",
         "tradingview:matriks:6680821:0",
+        "tradingview:beincrypto:48a8797ddd9e8:0",
         "tradingview:matriks:6680808:0",
         "tradingview:matriks:6680803:0",
         "tradingview:fxstreet:b5a15ddb7d9e8:0",
@@ -1283,7 +1299,6 @@
         "tradingview:matriks:6680682:0",
         "tradingview:beincrypto:e7b51db83d9e8:0",
         "tradingview:cointelegraph:751df939fd9e8:0",
-        "tradingview:fxstreet:db46072b5d9e8:0",
         "tradingview:fxstreet:1701d97b0d9e8:0",
         "tradingview:matriks:6680599:0",
         "tradingview:matriks:6680583:0",
@@ -1696,22 +1711,7 @@
         "tradingview:matriks:6678174:0",
         "tradingview:matriks:6678166:0",
         "tradingview:matriks:6678154:0",
-        "tradingview:matriks:6678139:0",
-        "tradingview:matriks:6678135:0",
-        "tradingview:matriks:6678110:0",
-        "tradingview:matriks:6678103:0",
-        "tradingview:fxstreet:694a99e5fd9e8:0",
-        "tradingview:matriks:6678095:0",
-        "tradingview:matriks:6678088:0",
-        "tradingview:matriks:6678076:0",
-        "tradingview:matriks:6678080:0",
-        "tradingview:matriks:6678073:0",
-        "tradingview:matriks:6678072:0",
-        "tradingview:matriks:6678071:0",
-        "tradingview:matriks:6678079:0",
-        "tradingview:matriks:6678075:0",
-        "tradingview:matriks:6678074:0",
-        "tradingview:matriks:6678077:0"
+        "tradingview:matriks:6678139:0"
       ]
     },
     "forexfactory": {
@@ -1725,6 +1725,141 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd mega cap hisse radar aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6681065:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurtd s gunluk bulten aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6681062:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro abd dolar n n istikrar kazanmas yla iki ayl k zirvenin alt nda konsolide oluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:9ab0797d1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "amerikan borsalar bulteni pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6681043:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bak r tarife kaynakl bozulmalar cozuluyor fiyatlar n daha dusuk gorulmesi bekleniyor td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:94f468a87d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wall street iran geriliminin petrol tahvil getirilerini yukseltmesiyle ekside ac lmaya haz rlan yor",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44F0WK:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "temmuz ay konut sat slar konut fiyat endeksi info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6681008:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd sanayi uretimi verileri ac klanacak",
+      "link": "https://tr.tradingview.com/news/matriks:6681003:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vak f yat r m bimas 552 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 515 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6680993:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vak f yat r m vestl 25 tl hedef fiyat belirledi tut tavsiyesini korudu onceki hedef fiyat 35 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6680992:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "moonpay abd li musterilerin kripto al mlar cash app pay i ekledi",
+      "link": "https://tr.tradingview.com/news/cointelegraph:7437e8054d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi vestl vak f yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6680988:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar piyasa rbnz faiz art r mlar n as r fiyatl yor bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:afdc13705d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "bossa jcr eurasia rating den a tr kredi notu ald",
+      "link": "https://tr.investing.com/news/global-filings/bossa-jcr-eurasia-ratingden-a-tr-kredi-notu-ald-93CH-4034825"
+    },
+    {
+      "source": "investing",
+      "text": "tera varl k kiralama 12 milyar tl kira sertifikas ihrac na karar verdi",
+      "link": "https://tr.investing.com/news/global-filings/tera-varlk-kiralama-12-milyar-tl-kira-sertifikas-ihracna-karar-verdi-93CH-4034823"
+    },
+    {
+      "source": "investing",
+      "text": "nutanix chronoscale yapay zeka altyap s ortakl g duyurdu",
+      "link": "https://tr.investing.com/news/company-news/nutanix-ve-chronoscale-yapay-zeka-altyaps-ortaklg-duyurdu-93CH-4034820"
+    },
+    {
+      "source": "investing",
+      "text": "rexford industrial 1 2 milyar dolarl k portfoyu sat yor",
+      "link": "https://tr.investing.com/news/company-news/rexford-industrial-12-milyar-dolarlk-portfoyu-satyor-93CH-4034819"
+    },
+    {
+      "source": "investing",
+      "text": "square opentable ortakl g n rezervasyon entegrasyonuyla genisletti",
+      "link": "https://tr.investing.com/news/company-news/square-opentable-ortaklgn-rezervasyon-entegrasyonuyla-genisletti-93CH-4034818"
+    },
+    {
+      "source": "investing",
+      "text": "snowflake maliyetleri dusurmek dinamik yonlendirme ekliyor",
+      "link": "https://tr.investing.com/news/company-news/snowflake-maliyetleri-dusurmek-icin-dinamik-yonlendirme-ekliyor-93CH-4034817"
+    },
+    {
+      "source": "investing",
+      "text": "pegasystems yapay zeka yonetisim araclar n piyasaya surdu",
+      "link": "https://tr.investing.com/news/company-news/pegasystems-yapay-zeka-yonetisim-araclarn-piyasaya-surdu-93CH-4034815"
+    },
+    {
+      "source": "investing",
+      "text": "genasys asya pasifik avrupa dan 1 4 milyon dolarl k siparis ald",
+      "link": "https://tr.investing.com/news/company-news/genasys-asyapasifik-ve-avrupadan-14-milyon-dolarlk-siparis-ald-93CH-4034816"
+    },
+    {
+      "source": "investing",
+      "text": "palogic granite point mortgage a maliyet kesintisi cagr s yapt",
+      "link": "https://tr.investing.com/news/company-news/palogic-granite-point-mortgagea-maliyet-kesintisi-cagrs-yapt-93CH-4034814"
+    },
+    {
+      "source": "investing",
+      "text": "francisco partners weave i 650 milyon dolara sat n alacak",
+      "link": "https://tr.investing.com/news/company-news/francisco-partners-weavei-650-milyon-dolara-satn-alacak-93CH-4034813"
+    },
+    {
+      "source": "kap",
+      "text": "pnsut pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfpnst82619 isin kodlu finansman bonosu itfas sirket pinar sut mamulleri sanayii a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652025"
+    },
+    {
+      "source": "kap",
+      "text": "conse tsrs uyumlu surdurulebilirlik raporu tsrs uyumlu surdurulebilirlik raporu sirket consus enerji isletmeciligi hizmetleri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652023"
+    },
+    {
+      "source": "kap",
+      "text": "altny finansal tablo veya dipnot degisikligi 30 06 2026 finansal tablo sunum para birim fiyat n n duzeltilmesi hk sirket altinay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652022"
+    },
+    {
+      "source": "kap",
+      "text": "tcz tczb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren xs3150862053 isin kodlu tahvilin itfas hk sirket t c ziraat bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652021"
+    },
     {
       "source": "tradingview",
       "text": "bilanco analizi bimas vak f yat r m",
@@ -9089,141 +9224,6 @@
       "source": "kap",
       "text": "doas pay mali hak kullan m islemi nakit odeme hak kullan m islemleri sirket merkezi kayit kurulusu a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651201"
-    },
-    {
-      "source": "kap",
-      "text": "ahsgy ozel durum ac klamas genel istirakimiz cagrankaya turizm a s turizm tesisi projesi hakk sirket ahes gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651200"
-    },
-    {
-      "source": "kap",
-      "text": "cagfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfcgdf22717 isin kodlu ihrac n 2 kupon faiz oran n n belirlenmesi sirket cagdas faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651199"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd nahb konut piyasas endeksi ac klanacak",
-      "link": "https://tr.tradingview.com/news/matriks:6677924:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "vak f yat r m ekgyo 29 5 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 29 5 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6677921:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "vak f yat r m sise 64 7 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 70 3 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6677922:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi ekgyo vak f yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6677916:0"
-    },
-    {
-      "source": "ntvpara",
-      "text": "yuksek h zl tren biletlerine zam geldi yuksek h zl tren yht bilet ucretleri yuzde 6 45 art r ld ankara istanbul tek yon bilet fiyat 990 liraya c kt",
-      "link": "https://www.ntv.com.tr/ntvpara/yuksek-hizli-tren-biletlerine-zam-geldi-1737748"
-    },
-    {
-      "source": "investing",
-      "text": "faeth therapeutics hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/faeth-therapeutics-hissesi-bugun-neden-yukseliyor-93CH-4033170"
-    },
-    {
-      "source": "investing",
-      "text": "davidson aebi schmidt hissesi hedef fiyat yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-aebi-schmidt-hissesi-icin-hedef-fiyat-yukseltti-93CH-4033169"
-    },
-    {
-      "source": "investing",
-      "text": "intuitive machines hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/intuitive-machines-hissesi-bugun-neden-yukseliyor-93CH-4033168"
-    },
-    {
-      "source": "investing",
-      "text": "pbf energy hissesi 74 77 dolarla rekor k rd",
-      "link": "https://tr.investing.com/news/company-news/pbf-energy-hissesi-7477-dolarla-rekor-krd-93CH-4033166"
-    },
-    {
-      "source": "investing",
-      "text": "nike hisseleri 39 98 dolarda 52 haftan n dibini gordu",
-      "link": "https://tr.investing.com/news/company-news/nike-hisseleri-3998-dolarda-52-haftann-dibini-gordu-93CH-4033167"
-    },
-    {
-      "source": "investing",
-      "text": "mosaic biosciences mahsul art g yonetim urununu piyasaya surdu",
-      "link": "https://tr.investing.com/news/company-news/mosaic-biosciences-mahsul-artg-yonetim-urununu-piyasaya-surdu-93CH-4033164"
-    },
-    {
-      "source": "investing",
-      "text": "zoetis hissesi 71 41 dolarda 52 haftal k dibe vurdu",
-      "link": "https://tr.investing.com/news/company-news/zoetis-hissesi-7141-dolarda-52-haftalk-dibe-vurdu-93CH-4033163"
-    },
-    {
-      "source": "investing",
-      "text": "cvb financial hissesi 23 37 dolarla zirve yapt",
-      "link": "https://tr.investing.com/news/company-news/cvb-financial-hissesi-2337-dolarla-zirve-yapt-93CH-4033160"
-    },
-    {
-      "source": "investing",
-      "text": "o i glass hissesi 6 61 dolarda 52 haftan n dibini gordu",
-      "link": "https://tr.investing.com/news/company-news/oi-glass-hissesi-661-dolarda-52-haftann-dibini-gordu-93CH-4033159"
-    },
-    {
-      "source": "investing",
-      "text": "dorian lpg ltd hissesi 48 17 dolarda 52 haftal k zirve yapt",
-      "link": "https://tr.investing.com/news/company-news/dorian-lpg-ltd-hissesi-4817-dolarda-52-haftalk-zirve-yapt-93CH-4033158"
-    },
-    {
-      "source": "bloomberght",
-      "text": "devrim muhaf zlar ndan trump n iddialar na yalanlama iran devrim muhaf zlar ordusu sozcusu tuggeneral huseyin muhibbi abd baskan donald trump n iran devrim muhaf zlar yetkilileriyle gizli iletisim kanallar oldugu yonundeki iddialar na devrim muhaf zlar yetkilileri amerikal lar a",
-      "link": "https://www.bloomberght.com/devrim-muhafizlari-ndan-trump-in-iddialarina-yalanlama-3785716"
-    },
-    {
-      "source": "kap",
-      "text": "ozsub pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651198"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi sise vak f yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6677910:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni politika supheleri yen uzerinde bask olusturuyor bny",
-      "link": "https://tr.tradingview.com/news/fxstreet:a16f7e10bd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar beklenenden daha yuksek gelen enflasyon verilerinin ard ndan gucleniyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:c705285f1d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "seker yat r m krdmd 45 tl hedef fiyat belirledi tut tavsiyesini korudu onceki hedef fiyat 45 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6677885:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "wells fargo investment institute 2027 y l sonu alt n hedef aral g n 5 400 5 600 dolar onsa indirdi onceki tahmin 5 800 6 000 dolar ons",
-      "link": "https://tr.tradingview.com/news/matriks:6677883:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "wells fargo investment institute 2026 y l sonu alt n hedef aral g n 4 900 5 100 dolar onsa indirdi onceki tahmin 5 300 5 500 dolar ons",
-      "link": "https://tr.tradingview.com/news/matriks:6677881:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurt d s aksam teknik bulteni ikon menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6677873:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar enflasyonun 3 e h zlanmas yla euro kars s nda zorlan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:f60f79da1d9e8:0"
     }
   ]
 }
