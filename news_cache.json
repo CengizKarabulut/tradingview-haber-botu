@@ -919,12 +919,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:e22ed20ebd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:83a449090d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:83a449090d9e8:0",
         "tradingview:fxstreet:e22ed20ebd9e8:0",
         "tradingview:fxstreet:d72484cf9d9e8:0",
         "tradingview:fxstreet:66858e729d9e8:0",
         "tradingview:fxstreet:687335486d9e8:0",
+        "tradingview:fxstreet:38dbf5e2ed9e8:0",
+        "tradingview:fxstreet:c550f2b48d9e8:0",
         "tradingview:fxstreet:ddda43b49d9e8:0",
         "tradingview:fxstreet:f8ad955c5d9e8:0",
         "tradingview:beincrypto:8997aec61d9e8:0",
@@ -1417,10 +1420,7 @@
         "tradingview:matriks:6679391:0",
         "tradingview:matriks:6679389:0",
         "tradingview:matriks:6679388:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44F08G:0",
-        "tradingview:matriks:6679384:0",
-        "tradingview:fxstreet:615430468d9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44F02Q:0"
+        "tradingview:tag:reuters.com,2026:newsml_L6N44F08G:0"
       ]
     },
     "forexfactory": {
@@ -1434,6 +1434,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "trump carney kanada mallar na yonelik yeni 50 gumruk tarifleri oncesinde gorusmeleri yapt",
+      "link": "https://tr.tradingview.com/news/fxstreet:83a449090d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "alt n yukselen getirilerin fed in faizleri sabit tutma beklentilerinden gelen destegi dengelemesiyle 4 350 alt nda istikrar kazan yor",
@@ -8928,11 +8933,6 @@
       "source": "kap",
       "text": "bimas ozel durum ac klamas genel 30 haziran 2026 yat r mc sunumu sirket bim birlesik magazalar a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651664"
-    },
-    {
-      "source": "kap",
-      "text": "smart sorumluluk beyan konsolide sorumluluk beyan sirket smartiks yazilim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651663"
     }
   ]
 }
