@@ -569,8 +569,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/googlen-cindeki-pixel-uretimini-2027de-sonlandrma-plan-4033751",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/microsoft-ve-salesforce-darwinbox-satn-almak-istiyor-93CH-4033753",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/microsoft-ve-salesforce-darwinbox-satn-almak-istiyor-93CH-4033753",
         "investing:https://tr.investing.com/news/stock-market-news/googlen-cindeki-pixel-uretimini-2027de-sonlandrma-plan-4033751",
         "investing:https://tr.investing.com/news/stock-market-news/bhp-hisseleri-neden-yukseliste-93CH-4033748",
         "investing:https://tr.investing.com/news/stock-market-news/reliance-worldwide-hissesi-neden-yukseliyor-93CH-4033747",
@@ -580,7 +581,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/tenaya-therapeutics-ceosu-ali-faraz-158-bin-dolarlk-hisse-satt-93CH-4033743",
         "investing:https://tr.investing.com/news/insider-trading-news/tenaya-therapeutics-cmo-whittemore-5267-dolarlk-hisse-satt-93CH-4033742",
         "investing:https://tr.investing.com/news/insider-trading-news/marvell-technology-ceosu-177-milyon-dolarlk-hisse-satt-93CH-4033741",
-        "investing:https://tr.investing.com/news/insider-trading-news/airo-group-coosu-john-uczekaj-164-bin-dolarlk-hisse-satt-93CH-4033740",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -601,6 +601,7 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/insider-trading-news/airo-group-coosu-john-uczekaj-164-bin-dolarlk-hisse-satt-93CH-4033740",
         "investing:https://tr.investing.com/news/insider-trading-news/mediaalpha-ctosu-amy-yeh-162616-dolar-degerinde-hisse-satt-93CH-4033739",
         "investing:https://tr.investing.com/news/insider-trading-news/mediaalpha-cro-keith-cramer-165924-dolarlk-hisse-satt-93CH-4033738",
         "investing:https://tr.investing.com/news/insider-trading-news/smart-sand-yoneticisi-sharon-spurlin-89670-dolar-degerinde-hisse-satt-93CH-4033737",
@@ -1069,8 +1070,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/lear-corp-yoneticisi-conrad-mallett-jr-199742-dolar-degerinde-hisse-satt-93CH-4031924",
         "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-girisleri-haftalk-bazda-uce-katland-4031923",
         "investing:https://tr.investing.com/news/insider-trading-news/landmark-bancorp-yoneticisi-kohlrus-31767-dolarlk-hisse-ald-93CH-4031917",
-        "investing:https://tr.investing.com/news/insider-trading-news/paysign-ceosu-mark-newcomer-178-milyon-dolarlk-hisse-satt-93CH-4031916",
-        "investing:https://tr.investing.com/news/insider-trading-news/nyli-mackay-portfoy-yoneticisi-john-lawlor-18752-dolar-degerinde-mmd-hissesi-satt-93CH-4031913"
+        "investing:https://tr.investing.com/news/insider-trading-news/paysign-ceosu-mark-newcomer-178-milyon-dolarlk-hisse-satt-93CH-4031916"
       ]
     },
     "ntvpara": {
@@ -1188,8 +1188,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6679342:0",
+      "last_seen_key": "tradingview:matriks:6679357:0",
       "seen_keys": [
+        "tradingview:matriks:6679357:0",
+        "tradingview:fxstreet:05d97d888d9e8:0",
+        "tradingview:matriks:6679354:0",
         "tradingview:matriks:6679342:0",
         "tradingview:matriks:6679350:0",
         "tradingview:matriks:6679339:0",
@@ -1686,10 +1689,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44E04G:0",
         "tradingview:fxstreet:ce8d68e3ed9e8:0",
         "tradingview:fxstreet:24b3c21bdd9e8:0",
-        "tradingview:matriks:6676451:0",
-        "tradingview:matriks:6676450:0",
-        "tradingview:fxstreet:3f0f14210d9e8:0",
-        "tradingview:matriks:6676449:0"
+        "tradingview:matriks:6676451:0"
       ]
     },
     "forexfactory": {
@@ -1702,6 +1702,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "turkiye yapay zeka eylem plan 2026 2030 yururluge girdi",
+      "link": "https://tr.tradingview.com/news/matriks:6679357:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti fiyat analizi al c lar iki haftal k zirveye yak n 84 00 38 2 fibo uzerinde kontrolu surduruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:05d97d888d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist100 teknik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6679354:0"
+    },
+    {
+      "source": "investing",
+      "text": "microsoft salesforce darwinbox sat n almak istiyor",
+      "link": "https://tr.investing.com/news/stock-market-news/microsoft-ve-salesforce-darwinbox-satn-almak-istiyor-93CH-4033753"
+    },
     {
       "source": "tradingview",
       "text": "astor enerji 2026 1 1 milyar usd gelir hedefliyor",
@@ -9181,26 +9201,6 @@
       "source": "tradingview",
       "text": "dolar tl 47 9 yeni zirvesinde haftaya baslad iran savas jeopoltik gelismeler izleniyor",
       "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44E05V:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi enkai is yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676497:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi ekgyo is yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676489:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten marbas menkul degerler",
-      "link": "https://tr.tradingview.com/news/matriks:6676488:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk strateji bulteni piramit menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6676486:0"
     }
   ]
 }
