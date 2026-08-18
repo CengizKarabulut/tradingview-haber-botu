@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652388",
+      "last_seen_key": "kap:1652391",
       "seen_keys": [
+        "kap:1652391",
+        "kap:1652390",
+        "kap:1652389",
         "kap:1652388",
         "kap:1652387",
         "kap:1652386",
@@ -917,6 +920,7 @@
       "seen_keys": [
         "tradingview:fxstreet:1544149c9d9e8:0",
         "tradingview:fxstreet:89169269dd9e8:0",
+        "tradingview:cointelegraph:496c503fad9e8:0",
         "tradingview:beincrypto:7a3272c2cd9e8:0",
         "tradingview:fxstreet:433da7055d9e8:0",
         "tradingview:beincrypto:dc83802efd9e8:0",
@@ -1413,8 +1417,7 @@
         "tradingview:matriks:6679357:0",
         "tradingview:beincrypto:4bee0260fd9e8:0",
         "tradingview:fxstreet:05d97d888d9e8:0",
-        "tradingview:matriks:6679354:0",
-        "tradingview:matriks:6679342:0"
+        "tradingview:matriks:6679354:0"
       ]
     },
     "forexfactory": {
@@ -1428,6 +1431,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "desa sorumluluk beyan konsolide 2026 2 ceyrek donem sorumluluk beyan sirket desa deri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652391"
+    },
+    {
+      "source": "kap",
+      "text": "desa faaliyet raporu konsolide 2026 2 ceyrek donem faaliyet raporu sirket desa deri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652390"
+    },
+    {
+      "source": "kap",
+      "text": "desa finansal rapor sirket desa deri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652389"
+    },
     {
       "source": "tradingview",
       "text": "singapur dolar abd dolar kars s nda yukar yonlu risk odakta kalmaya devam ediyor uob",
@@ -8912,21 +8930,6 @@
       "source": "tradingview",
       "text": "krvgd 2026 2 ceyrek net kar 120 63 milyon tl matriks haber anketi medyan beklenti 128 00 milyon tl net kar",
       "link": "https://tr.tradingview.com/news/matriks:6678367:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "krvgd kervan g sanayi tic konsolide bilanco 2026 6 ayl k net kar 376 845 000 tl onceki 406 661 000 tl net zarar",
-      "link": "https://tr.tradingview.com/news/matriks:6678351:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gedza gediz ambalaj sanayi tic konsolide bilanco 2026 6 ayl k net kar 29 441 624 tl onceki 30 484 455 tl net kar",
-      "link": "https://tr.tradingview.com/news/matriks:6678331:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "sasa toptan hisse sat s 7 2 milyar tl lik has lat elde etmek uzere tahsisli sermaye art r m karar ald kap",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44E13Z:0"
     }
   ]
 }
