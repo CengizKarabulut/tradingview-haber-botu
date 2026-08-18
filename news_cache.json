@@ -229,10 +229,8 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-19082026-3785818",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/sec-den-kripto-varliklar-icin-yeni-duzenleme-teklifi-3785816",
       "seen_keys": [
-        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-19082026-3785818",
-        "bloomberght:https://www.bloomberght.com/erakci-ateskes-degil-savasin-sona-ermesini-hedefliyoruz-3785817",
         "bloomberght:https://www.bloomberght.com/sec-den-kripto-varliklar-icin-yeni-duzenleme-teklifi-3785816",
         "bloomberght:https://www.bloomberght.com/rusya-ukrayna-savasi-enerji-faturamizi-100-milyar-dolara-cikardi-3785815",
         "bloomberght:https://www.bloomberght.com/apple-ab-de-uygulama-basina-alinan-teknoloji-ucretini-kaldiriyor-3785814",
@@ -280,21 +278,7 @@
         "bloomberght:https://www.bloomberght.com/piyasa-ozeti-18-agustos-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3785809",
         "bloomberght:https://www.bloomberght.com/gram-altinda-son-durum-ne-18-agustos-2026-sali-altin-fiyatlari-pkh1-3785764",
         "bloomberght:https://www.bloomberght.com/dolar-ne-kadar-oldu-18-agustos-2026-dolar-kurunda-son-durum-ne-pkh2-3785754",
-        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-18082026-3785740",
-        "bloomberght:https://www.bloomberght.com/mikro-ihracatta-hava-yolu-transit-surecleri-kolaylasiyor-3785739",
-        "bloomberght:https://www.bloomberght.com/sok-marketler-ikinci-ceyrekte-beklentinin-altinda-zarar-acikladi-3785738",
-        "bloomberght:https://www.bloomberght.com/trump-tan-guney-kore-ye-iran-tepkisi-3785737",
-        "bloomberght:https://www.bloomberght.com/seddk-dan-sigorta-suistimallerine-karsi-yeni-adim-3785735",
-        "bloomberght:https://www.bloomberght.com/trump-iran-mutabakatini-uzatmak-istemiyoruz-3785734",
-        "bloomberght:https://www.bloomberght.com/sasa-dan-sermaye-artirimi-karari-3785733",
-        "bloomberght:https://www.bloomberght.com/iran-bae-ye-ait-petrol-tankerini-hurmuz-de-alikoydu-3785727",
-        "bloomberght:https://www.bloomberght.com/nvidia-dan-sb-energy-ye-1-5-milyar-dolarlik-yatirim-3785726",
-        "bloomberght:https://www.bloomberght.com/stellantis-1-milyona-yakin-araci-geri-cagiriyor-3785725",
-        "bloomberght:https://www.bloomberght.com/cin-de-konut-fiyatlarindaki-dusus-devam-ediyor-3785724",
-        "bloomberght:https://www.bloomberght.com/aramco-dan-hurmuz-e-alternatif-petrol-rotasi-3785723",
-        "bloomberght:https://www.bloomberght.com/yht-bilet-fiyatlarina-zam-yapildi-3785720",
-        "bloomberght:https://www.bloomberght.com/dogalgaz-fiyat-artis-kanada-da-enflasyonunu-yukseltti-3785718",
-        "bloomberght:https://www.bloomberght.com/devrim-muhafizlari-ndan-trump-in-iddialarina-yalanlama-3785716"
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-18082026-3785740"
       ]
     },
     "investing": {
@@ -932,8 +916,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:86f0a6f51d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:6b0af8222d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:6b0af8222d9e8:0",
         "tradingview:fxstreet:86f0a6f51d9e8:0",
         "tradingview:cointelegraph:dd5df0c19d9e8:0",
         "tradingview:fxstreet:19590efe3d9e8:0",
@@ -1432,8 +1417,7 @@
         "tradingview:matriks:6679370:0",
         "tradingview:beincrypto:e341bfc39d9e8:0",
         "tradingview:matriks:6679367:0",
-        "tradingview:matriks:6679366:0",
-        "tradingview:matriks:6679364:0"
+        "tradingview:matriks:6679366:0"
       ]
     },
     "forexfactory": {
@@ -1447,6 +1431,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "clarity yasas n n yoklugunda sec yeni kripto kurallar onerdi",
+      "link": "https://tr.tradingview.com/news/cointelegraph:6b0af8222d9e8:0"
+    },
     {
       "source": "investing",
       "text": "blue water acquisition corp iv yonetim kuruluna nadab akhtar atad",
@@ -8941,11 +8930,6 @@
       "source": "tradingview",
       "text": "selva selva g sanayi konsolide bilanco 2026 6 ayl k net zarar 348 532 000 tl onceki 16 605 000 tl net kar",
       "link": "https://tr.tradingview.com/news/matriks:6678739:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "golts goltas goller bolgesi cimento sanayi tic konsolide bilanco 2026 6 ayl k net kar 260 880 728 tl onceki 26 925 088 tl net kar",
-      "link": "https://tr.tradingview.com/news/matriks:6678729:0"
     }
   ]
 }
