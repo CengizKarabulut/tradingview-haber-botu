@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651953",
+      "last_seen_key": "kap:1651955",
       "seen_keys": [
+        "kap:1651955",
+        "kap:1651954",
         "kap:1651953",
         "kap:1651952",
         "kap:1651950",
@@ -501,9 +503,7 @@
         "kap:1651237",
         "kap:1651236",
         "kap:1651235",
-        "kap:1651232",
-        "kap:1651230",
-        "kap:1651228"
+        "kap:1651232"
       ]
     },
     "bloomberght": {
@@ -570,18 +570,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/alset-ehome-international-hisseleri-neden-yukseliyor-93CH-4034252",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/dynatrace-hissesi-bugun-neden-yukseliyor-93CH-4034319",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/stock-market-news/alset-ehome-international-hisseleri-neden-yukseliyor-93CH-4034252",
-        "investing:https://tr.investing.com/news/company-news/ocado-londra-borsasnda-871451-hisseyi-isleme-act-93CH-4034251",
-        "investing:https://tr.investing.com/news/stock-market-news/amylyx-pharmaceuticals-hissesi-bugun-neden-yukseliyor-93CH-4034250",
-        "investing:https://tr.investing.com/news/stock-market-news/vogenx-hissesi-bugun-neden-yukseliyor-93CH-4034247",
-        "investing:https://tr.investing.com/news/stock-market-news/profusa-hissesi-bugun-neden-yukseliyor-93CH-4034246",
-        "investing:https://tr.investing.com/news/analyst-ratings/wolfe-research-first-tracks-hissesine-alm-onerisi-verdi-93CH-4034245",
-        "investing:https://tr.investing.com/news/stock-market-news/vnet-hissesi-bugun-neden-dusuyor-93CH-4034243",
-        "investing:https://tr.investing.com/news/analyst-ratings/freenome-hissesi-td-cowen-tarafndan-al-onerisiyle-kapsama-alnd-93CH-4034233",
-        "investing:https://tr.investing.com/news/stock-market-news/bofann-agustos-anketi-yatrmclarn-asr-iyimser-oldugunu-gosteriyor-4034240",
-        "investing:https://tr.investing.com/news/stock-market-news/inditex-kurucusu-ortega-londrada-150-milyon-sterline-gayrimenkul-ald-93CH-4034232",
+        "investing:https://tr.investing.com/news/stock-market-news/dynatrace-hissesi-bugun-neden-yukseliyor-93CH-4034319",
+        "investing:https://tr.investing.com/news/analyst-ratings/william-blair-enliven-therapeutics-hissesine-alm-onerisiyle-baslad-93CH-4034318",
+        "investing:https://tr.investing.com/news/stock-market-news/edp-energias-de-portugal-hisseleri-neden-yukseliyor-93CH-4034317",
+        "investing:https://tr.investing.com/news/stock-market-news/diageo-yeniden-yaplanma-surecinde-is-gucunu-6dan-fazla-azaltt-93CH-4034316",
+        "investing:https://tr.investing.com/news/company-news/descartes-gumruk-komisyoncular-icin-yapay-zeka-destekli-belge-yonetimini-baslatt-93CH-4034299",
+        "investing:https://tr.investing.com/news/company-news/eaton-havaclk-bolumu-baskanlgna-shawn-blacki-atad-93CH-4034298",
+        "investing:https://tr.investing.com/news/stock-market-news/home-depot-hisseleri-neden-bugun-yukseliyor-93CH-4034297",
+        "investing:https://tr.investing.com/news/stock-market-news/citi-pozisyon-riski-ksa-pozisyon-kapamadan-kar-realizasyonuna-kayyor-4034304",
+        "investing:https://tr.investing.com/news/stock-market-news/bath--body-works-hisseleri-neden-yukseliyor-93CH-4034296",
+        "investing:https://tr.investing.com/news/analyst-ratings/barclays-enliven-therapeutics-hissesini-agrlkl-al-ile-baslatt-93CH-4034295",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -602,6 +602,16 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/stock-market-news/alset-ehome-international-hisseleri-neden-yukseliyor-93CH-4034252",
+        "investing:https://tr.investing.com/news/company-news/ocado-londra-borsasnda-871451-hisseyi-isleme-act-93CH-4034251",
+        "investing:https://tr.investing.com/news/stock-market-news/amylyx-pharmaceuticals-hissesi-bugun-neden-yukseliyor-93CH-4034250",
+        "investing:https://tr.investing.com/news/stock-market-news/vogenx-hissesi-bugun-neden-yukseliyor-93CH-4034247",
+        "investing:https://tr.investing.com/news/stock-market-news/profusa-hissesi-bugun-neden-yukseliyor-93CH-4034246",
+        "investing:https://tr.investing.com/news/analyst-ratings/wolfe-research-first-tracks-hissesine-alm-onerisi-verdi-93CH-4034245",
+        "investing:https://tr.investing.com/news/stock-market-news/vnet-hissesi-bugun-neden-dusuyor-93CH-4034243",
+        "investing:https://tr.investing.com/news/analyst-ratings/freenome-hissesi-td-cowen-tarafndan-al-onerisiyle-kapsama-alnd-93CH-4034233",
+        "investing:https://tr.investing.com/news/stock-market-news/bofann-agustos-anketi-yatrmclarn-asr-iyimser-oldugunu-gosteriyor-4034240",
+        "investing:https://tr.investing.com/news/stock-market-news/inditex-kurucusu-ortega-londrada-150-milyon-sterline-gayrimenkul-ald-93CH-4034232",
         "investing:https://tr.investing.com/news/stock-market-news/wolfe-anketi-makro-endiseler-arasnda-lml-iyimserlik-gosteriyor-93CH-4034148",
         "investing:https://tr.investing.com/news/stock-market-news/altn-abd-politika-belirsizligi-ile-4450-dolara-dogru-yukseldi-93CH-4034147",
         "investing:https://tr.investing.com/news/company-news/cloud-network-technology-singapore-fii-amc-mexicoda-hisse-ald-93CH-4034145",
@@ -1061,17 +1071,7 @@
         "investing:https://tr.investing.com/news/global-filings/son-dakika-akfen-insaat-500-bedelsiz-sermaye-artrm-icin-spk-onay-ald-93CH-4032273",
         "investing:https://tr.investing.com/news/analyst-ratings/piper-sandler-sofi-hissesine-kredi-buyumesi-ile-agrlk-artr-verdi-93CH-4032271",
         "investing:https://tr.investing.com/news/global-filings/sisecam-abdde-yeni-sirket-kurdu-100000-abd-dolar-sermaye-93CH-4032270",
-        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-accelerant-holdings-hissesi-icin-tavsiyeyi-dusurdu-93CH-4032269",
-        "investing:https://tr.investing.com/news/stock-market-news/accelleron-hisseleri-yuzde-10-scrad-berenberg-guclu-buyume-ongoruyor-4032268",
-        "investing:https://tr.investing.com/news/analyst-ratings/piper-sandler-dave-hissesi-icin-fazla-kilolu-onerisiyle-kapsama-baslad-93CH-4032265",
-        "investing:https://tr.investing.com/news/global-filings/son-dakika-smart-gunes-enerjisi-230-milyon-tl-sermaye-avans-ald-93CH-4032259",
-        "investing:https://tr.investing.com/news/company-news/garanti-bbvaya-400-milyon-dolar-ve-100-milyon-euro-tahvil-ihrac-onay-93CH-4032257",
-        "investing:https://tr.investing.com/news/global-filings/orma-yonetim-kurulu-uyesi-omer-civrilin-istifasn-acklad-93CH-4032256",
-        "investing:https://tr.investing.com/news/global-filings/efor-yatrm-geri-alnan-179-milyon-tl-pay-2301-milyon-tl-karla-satt-93CH-4032245",
-        "investing:https://tr.investing.com/news/stock-market-news/ashok-leyland-hissesi-bugun-neden-yukseliyor-93CH-4032244",
-        "investing:https://tr.investing.com/news/global-filings/enerya-enerji-yozgat-altn-sahasnda-654927-bin-ons-potansiyel-belirledi-93CH-4032235",
-        "investing:https://tr.investing.com/news/global-filings/ahlatc-dogal-gaz-yozgat-altn-sahas-arama-hedefi-raporunu-revize-etti-93CH-4032232",
-        "investing:https://tr.investing.com/news/global-filings/sara-enerji-31875-milyon-tllik-siparis-ald-93CH-4032231"
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-accelerant-holdings-hissesi-icin-tavsiyeyi-dusurdu-93CH-4032269"
       ]
     },
     "ntvpara": {
@@ -1203,8 +1203,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:1701d97b0d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:db46072b5d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:db46072b5d9e8:0",
         "tradingview:fxstreet:1701d97b0d9e8:0",
         "tradingview:matriks:6680599:0",
         "tradingview:matriks:6680583:0",
@@ -1216,6 +1217,7 @@
         "tradingview:matriks:6680509:0",
         "tradingview:matriks:6680499:0",
         "tradingview:fxstreet:93e405e50d9e8:0",
+        "tradingview:beincrypto:48002d441d9e8:0",
         "tradingview:fxstreet:c052d48c7d9e8:0",
         "tradingview:matriks:6680478:0",
         "tradingview:fxstreet:4e0cce7eed9e8:0",
@@ -1702,9 +1704,7 @@
         "tradingview:fxstreet:b0f0fcc69d9e8:0",
         "tradingview:fxstreet:168e7e2fcd9e8:0",
         "tradingview:fxstreet:e04440f55d9e8:0",
-        "tradingview:fxstreet:ab5d4bd07d9e8:0",
-        "tradingview:matriks:6677662:0",
-        "tradingview:fxstreet:7a8befa70d9e8:0"
+        "tradingview:fxstreet:ab5d4bd07d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1718,6 +1718,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n yukselen abd hazine getirilerinin abd dolar n guclendirmesiyle dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:db46072b5d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "dynatrace hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/dynatrace-hissesi-bugun-neden-yukseliyor-93CH-4034319"
+    },
+    {
+      "source": "investing",
+      "text": "william blair enliven therapeutics hissesine al m onerisiyle baslad",
+      "link": "https://tr.investing.com/news/analyst-ratings/william-blair-enliven-therapeutics-hissesine-alm-onerisiyle-baslad-93CH-4034318"
+    },
+    {
+      "source": "investing",
+      "text": "edp energias portugal hisseleri neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/edp-energias-de-portugal-hisseleri-neden-yukseliyor-93CH-4034317"
+    },
+    {
+      "source": "investing",
+      "text": "diageo yeniden yap lanma surecinde is gucunu 6 dan fazla azaltt",
+      "link": "https://tr.investing.com/news/stock-market-news/diageo-yeniden-yaplanma-surecinde-is-gucunu-6dan-fazla-azaltt-93CH-4034316"
+    },
+    {
+      "source": "investing",
+      "text": "descartes gumruk komisyoncular yapay zeka destekli belge yonetimini baslatt",
+      "link": "https://tr.investing.com/news/company-news/descartes-gumruk-komisyoncular-icin-yapay-zeka-destekli-belge-yonetimini-baslatt-93CH-4034299"
+    },
+    {
+      "source": "investing",
+      "text": "eaton havac l k bolumu baskanl g na shawn black i atad",
+      "link": "https://tr.investing.com/news/company-news/eaton-havaclk-bolumu-baskanlgna-shawn-blacki-atad-93CH-4034298"
+    },
+    {
+      "source": "investing",
+      "text": "home depot hisseleri neden bugun yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/home-depot-hisseleri-neden-bugun-yukseliyor-93CH-4034297"
+    },
+    {
+      "source": "investing",
+      "text": "citi pozisyon riski k sa pozisyon kapamadan kar realizasyonuna kay yor",
+      "link": "https://tr.investing.com/news/stock-market-news/citi-pozisyon-riski-ksa-pozisyon-kapamadan-kar-realizasyonuna-kayyor-4034304"
+    },
+    {
+      "source": "investing",
+      "text": "bath body works hisseleri neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/bath--body-works-hisseleri-neden-yukseliyor-93CH-4034296"
+    },
+    {
+      "source": "investing",
+      "text": "barclays enliven therapeutics hissesini ag rl kl al baslatt",
+      "link": "https://tr.investing.com/news/analyst-ratings/barclays-enliven-therapeutics-hissesini-agrlkl-al-ile-baslatt-93CH-4034295"
+    },
+    {
+      "source": "kap",
+      "text": "arfye pay baz nda devre kesici bildirimi arfye e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651955"
+    },
+    {
+      "source": "kap",
+      "text": "kfein ozel durum ac klamas genel bagl ortakl g m z apifort yaz l m guvenlik sistemleri a s nin sermaye art r m hakk nda sirket kafein yazilim hizmetleri ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651954"
+    },
     {
       "source": "tradingview",
       "text": "alt n fiyat analizi xau usd abd getirilerinin rallisiyle 4 400 alt na geriledi",
@@ -9152,71 +9217,6 @@
       "source": "bloomberght",
       "text": "trump tan umman a bombalama tehdidi abd baskan donald trump umman abd nin yoluna c kmas durumunda bombalamakla tehdit etti",
       "link": "https://www.bloomberght.com/trump-tan-umman-a-bombalama-tehdidi-3785706"
-    },
-    {
-      "source": "bloomberght",
-      "text": "mosfed baskan gulec ten stopaj indirim cag r s mobilya dernekleri federasyonu mosfed baskan ahmet gulec faiz indirimi surecinin yaln zca para politikas uzerinden degerlendirilmemesi gerektigini belirterek mevduat stopaj n n kademeli vadeye duyarl sekilde dusurulmesi cagr s",
-      "link": "https://www.bloomberght.com/mosfed-baskani-gulec-ten-stopaj-indirim-cagirisi-3785705"
-    },
-    {
-      "source": "kap",
-      "text": "meysu herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem kurum gecici vergi beyannamesi hakk nda sirket meysu gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651136"
-    },
-    {
-      "source": "kap",
-      "text": "golda herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde gelir tablosu verilmesi hakk nda sirket golda gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651134"
-    },
-    {
-      "source": "kap",
-      "text": "bossa pay baz nda devre kesici bildirimi bossa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651133"
-    },
-    {
-      "source": "kap",
-      "text": "dkyvk sirket genel bilgi formu sirket dk yildiz varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651132"
-    },
-    {
-      "source": "kap",
-      "text": "tralt tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket turk altin isletmeleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651131"
-    },
-    {
-      "source": "kap",
-      "text": "marka sirket genel bilgi formu sirket marka yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651130"
-    },
-    {
-      "source": "kap",
-      "text": "goknr ozel durum ac klamas genel kayy m karar n n kald r lmas sirket goknur gida maddeleri enerji imalat ithalat ihracat ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651129"
-    },
-    {
-      "source": "kap",
-      "text": "marka kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 guncelleme sirket marka yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651128"
-    },
-    {
-      "source": "kap",
-      "text": "safkr herhangi otoriteye mali tablo verilmesi kurumlar gecici vergi beyannamesi ekinde sunulan vergi usul kanununa gore duzenlenmis 30 06 2026 solo gelir tablosu sirket safkar ege sogutmacilik klima soguk hava tesisleri ihracat ithalat sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651127"
-    },
-    {
-      "source": "kap",
-      "text": "marka esas sozlesme guncel esas sozlesme sirket marka yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651126"
-    },
-    {
-      "source": "kap",
-      "text": "marka unvan degisikligi sirket unvan degisikliginin tescil ilan hakk nda sirket marka yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651125"
-    },
-    {
-      "source": "kap",
-      "text": "marka esas sozlesme tadili unvan degisikligi tescili ilan hakk nda sirket marka yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651124"
     }
   ]
 }
