@@ -1201,12 +1201,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6680478:0",
+      "last_seen_key": "tradingview:fxstreet:c052d48c7d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:c052d48c7d9e8:0",
         "tradingview:matriks:6680478:0",
         "tradingview:fxstreet:4e0cce7eed9e8:0",
+        "tradingview:matriks:6680457:0",
         "tradingview:cointelegraph:c6ce1e870d9e8:0",
         "tradingview:fxstreet:959d0cc1fd9e8:0",
+        "tradingview:matriks:6680456:0",
         "tradingview:matriks:6680440:0",
         "tradingview:fxstreet:619cf3b32d9e8:0",
         "tradingview:matriks:6680434:0",
@@ -1699,10 +1702,7 @@
         "tradingview:matriks:6677611:0",
         "tradingview:matriks:6677589:0",
         "tradingview:matriks:6677572:0",
-        "tradingview:fxstreet:19c1d9b43d9e8:0",
-        "tradingview:fxstreet:dde3ee186d9e8:0",
-        "tradingview:matriks:6677557:0",
-        "tradingview:fxstreet:6a7958b34d9e8:0"
+        "tradingview:fxstreet:19c1d9b43d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1716,6 +1716,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni abd dolar kars s nda dar aral k icinde asag yonlu gorunum uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:c052d48c7d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "moody s avustralya n n kredi notunu aaa olarak teyit etti gorunum duragan",
@@ -9210,11 +9215,6 @@
       "source": "investing",
       "text": "gercege uygun deger insperity nin 68 lik rallisini 9 ay once tespit etti",
       "link": "https://tr.investing.com/news/investment-ideas/gercege-uygun-deger-insperitynin-68lik-rallisini-9-ay-once-tespit-etti-93CH-4032643"
-    },
-    {
-      "source": "investing",
-      "text": "eyepoint in duravyu ilac yas amd denemesinde basar s z oldu",
-      "link": "https://tr.investing.com/news/company-news/eyepointin-duravyu-ilac-yas-amd-denemesinde-basarsz-oldu-93CH-4032641"
     }
   ]
 }
