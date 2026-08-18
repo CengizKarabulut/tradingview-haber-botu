@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651814",
+      "last_seen_key": "kap:1651815",
       "seen_keys": [
+        "kap:1651815",
         "kap:1651814",
         "kap:1651813",
         "kap:1651812",
@@ -502,8 +503,7 @@
         "kap:1651099",
         "kap:1651098",
         "kap:1651097",
-        "kap:1651096",
-        "kap:1651093"
+        "kap:1651096"
       ]
     },
     "bloomberght": {
@@ -571,8 +571,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/skan-ilk-yarda-satslarn-22-artrd-kara-dondu-93CH-4033767",
+      "last_seen_key": "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-fed-gorunumu-ve-abdiran-gerilimiyle-yon-aryor-4033770",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-fed-gorunumu-ve-abdiran-gerilimiyle-yon-aryor-4033770",
+        "investing:https://tr.investing.com/news/stock-market-news/psp-swiss-propertynin-ilk-yar-kar-sats-ve-yeniden-degerlemelerle-artt-93CH-4033768",
         "investing:https://tr.investing.com/news/stock-market-news/skan-ilk-yarda-satslarn-22-artrd-kara-dondu-93CH-4033767",
         "investing:https://tr.investing.com/news/stock-market-news/chow-sang-sang-hissesi-bugun-neden-yukseliste-93CH-4033765",
         "investing:https://tr.investing.com/news/stock-market-news/eqt-holdings-hissesi-bugun-neden-yukseliyor-93CH-4033764",
@@ -581,8 +583,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-petrol-ve-tahvil-faizleriyle-geriledi-4033760",
         "investing:https://tr.investing.com/news/company-news/copart-yonetim-kuruluna-david-bergeri-atad-93CH-4033757",
         "investing:https://tr.investing.com/news/stock-market-news/microsoft-ve-salesforce-darwinbox-satn-almak-istiyor-93CH-4033753",
-        "investing:https://tr.investing.com/news/stock-market-news/googlen-cindeki-pixel-uretimini-2027de-sonlandrma-plan-4033751",
-        "investing:https://tr.investing.com/news/stock-market-news/bhp-hisseleri-neden-yukseliste-93CH-4033748",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -603,6 +603,8 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/stock-market-news/googlen-cindeki-pixel-uretimini-2027de-sonlandrma-plan-4033751",
+        "investing:https://tr.investing.com/news/stock-market-news/bhp-hisseleri-neden-yukseliste-93CH-4033748",
         "investing:https://tr.investing.com/news/stock-market-news/avustralyann-eqt-holdingsi-tpg-globaldan-468-milyon-dolarlk-devralma-teklifi-ald-93CH-4033756",
         "investing:https://tr.investing.com/news/stock-market-news/reliance-worldwide-hissesi-neden-yukseliyor-93CH-4033747",
         "investing:https://tr.investing.com/news/stock-market-news/dayone-singapur-veri-merkezi-icin-530-milyon-dolarlk-kredi-ald-93CH-4033746",
@@ -1070,9 +1072,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/natera-icra-kurulu-baskan-matthew-rabinowitz-641800-dolarlk-hisse-satt-93CH-4031940",
         "investing:https://tr.investing.com/news/economy-news/morgan-stanley-dezenflasyon-baslad-ama-2027-faiz-riski-var-4031939",
         "investing:https://tr.investing.com/news/insider-trading-news/sentinelone-muhasebe-muduru-109799-dolarlk-hisse-satt-93CH-4031937",
-        "investing:https://tr.investing.com/news/insider-trading-news/roku-baskan-fuchsberg-16-milyon-dolarlk-hisse-satt-93CH-4031936",
-        "investing:https://tr.investing.com/news/stock-market-news/tarihi-2c-kazanc-sezonunda-hisse-fiyat-tepkileri-giderek-kopuyor-4031934",
-        "investing:https://tr.investing.com/news/insider-trading-news/scholastic-yoneticisi-kaya-henderson-130812-dolar-hisse-satt-93CH-4031932"
+        "investing:https://tr.investing.com/news/insider-trading-news/roku-baskan-fuchsberg-16-milyon-dolarlk-hisse-satt-93CH-4031936"
       ]
     },
     "ntvpara": {
@@ -1192,8 +1192,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:c43ed9f14d9e8:0",
+      "last_seen_key": "tradingview:matriks:6679512:0",
       "seen_keys": [
+        "tradingview:matriks:6679512:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44F041:0",
+        "tradingview:matriks:6679505:0",
+        "tradingview:matriks:6679503:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44F09C:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44F03Z:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44F03W:0",
         "tradingview:fxstreet:c43ed9f14d9e8:0",
         "tradingview:matriks:6679431:0",
         "tradingview:fxstreet:499349861d9e8:0",
@@ -1686,14 +1693,7 @@
         "tradingview:matriks:6676609:0",
         "tradingview:matriks:6676607:0",
         "tradingview:matriks:6676606:0",
-        "tradingview:matriks:6676602:0",
-        "tradingview:matriks:6676598:0",
-        "tradingview:matriks:6676595:0",
-        "tradingview:matriks:6676578:0",
-        "tradingview:matriks:6676572:0",
-        "tradingview:matriks:6676563:0",
-        "tradingview:matriks:6676561:0",
-        "tradingview:fxstreet:ba82db8c7d9e8:0"
+        "tradingview:matriks:6676602:0"
       ]
     },
     "forexfactory": {
@@ -1707,6 +1707,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "piyasalarda bugun qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6679512:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vestel elektronik q2 6 7 mlyr tl net zarar etti gecen y l ayn donem 9 6 mlyr tl net zarar",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44F041:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6679505:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "venezuela ingiltere merkez bankas ndaki 4 milyar euroluk alt n n geri istedi",
+      "link": "https://tr.tradingview.com/news/matriks:6679503:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz tahvil petrol alt n",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44F09C:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bim q2 8 0 mlyr tl net kar etti gecen y l ayn donem 3 6 mlyr tl net kar",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44F03Z:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "astor enerji q2 2 7 mlyr tl net kar etti gecen y l ayn donem 1 2 mlyr tl net kar",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44F03W:0"
+    },
+    {
+      "source": "investing",
+      "text": "asya dovizleri fed gorunumu abd iran gerilimiyle yon ar yor",
+      "link": "https://tr.investing.com/news/forex-news/asya-dovizleri-fed-gorunumu-ve-abdiran-gerilimiyle-yon-aryor-4033770"
+    },
+    {
+      "source": "investing",
+      "text": "psp swiss property nin ilk yar kar sat s yeniden degerlemelerle artt",
+      "link": "https://tr.investing.com/news/stock-market-news/psp-swiss-propertynin-ilk-yar-kar-sats-ve-yeniden-degerlemelerle-artt-93CH-4033768"
+    },
+    {
+      "source": "kap",
+      "text": "mndtr kat l m finans ilkeleri bilgi formu sirket mondi turkey oluklu mukavva kagit ambalaj sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651815"
+    },
     {
       "source": "kap",
       "text": "sngyo kat l m finans ilkeleri bilgi formu sirket sinpas gayrimenkul yatirim ortakligi a s",
@@ -9156,56 +9206,6 @@
       "source": "tradingview",
       "text": "viop bulten ata yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6676544:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "teknik strateji bulteni vak f yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676541:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "sa ra enerji yurticinde yerlesik musteriden toplamda 318 750 700 tl tutar nda enerji nakil hatt baglant elemanlar siparisi ald",
-      "link": "https://tr.tradingview.com/news/matriks:6676540:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bist sirket karlar bizim menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6676539:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "borsa istanbul yeni haftaya 14 192 88 puandan baslad borsa istanbul bist 100 endeksi gune yuzde 0 15 yukselisle 14 192 88 puandan baslad",
-      "link": "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-yeni-haftaya-1419288-puandan-basladi-954133.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "hububat ureticilerine 120 milyar lira odeme yap ld tar m orman bakan ibrahim yumakl hasat sezonu bas ndan yana 769 merkezde 11 5 milyon ton urun al nd g n belirterek toprak mahsulleri ofisinin tmo ureticilere yaklas k 120 milyar liral k odeme yapt g n ac klad",
-      "link": "https://www.trthaber.com/haber/ekonomi/hububat-ureticilerine-120-milyar-lira-odeme-yapildi-954130.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "k y emniyeti genel mudurlugu 173 isci alacak k y emniyeti genel mudurlugu 173 isci istihdam edecek resmi gazete yer alan ilana gore soz konusu personel daimi isci statusunde gorev yapacak",
-      "link": "https://www.trthaber.com/haber/ekonomi/kiyi-emniyeti-genel-mudurlugu-173-isci-alacak-954128.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "gram alt n yeni haftaya yukselisle baslad gram alt n haftan n ilk islem gunune yukselisle baslamas n n ard ndan 6 bin 768 liradan islem goruyor ceyrek alt n 11 bin 83 liradan cumhuriyet alt n 44 bin 121 liradan sat l yor",
-      "link": "https://www.trthaber.com/haber/ekonomi/gram-altin-yeni-haftaya-yukselisle-basladi-954127.html"
-    },
-    {
-      "source": "investing",
-      "text": "jpmorgan rekabet bask s nedeniyle pldt hissesini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-rekabet-basks-nedeniyle-pldt-hissesini-dusurdu-93CH-4032121"
-    },
-    {
-      "source": "investing",
-      "text": "goldman sachs n uyar s fed beklentileri hala fazla sahin tl ye nefes var m",
-      "link": "https://tr.investing.com/news/economy-news/goldman-sachsn-uyars-fed-beklentileri-hala-fazla-sahin-tlye-nefes-var-m-4032120"
-    },
-    {
-      "source": "investing",
-      "text": "edip gayrimenkul 17 agustos 16 eylul ac ga sat sa kapal",
-      "link": "https://tr.investing.com/news/global-filings/son-dakika-edip-gayrimenkul-17-agustos16-eylul-acga-satsa-kapal-93CH-4032116"
     }
   ]
 }
