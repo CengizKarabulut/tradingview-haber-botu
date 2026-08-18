@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651955",
+      "last_seen_key": "kap:1651961",
       "seen_keys": [
+        "kap:1651961",
+        "kap:1651957",
+        "kap:1651956",
         "kap:1651955",
         "kap:1651954",
         "kap:1651953",
@@ -500,10 +503,7 @@
         "kap:1651240",
         "kap:1651239",
         "kap:1651238",
-        "kap:1651237",
-        "kap:1651236",
-        "kap:1651235",
-        "kap:1651232"
+        "kap:1651237"
       ]
     },
     "bloomberght": {
@@ -1203,8 +1203,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:db46072b5d9e8:0",
+      "last_seen_key": "tradingview:matriks:6680684:0",
       "seen_keys": [
+        "tradingview:matriks:6680684:0",
+        "tradingview:matriks:6680682:0",
+        "tradingview:cointelegraph:751df939fd9e8:0",
         "tradingview:fxstreet:db46072b5d9e8:0",
         "tradingview:fxstreet:1701d97b0d9e8:0",
         "tradingview:matriks:6680599:0",
@@ -1701,10 +1704,7 @@
         "tradingview:fxstreet:6f6159e7fd9e8:0",
         "tradingview:fxstreet:db8454f2ad9e8:0",
         "tradingview:fxstreet:59e9b0a86d9e8:0",
-        "tradingview:fxstreet:b0f0fcc69d9e8:0",
-        "tradingview:fxstreet:168e7e2fcd9e8:0",
-        "tradingview:fxstreet:e04440f55d9e8:0",
-        "tradingview:fxstreet:ab5d4bd07d9e8:0"
+        "tradingview:fxstreet:b0f0fcc69d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1718,6 +1718,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guncelleme ozel haber bilanco sezonunda su ana kadar ac klanan sonuclar n beklenti performans",
+      "link": "https://tr.tradingview.com/news/matriks:6680684:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hisse analizi ekgyo trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6680682:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kraken aea musterileri abd borsalar nda listelenen hisse islemlerini baslatt",
+      "link": "https://tr.tradingview.com/news/cointelegraph:751df939fd9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "yeotk pay baz nda devre kesici bildirimi yeotk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651961"
+    },
+    {
+      "source": "kap",
+      "text": "arsvy ihrac tavan na iliskin bildirim ihrac belgesi basvurusu spk onay hk sirket arsan varlik yonetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651957"
+    },
+    {
+      "source": "kap",
+      "text": "ozsub pay baz nda devre kesici bildirimi ozsub e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651956"
+    },
     {
       "source": "tradingview",
       "text": "alt n yukselen abd hazine getirilerinin abd dolar n guclendirmesiyle dustu",
@@ -9187,36 +9217,6 @@
       "source": "investing",
       "text": "canaccord zay f 2c sonuclar sonras quanterix hisse hedefini dusurdu",
       "link": "https://tr.investing.com/news/analyst-ratings/canaccord-zayf-2c-sonuclar-sonras-quanterix-hisse-hedefini-dusurdu-93CH-4032770"
-    },
-    {
-      "source": "investing",
-      "text": "stifel cin endiseleri nedeniyle staar surgical hisse hedefini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/stifel-cin-endiseleri-nedeniyle-staar-surgical-hisse-hedefini-dusurdu-93CH-4032768"
-    },
-    {
-      "source": "investing",
-      "text": "moldova 2026 buyume tahminini 1 8 e dusurdu",
-      "link": "https://tr.investing.com/news/economy-news/moldova-2026-buyume-tahminini-18e-dusurdu-93CH-4032769"
-    },
-    {
-      "source": "investing",
-      "text": "wedbush immunic hissesi outperform onerisiyle kapsama baslad",
-      "link": "https://tr.investing.com/news/analyst-ratings/wedbush-immunic-hissesi-icin-outperform-onerisiyle-kapsama-baslad-93CH-4032767"
-    },
-    {
-      "source": "investing",
-      "text": "higgsfield 400 milyon dolar toplad degerleme 5 4 milyar dolara f rlad",
-      "link": "https://tr.investing.com/news/stock-market-news/higgsfield-400-milyon-dolar-toplad-degerleme-54-milyar-dolara-frlad-93CH-4032765"
-    },
-    {
-      "source": "investing",
-      "text": "fulcrum therapeutics hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/fulcrum-therapeutics-hissesi-bugun-neden-yukseliyor-93CH-4032764"
-    },
-    {
-      "source": "bloomberght",
-      "text": "trump tan umman a bombalama tehdidi abd baskan donald trump umman abd nin yoluna c kmas durumunda bombalamakla tehdit etti",
-      "link": "https://www.bloomberght.com/trump-tan-umman-a-bombalama-tehdidi-3785706"
     }
   ]
 }
