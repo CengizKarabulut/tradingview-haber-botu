@@ -2,13 +2,21 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652025",
+      "last_seen_key": "kap:1652034",
       "seen_keys": [
+        "kap:1652034",
+        "kap:1652033",
+        "kap:1652032",
+        "kap:1652031",
+        "kap:1652030",
+        "kap:1652029",
+        "kap:1652028",
+        "kap:1652027",
+        "kap:1652026",
         "kap:1652025",
         "kap:1652023",
         "kap:1652022",
         "kap:1652021",
-        "kap:1652002",
         "kap:1652000",
         "kap:1651999",
         "kap:1651997",
@@ -85,6 +93,7 @@
         "kap:1651873",
         "kap:1651872",
         "kap:1651871",
+        "kap:1652002",
         "kap:1651865",
         "kap:1651863",
         "kap:1651862",
@@ -494,21 +503,13 @@
         "kap:1651282",
         "kap:1651281",
         "kap:1651280",
-        "kap:1651279",
-        "kap:1651278",
-        "kap:1651276",
-        "kap:1651275",
-        "kap:1651274",
-        "kap:1651273",
-        "kap:1651272",
-        "kap:1651271",
-        "kap:1651270",
-        "kap:1651269"
+        "kap:1651279"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-ithalat-fiyat-endeksi-geriledi-3785793",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/ingye-gore-dolardaki-dususun-pesinden-gitmek-icin-cok-erken-3785796",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/ingye-gore-dolardaki-dususun-pesinden-gitmek-icin-cok-erken-3785796",
         "bloomberght:https://www.bloomberght.com/abd-de-ithalat-fiyat-endeksi-geriledi-3785793",
         "bloomberght:https://www.bloomberght.com/abd-de-konut-baslangiclari-tahminlerin-altinda-kaldi-3785792",
         "bloomberght:https://www.bloomberght.com/hazine-iki-tahvilde-79-1-milyar-tl-borclandi-3785791",
@@ -1210,8 +1211,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6681065:0",
+      "last_seen_key": "tradingview:matriks:6681080:0",
       "seen_keys": [
+        "tradingview:matriks:6681080:0",
         "tradingview:matriks:6681065:0",
         "tradingview:matriks:6681062:0",
         "tradingview:fxstreet:9ab0797d1d9e8:0",
@@ -1710,8 +1712,7 @@
         "tradingview:fxstreet:9a0c1799fd9e8:0",
         "tradingview:matriks:6678174:0",
         "tradingview:matriks:6678166:0",
-        "tradingview:matriks:6678154:0",
-        "tradingview:matriks:6678139:0"
+        "tradingview:matriks:6678154:0"
       ]
     },
     "forexfactory": {
@@ -1725,6 +1726,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ing ye gore dolardaki dususun pesinden gitmek cok erken bloomberght com",
+      "link": "https://tr.tradingview.com/news/matriks:6681080:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ing ye gore dolardaki dususun pesinden gitmek cok erken ing stratejistleri dolar endeksinde dip seviyelerden yasanan toparlanman n dolar n henuz kal c sekilde asag yonlu k r lmaya haz r olmad g n gosterdigini beklentilerin uzerinde gelebilecek herhangi verinin k sa vadeli abd faiz",
+      "link": "https://www.bloomberght.com/ingye-gore-dolardaki-dususun-pesinden-gitmek-icin-cok-erken-3785796"
+    },
+    {
+      "source": "kap",
+      "text": "emvar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdemvk52723 isin kodlu kira sertifikas ihrac n n 1 kupon oran n n belirlenmesi hk sirket emlak varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652034"
+    },
+    {
+      "source": "kap",
+      "text": "katvk tertip ihrac belgesi tertip ihrac belgesi nitelikli 250 000 000 tl 250 000 000 tl 250 000 000 tl 250 000 000 tl sirket katilim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652033"
+    },
+    {
+      "source": "kap",
+      "text": "ucaym pay baz nda devre kesici bildirimi ucaym e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652032"
+    },
+    {
+      "source": "kap",
+      "text": "orge esas sozlesme tadili sermaye piyasas kurulu basvuru sonucu sirket orge enerji elektrik taahhut a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652031"
+    },
+    {
+      "source": "kap",
+      "text": "sekur pay baz nda devre kesici bildirimi sekur e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652030"
+    },
+    {
+      "source": "kap",
+      "text": "endae tabgd borsada islem goren tipe donusum duyurusu donusum sirket merkezi kayit kurulusu a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652029"
+    },
+    {
+      "source": "kap",
+      "text": "orge ihrac belgesi sermaye art r m na iliskin ihrac belgesinin onaylanmas sirket orge enerji elektrik taahhut a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652028"
+    },
+    {
+      "source": "kap",
+      "text": "lidfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfldfk82615 isin kodlu bono kupon oran sirket lider faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652027"
+    },
+    {
+      "source": "kap",
+      "text": "orge sermaye art r m azalt m islemlerine iliskin bildirim sermaye art r m hak kullan m tarihinin belirlenmesi sirket orge enerji elektrik taahhut a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652026"
+    },
     {
       "source": "tradingview",
       "text": "abd mega cap hisse radar aktif yat r m",
@@ -9169,61 +9225,6 @@
       "source": "investing",
       "text": "trade desk hisseleri neden dusuyor",
       "link": "https://tr.investing.com/news/stock-market-news/trade-desk-hisseleri-neden-dusuyor-93CH-4033204"
-    },
-    {
-      "source": "investing",
-      "text": "penn entertainment new orleans kumarhanesine 195 milyon dolar yat racak",
-      "link": "https://tr.investing.com/news/company-news/penn-entertainment-new-orleans-kumarhanesine-195-milyon-dolar-yatracak-93CH-4033202"
-    },
-    {
-      "source": "kap",
-      "text": "algyo pay baz nda devre kesici bildirimi algyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651208"
-    },
-    {
-      "source": "kap",
-      "text": "ekofa ihrac tavan na iliskin bildirim borclanma arac ihrac na iliskin yonetim kurulu karar sirket eko faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651207"
-    },
-    {
-      "source": "kap",
-      "text": "ekofa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfekof22712 isin kodlu bono 2 kupon faiz orani sirket eko faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651206"
-    },
-    {
-      "source": "kap",
-      "text": "bieny brisa garfl isfak korts tera tmks borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651205"
-    },
-    {
-      "source": "kap",
-      "text": "ahsgy ozel durum ac klamas genel sirketimizin turizm konaklama tesisi projesi hakk sirket ahes gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651204"
-    },
-    {
-      "source": "kap",
-      "text": "glrmk herhangi otoriteye mali tablo verilmesi 01 01 2026 30 06 2026 donemine ait gecici vergi beyannamesi nin vergi dairesine sunulmas sirket gulermak agir sanayi insaat taahhut a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651203"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar enflasyon hedefe yak n istikrarl rbc",
-      "link": "https://tr.tradingview.com/news/fxstreet:1fe8fc941d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "makro analiz tar m ufe ahlatc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6677941:0"
-    },
-    {
-      "source": "kap",
-      "text": "agyo herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket atakule gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651202"
-    },
-    {
-      "source": "kap",
-      "text": "doas pay mali hak kullan m islemi nakit odeme hak kullan m islemleri sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651201"
     }
   ]
 }
