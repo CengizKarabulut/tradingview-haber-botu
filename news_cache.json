@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652379",
+      "last_seen_key": "kap:1652384",
       "seen_keys": [
+        "kap:1652384",
+        "kap:1652383",
+        "kap:1652382",
+        "kap:1652381",
+        "kap:1652380",
         "kap:1652379",
         "kap:1652378",
         "kap:1652377",
@@ -205,8 +210,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/iran-abd-nin-taviz-koparma-hesabi-sonucsuz-kalacak-3785813",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/apple-ab-de-uygulama-basina-alinan-teknoloji-ucretini-kaldiriyor-3785814",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/apple-ab-de-uygulama-basina-alinan-teknoloji-ucretini-kaldiriyor-3785814",
         "bloomberght:https://www.bloomberght.com/iran-abd-nin-taviz-koparma-hesabi-sonucsuz-kalacak-3785813",
         "bloomberght:https://www.bloomberght.com/wp-abd-savasi-sonrasi-korfez-deki-askeri-varligini-azaltmayi-degerlendiriyor-3785812",
         "bloomberght:https://www.bloomberght.com/abd-li-enerji-sirketine-9-milyar-dolarlik-satin-alma-teklifi-3785811",
@@ -903,8 +909,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:433da7055d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:89169269dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:89169269dd9e8:0",
         "tradingview:fxstreet:433da7055d9e8:0",
         "tradingview:fxstreet:f46682412d9e8:0",
         "tradingview:fxstreet:ef7942743d9e8:0",
@@ -1403,8 +1410,7 @@
         "tradingview:matriks:6679342:0",
         "tradingview:matriks:6679350:0",
         "tradingview:matriks:6679339:0",
-        "tradingview:matriks:6679341:0",
-        "tradingview:matriks:6679343:0"
+        "tradingview:matriks:6679341:0"
       ]
     },
     "forexfactory": {
@@ -1418,6 +1424,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "usd chf fiyat analizi bayrak desteginden toparlanma bogalar hayatta tutuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:89169269dd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "apple ab uygulama bas na al nan teknoloji ucretini kald r yor apple avrupa komisyonu yuruttugu gorusmelerin ard ndan ab deki uygulama gelistiricilerine yonelik ticari kosullar n guncellerken core technology fee yi kald rarak app store d s ndaki dijital islemler yeni komisyon oranlar beli",
+      "link": "https://www.bloomberght.com/apple-ab-de-uygulama-basina-alinan-teknoloji-ucretini-kaldiriyor-3785814"
+    },
+    {
+      "source": "kap",
+      "text": "fsdat faaliyet raporu konsolide faaliyet raporu konsolide sirket fasdat gida dagitim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652384"
+    },
+    {
+      "source": "kap",
+      "text": "fsdat finansal rapor sirket fasdat gida dagitim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652383"
+    },
+    {
+      "source": "kap",
+      "text": "fsdat sorumluluk beyan konsolide sorumluluk beyan sirket fasdat gida dagitim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652382"
+    },
+    {
+      "source": "kap",
+      "text": "ofsym tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket ofis yem gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652381"
+    },
+    {
+      "source": "kap",
+      "text": "anele kat l m finans ilkeleri bilgi formu sirket anel elektrik proje taahhut ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652380"
+    },
     {
       "source": "investing",
       "text": "precision optics lytham partners zirvesinde buyume olcege kay yor",
@@ -8882,41 +8923,6 @@
       "source": "kap",
       "text": "vakko sorumluluk beyan konsolide sorumluluk beyan sirket vakko tekstil hazir giyim sanayi isletmeleri a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651623"
-    },
-    {
-      "source": "kap",
-      "text": "polho kat l m finans ilkeleri bilgi formu sirket polisan holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651622"
-    },
-    {
-      "source": "kap",
-      "text": "polho tsrs uyumlu surdurulebilirlik raporu 2025 tsrs uyumlu surdurulebilirlik raporu sirket polisan holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651621"
-    },
-    {
-      "source": "kap",
-      "text": "polho sorumluluk beyan konsolide sorumluluk beyan sirket polisan holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651620"
-    },
-    {
-      "source": "kap",
-      "text": "polho faaliyet raporu konsolide faaliyet raporu sirket polisan holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651619"
-    },
-    {
-      "source": "kap",
-      "text": "vakko faaliyet raporu konsolide 01 01 2026 30 06 2026 faaliyet raporu sirket vakko tekstil hazir giyim sanayi isletmeleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651618"
-    },
-    {
-      "source": "kap",
-      "text": "polho finansal rapor sirket polisan holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651617"
-    },
-    {
-      "source": "kap",
-      "text": "vakko finansal rapor sirket vakko tekstil hazir giyim sanayi isletmeleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651616"
     }
   ]
 }
