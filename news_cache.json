@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651819",
+      "last_seen_key": "kap:1651822",
       "seen_keys": [
+        "kap:1651822",
+        "kap:1651821",
+        "kap:1651820",
         "kap:1651819",
         "kap:1651818",
         "kap:1651817",
@@ -500,10 +503,7 @@
         "kap:1651116",
         "kap:1651115",
         "kap:1651114",
-        "kap:1651113",
-        "kap:1651111",
-        "kap:1651101",
-        "kap:1651100"
+        "kap:1651113"
       ]
     },
     "bloomberght": {
@@ -1194,8 +1194,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6679547:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44F0A7:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L6N44F0A7:0",
+        "tradingview:matriks:6679559:0",
+        "tradingview:matriks:6679556:0",
+        "tradingview:matriks:6679554:0",
+        "tradingview:matriks:6679552:0",
+        "tradingview:matriks:6679551:0",
+        "tradingview:matriks:6679550:0",
+        "tradingview:matriks:6679549:0",
         "tradingview:matriks:6679547:0",
         "tradingview:fxstreet:619cf3b32d9e8:0",
         "tradingview:matriks:6679544:0",
@@ -1229,6 +1237,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44F031:0",
         "tradingview:matriks:6679404:0",
         "tradingview:fxstreet:21a28f559d9e8:0",
+        "tradingview:beincrypto:97cfde5ffd9e8:0",
         "tradingview:matriks:6679393:0",
         "tradingview:fxstreet:d16a29dadd9e8:0",
         "tradingview:matriks:6679390:0",
@@ -1686,16 +1695,7 @@
         "tradingview:matriks:6676733:0",
         "tradingview:matriks:6676732:0",
         "tradingview:fxstreet:8063eb9c8d9e8:0",
-        "tradingview:matriks:6676727:0",
-        "tradingview:matriks:6676725:0",
-        "tradingview:matriks:6676723:0",
-        "tradingview:matriks:6676724:0",
-        "tradingview:matriks:6676722:0",
-        "tradingview:fxstreet:087a6fbe2d9e8:0",
-        "tradingview:matriks:6676718:0",
-        "tradingview:matriks:6676717:0",
-        "tradingview:matriks:6676712:0",
-        "tradingview:matriks:6676710:0"
+        "tradingview:matriks:6676727:0"
       ]
     },
     "forexfactory": {
@@ -1709,6 +1709,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd kanada ticaret muzakelerinde ilerleme kaydedemedi abd baz urunlere 50 ek gumruk vergisi getirecek",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44F0A7:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi entra is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679559:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop bulten ata yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679556:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sabah bulteni tfg istanbul menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6679554:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik analiz bulteni piramit menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6679552:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "foreks bulteni destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6679551:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk strateji bulteni piramit menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6679550:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ticaret bakanl g 2026 y l n n ilk 7 ay nda yap lan denetimler neticesinde toplamda1 milyar 874 milyon tl idari para cezas uygulad",
+      "link": "https://tr.tradingview.com/news/matriks:6679549:0"
+    },
+    {
+      "source": "kap",
+      "text": "erm ozel durum ac klamas genel ozel durum ac klamas genel sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651822"
+    },
+    {
+      "source": "kap",
+      "text": "makim herhangi otoriteye mali tablo verilmesi herhangi otoriteye mali tablo verilmesi sirket makim makina teknolojileri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651821"
+    },
+    {
+      "source": "kap",
+      "text": "ykb ykbnk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren yurtd s nda ihrac edilen borclanma arac n n itfas sirket yapi kredi bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651820"
+    },
     {
       "source": "tradingview",
       "text": "teknik bulten ata yat r m",
@@ -9153,61 +9208,6 @@
       "source": "tradingview",
       "text": "tematik analiz yap kredi yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6676694:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "sirket raporu tavhl akbank ekonomik arast rmalar ak yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676691:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "otomotiv ana sanayi uretimi temmuz 19 2 ocak temmuz 8 geriledi osd",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44E06H:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiliz sterlini veri karmas abd dolar kars s nda surdurulebilir kazanclar s n rl yor bbh",
-      "link": "https://tr.tradingview.com/news/fxstreet:57d6b50a6d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "deniz yat r m sise 60 tl hedef fiyat belirledi tut tavsiyesini korudu onceki hedef fiyat 60 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6676621:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "qnb invest cwene hedef fiyat 60 tl tavsiye endeks ustu getiri",
-      "link": "https://tr.tradingview.com/news/matriks:6676611:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten tacirler yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676609:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi sise deniz yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676607:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "is yat r m krdmd 60 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 48 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6676606:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb nin usd cinsi zorunlu kars l klara uygulayacag gecelik faiz oran bugun 2 750 olarak ac kland",
-      "link": "https://tr.tradingview.com/news/matriks:6676602:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "seker yat r m sise 65 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 65 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6676598:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "deniz yat r m medtr 38 5 tl hedef fiyat belirledi tut tavsiyesini korudu onceki hedef fiyat 45 5 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6676595:0"
     }
   ]
 }
