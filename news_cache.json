@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651930",
+      "last_seen_key": "kap:1651933",
       "seen_keys": [
+        "kap:1651933",
+        "kap:1651931",
         "kap:1651930",
         "kap:1651929",
         "kap:1651928",
@@ -32,7 +34,6 @@
         "kap:1651872",
         "kap:1651871",
         "kap:1651870",
-        "kap:1651869",
         "kap:1651865",
         "kap:1651863",
         "kap:1651862",
@@ -95,6 +96,7 @@
         "kap:1651750",
         "kap:1651749",
         "kap:1651694",
+        "kap:1651869",
         "kap:1651693",
         "kap:1651692",
         "kap:1651691",
@@ -501,14 +503,13 @@
         "kap:1651211",
         "kap:1651209",
         "kap:1651208",
-        "kap:1651207",
-        "kap:1651206",
-        "kap:1651205"
+        "kap:1651207"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/amb-basekonomistinden-hedefin-oldukca-uzerinde-enflasyon-tahmini-3785776",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/uber-eats-teslimat-agina-zipline-dronlarini-dahil-ediyor-3785778",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/uber-eats-teslimat-agina-zipline-dronlarini-dahil-ediyor-3785778",
         "bloomberght:https://www.bloomberght.com/amb-basekonomistinden-hedefin-oldukca-uzerinde-enflasyon-tahmini-3785776",
         "bloomberght:https://www.bloomberght.com/istanbul-konutunda-dolar-altin-makasi-acildi-3785775",
         "bloomberght:https://www.bloomberght.com/turkiye-yapay-zeka-eylem-plani-yayimlandi-3785774",
@@ -1711,6 +1712,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "uber eats teslimat ag na zipline dronlar n dahil ediyor uber eats hizmetini buyutmenin yollar n ararken bunyesine cok say dronla teslimat ortag kat yor uber 2029 y l sonuna kadar zipline n n dronlar n kullanarak gunde milyon teslimat gerceklestirme hedefiyle zipline a yat r m yap",
+      "link": "https://www.bloomberght.com/uber-eats-teslimat-agina-zipline-dronlarini-dahil-ediyor-3785778"
+    },
+    {
+      "source": "kap",
+      "text": "tcz tczb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren yurt d s borclanma arac ihrac sirket t c ziraat bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651933"
+    },
+    {
+      "source": "kap",
+      "text": "hedef pay baz nda devre kesici bildirimi hedef e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651931"
+    },
     {
       "source": "tradingview",
       "text": "ecb bas ekonomisti lane enflasyon y l n geri kalan nda 3 seviyelerinde seyredecek",
@@ -9195,21 +9211,6 @@
       "source": "investing",
       "text": "sandisk hissesi bugun neden yuzde 5 in uzerinde yukseliyor",
       "link": "https://tr.investing.com/news/stock-market-news/sandisk-hissesi-bugun-neden-yuzde-5in-uzerinde-yukseliyor-93CH-4032465"
-    },
-    {
-      "source": "investing",
-      "text": "wells fargo dolar magazalar n n kazanclar n farkl goruslerle degerlendirdi",
-      "link": "https://tr.investing.com/news/stock-market-news/wells-fargo-dolar-magazalarnn-kazanclarn-farkl-goruslerle-degerlendirdi-93CH-4032462"
-    },
-    {
-      "source": "investing",
-      "text": "td cowen crowdstrike hedef fiyat yapay zeka guvenligi talebiyle 235 dolara yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/td-cowen-crowdstrike-icin-hedef-fiyat-yapay-zeka-guvenligi-talebiyle-235-dolara-yukseltti-93CH-4032459"
-    },
-    {
-      "source": "investing",
-      "text": "bmo global net lease hissesini yuksek performans notuyla kapsama ald",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-global-net-lease-hissesini-yuksek-performans-notuyla-kapsama-ald-93CH-4032455"
     }
   ]
 }
