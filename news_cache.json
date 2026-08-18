@@ -507,8 +507,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/bim-den-275-yeni-magaza-8-milyar-tl-net-kr-3785742",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-18-agustos-2026-3785743",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-18-agustos-2026-3785743",
         "bloomberght:https://www.bloomberght.com/bim-den-275-yeni-magaza-8-milyar-tl-net-kr-3785742",
         "bloomberght:https://www.bloomberght.com/anthropic-in-yilliklandirilmis-geliri-halka-arz-oncesi-65-milyar-dolari-asti-3785741",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-18082026-3785740",
@@ -1184,8 +1185,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:39b93093cd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:698215aa0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:698215aa0d9e8:0",
         "tradingview:fxstreet:39b93093cd9e8:0",
         "tradingview:fxstreet:1ed45788fd9e8:0",
         "tradingview:matriks:6679260:0",
@@ -1684,8 +1686,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44E03I:0",
         "tradingview:matriks:6676370:0",
         "tradingview:matriks:6676367:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44E03H:0",
-        "tradingview:matriks:6676363:0"
+        "tradingview:tag:reuters.com,2026:newsml_L8N44E03H:0"
       ]
     },
     "forexfactory": {
@@ -1698,6 +1699,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi guvenli liman talebiyle konumunu koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:698215aa0d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ekonomi siyaset gundemi 18 agustos 2026 ekonomi siyaset gundeminde one c kanlar",
+      "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-18-agustos-2026-3785743"
+    },
     {
       "source": "investing",
       "text": "dayone singapur veri merkezi 530 milyon dolarl k kredi ald",
@@ -9187,16 +9198,6 @@
       "source": "tradingview",
       "text": "uluslararas piyasalar bulteni qnb invest",
       "link": "https://tr.tradingview.com/news/matriks:6676449:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "viop gunluk bulten gedik yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6676448:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "sabah bulteni tfg istanbul menkul degerler",
-      "link": "https://tr.tradingview.com/news/matriks:6676446:0"
     }
   ]
 }
