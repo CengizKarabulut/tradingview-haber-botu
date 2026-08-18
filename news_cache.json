@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1651950",
+      "last_seen_key": "kap:1651953",
       "seen_keys": [
+        "kap:1651953",
+        "kap:1651952",
         "kap:1651950",
         "kap:1651949",
         "kap:1651948",
@@ -53,7 +55,6 @@
         "kap:1651863",
         "kap:1651862",
         "kap:1651856",
-        "kap:1651855",
         "kap:1651854",
         "kap:1651853",
         "kap:1651852",
@@ -93,6 +94,7 @@
         "kap:1651814",
         "kap:1651813",
         "kap:1651812",
+        "kap:1651855",
         "kap:1651811",
         "kap:1651810",
         "kap:1651870",
@@ -501,9 +503,7 @@
         "kap:1651235",
         "kap:1651232",
         "kap:1651230",
-        "kap:1651228",
-        "kap:1651227",
-        "kap:1651225"
+        "kap:1651228"
       ]
     },
     "bloomberght": {
@@ -1203,8 +1203,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6680599:0",
+      "last_seen_key": "tradingview:fxstreet:1701d97b0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:1701d97b0d9e8:0",
         "tradingview:matriks:6680599:0",
         "tradingview:matriks:6680583:0",
         "tradingview:matriks:6680575:0",
@@ -1703,8 +1704,7 @@
         "tradingview:fxstreet:e04440f55d9e8:0",
         "tradingview:fxstreet:ab5d4bd07d9e8:0",
         "tradingview:matriks:6677662:0",
-        "tradingview:fxstreet:7a8befa70d9e8:0",
-        "tradingview:matriks:6677659:0"
+        "tradingview:fxstreet:7a8befa70d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1718,6 +1718,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n fiyat analizi xau usd abd getirilerinin rallisiyle 4 400 alt na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:1701d97b0d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "ayes ozel durum ac klamas genel bagl ortakl g m z n yeniden yap land r lmas na iliskin yonetim kurulu karar sirket ayes celik hasir cit sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651953"
+    },
+    {
+      "source": "kap",
+      "text": "zgyo pay baz nda devre kesici bildirimi zgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1651952"
+    },
     {
       "source": "tradingview",
       "text": "netas bagl ortakl g netas bilisim teknolojileri hava ulas m sektorunde faaliyet gosteren musteri toplam bedeli15 071 690 abd dolar olan sozlesme imzalad",
@@ -9202,21 +9217,6 @@
       "source": "kap",
       "text": "marka esas sozlesme tadili unvan degisikligi tescili ilan hakk nda sirket marka yatirim holding a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651124"
-    },
-    {
-      "source": "kap",
-      "text": "marka bag ms z denetim kurulusunun belirlenmesi bag ms z denetim sirketi secimi tescil ilan hakk nda sirket marka yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651123"
-    },
-    {
-      "source": "kap",
-      "text": "marka genel kurul islemlerine iliskin bildirim 2025 y l olagan genel kurul toplant s sonuclar n n tescili ilan hakk nda sirket marka yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651122"
-    },
-    {
-      "source": "kap",
-      "text": "kervn bag ms z denetim kurulusunun belirlenmesi bag ms z denetim firmas n n olagan genel kurul kabul edilmesi hakk nda sirket kervansaray yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651121"
     }
   ]
 }
