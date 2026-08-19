@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652470",
+      "last_seen_key": "kap:1652473",
       "seen_keys": [
+        "kap:1652473",
+        "kap:1652471",
         "kap:1652470",
         "kap:1652464",
         "kap:1652463",
@@ -998,8 +1000,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:16d29ec95d9e8:0",
+      "last_seen_key": "tradingview:matriks:6683044:0",
       "seen_keys": [
+        "tradingview:matriks:6683044:0",
+        "tradingview:matriks:6683043:0",
+        "tradingview:fxstreet:1d4b77428d9e8:0",
+        "tradingview:matriks:6683026:0",
+        "tradingview:matriks:6683023:0",
+        "tradingview:matriks:6683022:0",
+        "tradingview:matriks:6683014:0",
+        "tradingview:fxstreet:d77256a13d9e8:0",
         "tradingview:fxstreet:16d29ec95d9e8:0",
         "tradingview:matriks:6682986:0",
         "tradingview:matriks:6682973:0",
@@ -1491,15 +1501,7 @@
         "tradingview:matriks:6680509:0",
         "tradingview:matriks:6680499:0",
         "tradingview:fxstreet:93e405e50d9e8:0",
-        "tradingview:beincrypto:48002d441d9e8:0",
-        "tradingview:fxstreet:c052d48c7d9e8:0",
-        "tradingview:matriks:6680478:0",
-        "tradingview:fxstreet:4e0cce7eed9e8:0",
-        "tradingview:matriks:6680457:0",
-        "tradingview:cointelegraph:c6ce1e870d9e8:0",
-        "tradingview:fxstreet:959d0cc1fd9e8:0",
-        "tradingview:matriks:6680455:0",
-        "tradingview:matriks:6680454:0"
+        "tradingview:beincrypto:48002d441d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1514,6 +1516,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guncelleme ozel haber bilanco sezonunda su ana kadar ac klanan sonuclar n beklenti performans",
+      "link": "https://tr.tradingview.com/news/matriks:6683044:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "mlpcare aday gmy gelisim program iki uluslararas basar ya birden imza att",
+      "link": "https://tr.tradingview.com/news/matriks:6683043:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti abd iran bar s belirsizligi nedeniyle artan arz riskleriyle 84 50 civar nda tutunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:1d4b77428d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bcg nin gelistirdigi canl l k endeksi sirketlerin surdurulebilir buyume potansiyelini belirliyor",
+      "link": "https://tr.tradingview.com/news/matriks:6683026:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro bolgesi haziran ay md cari islemler dengesi 35 10 milyar euro onceki 25 10 milyar euro",
+      "link": "https://tr.tradingview.com/news/matriks:6683023:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro bolgesi haziran ay cari islemler dengesi 46 90 milyar euro onceki 6 20 milyar euro",
+      "link": "https://tr.tradingview.com/news/matriks:6683022:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb 20 agustos valorlu 1 hafta vadeli 500 milyon dolar tutar nda doviz kars l g tl swap ihalesi act",
+      "link": "https://tr.tradingview.com/news/matriks:6683014:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro getiriler abd dolar kars s nda istikrar kazan rken toparlanmas n surduruyor danske bank",
+      "link": "https://tr.tradingview.com/news/fxstreet:d77256a13d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "bigch genel kurul islemlerine iliskin bildirim olaganustu genel kurul karar n n tescili sirket buyuk sefler gida turizm tekstil danismanlik organizasyon egitim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652473"
+    },
+    {
+      "source": "kap",
+      "text": "bigch kay tl sermaye tavan islemlerine iliskin bildirim kay tl sermaye tavan n n olaganustu genel kurulda onaylanmas sirket buyuk sefler gida turizm tekstil danismanlik organizasyon egitim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652471"
+    },
     {
       "source": "tradingview",
       "text": "usd cad fiyat analizi sat c lar 1 3900 reddedilmenin ard ndan 1 3850 destegine bak yor",
@@ -8963,56 +9015,6 @@
       "source": "investing",
       "text": "ekf diagnostics 200 000 hisseyi ortalama 25 125p den geri ald",
       "link": "https://tr.investing.com/news/company-news/ekf-diagnostics-200000-hisseyi-ortalama-25125pden-geri-ald-93CH-4033879"
-    },
-    {
-      "source": "investing",
-      "text": "ingiltere ucret art s yuzde 3 5 te sabit kald",
-      "link": "https://tr.investing.com/news/economic-indicators/ingilterede-ucret-arts-yuzde-35te-sabit-kald-4033878"
-    },
-    {
-      "source": "investing",
-      "text": "diageo eski p g beauty ceo sunu yonetim kuruluna atad",
-      "link": "https://tr.investing.com/news/company-news/diageo-eski-pg-beauty-ceosunu-yonetim-kuruluna-atad-93CH-4033873"
-    },
-    {
-      "source": "investing",
-      "text": "seraphim space uydu bluetooth firmas hubble a 30 milyon dolar yat rd",
-      "link": "https://tr.investing.com/news/company-news/seraphim-space-uydu-bluetooth-firmas-hubblea-30-milyon-dolar-yatrd-93CH-4033871"
-    },
-    {
-      "source": "investing",
-      "text": "fresnillo 2026 ara temettusu doviz kurunu belirledi",
-      "link": "https://tr.investing.com/news/company-news/fresnillo-2026-ara-temettusu-icin-doviz-kurunu-belirledi-93CH-4033863"
-    },
-    {
-      "source": "investing",
-      "text": "milky mist hindistan 30 yukseldi 1 5 milyar dolara ulast",
-      "link": "https://tr.investing.com/news/stock-market-news/milky-mist-hindistanda-30-yukseldi-15-milyar-dolara-ulast-93CH-4033860"
-    },
-    {
-      "source": "investing",
-      "text": "hisense home appliances hissesi neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/hisense-home-appliances-hissesi-neden-dusuyor-93CH-4033859"
-    },
-    {
-      "source": "investing",
-      "text": "rhi magnesita yeni ceo sunu ac klad",
-      "link": "https://tr.investing.com/news/company-news/rhi-magnesita-yeni-ceosunu-acklad-93CH-4033858"
-    },
-    {
-      "source": "investing",
-      "text": "ten lifestyle group matt lindsey i icrac olmayan yonetici secti",
-      "link": "https://tr.investing.com/news/company-news/ten-lifestyle-group-matt-lindseyi-icrac-olmayan-yonetici-secti-93CH-4033844"
-    },
-    {
-      "source": "investing",
-      "text": "pulsar group hmrc vergi odemelerini gorusuyor",
-      "link": "https://tr.investing.com/news/company-news/pulsar-group-hmrc-ile-vergi-odemelerini-gorusuyor-93CH-4033840"
-    },
-    {
-      "source": "bloomberght",
-      "text": "ftse russell dan dikkat ceken turk hisseleri karar uluslararas endeks saglay c s ftse russell merkezi kay t kurulusu nun mkk fiili dolas m oran hesaplama metodolojisindeki degisiklikler nedeniyle turk hisse senetlerine yonelik baz endeks guncellemelerini erteledigini ac klad",
-      "link": "https://www.bloomberght.com/ftse-russell-dan-dikkat-ceken-turk-hisseleri-karari-3785761"
     }
   ]
 }
