@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653285",
+      "last_seen_key": "kap:1653287",
       "seen_keys": [
+        "kap:1653287",
+        "kap:1653286",
         "kap:1653285",
         "kap:1653284",
         "kap:1653283",
@@ -918,9 +920,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:a27307437d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:b405e1016d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:b405e1016d9e8:0",
         "tradingview:fxstreet:a27307437d9e8:0",
+        "tradingview:beincrypto:20b5e1e69d9e8:0",
         "tradingview:fxstreet:7e38bfc53d9e8:0",
         "tradingview:beincrypto:b7fdba4d9d9e8:0",
         "tradingview:fxstreet:12db234c5d9e8:0",
@@ -1417,9 +1421,7 @@
         "tradingview:fxstreet:10047ffa5d9e8:0",
         "tradingview:matriks:6682353:0",
         "tradingview:matriks:6682350:0",
-        "tradingview:matriks:6682347:0",
-        "tradingview:matriks:6682331:0",
-        "tradingview:fxstreet:851265c91d9e8:0"
+        "tradingview:matriks:6682347:0"
       ]
     },
     "forexfactory": {
@@ -1435,6 +1437,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gbp jpy fiyat analizi sat c lar 50 gunluk sma n n alt nda kontrolu ele al yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b405e1016d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "kutpo sorumluluk beyan konsolide 2026 y l 2 donem 3 ayl k bildirim sorumluluk beyan sirket kutahya porselen sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653287"
+    },
+    {
+      "source": "kap",
+      "text": "kutpo faaliyet raporu konsolide 2026 y l 2 donem 3 ayl k bildirim faaliyet raporu sirket kutahya porselen sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653286"
+    },
     {
       "source": "investing",
       "text": "block yoneticisi eisen 1 44 milyon dolarl k hisse satt",
@@ -8919,21 +8936,6 @@
       "source": "investing",
       "text": "borgwarner evp tonit calaway 3 06 milyon dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/borgwarner-evp-tonit-calaway-306-milyon-dolarlk-hisse-satt-93CH-4035204"
-    },
-    {
-      "source": "investing",
-      "text": "trump fda baskanl g adaylarla gorusuyor bloomberg",
-      "link": "https://tr.investing.com/news/economy-news/trump-fda-baskanlg-icin-adaylarla-gorusuyor--bloomberg-93CH-4035201"
-    },
-    {
-      "source": "bloomberght",
-      "text": "rusya ukrayna savas enerji faturam z 100 milyar dolara c kard ticaret bakan omer bolat rusya ukrayna savas n n etkisiyle turkiye nin enerji ithalat faturas n n 100 milyar dolara c kt g n belirterek y lda 50 milyar dolarl k ek art s yasand g n soyledi",
-      "link": "https://www.bloomberght.com/rusya-ukrayna-savasi-enerji-faturamizi-100-milyar-dolara-cikardi-3785815"
-    },
-    {
-      "source": "kap",
-      "text": "dokta sirket genel bilgi formu sirket doktas dokumculuk ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652396"
     }
   ]
 }
