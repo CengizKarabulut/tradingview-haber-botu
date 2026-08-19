@@ -229,8 +229,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/altin-fed-tutanaklari-oncesi-hafif-yukseldi-3785823",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/hurmuz-bogazinda-gemi-trafigi-yavasladi-3785825",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/hurmuz-bogazinda-gemi-trafigi-yavasladi-3785825",
         "bloomberght:https://www.bloomberght.com/altin-fed-tutanaklari-oncesi-hafif-yukseldi-3785823",
         "bloomberght:https://www.bloomberght.com/petrol-arz-endiseleriyle-yukselmeye-devam-ediyor-3785822",
         "bloomberght:https://www.bloomberght.com/trump-kanada-ya-uygulanmasi-planlanan-tarifeyi-3-gunlugune-askiya-aldi-3785821",
@@ -924,8 +925,20 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6682301:0",
+      "last_seen_key": "tradingview:matriks:6682331:0",
       "seen_keys": [
+        "tradingview:matriks:6682331:0",
+        "tradingview:fxstreet:851265c91d9e8:0",
+        "tradingview:matriks:6682316:0",
+        "tradingview:matriks:6682317:0",
+        "tradingview:matriks:6682314:0",
+        "tradingview:matriks:6682315:0",
+        "tradingview:matriks:6682313:0",
+        "tradingview:matriks:6682312:0",
+        "tradingview:matriks:6682300:0",
+        "tradingview:matriks:6682305:0",
+        "tradingview:matriks:6682293:0",
+        "tradingview:matriks:6682294:0",
         "tradingview:matriks:6682301:0",
         "tradingview:matriks:6682299:0",
         "tradingview:matriks:6682295:0",
@@ -952,10 +965,12 @@
         "tradingview:matriks:6682279:0",
         "tradingview:matriks:6682278:0",
         "tradingview:matriks:6682281:0",
+        "tradingview:cointelegraph:251ef1c94d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44G04Y:0",
         "tradingview:fxstreet:ce4798cddd9e8:0",
         "tradingview:fxstreet:90d737560d9e8:0",
         "tradingview:fxstreet:b0777356ad9e8:0",
+        "tradingview:beincrypto:5f8b5920bd9e8:0",
         "tradingview:fxstreet:61de26842d9e8:0",
         "tradingview:fxstreet:c6f8baf31d9e8:0",
         "tradingview:beincrypto:5b635c668d9e8:0",
@@ -1411,21 +1426,7 @@
         "tradingview:matriks:6679713:0",
         "tradingview:matriks:6679710:0",
         "tradingview:matriks:6679709:0",
-        "tradingview:matriks:6679708:0",
-        "tradingview:matriks:6679706:0",
-        "tradingview:matriks:6679705:0",
-        "tradingview:matriks:6679597:0",
-        "tradingview:matriks:6679595:0",
-        "tradingview:matriks:6679594:0",
-        "tradingview:matriks:6679593:0",
-        "tradingview:matriks:6679592:0",
-        "tradingview:matriks:6679590:0",
-        "tradingview:matriks:6679588:0",
-        "tradingview:matriks:6679585:0",
-        "tradingview:matriks:6679583:0",
-        "tradingview:matriks:6679578:0",
-        "tradingview:matriks:6679574:0",
-        "tradingview:matriks:6679575:0"
+        "tradingview:matriks:6679708:0"
       ]
     },
     "forexfactory": {
@@ -1439,6 +1440,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yurt ici piyasa bulteni unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6682331:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar trump n 50 gumruk tariflerini duraklatmas abd dolar n n fomc tutanaklar oncesinde gerilemesiyle gucleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:851265c91d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya haziran ay makina siparisleri ayl k 9 7 beklenti 7 8 onceki 12 4",
+      "link": "https://tr.tradingview.com/news/matriks:6682316:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya haziran ay makina siparisleri y ll k 16 9 beklenti 10 8 onceki 1 9",
+      "link": "https://tr.tradingview.com/news/matriks:6682317:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd haftal k benzin stoklar 1 08 milyon varil api",
+      "link": "https://tr.tradingview.com/news/matriks:6682314:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd haftal k dam t lm s urun stoklar 2 78 milyon varil api",
+      "link": "https://tr.tradingview.com/news/matriks:6682315:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd haftal k ham petrol stoklar 0 33 milyon varil api",
+      "link": "https://tr.tradingview.com/news/matriks:6682313:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar kapan s raporu is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682312:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "agrotech paylar nda toptan al s sat s islemi bugun gerceklestirilecek",
+      "link": "https://tr.tradingview.com/news/matriks:6682300:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "blume metal kare 1 gunes enerjisi uretim sirketini devretti",
+      "link": "https://tr.tradingview.com/news/matriks:6682305:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cw enerji pay sahiplerinden tar k sarvan taraf ndan sirket hesaplar na sermaye avans aktar ld",
+      "link": "https://tr.tradingview.com/news/matriks:6682293:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "e data n n uc ortag zorunlu pay al m teklifinde bulunma yukumlulugu kapsam nda spk na basvuruda bulundu",
+      "link": "https://tr.tradingview.com/news/matriks:6682294:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "hurmuz bogaz nda gemi trafigi yavaslad hurmuz bogaz ndan gemi gecisleri iran savas n n ard ndan uygulanan ablukadan bogaz n zaman nas l yeniden ac lacag na iliskin belirsizlik nedeniyle carsamba gunu yavaslad",
+      "link": "https://www.bloomberght.com/hurmuz-bogazinda-gemi-trafigi-yavasladi-3785825"
+    },
     {
       "source": "tradingview",
       "text": "efor capital teknoloji uluslararas yat r m kurulusu aras nda pay sat s turev islemi gerceklestirilecek",
@@ -8873,71 +8939,6 @@
       "source": "investing",
       "text": "cisco baskan patel 799 928 dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/cisco-baskan-patel-799928-dolarlk-hisse-satt-93CH-4033652"
-    },
-    {
-      "source": "investing",
-      "text": "atn international yoneticisi 80 959 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/atn-international-yoneticisi-80959-dolarlk-hisse-satt-93CH-4033651"
-    },
-    {
-      "source": "investing",
-      "text": "mitek systems aaron seyler i gelir muduru olarak atad",
-      "link": "https://tr.investing.com/news/company-news/mitek-systems-aaron-seyleri-gelir-muduru-olarak-atad-93CH-4033650"
-    },
-    {
-      "source": "investing",
-      "text": "andersen group hisseleri ikincil arzla yuzde 4 3 dustu",
-      "link": "https://tr.investing.com/news/stock-market-news/andersen-group-hisseleri-ikincil-arzla-yuzde-43-dustu-93CH-4033649"
-    },
-    {
-      "source": "investing",
-      "text": "new era 2c26 tahminlerini kac rd veri merkezi plan ilerliyor",
-      "link": "https://tr.investing.com/news/transcripts/new-era-2c26-tahminlerini-kacrd-veri-merkezi-plan-ilerliyor-93CH-4033648"
-    },
-    {
-      "source": "investing",
-      "text": "amylyx hisseleri faz 3 deneme sonuc tarihiyle yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/amylyx-hisseleri-faz-3-deneme-sonuc-tarihiyle-yukseldi-93CH-4033646"
-    },
-    {
-      "source": "investing",
-      "text": "kura oncology hisseleri ceo nun iceriden al m yla yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/kura-oncology-hisseleri-ceonun-iceriden-almyla-yukseldi-93CH-4033645"
-    },
-    {
-      "source": "investing",
-      "text": "bofa kanzhun hissesi tarafs z notla kapsama baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/bofa-kanzhun-hissesi-icin-tarafsz-notla-kapsama-baslatt-93CH-4033644"
-    },
-    {
-      "source": "investing",
-      "text": "bofa definium hissesi al onerisiyle kapsama baslad",
-      "link": "https://tr.investing.com/news/analyst-ratings/bofa-definium-hissesi-icin-al-onerisiyle-kapsama-baslad-93CH-4033643"
-    },
-    {
-      "source": "investing",
-      "text": "hni corporation ceyreklik 35 sent temettu ac klad",
-      "link": "https://tr.investing.com/news/company-news/hni-corporation-ceyreklik-35-sent-temettu-acklad-93CH-4033642"
-    },
-    {
-      "source": "investing",
-      "text": "bunge 2031 vadeli 600 milyon dolarl k tahvil ihrac fiyatlad",
-      "link": "https://tr.investing.com/news/company-news/bunge-2031-vadeli-600-milyon-dolarlk-tahvil-ihrac-fiyatlad-93CH-4033641"
-    },
-    {
-      "source": "investing",
-      "text": "bxp ortakl g 2036 vadeli 700 milyon dolarl k tahvil satacak",
-      "link": "https://tr.investing.com/news/company-news/bxp-ortaklg-2036-vadeli-700-milyon-dolarlk-tahvil-satacak-93CH-4033640"
-    },
-    {
-      "source": "investing",
-      "text": "royalty pharma cfo su 645 bin dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/royalty-pharma-cfosu-645-bin-dolarlk-hisse-satt-93CH-4033638"
-    },
-    {
-      "source": "investing",
-      "text": "anterix ceo su scott lang 3 16 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/anterix-ceosu-scott-lang-316-milyon-dolarlk-hisse-satt-93CH-4033637"
     }
   ]
 }
