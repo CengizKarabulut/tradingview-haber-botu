@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652406",
+      "last_seen_key": "kap:1652410",
       "seen_keys": [
+        "kap:1652410",
+        "kap:1652409",
+        "kap:1652408",
+        "kap:1652407",
         "kap:1652406",
         "kap:1652405",
         "kap:1652404",
@@ -292,18 +296,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/sensirion-ilk-yar-kar-82-artarken-2026-tahminini-yukseltti-93CH-4035512",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/jyske-bank-ilk-yarda-hisse-basna-39-dkk-kazanc-bildirdi-93CH-4035536",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/stock-market-news/sensirion-ilk-yar-kar-82-artarken-2026-tahminini-yukseltti-93CH-4035512",
-        "investing:https://tr.investing.com/news/stock-market-news/leroy-seafood-2c-kazanc-dusmesine-ragmen-rehberini-yukseltti-93CH-4035511",
-        "investing:https://tr.investing.com/news/stock-market-news/rba-enflasyon-riskleri-gerceklesirse-faizleri-tekrar-artrabilir-93CH-4035509",
-        "investing:https://tr.investing.com/news/stock-market-news/wisetech-global-hisseleri-neden-dusuyor-93CH-4035508",
-        "investing:https://tr.investing.com/news/stock-market-news/pan-pacific-international-hisseleri-neden-dusuyor-93CH-4035507",
-        "investing:https://tr.investing.com/news/stock-market-news/asya-borsalar-cip-satslaryla-dustu-kospi-5-geriledi-4035506",
-        "investing:https://tr.investing.com/news/stock-market-news/softbank-group-hissesi-neden-dusuyor-93CH-4035503",
-        "investing:https://tr.investing.com/news/stock-market-news/santos-hissesi-bugun-neden-yukseliste-93CH-4035502",
-        "investing:https://tr.investing.com/news/stock-market-news/sk-hynix-sendikas-on-ucret-anlasmasn-tamamlyor-reuters-93CH-4035501",
-        "investing:https://tr.investing.com/news/company-news/kkr-bookmyshowda-aznlk-hissesi-ald-93CH-4035500",
+        "investing:https://tr.investing.com/news/company-news/jyske-bank-ilk-yarda-hisse-basna-39-dkk-kazanc-bildirdi-93CH-4035536",
+        "investing:https://tr.investing.com/news/insider-trading-news/bloom-energy-cco-aman-joshi-113-milyon-dolarlk-hisse-satt-93CH-4035535",
+        "investing:https://tr.investing.com/news/stock-market-news/idun-industrier-satn-almalarla-2-ceyrekte-yuzde-127-buyudu-93CH-4035534",
+        "investing:https://tr.investing.com/news/stock-market-news/xplora-2c-gelir-tahminlerini-kacrd-93CH-4035533",
+        "investing:https://tr.investing.com/news/stock-market-news/elmerann-2c-duzeltilmis-net-geliri-artt-93CH-4035532",
+        "investing:https://tr.investing.com/news/stock-market-news/geberit-ilk-yarda-kur-etkisinden-arndrlms-satslar-59-artrd-93CH-4035531",
+        "investing:https://tr.investing.com/news/stock-market-news/austevoll-seafoodun-2c-geliri-somon-hacmindeki-dususle-beklentiyi-karslamad-93CH-4035530",
+        "investing:https://tr.investing.com/news/stock-market-news/ambeann-2c-net-satslar-7-artt-beklentileri-ast-93CH-4035525",
+        "investing:https://tr.investing.com/news/stock-market-news/llb-2026-ilk-yarsnda-karn-yuzde-15-artrd-93CH-4035524",
+        "investing:https://tr.investing.com/news/stock-market-news/zaptec-elektrikli-arac-talebiyle-rekor-2-ceyrek-geliri-acklad-93CH-4035522",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -324,6 +328,16 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/stock-market-news/sensirion-ilk-yar-kar-82-artarken-2026-tahminini-yukseltti-93CH-4035512",
+        "investing:https://tr.investing.com/news/stock-market-news/leroy-seafood-2c-kazanc-dusmesine-ragmen-rehberini-yukseltti-93CH-4035511",
+        "investing:https://tr.investing.com/news/stock-market-news/rba-enflasyon-riskleri-gerceklesirse-faizleri-tekrar-artrabilir-93CH-4035509",
+        "investing:https://tr.investing.com/news/stock-market-news/wisetech-global-hisseleri-neden-dusuyor-93CH-4035508",
+        "investing:https://tr.investing.com/news/stock-market-news/pan-pacific-international-hisseleri-neden-dusuyor-93CH-4035507",
+        "investing:https://tr.investing.com/news/stock-market-news/asya-borsalar-cip-satslaryla-dustu-kospi-5-geriledi-4035506",
+        "investing:https://tr.investing.com/news/stock-market-news/softbank-group-hissesi-neden-dusuyor-93CH-4035503",
+        "investing:https://tr.investing.com/news/stock-market-news/santos-hissesi-bugun-neden-yukseliste-93CH-4035502",
+        "investing:https://tr.investing.com/news/stock-market-news/sk-hynix-sendikas-on-ucret-anlasmasn-tamamlyor-reuters-93CH-4035501",
+        "investing:https://tr.investing.com/news/company-news/kkr-bookmyshowda-aznlk-hissesi-ald-93CH-4035500",
         "investing:https://tr.investing.com/news/stock-market-news/xiaomi-hisseleri-2c-kazanc-sonras-yukseldi-4035498",
         "investing:https://tr.investing.com/news/insider-trading-news/exponent-ceosu-catherine-corrigan-113135-dolar-degerinde-hisse-satt-93CH-4035496",
         "investing:https://tr.investing.com/news/insider-trading-news/lumentum-evp-289-milyon-dolarlk-hisse-satt-93CH-4035494",
@@ -783,17 +797,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/taiyo-yuden-hisseleri-dustu-situational-awareness-agustosta-payn-azaltt-4033774",
         "investing:https://tr.investing.com/news/stock-market-news/brookfieldn-25-milyar-dolarlk-teklifi-sonras-rwc-hisseleri-frlad-4033772",
         "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-fed-gorunumu-ve-abdiran-gerilimiyle-yon-aryor-4033770",
-        "investing:https://tr.investing.com/news/stock-market-news/psp-swiss-propertynin-ilk-yar-kar-sats-ve-yeniden-degerlemelerle-artt-93CH-4033768",
-        "investing:https://tr.investing.com/news/stock-market-news/skan-ilk-yarda-satslarn-22-artrd-kara-dondu-93CH-4033767",
-        "investing:https://tr.investing.com/news/stock-market-news/chow-sang-sang-hissesi-bugun-neden-yukseliste-93CH-4033765",
-        "investing:https://tr.investing.com/news/stock-market-news/eqt-holdings-hissesi-bugun-neden-yukseliyor-93CH-4033764",
-        "investing:https://tr.investing.com/news/company-news/ecopetrol-bravadaki-51-hisseyi-12-milyar-dolara-ald-93CH-4033763",
-        "investing:https://tr.investing.com/news/stock-market-news/avustralyann-eqt-holdings-sirketi-tpg-globaldan-468-milyon-dolarlk-devralma-teklifi-ald-93CH-4033762",
-        "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-petrol-ve-tahvil-faizleriyle-geriledi-4033760",
-        "investing:https://tr.investing.com/news/company-news/copart-yonetim-kuruluna-david-bergeri-atad-93CH-4033757",
-        "investing:https://tr.investing.com/news/stock-market-news/microsoft-ve-salesforce-darwinbox-satn-almak-istiyor-93CH-4033753",
-        "investing:https://tr.investing.com/news/stock-market-news/googlen-cindeki-pixel-uretimini-2027de-sonlandrma-plan-4033751",
-        "investing:https://tr.investing.com/news/stock-market-news/bhp-hisseleri-neden-yukseliste-93CH-4033748"
+        "investing:https://tr.investing.com/news/stock-market-news/psp-swiss-propertynin-ilk-yar-kar-sats-ve-yeniden-degerlemelerle-artt-93CH-4033768"
       ]
     },
     "ntvpara": {
@@ -930,12 +934,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44G08A:0",
+      "last_seen_key": "tradingview:fxstreet:f709e1ad0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:f709e1ad0d9e8:0",
+        "tradingview:matriks:6682434:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44G09Y:0",
+        "tradingview:fxstreet:887c55adfd9e8:0",
+        "tradingview:matriks:6682431:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44G08A:0",
+        "tradingview:cointelegraph:b5cdf9506d9e8:0",
         "tradingview:matriks:6682417:0",
         "tradingview:matriks:6682416:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44G09L:0",
+        "tradingview:beincrypto:0d608dc45d9e8:0",
         "tradingview:matriks:6682401:0",
         "tradingview:matriks:6682400:0",
         "tradingview:fxstreet:ce4798cddd9e8:0",
@@ -1424,14 +1435,7 @@
         "tradingview:matriks:6679830:0",
         "tradingview:matriks:6679827:0",
         "tradingview:matriks:6679822:0",
-        "tradingview:matriks:6679821:0",
-        "tradingview:matriks:6679820:0",
-        "tradingview:matriks:6679817:0",
-        "tradingview:matriks:6679816:0",
-        "tradingview:fxstreet:d853d49d1d9e8:0",
-        "tradingview:matriks:6679813:0",
-        "tradingview:matriks:6679810:0",
-        "tradingview:matriks:6679809:0"
+        "tradingview:matriks:6679821:0"
       ]
     },
     "forexfactory": {
@@ -1446,6 +1450,101 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hindistan rupisi abd dolar kars s nda iki haftal k kay plar n koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f709e1ad0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi ulker phillipcapital",
+      "link": "https://tr.tradingview.com/news/matriks:6682434:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz tahvil petrol alt n",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44G09Y:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur usd fiyat analizi 1 1550 nin uzerinde guc topluyor yukselis gorunumu bozulmadan devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:887c55adfd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sabah bulteni tfg istanbul menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6682431:0"
+    },
+    {
+      "source": "investing",
+      "text": "jyske bank ilk yar hisse bas na 39 dkk kazanc bildirdi",
+      "link": "https://tr.investing.com/news/company-news/jyske-bank-ilk-yarda-hisse-basna-39-dkk-kazanc-bildirdi-93CH-4035536"
+    },
+    {
+      "source": "investing",
+      "text": "bloom energy cco aman joshi 1 13 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/bloom-energy-cco-aman-joshi-113-milyon-dolarlk-hisse-satt-93CH-4035535"
+    },
+    {
+      "source": "investing",
+      "text": "idun industrier sat n almalarla 2 ceyrekte yuzde 12 7 buyudu",
+      "link": "https://tr.investing.com/news/stock-market-news/idun-industrier-satn-almalarla-2-ceyrekte-yuzde-127-buyudu-93CH-4035534"
+    },
+    {
+      "source": "investing",
+      "text": "xplora 2c gelir tahminlerini kac rd",
+      "link": "https://tr.investing.com/news/stock-market-news/xplora-2c-gelir-tahminlerini-kacrd-93CH-4035533"
+    },
+    {
+      "source": "investing",
+      "text": "elmera n n 2c duzeltilmis net geliri artt",
+      "link": "https://tr.investing.com/news/stock-market-news/elmerann-2c-duzeltilmis-net-geliri-artt-93CH-4035532"
+    },
+    {
+      "source": "investing",
+      "text": "geberit ilk yar kur etkisinden ar nd r lm s sat slar 5 9 art rd",
+      "link": "https://tr.investing.com/news/stock-market-news/geberit-ilk-yarda-kur-etkisinden-arndrlms-satslar-59-artrd-93CH-4035531"
+    },
+    {
+      "source": "investing",
+      "text": "austevoll seafood un 2c geliri somon hacmindeki dususle beklentiyi kars lamad",
+      "link": "https://tr.investing.com/news/stock-market-news/austevoll-seafoodun-2c-geliri-somon-hacmindeki-dususle-beklentiyi-karslamad-93CH-4035530"
+    },
+    {
+      "source": "investing",
+      "text": "ambea n n 2c net sat slar 7 artt beklentileri ast",
+      "link": "https://tr.investing.com/news/stock-market-news/ambeann-2c-net-satslar-7-artt-beklentileri-ast-93CH-4035525"
+    },
+    {
+      "source": "investing",
+      "text": "llb 2026 ilk yar s nda kar n yuzde 15 art rd",
+      "link": "https://tr.investing.com/news/stock-market-news/llb-2026-ilk-yarsnda-karn-yuzde-15-artrd-93CH-4035524"
+    },
+    {
+      "source": "investing",
+      "text": "zaptec elektrikli arac talebiyle rekor 2 ceyrek geliri ac klad",
+      "link": "https://tr.investing.com/news/stock-market-news/zaptec-elektrikli-arac-talebiyle-rekor-2-ceyrek-geliri-acklad-93CH-4035522"
+    },
+    {
+      "source": "kap",
+      "text": "bvsan kat l m finans ilkeleri bilgi formu sirket bulbuloglu vinc sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652410"
+    },
+    {
+      "source": "kap",
+      "text": "klrho faaliyet raporu konsolide yonetim kurulu faaliyet raporu sirket kiler holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652409"
+    },
+    {
+      "source": "kap",
+      "text": "klrho finansal rapor sirket kiler holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652408"
+    },
+    {
+      "source": "kap",
+      "text": "klrho sorumluluk beyan konsolide sorumluluk beyan sirket kiler holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652407"
+    },
     {
       "source": "tradingview",
       "text": "torunlar gyo q2 4 2 mlyr tl net kar etti gecen y l ayn donem 4 6 mlyr tl net kar",
@@ -8850,101 +8949,6 @@
       "source": "investing",
       "text": "rga evp si kuresel risk direktoru 2 1 milyon dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/rga-evpsi-ve-kuresel-risk-direktoru-21-milyon-dolarlk-hisse-satt-93CH-4033718"
-    },
-    {
-      "source": "investing",
-      "text": "dkl evp reuven spiegel 50 000 dolarl k hisse sat n ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/dkl-evp-reuven-spiegel-50000-dolarlk-hisse-satn-ald-93CH-4033717"
-    },
-    {
-      "source": "investing",
-      "text": "delek logistics evp mark hobbs 200 000 dolarl k hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/delek-logistics-evp-mark-hobbs-200000-dolarlk-hisse-ald-93CH-4033716"
-    },
-    {
-      "source": "investing",
-      "text": "delek logistics baskan 300 000 dolarl k hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/delek-logistics-baskan-300000-dolarlk-hisse-ald-93CH-4033715"
-    },
-    {
-      "source": "investing",
-      "text": "hilltop holdings yoneticisi bobbitt 793 000 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/hilltop-holdings-yoneticisi-bobbitt-793000-dolar-degerinde-hisse-satt-93CH-4033714"
-    },
-    {
-      "source": "investing",
-      "text": "csl hissesi bugun neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/csl-hissesi-bugun-neden-yukseliste-93CH-4033712"
-    },
-    {
-      "source": "investing",
-      "text": "pro medicus un y ll k kar abd sozlesmeleriyle 130 artt",
-      "link": "https://tr.investing.com/news/stock-market-news/pro-medicusun-yllk-kar-abd-sozlesmeleriyle-130-artt-93CH-4033711"
-    },
-    {
-      "source": "investing",
-      "text": "abd hisse senedi vadeli islemleri iran gerilimleri sonras sakin",
-      "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-iran-gerilimleri-sonras-sakin-4033713"
-    },
-    {
-      "source": "investing",
-      "text": "butterfly network yoneticisi larry robbins 20 6 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/butterfly-network-yoneticisi-larry-robbins-206-milyon-dolarlk-hisse-satt-93CH-4033709"
-    },
-    {
-      "source": "trthaber",
-      "text": "mikro ihracat kargolar n n hava yolu transit surecleri basitlestiriliyor ticaret bakanl g taraf ndan haz rlanan basitlestirilmis gumruk beyannamesi kapsam ndaki mikro ihracat kargolar n n hava yolu transit sureclerini basitlestirecek duzenleme bugun hayata geciriliyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/mikro-ihracat-kargolarinin-hava-yolu-transit-surecleri-basitlestiriliyor-954199.html"
-    },
-    {
-      "source": "investing",
-      "text": "cathie wood un ark roblox hissesi satt nvidia ald",
-      "link": "https://tr.investing.com/news/company-news/cathie-woodun-ark-roblox-hissesi-satt-nvidia-ald-93CH-4033692"
-    },
-    {
-      "source": "investing",
-      "text": "neonc technologies ceo su 58 579 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/neonc-technologies-ceosu-58579-dolar-degerinde-hisse-ald-93CH-4033691"
-    },
-    {
-      "source": "investing",
-      "text": "evercommerce hukuk muduru 170 bin dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/evercommerce-hukuk-muduru-170-bin-dolarlk-hisse-satt-93CH-4033688"
-    },
-    {
-      "source": "investing",
-      "text": "primerica baskan peter schneider 562 770 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/primerica-baskan-peter-schneider-562770-dolar-degerinde-hisse-satt-93CH-4033687"
-    },
-    {
-      "source": "investing",
-      "text": "doximity cao su siddharth sitaram 44 143 dolar degerinde a s n f hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/doximity-caosu-siddharth-sitaram-44143-dolar-degerinde-a-snf-hisse-satt-93CH-4033686"
-    },
-    {
-      "source": "investing",
-      "text": "goosehead insurance yoneticisi serena jones 16 875 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/goosehead-insurance-yoneticisi-serena-jones-16875-dolarlk-hisse-satt-93CH-4033685"
-    },
-    {
-      "source": "investing",
-      "text": "apollo global management cfo su kelly martin 422 535 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/apollo-global-management-cfosu-kelly-martin-422535-dolar-degerinde-hisse-satt-93CH-4033684"
-    },
-    {
-      "source": "investing",
-      "text": "brinker international evp 3 4 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/brinker-international-evp-34-milyon-dolarlk-hisse-satt-93CH-4033683"
-    },
-    {
-      "source": "investing",
-      "text": "podcastone yoneticisi d jonathan merriman 86 040 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/podcastone-yoneticisi-d-jonathan-merriman-86040-dolar-degerinde-hisse-ald-93CH-4033682"
-    },
-    {
-      "source": "investing",
-      "text": "servicetitan cfo su david sherry 817 470 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/servicetitan-cfosu-david-sherry-817470-dolar-degerinde-hisse-satt-93CH-4033681"
     }
   ]
 }
