@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652594",
+      "last_seen_key": "kap:1652607",
       "seen_keys": [
+        "kap:1652607",
+        "kap:1652606",
+        "kap:1652605",
+        "kap:1652604",
+        "kap:1652603",
+        "kap:1652600",
+        "kap:1652599",
         "kap:1652594",
         "kap:1652593",
         "kap:1652589",
@@ -686,10 +693,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6683980:0",
+      "last_seen_key": "tradingview:fxstreet:af3a74309d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:af3a74309d9e8:0",
+        "tradingview:matriks:6684012:0",
+        "tradingview:fxstreet:b8e43e530d9e8:0",
         "tradingview:matriks:6683980:0",
+        "tradingview:cointelegraph:4627e89a7d9e8:0",
         "tradingview:matriks:6683972:0",
+        "tradingview:cointelegraph:459573331d9e8:0",
         "tradingview:matriks:6683966:0",
         "tradingview:matriks:6683965:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44G0SL:0",
@@ -717,6 +729,7 @@
         "tradingview:fxstreet:fef683a73d9e8:0",
         "tradingview:matriks:6683832:0",
         "tradingview:matriks:6683831:0",
+        "tradingview:beincrypto:53f58f525d9e8:0",
         "tradingview:fxstreet:da9942c7fd9e8:0",
         "tradingview:fxstreet:f53d49cbcd9e8:0",
         "tradingview:matriks:6683782:0",
@@ -1181,13 +1194,7 @@
         "tradingview:matriks:6681382:0",
         "tradingview:matriks:6681384:0",
         "tradingview:matriks:6681375:0",
-        "tradingview:matriks:6681380:0",
-        "tradingview:matriks:6681379:0",
-        "tradingview:matriks:6681386:0",
-        "tradingview:matriks:6681371:0",
-        "tradingview:matriks:6681385:0",
-        "tradingview:matriks:6681377:0",
-        "tradingview:matriks:6681389:0"
+        "tradingview:matriks:6681380:0"
       ]
     },
     "forexfactory": {
@@ -1202,6 +1209,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro dusen abd hazine getirilerinin abd dolar uzerinde bask olusturmas yla haziran ay zirvelerine yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:af3a74309d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tar m emtia bulteni integral yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6684012:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar gelecek y la dogru s g yukselis trendi riski rabobank",
+      "link": "https://tr.tradingview.com/news/fxstreet:b8e43e530d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "alves yeni is iliskisi yeni is iliskisi sirket alves kablo sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652607"
+    },
+    {
+      "source": "kap",
+      "text": "dogvy pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfdgrvk2612 isin kodlu finansman bonosu kupon oran bildirimi sirket dogru varlik yonetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652606"
+    },
+    {
+      "source": "kap",
+      "text": "bayrk pay baz nda devre kesici bildirimi bayrk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652605"
+    },
+    {
+      "source": "kap",
+      "text": "akbnk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren xs3298828966 isin kodlu ilave ana sermayeye dahil edilebilir tahvilin kupon odemesi sirket akbank t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652604"
+    },
+    {
+      "source": "kap",
+      "text": "emvar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdemvk52731 isin kodlu kira sertifikas ihrac n n 1 kupon oran n n belirlenmesi hk sirket emlak varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652603"
+    },
+    {
+      "source": "kap",
+      "text": "ditas tsrs uyumlu surdurulebilirlik raporu 2025 tsrs uyumlu surdurulebilirlik raporu sirket ditas bdy yedek parca imalat teknik a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652600"
+    },
+    {
+      "source": "kap",
+      "text": "deva pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsdeva82629 isin kodlu tahvilin sekizinci kupon faiz oran hakk nda sirket deva holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652599"
+    },
     {
       "source": "tradingview",
       "text": "new york borsas yukselisle ac ld",
@@ -8651,56 +8708,6 @@
       "source": "investing",
       "text": "edp energias portugal hisseleri neden yukseliyor",
       "link": "https://tr.investing.com/news/stock-market-news/edp-energias-de-portugal-hisseleri-neden-yukseliyor-93CH-4034317"
-    },
-    {
-      "source": "investing",
-      "text": "diageo yeniden yap lanma surecinde is gucunu 6 dan fazla azaltt",
-      "link": "https://tr.investing.com/news/stock-market-news/diageo-yeniden-yaplanma-surecinde-is-gucunu-6dan-fazla-azaltt-93CH-4034316"
-    },
-    {
-      "source": "investing",
-      "text": "descartes gumruk komisyoncular yapay zeka destekli belge yonetimini baslatt",
-      "link": "https://tr.investing.com/news/company-news/descartes-gumruk-komisyoncular-icin-yapay-zeka-destekli-belge-yonetimini-baslatt-93CH-4034299"
-    },
-    {
-      "source": "investing",
-      "text": "eaton havac l k bolumu baskanl g na shawn black i atad",
-      "link": "https://tr.investing.com/news/company-news/eaton-havaclk-bolumu-baskanlgna-shawn-blacki-atad-93CH-4034298"
-    },
-    {
-      "source": "investing",
-      "text": "home depot hisseleri neden bugun yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/home-depot-hisseleri-neden-bugun-yukseliyor-93CH-4034297"
-    },
-    {
-      "source": "investing",
-      "text": "citi pozisyon riski k sa pozisyon kapamadan kar realizasyonuna kay yor",
-      "link": "https://tr.investing.com/news/stock-market-news/citi-pozisyon-riski-ksa-pozisyon-kapamadan-kar-realizasyonuna-kayyor-4034304"
-    },
-    {
-      "source": "investing",
-      "text": "bath body works hisseleri neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/bath--body-works-hisseleri-neden-yukseliyor-93CH-4034296"
-    },
-    {
-      "source": "investing",
-      "text": "barclays enliven therapeutics hissesini ag rl kl al baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/barclays-enliven-therapeutics-hissesini-agrlkl-al-ile-baslatt-93CH-4034295"
-    },
-    {
-      "source": "kap",
-      "text": "arfye pay baz nda devre kesici bildirimi arfye e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651955"
-    },
-    {
-      "source": "kap",
-      "text": "kfein ozel durum ac klamas genel bagl ortakl g m z apifort yaz l m guvenlik sistemleri a s nin sermaye art r m hakk nda sirket kafein yazilim hizmetleri ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651954"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n fiyat analizi xau usd abd getirilerinin rallisiyle 4 400 alt na geriledi",
-      "link": "https://tr.tradingview.com/news/fxstreet:1701d97b0d9e8:0"
     }
   ]
 }
