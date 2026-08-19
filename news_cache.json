@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652583",
+      "last_seen_key": "kap:1652588",
       "seen_keys": [
+        "kap:1652588",
+        "kap:1652586",
         "kap:1652583",
         "kap:1652582",
         "kap:1652581",
@@ -671,8 +673,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:53530d95dd9e8:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44G0SL:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L6N44G0SL:0",
+        "tradingview:fxstreet:cec42b5d3d9e8:0",
+        "tradingview:matriks:6683956:0",
+        "tradingview:matriks:6683952:0",
+        "tradingview:matriks:6683948:0",
+        "tradingview:matriks:6683946:0",
+        "tradingview:matriks:6683937:0",
+        "tradingview:fxstreet:b04afbe04d9e8:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:53530d95dd9e8:0",
         "tradingview:matriks:6683924:0",
         "tradingview:fxstreet:d59ecaa39d9e8:0",
@@ -685,7 +696,6 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44G0YC:0",
         "tradingview:matriks:6683865:0",
         "tradingview:matriks:6683855:0",
-        "tradingview:fxstreet:b04afbe04d9e8:0",
         "tradingview:matriks:6683847:0",
         "tradingview:fxstreet:fef683a73d9e8:0",
         "tradingview:matriks:6683832:0",
@@ -949,7 +959,6 @@
         "tradingview:matriks:6682480:0",
         "tradingview:matriks:6682476:0",
         "tradingview:matriks:6682475:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:matriks:6682474:0",
         "tradingview:matriks:6682473:0",
         "tradingview:matriks:6682472:0",
@@ -1165,14 +1174,7 @@
         "tradingview:matriks:6681388:0",
         "tradingview:matriks:6681369:0",
         "tradingview:matriks:6681370:0",
-        "tradingview:matriks:6681366:0",
-        "tradingview:matriks:6681367:0",
-        "tradingview:matriks:6681368:0",
-        "tradingview:fxstreet:c6600fb0fd9e8:0",
-        "tradingview:matriks:6681357:0",
-        "tradingview:fxstreet:63c0da605d9e8:0",
-        "tradingview:matriks:6681326:0",
-        "tradingview:fxstreet:db46072b5d9e8:0"
+        "tradingview:matriks:6681366:0"
       ]
     },
     "forexfactory": {
@@ -1187,6 +1189,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "wall street perakende sirketlerinin bilancolar n n ard ndan art ac lmaya haz rlan yor",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44G0SL:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "endonezya rupisi istikrara odakl bi durusu uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:cec42b5d3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "spot alt n yaklas k 3 art sla 4461 39 dolar ons seviyesinde",
+      "link": "https://tr.tradingview.com/news/matriks:6683956:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "spot gumus yaklas k 3 art sla 65 18 milyar dolar ons seviyesinde",
+      "link": "https://tr.tradingview.com/news/matriks:6683952:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist k ymetli madenler piyasas nda bugun 435 kg alt n 1 000 kg gumus islemi yap ld",
+      "link": "https://tr.tradingview.com/news/matriks:6683948:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n analizi ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6683946:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eurusd fed ecb aras nda politika ayr smas trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6683937:0"
+    },
+    {
+      "source": "kap",
+      "text": "dyoby pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfdyby82626 isin kodlu finansman bonosu itfas sirket dyo boya fabrikalari sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652588"
+    },
+    {
+      "source": "kap",
+      "text": "usak sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor bedelli sermaye art r m ndan elde edilen fonun kullan m na iliskin rapor sirket usak seramik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652586"
+    },
     {
       "source": "tradingview",
       "text": "abd hazine bakanl g likiditeyi desteklemek baz uzun vadeli borc geri al mlar n iki kat na c kar yor",
@@ -8641,51 +8688,6 @@
       "source": "investing",
       "text": "inditex kurucusu ortega londra 150 milyon sterline gayrimenkul ald",
       "link": "https://tr.investing.com/news/stock-market-news/inditex-kurucusu-ortega-londrada-150-milyon-sterline-gayrimenkul-ald-93CH-4034232"
-    },
-    {
-      "source": "kap",
-      "text": "netas ozel durum ac klamas genel netas bilisim teknolojileri a s taraf ndan imzalanan sozlesme hk sirket netas telekomunikasyon a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651950"
-    },
-    {
-      "source": "kap",
-      "text": "klrho pay baz nda devre kesici bildirimi klrho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651949"
-    },
-    {
-      "source": "kap",
-      "text": "akmen varantlar n veya sertifikalar n islem gormeye baslamas varantlar n veya sertifikalar n islem gormeye baslamas sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651948"
-    },
-    {
-      "source": "kap",
-      "text": "pnsut pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren nitelikli yat r mc lara sat lmak uzere finansman bonosu ihrac sirket pinar sut mamulleri sanayii a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651947"
-    },
-    {
-      "source": "kap",
-      "text": "megmt kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 yonetim kurulu komiteleri sirket mega metal sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651946"
-    },
-    {
-      "source": "kap",
-      "text": "megmt sirket genel bilgi formu sirket mega metal sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651945"
-    },
-    {
-      "source": "kap",
-      "text": "tgsas pay baz nda devre kesici bildirimi tgsas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651944"
-    },
-    {
-      "source": "tradingview",
-      "text": "home depot ikinci ceyrek sonuclar n ac klad y ll k beklentilerini korudu",
-      "link": "https://tr.tradingview.com/news/matriks:6680538:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kuresel tahvil getirileri y llar n en yuksek seviyelerine ulast",
-      "link": "https://tr.tradingview.com/news/matriks:6680525:0"
     }
   ]
 }
