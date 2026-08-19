@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653140",
+      "last_seen_key": "kap:1653143",
       "seen_keys": [
+        "kap:1653143",
+        "kap:1653142",
+        "kap:1653141",
         "kap:1653140",
         "kap:1653139",
         "kap:1653138",
@@ -697,14 +700,21 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:fa6c55b19d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:64a369b60d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:64a369b60d9e8:0",
         "tradingview:fxstreet:fa6c55b19d9e8:0",
+        "tradingview:cointelegraph:425a44f9bd9e8:0",
         "tradingview:fxstreet:edee404acd9e8:0",
         "tradingview:fxstreet:5abfb5d55d9e8:0",
         "tradingview:cointelegraph:9855d3563d9e8:0",
         "tradingview:fxstreet:54dfb85cdd9e8:0",
         "tradingview:fxstreet:65fcce105d9e8:0",
+        "tradingview:matriks:6685143:0",
+        "tradingview:matriks:6685130:0",
+        "tradingview:matriks:6685122:0",
+        "tradingview:matriks:6685120:0",
+        "tradingview:matriks:6685115:0",
         "tradingview:matriks:6685065:0",
         "tradingview:cointelegraph:f6d35dc80d9e8:0",
         "tradingview:matriks:6685055:0",
@@ -1191,14 +1201,7 @@
         "tradingview:matriks:6682287:0",
         "tradingview:matriks:6682279:0",
         "tradingview:matriks:6682278:0",
-        "tradingview:matriks:6682281:0",
-        "tradingview:cointelegraph:251ef1c94d9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44G04Y:0",
-        "tradingview:fxstreet:90d737560d9e8:0",
-        "tradingview:fxstreet:b0777356ad9e8:0",
-        "tradingview:beincrypto:5f8b5920bd9e8:0",
-        "tradingview:fxstreet:61de26842d9e8:0",
-        "tradingview:fxstreet:c6f8baf31d9e8:0"
+        "tradingview:matriks:6682281:0"
       ]
     },
     "forexfactory": {
@@ -1214,6 +1217,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "meksika pesosu abd hazine geri al m yla iki y l n en yuksek seviyesine yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:64a369b60d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "karsn kat l m finans ilkeleri bilgi formu sirket karsan otomotiv sanayii ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653143"
+    },
+    {
+      "source": "kap",
+      "text": "orzax kat l m finans ilkeleri bilgi formu sirket orzaks ilac kimya sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653142"
+    },
+    {
+      "source": "kap",
+      "text": "pengd sorumluluk beyan konsolide 30 06 2026 sorumluluk beyan sirket penguen gida sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653141"
+    },
     {
       "source": "tradingview",
       "text": "wti ham petrol fiyat abd iran kars kars ya gelmesinin orta dogu daki arz risklerini yuksek tutmas yla yukseliyor",
@@ -8693,26 +8716,6 @@
       "source": "kap",
       "text": "pnlsn finansal rapor sirket panelsan cati cephe sistemleri sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1652125"
-    },
-    {
-      "source": "kap",
-      "text": "veyas paylar n islem gormeye baslamas paylar n islem gormeye baslamas sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652124"
-    },
-    {
-      "source": "kap",
-      "text": "pnlsn sorumluluk beyan konsolide sorumluluk beyan hk sirket panelsan cati cephe sistemleri sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652122"
-    },
-    {
-      "source": "kap",
-      "text": "katmr kat l m finans ilkeleri bilgi formu sirket katmerciler arac ustu ekipman sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652121"
-    },
-    {
-      "source": "kap",
-      "text": "goknr herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem g v b sirket goknur gida maddeleri enerji imalat ithalat ihracat ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652119"
     }
   ]
 }
