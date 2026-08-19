@@ -414,8 +414,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-hurmuz-eskisi-kadar-onemli-olmayacak-3785931",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-nin-kamu-borcu-ilk-kez-40-trilyon-dolari-asti-3785932",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/abd-nin-kamu-borcu-ilk-kez-40-trilyon-dolari-asti-3785932",
         "bloomberght:https://www.bloomberght.com/trump-hurmuz-eskisi-kadar-onemli-olmayacak-3785931",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-20082026-3785930",
         "bloomberght:https://www.bloomberght.com/pezeskiyan-muzakerelerde-adim-adim-ilerleyecegiz-3785929",
@@ -892,7 +893,9 @@
         "tradingview:fxstreet:12db234c5d9e8:0",
         "tradingview:fxstreet:d6e5749d1d9e8:0",
         "tradingview:fxstreet:93d699e1bd9e8:0",
+        "tradingview:beincrypto:dec190226d9e8:0",
         "tradingview:fxstreet:5180a3693d9e8:0",
+        "tradingview:beincrypto:f63e35c3dd9e8:0",
         "tradingview:cointelegraph:2761ac533d9e8:0",
         "tradingview:fxstreet:e5999e15dd9e8:0",
         "tradingview:cointelegraph:ff1a218d2d9e8:0",
@@ -1386,9 +1389,7 @@
         "tradingview:matriks:6682316:0",
         "tradingview:matriks:6682317:0",
         "tradingview:matriks:6682314:0",
-        "tradingview:matriks:6682315:0",
-        "tradingview:matriks:6682313:0",
-        "tradingview:matriks:6682312:0"
+        "tradingview:matriks:6682315:0"
       ]
     },
     "forexfactory": {
@@ -1404,6 +1405,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "abd nin kamu borcu ilk kez 40 trilyon dolar ast abd nin toplam kamu borcu 18 agustos itibar yla 40 trilyon 47 milyar dolara ulasarak tarihte ilk kez 40 trilyon dolar seviyesini asarken borc miktar 5 y ldan k sa surede 10 trilyon dolar artt",
+      "link": "https://www.bloomberght.com/abd-nin-kamu-borcu-ilk-kez-40-trilyon-dolari-asti-3785932"
+    },
     {
       "source": "tradingview",
       "text": "yeni zelanda dolar hazine geri al m n n abd getirilerini asag cekmesiyle yukseldi",
@@ -8898,11 +8904,6 @@
       "source": "investing",
       "text": "neonc technologies ceo su 49 860 dolarl k hisse sat n ald",
       "link": "https://tr.investing.com/news/insider-trading-news/neonc-technologies-ceosu-49860-dolarlk-hisse-satn-ald-93CH-4035175"
-    },
-    {
-      "source": "investing",
-      "text": "trump yonetimi kanada tarife anlasmas beklemiyor",
-      "link": "https://tr.investing.com/news/economy-news/trump-yonetimi-kanada-tarife-anlasmas-beklemiyor-4035174"
     }
   ]
 }
