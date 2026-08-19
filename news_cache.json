@@ -920,8 +920,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:4009f90e8d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:7dc2fed0ad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:7dc2fed0ad9e8:0",
         "tradingview:fxstreet:4009f90e8d9e8:0",
         "tradingview:fxstreet:4b198f668d9e8:0",
         "tradingview:fxstreet:b0247fe90d9e8:0",
@@ -1420,8 +1421,7 @@
         "tradingview:matriks:6679415:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44F037:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44F031:0",
-        "tradingview:matriks:6679404:0",
-        "tradingview:fxstreet:21a28f559d9e8:0"
+        "tradingview:matriks:6679404:0"
       ]
     },
     "forexfactory": {
@@ -1435,6 +1435,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar fomc tutanaklar oncesinde usd nin guclu kalmas yla haftal k dip seviyeye geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:7dc2fed0ad9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini zay f ingiltere isgucu verileri nedeniyle 1 3550 nin alt na geriledi yat r mc lar tufe verilerine haz rlan yor",
@@ -8929,11 +8934,6 @@
       "source": "investing",
       "text": "apple almanya sorusturmas sonras reklam takibi kurallar n degistirecek",
       "link": "https://tr.investing.com/news/stock-market-news/apple-almanya-sorusturmas-sonras-reklam-takibi-kurallarn-degistirecek-93CH-4033533"
-    },
-    {
-      "source": "investing",
-      "text": "m s r vadeli islemleri pro farmer tur sonuclar oncesi yukseldi",
-      "link": "https://tr.investing.com/news/commodities-news/msr-vadeli-islemleri-pro-farmer-tur-sonuclar-oncesi-yukseldi-93CH-4033532"
     }
   ]
 }
