@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653198",
+      "last_seen_key": "kap:1653201",
       "seen_keys": [
+        "kap:1653201",
+        "kap:1653200",
+        "kap:1653199",
         "kap:1653198",
         "kap:1653197",
         "kap:1653196",
@@ -426,18 +429,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/transcripts/1911-gold-sidoti-konferansnda-uretime-gecis-93CH-4036919",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/century-aluminum-hisseleri-neden-dusuyor-93CH-4036928",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/century-aluminum-hisseleri-neden-dusuyor-93CH-4036928",
+        "investing:https://tr.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-53548-dolarlk-hisse-satt-93CH-4036927",
+        "investing:https://tr.investing.com/news/insider-trading-news/bakkt-yoneticisi-michael-alfred-211-milyon-dolarlk-hisse-ald-93CH-4036926",
+        "investing:https://tr.investing.com/news/insider-trading-news/southstate-bank-cfosu-435720-dolarlk-hisse-satt-93CH-4036925",
+        "investing:https://tr.investing.com/news/stock-market-news/abd-celik-hisseleri-kanada-tarife-indirimi-haberiyle-dustu-93CH-4036923",
+        "investing:https://tr.investing.com/news/company-news/alpha-compute-eski-twilio-yoneticisini-yonetim-kuruluna-ald-93CH-4036922",
+        "investing:https://tr.investing.com/news/company-news/ohio-valley-banc-hisse-geri-alm-programn-2027ye-uzatt-93CH-4036921",
+        "investing:https://tr.investing.com/news/analyst-ratings/williams-trading-wolverine-world-wide-icin-hedef-fiyat-yukseltti-93CH-4036920",
         "investing:https://tr.investing.com/news/transcripts/1911-gold-sidoti-konferansnda-uretime-gecis-93CH-4036919",
         "investing:https://tr.investing.com/news/world-news/ab-enerji-sefi-elektrik-arznda-sknt-uyars-yapt-93CH-4036918",
-        "investing:https://tr.investing.com/news/analyst-ratings/bofa-kanser-ilacndaki-ilerleme-sonras-modernay-yukseltti-93CH-4036917",
-        "investing:https://tr.investing.com/news/transcripts/cloudastructure-microcap-konferansnda-buyume-ve-genisleme-93CH-4036915",
-        "investing:https://tr.investing.com/news/transcripts/aib-data-centers-buyume-konferansnda-guc-odakl-strateji-93CH-4036914",
-        "investing:https://tr.investing.com/news/company-news/k-wave-media-1-milyon-dolarlk-halka-arz-fiyatlandrd-93CH-4036913",
-        "investing:https://tr.investing.com/news/transcripts/atlas-salt-mikro-sermaye-konferansnda-finansman-kilit-onemde-93CH-4036912",
-        "investing:https://tr.investing.com/news/transcripts/unusual-machines-mikro-kapakl-sanal-konferansta-drone-talebi-icin-olceklendirme-93CH-4036911",
-        "investing:https://tr.investing.com/news/company-news/fda-nadir-kemik-hastalg-fop-icin-regeneronun-pasatru-ilacn-onaylad-93CH-4036909",
-        "investing:https://tr.investing.com/news/economy-news/enflasyon-dusmezse-faiz-artrm-gerekebilir--fed-tutanaklar-4036908",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -458,6 +461,14 @@
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
+        "investing:https://tr.investing.com/news/analyst-ratings/bofa-kanser-ilacndaki-ilerleme-sonras-modernay-yukseltti-93CH-4036917",
+        "investing:https://tr.investing.com/news/transcripts/cloudastructure-microcap-konferansnda-buyume-ve-genisleme-93CH-4036915",
+        "investing:https://tr.investing.com/news/transcripts/aib-data-centers-buyume-konferansnda-guc-odakl-strateji-93CH-4036914",
+        "investing:https://tr.investing.com/news/company-news/k-wave-media-1-milyon-dolarlk-halka-arz-fiyatlandrd-93CH-4036913",
+        "investing:https://tr.investing.com/news/transcripts/atlas-salt-mikro-sermaye-konferansnda-finansman-kilit-onemde-93CH-4036912",
+        "investing:https://tr.investing.com/news/transcripts/unusual-machines-mikro-kapakl-sanal-konferansta-drone-talebi-icin-olceklendirme-93CH-4036911",
+        "investing:https://tr.investing.com/news/company-news/fda-nadir-kemik-hastalg-fop-icin-regeneronun-pasatru-ilacn-onaylad-93CH-4036909",
+        "investing:https://tr.investing.com/news/economy-news/enflasyon-dusmezse-faiz-artrm-gerekebilir--fed-tutanaklar-4036908",
         "investing:https://tr.investing.com/news/insider-trading-news/tredegar-yoneticisi-john-d-gottwald-89660-dolar-degerinde-hisse-satt-93CH-4036906",
         "investing:https://tr.investing.com/news/transcripts/indonesia-energy-enercom-denverda-kruh-blogunda-nakit-aks-hedefini-acklad-93CH-4036904",
         "investing:https://tr.investing.com/news/transcripts/ineo-tech-emerging-growth-konferansnda-perakende-medya-ve-kayp-onleme-olceklendirmesi-93CH-4036903",
@@ -1293,6 +1304,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "century aluminum hisseleri neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/century-aluminum-hisseleri-neden-dusuyor-93CH-4036928"
+    },
+    {
+      "source": "investing",
+      "text": "verizon evp kyle malady 53 548 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-53548-dolarlk-hisse-satt-93CH-4036927"
+    },
+    {
+      "source": "investing",
+      "text": "bakkt yoneticisi michael alfred 2 11 milyon dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/bakkt-yoneticisi-michael-alfred-211-milyon-dolarlk-hisse-ald-93CH-4036926"
+    },
+    {
+      "source": "investing",
+      "text": "southstate bank cfo su 435 720 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/southstate-bank-cfosu-435720-dolarlk-hisse-satt-93CH-4036925"
+    },
+    {
+      "source": "investing",
+      "text": "abd celik hisseleri kanada tarife indirimi haberiyle dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/abd-celik-hisseleri-kanada-tarife-indirimi-haberiyle-dustu-93CH-4036923"
+    },
+    {
+      "source": "investing",
+      "text": "alpha compute eski twilio yoneticisini yonetim kuruluna ald",
+      "link": "https://tr.investing.com/news/company-news/alpha-compute-eski-twilio-yoneticisini-yonetim-kuruluna-ald-93CH-4036922"
+    },
+    {
+      "source": "investing",
+      "text": "ohio valley banc hisse geri al m program n 2027 ye uzatt",
+      "link": "https://tr.investing.com/news/company-news/ohio-valley-banc-hisse-geri-alm-programn-2027ye-uzatt-93CH-4036921"
+    },
+    {
+      "source": "investing",
+      "text": "williams trading wolverine world wide hedef fiyat yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/williams-trading-wolverine-world-wide-icin-hedef-fiyat-yukseltti-93CH-4036920"
+    },
+    {
+      "source": "kap",
+      "text": "glryh sorumluluk beyan konsolide sorumluluk beyan 30 06 2026 sirket guler yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653201"
+    },
+    {
+      "source": "kap",
+      "text": "glryh faaliyet raporu konsolide faaliyet raporu 30 06 2026 sirket guler yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653200"
+    },
+    {
+      "source": "kap",
+      "text": "glryh finansal rapor sirket guler yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653199"
+    },
     {
       "source": "tradingview",
       "text": "usd chf fiyat analizi abd dolar sert duserken 100 gunluk sma test edildi",
@@ -8737,61 +8803,6 @@
       "source": "kap",
       "text": "alves ozel durum ac klamas genel yonetim kurulu bag ms z yonetim kurulu uye atamas sirket alves kablo sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1652303"
-    },
-    {
-      "source": "kap",
-      "text": "turex finansal tablo veya dipnot degisikligi 2026 2 donem finansal rapor dzt sirket tureks turizm tasimacilik a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652302"
-    },
-    {
-      "source": "kap",
-      "text": "rgyas kredi derecelendirmesi kredi derecelendirme notu sirket ronesans gayrimenkul yatirim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652301"
-    },
-    {
-      "source": "kap",
-      "text": "klkim sorumluluk beyan konsolide sorumluluk beyan sirket kalekim kimyevi maddeler sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652299"
-    },
-    {
-      "source": "kap",
-      "text": "klkim faaliyet raporu konsolide faaliyet raporu sirket kalekim kimyevi maddeler sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652297"
-    },
-    {
-      "source": "kap",
-      "text": "klkim finansal rapor sirket kalekim kimyevi maddeler sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652296"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro ingiltere enflasyonu oncesinde sterlin kars s ndaki kazanclar n koruyam yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:938b83a9ad9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yeni zelanda dolar abd iran gerilimiyle hafifce gerilerken rbnz faiz art r m beklentileri kay plar s n rl yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:02b453930d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "neuberger cok zincirli tokenlestirilmis sabit getirili fon lansman nda securitize ortakl k kurdu",
-      "link": "https://tr.tradingview.com/news/cointelegraph:6cc9eb251d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "catalyst bancorp ceo su joseph zanco nun sozlesmesi yenilendi",
-      "link": "https://tr.investing.com/news/sec-filings/catalyst-bancorp-ceosu-joseph-zanconun-sozlesmesi-yenilendi-93CH-4035057"
-    },
-    {
-      "source": "investing",
-      "text": "radiant world bankalar hesaplar dondurdu isten c karmalar baslad",
-      "link": "https://tr.investing.com/news/stock-market-news/radiant-world-bankalar-hesaplar-dondurdu-isten-ckarmalar-baslad-93CH-4035056"
-    },
-    {
-      "source": "investing",
-      "text": "quebec bag ms zl k partisi trump nedeniyle referandumu erteledi",
-      "link": "https://tr.investing.com/news/world-news/quebec-bagmszlk-partisi-trump-nedeniyle-referandumu-erteledi-93CH-4035053"
     }
   ]
 }
