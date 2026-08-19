@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652410",
+      "last_seen_key": "kap:1652414",
       "seen_keys": [
+        "kap:1652414",
+        "kap:1652413",
+        "kap:1652412",
+        "kap:1652411",
         "kap:1652410",
         "kap:1652409",
         "kap:1652408",
@@ -934,8 +938,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f709e1ad0d9e8:0",
+      "last_seen_key": "tradingview:matriks:6682469:0",
       "seen_keys": [
+        "tradingview:matriks:6682469:0",
+        "tradingview:matriks:6682467:0",
+        "tradingview:matriks:6682464:0",
+        "tradingview:matriks:6682460:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44G09V:0",
+        "tradingview:matriks:6682456:0",
+        "tradingview:matriks:6682454:0",
         "tradingview:fxstreet:f709e1ad0d9e8:0",
         "tradingview:matriks:6682434:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44G09Y:0",
@@ -955,7 +966,6 @@
         "tradingview:fxstreet:a33280a33d9e8:0",
         "tradingview:matriks:6682396:0",
         "tradingview:matriks:6682394:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44G06K:0",
         "tradingview:matriks:6682392:0",
         "tradingview:fxstreet:1f6617923d9e8:0",
         "tradingview:matriks:6682381:0",
@@ -1030,6 +1040,7 @@
         "tradingview:beincrypto:2539be976d9e8:0",
         "tradingview:fxstreet:b0247fe90d9e8:0",
         "tradingview:fxstreet:94f93d65ad9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44G06K:0",
         "tradingview:fxstreet:65e88f1f9d9e8:0",
         "tradingview:fxstreet:8b260e850d9e8:0",
         "tradingview:fxstreet:e0d195f3cd9e8:0",
@@ -1428,14 +1439,7 @@
         "tradingview:matriks:6679841:0",
         "tradingview:fxstreet:162771085d9e8:0",
         "tradingview:matriks:6679839:0",
-        "tradingview:matriks:6679838:0",
-        "tradingview:matriks:6679837:0",
-        "tradingview:matriks:6679832:0",
-        "tradingview:matriks:6679831:0",
-        "tradingview:matriks:6679830:0",
-        "tradingview:matriks:6679827:0",
-        "tradingview:matriks:6679822:0",
-        "tradingview:matriks:6679821:0"
+        "tradingview:matriks:6679838:0"
       ]
     },
     "forexfactory": {
@@ -1450,6 +1454,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten marbas menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6682469:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi trgyo is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682467:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682464:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasalar gunluk bulten pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682460:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 19 agustos carsamba",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44G09V:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "carry islemleri yapan yat r mc lar yen volatilitesindeki art s sonras isvicre frang na yoneliyor bn",
+      "link": "https://tr.tradingview.com/news/matriks:6682456:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sabah notlar ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682454:0"
+    },
+    {
+      "source": "kap",
+      "text": "ksj sirket genel bilgi formu sirket kisbu gayrimenkul girisim sermayesi portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652414"
+    },
+    {
+      "source": "kap",
+      "text": "lidfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfldfk82615 isin kodlu bono itfa odemesi sirket lider faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652413"
+    },
+    {
+      "source": "kap",
+      "text": "ecogr sirket genel bilgi formu sirket ecogreen enerji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652412"
+    },
+    {
+      "source": "kap",
+      "text": "sngyo ozel durum ac klamas genel bag ms z yonetim kurulu uyesi aday na iliskin sermaye piyasas kurulu gorusu sirket sinpas gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652411"
+    },
     {
       "source": "tradingview",
       "text": "hindistan rupisi abd dolar kars s nda iki haftal k kay plar n koruyor",
@@ -8894,61 +8953,6 @@
       "source": "investing",
       "text": "gigacloud technology marka merkezi baskan bernes 530 000 dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/gigacloud-technology-marka-merkezi-baskan-bernes-530000-dolarlk-hisse-satt-93CH-4033722"
-    },
-    {
-      "source": "investing",
-      "text": "delek us yoneticisi ezra yemin 13 5 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/delek-us-yoneticisi-ezra-yemin-135-milyon-dolarlk-hisse-satt-93CH-4033721"
-    },
-    {
-      "source": "investing",
-      "text": "delek logistics baskan avigal soreq 125 000 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/delek-logistics-baskan-avigal-soreq-125000-dolar-degerinde-hisse-ald-93CH-4033720"
-    },
-    {
-      "source": "investing",
-      "text": "avustralya tuketici guveni agustos ta artt ancak karamsar gorus suruyor westpac",
-      "link": "https://tr.investing.com/news/economic-indicators/avustralyada-tuketici-guveni-agustosta-artt-ancak-karamsar-gorus-suruyor--westpac-4033724"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar yukselen petrol fiyatlar n n mutevaz abd dolar gucunu dengelemesiyle haziran bas ndaki en yuksek seviyesine yak n seyrediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:5be177088d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiliz sterlini fed faiz art r m beklentileri azal rken ingiltere istihdam verileri yaklas rken 1 3550 seviyesine yak n guc kazan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:fc8447a35d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7873 seviyesine k yasla 6 7905 olarak belirledi",
-      "link": "https://tr.tradingview.com/news/fxstreet:67f5432d9d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro petrol kaynakl enflasyon endiselerinin usd yi desteklemesiyle iki ayl k zirvenin alt nda yatay seyrediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:e18adc217d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "avustralya dolar azalan fed faiz art r m beklentileri aras nda abd dolar n n zorlanmas yla deger kazan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:b2cea84d7d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "trump n ateskes uzatmas n reddetmesiyle wti 84 00 civar nda yatay seyrediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:3830c1ba7d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "isq global fund ii gp kinetik holdings te 18 9 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/isq-global-fund-ii-gp-kinetik-holdingste-189-milyon-dolarlk-hisse-satt-93CH-4033719"
-    },
-    {
-      "source": "investing",
-      "text": "rga evp si kuresel risk direktoru 2 1 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/rga-evpsi-ve-kuresel-risk-direktoru-21-milyon-dolarlk-hisse-satt-93CH-4033718"
     }
   ]
 }
