@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652698",
+      "last_seen_key": "kap:1652705",
       "seen_keys": [
+        "kap:1652705",
+        "kap:1652704",
+        "kap:1652703",
+        "kap:1652701",
+        "kap:1652700",
         "kap:1652698",
         "kap:1652696",
         "kap:1652695",
@@ -758,8 +763,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:546bf3ad5d9e8:0",
+      "last_seen_key": "tradingview:matriks:6684321:0",
       "seen_keys": [
+        "tradingview:matriks:6684321:0",
+        "tradingview:matriks:6684308:0",
+        "tradingview:matriks:6684303:0",
+        "tradingview:matriks:6684305:0",
         "tradingview:fxstreet:546bf3ad5d9e8:0",
         "tradingview:fxstreet:b04afbe04d9e8:0",
         "tradingview:fxstreet:243b33d6fd9e8:0",
@@ -825,7 +834,6 @@
         "tradingview:fxstreet:6148046b1d9e8:0",
         "tradingview:matriks:6683758:0",
         "tradingview:matriks:6683757:0",
-        "tradingview:matriks:6683744:0",
         "tradingview:cointelegraph:f641ddd51d9e8:0",
         "tradingview:cointelegraph:742a4f23ad9e8:0",
         "tradingview:matriks:6683725:0",
@@ -857,6 +865,7 @@
         "tradingview:matriks:6683615:0",
         "tradingview:matriks:6683610:0",
         "tradingview:matriks:6683594:0",
+        "tradingview:matriks:6683744:0",
         "tradingview:matriks:6683590:0",
         "tradingview:fxstreet:0222cb3a9d9e8:0",
         "tradingview:cointelegraph:c145411d3d9e8:0",
@@ -1255,11 +1264,7 @@
         "tradingview:matriks:6681585:0",
         "tradingview:matriks:6681582:0",
         "tradingview:matriks:6681561:0",
-        "tradingview:matriks:6681554:0",
-        "tradingview:matriks:6681546:0",
-        "tradingview:matriks:6681534:0",
-        "tradingview:matriks:6681528:0",
-        "tradingview:matriks:6681524:0"
+        "tradingview:matriks:6681554:0"
       ]
     },
     "forexfactory": {
@@ -1274,6 +1279,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "turkiye ekonomi gundemi 20 agustos",
+      "link": "https://tr.tradingview.com/news/matriks:6684321:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "aras kargo cok yonlu donusum program n paylast",
+      "link": "https://tr.tradingview.com/news/matriks:6684308:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fitness kondisyon urunlerine talep yuzde 60 artt",
+      "link": "https://tr.tradingview.com/news/matriks:6684303:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "okul guvenliginde 5188 kapsam ndaki profesyonel guvenlik modelinden daha etkin yararlan lmal gusod",
+      "link": "https://tr.tradingview.com/news/matriks:6684305:0"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi borsa yat r m fonu piyasa yap c l g islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652705"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym yat r m kurulusu varant sertifika senetlerine iliskin bildirim is yat r m sertifika varant al m sat m islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652704"
+    },
+    {
+      "source": "kap",
+      "text": "dofer pay baz nda devre kesici bildirimi dofer e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652703"
+    },
+    {
+      "source": "kap",
+      "text": "frmpl pay baz nda devre kesici bildirimi frmpl e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652701"
+    },
+    {
+      "source": "kap",
+      "text": "gerel pay baz nda devre kesici bildirimi gerel e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652700"
+    },
     {
       "source": "tradingview",
       "text": "tayland baht yuksek emtia fiyatlar baht istikrar n tehdit ediyor commerzbank",
@@ -8728,51 +8778,6 @@
       "source": "kap",
       "text": "euyo ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro menkul kiymet yatirim ortakligi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1651995"
-    },
-    {
-      "source": "kap",
-      "text": "tae trbnk ozel durum ac klamas genel kira sertifikas ihrac na iliskin yonetim kurulu karar al nmas sirket tera yatirim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651994"
-    },
-    {
-      "source": "kap",
-      "text": "unlus uns yat r m kurulusu varant sertifika senetlerine iliskin bildirim goldman sachs international taraf ndan tesla pay na dayal olarak ihrac edilen varantlar n menkul k ymet k sa kodlar nda meydana gelen degisiklik hk sirket unlu menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651992"
-    },
-    {
-      "source": "kap",
-      "text": "orma tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu raporu sirket orma orman mahsulleri integre sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651986"
-    },
-    {
-      "source": "kap",
-      "text": "tevks ihrac tavan na iliskin bildirim kira sertifikas ihrac na iliskin yonetim kurulu karar al nmas sirket tera varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651982"
-    },
-    {
-      "source": "kap",
-      "text": "bossa kredi derecelendirmesi kredi derecelendirme notu hakk nda sirket bossa ticaret sanayi isletmeleri t a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651981"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd haftal k adp ozel sektor istihdam degisimi 9 500",
-      "link": "https://tr.tradingview.com/news/matriks:6680848:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi astor ahlatc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6680846:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "google pixel urunlerinin tamam n n gelecek y ldan itibaren cin d s nda uretilmesini hedefliyor nikkei asia",
-      "link": "https://tr.tradingview.com/news/matriks:6680844:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kuveyt turk yat r m lkmnh 21 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 27 7 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6680831:0"
     }
   ]
 }
