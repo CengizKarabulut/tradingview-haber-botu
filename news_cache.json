@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652520",
+      "last_seen_key": "kap:1652521",
       "seen_keys": [
+        "kap:1652521",
         "kap:1652520",
         "kap:1652519",
         "kap:1652518",
@@ -1044,8 +1045,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:cdc6b2335d9e8:0",
+      "last_seen_key": "tradingview:matriks:6683419:0",
       "seen_keys": [
+        "tradingview:matriks:6683419:0",
+        "tradingview:matriks:6683412:0",
         "tradingview:fxstreet:cdc6b2335d9e8:0",
         "tradingview:matriks:6683397:0",
         "tradingview:fxstreet:ab60e333ed9e8:0",
@@ -1061,8 +1064,10 @@
         "tradingview:matriks:6683332:0",
         "tradingview:matriks:6683320:0",
         "tradingview:matriks:6683307:0",
+        "tradingview:beincrypto:41b41f16ed9e8:0",
         "tradingview:fxstreet:2bf6bac3fd9e8:0",
         "tradingview:fxstreet:05720d9f2d9e8:0",
+        "tradingview:beincrypto:f3645f488d9e8:0",
         "tradingview:matriks:6683249:0",
         "tradingview:matriks:6683244:0",
         "tradingview:fxstreet:83e2f33bed9e8:0",
@@ -1541,11 +1546,7 @@
         "tradingview:matriks:6680864:0",
         "tradingview:matriks:6680861:0",
         "tradingview:matriks:6680863:0",
-        "tradingview:matriks:6680862:0",
-        "tradingview:fxstreet:955a1a0ebd9e8:0",
-        "tradingview:fxstreet:c11650a01d9e8:0",
-        "tradingview:matriks:6680848:0",
-        "tradingview:matriks:6680846:0"
+        "tradingview:matriks:6680862:0"
       ]
     },
     "forexfactory": {
@@ -1560,6 +1561,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "haz r beton endeksi verileri temmuz ay nda sektorde s n rl zay flamaya isaret ediyor",
+      "link": "https://tr.tradingview.com/news/matriks:6683419:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fransa n n 10 y ll k tahvil getirisi 4 1275 18 y l n yeni en yuksek seviyesini gordu",
+      "link": "https://tr.tradingview.com/news/matriks:6683412:0"
+    },
+    {
+      "source": "kap",
+      "text": "bigtk pay baz nda devre kesici bildirimi bigtk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652521"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar rba n n daha zay f ucretler nedeniyle kenarda kalacag goruluyor bbh",
@@ -9044,21 +9060,6 @@
       "source": "investing",
       "text": "rbc capital deneme basar s zl g sonras eyepoint hissesini dusurdu",
       "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-deneme-basarszlg-sonras-eyepoint-hissesini-dusurdu-93CH-4033943"
-    },
-    {
-      "source": "investing",
-      "text": "huber suhner hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/hubersuhner-hissesi-bugun-neden-dusuyor-93CH-4033942"
-    },
-    {
-      "source": "bloomberght",
-      "text": "turkiye yapay zeka eylem plan yay mland turkiye yapay zeka eylem plan 2026 2030 konulu cumhurbaskanl g genelgesi resmi gazete yay mland",
-      "link": "https://www.bloomberght.com/turkiye-yapay-zeka-eylem-plani-yayimlandi-3785774"
-    },
-    {
-      "source": "bloomberght",
-      "text": "arakci mutabakat n uygulanmas n n onundeki en buyuk engel israil iran d sisleri bakan abbas erakci tahran kars taraf aras nda var lan mutabakat n hayata gecirilmesinin onundeki en buyuk engelin israil oldugunu belirtti",
-      "link": "https://www.bloomberght.com/arakci-mutabakatin-uygulanmasinin-onundeki-en-buyuk-engel-israil-3785773"
     }
   ]
 }
