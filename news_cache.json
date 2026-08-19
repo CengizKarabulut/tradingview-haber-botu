@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652617",
+      "last_seen_key": "kap:1652625",
       "seen_keys": [
+        "kap:1652625",
+        "kap:1652624",
+        "kap:1652623",
+        "kap:1652621",
+        "kap:1652620",
+        "kap:1652619",
+        "kap:1652618",
         "kap:1652617",
         "kap:1652610",
         "kap:1652609",
@@ -64,7 +71,6 @@
         "kap:1652518",
         "kap:1652517",
         "kap:1652516",
-        "kap:1652515",
         "kap:1652514",
         "kap:1652502",
         "kap:1652501",
@@ -88,6 +94,7 @@
         "kap:1652473",
         "kap:1652471",
         "kap:1652470",
+        "kap:1652515",
         "kap:1652464",
         "kap:1652463",
         "kap:1652462",
@@ -706,8 +713,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:edee404acd9e8:0",
+      "last_seen_key": "tradingview:matriks:6684091:0",
       "seen_keys": [
+        "tradingview:matriks:6684091:0",
         "tradingview:fxstreet:edee404acd9e8:0",
         "tradingview:matriks:6684038:0",
         "tradingview:fxstreet:af3a74309d9e8:0",
@@ -806,8 +814,8 @@
         "tradingview:matriks:6683496:0",
         "tradingview:matriks:6683489:0",
         "tradingview:fxstreet:e37345b8dd9e8:0",
-        "tradingview:beincrypto:a6a686b2bd9e8:0",
         "tradingview:cointelegraph:bf990dfb9d9e8:0",
+        "tradingview:beincrypto:a6a686b2bd9e8:0",
         "tradingview:matriks:6683459:0",
         "tradingview:matriks:6683438:0",
         "tradingview:fxstreet:139a97a37d9e8:0",
@@ -1206,8 +1214,7 @@
         "tradingview:matriks:6681373:0",
         "tradingview:matriks:6681372:0",
         "tradingview:matriks:6681383:0",
-        "tradingview:matriks:6681382:0",
-        "tradingview:matriks:6681384:0"
+        "tradingview:matriks:6681382:0"
       ]
     },
     "forexfactory": {
@@ -1222,6 +1229,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kuresel piyasalarda fomc tutanaklar jeopolitik riskler tahvil gundemi ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6684091:0"
+    },
+    {
+      "source": "kap",
+      "text": "hdffl genel kurul bildirimi 2025 y l genel kurulu sirket hedef arac kiralama servis a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652625"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank para piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652624"
+    },
+    {
+      "source": "kap",
+      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon oran n n belirlenmesi sirket birlesik ipotek finansmani a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652623"
+    },
+    {
+      "source": "kap",
+      "text": "pay sorumluluk beyan konsolide tr sirket pay menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652621"
+    },
+    {
+      "source": "kap",
+      "text": "pay faaliyet raporu konsolide tr sirket pay menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652620"
+    },
+    {
+      "source": "kap",
+      "text": "pay finansal rapor sirket pay menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652619"
+    },
+    {
+      "source": "kap",
+      "text": "suwen ozel durum ac klamas genel suwen turkiye futbol federasyonu kad n futbol super ligi resmi sponsorluk anlasmas hk sirket suwen tekstil sanayi pazarlama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652618"
+    },
     {
       "source": "tradingview",
       "text": "fed tutanaklar n n fomc deki s k lasmac ayr sman n derinligine s k tutmas bekleniyor",
@@ -8681,46 +8728,6 @@
       "source": "investing",
       "text": "cypherpunk 33 33 milyon dolarl k anlasmayla madencilik filosunu baslatt",
       "link": "https://tr.investing.com/news/company-news/cypherpunk-3333-milyon-dolarlk-anlasmayla-madencilik-filosunu-baslatt-93CH-4034388"
-    },
-    {
-      "source": "investing",
-      "text": "select water solutions delaware havzas nda su anlasmas n genisletti",
-      "link": "https://tr.investing.com/news/company-news/select-water-solutions-delaware-havzasnda-su-anlasmasn-genisletti-93CH-4034387"
-    },
-    {
-      "source": "investing",
-      "text": "repositrak spar group magaza hizmeti baslatt",
-      "link": "https://tr.investing.com/news/company-news/repositrak-spar-group-ile-magaza-hizmeti-baslatt-93CH-4034385"
-    },
-    {
-      "source": "investing",
-      "text": "flotek in porto riko enerji projesinde cal smalar durdu",
-      "link": "https://tr.investing.com/news/company-news/flotekin-porto-riko-enerji-projesinde-calsmalar-durdu-93CH-4034386"
-    },
-    {
-      "source": "investing",
-      "text": "sofi nin 2c banka kart harcamalar tum kategorilerde artt",
-      "link": "https://tr.investing.com/news/company-news/sofinin-2c-banka-kart-harcamalar-tum-kategorilerde-artt-93CH-4034383"
-    },
-    {
-      "source": "investing",
-      "text": "kratos valkyrie drone u elektronik harp yeteneklerini gosterdi",
-      "link": "https://tr.investing.com/news/company-news/kratos-valkyrie-droneu-elektronik-harp-yeteneklerini-gosterdi-93CH-4034384"
-    },
-    {
-      "source": "investing",
-      "text": "labcorp nachc sagl k merkezi liderleri gelistirecek",
-      "link": "https://tr.investing.com/news/company-news/labcorp-nachc-ile-saglk-merkezi-liderleri-gelistirecek-93CH-4034382"
-    },
-    {
-      "source": "investing",
-      "text": "can am iki konsept arazi arac n urun yol haritas n tan tt",
-      "link": "https://tr.investing.com/news/company-news/canam-iki-konsept-arazi-aracn-ve-urun-yol-haritasn-tantt-93CH-4034381"
-    },
-    {
-      "source": "investing",
-      "text": "virtu financial geri al mlar nominal emir uygulamas baslatt",
-      "link": "https://tr.investing.com/news/company-news/virtu-financial-geri-almlar-icin-nominal-emir-uygulamas-baslatt-93CH-4034380"
     }
   ]
 }
