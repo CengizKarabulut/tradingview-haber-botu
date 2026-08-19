@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652518",
+      "last_seen_key": "kap:1652520",
       "seen_keys": [
+        "kap:1652520",
+        "kap:1652519",
         "kap:1652518",
         "kap:1652517",
         "kap:1652516",
@@ -313,6 +315,7 @@
       "last_seen_key": "bloomberght:https://www.bloomberght.com/simsek-2-ceyrek-issizlik-verilerini-degerlendirdi-3785879",
       "seen_keys": [
         "bloomberght:https://www.bloomberght.com/simsek-2-ceyrek-issizlik-verilerini-degerlendirdi-3785879",
+        "bloomberght:https://www.bloomberght.com/tim-baskani-gultepe-dovizin-enflasyon-kadar-artmasi-gerekiyor-3785880",
         "bloomberght:https://www.bloomberght.com/ekonomi-yonetimi-yogun-ovp-ve-butce-mesaisinde-3785875",
         "bloomberght:https://www.bloomberght.com/turk-banka-hisseleri-faiz-baskisi-ile-sanayinin-gerisinde-kaldi-3785874",
         "bloomberght:https://www.bloomberght.com/ulker-biskuvi-2026-yilinin-ilk-yarisini-63-milyar-tl-ciroyla-kapatti-3785873",
@@ -946,8 +949,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/elektrikli-arac-sarjinda-tum-zamanlarin-rekoru-954358.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-simsek-kayitli-istihdamin-artmasi-kamu-maliyesini-guclendiriyor-954360.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-simsek-kayitli-istihdamin-artmasi-kamu-maliyesini-guclendiriyor-954360.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/elektrikli-arac-sarjinda-tum-zamanlarin-rekoru-954358.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ekonomi-yonetimi-butce-calismalarina-yogunlasti-954353.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/sahil-guvenlik-ekipleri-denizlerde-kacakcilara-gecit-vermedi-954350.html",
@@ -1039,8 +1043,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6683307:0",
+      "last_seen_key": "tradingview:fxstreet:f0b4646d5d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:f0b4646d5d9e8:0",
+        "tradingview:fxstreet:e86088d4cd9e8:0",
+        "tradingview:fxstreet:0ca2d2adbd9e8:0",
+        "tradingview:fxstreet:d73a4893ed9e8:0",
+        "tradingview:matriks:6683352:0",
+        "tradingview:matriks:6683344:0",
+        "tradingview:matriks:6683338:0",
+        "tradingview:matriks:6683332:0",
+        "tradingview:matriks:6683320:0",
         "tradingview:matriks:6683307:0",
         "tradingview:fxstreet:2bf6bac3fd9e8:0",
         "tradingview:fxstreet:05720d9f2d9e8:0",
@@ -1062,6 +1075,7 @@
         "tradingview:fxstreet:ec1431566d9e8:0",
         "tradingview:matriks:6683146:0",
         "tradingview:fxstreet:5d79b3debd9e8:0",
+        "tradingview:matriks:6683124:0",
         "tradingview:matriks:6683123:0",
         "tradingview:fxstreet:8aee9819dd9e8:0",
         "tradingview:fxstreet:9d140daedd9e8:0",
@@ -1530,17 +1544,7 @@
         "tradingview:matriks:6680824:0",
         "tradingview:matriks:6680823:0",
         "tradingview:matriks:6680821:0",
-        "tradingview:beincrypto:48a8797ddd9e8:0",
-        "tradingview:matriks:6680808:0",
-        "tradingview:matriks:6680803:0",
-        "tradingview:fxstreet:b5a15ddb7d9e8:0",
-        "tradingview:matriks:6680792:0",
-        "tradingview:matriks:6680788:0",
-        "tradingview:matriks:6680781:0",
-        "tradingview:fxstreet:f701232e9d9e8:0",
-        "tradingview:fxstreet:ce76af186d9e8:0",
-        "tradingview:fxstreet:aab151607d9e8:0",
-        "tradingview:beincrypto:6a288830dd9e8:0"
+        "tradingview:beincrypto:48a8797ddd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1555,6 +1559,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "brezilya reali secim riskleri ard ndan yeniden kazanclar commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:f0b4646d5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro euro bolgesi enflasyonunun h zlanmas yla ingiliz sterlini kars s ndaki kazanclar n genisletiyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e86088d4cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat bugun fxstreet verilerine gore gumus fiyat dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:0ca2d2adbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "birlesik krall k enflasyon yukar yonlu riskler art yor deutsche bank",
+      "link": "https://tr.tradingview.com/news/fxstreet:d73a4893ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi trgyo ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6683352:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ced duyurusu kardemir celik",
+      "link": "https://tr.tradingview.com/news/matriks:6683344:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ced duyurusu galata wind",
+      "link": "https://tr.tradingview.com/news/matriks:6683338:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi turex ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6683332:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi kmpur ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6683320:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "bakan simsek kay tl istihdam n artmas kamu maliyesini guclendiriyor hazine maliye bakan mehmet simsek y l n ikinci ceyreginde tar m haric sektorlerde y lda ortalama kay t d s istihdam oran n n yuzde 15 7 tarihsel ortalaman n oldukca alt nda seyrettigini belirterek cal sanlar m za sosyal",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-kayitli-istihdamin-artmasi-kamu-maliyesini-guclendiriyor-954360.html"
+    },
+    {
+      "source": "kap",
+      "text": "kartn pay baz nda devre kesici bildirimi kartn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652520"
+    },
+    {
+      "source": "kap",
+      "text": "katvk tertip ihrac belgesi tertip ihrac belgesi nitelikli 1 000 000 000 tl 1 000 000 000 tl 750 000 000 tl sirket katilim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652519"
+    },
     {
       "source": "tradingview",
       "text": "ekos electric avrupa standartlar nda urettigi ilk transformatorlerinin sevkiyat n bulgaristan a gerceklestirdi",
@@ -8994,66 +9058,6 @@
       "source": "investing",
       "text": "himax n avuc ici damar teknolojisi waferlock ak ll kilide entegre edildi",
       "link": "https://tr.investing.com/news/company-news/himaxn-avuc-ici-damar-teknolojisi-waferlock-akll-kilide-entegre-edildi-93CH-4033930"
-    },
-    {
-      "source": "investing",
-      "text": "cbrain kaliforniya ilk sozlesmesini imzalad",
-      "link": "https://tr.investing.com/news/company-news/cbrain-kaliforniya-ile-ilk-sozlesmesini-imzalad-93CH-4033929"
-    },
-    {
-      "source": "investing",
-      "text": "ingiltere market enflasyonu agustos bas nda 2 1 e geriledi",
-      "link": "https://tr.investing.com/news/economic-indicators/ingilterede-market-enflasyonu-agustos-basnda-21e-geriledi-93CH-4033927"
-    },
-    {
-      "source": "investing",
-      "text": "synectics hisseleri sozlesme zamanlamas nedeniyle 13 dustu",
-      "link": "https://tr.investing.com/news/stock-market-news/synectics-hisseleri-sozlesme-zamanlamas-nedeniyle-13-dustu-93CH-4033926"
-    },
-    {
-      "source": "investing",
-      "text": "terawulf yoneticisi michael bucella 99 949 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/terawulf-yoneticisi-michael-bucella-99949-dolar-degerinde-hisse-ald-93CH-4033925"
-    },
-    {
-      "source": "investing",
-      "text": "paysafe risk direktoru 65 800 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/paysafe-risk-direktoru-65800-dolarlk-hisse-satt-93CH-4033924"
-    },
-    {
-      "source": "investing",
-      "text": "penta teknoloji oki distributorlugunu 11 yeni ulkeye genisletti",
-      "link": "https://tr.investing.com/news/global-filings/penta-teknoloji-oki-distributorlugunu-11-yeni-ulkeye-genisletti-93CH-4033923"
-    },
-    {
-      "source": "investing",
-      "text": "goldman sachs scribe therapeutics hissesi kapsam baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/goldman-sachs-scribe-therapeutics-hissesi-icin-kapsam-baslatt-93CH-4033922"
-    },
-    {
-      "source": "investing",
-      "text": "hoenle gelirlerinde dusus bildirdi kazanclar artt",
-      "link": "https://tr.investing.com/news/stock-market-news/hoenle-gelirlerinde-dusus-bildirdi-kazanclar-artt-93CH-4033920"
-    },
-    {
-      "source": "investing",
-      "text": "ozak gyo ingiltere 100 bagl ortakl k kuruyor",
-      "link": "https://tr.investing.com/news/global-filings/ozak-gyo-ingilterede-100-bagl-ortaklk-kuruyor-93CH-4033917"
-    },
-    {
-      "source": "bloomberght",
-      "text": "seker sektorune kota operasyonu nisasta bazl seker nbs urunlerinin farkl adlarla faturaland r larak ic piyasaya suruldugu kota ihlali iddias yla baslat lan sorusturma kapsam nda 25 sirkete ait 26 adreste arama yap ld sirket yoneticisi oldugu belirlenen 47 supheli",
-      "link": "https://www.bloomberght.com/seker-sektorune-kota-operasyonu-3785772"
-    },
-    {
-      "source": "kap",
-      "text": "tamfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 18 08 2026 vadeli borclanma arac n n itfas kupon odemesi sirket tam finans faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651876"
-    },
-    {
-      "source": "kap",
-      "text": "megmt pay baz nda devre kesici bildirimi megmt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651875"
     }
   ]
 }
