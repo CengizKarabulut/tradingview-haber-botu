@@ -300,8 +300,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/jyske-bank-ilk-yarda-hisse-basna-39-dkk-kazanc-bildirdi-93CH-4035536",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/deutsche-rohstoff-petrol-fiyatlaryla-gelir-arts-bildirdi-93CH-4035540",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/deutsche-rohstoff-petrol-fiyatlaryla-gelir-arts-bildirdi-93CH-4035540",
+        "investing:https://tr.investing.com/news/stock-market-news/exasolun-ilk-yar-geliri-dusuk-tekrar-etmeyen-satslarla-azald-93CH-4035539",
+        "investing:https://tr.investing.com/news/stock-market-news/cinin-unitree-roboticsi-sanghayda-600un-uzerinde-yukseldi-4035541",
         "investing:https://tr.investing.com/news/company-news/jyske-bank-ilk-yarda-hisse-basna-39-dkk-kazanc-bildirdi-93CH-4035536",
         "investing:https://tr.investing.com/news/insider-trading-news/bloom-energy-cco-aman-joshi-113-milyon-dolarlk-hisse-satt-93CH-4035535",
         "investing:https://tr.investing.com/news/stock-market-news/idun-industrier-satn-almalarla-2-ceyrekte-yuzde-127-buyudu-93CH-4035534",
@@ -309,9 +312,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/elmerann-2c-duzeltilmis-net-geliri-artt-93CH-4035532",
         "investing:https://tr.investing.com/news/stock-market-news/geberit-ilk-yarda-kur-etkisinden-arndrlms-satslar-59-artrd-93CH-4035531",
         "investing:https://tr.investing.com/news/stock-market-news/austevoll-seafoodun-2c-geliri-somon-hacmindeki-dususle-beklentiyi-karslamad-93CH-4035530",
-        "investing:https://tr.investing.com/news/stock-market-news/ambeann-2c-net-satslar-7-artt-beklentileri-ast-93CH-4035525",
-        "investing:https://tr.investing.com/news/stock-market-news/llb-2026-ilk-yarsnda-karn-yuzde-15-artrd-93CH-4035524",
-        "investing:https://tr.investing.com/news/stock-market-news/zaptec-elektrikli-arac-talebiyle-rekor-2-ceyrek-geliri-acklad-93CH-4035522",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -332,6 +332,9 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-bist-hisseleri-200505262",
+        "investing:https://tr.investing.com/news/stock-market-news/ambeann-2c-net-satslar-7-artt-beklentileri-ast-93CH-4035525",
+        "investing:https://tr.investing.com/news/stock-market-news/llb-2026-ilk-yarsnda-karn-yuzde-15-artrd-93CH-4035524",
+        "investing:https://tr.investing.com/news/stock-market-news/zaptec-elektrikli-arac-talebiyle-rekor-2-ceyrek-geliri-acklad-93CH-4035522",
         "investing:https://tr.investing.com/news/stock-market-news/sensirion-ilk-yar-kar-82-artarken-2026-tahminini-yukseltti-93CH-4035512",
         "investing:https://tr.investing.com/news/stock-market-news/leroy-seafood-2c-kazanc-dusmesine-ragmen-rehberini-yukseltti-93CH-4035511",
         "investing:https://tr.investing.com/news/stock-market-news/rba-enflasyon-riskleri-gerceklesirse-faizleri-tekrar-artrabilir-93CH-4035509",
@@ -798,10 +801,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/multiconsult-ikinci-ceyrekte-yuzde-78-gelir-arts-bildirdi-93CH-4033777",
         "investing:https://tr.investing.com/news/stock-market-news/hindistann-nsesi-halka-arzda-55-milyar-dolara-deger-biciyor-4033779",
         "investing:https://tr.investing.com/news/stock-market-news/elopak-ikinci-ceyrekte-yuzde-49-gelir-arts-bildirdi-93CH-4033773",
-        "investing:https://tr.investing.com/news/stock-market-news/taiyo-yuden-hisseleri-dustu-situational-awareness-agustosta-payn-azaltt-4033774",
-        "investing:https://tr.investing.com/news/stock-market-news/brookfieldn-25-milyar-dolarlk-teklifi-sonras-rwc-hisseleri-frlad-4033772",
-        "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-fed-gorunumu-ve-abdiran-gerilimiyle-yon-aryor-4033770",
-        "investing:https://tr.investing.com/news/stock-market-news/psp-swiss-propertynin-ilk-yar-kar-sats-ve-yeniden-degerlemelerle-artt-93CH-4033768"
+        "investing:https://tr.investing.com/news/stock-market-news/taiyo-yuden-hisseleri-dustu-situational-awareness-agustosta-payn-azaltt-4033774"
       ]
     },
     "ntvpara": {
@@ -938,8 +938,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6682469:0",
+      "last_seen_key": "tradingview:matriks:6682481:0",
       "seen_keys": [
+        "tradingview:matriks:6682481:0",
+        "tradingview:matriks:6682480:0",
+        "tradingview:matriks:6682476:0",
+        "tradingview:matriks:6682475:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:matriks:6682474:0",
+        "tradingview:matriks:6682473:0",
+        "tradingview:matriks:6682472:0",
+        "tradingview:matriks:6682471:0",
         "tradingview:matriks:6682469:0",
         "tradingview:matriks:6682467:0",
         "tradingview:matriks:6682464:0",
@@ -1063,7 +1072,6 @@
         "tradingview:fxstreet:82aca4c81d9e8:0",
         "tradingview:cointelegraph:dd5df0c19d9e8:0",
         "tradingview:fxstreet:19590efe3d9e8:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:89169269dd9e8:0",
         "tradingview:beincrypto:bbb3177ebd9e8:0",
         "tradingview:fxstreet:7dcaffde4d9e8:0",
@@ -1431,15 +1439,7 @@
         "tradingview:matriks:6679861:0",
         "tradingview:matriks:6679857:0",
         "tradingview:matriks:6679856:0",
-        "tradingview:matriks:6679855:0",
-        "tradingview:matriks:6679854:0",
-        "tradingview:matriks:6679846:0",
-        "tradingview:matriks:6679845:0",
-        "tradingview:matriks:6679844:0",
-        "tradingview:matriks:6679841:0",
-        "tradingview:fxstreet:162771085d9e8:0",
-        "tradingview:matriks:6679839:0",
-        "tradingview:matriks:6679838:0"
+        "tradingview:matriks:6679855:0"
       ]
     },
     "forexfactory": {
@@ -1454,6 +1454,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi glrmk phillipcapital",
+      "link": "https://tr.tradingview.com/news/matriks:6682481:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx fikirleri tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682480:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin genc issizligi temmuzda 11 ay n zirvesine c kt",
+      "link": "https://tr.tradingview.com/news/matriks:6682476:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682475:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "is yat r m trgyo 151 97 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 151 97 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6682474:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk yabanc oranlar is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682473:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk analizler ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6682472:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten halk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682471:0"
+    },
+    {
+      "source": "investing",
+      "text": "deutsche rohstoff petrol fiyatlar yla gelir art s bildirdi",
+      "link": "https://tr.investing.com/news/stock-market-news/deutsche-rohstoff-petrol-fiyatlaryla-gelir-arts-bildirdi-93CH-4035540"
+    },
+    {
+      "source": "investing",
+      "text": "exasol un ilk yar geliri dusuk tekrar etmeyen sat slarla azald",
+      "link": "https://tr.investing.com/news/stock-market-news/exasolun-ilk-yar-geliri-dusuk-tekrar-etmeyen-satslarla-azald-93CH-4035539"
+    },
+    {
+      "source": "investing",
+      "text": "cin in unitree robotics i sanghay 600 un uzerinde yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/cinin-unitree-roboticsi-sanghayda-600un-uzerinde-yukseldi-4035541"
+    },
     {
       "source": "tradingview",
       "text": "gunluk bulten marbas menkul degerler",
@@ -8898,61 +8953,6 @@
       "source": "investing",
       "text": "digitalocean svp cherie barrett 589 840 dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/digitalocean-svp-cherie-barrett-589840-dolarlk-hisse-satt-93CH-4033736"
-    },
-    {
-      "source": "investing",
-      "text": "cochlear hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/cochlear-hissesi-bugun-neden-yukseliyor-93CH-4033735"
-    },
-    {
-      "source": "investing",
-      "text": "cochlear n tam y l kar 22 dustu ancak tahminleri ast",
-      "link": "https://tr.investing.com/news/stock-market-news/cochlearn-tam-yl-kar-22-dustu-ancak-tahminleri-ast-93CH-4033734"
-    },
-    {
-      "source": "investing",
-      "text": "ausgold hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/ausgold-hissesi-bugun-neden-yukseliyor-93CH-4033733"
-    },
-    {
-      "source": "investing",
-      "text": "aspen group hisseleri bugun neden yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/aspen-group-hisseleri-bugun-neden-yukseldi-93CH-4033732"
-    },
-    {
-      "source": "investing",
-      "text": "omeros mali isler baskan yard mc s borges 84 750 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/omeros-mali-isler-baskan-yardmcs-borges-84750-dolarlk-hisse-satt-93CH-4033731"
-    },
-    {
-      "source": "investing",
-      "text": "cerus corp hukuk muduru 89 529 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/cerus-corp-hukuk-muduru-89529-dolarlk-hisse-satt-93CH-4033730"
-    },
-    {
-      "source": "tradingview",
-      "text": "emisyon hacmi 17 08 2026 itibariyle 972 46 milyar tl",
-      "link": "https://tr.tradingview.com/news/matriks:6679260:0"
-    },
-    {
-      "source": "investing",
-      "text": "pro medicus hisseleri neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/pro-medicus-hisseleri-neden-yukseliste-93CH-4033728"
-    },
-    {
-      "source": "investing",
-      "text": "apollomics cfo su peter lin 400 005 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/apollomics-cfosu-peter-lin-400005-dolar-degerinde-hisse-ald-93CH-4033727"
-    },
-    {
-      "source": "investing",
-      "text": "petrol fiyatlar yukseldi iran krizi devam ediyor",
-      "link": "https://tr.investing.com/news/commodities-news/petrol-fiyatlar-yukseldi-iran-krizi-devam-ediyor-4033725"
-    },
-    {
-      "source": "investing",
-      "text": "gigacloud technology marka merkezi baskan bernes 530 000 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/gigacloud-technology-marka-merkezi-baskan-bernes-530000-dolarlk-hisse-satt-93CH-4033722"
     }
   ]
 }
