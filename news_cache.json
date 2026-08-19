@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652521",
+      "last_seen_key": "kap:1652523",
       "seen_keys": [
+        "kap:1652523",
+        "kap:1652522",
         "kap:1652521",
         "kap:1652520",
         "kap:1652519",
@@ -50,7 +52,6 @@
         "kap:1652450",
         "kap:1652449",
         "kap:1652448",
-        "kap:1652447",
         "kap:1652446",
         "kap:1652441",
         "kap:1652440",
@@ -93,6 +94,7 @@
         "kap:1652395",
         "kap:1652394",
         "kap:1652393",
+        "kap:1652447",
         "kap:1652392",
         "kap:1652391",
         "kap:1652390",
@@ -395,18 +397,17 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/corsair-gaming-hissesi-bugun-neden-dusuyor-93CH-4035918",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/barclays-guclu-sonuclar-ve-sermaye-harcamalar-gorunumu-ile-bhp-hisse-hedefini-yukseltti-93CH-4035945",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/stock-market-news/corsair-gaming-hissesi-bugun-neden-dusuyor-93CH-4035918",
-        "investing:https://tr.investing.com/news/stock-market-news/rising-dragon-acquisition-hisseleri-neden-yukseliyor-93CH-4035917",
-        "investing:https://tr.investing.com/news/analyst-ratings/jmp-securities-yapay-zeka-veri-talebi-nedeniyle-snowflake-hissesini-yukseltti-93CH-4035900",
-        "investing:https://tr.investing.com/news/analyst-ratings/costar-group-icin-35-dolarlk-hedef-fiyat-korundu-93CH-4035899",
-        "investing:https://tr.investing.com/news/analyst-ratings/duolingo-hissesi-icin-market-perform-notu-korundu-93CH-4035898",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-toll-brothers-hissesi-icin-hedef-fiyat-korudu-93CH-4035882",
-        "investing:https://tr.investing.com/news/stock-market-news/nvidia-kredi-riski-gostergesi-zirveye-ckt-softbank-tahvil-ihrac-hazrlyor-4035889",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-uber-hissesi-icin-hedefini-teslimat-ve-mobilite-gucuyle-korudu-93CH-4035880",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-us-physical-therapy-hissesi-icin-hedef-fiyatn-korudu-93CH-4035878",
-        "investing:https://tr.investing.com/news/economic-indicators/avro-bolgesinde-tuketici-fiyatlar-temmuzda-yllk-29-artt-4035879",
+        "investing:https://tr.investing.com/news/analyst-ratings/barclays-guclu-sonuclar-ve-sermaye-harcamalar-gorunumu-ile-bhp-hisse-hedefini-yukseltti-93CH-4035945",
+        "investing:https://tr.investing.com/news/analyst-ratings/stifel-autodesk-hissesi-icin-al-onerisini-korudu-93CH-4035939",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-bulut-guvenligi-konumuna-dayanarak-netskope-hisse-hedefini-yukseltti-93CH-4035940",
+        "investing:https://tr.investing.com/news/stock-market-news/barclays-avrupada-dizel-rafinaj-marjlarn-normal-seviyelerin-56-katnda-goruyor-93CH-4035938",
+        "investing:https://tr.investing.com/news/stock-market-news/brenx-hissesi-bugun-neden-yukseliyor-93CH-4035937",
+        "investing:https://tr.investing.com/news/stock-market-news/aflac-hisseleri-bugun-neden-dusuyor-93CH-4035936",
+        "investing:https://tr.investing.com/news/stock-market-news/pinewood-technologies-hissesi-bugun-neden-yukseliyor-93CH-4035934",
+        "investing:https://tr.investing.com/news/analyst-ratings/stifel-palo-alto-networks-icin-hisse-hedefini-yukseltti-93CH-4035933",
+        "investing:https://tr.investing.com/news/stock-market-news/klarna-fintech-pozisyonlama-degisimi-icinde-yatrmc-ilgisinde-one-ckt-93CH-4035931",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -427,6 +428,16 @@
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
+        "investing:https://tr.investing.com/news/stock-market-news/corsair-gaming-hissesi-bugun-neden-dusuyor-93CH-4035918",
+        "investing:https://tr.investing.com/news/stock-market-news/rising-dragon-acquisition-hisseleri-neden-yukseliyor-93CH-4035917",
+        "investing:https://tr.investing.com/news/analyst-ratings/jmp-securities-yapay-zeka-veri-talebi-nedeniyle-snowflake-hissesini-yukseltti-93CH-4035900",
+        "investing:https://tr.investing.com/news/analyst-ratings/costar-group-icin-35-dolarlk-hedef-fiyat-korundu-93CH-4035899",
+        "investing:https://tr.investing.com/news/analyst-ratings/duolingo-hissesi-icin-market-perform-notu-korundu-93CH-4035898",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-toll-brothers-hissesi-icin-hedef-fiyat-korudu-93CH-4035882",
+        "investing:https://tr.investing.com/news/stock-market-news/nvidia-kredi-riski-gostergesi-zirveye-ckt-softbank-tahvil-ihrac-hazrlyor-4035889",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-uber-hissesi-icin-hedefini-teslimat-ve-mobilite-gucuyle-korudu-93CH-4035880",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-us-physical-therapy-hissesi-icin-hedef-fiyatn-korudu-93CH-4035878",
+        "investing:https://tr.investing.com/news/economic-indicators/avro-bolgesinde-tuketici-fiyatlar-temmuzda-yllk-29-artt-4035879",
         "investing:https://tr.investing.com/news/company-news/activeops-yonetim-kurulu-baskan-tesvik-plan-ile-hisse-ald-93CH-4035864",
         "investing:https://tr.investing.com/news/stock-market-news/trainline-hisseleri-fiyatlandrma-sorusturmas-sonras-15-dustu-4035845",
         "investing:https://tr.investing.com/news/company-news/garanti-bankas-40-milyon-euro-tahvil-ihracna-onay-ald-93CH-4035844",
@@ -887,16 +898,7 @@
         "investing:https://tr.investing.com/news/company-news/foxconnun-yan-kurulusu-fukang-technologydeki-payn-100e-ckard-93CH-4034134",
         "investing:https://tr.investing.com/news/stock-market-news/jefferies-advnsysin-buyumesiyle-kingspan-icin-iyimser-4034137",
         "investing:https://tr.investing.com/news/global-filings/investconun-bagl-ortaklg-reme-400-milyon-tl-sermaye-onay-93CH-4034122",
-        "investing:https://tr.investing.com/news/global-filings/derluks-eksen-holding-olacak-a-grubu-paylara-5-kat-oy-hakk-93CH-4034119",
-        "investing:https://tr.investing.com/news/stock-market-news/frasers-hugo-bosstaki-payn-yuzde-48e-ckard-93CH-4034114",
-        "investing:https://tr.investing.com/news/economy-news/hurmuz-abd-anlasma-sartlarn-yerine-getirene-kadar-kapal-kalacak-4034121",
-        "investing:https://tr.investing.com/news/analyst-ratings/compass-point-gorilla-tech-hissesini-gpu-buyumesi-ile-al-onerisiyle-baslatt-93CH-4034113",
-        "investing:https://tr.investing.com/news/forex-news/bofa-zlotinin-4-ceyrekte-guclenecegini-ongoruyor-93CH-4034111",
-        "investing:https://tr.investing.com/news/stock-market-news/wolfe-kart-ihracclarnn-temmuz-kredi-verilerini-acklad-93CH-4034110",
-        "investing:https://tr.investing.com/news/forex-news/bofa-audnzd-sats-oneriyor-93CH-4034109",
-        "investing:https://tr.investing.com/news/global-filings/son-dakika-derluks-eksen-holding-olacak-ayrlma-hakk-273-tl-93CH-4034108",
-        "investing:https://tr.investing.com/news/economy-news/makao-2030a-kadar-gayrikumar-gsyih-payn-yuzde-60a-ckarmay-hedefliyor-93CH-4034105",
-        "investing:https://tr.investing.com/news/analyst-ratings/palo-alto-networks-icin-415-dolarlk-hedef-teyit-edildi-93CH-4034077"
+        "investing:https://tr.investing.com/news/global-filings/derluks-eksen-holding-olacak-a-grubu-paylara-5-kat-oy-hakk-93CH-4034119"
       ]
     },
     "ntvpara": {
@@ -1045,8 +1047,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6683419:0",
+      "last_seen_key": "tradingview:matriks:6683459:0",
       "seen_keys": [
+        "tradingview:matriks:6683459:0",
+        "tradingview:matriks:6683438:0",
         "tradingview:matriks:6683419:0",
         "tradingview:matriks:6683412:0",
         "tradingview:fxstreet:cdc6b2335d9e8:0",
@@ -1544,9 +1548,7 @@
         "tradingview:matriks:6680867:0",
         "tradingview:matriks:6680866:0",
         "tradingview:matriks:6680864:0",
-        "tradingview:matriks:6680861:0",
-        "tradingview:matriks:6680863:0",
-        "tradingview:matriks:6680862:0"
+        "tradingview:matriks:6680861:0"
       ]
     },
     "forexfactory": {
@@ -1561,6 +1563,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gun ortas notlar garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6683459:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya n n 10 y ll k tahvil getirisi 3 7844 15 y l n yeni en yuksek seviyesini gordu",
+      "link": "https://tr.tradingview.com/news/matriks:6683438:0"
+    },
+    {
+      "source": "investing",
+      "text": "barclays guclu sonuclar sermaye harcamalar gorunumu bhp hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/barclays-guclu-sonuclar-ve-sermaye-harcamalar-gorunumu-ile-bhp-hisse-hedefini-yukseltti-93CH-4035945"
+    },
+    {
+      "source": "investing",
+      "text": "stifel autodesk hissesi al onerisini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/stifel-autodesk-hissesi-icin-al-onerisini-korudu-93CH-4035939"
+    },
+    {
+      "source": "investing",
+      "text": "mizuho bulut guvenligi konumuna dayanarak netskope hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-bulut-guvenligi-konumuna-dayanarak-netskope-hisse-hedefini-yukseltti-93CH-4035940"
+    },
+    {
+      "source": "investing",
+      "text": "barclays avrupa dizel rafinaj marjlar n normal seviyelerin 5 6 kat nda goruyor",
+      "link": "https://tr.investing.com/news/stock-market-news/barclays-avrupada-dizel-rafinaj-marjlarn-normal-seviyelerin-56-katnda-goruyor-93CH-4035938"
+    },
+    {
+      "source": "investing",
+      "text": "brenx hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/brenx-hissesi-bugun-neden-yukseliyor-93CH-4035937"
+    },
+    {
+      "source": "investing",
+      "text": "aflac hisseleri bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/aflac-hisseleri-bugun-neden-dusuyor-93CH-4035936"
+    },
+    {
+      "source": "investing",
+      "text": "pinewood technologies hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/pinewood-technologies-hissesi-bugun-neden-yukseliyor-93CH-4035934"
+    },
+    {
+      "source": "investing",
+      "text": "stifel palo alto networks hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/stifel-palo-alto-networks-icin-hisse-hedefini-yukseltti-93CH-4035933"
+    },
+    {
+      "source": "investing",
+      "text": "klarna fintech pozisyonlama degisimi icinde yat r mc ilgisinde one c kt",
+      "link": "https://tr.investing.com/news/stock-market-news/klarna-fintech-pozisyonlama-degisimi-icinde-yatrmc-ilgisinde-one-ckt-93CH-4035931"
+    },
+    {
+      "source": "kap",
+      "text": "alves sirket genel bilgi formu sirket alves kablo sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652523"
+    },
+    {
+      "source": "kap",
+      "text": "arzum pay baz nda devre kesici bildirimi arzum e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652522"
+    },
     {
       "source": "tradingview",
       "text": "haz r beton endeksi verileri temmuz ay nda sektorde s n rl zay flamaya isaret ediyor",
@@ -8995,71 +9062,6 @@
       "source": "tradingview",
       "text": "enpara bank global finance taraf ndan duzenlenen 2026 dunyan n en iyi dijital bankalar odulleri kapsam nda iki onemli odulun sahibi oldu",
       "link": "https://tr.tradingview.com/news/matriks:6679943:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar tas ma islemleriyle destekleniyor ancak k sa vadede yatay seyrediyor ocbc",
-      "link": "https://tr.tradingview.com/news/fxstreet:5c47e1a57d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gumus fiyat analizi xag usd 65 civar nda yatay seyrediyor fomc odak noktas haline geliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:83a4ca251d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi bimas kuveyt turk yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6679936:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yat r m fikirleri garanti bbva yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6679934:0"
-    },
-    {
-      "source": "investing",
-      "text": "garanti bbva ya 100 milyon dolarl k tahvil ihrac onay",
-      "link": "https://tr.investing.com/news/company-news/garanti-bbvaya-100-milyon-dolarlk-tahvil-ihrac-onay-93CH-4033951"
-    },
-    {
-      "source": "investing",
-      "text": "axis bank n 300 milyon dolarl k tahvilleri moody s den baa3 notu ald",
-      "link": "https://tr.investing.com/news/company-news/axis-bankn-300-milyon-dolarlk-tahvilleri-moodysden-baa3-notu-ald-93CH-4033950"
-    },
-    {
-      "source": "investing",
-      "text": "philippine seven pse star buyume maliyetlerle bulusuyor",
-      "link": "https://tr.investing.com/news/transcripts/philippine-seven-pse-starda-buyume-maliyetlerle-bulusuyor-93CH-4033949"
-    },
-    {
-      "source": "investing",
-      "text": "jpmorgan waterbridge hisse kapsam n overweight yeniden baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-waterbridge-hisse-kapsamn-overweight-ile-yeniden-baslatt-93CH-4033948"
-    },
-    {
-      "source": "investing",
-      "text": "canaccord sunshine silver hissesi al onerisiyle kapsama baslad",
-      "link": "https://tr.investing.com/news/analyst-ratings/canaccord-sunshine-silver-hissesi-icin-al-onerisiyle-kapsama-baslad-93CH-4033947"
-    },
-    {
-      "source": "investing",
-      "text": "alman 10 y ll k tahvil getirisi 2011 den yana en yuksek seviyeye c kt",
-      "link": "https://tr.investing.com/news/stock-market-news/alman-10-yllk-tahvil-getirisi-2011den-bu-yana-en-yuksek-seviyeye-ckt-4033946"
-    },
-    {
-      "source": "investing",
-      "text": "coloplast hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/coloplast-hissesi-bugun-neden-yukseliyor-93CH-4033944"
-    },
-    {
-      "source": "investing",
-      "text": "made tech hisseleri 40 milyon sterlinlik anlasmayla 12 yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/made-tech-hisseleri-40-milyon-sterlinlik-anlasmayla-12-yukseldi-93CH-4033945"
-    },
-    {
-      "source": "investing",
-      "text": "rbc capital deneme basar s zl g sonras eyepoint hissesini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-deneme-basarszlg-sonras-eyepoint-hissesini-dusurdu-93CH-4033943"
     }
   ]
 }
