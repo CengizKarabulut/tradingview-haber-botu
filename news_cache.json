@@ -229,8 +229,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-kanada-ya-uygulanmasi-planlanan-tarifeyi-3-gunlugune-askiya-aldi-3785821",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/petrol-arz-endiseleriyle-yukselmeye-devam-ediyor-3785822",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/petrol-arz-endiseleriyle-yukselmeye-devam-ediyor-3785822",
         "bloomberght:https://www.bloomberght.com/trump-kanada-ya-uygulanmasi-planlanan-tarifeyi-3-gunlugune-askiya-aldi-3785821",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-19-agustos-2026-3785820",
         "bloomberght:https://www.bloomberght.com/bae-iran-ile-tum-ticari-ve-mali-islemleri-durdurdu-3785819",
@@ -926,6 +927,7 @@
       "seen_keys": [
         "tradingview:fxstreet:61de26842d9e8:0",
         "tradingview:fxstreet:c6f8baf31d9e8:0",
+        "tradingview:beincrypto:5b635c668d9e8:0",
         "tradingview:fxstreet:eaa2594dcd9e8:0",
         "tradingview:fxstreet:1fe6222ced9e8:0",
         "tradingview:matriks:6682231:0",
@@ -1422,8 +1424,7 @@
         "tradingview:matriks:6679514:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44F041:0",
         "tradingview:matriks:6679505:0",
-        "tradingview:matriks:6679503:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44F09C:0"
+        "tradingview:matriks:6679503:0"
       ]
     },
     "forexfactory": {
@@ -1437,6 +1438,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "petrol arz endiseleriyle yukselmeye devam ediyor petrol hurmuz bogaz n n gemi trafigine ac k olup olmad g na iliskin abd iran dan gelen celiskili ac klamalar n arz endiselerini art rmas yla carsamba gunu ust uste dorduncu seansta yukseldi",
+      "link": "https://www.bloomberght.com/petrol-arz-endiseleriyle-yukselmeye-devam-ediyor-3785822"
+    },
     {
       "source": "investing",
       "text": "china unicom hong kong hisseleri neden dusuyor",
@@ -8931,11 +8937,6 @@
       "source": "tradingview",
       "text": "endonezya rupiah bi nin politika duraklamas n uzatmas bekleniyor bbh",
       "link": "https://tr.tradingview.com/news/fxstreet:d45fe0c5fd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "youtube izlenme patlamas yat r m n z yerinde sayacak",
-      "link": "https://tr.tradingview.com/news/beincrypto:9e05d679cd9e8:0"
     }
   ]
 }
