@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652501",
+      "last_seen_key": "kap:1652513",
       "seen_keys": [
+        "kap:1652513",
+        "kap:1652502",
         "kap:1652501",
         "kap:1652500",
         "kap:1652499",
@@ -13,7 +15,6 @@
         "kap:1652495",
         "kap:1652494",
         "kap:1652493",
-        "kap:1652492",
         "kap:1652489",
         "kap:1652487",
         "kap:1652484",
@@ -95,6 +96,7 @@
         "kap:1652385",
         "kap:1652384",
         "kap:1652383",
+        "kap:1652492",
         "kap:1652382",
         "kap:1652381",
         "kap:1652380",
@@ -1547,6 +1549,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "eker pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon odemesi sirket eker sut urunleri gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652513"
+    },
+    {
+      "source": "kap",
+      "text": "przma pay baz nda devre kesici bildirimi przma e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652502"
+    },
     {
       "source": "tradingview",
       "text": "forex gunluk bulten gedik yat r m",
@@ -9036,16 +9048,6 @@
       "source": "tradingview",
       "text": "uluslararas piyasalar gunluk bulten burgan yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6679846:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bist50 gostergeler analizi aktif yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6679845:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "deniz yat r m selec 150 9 tl hedef fiyat belirledi tut tavsiyesini korudu onceki hedef fiyat 109 56 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6679844:0"
     }
   ]
 }
