@@ -795,8 +795,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/bakanlik-faiz-indirimi-haberlerini-yalanladi-1737861",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/gerilim-petrolu-yukseltiyor-1737950",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/gerilim-petrolu-yukseltiyor-1737950",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bakanlik-faiz-indirimi-haberlerini-yalanladi-1737861",
         "ntvpara:https://www.ntv.com.tr/ntvpara/rekabet-hukuku-applein-100-milyar-dolarlik-hizmetlerini-zora-soktu-1737837",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-gunes-enerjisi-kullanan-tuketiciler-elektrikli-otomobil-vergi-indirimlerinden-daha-cok-yararlaniyor-1737815",
@@ -925,8 +926,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6682350:0",
+      "last_seen_key": "tradingview:fxstreet:97ac386b2d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:97ac386b2d9e8:0",
+        "tradingview:matriks:6682365:0",
+        "tradingview:matriks:6682364:0",
+        "tradingview:matriks:6682360:0",
+        "tradingview:fxstreet:fb517e531d9e8:0",
+        "tradingview:matriks:6682358:0",
+        "tradingview:fxstreet:10047ffa5d9e8:0",
+        "tradingview:matriks:6682353:0",
         "tradingview:matriks:6682350:0",
         "tradingview:matriks:6682347:0",
         "tradingview:matriks:6682331:0",
@@ -980,9 +989,10 @@
         "tradingview:fxstreet:1fe6222ced9e8:0",
         "tradingview:matriks:6682231:0",
         "tradingview:beincrypto:577110d14d9e8:0",
-        "tradingview:fxstreet:fb517e531d9e8:0",
         "tradingview:fxstreet:7dc2fed0ad9e8:0",
         "tradingview:fxstreet:4009f90e8d9e8:0",
+        "tradingview:fxstreet:2ae427b6bd9e8:0",
+        "tradingview:fxstreet:4ba6d34f7d9e8:0",
         "tradingview:beincrypto:a8abb5409d9e8:0",
         "tradingview:fxstreet:4b198f668d9e8:0",
         "tradingview:beincrypto:2539be976d9e8:0",
@@ -1417,21 +1427,13 @@
         "tradingview:matriks:6679767:0",
         "tradingview:matriks:6679765:0",
         "tradingview:matriks:6679755:0",
-        "tradingview:matriks:6679748:0",
-        "tradingview:matriks:6679741:0",
-        "tradingview:fxstreet:c3965c55ad9e8:0",
-        "tradingview:matriks:6679737:0",
-        "tradingview:fxstreet:8bb5616a0d9e8:0",
-        "tradingview:matriks:6679727:0",
-        "tradingview:matriks:6679721:0",
-        "tradingview:matriks:6679715:0",
-        "tradingview:matriks:6679713:0",
-        "tradingview:matriks:6679710:0"
+        "tradingview:matriks:6679748:0"
       ]
     },
     "forexfactory": {
-      "last_seen_key": "forexfactory:upcoming:GBP:2026-08-18T02:00:00-04:00:claimant count change",
+      "last_seen_key": "forexfactory:upcoming:GBP:2026-08-19T02:00:00-04:00:cpi y/y",
       "seen_keys": [
+        "forexfactory:upcoming:GBP:2026-08-19T02:00:00-04:00:cpi y/y",
         "forexfactory:upcoming:GBP:2026-08-18T02:00:00-04:00:claimant count change",
         "forexfactory:upcoming:CAD:2026-08-17T08:30:00-04:00:cpi m/m",
         "forexfactory:upcoming:CAD:2026-08-17T08:30:00-04:00:median cpi y/y",
@@ -1440,6 +1442,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hindistan alt n fiyat bugun fxstreet taraf ndan derlenen verilere gore alt n fiyat yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:97ac386b2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop teknik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6682365:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "analitik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6682364:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasalar bulteni unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6682360:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist100 teknik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6682358:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur jpy fiyat analizi 100 gunluk sma n n alt nda hafif dusus egilimi surerken 184 50 civar na yumusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:10047ffa5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6682353:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "gerilim petrolu yukseltiyor abd iran c kmaz ortam nda petrol fiyatlar yukselisini surdurdu",
+      "link": "https://www.ntv.com.tr/ntvpara/gerilim-petrolu-yukseltiyor-1737950"
+    },
+    {
+      "source": "forexfactory",
+      "text": "gbp cpi y y yaklas k 75 sonra etki yuksek beklenti 2 9 onceki 2 6",
+      "link": "https://www.forexfactory.com/calendar"
+    },
     {
       "source": "tradingview",
       "text": "gunun pusulas pusula yat r m",
@@ -8894,51 +8941,6 @@
       "source": "tradingview",
       "text": "ingiliz sterlini uc ayl k en yuksek seviyesini koruyamad",
       "link": "https://tr.tradingview.com/news/fxstreet:0647750fed9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "cisco cfo mark patterson 578 979 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/cisco-cfo-mark-patterson-578979-dolarlk-hisse-satt-93CH-4033660"
-    },
-    {
-      "source": "investing",
-      "text": "chiron real estate cio su matthew whitlock 36 795 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/chiron-real-estate-ciosu-matthew-whitlock-36795-dolar-degerinde-hisse-ald-93CH-4033659"
-    },
-    {
-      "source": "investing",
-      "text": "avax one technology yat r mc anlasmas n degistirdi",
-      "link": "https://tr.investing.com/news/sec-filings/avax-one-technology-yatrmc-anlasmasn-degistirdi-93CH-4033658"
-    },
-    {
-      "source": "investing",
-      "text": "firy inc 80 milyon dolarl k tahvili geri odedi",
-      "link": "https://tr.investing.com/news/sec-filings/firy-inc-80-milyon-dolarlk-tahvili-geri-odedi-93CH-4033657"
-    },
-    {
-      "source": "investing",
-      "text": "helix acquisition corp iii nasdaq dan uyar ald",
-      "link": "https://tr.investing.com/news/sec-filings/helix-acquisition-corp-iii-nasdaqdan-uyar-ald-93CH-4033656"
-    },
-    {
-      "source": "kap",
-      "text": "sdttr tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket sdt uzay savunma teknolojileri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651804"
-    },
-    {
-      "source": "kap",
-      "text": "sdttr kat l m finans ilkeleri bilgi formu sirket sdt uzay savunma teknolojileri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651803"
-    },
-    {
-      "source": "kap",
-      "text": "sdttr sorumluluk beyan konsolide 30 06 2026 sorumluluk beyan sirket sdt uzay savunma teknolojileri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651802"
-    },
-    {
-      "source": "kap",
-      "text": "sdttr faaliyet raporu konsolide faaliyet raporu 30 06 2026 sirket sdt uzay savunma teknolojileri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651801"
     }
   ]
 }
