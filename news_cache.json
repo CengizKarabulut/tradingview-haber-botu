@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1652531",
+      "last_seen_key": "kap:1652536",
       "seen_keys": [
+        "kap:1652536",
+        "kap:1652535",
+        "kap:1652534",
         "kap:1652531",
         "kap:1652529",
         "kap:1652528",
@@ -1056,8 +1059,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6683546:0",
+      "last_seen_key": "tradingview:matriks:6683594:0",
       "seen_keys": [
+        "tradingview:matriks:6683594:0",
+        "tradingview:matriks:6683590:0",
+        "tradingview:fxstreet:b04afbe04d9e8:0",
+        "tradingview:fxstreet:0222cb3a9d9e8:0",
         "tradingview:matriks:6683546:0",
         "tradingview:matriks:6683544:0",
         "tradingview:matriks:6683542:0",
@@ -1553,11 +1560,7 @@
         "tradingview:fxstreet:ee52e6875d9e8:0",
         "tradingview:matriks:6680912:0",
         "tradingview:fxstreet:600d1f424d9e8:0",
-        "tradingview:fxstreet:897ea96d0d9e8:0",
-        "tradingview:matriks:6680910:0",
-        "tradingview:matriks:6680907:0",
-        "tradingview:fxstreet:7c263fbf9d9e8:0",
-        "tradingview:matriks:6680906:0"
+        "tradingview:fxstreet:897ea96d0d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1572,6 +1575,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "moderna merck ortakl g nda gelistirilen yeni nesil mrna kanser as s melanom tedavisinde onemli esigi ast ws",
+      "link": "https://tr.tradingview.com/news/matriks:6683594:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bakan bolat doviz donusum primi iki kat na c kacak bloomberght com",
+      "link": "https://tr.tradingview.com/news/matriks:6683590:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n fed tutanaklar oncesinde abd dolar n n geri cekilmesiyle destek buluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b04afbe04d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar reel faizler duserken pozisyonlanma normallesiyor bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:0222cb3a9d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "izfas pay baz nda devre kesici bildirimi izfas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652536"
+    },
+    {
+      "source": "kap",
+      "text": "conse sermaye art r m azalt m islemlerine iliskin bildirim sermaye piyasas kurulu na guncellenmis izahname sunulmas sirket consus enerji isletmeciligi hizmetleri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652535"
+    },
+    {
+      "source": "kap",
+      "text": "lmkdc gelecege donuk degerlendirmeler gelecege yonelik degerlendirmelerin kurumsal internet sitesinde yay mlanmas hk sirket limak dogu anadolu cimento sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1652534"
+    },
     {
       "source": "tradingview",
       "text": "arzum kolbas kahvede sadece turkiye degil dunyada buyumek istiyoruz cnbc e",
@@ -9036,41 +9074,6 @@
       "source": "investing",
       "text": "kainos hissesi bugun neden yukseliyor",
       "link": "https://tr.investing.com/news/stock-market-news/kainos-hissesi-bugun-neden-yukseliyor-93CH-4033973"
-    },
-    {
-      "source": "investing",
-      "text": "made tech hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/made-tech-hissesi-bugun-neden-yukseliyor-93CH-4033972"
-    },
-    {
-      "source": "investing",
-      "text": "citlekci citas e koduyla y ld z pazar isleme baslad",
-      "link": "https://tr.investing.com/news/global-filings/citlekci-citase-koduyla-yldz-pazarda-isleme-baslad-93CH-4033969"
-    },
-    {
-      "source": "investing",
-      "text": "akfis 500 bedelsiz hisse dag tt teorik fiyat 15 175 tl",
-      "link": "https://tr.investing.com/news/global-filings/akfis-500-bedelsiz-hisse-dagtt-teorik-fiyat-15175-tl-93CH-4033968"
-    },
-    {
-      "source": "investing",
-      "text": "synectics hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/synectics-hissesi-bugun-neden-dusuyor-93CH-4033967"
-    },
-    {
-      "source": "bloomberght",
-      "text": "istanbul konut fiyatlar nda dolar alt n makas ac ld istanbul 100 metrekarelik ortalama konutun fiyat dolar baz nda 2026 n n ucuncu ceyreginde 189 8 bin dolarla tarihi zirveye yaklas rken gram alt n baz nda 2 bin 34 grama gerileyerek 2023 teki zirvesinin belirgin sekilde alt nda kald",
-      "link": "https://www.bloomberght.com/istanbul-konutunda-dolar-altin-makasi-acildi-3785775"
-    },
-    {
-      "source": "bloomberght",
-      "text": "turkiye yapay zeka eylem plan yay mland turkiye yapay zeka eylem plan 2026 2030 konulu cumhurbaskanl g genelgesi resmi gazete yay mland",
-      "link": "https://www.bloomberght.com/turkiye-yapay-zeka-eylem-plani-yayimlandi-3785774"
-    },
-    {
-      "source": "bloomberght",
-      "text": "arakci mutabakat n uygulanmas n n onundeki en buyuk engel israil iran d sisleri bakan abbas erakci tahran kars taraf aras nda var lan mutabakat n hayata gecirilmesinin onundeki en buyuk engelin israil oldugunu belirtti",
-      "link": "https://www.bloomberght.com/arakci-mutabakatin-uygulanmasinin-onundeki-en-buyuk-engel-israil-3785773"
     }
   ]
 }
