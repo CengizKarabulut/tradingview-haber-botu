@@ -1056,8 +1056,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6683530:0",
+      "last_seen_key": "tradingview:matriks:6683546:0",
       "seen_keys": [
+        "tradingview:matriks:6683546:0",
+        "tradingview:matriks:6683544:0",
+        "tradingview:matriks:6683542:0",
         "tradingview:matriks:6683530:0",
         "tradingview:fxstreet:f709e1ad0d9e8:0",
         "tradingview:matriks:6683516:0",
@@ -1554,10 +1557,7 @@
         "tradingview:matriks:6680910:0",
         "tradingview:matriks:6680907:0",
         "tradingview:fxstreet:7c263fbf9d9e8:0",
-        "tradingview:matriks:6680906:0",
-        "tradingview:fxstreet:22afd288cd9e8:0",
-        "tradingview:fxstreet:65b606880d9e8:0",
-        "tradingview:matriks:6680903:0"
+        "tradingview:matriks:6680906:0"
       ]
     },
     "forexfactory": {
@@ -1572,6 +1572,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "arzum kolbas kahvede sadece turkiye degil dunyada buyumek istiyoruz cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6683546:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "arzum kolbas bundan sonraki donemde kisisel bak m urunlerine devam edecegiz cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6683544:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "arzum kolbas senenin ikinci yar s nda lanse edecegimiz urunlerin onemli k sm kahve kategorisinden olacak cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6683542:0"
+    },
     {
       "source": "tradingview",
       "text": "enerji bakanl g bagl kuruluslar ndan mta ic suriye jeoloji maden kaynaklar genel mudurlugu aras nda madencilik alan nda stratejik ortakl k gelistirilmesi ad na fosfat alan nda mutabakat zapt imzaland",
@@ -9056,21 +9071,6 @@
       "source": "bloomberght",
       "text": "arakci mutabakat n uygulanmas n n onundeki en buyuk engel israil iran d sisleri bakan abbas erakci tahran kars taraf aras nda var lan mutabakat n hayata gecirilmesinin onundeki en buyuk engelin israil oldugunu belirtti",
       "link": "https://www.bloomberght.com/arakci-mutabakatin-uygulanmasinin-onundeki-en-buyuk-engel-israil-3785773"
-    },
-    {
-      "source": "kap",
-      "text": "aydem pay baz nda devre kesici bildirimi aydem e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651895"
-    },
-    {
-      "source": "kap",
-      "text": "meten pay baz nda devre kesici bildirimi meten e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651885"
-    },
-    {
-      "source": "kap",
-      "text": "isatr isbtr isctr iskur tib pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren nitelikli yat r mc lara finansman bonosu sat s n n tamamlanmas sirket turkiye is bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1651884"
     }
   ]
 }
