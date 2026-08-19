@@ -797,8 +797,10 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/gerilim-petrolu-yukseltiyor-1737950",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-okul-servis-ucretine-yuzde-10-zam-yillik-90-bin-lirayi-asabiliyor-1737956",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-okul-servis-ucretine-yuzde-10-zam-yillik-90-bin-lirayi-asabiliyor-1737956",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/turkiye-sigorta-sgk-is-birligiyle-emeklilikte-guvenceyi-guclendiriyor-1737957",
         "ntvpara:https://www.ntv.com.tr/ntvpara/gerilim-petrolu-yukseltiyor-1737950",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bakanlik-faiz-indirimi-haberlerini-yalanladi-1737861",
         "ntvpara:https://www.ntv.com.tr/ntvpara/rekabet-hukuku-applein-100-milyar-dolarlik-hizmetlerini-zora-soktu-1737837",
@@ -928,8 +930,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6682397:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44G08A:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44G08A:0",
+        "tradingview:matriks:6682417:0",
+        "tradingview:matriks:6682416:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44G09L:0",
+        "tradingview:matriks:6682401:0",
+        "tradingview:matriks:6682400:0",
+        "tradingview:fxstreet:ce4798cddd9e8:0",
         "tradingview:matriks:6682397:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44G097:0",
         "tradingview:fxstreet:a33280a33d9e8:0",
@@ -991,7 +1000,6 @@
         "tradingview:matriks:6682281:0",
         "tradingview:cointelegraph:251ef1c94d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44G04Y:0",
-        "tradingview:fxstreet:ce4798cddd9e8:0",
         "tradingview:fxstreet:90d737560d9e8:0",
         "tradingview:fxstreet:b0777356ad9e8:0",
         "tradingview:beincrypto:5f8b5920bd9e8:0",
@@ -1423,13 +1431,7 @@
         "tradingview:fxstreet:d853d49d1d9e8:0",
         "tradingview:matriks:6679813:0",
         "tradingview:matriks:6679810:0",
-        "tradingview:matriks:6679809:0",
-        "tradingview:matriks:6679805:0",
-        "tradingview:beincrypto:3c33e53ffd9e8:0",
-        "tradingview:matriks:6679802:0",
-        "tradingview:matriks:6679801:0",
-        "tradingview:matriks:6679800:0",
-        "tradingview:matriks:6679797:0"
+        "tradingview:matriks:6679809:0"
       ]
     },
     "forexfactory": {
@@ -1444,6 +1446,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "torunlar gyo q2 4 2 mlyr tl net kar etti gecen y l ayn donem 4 6 mlyr tl net kar",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44G08A:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alnus yat r m ulker 159 06 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 168 85 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6682417:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kuveyt turk yat r m glrmk 248 tl hedef fiyat al tavsiyesi verdi onceki hedef fiyat 252 tl onceki tavsiye tut",
+      "link": "https://tr.tradingview.com/news/matriks:6682416:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44G09L:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya y l tah l hasad n n onceki y la gore 7 daha dusuk gerceklesmesi bekleniyor",
+      "link": "https://tr.tradingview.com/news/matriks:6682401:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "softbank group 6 3 milyar dolarl k tahvil ihrac etmeyi planl yor nikkei",
+      "link": "https://tr.tradingview.com/news/matriks:6682400:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "okul servis ucretine yuzde 10 zam y ll k 90 bin liray asabiliyor okullar n ac lmas na aydan k sa sure kala servislerin fiyatlar ac klanmaya baslad veliler fiyatlar yuksek bulsa servisciler aksini dusunuyor",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-okul-servis-ucretine-yuzde-10-zam-yillik-90-bin-lirayi-asabiliyor-1737956"
+    },
+    {
+      "source": "ntvpara",
+      "text": "turkiye sigorta sgk is birligiyle emeklilikte guvenceyi guclendiriyor turkiye sigorta guclu sermaye yap s yayg n hizmet ag musteri odakl yaklas m yla sigorta hizmetlerini toplumun her kesimi erisilebilir k lmaya yonelik cal smalar n surduruyor iland r",
+      "link": "https://www.ntv.com.tr/ntvpara/turkiye-sigorta-sgk-is-birligiyle-emeklilikte-guvenceyi-guclendiriyor-1737957"
+    },
     {
       "source": "bloomberght",
       "text": "maliye den s cak paraya yeni vergi formulu maliye yabanc kurumsal yat r mc lar n ozellikle para piyasas fonlar nda yogunlasan k sa vadeli sermaye hareketlerini mercek alt na ald donemde stopaj avantaj n kullanmak para piyasalar na yonelen s cak para n n uzun vadel",
@@ -8903,46 +8945,6 @@
       "source": "investing",
       "text": "servicetitan cfo su david sherry 817 470 dolar degerinde hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/servicetitan-cfosu-david-sherry-817470-dolar-degerinde-hisse-satt-93CH-4033681"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd baskan donald trump iran mou sunun uzat lmas n istemedigini soyledi",
-      "link": "https://tr.tradingview.com/news/fxstreet:1b386d400d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "brinker international ceo su 9 66 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/brinker-international-ceosu-966-milyon-dolarlk-hisse-satt-93CH-4033680"
-    },
-    {
-      "source": "investing",
-      "text": "brinker in coo su comings 1 18 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/brinkerin-coosu-comings-118-milyon-dolarlk-hisse-satt-93CH-4033679"
-    },
-    {
-      "source": "investing",
-      "text": "corecivic in evp si grande 981 bin dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/corecivicin-evpsi-grande-981-bin-dolarlk-hisse-satt-93CH-4033678"
-    },
-    {
-      "source": "investing",
-      "text": "brinker international yoneticisi cindy davis 441 833 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/brinker-international-yoneticisi-cindy-davis-441833-dolar-degerinde-hisse-satt-93CH-4033677"
-    },
-    {
-      "source": "investing",
-      "text": "kontoor brands ceo su scott baxter 15 3 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/kontoor-brands-ceosu-scott-baxter-153-milyon-dolarlk-hisse-satt-93CH-4033676"
-    },
-    {
-      "source": "investing",
-      "text": "rhythm pharmaceuticals cto 608 210 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/rhythm-pharmaceuticals-cto-608210-dolarlk-hisse-satt-93CH-4033675"
-    },
-    {
-      "source": "tradingview",
-      "text": "ons alt n zay f abd verilerinin fed faiz art r m olas l g n azaltmas yla 4 400 dolar n uzerinde ivme kazan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:3cac75a7cd9e8:0"
     }
   ]
 }
