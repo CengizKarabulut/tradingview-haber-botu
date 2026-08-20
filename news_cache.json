@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653564",
+      "last_seen_key": "kap:1653576",
       "seen_keys": [
+        "kap:1653576",
+        "kap:1653575",
+        "kap:1653573",
+        "kap:1653572",
+        "kap:1653570",
+        "kap:1653566",
+        "kap:1653565",
         "kap:1653564",
         "kap:1653561",
         "kap:1653556",
@@ -496,19 +503,14 @@
         "kap:1652972",
         "kap:1652971",
         "kap:1652970",
-        "kap:1652969",
-        "kap:1652968",
-        "kap:1652967",
-        "kap:1652966",
-        "kap:1652965",
-        "kap:1652964",
-        "kap:1652963",
-        "kap:1652962"
+        "kap:1652969"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/toplam-sanayi-uretici-fiyat-endeksi-aylik-yuzde-1-83-artti-3786039",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/brut-borc-stoku-15-trilyon-463-3-milyar-tl-oldu-3786044",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/brut-borc-stoku-15-trilyon-463-3-milyar-tl-oldu-3786044",
+        "bloomberght:https://www.bloomberght.com/hazine-alacaklari-254-milyar-lira-oldu-3786043",
         "bloomberght:https://www.bloomberght.com/toplam-sanayi-uretici-fiyat-endeksi-aylik-yuzde-1-83-artti-3786039",
         "bloomberght:https://www.bloomberght.com/ikinci-el-arac-piyasasinda-eylul-den-itibaren-hareketlilik-bekliyoruz-3786037",
         "bloomberght:https://www.bloomberght.com/bilgen-istanbul-havalimani-nin-savas-sirasinda-abd-ve-asya-ya-trafigi-artti-3786036",
@@ -1294,8 +1296,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6687841:0",
+      "last_seen_key": "tradingview:fxstreet:8ce0a423cd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:8ce0a423cd9e8:0",
+        "tradingview:fxstreet:8f93a2e22d9e8:0",
         "tradingview:matriks:6687841:0",
         "tradingview:matriks:6687834:0",
         "tradingview:matriks:6687833:0",
@@ -1793,9 +1797,7 @@
         "tradingview:fxstreet:364420ae4d9e8:0",
         "tradingview:fxstreet:5ed9aed26d9e8:0",
         "tradingview:fxstreet:6af713702d9e8:0",
-        "tradingview:fxstreet:fed32fa7ed9e8:0",
-        "tradingview:fxstreet:714dcaca7d9e8:0",
-        "tradingview:fxstreet:6cbd3d4c9d9e8:0"
+        "tradingview:fxstreet:fed32fa7ed9e8:0"
       ]
     },
     "forexfactory": {
@@ -1813,6 +1815,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "eur gbp yat r mc lar n cift oncu pmi verilerini beklemesiyle gun ici zirvelerden gevsedi",
+      "link": "https://tr.tradingview.com/news/fxstreet:8ce0a423cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu teknoloji destegiyle asya fx e liderlik ediyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:8f93a2e22d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "brut borc stoku 15 trilyon 463 3 milyar tl oldu merkezi yonetim brut borc stoku haziran sonu itibar yla 14 trilyon 992 5 milyar lira olarak belirlendi",
+      "link": "https://www.bloomberght.com/brut-borc-stoku-15-trilyon-463-3-milyar-tl-oldu-3786044"
+    },
+    {
+      "source": "bloomberght",
+      "text": "hazine alacaklar 254 milyar lira oldu hazine alacaklar temmuz sonu itibar yla 254 milyar lira olarak gerceklesti",
+      "link": "https://www.bloomberght.com/hazine-alacaklari-254-milyar-lira-oldu-3786043"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym yat r m kurulusu varant sertifika senetlerine iliskin bildirim is yat r m sertifika varant al m sat m islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653576"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi borsa yat r m fonu piyasa yap c l g islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653575"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren borclanma arac ihrac sat s n tamamlanmas sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653573"
+    },
+    {
+      "source": "kap",
+      "text": "cvkmd birincil piyasa duyurusu kalan paylar birincil piyasa duyurusu kalan paylar sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653572"
+    },
+    {
+      "source": "kap",
+      "text": "islem iptali bap islem iptali sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653570"
+    },
+    {
+      "source": "kap",
+      "text": "derhl esas sozlesme esas sozlesme sirket derluks yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653566"
+    },
+    {
+      "source": "kap",
+      "text": "derhl sermaye art r m azalt m islemlerine iliskin bildirim sermaye art r m na iliskin esas sozlesme degisikliginin tescil ilan edilmesi sirket derluks yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653565"
+    },
     {
       "source": "tradingview",
       "text": "ubs abd hazinesi nin nadir gorulen mudahalesi zaman kazand rd ancak kal c cozum degil",
@@ -9257,61 +9314,6 @@
       "source": "investing",
       "text": "keybanc autodesk hissesi hedef fiyat korudu",
       "link": "https://tr.investing.com/news/analyst-ratings/keybanc-autodesk-hissesi-icin-hedef-fiyat-korudu-93CH-4036679"
-    },
-    {
-      "source": "investing",
-      "text": "keybanc home depot hissesinde gorusunu korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/keybanc-home-depot-hissesinde-gorusunu-korudu-93CH-4036677"
-    },
-    {
-      "source": "investing",
-      "text": "ubs home depot un hisse hedefini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/ubs-home-depotun-hisse-hedefini-dusurdu-93CH-4036678"
-    },
-    {
-      "source": "investing",
-      "text": "tempus ai hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/tempus-ai-hissesi-bugun-neden-yukseliyor-93CH-4036675"
-    },
-    {
-      "source": "investing",
-      "text": "nomad power hissesi ul 9540 sertifikas sonras yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/nomad-power-hissesi-ul-9540-sertifikas-sonras-yukseldi-93CH-4036670"
-    },
-    {
-      "source": "kap",
-      "text": "akcns ayes bera efor endae gubrf idgyo merit trcas tskb borsada islem goren tipe donusum duyurusu donusum sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652617"
-    },
-    {
-      "source": "kap",
-      "text": "klsyn pltur pay mali hak kullan m islemi nakit odeme hak kullan m islemleri sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652610"
-    },
-    {
-      "source": "kap",
-      "text": "atlfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren oran n kullan lacag donem bilgisi sirket atilim faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652609"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro dusen abd hazine getirilerinin abd dolar uzerinde bask olusturmas yla haziran ay zirvelerine yukseldi",
-      "link": "https://tr.tradingview.com/news/fxstreet:af3a74309d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tar m emtia bulteni integral yat r m menkul degerler",
-      "link": "https://tr.tradingview.com/news/matriks:6684012:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "avustralya dolar gelecek y la dogru s g yukselis trendi riski rabobank",
-      "link": "https://tr.tradingview.com/news/fxstreet:b8e43e530d9e8:0"
-    },
-    {
-      "source": "kap",
-      "text": "alves yeni is iliskisi yeni is iliskisi sirket alves kablo sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652607"
     }
   ]
 }
