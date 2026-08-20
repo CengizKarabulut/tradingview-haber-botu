@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653383",
+      "last_seen_key": "kap:1653390",
       "seen_keys": [
+        "kap:1653390",
+        "kap:1653389",
+        "kap:1653388",
+        "kap:1653387",
+        "kap:1653386",
+        "kap:1653385",
         "kap:1653383",
         "kap:1653382",
         "kap:1653381",
@@ -494,8 +500,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/cin-de-luks-markalarin-satislarindaki-dusus-derinlesiyor-3785979",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/turkiye-nin-nufusu-86-milyon-320-bini-gecti-3785984",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/turkiye-nin-nufusu-86-milyon-320-bini-gecti-3785984",
+        "bloomberght:https://www.bloomberght.com/simsek-kuresel-enerji-piyasalarinda-olaganustu-bir-donemden-geciyoruz-3785983",
         "bloomberght:https://www.bloomberght.com/cin-de-luks-markalarin-satislarindaki-dusus-derinlesiyor-3785979",
         "bloomberght:https://www.bloomberght.com/tcmb-den-4-ay-sonra-tahvil-hamlesi-3785977",
         "bloomberght:https://www.bloomberght.com/fkb-nin-yil-sonu-enflasyon-beklentisi-yukseldi-3785976",
@@ -1004,8 +1012,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-bir-zamanlar-asyanin-en-zengin-adamiydi-borc-batagindaki-sirketin-sahibine-muebbet-hapis-cezasi-1738123",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/cinden-trumpin-yeni-tarifelerine-karsi-iddiali-cikis-1738133",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/cinden-trumpin-yeni-tarifelerine-karsi-iddiali-cikis-1738133",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-bir-zamanlar-asyanin-en-zengin-adamiydi-borc-batagindaki-sirketin-sahibine-muebbet-hapis-cezasi-1738123",
         "ntvpara:https://www.ntv.com.tr/ntvpara/kira-artisinda-rekor-kirdilar-istanbul-ilk-5te-degil-1738126",
         "ntvpara:https://www.ntv.com.tr/ntvpara/turkiyenin-nufusu-belli-oldu-1738127",
@@ -1691,6 +1700,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "cin den trump n yeni tarifelerine kars iddial c k s trump n insans hava araclar na uygulad g gumruk vergileri cin hukumeti taraf ndan buyuk tepkiyle kars land",
+      "link": "https://www.ntv.com.tr/ntvpara/cinden-trumpin-yeni-tarifelerine-karsi-iddiali-cikis-1738133"
+    },
+    {
+      "source": "bloomberght",
+      "text": "turkiye nin nufusu 86 milyon 320 bini gecti turkiye nin nufusu 1 temmuz itibar yla 86 milyon 320 bin 602 kisi oldu",
+      "link": "https://www.bloomberght.com/turkiye-nin-nufusu-86-milyon-320-bini-gecti-3785984"
+    },
+    {
+      "source": "bloomberght",
+      "text": "simsek kuresel enerji piyasalar nda olaganustu donemden geciyoruz hazine maliye bakan mehmet simsek sosyal medya hesab ndan ac klamalarda bulundu",
+      "link": "https://www.bloomberght.com/simsek-kuresel-enerji-piyasalarinda-olaganustu-bir-donemden-geciyoruz-3785983"
+    },
+    {
+      "source": "kap",
+      "text": "konya tsrs uyumlu surdurulebilirlik raporu tsrs uyumlu surdurulebilirlik raporu 2025 sirket konya cimento sanayii a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653390"
+    },
+    {
+      "source": "kap",
+      "text": "bascm tsrs uyumlu surdurulebilirlik raporu tsrs uyumlu surdurulebilirlik raporu 2025 sirket bastas baskent cimento sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653389"
+    },
+    {
+      "source": "kap",
+      "text": "ogp finansal tablo veya dipnot degisikligi finansal tablo veya dipnot degisikligi sirket omurga gayrimenkul girisim sermayesi portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653388"
+    },
+    {
+      "source": "kap",
+      "text": "sise ozel durum ac klamas genel 2029 2032 vadeli eurobond lar n hukum sartlar nda yer alan favok tan m n n tadili hakk nda yat r mc onay talebi hk sirket turkiye sise cam fabrikalari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653387"
+    },
+    {
+      "source": "kap",
+      "text": "citas sirket genel bilgi formu sirket citlekci magazacilik gida a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653386"
+    },
+    {
+      "source": "kap",
+      "text": "deva pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsdeva82629 isin kodlu tahvilin 8 kupon odemesi itfas sirket deva holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653385"
+    },
     {
       "source": "tradingview",
       "text": "makro analiz isgucu piyasas oyak yat r m",
@@ -9145,51 +9199,6 @@
       "source": "tradingview",
       "text": "mevsim etkisinden ar nd r lm s issizlik oran 2 ceyrekte 7 9 onceki 8 2 tuik",
       "link": "https://tr.tradingview.com/news/matriks:6682749:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "forex bulteni integral yat r m menkul degerler",
-      "link": "https://tr.tradingview.com/news/matriks:6682747:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "merkez bankas nca ac klanan rezerv verilerine gore bugun piyasa 3240066 5 milyon tl art",
-      "link": "https://tr.tradingview.com/news/matriks:6682744:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "merkez bankas nca ac klanan verilere gore bankalar n serbest depolar toplam 1797066 0 milyon tl",
-      "link": "https://tr.tradingview.com/news/matriks:6682745:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ecb rehn ucret art s ucret gorunumu l ml seyrini korudu ikinci tur etkilerine iliskin net isaret bulunmuyor",
-      "link": "https://tr.tradingview.com/news/matriks:6682742:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten bulls yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6682741:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bist sirket karlar bizim menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6682736:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "teknik analiz bulteni piramit menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6682733:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk strateji bulteni piramit menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6682732:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "borsa istanbul gune 24 35 puan 0 17 dususle baslad matriks haber anketi 19 44 puan",
-      "link": "https://tr.tradingview.com/news/matriks:6682731:0"
     }
   ]
 }
