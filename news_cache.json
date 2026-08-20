@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653705",
+      "last_seen_key": "kap:1653707",
       "seen_keys": [
+        "kap:1653707",
+        "kap:1653706",
         "kap:1653705",
         "kap:1653704",
         "kap:1653703",
@@ -501,9 +503,7 @@
         "kap:1653066",
         "kap:1653065",
         "kap:1653064",
-        "kap:1653063",
-        "kap:1653062",
-        "kap:1653061"
+        "kap:1653063"
       ]
     },
     "bloomberght": {
@@ -1247,8 +1247,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:eb75bafb7d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:5ccb81896d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:5ccb81896d9e8:0",
+        "tradingview:fxstreet:657bc87ecd9e8:0",
         "tradingview:cointelegraph:eb75bafb7d9e8:0",
         "tradingview:fxstreet:a3a378318d9e8:0",
         "tradingview:fxstreet:a741a8566d9e8:0",
@@ -1746,9 +1748,7 @@
         "tradingview:matriks:6685785:0",
         "tradingview:matriks:6685784:0",
         "tradingview:matriks:6685795:0",
-        "tradingview:matriks:6685789:0",
-        "tradingview:matriks:6685788:0",
-        "tradingview:matriks:6685782:0"
+        "tradingview:matriks:6685789:0"
       ]
     },
     "forexfactory": {
@@ -1766,6 +1766,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar kar s k verilerin rba s k last rma beklentilerini canl tutmas yla zirvelere yak n seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5ccb81896d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dow jones industrial average 1983 ten yana en iyi gorunumu sergiliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:657bc87ecd9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "ppr sorumluluk beyan konsolide olmayan 01 ocak 2026 30 haziran 2026 finansal rapor sorumluluk beyan sirket papara menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653707"
+    },
+    {
+      "source": "kap",
+      "text": "dagi paylar n geri al nmas na iliskin bildirim 20 agustos 2026 tarihli pay geri al m islemleri sirket dagi giyim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653706"
+    },
     {
       "source": "kap",
       "text": "ppr finansal rapor sirket papara menkul degerler a s",
@@ -9245,26 +9265,6 @@
       "source": "kap",
       "text": "doas gelecege donuk degerlendirmeler analist bilgilendirme sunumunun internet sitemizde yay mlanmas sirket dogus otomotiv servis ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653028"
-    },
-    {
-      "source": "kap",
-      "text": "hrket finansal rapor sirket hareket proje tasimaciligi yuk muhendisligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653027"
-    },
-    {
-      "source": "kap",
-      "text": "ieyho kat l m finans ilkeleri bilgi formu sirket isiklar enerji yapi holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653026"
-    },
-    {
-      "source": "kap",
-      "text": "klkim kat l m finans ilkeleri bilgi formu sirket kalekim kimyevi maddeler sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653025"
-    },
-    {
-      "source": "kap",
-      "text": "yaprk kat l m finans ilkeleri bilgi formu sirket yaprak sut besi ciftlikleri sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653024"
     }
   ]
 }
