@@ -2,9 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653729",
+      "last_seen_key": "kap:1653730",
       "seen_keys": [
-        "kap:1653729",
+        "kap:1653730",
         "kap:1653727",
         "kap:1653726",
         "kap:1653725",
@@ -97,6 +97,7 @@
         "kap:1653599",
         "kap:1653597",
         "kap:1653596",
+        "kap:1653729",
         "kap:1653595",
         "kap:1653728",
         "kap:1653594",
@@ -502,13 +503,13 @@
         "kap:1653093",
         "kap:1653091",
         "kap:1653090",
-        "kap:1653089",
-        "kap:1653088"
+        "kap:1653089"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/micron-dan-ar-ge-laboratuvarina-10-milyar-dolarlik-yatirim-3786075",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/anthropic-veri-saklama-politikasini-degistiriyor-3786076",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/anthropic-veri-saklama-politikasini-degistiriyor-3786076",
         "bloomberght:https://www.bloomberght.com/micron-dan-ar-ge-laboratuvarina-10-milyar-dolarlik-yatirim-3786075",
         "bloomberght:https://www.bloomberght.com/spk-2-sirketin-halka-arzini-onayladi-3786074",
         "bloomberght:https://www.bloomberght.com/rusya-nin-altin-rezervleri-6-5-yilin-dibinde-3786073",
@@ -1243,9 +1244,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:acc5c5361d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:766752910d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:766752910d9e8:0",
+        "tradingview:cointelegraph:56350b514d9e8:0",
         "tradingview:cointelegraph:acc5c5361d9e8:0",
+        "tradingview:beincrypto:3bea8ed36d9e8:0",
         "tradingview:fxstreet:449036394d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:f7109e526d9e8:0",
@@ -1741,10 +1745,7 @@
         "tradingview:matriks:6685820:0",
         "tradingview:matriks:6685819:0",
         "tradingview:matriks:6685816:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44H043:0",
-        "tradingview:fxstreet:92cb1d04ad9e8:0",
-        "tradingview:matriks:6685813:0",
-        "tradingview:matriks:6685812:0"
+        "tradingview:tag:reuters.com,2026:newsml_L8N44H043:0"
       ]
     },
     "forexfactory": {
@@ -1762,6 +1763,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bitcoin kas m ay ndan yana ilk kez 200 gunluk hareketli ortalaman n uzerine c kt",
+      "link": "https://tr.tradingview.com/news/cointelegraph:766752910d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cftc baskan clarity basar s z olursa kurumun kripto duzenlemesi konusunda ilerleyecegini soyledi",
+      "link": "https://tr.tradingview.com/news/cointelegraph:56350b514d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "anthropic veri saklama politikas n degistiriyor anthropic kurumsal musterilerinin kendi verileri uzerinde daha fazla kontrol sahibi olmas n saglayacak yeni guvenlik sistemi uzerinde cal s yor sirketin sistemi y l n sonlar nda devreye almas bekleniyor",
+      "link": "https://www.bloomberght.com/anthropic-veri-saklama-politikasini-degistiriyor-3786076"
+    },
+    {
+      "source": "kap",
+      "text": "skp pay al m sat m bildirimi pay al m sat m bildirimi sirket tera portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653730"
+    },
     {
       "source": "investing",
       "text": "dsv jefferies in kuresel tas mac l k tercihi oldu",
@@ -9241,26 +9262,6 @@
       "source": "investing",
       "text": "moderna hissesi bugun neden yukseliyor",
       "link": "https://tr.investing.com/news/stock-market-news/moderna-hissesi-bugun-neden-yukseliyor-93CH-4036875"
-    },
-    {
-      "source": "investing",
-      "text": "flywire hissesi 18 99 dolarda 52 haftal k zirve yapt",
-      "link": "https://tr.investing.com/news/company-news/flywire-hissesi-1899-dolarda-52-haftalk-zirve-yapt-93CH-4036874"
-    },
-    {
-      "source": "investing",
-      "text": "kuzeybat avrupa benzin marjlar arz n daralmas yla yukseldi",
-      "link": "https://tr.investing.com/news/commodities-news/kuzeybat-avrupada-benzin-marjlar-arzn-daralmasyla-yukseldi-93CH-4036873"
-    },
-    {
-      "source": "investing",
-      "text": "umh properties yoneticisi mitchell 1 000 dolarl k hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/umh-properties-yoneticisi-mitchell-1000-dolarlk-hisse-ald-93CH-4036872"
-    },
-    {
-      "source": "investing",
-      "text": "umh properties evp cfo sirket hissesinden 1 000 dolar ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/umh-properties-evp-ve-cfo-sirket-hissesinden-1000-dolar-ald-93CH-4036871"
     }
   ]
 }
