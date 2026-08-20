@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653406",
+      "last_seen_key": "kap:1653434",
       "seen_keys": [
+        "kap:1653434",
         "kap:1653406",
         "kap:1653405",
         "kap:1653404",
@@ -502,8 +503,7 @@
         "kap:1652878",
         "kap:1652877",
         "kap:1652876",
-        "kap:1652875",
-        "kap:1652874"
+        "kap:1652875"
       ]
     },
     "bloomberght": {
@@ -1223,8 +1223,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6686954:0",
+      "last_seen_key": "tradingview:matriks:6687043:0",
       "seen_keys": [
+        "tradingview:matriks:6687043:0",
+        "tradingview:fxstreet:0195277a9d9e8:0",
+        "tradingview:fxstreet:250eb9df1d9e8:0",
+        "tradingview:matriks:6686986:0",
+        "tradingview:matriks:6686982:0",
+        "tradingview:matriks:6686981:0",
+        "tradingview:matriks:6686965:0",
+        "tradingview:matriks:6686961:0",
         "tradingview:matriks:6686954:0",
         "tradingview:matriks:6686934:0",
         "tradingview:matriks:6686913:0",
@@ -1247,7 +1255,9 @@
         "tradingview:matriks:6686752:0",
         "tradingview:fxstreet:8c92c7c6bd9e8:0",
         "tradingview:fxstreet:ba05460fbd9e8:0",
+        "tradingview:matriks:6686719:0",
         "tradingview:fxstreet:cc4b97a87d9e8:0",
+        "tradingview:matriks:6686718:0",
         "tradingview:fxstreet:5e48631cdd9e8:0",
         "tradingview:matriks:6686714:0",
         "tradingview:fxstreet:d2da129e4d9e8:0",
@@ -1714,17 +1724,7 @@
         "tradingview:matriks:6683972:0",
         "tradingview:cointelegraph:459573331d9e8:0",
         "tradingview:matriks:6683966:0",
-        "tradingview:matriks:6683965:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44G0SL:0",
-        "tradingview:fxstreet:cec42b5d3d9e8:0",
-        "tradingview:matriks:6683956:0",
-        "tradingview:matriks:6683952:0",
-        "tradingview:matriks:6683948:0",
-        "tradingview:matriks:6683946:0",
-        "tradingview:matriks:6683937:0",
-        "tradingview:beincrypto:2cb03f50ad9e8:0",
-        "tradingview:fxstreet:53530d95dd9e8:0",
-        "tradingview:matriks:6683924:0"
+        "tradingview:matriks:6683965:0"
       ]
     },
     "forexfactory": {
@@ -1742,6 +1742,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "anket matriks haber bist sentiment anketi borsa kapan s beklentisi 101 01 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6687043:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro amb boe faiz art r m beklentilerinin birbirini dengelemesiyle ingiliz sterlini kars s nda yatay seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:0195277a9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd yavas buyume ancak veriler istihdam oldugundan dusuk gosteriyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:250eb9df1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kremlin abd ticaret elcisi kushner witkoff un olas ziyareti konusunda bilgi yok",
+      "link": "https://tr.tradingview.com/news/matriks:6686986:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bundesbank almanya enflasyon gecici olarak daha yukselebilir ucretlerde ikinci tur etkilere dair isaret yok",
+      "link": "https://tr.tradingview.com/news/matriks:6686982:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bundesbank alman ekonomisi ceyrekte en iyi ihtimalle biraz buyuyebilir",
+      "link": "https://tr.tradingview.com/news/matriks:6686981:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "elon musk a ait x icerik saglay c influencerlara odemek kripto para arast r yor scmp",
+      "link": "https://tr.tradingview.com/news/matriks:6686965:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alibaba n n 1 ceyrek geliri 9 artarak 39 6 milyar dolara ulast",
+      "link": "https://tr.tradingview.com/news/matriks:6686961:0"
+    },
+    {
+      "source": "kap",
+      "text": "httbt ozel durum ac klamas genel telekonferans toplant s bilgilendirmesi sirket hitit bilgisayar hizmetleri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653434"
+    },
     {
       "source": "investing",
       "text": "td cowen samsara n n hisse hedefini 48 dolara yukseltti",
@@ -9196,51 +9241,6 @@
       "source": "tradingview",
       "text": "guncelleme ozel haber bilanco sezonunda su ana kadar ac klanan sonuclar n beklenti performans",
       "link": "https://tr.tradingview.com/news/matriks:6683044:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "mlpcare aday gmy gelisim program iki uluslararas basar ya birden imza att",
-      "link": "https://tr.tradingview.com/news/matriks:6683043:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "wti abd iran bar s belirsizligi nedeniyle artan arz riskleriyle 84 50 civar nda tutunuyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:1d4b77428d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bcg nin gelistirdigi canl l k endeksi sirketlerin surdurulebilir buyume potansiyelini belirliyor",
-      "link": "https://tr.tradingview.com/news/matriks:6683026:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro bolgesi haziran ay md cari islemler dengesi 35 10 milyar euro onceki 25 10 milyar euro",
-      "link": "https://tr.tradingview.com/news/matriks:6683023:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro bolgesi haziran ay cari islemler dengesi 46 90 milyar euro onceki 6 20 milyar euro",
-      "link": "https://tr.tradingview.com/news/matriks:6683022:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb 20 agustos valorlu 1 hafta vadeli 500 milyon dolar tutar nda doviz kars l g tl swap ihalesi act",
-      "link": "https://tr.tradingview.com/news/matriks:6683014:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro getiriler abd dolar kars s nda istikrar kazan rken toparlanmas n surduruyor danske bank",
-      "link": "https://tr.tradingview.com/news/fxstreet:d77256a13d9e8:0"
-    },
-    {
-      "source": "kap",
-      "text": "bigch genel kurul islemlerine iliskin bildirim olaganustu genel kurul karar n n tescili sirket buyuk sefler gida turizm tekstil danismanlik organizasyon egitim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652473"
-    },
-    {
-      "source": "kap",
-      "text": "bigch kay tl sermaye tavan islemlerine iliskin bildirim kay tl sermaye tavan n n olaganustu genel kurulda onaylanmas sirket buyuk sefler gida turizm tekstil danismanlik organizasyon egitim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652471"
     }
   ]
 }
