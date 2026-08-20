@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653713",
+      "last_seen_key": "kap:1653714",
       "seen_keys": [
+        "kap:1653714",
         "kap:1653713",
         "kap:1653712",
         "kap:1653711",
@@ -502,13 +503,13 @@
         "kap:1653074",
         "kap:1653073",
         "kap:1653072",
-        "kap:1653071",
-        "kap:1653069"
+        "kap:1653071"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/iran-dan-abd-ye-sert-tepki-ekonomik-terorizm-3786069",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/bessent-iran-a-tarihin-en-sert-yaptirimlarini-uygulayacagiz-3786070",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/bessent-iran-a-tarihin-en-sert-yaptirimlarini-uygulayacagiz-3786070",
         "bloomberght:https://www.bloomberght.com/iran-dan-abd-ye-sert-tepki-ekonomik-terorizm-3786069",
         "bloomberght:https://www.bloomberght.com/abd-den-katar-a-4-5-milyar-dolarlik-ucak-satisina-onay-3786068",
         "bloomberght:https://www.bloomberght.com/husiler-necran-havalimani-ve-aramco-tesisini-hedef-aldi-3786067",
@@ -1766,6 +1767,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "bessent iran a tarihin en sert yapt r mlar n uygulayacag z abd hazine bakan scott bessent iran a tarihin en sert yapt r mlar n uygulayacaklar n abluka yoluyla ekonomik bask y art racaklar n belirterek cin e washington isbirligi yapma cagr s nda bulundu",
+      "link": "https://www.bloomberght.com/bessent-iran-a-tarihin-en-sert-yaptirimlarini-uygulayacagiz-3786070"
+    },
+    {
+      "source": "kap",
+      "text": "pcilt kat l m finans ilkeleri bilgi formu sirket pc iletisim medya hizmetleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653714"
+    },
     {
       "source": "investing",
       "text": "everbank sat n al mdan uc y l sonra sat s seceneklerini degerlendiriyor",
@@ -9255,16 +9266,6 @@
       "source": "kap",
       "text": "gsdde finansal rapor sirket gsd denizcilik gayrimenkul insaat sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653057"
-    },
-    {
-      "source": "kap",
-      "text": "quick tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket quick sigorta a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653056"
-    },
-    {
-      "source": "kap",
-      "text": "dagi paylar n geri al nmas na iliskin bildirim 19 agustos 2026 tarihli pay geri al m islemleri sirket dagi giyim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653055"
     }
   ]
 }
