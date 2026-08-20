@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653401",
+      "last_seen_key": "kap:1653405",
       "seen_keys": [
+        "kap:1653405",
+        "kap:1653404",
+        "kap:1653403",
+        "kap:1653402",
         "kap:1653401",
         "kap:1653400",
         "kap:1653398",
@@ -499,11 +503,7 @@
         "kap:1652876",
         "kap:1652875",
         "kap:1652874",
-        "kap:1652873",
-        "kap:1652872",
-        "kap:1652871",
-        "kap:1652870",
-        "kap:1652869"
+        "kap:1652873"
       ]
     },
     "bloomberght": {
@@ -1212,8 +1212,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6686913:0",
+      "last_seen_key": "tradingview:matriks:6686954:0",
       "seen_keys": [
+        "tradingview:matriks:6686954:0",
+        "tradingview:matriks:6686934:0",
         "tradingview:matriks:6686913:0",
         "tradingview:fxstreet:7bc657640d9e8:0",
         "tradingview:fxstreet:e94b354a3d9e8:0",
@@ -1309,6 +1311,9 @@
         "tradingview:matriks:6686346:0",
         "tradingview:matriks:6686342:0",
         "tradingview:matriks:6686343:0",
+        "tradingview:matriks:6686341:0",
+        "tradingview:matriks:6686340:0",
+        "tradingview:matriks:6686337:0",
         "tradingview:matriks:6686326:0",
         "tradingview:matriks:6686324:0",
         "tradingview:matriks:6686323:0",
@@ -1708,12 +1713,7 @@
         "tradingview:matriks:6683937:0",
         "tradingview:beincrypto:2cb03f50ad9e8:0",
         "tradingview:fxstreet:53530d95dd9e8:0",
-        "tradingview:matriks:6683924:0",
-        "tradingview:fxstreet:d59ecaa39d9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44G0RB:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44G0R3:0",
-        "tradingview:matriks:6683897:0",
-        "tradingview:matriks:6683896:0"
+        "tradingview:matriks:6683924:0"
       ]
     },
     "forexfactory": {
@@ -1731,6 +1731,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "trump n hyperliquid e ac k kap sinyali abd li rakiplerini rahats z edebilir semafor",
+      "link": "https://tr.tradingview.com/news/matriks:6686954:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "beyaz saray iran umman aras ndaki gorusmelerin haftalar once kesildigine inan yor semafor",
+      "link": "https://tr.tradingview.com/news/matriks:6686934:0"
+    },
+    {
+      "source": "kap",
+      "text": "bahkm halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu hk sirket bahadir kimya sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653405"
+    },
+    {
+      "source": "kap",
+      "text": "megmt olagan d s fiyat miktar hareketleri olagand s fiyat miktar hareketleri hk sirket mega metal sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653404"
+    },
+    {
+      "source": "kap",
+      "text": "ekim halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu 1 sirket ekim turizm ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653403"
+    },
+    {
+      "source": "kap",
+      "text": "ggbvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz yurticinde kira sertifikas ihrac n n nitelikli yat r mc ya sat s n n tamamlanmas hk sirket golden global varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653402"
+    },
     {
       "source": "tradingview",
       "text": "ukrayna ordusu rusya n n krasnodar bolgesinde taneco petrol rafinerisini vurdugunu ac klad",
@@ -9200,36 +9230,6 @@
       "source": "investing",
       "text": "ubs ppc sat n alma teklifinin ard ndan jbs al tavsiyesini yineledi",
       "link": "https://tr.investing.com/news/analyst-ratings/ubs-ppc-satn-alma-teklifinin-ardndan-jbs-icin-al-tavsiyesini-yineledi-93CH-4035708"
-    },
-    {
-      "source": "investing",
-      "text": "jefferies pediatrix medical hissesini degerleme nedeniyle dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/jefferies-pediatrix-medical-hissesini-degerleme-nedeniyle-dusurdu-93CH-4035707"
-    },
-    {
-      "source": "investing",
-      "text": "td cowen dominion energy hissesi tavsiyesini yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/td-cowen-dominion-energy-hissesi-icin-tavsiyesini-yukseltti-93CH-4035706"
-    },
-    {
-      "source": "investing",
-      "text": "loop capital sat n alma haberi sonras weave hissesini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/loop-capital-satn-alma-haberi-sonras-weave-hissesini-dusurdu-93CH-4035705"
-    },
-    {
-      "source": "investing",
-      "text": "geberit hisseleri neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/geberit-hisseleri-neden-yukseliste-93CH-4035704"
-    },
-    {
-      "source": "investing",
-      "text": "efor yat r m 175 milyon adet b grubu pay uluslararas kuruma sat yor",
-      "link": "https://tr.investing.com/news/global-filings/efor-yatrm-175-milyon-adet-b-grubu-pay-uluslararas-kuruma-satyor-93CH-4035703"
-    },
-    {
-      "source": "kap",
-      "text": "zkbvr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdzkbv82629 isin kodlu yurtici kira sertifikalar n n itfa getiri odeme islemlerinin tamamlanmas hk sirket zkb varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652470"
     }
   ]
 }
