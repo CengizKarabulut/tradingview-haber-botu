@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653724",
+      "last_seen_key": "kap:1653725",
       "seen_keys": [
+        "kap:1653725",
         "kap:1653724",
         "kap:1653723",
         "kap:1653722",
@@ -502,8 +503,7 @@
         "kap:1653086",
         "kap:1653085",
         "kap:1653084",
-        "kap:1653083",
-        "kap:1653082"
+        "kap:1653083"
       ]
     },
     "bloomberght": {
@@ -567,8 +567,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/powerus-ortadogudan-223-milyon-dolarlk-sozlesme-ald-93CH-4038710",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/anthropic-kurumsal-musterilere-daha-fazla-veri-kontrolu-sunacak-4038716",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/anthropic-kurumsal-musterilere-daha-fazla-veri-kontrolu-sunacak-4038716",
+        "investing:https://tr.investing.com/news/stock-market-news/needham-fintech-sektorunde-en-iyi-hisse-senedini-acklad-93CH-4038713",
+        "investing:https://tr.investing.com/news/insider-trading-news/t-stamp-ceosu-gareth-genner-18617-dolar-degerinde-hisse-ald-93CH-4038712",
         "investing:https://tr.investing.com/news/company-news/powerus-ortadogudan-223-milyon-dolarlk-sozlesme-ald-93CH-4038710",
         "investing:https://tr.investing.com/news/insider-trading-news/southern-missouri-bancorp-evpsi-202802-dolar-degerinde-hisse-satt-93CH-4038709",
         "investing:https://tr.investing.com/news/insider-trading-news/advanced-energy-yoneticisi-78-milyon-dolarlk-hisse-satt-93CH-4038708",
@@ -576,9 +579,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/fossil-group-yoneticisi-gail-tifford-305622-dolar-degerinde-hisse-satt-93CH-4038706",
         "investing:https://tr.investing.com/news/economy-news/arjantinin-ekonomik-faaliyeti-haziranda-27-artt-93CH-4038704",
         "investing:https://tr.investing.com/news/economy-news/arjantin-temmuzda-212-milyar-dolar-ticaret-fazlas-verdi-93CH-4038703",
-        "investing:https://tr.investing.com/news/company-news/meritage-homes-048-dolar-temettu-acklad-93CH-4038699",
-        "investing:https://tr.investing.com/news/stock-market-news/epa-fiyatlar-dusurmek-icin-ks-benzinine-erken-gecise-izin-verdi-4038700",
-        "investing:https://tr.investing.com/news/company-news/precigen-hissesi-733-dolarda-52-haftalk-zirve-yapt-93CH-4038697",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -599,6 +599,9 @@
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
+        "investing:https://tr.investing.com/news/company-news/meritage-homes-048-dolar-temettu-acklad-93CH-4038699",
+        "investing:https://tr.investing.com/news/stock-market-news/epa-fiyatlar-dusurmek-icin-ks-benzinine-erken-gecise-izin-verdi-4038700",
+        "investing:https://tr.investing.com/news/company-news/precigen-hissesi-733-dolarda-52-haftalk-zirve-yapt-93CH-4038697",
         "investing:https://tr.investing.com/news/company-news/brookfield-business-corp-hissesi-2811-dolarla-dip-yapt-93CH-4038695",
         "investing:https://tr.investing.com/news/commodities-news/euronext-bugday-karadeniz-kesintileriyle-dort-haftann-zirvesinde-93CH-4038694",
         "investing:https://tr.investing.com/news/economy-news/abd-kubaya-yaptrm-uygulad-93CH-4038693",
@@ -1065,10 +1068,7 @@
         "investing:https://tr.investing.com/news/company-news/flywire-hissesi-1899-dolarda-52-haftalk-zirve-yapt-93CH-4036874",
         "investing:https://tr.investing.com/news/commodities-news/kuzeybat-avrupada-benzin-marjlar-arzn-daralmasyla-yukseldi-93CH-4036873",
         "investing:https://tr.investing.com/news/insider-trading-news/umh-properties-yoneticisi-mitchell-1000-dolarlk-hisse-ald-93CH-4036872",
-        "investing:https://tr.investing.com/news/insider-trading-news/umh-properties-evp-ve-cfo-sirket-hissesinden-1000-dolar-ald-93CH-4036871",
-        "investing:https://tr.investing.com/news/analyst-ratings/tigress-financial-yapay-zeka-buyumesi-ile-legence-hisse-hedefini-yukseltti-93CH-4036870",
-        "investing:https://tr.investing.com/news/stock-market-news/broadcom-hissesi-bugun-neden-dusuyor-93CH-4036869",
-        "investing:https://tr.investing.com/news/company-news/equifax-ceyreklik-056-dolar-temettu-acklad-93CH-4036867"
+        "investing:https://tr.investing.com/news/insider-trading-news/umh-properties-evp-ve-cfo-sirket-hissesinden-1000-dolar-ald-93CH-4036871"
       ]
     },
     "ntvpara": {
@@ -1769,6 +1769,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "anthropic kurumsal musterilere daha fazla veri kontrolu sunacak",
+      "link": "https://tr.investing.com/news/stock-market-news/anthropic-kurumsal-musterilere-daha-fazla-veri-kontrolu-sunacak-4038716"
+    },
+    {
+      "source": "investing",
+      "text": "needham fintech sektorunde en iyi hisse senedini ac klad",
+      "link": "https://tr.investing.com/news/stock-market-news/needham-fintech-sektorunde-en-iyi-hisse-senedini-acklad-93CH-4038713"
+    },
+    {
+      "source": "investing",
+      "text": "t stamp ceo su gareth genner 18 617 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/t-stamp-ceosu-gareth-genner-18617-dolar-degerinde-hisse-ald-93CH-4038712"
+    },
+    {
+      "source": "kap",
+      "text": "spk bulteni spk bulteni sirket sermaye piyasasi kurulu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653725"
+    },
     {
       "source": "tradingview",
       "text": "guney kore wonu yabanc girislerle ralli h zlan yor dbs",
@@ -9248,26 +9268,6 @@
       "source": "investing",
       "text": "raymond james google cip anlasmas sonras marvell hissesi guclu al tavsiyesini yineledi",
       "link": "https://tr.investing.com/news/analyst-ratings/raymond-james-google-cip-anlasmas-sonras-marvell-hissesi-icin-guclu-al-tavsiyesini-yineledi-93CH-4036853"
-    },
-    {
-      "source": "forexfactory",
-      "text": "usd fomc meeting minutes yaklas k 61 sonra etki yuksek",
-      "link": "https://www.forexfactory.com/calendar"
-    },
-    {
-      "source": "kap",
-      "text": "mty ozel durum ac klamas genel imtiyazl paylar n sat s islemi hakk nda sirket metro menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653109"
-    },
-    {
-      "source": "kap",
-      "text": "alntf anf ihrac tavan na iliskin bildirim uluslararas piyasalarda tahvil veya benzeri borclanma araclar ihrac hakk nda sermaye piyasas kurulu na yap lan basvurumuz hakk nda bilgi sirket alternatifbank a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653108"
-    },
-    {
-      "source": "kap",
-      "text": "trenj finansal rapor sirket tr dogal enerji kaynaklari arastirma uretim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653107"
     }
   ]
 }
