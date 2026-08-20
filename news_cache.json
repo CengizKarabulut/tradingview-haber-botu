@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653390",
+      "last_seen_key": "kap:1653396",
       "seen_keys": [
+        "kap:1653396",
+        "kap:1653395",
+        "kap:1653394",
+        "kap:1653393",
+        "kap:1653392",
         "kap:1653390",
         "kap:1653389",
         "kap:1653388",
@@ -1089,8 +1094,10 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-bolgesel-rolu-irak-hattinda-petrol-akisini-artirma-hedefiyle-guclenecek-954449.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/tuketicinin-korunmasi-icin-6-ayda-131-milyar-lira-harcandi-954454.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/tuketicinin-korunmasi-icin-6-ayda-131-milyar-lira-harcandi-954454.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/simsekten-mazot-aciklamasi-kuresel-sokun-etkisini-sinirliyoruz-954453.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-bolgesel-rolu-irak-hattinda-petrol-akisini-artirma-hedefiyle-guclenecek-954449.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/balikcilar-yeni-av-sezonuna-hazir-954447.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-954436.html",
@@ -1191,10 +1198,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:deeaa3fead9e8:0",
+      "last_seen_key": "tradingview:fxstreet:42c01fb68d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:42c01fb68d9e8:0",
+        "tradingview:matriks:6686841:0",
+        "tradingview:fxstreet:493fc5a41d9e8:0",
         "tradingview:fxstreet:deeaa3fead9e8:0",
         "tradingview:fxstreet:917328543d9e8:0",
+        "tradingview:cointelegraph:f89d5988ad9e8:0",
         "tradingview:fxstreet:e11915be1d9e8:0",
         "tradingview:fxstreet:e3185fdb5d9e8:0",
         "tradingview:matriks:6686763:0",
@@ -1688,11 +1699,7 @@
         "tradingview:fxstreet:e772f992fd9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44G0YC:0",
         "tradingview:matriks:6683865:0",
-        "tradingview:matriks:6683855:0",
-        "tradingview:matriks:6683847:0",
-        "tradingview:fxstreet:fef683a73d9e8:0",
-        "tradingview:matriks:6683832:0",
-        "tradingview:matriks:6683831:0"
+        "tradingview:matriks:6683855:0"
       ]
     },
     "forexfactory": {
@@ -1710,6 +1717,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar politika kaynakl getiri geri cekilmesi ubs",
+      "link": "https://tr.tradingview.com/news/fxstreet:42c01fb68d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "mia teknoloji 2025 donemine iliskin turkiye surdurulebilirlik raporlama standartlar uyumlu surdurulebilirlik raporu nu yay mlad",
+      "link": "https://tr.tradingview.com/news/matriks:6686841:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro ham petrol fiyatlar ndaki art s n etkisiyle kanada dolar kars s nda zay fl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:493fc5a41d9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "tuketicinin korunmas 6 ayda 13 1 milyar lira harcand tar m orman bakanl g y l n ilk yar s nda g yem guvenilirligi bitki hayvan sagl g gibi tuketicinin korunmas na yonelik faaliyetler yaklas k 13 1 milyar lira harcama yapt",
+      "link": "https://www.trthaber.com/haber/ekonomi/tuketicinin-korunmasi-icin-6-ayda-131-milyar-lira-harcandi-954454.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "simsek ten mazot ac klamas kuresel sokun etkisini s n rl yoruz hazine maliye bakan mehmet simsek mazotta esel mobil kapsam nda at lan ad mla olaganustu kuresel gelismelerin vatandaslara yans mas n s n rlamay butce disiplinini korumay hedeflediklerini soyledi",
+      "link": "https://www.trthaber.com/haber/ekonomi/simsekten-mazot-aciklamasi-kuresel-sokun-etkisini-sinirliyoruz-954453.html"
+    },
+    {
+      "source": "kap",
+      "text": "krdmb pay baz nda devre kesici bildirimi krdmb e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653396"
+    },
+    {
+      "source": "kap",
+      "text": "dofrb ozel durum ac klamas genel kapadokya yat r m projesine iliskin yap ruhsat n n al nmas insaat cal smalar na baslanmas hakk nda sirket dof robotik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653395"
+    },
+    {
+      "source": "kap",
+      "text": "hdffl pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trshdak52719 isin kodlu tahvil ihrac n n 3 kupon odemesi hakk nda sirket hedef arac kiralama servis a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653394"
+    },
+    {
+      "source": "kap",
+      "text": "veyas esas sozlesme esas sozlesme hk sirket turker vangolu enerji yatirim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653393"
+    },
+    {
+      "source": "kap",
+      "text": "smrva pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfsuvy22725 isin nolu borclanma arac 2 kupon odemesine iliskin ac klama sirket sumer varlik yonetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653392"
+    },
     {
       "source": "tradingview",
       "text": "euro yukar yonlu egilim abd dolar kars s nda 1 1725 i hedefliyor uob",
@@ -9159,56 +9216,6 @@
       "source": "investing",
       "text": "slovakya temmuz enflasyonu y ll k yuzde 3 2 ye yukseldi",
       "link": "https://tr.investing.com/news/economic-indicators/slovakyada-temmuz-enflasyonu-yllk-yuzde-32ye-yukseldi-93CH-4035658"
-    },
-    {
-      "source": "investing",
-      "text": "sk hynix 40 trilyon wonluk hisse geri al m n onaylad",
-      "link": "https://tr.investing.com/news/company-news/sk-hynix-40-trilyon-wonluk-hisse-geri-almn-onaylad-93CH-4035657"
-    },
-    {
-      "source": "investing",
-      "text": "flsmidth hissesi bugun neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/flsmidth-hissesi-bugun-neden-yukseliste-93CH-4035656"
-    },
-    {
-      "source": "investing",
-      "text": "ithaca energy hisseleri neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/ithaca-energy-hisseleri-neden-yukseliste-93CH-4035655"
-    },
-    {
-      "source": "investing",
-      "text": "disc medicine ceo su john quisel 2 6 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/disc-medicine-ceosu-john-quisel-26-milyon-dolarlk-hisse-satt-93CH-4035654"
-    },
-    {
-      "source": "investing",
-      "text": "sk hynix 28 milyar dolarl k hisse geri al m yapacak",
-      "link": "https://tr.investing.com/news/stock-market-news/sk-hynix-28-milyar-dolarlk-hisse-geri-alm-yapacak-4035653"
-    },
-    {
-      "source": "investing",
-      "text": "turker vangolu enerji 20 agustos ta islem gormeye basl yor",
-      "link": "https://tr.investing.com/news/global-filings/son-dakika-turker-vangolu-enerji-20-agustosta-islem-gormeye-baslyor-93CH-4035649"
-    },
-    {
-      "source": "bloomberght",
-      "text": "sk hynix ten 29 milyar dolarl k hisse geri al m hamlesi guney kore cip uretim sirketi sk hynix yapay zeka harcamalar n n surdurulebilirligi konusunda endiselenen yat r mc lar yat st rmak amac yla 40 trilyon won 29 milyar dolar tutar nda hisse geri alma planlar n ac klad",
-      "link": "https://www.bloomberght.com/sk-hynix-ten-29-milyar-dolarlik-hisse-geri-alim-hamlesi-3785864"
-    },
-    {
-      "source": "bloomberght",
-      "text": "lagarde dan avrupa ya yapay zeka uyar s avrupa merkez bankas amb baskan christine lagarde yapay zekan n kuresel ekonomiyi donusturdugu donemde avrupa n n yar s n gerisinde kalmamas gerektigini soyledi",
-      "link": "https://www.bloomberght.com/lagarde-dan-avrupa-ya-yapay-zeka-uyarisi-3785862"
-    },
-    {
-      "source": "kap",
-      "text": "igr yetki izin belgelerine iliskin bildirim yeni faaliyet yetki belgesi sirket akasya portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652462"
-    },
-    {
-      "source": "kap",
-      "text": "trmen tvm bag ms z denetim kurulusunun belirlenmesi bag ms z denetim sirketinin belirlenmesi sirket trive yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652461"
     }
   ]
 }
