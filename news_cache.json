@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653481",
+      "last_seen_key": "kap:1653482",
       "seen_keys": [
+        "kap:1653482",
         "kap:1653481",
         "kap:1653480",
         "kap:1653479",
@@ -502,13 +503,14 @@
         "kap:1652905",
         "kap:1652904",
         "kap:1652903",
-        "kap:1652902",
-        "kap:1652901"
+        "kap:1652902"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/meta-sessizce-microsoftun-en-buyuk-yapay-zeka-musterilerinden-biri-oluyor-3786012",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/doviz-mevduatlarinda-ilimli-dusus-3786020",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/doviz-mevduatlarinda-ilimli-dusus-3786020",
+        "bloomberght:https://www.bloomberght.com/yabanci-tahvilde-dokuz-hafta-sonra-satisa-dondu-3786013",
         "bloomberght:https://www.bloomberght.com/meta-sessizce-microsoftun-en-buyuk-yapay-zeka-musterilerinden-biri-oluyor-3786012",
         "bloomberght:https://www.bloomberght.com/betam-isgucu-piyasasinda-yillik-daralma-suruyor-3786010",
         "bloomberght:https://www.bloomberght.com/bundesbank-alman-ekonomisi-toparlanma-yolunda-3785988",
@@ -1270,8 +1272,18 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6687330:0",
+      "last_seen_key": "tradingview:matriks:6687393:0",
       "seen_keys": [
+        "tradingview:matriks:6687393:0",
+        "tradingview:fxstreet:b107e8700d9e8:0",
+        "tradingview:fxstreet:42288b4c2d9e8:0",
+        "tradingview:matriks:6687370:0",
+        "tradingview:fxstreet:661a133f5d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_S8N42R02D:0",
+        "tradingview:matriks:6687336:0",
+        "tradingview:matriks:6687334:0",
+        "tradingview:matriks:6687332:0",
+        "tradingview:matriks:6687331:0",
         "tradingview:matriks:6687330:0",
         "tradingview:matriks:6687328:0",
         "tradingview:matriks:6687326:0",
@@ -1304,6 +1316,7 @@
         "tradingview:fxstreet:1fc7430a9d9e8:0",
         "tradingview:matriks:6687286:0",
         "tradingview:matriks:6687280:0",
+        "tradingview:fxstreet:917328543d9e8:0",
         "tradingview:matriks:6687244:0",
         "tradingview:fxstreet:a3a378318d9e8:0",
         "tradingview:matriks:6687229:0",
@@ -1324,6 +1337,7 @@
         "tradingview:matriks:6687169:0",
         "tradingview:fxstreet:d9b6ca0e6d9e8:0",
         "tradingview:fxstreet:134f40b23d9e8:0",
+        "tradingview:beincrypto:3bdf1b1dbd9e8:0",
         "tradingview:matriks:6687083:0",
         "tradingview:beincrypto:3c28e4d7bd9e8:0",
         "tradingview:beincrypto:e9112b69bd9e8:0",
@@ -1350,7 +1364,6 @@
         "tradingview:matriks:6686841:0",
         "tradingview:fxstreet:493fc5a41d9e8:0",
         "tradingview:fxstreet:deeaa3fead9e8:0",
-        "tradingview:fxstreet:917328543d9e8:0",
         "tradingview:cointelegraph:f89d5988ad9e8:0",
         "tradingview:fxstreet:e11915be1d9e8:0",
         "tradingview:fxstreet:e3185fdb5d9e8:0",
@@ -1760,18 +1773,7 @@
         "tradingview:matriks:6684688:0",
         "tradingview:fxstreet:80ea03408d9e8:0",
         "tradingview:fxstreet:826591ef0d9e8:0",
-        "tradingview:matriks:6684648:0",
-        "tradingview:matriks:6684646:0",
-        "tradingview:matriks:6684642:0",
-        "tradingview:matriks:6684635:0",
-        "tradingview:matriks:6684628:0",
-        "tradingview:matriks:6684622:0",
-        "tradingview:matriks:6684607:0",
-        "tradingview:cointelegraph:64557c23ed9e8:0",
-        "tradingview:matriks:6684601:0",
-        "tradingview:matriks:6684587:0",
-        "tradingview:beincrypto:feb4b6813d9e8:0",
-        "tradingview:fxstreet:d7ac3d04bd9e8:0"
+        "tradingview:matriks:6684648:0"
       ]
     },
     "forexfactory": {
@@ -1789,6 +1791,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "elite natural esmekaya hem tar msal anlamda hem isleme uretim anlam nda ciddi kapasite art r m na gitmis bulunuyoruz apara",
+      "link": "https://tr.tradingview.com/news/matriks:6687393:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni ak mlar ticaret japon yeni ni savunmas z b rak yor bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:b107e8700d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus abd getirileri toparlan rken baz kazanclar n geri veriyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:42288b4c2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "elite natural esmekaya amerika sene gecen seneye gore ciddi buyumemiz devam eder apara",
+      "link": "https://tr.tradingview.com/news/matriks:6687370:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro abd dolar ndaki zay fl ktan faydalan yor dbs",
+      "link": "https://tr.tradingview.com/news/fxstreet:661a133f5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s nda yerlesiklerin dibs portfoyu gecen hafta 306 2 mln azald hisse portfoyu 176 1 mln artt tcmb",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_S8N42R02D:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "astor enerji dogan uzun vadeli 7 9 y l vadeli kaynaklar uzerinde cal s yoruz uluslararas iki banka cal smalar m z devam ediyor bloomberght",
+      "link": "https://tr.tradingview.com/news/matriks:6687336:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankac l k sektorunde yurt ici yerlesiklerin yabanc para mevduat nda parite etkisi 14 agustos itibar yla 1 milyar 15 milyon dolar onceki hafta 5 milyar 323 milyon dolar",
+      "link": "https://tr.tradingview.com/news/matriks:6687334:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "imf rezerv pozisyonu sdr toplam 7 7 milyar dolar tcmb",
+      "link": "https://tr.tradingview.com/news/matriks:6687332:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n cinsinden rezerv varl klar gecen haftaya gore 0 9 artarak 108 3 milyar dolar tcmb",
+      "link": "https://tr.tradingview.com/news/matriks:6687331:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "doviz mevduatlar nda l ml dusus parite etkisinden ar nd r lm s verilere gore gecen hafta doviz mevduatlar nda 297 milyon dolarl k dusus yasand",
+      "link": "https://www.bloomberght.com/doviz-mevduatlarinda-ilimli-dusus-3786020"
+    },
+    {
+      "source": "bloomberght",
+      "text": "yabanc tahvilde dokuz hafta sonra sat sa dondu hissede guclu al m yapan yabanc yat r mc tahvilde dokuz hafta sonra sat sa gecti",
+      "link": "https://www.bloomberght.com/yabanci-tahvilde-dokuz-hafta-sonra-satisa-dondu-3786013"
+    },
+    {
+      "source": "kap",
+      "text": "ulker pay baz nda devre kesici bildirimi ulker e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653482"
+    },
     {
       "source": "tradingview",
       "text": "yurt ici yerlesiklerin yabanc para mevduatlar ndaki parite etkisinden ar nd r lm s haftal k degisim 14 agustos itibar yla 297 milyon dolar onceki hafta 1 milyar 770 milyon dolar",
@@ -9223,71 +9290,6 @@
       "source": "investing",
       "text": "stifel palo alto networks hisse hedefini yukseltti",
       "link": "https://tr.investing.com/news/analyst-ratings/stifel-palo-alto-networks-icin-hisse-hedefini-yukseltti-93CH-4035933"
-    },
-    {
-      "source": "investing",
-      "text": "klarna fintech pozisyonlama degisimi icinde yat r mc ilgisinde one c kt",
-      "link": "https://tr.investing.com/news/stock-market-news/klarna-fintech-pozisyonlama-degisimi-icinde-yatrmc-ilgisinde-one-ckt-93CH-4035931"
-    },
-    {
-      "source": "kap",
-      "text": "alves sirket genel bilgi formu sirket alves kablo sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652523"
-    },
-    {
-      "source": "kap",
-      "text": "arzum pay baz nda devre kesici bildirimi arzum e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652522"
-    },
-    {
-      "source": "tradingview",
-      "text": "haz r beton endeksi verileri temmuz ay nda sektorde s n rl zay flamaya isaret ediyor",
-      "link": "https://tr.tradingview.com/news/matriks:6683419:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "fransa n n 10 y ll k tahvil getirisi 4 1275 18 y l n yeni en yuksek seviyesini gordu",
-      "link": "https://tr.tradingview.com/news/matriks:6683412:0"
-    },
-    {
-      "source": "kap",
-      "text": "bigtk pay baz nda devre kesici bildirimi bigtk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652521"
-    },
-    {
-      "source": "tradingview",
-      "text": "avustralya dolar rba n n daha zay f ucretler nedeniyle kenarda kalacag goruluyor bbh",
-      "link": "https://tr.tradingview.com/news/fxstreet:cdc6b2335d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi sdttr ahlatc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6683397:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro amb boj faiz art r m beklentileri carp s rken japon yeni kars s nda istikrar kazan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:ab60e333ed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "sk hynix yaklas k 28 6 milyar dolar tutar nda hisse geri al m iptali gerceklestirecek",
-      "link": "https://tr.tradingview.com/news/matriks:6683392:0"
-    },
-    {
-      "source": "investing",
-      "text": "corsair gaming hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/corsair-gaming-hissesi-bugun-neden-dusuyor-93CH-4035918"
-    },
-    {
-      "source": "investing",
-      "text": "rising dragon acquisition hisseleri neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/rising-dragon-acquisition-hisseleri-neden-yukseliyor-93CH-4035917"
-    },
-    {
-      "source": "investing",
-      "text": "jmp securities yapay zeka veri talebi nedeniyle snowflake hissesini yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/jmp-securities-yapay-zeka-veri-talebi-nedeniyle-snowflake-hissesini-yukseltti-93CH-4035900"
     }
   ]
 }
