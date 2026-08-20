@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653702",
+      "last_seen_key": "kap:1653705",
       "seen_keys": [
+        "kap:1653705",
+        "kap:1653704",
+        "kap:1653703",
         "kap:1653702",
         "kap:1653701",
         "kap:1653700",
@@ -500,10 +503,7 @@
         "kap:1653064",
         "kap:1653063",
         "kap:1653062",
-        "kap:1653061",
-        "kap:1653060",
-        "kap:1653059",
-        "kap:1653058"
+        "kap:1653061"
       ]
     },
     "bloomberght": {
@@ -1258,6 +1258,7 @@
         "tradingview:cointelegraph:df9893edbd9e8:0",
         "tradingview:cointelegraph:7dc43c20ed9e8:0",
         "tradingview:fxstreet:aa3810a63d9e8:0",
+        "tradingview:beincrypto:8fe58d9ebd9e8:0",
         "tradingview:fxstreet:0c5d3f1f7d9e8:0",
         "tradingview:matriks:6688009:0",
         "tradingview:matriks:6688001:0",
@@ -1747,8 +1748,7 @@
         "tradingview:matriks:6685795:0",
         "tradingview:matriks:6685789:0",
         "tradingview:matriks:6685788:0",
-        "tradingview:matriks:6685782:0",
-        "tradingview:matriks:6685792:0"
+        "tradingview:matriks:6685782:0"
       ]
     },
     "forexfactory": {
@@ -1766,6 +1766,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "ppr finansal rapor sirket papara menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653705"
+    },
+    {
+      "source": "kap",
+      "text": "avtur kat l m finans ilkeleri bilgi formu sirket avrasya petrol turistik tesisler yatirimlar a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653704"
+    },
+    {
+      "source": "kap",
+      "text": "grm gryat ozel durum ac klamas genel quick sigorta a s fiyat istikrar surecinin sona ermesi hk sirket garanti yatirim menkul kiymetler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653703"
+    },
     {
       "source": "investing",
       "text": "oxford nanopore ceo su ltip odulu kapsam nda 49 676 hisse ald",
@@ -9250,21 +9265,6 @@
       "source": "kap",
       "text": "yaprk kat l m finans ilkeleri bilgi formu sirket yaprak sut besi ciftlikleri sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653024"
-    },
-    {
-      "source": "kap",
-      "text": "ieyho finansal rapor sirket isiklar enerji yapi holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653023"
-    },
-    {
-      "source": "kap",
-      "text": "ieyho faaliyet raporu konsolide faaliyet raporu sirket isiklar enerji yapi holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653022"
-    },
-    {
-      "source": "kap",
-      "text": "ieyho sorumluluk beyan konsolide sorumluluk beyan sirket isiklar enerji yapi holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653021"
     }
   ]
 }
