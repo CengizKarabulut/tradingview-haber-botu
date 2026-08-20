@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653295",
+      "last_seen_key": "kap:1653296",
       "seen_keys": [
+        "kap:1653296",
         "kap:1653295",
         "kap:1653294",
         "kap:1653293",
@@ -1028,14 +1029,30 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6686026:0",
+      "last_seen_key": "tradingview:matriks:6686046:0",
       "seen_keys": [
+        "tradingview:matriks:6686046:0",
+        "tradingview:matriks:6686043:0",
+        "tradingview:matriks:6686041:0",
+        "tradingview:matriks:6686040:0",
+        "tradingview:matriks:6686039:0",
+        "tradingview:matriks:6686038:0",
+        "tradingview:matriks:6686036:0",
+        "tradingview:matriks:6686034:0",
+        "tradingview:matriks:6686033:0",
+        "tradingview:matriks:6686032:0",
+        "tradingview:matriks:6686029:0",
         "tradingview:matriks:6686026:0",
         "tradingview:matriks:6686020:0",
         "tradingview:fxstreet:5e48631cdd9e8:0",
+        "tradingview:matriks:6686019:0",
+        "tradingview:matriks:6686013:0",
+        "tradingview:matriks:6686012:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44H0AK:0",
+        "tradingview:matriks:6686010:0",
         "tradingview:fxstreet:0d6877455d9e8:0",
         "tradingview:fxstreet:7705b717ad9e8:0",
+        "tradingview:matriks:6686004:0",
         "tradingview:matriks:6685995:0",
         "tradingview:matriks:6685993:0",
         "tradingview:fxstreet:09733c877d9e8:0",
@@ -1513,23 +1530,7 @@
         "tradingview:matriks:6682854:0",
         "tradingview:fxstreet:1e132a581d9e8:0",
         "tradingview:matriks:6682827:0",
-        "tradingview:matriks:6682825:0",
-        "tradingview:matriks:6682822:0",
-        "tradingview:fxstreet:1d4a835f3d9e8:0",
-        "tradingview:matriks:6682814:0",
-        "tradingview:matriks:6682807:0",
-        "tradingview:matriks:6682801:0",
-        "tradingview:matriks:6682800:0",
-        "tradingview:matriks:6682799:0",
-        "tradingview:matriks:6682797:0",
-        "tradingview:matriks:6682796:0",
-        "tradingview:fxstreet:8f1a4caa4d9e8:0",
-        "tradingview:matriks:6682784:0",
-        "tradingview:matriks:6682782:0",
-        "tradingview:matriks:6682781:0",
-        "tradingview:matriks:6682771:0",
-        "tradingview:matriks:6682769:0",
-        "tradingview:fxstreet:f1368d14cd9e8:0"
+        "tradingview:matriks:6682825:0"
       ]
     },
     "forexfactory": {
@@ -1547,6 +1548,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "eurobond piyasas ndaki gelismeler garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6686046:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6686043:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist sirket karlar bizim menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6686041:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sabah bulteni tfg istanbul menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6686040:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6686039:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop bulten ata yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6686038:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten ata yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6686036:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten fibayat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6686034:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney kore ye gore kuzey kore nin 80 120 nukleer silah var",
+      "link": "https://tr.tradingview.com/news/matriks:6686033:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sabah notlar ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6686032:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten marbas menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6686029:0"
+    },
+    {
+      "source": "kap",
+      "text": "cwene ozel durum ac klamas genel sermaye avans odemesi hk sirket cw enerji muhendislik ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653296"
+    },
     {
       "source": "tradingview",
       "text": "ticaret bakanl g yeni egitim ogretim donemi oncesi k rtasiye sektorunde denetimlerini s klast rd",
@@ -8986,66 +9047,6 @@
       "source": "tradingview",
       "text": "teknik bulten info yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6682353:0"
-    },
-    {
-      "source": "ntvpara",
-      "text": "gerilim petrolu yukseltiyor abd iran c kmaz ortam nda petrol fiyatlar yukselisini surdurdu",
-      "link": "https://www.ntv.com.tr/ntvpara/gerilim-petrolu-yukseltiyor-1737950"
-    },
-    {
-      "source": "forexfactory",
-      "text": "gbp cpi y y yaklas k 75 sonra etki yuksek beklenti 2 9 onceki 2 6",
-      "link": "https://www.forexfactory.com/calendar"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunun pusulas pusula yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6682350:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "destekler direncler info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6682347:0"
-    },
-    {
-      "source": "investing",
-      "text": "asya borsalar cip sat slar yla dustu kospi 5 geriledi",
-      "link": "https://tr.investing.com/news/stock-market-news/asya-borsalar-cip-satslaryla-dustu-kospi-5-geriledi-4035506"
-    },
-    {
-      "source": "investing",
-      "text": "softbank group hissesi neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/softbank-group-hissesi-neden-dusuyor-93CH-4035503"
-    },
-    {
-      "source": "investing",
-      "text": "santos hissesi bugun neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/santos-hissesi-bugun-neden-yukseliste-93CH-4035502"
-    },
-    {
-      "source": "investing",
-      "text": "sk hynix sendikas on ucret anlasmas n tamaml yor reuters",
-      "link": "https://tr.investing.com/news/stock-market-news/sk-hynix-sendikas-on-ucret-anlasmasn-tamamlyor-reuters-93CH-4035501"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurt ici piyasa bulteni unlu menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6682331:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar trump n 50 gumruk tariflerini duraklatmas abd dolar n n fomc tutanaklar oncesinde gerilemesiyle gucleniyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:851265c91d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japonya haziran ay makina siparisleri ayl k 9 7 beklenti 7 8 onceki 12 4",
-      "link": "https://tr.tradingview.com/news/matriks:6682316:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japonya haziran ay makina siparisleri y ll k 16 9 beklenti 10 8 onceki 1 9",
-      "link": "https://tr.tradingview.com/news/matriks:6682317:0"
     }
   ]
 }
