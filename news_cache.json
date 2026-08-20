@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653722",
+      "last_seen_key": "kap:1653723",
       "seen_keys": [
+        "kap:1653723",
         "kap:1653722",
         "kap:1653721",
         "kap:1653720",
@@ -502,8 +503,7 @@
         "kap:1653084",
         "kap:1653083",
         "kap:1653082",
-        "kap:1653081",
-        "kap:1653080"
+        "kap:1653081"
       ]
     },
     "bloomberght": {
@@ -567,8 +567,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/brookfield-business-corp-hissesi-2811-dolarla-dip-yapt-93CH-4038695",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/meritage-homes-048-dolar-temettu-acklad-93CH-4038699",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/meritage-homes-048-dolar-temettu-acklad-93CH-4038699",
+        "investing:https://tr.investing.com/news/stock-market-news/epa-fiyatlar-dusurmek-icin-ks-benzinine-erken-gecise-izin-verdi-4038700",
+        "investing:https://tr.investing.com/news/company-news/precigen-hissesi-733-dolarda-52-haftalk-zirve-yapt-93CH-4038697",
         "investing:https://tr.investing.com/news/company-news/brookfield-business-corp-hissesi-2811-dolarla-dip-yapt-93CH-4038695",
         "investing:https://tr.investing.com/news/commodities-news/euronext-bugday-karadeniz-kesintileriyle-dort-haftann-zirvesinde-93CH-4038694",
         "investing:https://tr.investing.com/news/economy-news/abd-kubaya-yaptrm-uygulad-93CH-4038693",
@@ -576,9 +579,6 @@
         "investing:https://tr.investing.com/news/transcripts/baylin-technologies-microcap-konferansnda-donus-hzlanyor-93CH-4038691",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-cfosu-mark-herndon-6675-dolar-degerinde-hisse-ald-93CH-4038690",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-renn-fonu-hissesi-satn-ald-93CH-4038689",
-        "investing:https://tr.investing.com/news/analyst-ratings/john-b-sanfilippo-hissesi-freedom-brokerda-ala-yukseltildi-93CH-4038688",
-        "investing:https://tr.investing.com/news/insider-trading-news/cf-financial-icra-kurulu-baskan-dillon-86000-dolarlk-hisse-satt-93CH-4038687",
-        "investing:https://tr.investing.com/news/stock-market-news/google-antigravity-kodlama-ajanlarn-gemini-enterprisea-ekledi-93CH-4038686",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -599,6 +599,9 @@
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
+        "investing:https://tr.investing.com/news/analyst-ratings/john-b-sanfilippo-hissesi-freedom-brokerda-ala-yukseltildi-93CH-4038688",
+        "investing:https://tr.investing.com/news/insider-trading-news/cf-financial-icra-kurulu-baskan-dillon-86000-dolarlk-hisse-satt-93CH-4038687",
+        "investing:https://tr.investing.com/news/stock-market-news/google-antigravity-kodlama-ajanlarn-gemini-enterprisea-ekledi-93CH-4038686",
         "investing:https://tr.investing.com/news/transcripts/netsol-technologies-saas-donusumunu-hzlandryor-93CH-4038676",
         "investing:https://tr.investing.com/news/company-news/salem-media-waterstone-vakf-tarafndan-hisse-basna-1-dolardan-satn-alnd-93CH-4038674",
         "investing:https://tr.investing.com/news/insider-trading-news/burke--herbert-yoneticisi-david-wilson-2470-dolar-hisselik-alm-yapt-93CH-4038669",
@@ -1065,10 +1068,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/sdc-capital-singapurda-1-milyar-dolarlk-gyo-halka-arz-planlyor-93CH-4036862",
         "investing:https://tr.investing.com/news/stock-market-news/kme-cunovann-halka-arz-icin-banka-secti-93CH-4036860",
         "investing:https://tr.investing.com/news/stock-market-news/bullish-hissesi-bugun-neden-yukseliyor-93CH-4036859",
-        "investing:https://tr.investing.com/news/stock-market-news/caterpillar-hisseleri-bugun-neden-dusuyor-93CH-4036858",
-        "investing:https://tr.investing.com/news/stock-market-news/sp-global-borc-azaltmas-nedeniyle-ovintiv-gorunumunu-yukseltti-93CH-4036857",
-        "investing:https://tr.investing.com/news/insider-trading-news/dolphin-entertainment-ceosu-william-odowd-iv-4911-dolar-degerinde-hisse-ald-93CH-4036854",
-        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-google-cip-anlasmas-sonras-marvell-hissesi-icin-guclu-al-tavsiyesini-yineledi-93CH-4036853"
+        "investing:https://tr.investing.com/news/stock-market-news/caterpillar-hisseleri-bugun-neden-dusuyor-93CH-4036858"
       ]
     },
     "ntvpara": {
@@ -1769,6 +1769,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "meritage homes 0 48 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/meritage-homes-048-dolar-temettu-acklad-93CH-4038699"
+    },
+    {
+      "source": "investing",
+      "text": "epa fiyatlar dusurmek k s benzinine erken gecise izin verdi",
+      "link": "https://tr.investing.com/news/stock-market-news/epa-fiyatlar-dusurmek-icin-ks-benzinine-erken-gecise-izin-verdi-4038700"
+    },
+    {
+      "source": "investing",
+      "text": "precigen hissesi 7 33 dolarda 52 haftal k zirve yapt",
+      "link": "https://tr.investing.com/news/company-news/precigen-hissesi-733-dolarda-52-haftalk-zirve-yapt-93CH-4038697"
+    },
+    {
+      "source": "kap",
+      "text": "alklc kat l m finans ilkeleri bilgi formu sirket altinkilic gida sut sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653723"
+    },
     {
       "source": "kap",
       "text": "klkim kredi derecelendirmesi jcr kredi derecelendirmesi sirket kalekim kimyevi maddeler sanayi ticaret a s",
@@ -9248,26 +9268,6 @@
       "source": "kap",
       "text": "lxgyo sorumluluk beyan konsolide 30 06 2026 sorumluluk beyan sirket luxera gayrimenkul yatirim ortakligi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653096"
-    },
-    {
-      "source": "kap",
-      "text": "lxgyo faaliyet raporu konsolide 30 06 2026 yonetim kurulu faaliyet raporu sirket luxera gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653095"
-    },
-    {
-      "source": "kap",
-      "text": "pltur kat l m finans ilkeleri bilgi formu sirket platform turizm tasimacilik gida insaat temizlik hizmetleri sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653094"
-    },
-    {
-      "source": "kap",
-      "text": "lxgyo finansal rapor sirket luxera gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653093"
-    },
-    {
-      "source": "kap",
-      "text": "tmsn tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket tumosan motor traktor sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653091"
     }
   ]
 }
