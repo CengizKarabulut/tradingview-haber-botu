@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653725",
+      "last_seen_key": "kap:1653726",
       "seen_keys": [
+        "kap:1653726",
         "kap:1653725",
         "kap:1653724",
         "kap:1653723",
@@ -502,8 +503,7 @@
         "kap:1653088",
         "kap:1653086",
         "kap:1653085",
-        "kap:1653084",
-        "kap:1653083"
+        "kap:1653084"
       ]
     },
     "bloomberght": {
@@ -1769,6 +1769,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "yyapi kat l m finans ilkeleri bilgi formu sirket yesil yapi endustrisi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653726"
+    },
     {
       "source": "investing",
       "text": "anthropic kurumsal musterilere daha fazla veri kontrolu sunacak",
@@ -9263,11 +9268,6 @@
       "source": "investing",
       "text": "dolphin entertainment ceo su william o dowd iv 4 911 dolar degerinde hisse ald",
       "link": "https://tr.investing.com/news/insider-trading-news/dolphin-entertainment-ceosu-william-odowd-iv-4911-dolar-degerinde-hisse-ald-93CH-4036854"
-    },
-    {
-      "source": "investing",
-      "text": "raymond james google cip anlasmas sonras marvell hissesi guclu al tavsiyesini yineledi",
-      "link": "https://tr.investing.com/news/analyst-ratings/raymond-james-google-cip-anlasmas-sonras-marvell-hissesi-icin-guclu-al-tavsiyesini-yineledi-93CH-4036853"
     }
   ]
 }
