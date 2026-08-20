@@ -1250,8 +1250,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:a9b4c7996d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:49d18eb4bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:49d18eb4bd9e8:0",
         "tradingview:fxstreet:a9b4c7996d9e8:0",
         "tradingview:fxstreet:7478eac6ed9e8:0",
         "tradingview:fxstreet:5e5a6a591d9e8:0",
@@ -1750,8 +1751,7 @@
         "tradingview:matriks:6685805:0",
         "tradingview:matriks:6685801:0",
         "tradingview:matriks:6685800:0",
-        "tradingview:matriks:6685798:0",
-        "tradingview:matriks:6685799:0"
+        "tradingview:matriks:6685798:0"
       ]
     },
     "forexfactory": {
@@ -1769,6 +1769,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "foreks piyasas nda bugun abd dolar kuresel oncu pmi lar oncesinde gucleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:49d18eb4bd9e8:0"
+    },
     {
       "source": "investing",
       "text": "meritage homes 0 48 dolar temettu ac klad",
@@ -9263,11 +9268,6 @@
       "source": "kap",
       "text": "jants tsrs uyumlu surdurulebilirlik raporu jantsa a s 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket jantsa jant sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653097"
-    },
-    {
-      "source": "kap",
-      "text": "lxgyo sorumluluk beyan konsolide 30 06 2026 sorumluluk beyan sirket luxera gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653096"
     }
   ]
 }
