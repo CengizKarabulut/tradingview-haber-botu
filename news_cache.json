@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653361",
+      "last_seen_key": "kap:1653363",
       "seen_keys": [
+        "kap:1653363",
         "kap:1653361",
         "kap:1653360",
         "kap:1653356",
@@ -1134,8 +1135,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6686550:0",
+      "last_seen_key": "tradingview:matriks:6686577:0",
       "seen_keys": [
+        "tradingview:matriks:6686577:0",
+        "tradingview:matriks:6686576:0",
+        "tradingview:matriks:6686573:0",
+        "tradingview:fxstreet:850a88047d9e8:0",
+        "tradingview:cointelegraph:fa25d0558d9e8:0",
         "tradingview:matriks:6686550:0",
         "tradingview:matriks:6686544:0",
         "tradingview:matriks:6686541:0",
@@ -1630,12 +1636,7 @@
         "tradingview:matriks:6683655:0",
         "tradingview:matriks:6683654:0",
         "tradingview:fxstreet:61d3348dfd9e8:0",
-        "tradingview:matriks:6683643:0",
-        "tradingview:matriks:6683640:0",
-        "tradingview:matriks:6683639:0",
-        "tradingview:matriks:6683637:0",
-        "tradingview:matriks:6683636:0",
-        "tradingview:matriks:6683634:0"
+        "tradingview:matriks:6683643:0"
       ]
     },
     "forexfactory": {
@@ -1653,6 +1654,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "tcmb 21 agustos valorlu 1 hafta vadeli 500 milyon dolar tutar nda doviz kars l g tl swap ihalesi act",
+      "link": "https://tr.tradingview.com/news/matriks:6686577:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yunanistan turizm gelirleri haziran 3 48 milyar euroya yukseldi onceki 3 44 milyar euro merkez bankas",
+      "link": "https://tr.tradingview.com/news/matriks:6686576:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yunanistan merkez bankas yunanistan cari islemler dengesi haziran 0 60 milyar euro onceki 0 96 milyar euro",
+      "link": "https://tr.tradingview.com/news/matriks:6686573:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney afrika rand el nino dan kaynaklanan enflasyon riskleri commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:850a88047d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitgo korea kurumsal kripto saklama hizmeti vasp kayd ald",
+      "link": "https://tr.tradingview.com/news/cointelegraph:fa25d0558d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "grnyo ozel durum ac klamas genel paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket garanti yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653363"
+    },
     {
       "source": "tradingview",
       "text": "hisse bulten ncm investment",
@@ -9122,36 +9153,6 @@
       "source": "tradingview",
       "text": "ingiliz sterlini daha s cak ingiltere enflasyon verilerinin ard ndan aral k icinde hafif yukseliyor",
       "link": "https://tr.tradingview.com/news/fxstreet:f8e06b54ed9e8:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "issizlik rakamlar ac kland turkiye issizlik oran y l n ikinci ceyreginde onceki ceyrege gore 0 3 puanl k azal sla yuzde 7 9 seviyesinde gerceklesti donemde issiz say s 2 milyon 799 bin kisi oldu",
-      "link": "https://www.trthaber.com/haber/ekonomi/issizlik-rakamlari-aciklandi-954340.html"
-    },
-    {
-      "source": "kap",
-      "text": "miatk pay baz nda devre kesici bildirimi miatk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652452"
-    },
-    {
-      "source": "kap",
-      "text": "bagfs pay baz nda devre kesici bildirimi bagfs e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652451"
-    },
-    {
-      "source": "kap",
-      "text": "goody pay baz nda devre kesici bildirimi goody e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652450"
-    },
-    {
-      "source": "kap",
-      "text": "fin qnbtr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren mtn program kapsam nda yurtd s nda ihrac edilen borclanma arac n n ihrac sirket qnb bank a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652449"
-    },
-    {
-      "source": "kap",
-      "text": "isatr isbtr isctr iskur tib pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 19 08 2026 vadeli t is bankas a s finansman bonosu itfas hakk nda sirket turkiye is bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652448"
     }
   ]
 }
