@@ -1013,8 +1013,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44H08P:0",
+      "last_seen_key": "tradingview:fxstreet:917328543d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:917328543d9e8:0",
+        "tradingview:matriks:6685926:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44H08P:0",
         "tradingview:matriks:6685923:0",
         "tradingview:fxstreet:02265538fd9e8:0",
@@ -1029,6 +1031,8 @@
         "tradingview:cointelegraph:2a7504913d9e8:0",
         "tradingview:matriks:6685828:0",
         "tradingview:matriks:6685827:0",
+        "tradingview:matriks:6685825:0",
+        "tradingview:matriks:6685824:0",
         "tradingview:matriks:6685823:0",
         "tradingview:matriks:6685822:0",
         "tradingview:matriks:6685820:0",
@@ -1510,11 +1514,7 @@
         "tradingview:matriks:6682745:0",
         "tradingview:matriks:6682742:0",
         "tradingview:matriks:6682741:0",
-        "tradingview:matriks:6682736:0",
-        "tradingview:matriks:6682733:0",
-        "tradingview:matriks:6682732:0",
-        "tradingview:matriks:6682731:0",
-        "tradingview:matriks:6682726:0"
+        "tradingview:matriks:6682736:0"
       ]
     },
     "forexfactory": {
@@ -1532,6 +1532,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hindistan rupisi abd dolar kars s nda uc gunluk kay p serisinin ard ndan toparland",
+      "link": "https://tr.tradingview.com/news/fxstreet:917328543d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi doas phillipcapital",
+      "link": "https://tr.tradingview.com/news/matriks:6685926:0"
+    },
     {
       "source": "tradingview",
       "text": "global piyasalar borsa",
@@ -9021,16 +9031,6 @@
       "source": "tradingview",
       "text": "global siyasi ekonomik takvim",
       "link": "https://tr.tradingview.com/news/matriks:6682277:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "para piyasalar nakit ak s tablosu",
-      "link": "https://tr.tradingview.com/news/matriks:6682286:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb ag rl kl ortalama fonlama maliyeti tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6682283:0"
     }
   ]
 }
