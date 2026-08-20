@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653521",
+      "last_seen_key": "kap:1653526",
       "seen_keys": [
+        "kap:1653526",
+        "kap:1653525",
+        "kap:1653524",
+        "kap:1653523",
         "kap:1653521",
         "kap:1653520",
         "kap:1653518",
@@ -499,11 +503,7 @@
         "kap:1652940",
         "kap:1652938",
         "kap:1652937",
-        "kap:1652935",
-        "kap:1652934",
-        "kap:1652932",
-        "kap:1652931",
-        "kap:1652930"
+        "kap:1652935"
       ]
     },
     "bloomberght": {
@@ -1115,8 +1115,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/merkezin-rezervleri-yuzde-3e-yakin-artti-1738171",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/alibabanin-yapay-zeka-yatirimlari-etkisini-gostermeye-basladi-1738183",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/alibabanin-yapay-zeka-yatirimlari-etkisini-gostermeye-basladi-1738183",
         "ntvpara:https://www.ntv.com.tr/ntvpara/merkezin-rezervleri-yuzde-3e-yakin-artti-1738171",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-simsekten-motorin-yorumu-1738155",
         "ntvpara:https://www.ntv.com.tr/ntvpara/teknoloji-devi-rekor-seviyedeki-karlarini-hissedarlariyla-paylasacak-1738144",
@@ -1290,8 +1291,34 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6687546:0",
+      "last_seen_key": "tradingview:fxstreet:fa0f7a527d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:fa0f7a527d9e8:0",
+        "tradingview:fxstreet:4019d3c22d9e8:0",
+        "tradingview:matriks:6687603:0",
+        "tradingview:matriks:6687597:0",
+        "tradingview:matriks:6687596:0",
+        "tradingview:matriks:6687592:0",
+        "tradingview:matriks:6687589:0",
+        "tradingview:matriks:6687588:0",
+        "tradingview:matriks:6687585:0",
+        "tradingview:matriks:6687584:0",
+        "tradingview:matriks:6687581:0",
+        "tradingview:matriks:6687578:0",
+        "tradingview:matriks:6687577:0",
+        "tradingview:matriks:6687576:0",
+        "tradingview:matriks:6687573:0",
+        "tradingview:fxstreet:85037646fd9e8:0",
+        "tradingview:matriks:6687566:0",
+        "tradingview:fxstreet:937a93768d9e8:0",
+        "tradingview:matriks:6687565:0",
+        "tradingview:matriks:6687557:0",
+        "tradingview:matriks:6687556:0",
+        "tradingview:matriks:6687555:0",
+        "tradingview:matriks:6687554:0",
+        "tradingview:matriks:6687550:0",
+        "tradingview:cointelegraph:5be30eefed9e8:0",
+        "tradingview:matriks:6687547:0",
         "tradingview:matriks:6687546:0",
         "tradingview:matriks:6687545:0",
         "tradingview:matriks:6687544:0",
@@ -1765,33 +1792,7 @@
         "tradingview:fxstreet:fa6c55b19d9e8:0",
         "tradingview:cointelegraph:425a44f9bd9e8:0",
         "tradingview:matriks:6685220:0",
-        "tradingview:matriks:6685215:0",
-        "tradingview:fxstreet:5abfb5d55d9e8:0",
-        "tradingview:matriks:6685207:0",
-        "tradingview:cointelegraph:9855d3563d9e8:0",
-        "tradingview:matriks:6685196:0",
-        "tradingview:matriks:6685175:0",
-        "tradingview:matriks:6685162:0",
-        "tradingview:fxstreet:65fcce105d9e8:0",
-        "tradingview:matriks:6685152:0",
-        "tradingview:matriks:6685143:0",
-        "tradingview:matriks:6685130:0",
-        "tradingview:matriks:6685122:0",
-        "tradingview:matriks:6685120:0",
-        "tradingview:matriks:6685115:0",
-        "tradingview:matriks:6685065:0",
-        "tradingview:cointelegraph:f6d35dc80d9e8:0",
-        "tradingview:matriks:6685055:0",
-        "tradingview:matriks:6685044:0",
-        "tradingview:fxstreet:360992b3ad9e8:0",
-        "tradingview:beincrypto:585c712c3d9e8:0",
-        "tradingview:matriks:6684967:0",
-        "tradingview:matriks:6684966:0",
-        "tradingview:matriks:6684962:0",
-        "tradingview:fxstreet:54c0de0e5d9e8:0",
-        "tradingview:fxstreet:45f508069d9e8:0",
-        "tradingview:cointelegraph:a5c6a5a14d9e8:0",
-        "tradingview:matriks:6684959:0"
+        "tradingview:matriks:6685215:0"
       ]
     },
     "forexfactory": {
@@ -1809,6 +1810,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar zay f istihdam verilerinin rba faiz gorunumunu bask lamas yla geri cekiliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:fa0f7a527d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni borc endiseleri fx gorunumunu sekillendiriyor rabobank",
+      "link": "https://tr.tradingview.com/news/fxstreet:4019d3c22d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "pay piyasas 2026 ikinci ceyrek sektorel bilanco analizi ziraat yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6687603:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "takasbank para piyasas nda bugun 64 milyar 351 milyon tl lik islem hacmi gerceklesti",
+      "link": "https://tr.tradingview.com/news/matriks:6687597:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "haftal k tcmb verileri tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6687596:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly fed enflasyon hedefini buyuk farkla yakalayam yor",
+      "link": "https://tr.tradingview.com/news/matriks:6687592:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly verileri izleme ac s ndan hala iyi konumday z",
+      "link": "https://tr.tradingview.com/news/matriks:6687589:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi yatas ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6687588:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly yapay zeka yat r mlar n n enflasyonda genis olcekli art s tetikledigini gormuyorum",
+      "link": "https://tr.tradingview.com/news/matriks:6687585:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly is gucu piyasas rahats z edici olcude istikrarl gorunuyor is gucu piyasas n n zay flad g na dair herhangi isaret gormuyorum",
+      "link": "https://tr.tradingview.com/news/matriks:6687584:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "amerikan borsalar bulten pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6687581:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco analizi arsan ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6687578:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly fed gercekten enflasyon hedefini elde etmeye odaklanmal",
+      "link": "https://tr.tradingview.com/news/matriks:6687577:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly fed politika hedeflerine ulasmak yol bulacak",
+      "link": "https://tr.tradingview.com/news/matriks:6687576:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly hazine nin borclanma ihrac program n tart smak henuz cok erken",
+      "link": "https://tr.tradingview.com/news/matriks:6687573:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n geri al mlar getirileri yeniden sekillendirirken ralli soru isaretleriyle kars kars ya bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:85037646fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly fed in temmuz ay ndaki faizleri sabit tutma karar guclu sekilde desteklendi",
+      "link": "https://tr.tradingview.com/news/matriks:6687566:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd ilk issizlik basvurular gecen hafta 206 bin e dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:937a93768d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly istihdam piyasas n n su anda enflasyona katk bulundugunu gormuyorum",
+      "link": "https://tr.tradingview.com/news/matriks:6687565:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly istihdam enflasyon verileri zamana kadar gorunumu degistirmedi",
+      "link": "https://tr.tradingview.com/news/matriks:6687557:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed musalem enflasyon bask lar tipik gorunumun kaybolmas bekleniyor",
+      "link": "https://tr.tradingview.com/news/matriks:6687556:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly k sa vadeli tahvil getirileri piyasalar n fed in tepki fonksiyonunu anlad g n gosteriyor",
+      "link": "https://tr.tradingview.com/news/matriks:6687555:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar bulteni tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6687554:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "siber guvenlik firmas 885 000 telefon numaras n hedefleyen kripto kimlik av kampanyas n ortaya c kard",
+      "link": "https://tr.tradingview.com/news/cointelegraph:5be30eefed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed daly para politikas iyi noktada",
+      "link": "https://tr.tradingview.com/news/matriks:6687547:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "alibaba n n yapay zeka yat r mlar etkisini gostermeye baslad cinli e ticaret devi alibaba yapay zeka destekli gelir art s kaydetti",
+      "link": "https://www.ntv.com.tr/ntvpara/alibabanin-yapay-zeka-yatirimlari-etkisini-gostermeye-basladi-1738183"
+    },
+    {
+      "source": "kap",
+      "text": "mngfa genel kurul bildirimi 19 08 2026 tarihinde yap lan olaganustu genel kurul toplant s sirket mng faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653526"
+    },
+    {
+      "source": "kap",
+      "text": "ufuk kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 kurumsal yonetim komitesi sirket ufuk yatirim yonetim gayrimenkul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653525"
+    },
+    {
+      "source": "kap",
+      "text": "ufuk sirket genel bilgi formu sirket ufuk yatirim yonetim gayrimenkul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653524"
+    },
+    {
+      "source": "kap",
+      "text": "ufuk ozel durum ac klamas genel yat r mc iliskileri yoneticisi atamas sirket ufuk yatirim yonetim gayrimenkul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653523"
+    },
     {
       "source": "tradingview",
       "text": "abd mega cap hisse radar aktif yat r m",
@@ -9158,156 +9309,6 @@
       "source": "kap",
       "text": "arsan ozel durum ac klamas genel sirketimizin bagl ortakl g arsan finans faktoring a s tl borclanma araclar n n ihrac tavan basvurusu hakk nda sirket arsan holding a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1652561"
-    },
-    {
-      "source": "kap",
-      "text": "trate kredi derecelendirmesi kredi derecelendirme notu bildirimi sirket istanbul uluslararasi derecelendirme hizmetleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652560"
-    },
-    {
-      "source": "kap",
-      "text": "tevks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdtryb82621 isin kodlu yurtici kira sertifikalar n n itfa getiri odeme islemlerinin tamamlanmas sirket tera varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652558"
-    },
-    {
-      "source": "kap",
-      "text": "ebebk gelecege donuk degerlendirmeler analist toplant s sunumu sirket ebebek magazacilik a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652557"
-    },
-    {
-      "source": "kap",
-      "text": "oyayo ozel durum ac klamas genel ortakl k paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket oyak yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652555"
-    },
-    {
-      "source": "tradingview",
-      "text": "mufg petrol fiyatlar abd iran geriliminin surmesiyle yukselisini dorduncu gune tas d",
-      "link": "https://tr.tradingview.com/news/matriks:6683725:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "endonezya rupisi politika surekliligi para birimini destekliyor societe generale",
-      "link": "https://tr.tradingview.com/news/fxstreet:5df0fc9d0d9e8:0"
-    },
-    {
-      "source": "ntvpara",
-      "text": "gumus fiyatlar yukselise gecti abd iran geriliminin avrupa ya s crama riskine ragmen degerli metaller toparlanma sinyali verdi",
-      "link": "https://www.ntv.com.tr/ntvpara/gumus-fiyatlari-yukselise-gecti-1738026"
-    },
-    {
-      "source": "investing",
-      "text": "zim integrated shipping hissesi neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/zim-integrated-shipping-hissesi-neden-dusuyor-93CH-4036289"
-    },
-    {
-      "source": "investing",
-      "text": "canaccord e l f beauty hissesi hedef fiyat yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/canaccord-elf-beauty-hissesi-icin-hedef-fiyat-yukseltti-93CH-4036287"
-    },
-    {
-      "source": "investing",
-      "text": "nebius 4 5 milyar dolarl k donusturulebilir tahvil ihrac planl yor",
-      "link": "https://tr.investing.com/news/company-news/nebius-45-milyar-dolarlk-donusturulebilir-tahvil-ihrac-planlyor-93CH-4036286"
-    },
-    {
-      "source": "investing",
-      "text": "hdfgs gercege uygun deger cagr s sonras 58 getiri saglad",
-      "link": "https://tr.investing.com/news/investment-ideas/hdfgs-gercege-uygun-deger-cagrs-sonras-58-getiri-saglad-93CH-4036284"
-    },
-    {
-      "source": "investing",
-      "text": "helus pharma hisseleri h c wainwright al tavsiyesini korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/helus-pharma-hisseleri-icin-hc-wainwright-al-tavsiyesini-korudu-93CH-4036280"
-    },
-    {
-      "source": "investing",
-      "text": "canaccord vertical aerospace hissesi hedef fiyat dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/canaccord-vertical-aerospace-hissesi-icin-hedef-fiyat-dusurdu-93CH-4036279"
-    },
-    {
-      "source": "investing",
-      "text": "h c wainwright microbot medical hissesi tavsiyesini korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-microbot-medical-hissesi-icin-tavsiyesini-korudu-93CH-4036277"
-    },
-    {
-      "source": "investing",
-      "text": "northland ciena hissesi tavsiyesini yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/northland-ciena-hissesi-icin-tavsiyesini-yukseltti-93CH-4036276"
-    },
-    {
-      "source": "investing",
-      "text": "rosenblatt cerebras systems al tavsiyesini yineledi",
-      "link": "https://tr.investing.com/news/analyst-ratings/rosenblatt-cerebras-systems-icin-al-tavsiyesini-yineledi-93CH-4036274"
-    },
-    {
-      "source": "investing",
-      "text": "mizuho genc zarar davas nda meta hisse notunu korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-genc-zarar-davasnda-meta-hisse-notunu-korudu-93CH-4036275"
-    },
-    {
-      "source": "kap",
-      "text": "ksj sirket genel bilgi formu sirket kisbu gayrimenkul girisim sermayesi portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652553"
-    },
-    {
-      "source": "kap",
-      "text": "jcrav kredi derecelendirmesi kredi derecelendirme bildirimi sirket jcr avrasya derecelendirme a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1652551"
-    },
-    {
-      "source": "tradingview",
-      "text": "blackrock bitcoin deki yuzde 50 lik dusus oncesindeki kopuk buyuk olcude temizlendi",
-      "link": "https://tr.tradingview.com/news/matriks:6683683:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n fiyat analizi xau usd 4 370 a s crad ancak yukar yonlu ivme zay fl yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:1b51312cbd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "wti fiyat analizi yeni yukselis 85 dolar n uzerinde kararl k r lmaya ihtiyac duyuyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:8e59523d2d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "rusya merkez bankas hnehalk n n enflasyon beklentisi agustos ta 13 7 onceki ay 14 7",
-      "link": "https://tr.tradingview.com/news/matriks:6683678:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ulker 2026 y ll k sat s buyume beklentisini yataydan revize ederek dusuk tek haneli daralmaya dusurdu kap",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44G0UM:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ulker biskuvi artan jeopolitik belirsizlik k sa vadeli talepteki zay flama dogrultusunda net sat s ongorumuzu revize ederken favok marj beklentimizi koruyoruz",
-      "link": "https://tr.tradingview.com/news/matriks:6683674:0"
-    },
-    {
-      "source": "investing",
-      "text": "james latham hissedarlar tum kararlar onaylad",
-      "link": "https://tr.investing.com/news/company-news/james-latham-hissedarlar-tum-kararlar-onaylad-93CH-4036237"
-    },
-    {
-      "source": "investing",
-      "text": "ciena hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/ciena-hissesi-bugun-neden-yukseliyor-93CH-4036222"
-    },
-    {
-      "source": "investing",
-      "text": "mizuho leonabio hisse hedefini yuksek opex nedeniyle dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-leonabio-hisse-hedefini-yuksek-opex-nedeniyle-dusurdu-93CH-4036221"
-    },
-    {
-      "source": "investing",
-      "text": "autozi tedarik zinciri genislemesi 30 milyon dolar ald",
-      "link": "https://tr.investing.com/news/company-news/autozi-tedarik-zinciri-genislemesi-icin-30-milyon-dolar-ald-93CH-4036215"
-    },
-    {
-      "source": "investing",
-      "text": "almanya n n borclanma maliyeti savunma harcamalar nedeniyle 15 y l n zirvesinde",
-      "link": "https://tr.investing.com/news/economy-news/almanyann-borclanma-maliyeti-savunma-harcamalar-nedeniyle-15-yln-zirvesinde-93CH-4036214"
     }
   ]
 }
