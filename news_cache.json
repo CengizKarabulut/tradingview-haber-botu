@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653363",
+      "last_seen_key": "kap:1653370",
       "seen_keys": [
+        "kap:1653370",
+        "kap:1653368",
+        "kap:1653367",
+        "kap:1653366",
+        "kap:1653365",
+        "kap:1653364",
         "kap:1653363",
         "kap:1653361",
         "kap:1653360",
@@ -1135,8 +1141,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6686577:0",
+      "last_seen_key": "tradingview:fxstreet:0fec87453d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:0fec87453d9e8:0",
+        "tradingview:matriks:6686602:0",
         "tradingview:matriks:6686577:0",
         "tradingview:matriks:6686576:0",
         "tradingview:matriks:6686573:0",
@@ -1153,6 +1161,7 @@
         "tradingview:fxstreet:7f6257b3dd9e8:0",
         "tradingview:fxstreet:3e8c2d28ed9e8:0",
         "tradingview:matriks:6686492:0",
+        "tradingview:beincrypto:85552431bd9e8:0",
         "tradingview:matriks:6686483:0",
         "tradingview:matriks:6686478:0",
         "tradingview:fxstreet:9421b7ee3d9e8:0",
@@ -1163,6 +1172,7 @@
         "tradingview:matriks:6686446:0",
         "tradingview:fxstreet:65bb46deed9e8:0",
         "tradingview:fxstreet:824d028d6d9e8:0",
+        "tradingview:beincrypto:9686aa103d9e8:0",
         "tradingview:matriks:6686438:0",
         "tradingview:matriks:6686436:0",
         "tradingview:fxstreet:f1945de00d9e8:0",
@@ -1632,11 +1642,7 @@
         "tradingview:matriks:6683663:0",
         "tradingview:fxstreet:1af139f65d9e8:0",
         "tradingview:matriks:6683659:0",
-        "tradingview:matriks:6683660:0",
-        "tradingview:matriks:6683655:0",
-        "tradingview:matriks:6683654:0",
-        "tradingview:fxstreet:61d3348dfd9e8:0",
-        "tradingview:matriks:6683643:0"
+        "tradingview:matriks:6683660:0"
       ]
     },
     "forexfactory": {
@@ -1654,6 +1660,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "petrol yapt r m riskiyle ralli genisliyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:0fec87453d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd endeks vadelileri kar s k seyrediyor",
+      "link": "https://tr.tradingview.com/news/matriks:6686602:0"
+    },
+    {
+      "source": "kap",
+      "text": "safkr ozel durum ac klamas genel yat r mc iliskileri yoneticisi atanmas sirket safkar ege sogutmacilik klima soguk hava tesisleri ihracat ithalat sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653370"
+    },
+    {
+      "source": "kap",
+      "text": "isfak ihrac tavan na iliskin bildirim borclanma arac ihrac spk ya basvuru yap lmas sirket is faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653368"
+    },
+    {
+      "source": "kap",
+      "text": "akfis esas sozlesme esas sozlesme sirket akfen insaat turizm ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653367"
+    },
+    {
+      "source": "kap",
+      "text": "korts pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 20 08 2026 korteks borclanma arac ihrac n n tamamlanmas nitelikli yat r mc ya sat s sirket korteks mensucat sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653366"
+    },
+    {
+      "source": "kap",
+      "text": "dimes ihrac tavan na iliskin bildirim borclanma arac ihrac na iliskin spk onay sirket dimes gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653365"
+    },
+    {
+      "source": "kap",
+      "text": "akfis sermaye art r m azalt m islemlerine iliskin bildirim bedelsiz sermaye art r m kapsam nda tadil edilen sirketimiz esas sozlesme sinin 6 nc maddesinin tescili hk sirket akfen insaat turizm ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653364"
+    },
     {
       "source": "tradingview",
       "text": "tcmb 21 agustos valorlu 1 hafta vadeli 500 milyon dolar tutar nda doviz kars l g tl swap ihalesi act",
@@ -9113,46 +9159,6 @@
       "source": "tradingview",
       "text": "japonya nikkei 225 endeksi 3 16 dususle 65326 42 puandan kapand",
       "link": "https://tr.tradingview.com/news/matriks:6682643:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "viop bulten seker yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6682642:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi ulker akbank ekonomik arast rmalar ak yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6682635:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro ingiltere tufe enflasyonunun 2 9 a yukselmesinin ard ndan ingiliz sterlini kars s ndaki kazanclar n azaltt",
-      "link": "https://tr.tradingview.com/news/fxstreet:7c3eb19d1d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten seker yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6682634:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "uluslararas piyasalar bulteni qnb invest",
-      "link": "https://tr.tradingview.com/news/matriks:6682632:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "piyasalarda bugun is yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6682627:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunun piyasa haritas trive yat r m menkul degerler",
-      "link": "https://tr.tradingview.com/news/matriks:6682626:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiliz sterlini daha s cak ingiltere enflasyon verilerinin ard ndan aral k icinde hafif yukseliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:f8e06b54ed9e8:0"
     }
   ]
 }
