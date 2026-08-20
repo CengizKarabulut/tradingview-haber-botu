@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653707",
+      "last_seen_key": "kap:1653709",
       "seen_keys": [
+        "kap:1653709",
+        "kap:1653708",
         "kap:1653707",
         "kap:1653706",
         "kap:1653705",
@@ -501,9 +503,7 @@
         "kap:1653068",
         "kap:1653067",
         "kap:1653066",
-        "kap:1653065",
-        "kap:1653064",
-        "kap:1653063"
+        "kap:1653065"
       ]
     },
     "bloomberght": {
@@ -564,18 +564,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/oxford-nanopore-ceosu-ltip-odulu-kapsamnda-49676-hisse-ald-93CH-4038633",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-yoneticisi-372-dolar-degerinde-hisse-ald-93CH-4038645",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-yoneticisi-372-dolar-degerinde-hisse-ald-93CH-4038645",
+        "investing:https://tr.investing.com/news/insider-trading-news/globalfoundries-cpo-pradheepa-raman-345571-dolarlk-hisse-satt-93CH-4038644",
+        "investing:https://tr.investing.com/news/insider-trading-news/first-citizens-bancshares-yoneticisi-morais-108405-dolar-degerinde-hisse-ald-93CH-4038643",
+        "investing:https://tr.investing.com/news/stock-market-news/solaris-energy-infrastructure-hissesi-bugun-neden-dusuyor-93CH-4038642",
+        "investing:https://tr.investing.com/news/company-news/balfour-beatty-sarah-brandi-tampa-operasyonlar-baskan-yardmcs-olarak-atad-93CH-4038639",
+        "investing:https://tr.investing.com/news/company-news/popular-hisse-basna-090-dolar-temettu-acklad-93CH-4038638",
+        "investing:https://tr.investing.com/news/stock-market-news/instacart-hissesi-neden-yeni-52-haftalk-zirve-yapt-93CH-4038637",
+        "investing:https://tr.investing.com/news/stock-market-news/sharonai-holdings-hissesi-bugun-neden-dusuyor-93CH-4038635",
         "investing:https://tr.investing.com/news/company-news/oxford-nanopore-ceosu-ltip-odulu-kapsamnda-49676-hisse-ald-93CH-4038633",
         "investing:https://tr.investing.com/news/stock-market-news/twenty-one-capital-hissesi-neden-yukseliyor-93CH-4038632",
-        "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-hisseleri-neden-dusuyor-93CH-4038631",
-        "investing:https://tr.investing.com/news/stock-market-news/tempus-ai-hissesi-bugun-neden-yukseliyor-93CH-4038630",
-        "investing:https://tr.investing.com/news/stock-market-news/barclays-abdde-oda-basna-otel-geliri-temmuzda-82-artt-93CH-4038629",
-        "investing:https://tr.investing.com/news/company-news/resideo-technologies-hissesi-2010-dolarla-dip-yapt-93CH-4038628",
-        "investing:https://tr.investing.com/news/company-news/nacco-industries-ceyreklik-02625-dolar-temettu-acklad-93CH-4038626",
-        "investing:https://tr.investing.com/news/stock-market-news/deutsche-bank-abdkanada-tarife-indiriminin-etkilerini-degerlendirdi-93CH-4038625",
-        "investing:https://tr.investing.com/news/company-news/conocophillips-hissesi-13587-dolarla-52-haftalk-zirveye-ulast-93CH-4038624",
-        "investing:https://tr.investing.com/news/stock-market-news/aegon-hissesi-bugun-neden-dusuyor-93CH-4038618",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -596,6 +596,14 @@
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
+        "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-hisseleri-neden-dusuyor-93CH-4038631",
+        "investing:https://tr.investing.com/news/stock-market-news/tempus-ai-hissesi-bugun-neden-yukseliyor-93CH-4038630",
+        "investing:https://tr.investing.com/news/stock-market-news/barclays-abdde-oda-basna-otel-geliri-temmuzda-82-artt-93CH-4038629",
+        "investing:https://tr.investing.com/news/company-news/resideo-technologies-hissesi-2010-dolarla-dip-yapt-93CH-4038628",
+        "investing:https://tr.investing.com/news/company-news/nacco-industries-ceyreklik-02625-dolar-temettu-acklad-93CH-4038626",
+        "investing:https://tr.investing.com/news/stock-market-news/deutsche-bank-abdkanada-tarife-indiriminin-etkilerini-degerlendirdi-93CH-4038625",
+        "investing:https://tr.investing.com/news/company-news/conocophillips-hissesi-13587-dolarla-52-haftalk-zirveye-ulast-93CH-4038624",
+        "investing:https://tr.investing.com/news/stock-market-news/aegon-hissesi-bugun-neden-dusuyor-93CH-4038618",
         "investing:https://tr.investing.com/news/company-news/liveperson-soundhound-birlesmesi-icin-hissedar-oylamasn-erteledi-93CH-4038614",
         "investing:https://tr.investing.com/news/company-news/freddie-mac-30-yllk-ipotek-faizi-665e-geriledi-93CH-4038612",
         "investing:https://tr.investing.com/news/stock-market-news/cfo-degisikligi-acklamasyla-aegon-hisseleri-dustu-93CH-4038611",
@@ -1057,15 +1065,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/ctt-pharmaceutical-holdings-ceosu-590-dolar-degerinde-hisse-ald-93CH-4036787",
         "investing:https://tr.investing.com/news/stock-market-news/washington-dulles-havaliman-199-milyar-dolarlk-yenileme-plann-onaylad-93CH-4036785",
         "investing:https://tr.investing.com/news/transcripts/sbc-medical-group-buyumeyi-yeniden-hzlandryor-93CH-4036784",
-        "investing:https://tr.investing.com/news/company-news/saic-hissesi-12807-dolarla-52-haftalk-zirveye-ulast-93CH-4036783",
-        "investing:https://tr.investing.com/news/transcripts/micware-buyume-konferansnda-japonya-dsnda-kuresel-buyume-hedefliyor-93CH-4036781",
-        "investing:https://tr.investing.com/news/forex-news/kanada-dolar-haziran-basndan-bu-yana-en-yuksek-seviyeye-ulast-93CH-4036775",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-progressive-hissesi-icin-hedefini-guclu-performansla-korudu-93CH-4036774",
-        "investing:https://tr.investing.com/news/stock-market-news/pilgrims-pride-hissesi-bugun-neden-yukseliyor-93CH-4036772",
-        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-progressive-hissesi-icin-tavsiyesini-korudu-93CH-4036771",
-        "investing:https://tr.investing.com/news/analyst-ratings/goldman-sachs-progressive-hissesi-icin-tavsiyesini-korudu-93CH-4036770",
-        "investing:https://tr.investing.com/news/analyst-ratings/iqiyi-hisseleri-buyume-endiseleriyle-benchmarktan-tut-ald-93CH-4036769",
-        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-guclu-kazanclar-sonras-progressive-hisse-notunu-korudu-93CH-4036767"
+        "investing:https://tr.investing.com/news/company-news/saic-hissesi-12807-dolarla-52-haftalk-zirveye-ulast-93CH-4036783"
       ]
     },
     "ntvpara": {
@@ -1247,8 +1247,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:5ccb81896d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:d185a2254d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:d185a2254d9e8:0",
         "tradingview:fxstreet:5ccb81896d9e8:0",
         "tradingview:fxstreet:657bc87ecd9e8:0",
         "tradingview:cointelegraph:eb75bafb7d9e8:0",
@@ -1747,8 +1748,7 @@
         "tradingview:matriks:6685794:0",
         "tradingview:matriks:6685785:0",
         "tradingview:matriks:6685784:0",
-        "tradingview:matriks:6685795:0",
-        "tradingview:matriks:6685789:0"
+        "tradingview:matriks:6685795:0"
       ]
     },
     "forexfactory": {
@@ -1766,6 +1766,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar rbnz faiz art r m beklentileri guclenirken yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d185a2254d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "horizon kinetics yoneticisi 372 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-yoneticisi-372-dolar-degerinde-hisse-ald-93CH-4038645"
+    },
+    {
+      "source": "investing",
+      "text": "globalfoundries cpo pradheepa raman 345 571 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/globalfoundries-cpo-pradheepa-raman-345571-dolarlk-hisse-satt-93CH-4038644"
+    },
+    {
+      "source": "investing",
+      "text": "first citizens bancshares yoneticisi morais 108 405 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/first-citizens-bancshares-yoneticisi-morais-108405-dolar-degerinde-hisse-ald-93CH-4038643"
+    },
+    {
+      "source": "investing",
+      "text": "solaris energy infrastructure hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/solaris-energy-infrastructure-hissesi-bugun-neden-dusuyor-93CH-4038642"
+    },
+    {
+      "source": "investing",
+      "text": "balfour beatty sarah brand i tampa operasyonlar baskan yard mc s olarak atad",
+      "link": "https://tr.investing.com/news/company-news/balfour-beatty-sarah-brandi-tampa-operasyonlar-baskan-yardmcs-olarak-atad-93CH-4038639"
+    },
+    {
+      "source": "investing",
+      "text": "popular hisse bas na 0 90 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/popular-hisse-basna-090-dolar-temettu-acklad-93CH-4038638"
+    },
+    {
+      "source": "investing",
+      "text": "instacart hissesi neden yeni 52 haftal k zirve yapt",
+      "link": "https://tr.investing.com/news/stock-market-news/instacart-hissesi-neden-yeni-52-haftalk-zirve-yapt-93CH-4038637"
+    },
+    {
+      "source": "investing",
+      "text": "sharonai holdings hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/sharonai-holdings-hissesi-bugun-neden-dusuyor-93CH-4038635"
+    },
+    {
+      "source": "kap",
+      "text": "kgyo kat l m finans ilkeleri bilgi formu sirket koray gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653709"
+    },
+    {
+      "source": "kap",
+      "text": "gipta pay al m sat m bildirimi pay sat s hk sirket gipta ofis kirtasiye promosyon urunleri imalat sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653708"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar kar s k verilerin rba s k last rma beklentilerini canl tutmas yla zirvelere yak n seyrediyor",
@@ -9210,61 +9265,6 @@
       "source": "investing",
       "text": "motorola solutions ceyreklik 1 21 dolar temettu ac klad",
       "link": "https://tr.investing.com/news/company-news/motorola-solutions-ceyreklik-121-dolar-temettu-acklad-93CH-4036827"
-    },
-    {
-      "source": "investing",
-      "text": "innovative eyewear sidoti konferans nda buyume hamlesi",
-      "link": "https://tr.investing.com/news/transcripts/innovative-eyewear-sidoti-konferansnda-buyume-hamlesi-93CH-4036826"
-    },
-    {
-      "source": "investing",
-      "text": "horizon kinetics renn fund 2 116 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fundda-2116-dolar-degerinde-hisse-ald-93CH-4036825"
-    },
-    {
-      "source": "investing",
-      "text": "saturn oil gas enercom denver gozden kacan varl klardan buyume",
-      "link": "https://tr.investing.com/news/transcripts/saturn-oil--gas-enercom-denverda-gozden-kacan-varlklardan-buyume-93CH-4036824"
-    },
-    {
-      "source": "kap",
-      "text": "eplas sorumluluk beyan konsolide eplas 2026 yili 2 donem sorumluluk beyani sirket egeplast ege plastik ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653035"
-    },
-    {
-      "source": "kap",
-      "text": "hrket kat l m finans ilkeleri bilgi formu sirket hareket proje tasimaciligi yuk muhendisligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653034"
-    },
-    {
-      "source": "kap",
-      "text": "hrket tsrs uyumlu surdurulebilirlik raporu tsrs uyumlu surdurulebilirlik raporu sirket hareket proje tasimaciligi yuk muhendisligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653033"
-    },
-    {
-      "source": "kap",
-      "text": "doas sirket genel bilgi formu sirket dogus otomotiv servis ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653032"
-    },
-    {
-      "source": "kap",
-      "text": "hrket sorumluluk beyan konsolide 2026 y l 2 donem sorumluluk beyan sirket hareket proje tasimaciligi yuk muhendisligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653031"
-    },
-    {
-      "source": "kap",
-      "text": "doas tsrs uyumlu surdurulebilirlik raporu 2025 tsrs uyumlu surdurulebilirlik raporu entegre surdurulebilirlik raporu sirket dogus otomotiv servis ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653030"
-    },
-    {
-      "source": "kap",
-      "text": "hrket faaliyet raporu konsolide 2026 y l 2 donem faaliyet raporu sirket hareket proje tasimaciligi yuk muhendisligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653029"
-    },
-    {
-      "source": "kap",
-      "text": "doas gelecege donuk degerlendirmeler analist bilgilendirme sunumunun internet sitemizde yay mlanmas sirket dogus otomotiv servis ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653028"
     }
   ]
 }
