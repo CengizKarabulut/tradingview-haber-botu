@@ -967,11 +967,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:7da3205edd9e8:0",
+      "last_seen_key": "tradingview:matriks:6685734:0",
       "seen_keys": [
+        "tradingview:matriks:6685734:0",
+        "tradingview:fxstreet:d6e5749d1d9e8:0",
+        "tradingview:fxstreet:5025315c8d9e8:0",
         "tradingview:fxstreet:7da3205edd9e8:0",
         "tradingview:matriks:6685715:0",
-        "tradingview:fxstreet:d6e5749d1d9e8:0",
         "tradingview:fxstreet:11f5c9e65d9e8:0",
         "tradingview:fxstreet:07ca4aad5d9e8:0",
         "tradingview:fxstreet:756790951d9e8:0",
@@ -1466,9 +1468,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L6N44G09Y:0",
         "tradingview:fxstreet:887c55adfd9e8:0",
         "tradingview:matriks:6682431:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44G08A:0",
-        "tradingview:cointelegraph:b5cdf9506d9e8:0",
-        "tradingview:matriks:6682417:0"
+        "tradingview:tag:reuters.com,2026:newsml_L8N44G08A:0"
       ]
     },
     "forexfactory": {
@@ -1486,6 +1486,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "emisyon hacmi 19 08 2026 itibariyle 970 96 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6685734:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar zay f isgucu verilerinin ard ndan geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5025315c8d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar kotu istihdam verilerine pek tepki vermiyor zay f jpy kars s nda haftal k dip seviyenin uzerinde kal yor",
@@ -8975,16 +8985,6 @@
       "source": "investing",
       "text": "saratoga investment 85 milyon dolarl k tahvil ihrac n fiyatlad",
       "link": "https://tr.investing.com/news/company-news/saratoga-investment-85-milyon-dolarlk-tahvil-ihracn-fiyatlad-93CH-4035378"
-    },
-    {
-      "source": "investing",
-      "text": "saratoga investment 85 milyon dolarl k tahvili 8 00 fiyatlad",
-      "link": "https://tr.investing.com/news/company-news/saratoga-investment-85-milyon-dolarlk-tahvili-800-ile-fiyatlad-93CH-4035377"
-    },
-    {
-      "source": "investing",
-      "text": "brighthouse financial muhasebe mudurlugune richard a cook u atad",
-      "link": "https://tr.investing.com/news/sec-filings/brighthouse-financial-muhasebe-mudurlugune-richard-a-cooku-atad-93CH-4035376"
     }
   ]
 }
