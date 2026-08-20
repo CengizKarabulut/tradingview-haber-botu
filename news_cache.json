@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653543",
+      "last_seen_key": "kap:1653545",
       "seen_keys": [
+        "kap:1653545",
         "kap:1653543",
         "kap:1653542",
         "kap:1653541",
@@ -502,8 +503,7 @@
         "kap:1652954",
         "kap:1652953",
         "kap:1652952",
-        "kap:1652951",
-        "kap:1652950"
+        "kap:1652951"
       ]
     },
     "bloomberght": {
@@ -1294,8 +1294,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:c706a4451d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:a3a378318d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:a3a378318d9e8:0",
+        "tradingview:matriks:6687761:0",
         "tradingview:fxstreet:c706a4451d9e8:0",
         "tradingview:matriks:6687753:0",
         "tradingview:matriks:6687748:0",
@@ -1337,7 +1339,6 @@
         "tradingview:matriks:6687588:0",
         "tradingview:matriks:6687585:0",
         "tradingview:matriks:6687584:0",
-        "tradingview:fxstreet:a3a378318d9e8:0",
         "tradingview:matriks:6687581:0",
         "tradingview:matriks:6687578:0",
         "tradingview:matriks:6687577:0",
@@ -1794,8 +1795,7 @@
         "tradingview:beincrypto:deba07493d9e8:0",
         "tradingview:beincrypto:4264b95cdd9e8:0",
         "tradingview:fxstreet:a27307437d9e8:0",
-        "tradingview:beincrypto:20b5e1e69d9e8:0",
-        "tradingview:fxstreet:7e38bfc53d9e8:0"
+        "tradingview:beincrypto:20b5e1e69d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1813,6 +1813,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "merkez bankas n n sonraki is gunu ac klad g gecici rezerv 779382 6 milyon tl",
+      "link": "https://tr.tradingview.com/news/matriks:6687761:0"
+    },
+    {
+      "source": "kap",
+      "text": "kvy ozel durum ac klamas genel kira sertifikas ihrac yonetim kurulu karar hk sirket kuveyt turk yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653545"
+    },
     {
       "source": "tradingview",
       "text": "endonezya rupiah bi nin duraklamas s k lasma riskini canl tutuyor commerzbank",
@@ -9302,16 +9312,6 @@
       "source": "tradingview",
       "text": "cin politika destegi yap sal degisimler hsbc",
       "link": "https://tr.tradingview.com/news/fxstreet:e772f992fd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turkiye suriye karada denizde petrol aramaya haz r bayraktar",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44G0YC:0"
-    },
-    {
-      "source": "investing",
-      "text": "morgan stanley yukseltmesiyle honeywell aerospace hisseleri yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/morgan-stanley-yukseltmesiyle-honeywell-aerospace-hisseleri-yukseldi-93CH-4036538"
     }
   ]
 }
