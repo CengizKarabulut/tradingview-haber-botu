@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653721",
+      "last_seen_key": "kap:1653722",
       "seen_keys": [
+        "kap:1653722",
         "kap:1653721",
         "kap:1653720",
         "kap:1653719",
@@ -502,8 +503,7 @@
         "kap:1653083",
         "kap:1653082",
         "kap:1653081",
-        "kap:1653080",
-        "kap:1653078"
+        "kap:1653080"
       ]
     },
     "bloomberght": {
@@ -1256,6 +1256,7 @@
         "tradingview:fxstreet:7478eac6ed9e8:0",
         "tradingview:fxstreet:5e5a6a591d9e8:0",
         "tradingview:fxstreet:53df6a689d9e8:0",
+        "tradingview:beincrypto:047bb3533d9e8:0",
         "tradingview:beincrypto:5180731d8d9e8:0",
         "tradingview:fxstreet:8e463bb8ed9e8:0",
         "tradingview:cointelegraph:1b388601dd9e8:0",
@@ -1750,8 +1751,7 @@
         "tradingview:matriks:6685801:0",
         "tradingview:matriks:6685800:0",
         "tradingview:matriks:6685798:0",
-        "tradingview:matriks:6685799:0",
-        "tradingview:matriks:6685796:0"
+        "tradingview:matriks:6685799:0"
       ]
     },
     "forexfactory": {
@@ -1769,6 +1769,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "klkim kredi derecelendirmesi jcr kredi derecelendirmesi sirket kalekim kimyevi maddeler sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653722"
+    },
     {
       "source": "tradingview",
       "text": "dolar endeksi oy hakk olmayan fed yetkilisinden taban buluyor",
@@ -9263,11 +9268,6 @@
       "source": "kap",
       "text": "tmsn tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket tumosan motor traktor sanayi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653091"
-    },
-    {
-      "source": "kap",
-      "text": "bioen kat l m finans ilkeleri bilgi formu sirket biotrend cevre enerji yatirimlari a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653090"
     }
   ]
 }
