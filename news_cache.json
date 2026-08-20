@@ -1246,8 +1246,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f58f03723d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:9b44b216cd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:9b44b216cd9e8:0",
         "tradingview:fxstreet:f58f03723d9e8:0",
         "tradingview:fxstreet:e9a5f3516d9e8:0",
         "tradingview:fxstreet:2641b9215d9e8:0",
@@ -1746,8 +1747,7 @@
         "tradingview:matriks:6685923:0",
         "tradingview:fxstreet:02265538fd9e8:0",
         "tradingview:matriks:6685867:0",
-        "tradingview:fxstreet:bc46022dcd9e8:0",
-        "tradingview:fxstreet:a5e78ab59d9e8:0"
+        "tradingview:fxstreet:bc46022dcd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1765,6 +1765,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n abd hazine geri al m yla 4 500 dolar n uzerine yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:9b44b216cd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "japonya n n ulusal tufe si temmuz ay nda y ll k bazda 2 0 artt cekirdek tufe beklendigi gibi yukseldi",
@@ -9259,11 +9264,6 @@
       "source": "investing",
       "text": "indonesia energy enercom denver kruh blogu nda nakit ak s hedefini ac klad",
       "link": "https://tr.investing.com/news/transcripts/indonesia-energy-enercom-denverda-kruh-blogunda-nakit-aks-hedefini-acklad-93CH-4036904"
-    },
-    {
-      "source": "investing",
-      "text": "ineo tech emerging growth konferans nda perakende medya kay p onleme olceklendirmesi",
-      "link": "https://tr.investing.com/news/transcripts/ineo-tech-emerging-growth-konferansnda-perakende-medya-ve-kayp-onleme-olceklendirmesi-93CH-4036903"
     }
   ]
 }
