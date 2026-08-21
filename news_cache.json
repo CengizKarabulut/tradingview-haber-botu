@@ -1246,8 +1246,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:63597fb4ed9e8:0",
+      "last_seen_key": "tradingview:fxstreet:16ddd95e5d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:16ddd95e5d9e8:0",
+        "tradingview:fxstreet:9ef1ef7b9d9e8:0",
         "tradingview:fxstreet:63597fb4ed9e8:0",
         "tradingview:fxstreet:dba099a5cd9e8:0",
         "tradingview:fxstreet:b3a5be375d9e8:0",
@@ -1745,9 +1747,7 @@
         "tradingview:matriks:6685993:0",
         "tradingview:fxstreet:09733c877d9e8:0",
         "tradingview:matriks:6685980:0",
-        "tradingview:matriks:6685979:0",
-        "tradingview:fxstreet:7a02f478fd9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44H09X:0"
+        "tradingview:matriks:6685979:0"
       ]
     },
     "forexfactory": {
@@ -1765,6 +1765,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini ingiltere perakende sat slar verileri oncesinde 1 3650 seviyesine yaklast",
+      "link": "https://tr.tradingview.com/news/fxstreet:16ddd95e5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar yukselen petrol fiyatlar yla deger kazand",
+      "link": "https://tr.tradingview.com/news/fxstreet:9ef1ef7b9d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "yeni zelanda dolar zay flayan abd dolar kars s nda haziran ay ndan yana yeni zirveye 0 5950 nin uzerine c kt",
@@ -9254,16 +9264,6 @@
       "source": "kap",
       "text": "gedik tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket gedik yatirim menkul degerler a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653193"
-    },
-    {
-      "source": "kap",
-      "text": "odas sorumluluk beyan konsolide 01 01 2026 30 06 2026 donemi sorumluluk beyan sirket odas elektrik uretim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653192"
-    },
-    {
-      "source": "kap",
-      "text": "odas faaliyet raporu konsolide 01 01 2026 30 06 2026 donemi faaliyet raporu sirket odas elektrik uretim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653191"
     }
   ]
 }
