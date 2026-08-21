@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654036",
+      "last_seen_key": "kap:1654038",
       "seen_keys": [
+        "kap:1654038",
+        "kap:1654037",
         "kap:1654036",
         "kap:1654035",
         "kap:1654032",
@@ -501,9 +503,7 @@
         "kap:1653222",
         "kap:1653221",
         "kap:1653220",
-        "kap:1653219",
-        "kap:1653218",
-        "kap:1653217"
+        "kap:1653219"
       ]
     },
     "bloomberght": {
@@ -1796,6 +1796,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "quick pay baz nda devre kesici bildirimi quick e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654038"
+    },
+    {
+      "source": "kap",
+      "text": "deva pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsdeva22815 isin kodlu tahvilin ikinci kupon faiz oran hakk nda sirket deva holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654037"
+    },
     {
       "source": "tradingview",
       "text": "uea baskan birol eger k sa sure icerisinde hurmuz bogaz nda nispi rahatlama olmazsa ciddi sorunla kars kars ya kalacag z bloomberght",
@@ -9285,16 +9295,6 @@
       "source": "bloomberght",
       "text": "bundesbank alman ekonomisi toparlanma yolunda almanya merkez bankas bundesbank alman ekonomisinin ucuncu ceyrekte sadece l ml buyume kaydetse tahmin edilenden daha iyi durumda oldugunu belirtti",
       "link": "https://www.bloomberght.com/bundesbank-alman-ekonomisi-toparlanma-yolunda-3785988"
-    },
-    {
-      "source": "kap",
-      "text": "ykb ykbnk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren yurtd s nda ihrac edilen borclanma arac n n itfas sirket yapi kredi bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653448"
-    },
-    {
-      "source": "tradingview",
-      "text": "1 1700 euro abd tahvil geri al m plan n n abd dolar n ezmesiyle uc ayl k zirvelere ulast",
-      "link": "https://tr.tradingview.com/news/fxstreet:134f40b23d9e8:0"
     }
   ]
 }
