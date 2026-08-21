@@ -1295,8 +1295,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:e7bd098dcd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:dc06fe037d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:dc06fe037d9e8:0",
         "tradingview:fxstreet:e7bd098dcd9e8:0",
         "tradingview:fxstreet:670766033d9e8:0",
         "tradingview:beincrypto:980092348d9e8:0",
@@ -1795,8 +1796,7 @@
         "tradingview:fxstreet:f8e92a714d9e8:0",
         "tradingview:fxstreet:3bdda56a5d9e8:0",
         "tradingview:fxstreet:bfb23b9cdd9e8:0",
-        "tradingview:beincrypto:007f88e56d9e8:0",
-        "tradingview:fxstreet:e9a5f3516d9e8:0"
+        "tradingview:beincrypto:007f88e56d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1814,6 +1814,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd hazine tahvili getirileri hizmetler pmi n tahminleri asmas yla toparlanmas n surduruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:dc06fe037d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "meksika pesosu zay f perakende sat slara ragmen iki y l n en yuksek seviyesine ulast",
@@ -9308,11 +9313,6 @@
       "source": "kap",
       "text": "mercn kat l m finans ilkeleri bilgi formu sirket mercan kimya sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653615"
-    },
-    {
-      "source": "kap",
-      "text": "mercn paylar n geri al nmas na iliskin bildirim 20 08 2026 tarihli pay geri al m islemleri sirket mercan kimya sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653613"
     }
   ]
 }
