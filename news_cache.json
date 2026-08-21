@@ -2,13 +2,16 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653782",
+      "last_seen_key": "kap:1653797",
       "seen_keys": [
+        "kap:1653797",
+        "kap:1653796",
+        "kap:1653795",
+        "kap:1653789",
+        "kap:1653788",
         "kap:1653782",
         "kap:1653780",
         "kap:1653779",
-        "kap:1653778",
-        "kap:1653777",
         "kap:1653776",
         "kap:1653775",
         "kap:1653774",
@@ -83,6 +86,8 @@
         "kap:1653674",
         "kap:1653671",
         "kap:1653670",
+        "kap:1653778",
+        "kap:1653777",
         "kap:1653669",
         "kap:1653668",
         "kap:1653667",
@@ -498,12 +503,7 @@
         "kap:1653141",
         "kap:1653140",
         "kap:1653139",
-        "kap:1653138",
-        "kap:1653137",
-        "kap:1653136",
-        "kap:1653135",
-        "kap:1653134",
-        "kap:1653133"
+        "kap:1653138"
       ]
     },
     "bloomberght": {
@@ -1272,8 +1272,33 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6688872:0",
+      "last_seen_key": "tradingview:matriks:6688974:0",
       "seen_keys": [
+        "tradingview:matriks:6688974:0",
+        "tradingview:matriks:6688975:0",
+        "tradingview:matriks:6688973:0",
+        "tradingview:matriks:6688953:0",
+        "tradingview:matriks:6688946:0",
+        "tradingview:fxstreet:b88a4090dd9e8:0",
+        "tradingview:matriks:6688943:0",
+        "tradingview:matriks:6688923:0",
+        "tradingview:fxstreet:5b283027cd9e8:0",
+        "tradingview:matriks:6688921:0",
+        "tradingview:matriks:6688920:0",
+        "tradingview:matriks:6688919:0",
+        "tradingview:matriks:6688914:0",
+        "tradingview:matriks:6688912:0",
+        "tradingview:matriks:6688910:0",
+        "tradingview:matriks:6688903:0",
+        "tradingview:matriks:6688896:0",
+        "tradingview:matriks:6688895:0",
+        "tradingview:fxstreet:f20c95158d9e8:0",
+        "tradingview:matriks:6688892:0",
+        "tradingview:fxstreet:963d2d222d9e8:0",
+        "tradingview:matriks:6688883:0",
+        "tradingview:fxstreet:eb8fc4498d9e8:0",
+        "tradingview:matriks:6688876:0",
+        "tradingview:matriks:6688874:0",
         "tradingview:matriks:6688872:0",
         "tradingview:matriks:6688867:0",
         "tradingview:matriks:6688865:0",
@@ -1748,32 +1773,7 @@
         "tradingview:matriks:6687171:0",
         "tradingview:matriks:6687170:0",
         "tradingview:matriks:6687169:0",
-        "tradingview:fxstreet:d9b6ca0e6d9e8:0",
-        "tradingview:fxstreet:134f40b23d9e8:0",
-        "tradingview:beincrypto:3bdf1b1dbd9e8:0",
-        "tradingview:matriks:6687083:0",
-        "tradingview:beincrypto:3c28e4d7bd9e8:0",
-        "tradingview:beincrypto:e9112b69bd9e8:0",
-        "tradingview:matriks:6687043:0",
-        "tradingview:fxstreet:0195277a9d9e8:0",
-        "tradingview:fxstreet:250eb9df1d9e8:0",
-        "tradingview:cointelegraph:80333ded0d9e8:0",
-        "tradingview:matriks:6686986:0",
-        "tradingview:matriks:6686982:0",
-        "tradingview:matriks:6686981:0",
-        "tradingview:matriks:6686965:0",
-        "tradingview:matriks:6686961:0",
-        "tradingview:beincrypto:67d92e1a2d9e8:0",
-        "tradingview:matriks:6686954:0",
-        "tradingview:matriks:6686934:0",
-        "tradingview:matriks:6686913:0",
-        "tradingview:fxstreet:7bc657640d9e8:0",
-        "tradingview:beincrypto:7ba98c5c8d9e8:0",
-        "tradingview:fxstreet:e94b354a3d9e8:0",
-        "tradingview:fxstreet:c9e6263ead9e8:0",
-        "tradingview:matriks:6686866:0",
-        "tradingview:matriks:6686861:0",
-        "tradingview:fxstreet:42c01fb68d9e8:0"
+        "tradingview:fxstreet:d9b6ca0e6d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1791,6 +1791,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "merkez bankas nca ac klanan rezerv verilerine gore bugun piyasa 2857062 5 milyon tl art",
+      "link": "https://tr.tradingview.com/news/matriks:6688974:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "merkez bankas nca ac klanan verilere gore bankalar n serbest depolar toplam 1855230 6 milyon tl",
+      "link": "https://tr.tradingview.com/news/matriks:6688975:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasa gunlugu is bankas",
+      "link": "https://tr.tradingview.com/news/matriks:6688973:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yat r m fikirleri garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688953:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borsa istanbul gune 0 15 puan 0 00 yukselisle baslad matriks haber anketi 20 12 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6688946:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro zay f ingiltere perakende sat slar verilerinin ard ndan ingiliz sterlini kars s nda kazanclar n koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b88a4090dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar gunluk bulten burgan yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688943:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar bulteni deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688923:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi 99 00 nin alt nda kalmaya devam ediyor 10 y ll k abd getirisi istikrar kazan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5b283027cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx bulteni ziraat yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688921:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ced duyurusu erdemir madencilik",
+      "link": "https://tr.tradingview.com/news/matriks:6688920:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688919:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten bulls yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688914:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "link bilgisayar sistem global turk hukukuna ozel olarak gelistirilmis yapay zeka tabanl hukuki teknoloji platformu legalmatic kullan m is birligi anlasmas imzalad",
+      "link": "https://tr.tradingview.com/news/matriks:6688912:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk hisse senedi piyasas gorunumu akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688910:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ekonomi guncesi albaraka turk",
+      "link": "https://tr.tradingview.com/news/matriks:6688903:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten tskb ekonomik arast rmalar",
+      "link": "https://tr.tradingview.com/news/matriks:6688896:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin merkez bankas baz yat r m fonlar n uzun vadeli devlet tahvillerine iliskin olarak incelemeye ald gorusmeler gerceklestiriyor kaynaklar",
+      "link": "https://tr.tradingview.com/news/matriks:6688895:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hisse senetleri abd sat s dalgas n n ard ndan kar s k toparlanma deutsche bank",
+      "link": "https://tr.tradingview.com/news/fxstreet:f20c95158d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt ici piyasalar gunluk bulten burgan yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688892:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "france business climate in manufacturing agustos 103 seviyesinde ac kland 101 beklentisinin uzerinde kald",
+      "link": "https://tr.tradingview.com/news/fxstreet:963d2d222d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx bulten seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688883:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "foreks piyasas nda bugun abd dolar onemli pmi verileri oncesinde birkac ayl k dip seviyelerine yak n seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:eb8fc4498d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine bulteni alnus yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688876:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist gunluk bulten integral yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6688874:0"
+    },
+    {
+      "source": "kap",
+      "text": "borls pay baz nda devre kesici bildirimi borls e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653797"
+    },
+    {
+      "source": "kap",
+      "text": "cusan tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket cuhadaroglu metal sanayi pazarlama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653796"
+    },
+    {
+      "source": "kap",
+      "text": "ofsym pay baz nda devre kesici bildirimi ofsym e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653795"
+    },
+    {
+      "source": "kap",
+      "text": "isvea pay baz nda devre kesici bildirimi isvea e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653789"
+    },
+    {
+      "source": "kap",
+      "text": "svgyo pay baz nda devre kesici bildirimi svgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653788"
+    },
     {
       "source": "tradingview",
       "text": "bitcoin 12 haftan n en yuksek seviyesi olan 75 669 dolara yukseldi lseg verileri",
@@ -9140,156 +9290,6 @@
       "source": "tradingview",
       "text": "metro yat r m ortakl g n n yeniden yap land r larak metro prime markas yla ulas m turizm sektorunde faaliyet gosterecek sirket olarak esas sozlesme degisikligine gidilmesi planlan yor",
       "link": "https://tr.tradingview.com/news/matriks:6685794:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "odas elektrik finansal sonuclara iliskin ac klama yapt",
-      "link": "https://tr.tradingview.com/news/matriks:6685785:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "prizma pres te oy haklar n n cogunlugu dlt turizm ticaret e gecti",
-      "link": "https://tr.tradingview.com/news/matriks:6685784:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "pusula portfoy yonetimi nin kurucusu yoneticisi oldugu yat r m fonlar n n portfoylerindeki gundg oy hakk oran 19 9873 den 20 1083 e yukseldi",
-      "link": "https://tr.tradingview.com/news/matriks:6685795:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tera yat r m teknoloji holding genel muduru cebrail task n gorevinden ayr ld",
-      "link": "https://tr.tradingview.com/news/matriks:6685789:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "toplam 25 sirkete ilk 6 ayl k finansal raporlar n n kap a bildirimi ilgili olarak ek sure verildi",
-      "link": "https://tr.tradingview.com/news/matriks:6685788:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "vbts kapsam nda karcl e paylar nda seans bas ndan 18 eylul seans sonuna kadar brut takas uygulanacak",
-      "link": "https://tr.tradingview.com/news/matriks:6685782:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yeo teknoloj eurobond ihrac sureci baslat yor",
-      "link": "https://tr.tradingview.com/news/matriks:6685792:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bankalar serbest mevduat gun bas toplam likidite tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6685771:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "borclanma senetleri kira sertifikalar n n tip vadeler itibariyla gosterge niteligindeki gunluk degerleri",
-      "link": "https://tr.tradingview.com/news/matriks:6685774:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bist islem goren sirketlerin genel kurul tarihleri tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6685768:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "para piyasalar nakit ak s tablosu",
-      "link": "https://tr.tradingview.com/news/matriks:6685773:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb ag rl kl ortalama fonlama maliyeti tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6685770:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb net fonlamas verileri tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6685769:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turib gunluk bulteni",
-      "link": "https://tr.tradingview.com/news/matriks:6685775:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turkiye ekonomi gundemi 20 agustos",
-      "link": "https://tr.tradingview.com/news/matriks:6685766:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turkiyenin ekonomik gostergeleri",
-      "link": "https://tr.tradingview.com/news/matriks:6685767:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd bugun bilanco ac klayacak sirketler",
-      "link": "https://tr.tradingview.com/news/matriks:6685763:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "global siyasi ekonomik takvim",
-      "link": "https://tr.tradingview.com/news/matriks:6685764:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turkiye ac klanacak veriler agustos ekim",
-      "link": "https://tr.tradingview.com/news/matriks:6685765:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "asya hisseleri ralli yap yor kospi abd hazine desteginin fed iran risklerini dengelemesiyle kazanclara onculuk ediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:ab8b4764cd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gumus fiyat analizi xag usd abd nin tahvil geri al m plan n iki kat na c karmas yla iki ayl k zirvesini yeniledi",
-      "link": "https://tr.tradingview.com/news/fxstreet:68e847db6d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n s k lasmac fomc tutanaklar abd iran gerilimlerinin usd yi desteklemesiyle haziran ay zirvelerinden geri cekildi",
-      "link": "https://tr.tradingview.com/news/fxstreet:5e48631cdd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "flop ilginc ac klama arthur hayes den tevrat l tan t m",
-      "link": "https://tr.tradingview.com/news/beincrypto:a13e51ad5d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "sk hynix 12 yukseldi samsung 9 artt abd tahvilleri kore ciplerini nas l etkiliyor",
-      "link": "https://tr.tradingview.com/news/beincrypto:236fe71cdd9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "pinterest yoneticisi gokul rajaram 24 181 dolar hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/pinterest-yoneticisi-gokul-rajaram-24181-dolar-hisse-satt-93CH-4037271"
-    },
-    {
-      "source": "investing",
-      "text": "uipath ceo su daniel dines 22 5 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/uipath-ceosu-daniel-dines-225-milyon-dolarlk-hisse-satt-93CH-4037270"
-    },
-    {
-      "source": "investing",
-      "text": "pinterest yoneticisi benjamin silbermann 2 18 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/pinterest-yoneticisi-benjamin-silbermann-218-milyon-dolarlk-hisse-satt-93CH-4037269"
-    },
-    {
-      "source": "investing",
-      "text": "camp4 therapeutics cso daniel tardiff 8 272 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/camp4-therapeutics-cso-daniel-tardiff-8272-dolarlk-hisse-satt-93CH-4037268"
-    },
-    {
-      "source": "investing",
-      "text": "monolithic power systems gecici cfo su 8 481 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/monolithic-power-systems-gecici-cfosu-8481-dolar-degerinde-hisse-satt-93CH-4037267"
-    },
-    {
-      "source": "investing",
-      "text": "ubtech robotics hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/ubtech-robotics-hissesi-bugun-neden-dusuyor-93CH-4037265"
     }
   ]
 }
