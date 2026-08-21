@@ -1290,13 +1290,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:84bf9260ad9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:2ac05528fd9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:2ac05528fd9e8:0",
         "tradingview:fxstreet:84bf9260ad9e8:0",
         "tradingview:fxstreet:79b50c970d9e8:0",
         "tradingview:cointelegraph:6df4580bdd9e8:0",
+        "tradingview:beincrypto:5783e921ad9e8:0",
         "tradingview:fxstreet:3b3e45e15d9e8:0",
         "tradingview:fxstreet:1a82bae0bd9e8:0",
+        "tradingview:beincrypto:1f4529006d9e8:0",
         "tradingview:cointelegraph:9c848c3a3d9e8:0",
         "tradingview:cointelegraph:eb1247187d9e8:0",
         "tradingview:beincrypto:add034fbed9e8:0",
@@ -1788,10 +1791,7 @@
         "tradingview:fxstreet:9dae52238d9e8:0",
         "tradingview:fxstreet:62064f78fd9e8:0",
         "tradingview:fxstreet:0f2ad2625d9e8:0",
-        "tradingview:fxstreet:2641b9215d9e8:0",
-        "tradingview:fxstreet:f3ab1fdafd9e8:0",
-        "tradingview:fxstreet:e0cf48dd4d9e8:0",
-        "tradingview:beincrypto:c54a2fa3bd9e8:0"
+        "tradingview:fxstreet:2641b9215d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1809,6 +1809,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bitget ceo su y l sonunda bitcoin in mevcut seviyelere yak n olacag n dusunuyor abd nin btc alacag ndan supheli",
+      "link": "https://tr.tradingview.com/news/cointelegraph:2ac05528fd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "malezya ringgiti guclu ticaret myr yi destekliyor commerzbank",
@@ -9303,11 +9308,6 @@
       "source": "investing",
       "text": "weibo hissesi 7 09 dolara duserek 52 haftan n dibini gordu",
       "link": "https://tr.investing.com/news/company-news/weibo-hissesi-709-dolara-duserek-52-haftann-dibini-gordu-93CH-4038517"
-    },
-    {
-      "source": "investing",
-      "text": "waymo robotaksiler ozel cip gelistirdi",
-      "link": "https://tr.investing.com/news/stock-market-news/waymo-robotaksiler-icin-ozel-cip-gelistirdi-4038520"
     }
   ]
 }
