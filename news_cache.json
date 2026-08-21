@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653925",
+      "last_seen_key": "kap:1653928",
       "seen_keys": [
+        "kap:1653928",
         "kap:1653925",
         "kap:1653922",
         "kap:1653920",
@@ -502,8 +503,7 @@
         "kap:1653186",
         "kap:1653185",
         "kap:1653184",
-        "kap:1653183",
-        "kap:1653182"
+        "kap:1653183"
       ]
     },
     "bloomberght": {
@@ -1787,6 +1787,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "unp sirket genel bilgi formu sirket unlu portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653928"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar analistlerin abd hazine tahvil geri al m n n uzun vadeli etkisine iliskin suphelerini dile getirmesiyle genel olarak konsolide oluyor",
@@ -9281,11 +9286,6 @@
       "source": "kap",
       "text": "ergli pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren finansman bonosu itfas sirket eregli tekstil turizm sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653381"
-    },
-    {
-      "source": "kap",
-      "text": "korts pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 20 08 2026 korteks borclanma arac ihrac n n tamamlanmas nitelikli yat r mc ya sat s sirket korteks mensucat sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653380"
     }
   ]
 }
