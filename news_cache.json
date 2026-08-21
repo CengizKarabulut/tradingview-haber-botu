@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653897",
+      "last_seen_key": "kap:1653902",
       "seen_keys": [
+        "kap:1653902",
+        "kap:1653901",
         "kap:1653897",
         "kap:1653896",
         "kap:1653882",
@@ -501,9 +503,7 @@
         "kap:1653173",
         "kap:1653172",
         "kap:1653171",
-        "kap:1653170",
-        "kap:1653169",
-        "kap:1653168"
+        "kap:1653170"
       ]
     },
     "bloomberght": {
@@ -566,18 +566,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/ishares-abd-hisse-senedi-fonu-aylk-odemeye-geciyor-93CH-4039368",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/ubs-ingiltere-icin-kazanc-buyume-tahminini-yukseltti-4039395",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/ubs-ingiltere-icin-kazanc-buyume-tahminini-yukseltti-4039395",
+        "investing:https://tr.investing.com/news/company-news/ming-yang-uniwatt-technology-satn-almnda-ilerleme-kaydetti-93CH-4039382",
+        "investing:https://tr.investing.com/news/company-news/ishares-fonu-aylk-temettu-dagtmna-geciyor-93CH-4039377",
+        "investing:https://tr.investing.com/news/stock-market-news/flowers-foods-hissesi-bugun-neden-dusuyor-93CH-4039375",
+        "investing:https://tr.investing.com/news/stock-market-news/stoke-therapeutics-hissesi-bugun-neden-yukseliyor-93CH-4039374",
         "investing:https://tr.investing.com/news/company-news/ishares-abd-hisse-senedi-fonu-aylk-odemeye-geciyor-93CH-4039368",
         "investing:https://tr.investing.com/news/forex-news/sterlin-bugun-hazine-geri-alm-dolarda-yumusamay-surduruyor-4039358",
         "investing:https://tr.investing.com/news/company-news/samsung-tedarikci-tesvik-fonu-icin-789-milyar-won-onaylad-93CH-4039342",
         "investing:https://tr.investing.com/news/global-filings/girisim-elektrik-konya-osb-ihalesini-2148-milyon-tl-bedelle-kazand-93CH-4039340",
         "investing:https://tr.investing.com/news/stock-market-news/bitcoin-duzenlemelerle-yukselirken-kripto-hisseleri-ralli-yapyor-4039359",
-        "investing:https://tr.investing.com/news/global-filings/kt-sukuk-varlk-kiralama-4-milyar-tllik-ihrac-programn-onaylad-93CH-4039339",
-        "investing:https://tr.investing.com/news/company-news/rockfire-resources-hisse-kabul-takvimini-guncelledi-93CH-4039338",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-opendoor-hissesi-icin-notunu-marj-sorular-nedeniyle-yineledi-93CH-4039336",
-        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-degerleme-endiseleriyle-limbach-hissesini-dusurdu-93CH-4039335",
-        "investing:https://tr.investing.com/news/global-filings/enda-enerji-urla-res-icin-orman-izni-ald-kapasite-214-mweye-ckacak-93CH-4039334",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -598,6 +598,11 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/global-filings/kt-sukuk-varlk-kiralama-4-milyar-tllik-ihrac-programn-onaylad-93CH-4039339",
+        "investing:https://tr.investing.com/news/company-news/rockfire-resources-hisse-kabul-takvimini-guncelledi-93CH-4039338",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-opendoor-hissesi-icin-notunu-marj-sorular-nedeniyle-yineledi-93CH-4039336",
+        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-degerleme-endiseleriyle-limbach-hissesini-dusurdu-93CH-4039335",
+        "investing:https://tr.investing.com/news/global-filings/enda-enerji-urla-res-icin-orman-izni-ald-kapasite-214-mweye-ckacak-93CH-4039334",
         "investing:https://tr.investing.com/news/stock-market-news/cts-eventim-hissesi-bugun-neden-dusuyor-93CH-4039322",
         "investing:https://tr.investing.com/news/analyst-ratings/citizens-bicara-therapeutics-hissesi-icin-hedef-fiyatn-korudu-93CH-4039321",
         "investing:https://tr.investing.com/news/stock-market-news/mali-basknlk-piyasalarn-en-buyuk-riski-mi-barclays-degerlendirdi-4039319",
@@ -1062,12 +1067,7 @@
         "investing:https://tr.investing.com/news/company-news/fair-oaks-income-ikinci-ceyrek-icin-10-sent-temettu-acklad-93CH-4037372",
         "investing:https://tr.investing.com/news/company-news/venture-life-hisse-geri-alm-programn-eylule-uzatt-93CH-4037367",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-trumpn-acklamalar-ve-dusen-getirilerle-70-bin-dolara-yaklast-4037365",
-        "investing:https://tr.investing.com/news/company-news/zccm-investments-holdings-yllk-toplantsn-11-eylule-ald-93CH-4037364",
-        "investing:https://tr.investing.com/news/stock-market-news/clavister-ikinci-ceyrekte-gelirini-yuzde-63-artrd-93CH-4037352",
-        "investing:https://tr.investing.com/news/company-news/frp-advisory-group-yllk-genel-kurulunu-eylulde-yapacak-93CH-4037351",
-        "investing:https://tr.investing.com/news/stock-market-news/mendus-kan-kanseri-calsmalar-ilerlerken-2c-zararn-daraltt-93CH-4037350",
-        "investing:https://tr.investing.com/news/company-news/international-workplace-group-ceosu-150000-hisse-satn-ald-93CH-4037347",
-        "investing:https://tr.investing.com/news/company-news/ig-design-group-yeni-cfosunu-acklad-93CH-4037346"
+        "investing:https://tr.investing.com/news/company-news/zccm-investments-holdings-yllk-toplantsn-11-eylule-ald-93CH-4037364"
       ]
     },
     "ntvpara": {
@@ -1780,6 +1780,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "ubs ingiltere kazanc buyume tahminini yukseltti",
+      "link": "https://tr.investing.com/news/stock-market-news/ubs-ingiltere-icin-kazanc-buyume-tahminini-yukseltti-4039395"
+    },
+    {
+      "source": "investing",
+      "text": "ming yang uniwatt technology sat n al m nda ilerleme kaydetti",
+      "link": "https://tr.investing.com/news/company-news/ming-yang-uniwatt-technology-satn-almnda-ilerleme-kaydetti-93CH-4039382"
+    },
+    {
+      "source": "investing",
+      "text": "ishares fonu ayl k temettu dag t m na geciyor",
+      "link": "https://tr.investing.com/news/company-news/ishares-fonu-aylk-temettu-dagtmna-geciyor-93CH-4039377"
+    },
+    {
+      "source": "investing",
+      "text": "flowers foods hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/flowers-foods-hissesi-bugun-neden-dusuyor-93CH-4039375"
+    },
+    {
+      "source": "investing",
+      "text": "stoke therapeutics hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/stoke-therapeutics-hissesi-bugun-neden-yukseliyor-93CH-4039374"
+    },
+    {
+      "source": "kap",
+      "text": "fpy genel ac klama qnb portfoy enpara alt n ozel fon kurulusu sirket qnb portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653902"
+    },
+    {
+      "source": "kap",
+      "text": "korts pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trskort22726 isin kodlu korteks ihrac n n 2 kupon odeme donemine iliskin ac klama sirket korteks mensucat sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653901"
+    },
     {
       "source": "tradingview",
       "text": "s p global abd pmi lar n n agustos ta hafifce yavaslamas bekleniyor ancak yine guclu buyume gosteriyor",
@@ -9244,41 +9279,6 @@
       "source": "kap",
       "text": "zkbvr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdzkbva2653 isin kodlu yurtici kira sertifikas ihrac n n sat s n n tamamlanmas hk sirket zkb varlik kiralama a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653352"
-    },
-    {
-      "source": "kap",
-      "text": "snica pay baz nda devre kesici bildirimi snica e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653351"
-    },
-    {
-      "source": "kap",
-      "text": "marbl ozel durum ac klamas genel 2025 y l eib maden sektoru odul toreni hakk nda sirket tureks turunc madencilik ic dis ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653350"
-    },
-    {
-      "source": "kap",
-      "text": "mepet pay baz nda devre kesici bildirimi mepet e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653349"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb piyasa yap c bankalarla dogrudan dibs al m ihalelerine baslad g n ac klad",
-      "link": "https://tr.tradingview.com/news/matriks:6686478:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hindistan rupisi s k lasmac rbi duraklamas faiz gorunumunu degistiriyor societe generale",
-      "link": "https://tr.tradingview.com/news/fxstreet:9421b7ee3d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "foreks piyasas nda bugun abd dolar hazine nin uzun vadeli tahvil al mlar n art rmas n n ard ndan zorlan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:a5fa46c30d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "gerdes energy equinor hissesi tavsiyesini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/gerdes-energy-equinor-hissesi-icin-tavsiyesini-dusurdu-93CH-4037427"
     }
   ]
 }
