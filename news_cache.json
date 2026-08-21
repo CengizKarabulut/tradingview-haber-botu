@@ -2,9 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654268",
+      "last_seen_key": "kap:1654269",
       "seen_keys": [
-        "kap:1654268",
+        "kap:1654269",
         "kap:1654263",
         "kap:1654262",
         "kap:1654258",
@@ -74,6 +74,7 @@
         "kap:1654165",
         "kap:1654164",
         "kap:1654163",
+        "kap:1654268",
         "kap:1654162",
         "kap:1654267",
         "kap:1654161",
@@ -502,13 +503,13 @@
         "kap:1653376",
         "kap:1653321",
         "kap:1653352",
-        "kap:1653330",
-        "kap:1653318"
+        "kap:1653330"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/erakci-trump-in-yeni-yaptirimlari-da-basarisiz-olacak-3786206",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/apple-siri-ve-vision-pro-ekiplerinde-isten-cikarmaya-gidiyor-3786207",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/apple-siri-ve-vision-pro-ekiplerinde-isten-cikarmaya-gidiyor-3786207",
         "bloomberght:https://www.bloomberght.com/erakci-trump-in-yeni-yaptirimlari-da-basarisiz-olacak-3786206",
         "bloomberght:https://www.bloomberght.com/turk-eximbank-tan-ihracatcilara-59-milyar-dolarlik-destek-hedefi-3786205",
         "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-tuketici-guveni-beklentileri-asti-3786202",
@@ -1288,8 +1289,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:7df3b3c3bd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:3b3e45e15d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:3b3e45e15d9e8:0",
+        "tradingview:fxstreet:1a82bae0bd9e8:0",
         "tradingview:fxstreet:7df3b3c3bd9e8:0",
         "tradingview:fxstreet:c12368043d9e8:0",
         "tradingview:fxstreet:ab3e9e7d8d9e8:0",
@@ -1308,6 +1311,7 @@
         "tradingview:fxstreet:499b6a706d9e8:0",
         "tradingview:fxstreet:8d090b11ed9e8:0",
         "tradingview:cointelegraph:6d9c6199dd9e8:0",
+        "tradingview:matriks:6690615:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44I0Y7:0",
         "tradingview:beincrypto:daede930cd9e8:0",
         "tradingview:fxstreet:ddda9ecd3d9e8:0",
@@ -1786,10 +1790,7 @@
         "tradingview:beincrypto:3affa7eedd9e8:0",
         "tradingview:fxstreet:c94858881d9e8:0",
         "tradingview:fxstreet:7addde570d9e8:0",
-        "tradingview:beincrypto:16938734fd9e8:0",
-        "tradingview:beincrypto:f2d8ba451d9e8:0",
-        "tradingview:fxstreet:0827b7ea5d9e8:0",
-        "tradingview:fxstreet:0f0d9321bd9e8:0"
+        "tradingview:beincrypto:16938734fd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1807,6 +1808,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "tayland baht tayland merkez bankas ndan uzat lm s politika duraklamas bekleniyor dbs",
+      "link": "https://tr.tradingview.com/news/fxstreet:3b3e45e15d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni direncli abd verileriyle kars last g notr durumda",
+      "link": "https://tr.tradingview.com/news/fxstreet:1a82bae0bd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "apple siri vision pro ekiplerinde isten c karmaya gidiyor apple yapay zeka yeni cihazlara odaklanma stratejisi kapsam nda siri vision pro yaz l m ekiplerinde yeniden yap lanmaya giderken degisikliklerden 200 den fazla cal san n etkilenmesi bekleniyor",
+      "link": "https://www.bloomberght.com/apple-siri-ve-vision-pro-ekiplerinde-isten-cikarmaya-gidiyor-3786207"
+    },
+    {
+      "source": "kap",
+      "text": "bls blsmd izahname spk taraf ndan onaylanan intetra teknoloji bilisim hizmetleri a s ek 5 finansal tablolar ozel bag ms z denetim raporuna iliskin bag ms z denetim kurulusu sorumluluk beyan sirket bulls yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654269"
+    },
     {
       "source": "investing",
       "text": "geo group hisseleri 32 64 dolarda 52 haftal k zirve yapt",
@@ -9286,26 +9307,6 @@
       "source": "kap",
       "text": "katvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdktlm32716 yurtici kira sertifikas ihrac n n 1 kupon belirlenmesi sirket katilim varlik kiralama a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653550"
-    },
-    {
-      "source": "kap",
-      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren tmks ekgyo birinci varl k finansman fonu vdmk kupon odemesi bildirimi sirket birlesik ipotek finansmani a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653549"
-    },
-    {
-      "source": "kap",
-      "text": "istfk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfifask2620 isin kodlu finansman bonosunun 1 kupon oran na iliskin ac klama sirket istanbul faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653547"
-    },
-    {
-      "source": "tradingview",
-      "text": "merkez bankas n n sonraki is gunu ac klad g gecici rezerv 779382 6 milyon tl",
-      "link": "https://tr.tradingview.com/news/matriks:6687761:0"
-    },
-    {
-      "source": "kap",
-      "text": "kvy ozel durum ac klamas genel kira sertifikas ihrac yonetim kurulu karar hk sirket kuveyt turk yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653545"
     }
   ]
 }
