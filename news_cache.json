@@ -2,15 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653882",
+      "last_seen_key": "kap:1653888",
       "seen_keys": [
+        "kap:1653888",
         "kap:1653882",
         "kap:1653881",
         "kap:1653878",
         "kap:1653877",
         "kap:1653876",
         "kap:1653874",
-        "kap:1653873",
         "kap:1653856",
         "kap:1653853",
         "kap:1653827",
@@ -81,6 +81,7 @@
         "kap:1653716",
         "kap:1653714",
         "kap:1653712",
+        "kap:1653873",
         "kap:1653711",
         "kap:1653710",
         "kap:1653709",
@@ -502,8 +503,7 @@
         "kap:1653169",
         "kap:1653168",
         "kap:1653167",
-        "kap:1653166",
-        "kap:1653165"
+        "kap:1653166"
       ]
     },
     "bloomberght": {
@@ -1260,8 +1260,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6689520:0",
+      "last_seen_key": "tradingview:fxstreet:3a2f1f67ad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:3a2f1f67ad9e8:0",
+        "tradingview:fxstreet:7b20da9f2d9e8:0",
+        "tradingview:matriks:6689526:0",
         "tradingview:matriks:6689520:0",
         "tradingview:matriks:6689495:0",
         "tradingview:fxstreet:586ab33a0d9e8:0",
@@ -1758,10 +1761,7 @@
         "tradingview:matriks:6687578:0",
         "tradingview:matriks:6687577:0",
         "tradingview:matriks:6687576:0",
-        "tradingview:matriks:6687573:0",
-        "tradingview:fxstreet:85037646fd9e8:0",
-        "tradingview:matriks:6687566:0",
-        "tradingview:fxstreet:937a93768d9e8:0"
+        "tradingview:matriks:6687573:0"
       ]
     },
     "forexfactory": {
@@ -1779,6 +1779,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "amb den kazaks merkez bankas enflasyonu 2 ye getirmek gerekirse harekete gecmeye haz r durumda",
+      "link": "https://tr.tradingview.com/news/fxstreet:3a2f1f67ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni zay fl k mudahale etkisini dengeliyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:7b20da9f2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro bolgesi nde muzakere edilen ucretler 2 ceyrekte 2 44 ilk ceyrek 2 56",
+      "link": "https://tr.tradingview.com/news/matriks:6689526:0"
+    },
+    {
+      "source": "kap",
+      "text": "ruzye pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653888"
+    },
     {
       "source": "tradingview",
       "text": "cin e dogrudan yabanc yat r mc girisi ocak temmuz yuan cinsinden 6 2 azald",
@@ -9258,26 +9278,6 @@
       "source": "bloomberght",
       "text": "turkiye nin uluslararas yat r m pozisyonu ac g 8 y l n zirvesinde turkiye cumhuriyet merkez bankas tcmb verilerine gore uluslararas yat r m pozisyonu ac g haziran itibariyle 402 6 milyar dolara yukseldi",
       "link": "https://www.bloomberght.com/turkiye-nin-uluslararasi-yatirim-pozisyonu-acigi-8-yilin-zirvesinde-3785974"
-    },
-    {
-      "source": "bloomberght",
-      "text": "ikinci ceyrekte d s borc stoku yuzde 3 5 artt turkiye ikinci ceyrek itibar yla d s borc stoku 539 milyar dolar oldu",
-      "link": "https://www.bloomberght.com/ikinci-ceyrekte-dis-borc-stoku-yuzde-3-5-artti-3785973"
-    },
-    {
-      "source": "bloomberght",
-      "text": "tar msal girdi enflasyonu haziran ayl k bazda geriledi tar msal girdi fiyat endeksi tar m gfe haziran ayl k bazda yuzde 0 92 azal rken y ll k bazda yuzde 32 06 artt",
-      "link": "https://www.bloomberght.com/tarimsal-girdi-enflasyonu-haziran-da-aylik-bazda-geriledi-3785972"
-    },
-    {
-      "source": "kap",
-      "text": "deniz dnz pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren emtn program kapsam nda yurtd s borclanma arac kupon odemesi itfas xs3152592401 sirket denizbank a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653348"
-    },
-    {
-      "source": "kap",
-      "text": "sanel pay baz nda devre kesici bildirimi sanel e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653347"
     }
   ]
 }
