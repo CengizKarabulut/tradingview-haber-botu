@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653916",
+      "last_seen_key": "kap:1653925",
       "seen_keys": [
+        "kap:1653925",
+        "kap:1653922",
+        "kap:1653920",
+        "kap:1653918",
         "kap:1653916",
         "kap:1653915",
         "kap:1653914",
@@ -499,16 +503,13 @@
         "kap:1653185",
         "kap:1653184",
         "kap:1653183",
-        "kap:1653182",
-        "kap:1653181",
-        "kap:1653180",
-        "kap:1653179",
-        "kap:1653178"
+        "kap:1653182"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/almanya-da-dogalgaz-alarmi-3786150",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/bofa-dan-piyasa-uyarisi-3786151",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/bofa-dan-piyasa-uyarisi-3786151",
         "bloomberght:https://www.bloomberght.com/almanya-da-dogalgaz-alarmi-3786150",
         "bloomberght:https://www.bloomberght.com/bitcoin-uc-ayin-zirvesinde-3786149",
         "bloomberght:https://www.bloomberght.com/turkiye-nin-kadin-girisimcisi-yarismasi-basvurulari-basladi-3786148",
@@ -569,18 +570,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-macom-technology-hissesini-piyasa-performans-ile-baslatt-93CH-4039512",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/array-rekor-siparis-defteriyle-entegre-gunes-platformuna-geciyor-93CH-4039586",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-macom-technology-hissesini-piyasa-performans-ile-baslatt-93CH-4039512",
-        "investing:https://tr.investing.com/news/analyst-ratings/walmart-hisseleri-freedom-broker-tarafndan-ala-yukseltildi-93CH-4039511",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-marvell-hissesine-alm-tavsiyesi-verdi-93CH-4039510",
-        "investing:https://tr.investing.com/news/analyst-ratings/baird-hubbell-hissesi-icin-alm-tavsiyesi-verdi-93CH-4039509",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-eaton-hissesi-icin-outperform-onerisiyle-baslad-93CH-4039508",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-impinj-hissesine-alm-tavsiyesi-verdi-93CH-4039507",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-dwave-quantum-hissesi-icin-alm-tavsiyesi-verdi-93CH-4039506",
-        "investing:https://tr.investing.com/news/analyst-ratings/taylor-devices-hissesi-icin-freedom-brokerdan-yukseltme-93CH-4039505",
-        "investing:https://tr.investing.com/news/economy-news/iran-savas-nedeniyle-almanya-gaz-depolama-hedeflerine-ulasmakta-zorlanyor-93CH-4039504",
-        "investing:https://tr.investing.com/news/stock-market-news/avrupa-komisyonu-rtx-birimine-yonelik-sorusturmay-kapatt-93CH-4039503",
+        "investing:https://tr.investing.com/news/stock-market-news/array-rekor-siparis-defteriyle-entegre-gunes-platformuna-geciyor-93CH-4039586",
+        "investing:https://tr.investing.com/news/company-news/societe-generale-hiscoxtaki-yuzde-51lik-payn-acklad-93CH-4039571",
+        "investing:https://tr.investing.com/news/analyst-ratings/wolfe-research-walmartn-hisse-hedefini-dusurdu-93CH-4039560",
+        "investing:https://tr.investing.com/news/stock-market-news/zkh-hissesi-bugun-neden-yukseliyor-93CH-4039559",
+        "investing:https://tr.investing.com/news/stock-market-news/sp-500-ara-secimler-oncesi-gerileyebilir-citi-dususte-al-diyor-4039572",
+        "investing:https://tr.investing.com/news/stock-market-news/dolar-magazalar-gelecek-hafta-acklanacak-kazanclar-oncesi-karsk-gorunum-sergiliyor-gordon-haskett-yorumluyor-93CH-4039544",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-semtech-hissesi-icin-hedef-fiyat-155-dolar-belirledi-93CH-4039529",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-skyworks-solutions-hissesini-birlesme-nedeniyle-notr-baslatt-93CH-4039528",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-yapay-zeka-gucuyle-broadcom-hissesine-outperform-verdi-93CH-4039527",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-nvidia-hissesini-yapay-zeka-liderligiyle-al-onerisiyle-baslatt-93CH-4039526",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -601,6 +602,16 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-macom-technology-hissesini-piyasa-performans-ile-baslatt-93CH-4039512",
+        "investing:https://tr.investing.com/news/analyst-ratings/walmart-hisseleri-freedom-broker-tarafndan-ala-yukseltildi-93CH-4039511",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-marvell-hissesine-alm-tavsiyesi-verdi-93CH-4039510",
+        "investing:https://tr.investing.com/news/analyst-ratings/baird-hubbell-hissesi-icin-alm-tavsiyesi-verdi-93CH-4039509",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-eaton-hissesi-icin-outperform-onerisiyle-baslad-93CH-4039508",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-impinj-hissesine-alm-tavsiyesi-verdi-93CH-4039507",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-dwave-quantum-hissesi-icin-alm-tavsiyesi-verdi-93CH-4039506",
+        "investing:https://tr.investing.com/news/analyst-ratings/taylor-devices-hissesi-icin-freedom-brokerdan-yukseltme-93CH-4039505",
+        "investing:https://tr.investing.com/news/economy-news/iran-savas-nedeniyle-almanya-gaz-depolama-hedeflerine-ulasmakta-zorlanyor-93CH-4039504",
+        "investing:https://tr.investing.com/news/stock-market-news/avrupa-komisyonu-rtx-birimine-yonelik-sorusturmay-kapatt-93CH-4039503",
         "investing:https://tr.investing.com/news/stock-market-news/jefferies-avustralya-sirketlerinin-38i-tahminleri-ast-93CH-4039449",
         "investing:https://tr.investing.com/news/analyst-ratings/macquarie-finansman-endiseleriyle-ballys-hisse-hedefini-dusurdu-93CH-4039448",
         "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-walmartn-hisse-hedefini-dusurdu-93CH-4039447",
@@ -1060,22 +1071,13 @@
         "investing:https://tr.investing.com/news/cryptocurrency-news/kripto-hisseleri-bitcoin-ksa-pozisyon-sksmasyla-yukseldi-4037575",
         "investing:https://tr.investing.com/news/global-filings/dogus-otomotiv-2026-ilk-yar-karndan-temettu-avans-dagtmayacak-93CH-4037572",
         "investing:https://tr.investing.com/news/global-filings/son-dakika-tera-yatrmda-genel-mudur-dr-cebrail-taskn-ayrld-93CH-4037568",
-        "investing:https://tr.investing.com/news/company-news/glenstone-aire-hissedarlarn-70-peni-teklifini-kabul-etmeye-cagrd-93CH-4037566",
-        "investing:https://tr.investing.com/news/stock-market-news/futu-holdings-hissesi-neden-yukseliste-93CH-4037563",
-        "investing:https://tr.investing.com/news/stock-market-news/ubs-dusurdu-merck-kgaa-hisseleri-geriledi-4037565",
-        "investing:https://tr.investing.com/news/company-news/chery-ikinci-ceyrek-gelirini-5-artrd-marjlar-bask-altnda-93CH-4037543",
-        "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-degerleme-endiseleriyle-liberty-lilac-hissesini-dusurdu-93CH-4037538",
-        "investing:https://tr.investing.com/news/analyst-ratings/barclays-kule-piyasasnn-gucune-dayanarak-crown-castle-hissesini-yukseltti-93CH-4037537",
-        "investing:https://tr.investing.com/news/analyst-ratings/barclays-american-tower-hissesini-buyume-gorunumuyle-yukseltti-93CH-4037536",
-        "investing:https://tr.investing.com/news/stock-market-news/merck-hissesi-bugun-neden-dusuyor-93CH-4037526",
-        "investing:https://tr.investing.com/news/stock-market-news/moderna-hisseleri-bugun-neden-dusuyor-93CH-4037525",
-        "investing:https://tr.investing.com/news/global-filings/metro-holding-metro-yatrmn-5-imtiyazl-payn-85-milyon-tlye-alyor-93CH-4037524",
-        "investing:https://tr.investing.com/news/analyst-ratings/barclays-google-ortaklg-sonras-marvell-hissesi-gorusunu-korudu-93CH-4037522"
+        "investing:https://tr.investing.com/news/company-news/glenstone-aire-hissedarlarn-70-peni-teklifini-kabul-etmeye-cagrd-93CH-4037566"
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/orman-koylusune-33-milyar-lira-destek-1738284",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-istanbul-ulasimina-yeni-duzenleme-150-gun-surecek-calisma-icin-tarih-verildi-1738294",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-istanbul-ulasimina-yeni-duzenleme-150-gun-surecek-calisma-icin-tarih-verildi-1738294",
         "ntvpara:https://www.ntv.com.tr/ntvpara/orman-koylusune-33-milyar-lira-destek-1738284",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artiyor-1738247",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-61-yillik-sirket-iflas-etti-1738244",
@@ -1266,8 +1268,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:16829de5fd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:89c74c58fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:89c74c58fd9e8:0",
         "tradingview:fxstreet:16829de5fd9e8:0",
         "tradingview:matriks:6689678:0",
         "tradingview:fxstreet:beebcddd4d9e8:0",
@@ -1766,8 +1769,7 @@
         "tradingview:fxstreet:4475ad7bbd9e8:0",
         "tradingview:matriks:6687627:0",
         "tradingview:matriks:6687624:0",
-        "tradingview:matriks:6687622:0",
-        "tradingview:matriks:6687621:0"
+        "tradingview:matriks:6687622:0"
       ]
     },
     "forexfactory": {
@@ -1785,6 +1787,91 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar analistlerin abd hazine tahvil geri al m n n uzun vadeli etkisine iliskin suphelerini dile getirmesiyle genel olarak konsolide oluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:89c74c58fd9e8:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "istanbul ulas m na yeni duzenleme 150 gun surecek cal sma tarih verildi istanbul un ulas m n n buyuk yukunu ceken hatta 150 gunluk bak m revizyon cal smas baslat lacak asfalttan elektrik tesisat na kadar bircok is yap lacak",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-istanbul-ulasimina-yeni-duzenleme-150-gun-surecek-calisma-icin-tarih-verildi-1738294"
+    },
+    {
+      "source": "investing",
+      "text": "array rekor siparis defteriyle entegre gunes platformuna geciyor",
+      "link": "https://tr.investing.com/news/stock-market-news/array-rekor-siparis-defteriyle-entegre-gunes-platformuna-geciyor-93CH-4039586"
+    },
+    {
+      "source": "investing",
+      "text": "societe generale hiscox taki yuzde 5 1 lik pay n ac klad",
+      "link": "https://tr.investing.com/news/company-news/societe-generale-hiscoxtaki-yuzde-51lik-payn-acklad-93CH-4039571"
+    },
+    {
+      "source": "investing",
+      "text": "wolfe research walmart n hisse hedefini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/wolfe-research-walmartn-hisse-hedefini-dusurdu-93CH-4039560"
+    },
+    {
+      "source": "investing",
+      "text": "zkh hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/zkh-hissesi-bugun-neden-yukseliyor-93CH-4039559"
+    },
+    {
+      "source": "investing",
+      "text": "s p 500 ara secimler oncesi gerileyebilir citi dususte al diyor",
+      "link": "https://tr.investing.com/news/stock-market-news/sp-500-ara-secimler-oncesi-gerileyebilir-citi-dususte-al-diyor-4039572"
+    },
+    {
+      "source": "investing",
+      "text": "dolar magazalar gelecek hafta ac klanacak kazanclar oncesi kar s k gorunum sergiliyor gordon haskett yorumluyor",
+      "link": "https://tr.investing.com/news/stock-market-news/dolar-magazalar-gelecek-hafta-acklanacak-kazanclar-oncesi-karsk-gorunum-sergiliyor-gordon-haskett-yorumluyor-93CH-4039544"
+    },
+    {
+      "source": "investing",
+      "text": "bmo capital semtech hissesi hedef fiyat 155 dolar belirledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-semtech-hissesi-icin-hedef-fiyat-155-dolar-belirledi-93CH-4039529"
+    },
+    {
+      "source": "investing",
+      "text": "bmo skyworks solutions hissesini birlesme nedeniyle notr baslatt",
+      "link": "https://tr.investing.com/news/analyst-ratings/bmo-skyworks-solutions-hissesini-birlesme-nedeniyle-notr-baslatt-93CH-4039528"
+    },
+    {
+      "source": "investing",
+      "text": "bmo yapay zeka gucuyle broadcom hissesine outperform verdi",
+      "link": "https://tr.investing.com/news/analyst-ratings/bmo-yapay-zeka-gucuyle-broadcom-hissesine-outperform-verdi-93CH-4039527"
+    },
+    {
+      "source": "investing",
+      "text": "bmo capital nvidia hissesini yapay zeka liderligiyle al onerisiyle baslatt",
+      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-nvidia-hissesini-yapay-zeka-liderligiyle-al-onerisiyle-baslatt-93CH-4039526"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bofa dan piyasa uyar s bank of america bofa basstratejisti michael hartnett abd hazine bakan scott bessent in uzun vadeli tahvil getirilerini dusurme plan n n basar s z olmas durumunda dolar n deger kaybedecegini ongordu",
+      "link": "https://www.bloomberght.com/bofa-dan-piyasa-uyarisi-3786151"
+    },
+    {
+      "source": "kap",
+      "text": "alfas pay baz nda devre kesici bildirimi alfas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653925"
+    },
+    {
+      "source": "kap",
+      "text": "afb aktif pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon odemesi sirket aktif yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653922"
+    },
+    {
+      "source": "kap",
+      "text": "blcyt pay baz nda devre kesici bildirimi blcyt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653920"
+    },
+    {
+      "source": "kap",
+      "text": "vestl pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsvstla2613 isin kodlu tahvilin 3 kupon donemine iliskin faiz odemesi 4 kupon donemine iliskin faiz oran hakk nda sirket vestel elektronik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653918"
+    },
     {
       "source": "tradingview",
       "text": "yeni zelanda dolar abd dolar n n zay flamas yla haziran ay ndan yana en yuksek seviyeye c kt",
@@ -9199,91 +9286,6 @@
       "source": "kap",
       "text": "korts pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 20 08 2026 korteks borclanma arac ihrac n n tamamlanmas nitelikli yat r mc ya sat s sirket korteks mensucat sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653380"
-    },
-    {
-      "source": "kap",
-      "text": "alark pay baz nda devre kesici bildirimi alark e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653379"
-    },
-    {
-      "source": "tradingview",
-      "text": "fx teknik analiz is yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6686680:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiliz sterlini hazine tahvili geri al mlar yla abd dolar n n zay flamas yla deger kazan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:43484663ed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ak yat r m doas 305 tl hedef fiyat belirledi endeks ustu getiri tavsiyesini korudu onceki hedef fiyat 305 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6686673:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "eur usd fiyat analizi abd tahvil al m plan n n iki kat na c kar lmas 1 1800 seviyesinin yolunu ac yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:02e319a76d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi doas akbank ekonomik arast rmalar ak yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6686661:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni abd dolar kars s nda genis bant icinde yukselis egilimi uob",
-      "link": "https://tr.tradingview.com/news/fxstreet:51e58d263d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yenileme isvec merkez bankas faizi sabit tuttu y l n geri kalan nda faiz art r m ihtimalini goz ard etmedi",
-      "link": "https://tr.tradingview.com/news/matriks:6686649:0"
-    },
-    {
-      "source": "ntvpara",
-      "text": "zamanlar asya n n en zengin adam yd borc batag ndaki sirketin sahibine muebbet hapis cezas cin evergrande nin kurucusunu omur boyu hapse mahkum etti sirkete 2 milyar dolardan fazla para cezas kesti",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-bir-zamanlar-asyanin-en-zengin-adamiydi-borc-batagindaki-sirketin-sahibine-muebbet-hapis-cezasi-1738123"
-    },
-    {
-      "source": "ntvpara",
-      "text": "kira art s nda rekor k rd lar istanbul ilk 5 te degil turkiye genelinde kiralar y lda yuzde 32 artarken en yuksek art s dogu karadeniz deki illerde kaydedildi",
-      "link": "https://www.ntv.com.tr/ntvpara/kira-artisinda-rekor-kirdilar-istanbul-ilk-5te-degil-1738126"
-    },
-    {
-      "source": "ntvpara",
-      "text": "turkiye nin nufusu belli oldu turkiye istatistik kurumu turkiye nin 1 temmuz itibar yla yeni nufusunu ac klad",
-      "link": "https://www.ntv.com.tr/ntvpara/turkiyenin-nufusu-belli-oldu-1738127"
-    },
-    {
-      "source": "bloomberght",
-      "text": "tcmb den 4 ay sonra tahvil hamlesi turkiye cumhuriyet merkez bankas tcmb nisan dan beri ilk kez dogrudan al m ihalesi act",
-      "link": "https://www.bloomberght.com/tcmb-den-4-ay-sonra-tahvil-hamlesi-3785977"
-    },
-    {
-      "source": "bloomberght",
-      "text": "fkb nin y l sonu enflasyon beklentisi yukseldi finansal kurumlar birligi nin fkb istanbul universitesi is birligiyle haz rlad g agustos 2026 ekonomik gorunum endeksi gore birligin y l sonu enflasyon beklentisi yuzde 30 47 olurken dolar tl beklentisi 52 11 tl oldu",
-      "link": "https://www.bloomberght.com/fkb-nin-yil-sonu-enflasyon-beklentisi-yukseldi-3785976"
-    },
-    {
-      "source": "kap",
-      "text": "przma pay baz nda devre kesici bildirimi przma e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653378"
-    },
-    {
-      "source": "kap",
-      "text": "halkf pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren sirketimiz taraf ndan ihrac edilen trfhlfkkl2618 isin kodlu bono 3 kupon odemesi hakk nda yap lan bildirim sirket halk finansal kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653377"
-    },
-    {
-      "source": "kap",
-      "text": "katvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdktlm22717 yurtici kira sertifikas ihrac n n sat s n n tamamlanmas sirket katilim varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653376"
-    },
-    {
-      "source": "kap",
-      "text": "etyat pay baz nda devre kesici bildirimi etyat e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653375"
     }
   ]
 }
