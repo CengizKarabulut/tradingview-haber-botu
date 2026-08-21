@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653938",
+      "last_seen_key": "kap:1653955",
       "seen_keys": [
+        "kap:1653955",
+        "kap:1653954",
+        "kap:1653952",
+        "kap:1653950",
+        "kap:1653949",
+        "kap:1653948",
         "kap:1653938",
         "kap:1653928",
         "kap:1653925",
@@ -497,18 +503,14 @@
         "kap:1653193",
         "kap:1653192",
         "kap:1653191",
-        "kap:1653190",
-        "kap:1653189",
-        "kap:1653188",
-        "kap:1653187",
-        "kap:1653186",
-        "kap:1653185",
-        "kap:1653184"
+        "kap:1653190"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/bofa-dan-piyasa-uyarisi-3786151",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/daron-acemoglu-ndan-tartismali-the-economist-elestirisine-yanit-3786154",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/daron-acemoglu-ndan-tartismali-the-economist-elestirisine-yanit-3786154",
+        "bloomberght:https://www.bloomberght.com/trump-tarifesiz-kiyma-ithalatina-izin-verecek-3786153",
         "bloomberght:https://www.bloomberght.com/bofa-dan-piyasa-uyarisi-3786151",
         "bloomberght:https://www.bloomberght.com/almanya-da-dogalgaz-alarmi-3786150",
         "bloomberght:https://www.bloomberght.com/bitcoin-uc-ayin-zirvesinde-3786149",
@@ -1268,8 +1270,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:dc3d9cfabd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:2a41656bcd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:2a41656bcd9e8:0",
+        "tradingview:fxstreet:58bc93aadd9e8:0",
+        "tradingview:fxstreet:c22f3902bd9e8:0",
+        "tradingview:matriks:6689811:0",
         "tradingview:fxstreet:dc3d9cfabd9e8:0",
         "tradingview:matriks:6689775:0",
         "tradingview:matriks:6689769:0",
@@ -1293,10 +1299,12 @@
         "tradingview:matriks:6689526:0",
         "tradingview:matriks:6689520:0",
         "tradingview:matriks:6689495:0",
+        "tradingview:fxstreet:8bb2ea059d9e8:0",
         "tradingview:fxstreet:586ab33a0d9e8:0",
         "tradingview:fxstreet:13656f366d9e8:0",
         "tradingview:fxstreet:0f495b17fd9e8:0",
         "tradingview:matriks:6689487:0",
+        "tradingview:fxstreet:ccc555b97d9e8:0",
         "tradingview:fxstreet:2a65cc79ad9e8:0",
         "tradingview:fxstreet:d4a936cfbd9e8:0",
         "tradingview:fxstreet:51d886782d9e8:0",
@@ -1309,6 +1317,9 @@
         "tradingview:matriks:6689397:0",
         "tradingview:fxstreet:ae61af7c0d9e8:0",
         "tradingview:matriks:6689390:0",
+        "tradingview:fxstreet:d7ea0859fd9e8:0",
+        "tradingview:fxstreet:05254fc3dd9e8:0",
+        "tradingview:fxstreet:d6a1e646ed9e8:0",
         "tradingview:matriks:6689388:0",
         "tradingview:matriks:6689386:0",
         "tradingview:fxstreet:911211789d9e8:0",
@@ -1760,16 +1771,7 @@
         "tradingview:cointelegraph:8bafb6821d9e8:0",
         "tradingview:fxstreet:c8a5a3e47d9e8:0",
         "tradingview:beincrypto:a1ebe7cbad9e8:0",
-        "tradingview:fxstreet:3155427f9d9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44H0S7:0",
-        "tradingview:matriks:6687671:0",
-        "tradingview:matriks:6687669:0",
-        "tradingview:fxstreet:f6eb5ac3bd9e8:0",
-        "tradingview:matriks:6687662:0",
-        "tradingview:cointelegraph:08e7ca2e1d9e8:0",
-        "tradingview:matriks:6687650:0",
-        "tradingview:fxstreet:b2380312dd9e8:0",
-        "tradingview:fxstreet:4475ad7bbd9e8:0"
+        "tradingview:fxstreet:3155427f9d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1787,6 +1789,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar tahvil geri al mlar aras nda abd dolar n n deger kaybetmesiyle 0 7150 uzerine yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2a41656bcd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uzmanlar hemfikir zay f dolar eur usd k sa vadeli yukar yonu destekliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:58bc93aadd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar getiri yonetimi para birimi uzerinde bask olusturuyor bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:c22f3902bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar bulteni tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6689811:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "daron acemoglu ndan tart smal the economist elestirisine yan t nobel odullu iktisatc daron acemoglu kendi cal smalar na yonelik ingiliz the economist dergisinde c kan tart smalar yaratan elestiriye kars l k verdi",
+      "link": "https://www.bloomberght.com/daron-acemoglu-ndan-tartismali-the-economist-elestirisine-yanit-3786154"
+    },
+    {
+      "source": "bloomberght",
+      "text": "trump tarifesiz k yma ithalat na izin verecek abd baskan donald trump onumuzdeki 90 gun boyunca 300 bin tona kadar k yma ithalat na kota d s tarife uygulanmaks z n ithal edilmesine izin verecegini ac klad",
+      "link": "https://www.bloomberght.com/trump-tarifesiz-kiyma-ithalatina-izin-verecek-3786153"
+    },
+    {
+      "source": "kap",
+      "text": "eukyo ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro kapital yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653955"
+    },
+    {
+      "source": "kap",
+      "text": "eukyo paylar n geri al nmas na iliskin bildirim pay geri al m fon tutar revizesi hk sirket euro kapital yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653954"
+    },
+    {
+      "source": "kap",
+      "text": "etyat ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro trend yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653952"
+    },
+    {
+      "source": "kap",
+      "text": "etyat paylar n geri al nmas na iliskin bildirim pay geri al m fon tutar revizesi hk sirket euro trend yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653950"
+    },
+    {
+      "source": "kap",
+      "text": "euyo ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653949"
+    },
+    {
+      "source": "kap",
+      "text": "euyo paylar n geri al nmas na iliskin bildirim pay geri al m fon tutar revizesi hk sirket euro menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653948"
+    },
     {
       "source": "tradingview",
       "text": "4 600 alt n uc ayl k zirveye yukseldi ucuncu haftal k kazanc n hedefliyor",
@@ -9226,66 +9288,6 @@
       "source": "kap",
       "text": "ogp finansal tablo veya dipnot degisikligi finansal tablo veya dipnot degisikligi sirket omurga gayrimenkul girisim sermayesi portfoy yonetimi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653388"
-    },
-    {
-      "source": "kap",
-      "text": "sise ozel durum ac klamas genel 2029 2032 vadeli eurobond lar n hukum sartlar nda yer alan favok tan m n n tadili hakk nda yat r mc onay talebi hk sirket turkiye sise cam fabrikalari a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653387"
-    },
-    {
-      "source": "kap",
-      "text": "citas sirket genel bilgi formu sirket citlekci magazacilik gida a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653386"
-    },
-    {
-      "source": "kap",
-      "text": "deva pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsdeva82629 isin kodlu tahvilin 8 kupon odemesi itfas sirket deva holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653385"
-    },
-    {
-      "source": "tradingview",
-      "text": "makro analiz isgucu piyasas oyak yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6686752:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hindistan rupisi rbi nin rahatl kla beklemede kalmas bekleniyor commerzbank",
-      "link": "https://tr.tradingview.com/news/fxstreet:8c92c7c6bd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "federal rezerv bolunmus sahinler 2026 sonu faiz art r m risklerini sekillendiriyor societe generale",
-      "link": "https://tr.tradingview.com/news/fxstreet:ba05460fbd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd hazine bakanl g uzun vadeli tahvil geri al mlar n iki kat na c kar yor getiriler neden yeniden yukseliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:cc4b97a87d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "borsa istanbul gong turker veyas cald",
-      "link": "https://tr.tradingview.com/news/matriks:6686714:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar getiriler gevserken yukselis s n rl kal yor mufg",
-      "link": "https://tr.tradingview.com/news/fxstreet:d2da129e4d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "simsek mazotta esel mobil kapsam nda att g m z ad mla olaganustu kuresel sokun vatandaslar m za yans mas n s n rl yor ayn zamanda butce disiplinini korumaya devam ediyoruz",
-      "link": "https://tr.tradingview.com/news/matriks:6686683:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "turkiye nin bolgesel rolu irak hatt nda petrol ak s n art rma hedefiyle guclenecek irak n turkiye ye gunluk 1 milyon varile kadar petrol saglama hedefi iki ulke aras nda imzalanan yeni tas mac l k anlasmas irak turkiye ham petrol boru hatt n n daha etkin kullan lmas n n yan s ra ceyhan n orta dogu petrolunun duny",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-bolgesel-rolu-irak-hattinda-petrol-akisini-artirma-hedefiyle-guclenecek-954449.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "bal kc lar yeni av sezonuna haz r su urunleri kooperatifleri merkez birligi surkoop yonetim kurulu baskan ramazan ozkaya 1 eylul baslayacak av sezonu oncesi bal kc lar n butun haz rl klar n tamamlad g n belirterek sene palamut bol butun isaretler bunu gosteri",
-      "link": "https://www.trthaber.com/haber/ekonomi/balikcilar-yeni-av-sezonuna-hazir-954447.html"
     }
   ]
 }
