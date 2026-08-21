@@ -2,9 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654261",
+      "last_seen_key": "kap:1654267",
       "seen_keys": [
-        "kap:1654261",
+        "kap:1654267",
+        "kap:1654263",
+        "kap:1654262",
         "kap:1654258",
         "kap:1654256",
         "kap:1654255",
@@ -74,6 +76,7 @@
         "kap:1654163",
         "kap:1654162",
         "kap:1654161",
+        "kap:1654261",
         "kap:1654153",
         "kap:1654152",
         "kap:1654151",
@@ -500,10 +503,7 @@
         "kap:1653352",
         "kap:1653330",
         "kap:1653318",
-        "kap:1653317",
-        "kap:1653313",
-        "kap:1653311",
-        "kap:1653395"
+        "kap:1653317"
       ]
     },
     "bloomberght": {
@@ -1293,6 +1293,7 @@
         "tradingview:fxstreet:7df3b3c3bd9e8:0",
         "tradingview:fxstreet:c12368043d9e8:0",
         "tradingview:fxstreet:ab3e9e7d8d9e8:0",
+        "tradingview:beincrypto:7b85bd724d9e8:0",
         "tradingview:fxstreet:af54de630d9e8:0",
         "tradingview:fxstreet:8eceb7a30d9e8:0",
         "tradingview:fxstreet:cd5f532c8d9e8:0",
@@ -1788,8 +1789,7 @@
         "tradingview:beincrypto:16938734fd9e8:0",
         "tradingview:beincrypto:f2d8ba451d9e8:0",
         "tradingview:fxstreet:0827b7ea5d9e8:0",
-        "tradingview:fxstreet:0f0d9321bd9e8:0",
-        "tradingview:cointelegraph:766752910d9e8:0"
+        "tradingview:fxstreet:0f0d9321bd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1807,6 +1807,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "bls blsmd izahname spk taraf ndan onaylanan intetra teknoloji bilisim hizmetleri a s spk taraf ndan onaylanan izahname ek 10 kat l m finans ilkeleri bilgi formu sirket bulls yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654267"
+    },
+    {
+      "source": "kap",
+      "text": "bls blsmd fiyat tespit raporu intetra teknoloji bilisim hizmetleri a s spk taraf ndan onaylanan izahname ek 6 fiyat tespit raporu sirket bulls yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654263"
+    },
+    {
+      "source": "kap",
+      "text": "bls blsmd ozel durum ac klamas genel intetra teknoloji bilisim hizmetleri a s ek 5 finansal tablolar ozel bag ms z denetim raporuna iliskin bag ms z denetim kurulusu sorumluluk beyan sirket bulls yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654262"
+    },
     {
       "source": "tradingview",
       "text": "malezya ringgiti abd dolar kars s nda guclu temellerle destekleniyor ocbc",
@@ -9291,21 +9306,6 @@
       "source": "ntvpara",
       "text": "ingiliz moda sitesinin sahte indirimlerine para cezas fransa sat s fiyatlar nda sahtecilik gibi suclardan dolay ingiltere merkezli h zl moda sitesine 2 7 milyon dolarl k para cezas verdi",
       "link": "https://www.ntv.com.tr/ntvpara/ingiliz-moda-sitesinin-sahte-indirimlerine-para-cezasi-1738192"
-    },
-    {
-      "source": "investing",
-      "text": "verbund abd nin hacker uyar s nda isaret edilen siemens parcalar n kulland g n soyledi",
-      "link": "https://tr.investing.com/news/stock-market-news/verbund-abdnin-hacker-uyarsnda-isaret-edilen-siemens-parcalarn-kullandgn-soyledi-93CH-4038468"
-    },
-    {
-      "source": "investing",
-      "text": "oppenheimer talep gucune dayanarak nutanix hisse hedefini yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/oppenheimer-talep-gucune-dayanarak-nutanix-hisse-hedefini-yukseltti-93CH-4038467"
-    },
-    {
-      "source": "investing",
-      "text": "ingiltere sinemalar meta n n ak ll gozluklerini yasakl yor",
-      "link": "https://tr.investing.com/news/stock-market-news/ingilterede-sinemalar-metann-akll-gozluklerini-yasaklyor-93CH-4038466"
     }
   ]
 }
