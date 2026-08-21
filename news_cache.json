@@ -1270,8 +1270,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:b07244d61d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:0c0f4dcd1d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:0c0f4dcd1d9e8:0",
         "tradingview:fxstreet:b07244d61d9e8:0",
         "tradingview:fxstreet:0eeb74e8cd9e8:0",
         "tradingview:fxstreet:b415f415ed9e8:0",
@@ -1770,8 +1771,7 @@
         "tradingview:matriks:6687711:0",
         "tradingview:beincrypto:357219390d9e8:0",
         "tradingview:matriks:6687694:0",
-        "tradingview:fxstreet:de00ec1afd9e8:0",
-        "tradingview:cointelegraph:8bafb6821d9e8:0"
+        "tradingview:fxstreet:de00ec1afd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1789,6 +1789,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kanada dolar ikili tarife riskleri k sa vadeli yolu sekillendiriyor td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:0c0f4dcd1d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "gumus abd dolar n n bask alt nda kalmaya devam etmesiyle 70 a dogru yukseliyor",
@@ -9283,11 +9288,6 @@
       "source": "tradingview",
       "text": "dow jones vadeli islemleri hazine tahvili geri al m rahatlamas yla yukseldi",
       "link": "https://tr.tradingview.com/news/fxstreet:40b9128cbd9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "hsbc cal sanlar na 286 184 adi hisse hisse odulu verdi",
-      "link": "https://tr.investing.com/news/company-news/hsbc-calsanlarna-286184-adi-hisse-icin-hisse-odulu-verdi-93CH-4037585"
     }
   ]
 }
