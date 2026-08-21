@@ -1295,8 +1295,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:dc06fe037d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:d9418a74ad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:d9418a74ad9e8:0",
         "tradingview:fxstreet:dc06fe037d9e8:0",
         "tradingview:fxstreet:e7bd098dcd9e8:0",
         "tradingview:beincrypto:243c25969d9e8:0",
@@ -1795,8 +1796,7 @@
         "tradingview:fxstreet:9d778cd62d9e8:0",
         "tradingview:fxstreet:1ba96fba2d9e8:0",
         "tradingview:fxstreet:f4e9901f0d9e8:0",
-        "tradingview:fxstreet:f8e92a714d9e8:0",
-        "tradingview:fxstreet:3bdda56a5d9e8:0"
+        "tradingview:fxstreet:f8e92a714d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1814,6 +1814,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "usd chf fiyat analizi al c lar 0 8000 seviyesini yeniden ele gecirirken toparlanma duraksad",
+      "link": "https://tr.tradingview.com/news/fxstreet:d9418a74ad9e8:0"
+    },
     {
       "source": "investing",
       "text": "ethos technologies baskan wang 3 9 milyon dolarl k hisse satt",
@@ -9308,11 +9313,6 @@
       "source": "kap",
       "text": "glyho paylar n geri al nmas na iliskin bildirim 20 08 2026 tarihli pay geri al m islem sirket global yatirim holding a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653639"
-    },
-    {
-      "source": "kap",
-      "text": "taten sirket genel bilgi formu sirket tatlipinar enerji uretim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653631"
     }
   ]
 }
