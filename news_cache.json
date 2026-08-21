@@ -507,8 +507,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-21-agustos-2026-3786079",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/petrolde-yatay-seyir-haftalik-kazanca-ilerliyor-3786080",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/petrolde-yatay-seyir-haftalik-kazanca-ilerliyor-3786080",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-21-agustos-2026-3786079",
         "bloomberght:https://www.bloomberght.com/vance-iran-a-karsi-en-etkili-aracimiz-ekonomik-baski-3786078",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-21082026-3786077",
@@ -1766,6 +1767,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "petrolde yatay seyir haftal k kazanca ilerliyor petrol cuma gunu yatay seyrederken abd iran savas n n orta dogu dan petrol arz n aksatmas nedeniyle ikinci haftal k yukselisine haz rlan yor",
+      "link": "https://www.bloomberght.com/petrolde-yatay-seyir-haftalik-kazanca-ilerliyor-3786080"
+    },
     {
       "source": "tradingview",
       "text": "isvicre frang artan abd borc endiseleri amidinde abd dolar kars s nda hafif yukseldi",
@@ -9260,11 +9266,6 @@
       "source": "investing",
       "text": "southstate bank cfo su 435 720 dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/southstate-bank-cfosu-435720-dolarlk-hisse-satt-93CH-4036925"
-    },
-    {
-      "source": "investing",
-      "text": "abd celik hisseleri kanada tarife indirimi haberiyle dustu",
-      "link": "https://tr.investing.com/news/stock-market-news/abd-celik-hisseleri-kanada-tarife-indirimi-haberiyle-dustu-93CH-4036923"
     }
   ]
 }
