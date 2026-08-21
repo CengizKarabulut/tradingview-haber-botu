@@ -1253,8 +1253,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6688624:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44I0AI:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L6N44I0AI:0",
+        "tradingview:fxstreet:4436cc47ad9e8:0",
+        "tradingview:fxstreet:f4baf451ad9e8:0",
+        "tradingview:matriks:6688629:0",
+        "tradingview:matriks:6688628:0",
+        "tradingview:matriks:6688627:0",
         "tradingview:matriks:6688624:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44I09B:0",
         "tradingview:matriks:6688616:0",
@@ -1266,6 +1272,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44I02W:0",
         "tradingview:matriks:6688603:0",
         "tradingview:fxstreet:dd756e6ffd9e8:0",
+        "tradingview:matriks:6688601:0",
         "tradingview:matriks:6688600:0",
         "tradingview:matriks:6688599:0",
         "tradingview:matriks:6688598:0",
@@ -1747,14 +1754,7 @@
         "tradingview:matriks:6686359:0",
         "tradingview:matriks:6686357:0",
         "tradingview:matriks:6686356:0",
-        "tradingview:matriks:6686354:0",
-        "tradingview:matriks:6686353:0",
-        "tradingview:matriks:6686352:0",
-        "tradingview:matriks:6686351:0",
-        "tradingview:matriks:6686348:0",
-        "tradingview:matriks:6686346:0",
-        "tradingview:matriks:6686342:0",
-        "tradingview:matriks:6686343:0"
+        "tradingview:matriks:6686354:0"
       ]
     },
     "forexfactory": {
@@ -1772,6 +1772,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44I0AI:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "52 9 hindistan n hsbc imalat pmi agustos ta geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:4436cc47ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "endonezya rupiah rekor cari islemler ac g na ragmen yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f4baf451ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan agustos ay hsbc flas imalat hizmet pmi 52 9 beklenti 54 0 onceki 53 5",
+      "link": "https://tr.tradingview.com/news/matriks:6688629:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan agustos ay hsbc flas bilesik pmi 54 6 beklenti 54 3 onceki 54 3",
+      "link": "https://tr.tradingview.com/news/matriks:6688628:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan agustos ay hsbc flas imalat hizmet pmi 54 5 beklenti 54 0 onceki 53 5",
+      "link": "https://tr.tradingview.com/news/matriks:6688627:0"
+    },
     {
       "source": "tradingview",
       "text": "gunluk piyasa bulteni qnb invest",
@@ -9241,36 +9271,6 @@
       "source": "investing",
       "text": "sera prognostics scott gleason cfo olarak atad",
       "link": "https://tr.investing.com/news/company-news/sera-prognostics-scott-gleason-cfo-olarak-atad-93CH-4037038"
-    },
-    {
-      "source": "investing",
-      "text": "mvb financial 0 17 dolar ceyreklik temettu ac klad",
-      "link": "https://tr.investing.com/news/company-news/mvb-financial-017-dolar-ceyreklik-temettu-acklad-93CH-4037037"
-    },
-    {
-      "source": "investing",
-      "text": "baycom hisse bas na 0 30 dolar ceyreklik temettu ac klad",
-      "link": "https://tr.investing.com/news/company-news/baycom-hisse-basna-030-dolar-ceyreklik-temettu-acklad-93CH-4037036"
-    },
-    {
-      "source": "bloomberght",
-      "text": "axios abd hurmuz gizli petrol operasyonu yurutuyor axios un haberine gore abd ordusu hurmuz bogaz uzerinden petrol sevkiyat n surdurmek amac yla gizli nakliye koridoru olustururken guzergah uzerinden gunluk yaklas k 10 milyon varil petrol tas n yor",
-      "link": "https://www.bloomberght.com/axios-abd-hurmuz-de-gizli-petrol-operasyonu-yurutuyor-3785927"
-    },
-    {
-      "source": "kap",
-      "text": "pengd tsrs uyumlu surdurulebilirlik raporu 2025 tsrs uyumlu surdurulebilirlik raporu sirket penguen gida sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653277"
-    },
-    {
-      "source": "investing",
-      "text": "wells fargo yeni hh serisi imtiyazl hisse senedi c kard",
-      "link": "https://tr.investing.com/news/sec-filings/wells-fargo-yeni-hh-serisi-imtiyazl-hisse-senedi-ckard-93CH-4036977"
-    },
-    {
-      "source": "investing",
-      "text": "alpha teknova micro cap konferans nda klinik buyume odakta",
-      "link": "https://tr.investing.com/news/transcripts/alpha-teknova-microcap-konferansnda-klinik-buyume-odakta-93CH-4036976"
     }
   ]
 }
