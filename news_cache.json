@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654251",
+      "last_seen_key": "kap:1654253",
       "seen_keys": [
+        "kap:1654253",
+        "kap:1654252",
         "kap:1654251",
         "kap:1654250",
         "kap:1654249",
@@ -501,9 +503,7 @@
         "kap:1653309",
         "kap:1653308",
         "kap:1653306",
-        "kap:1653332",
-        "kap:1653305",
-        "kap:1653349"
+        "kap:1653332"
       ]
     },
     "bloomberght": {
@@ -1287,8 +1287,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:af54de630d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:ab3e9e7d8d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:ab3e9e7d8d9e8:0",
         "tradingview:fxstreet:af54de630d9e8:0",
         "tradingview:fxstreet:8eceb7a30d9e8:0",
         "tradingview:fxstreet:cd5f532c8d9e8:0",
@@ -1787,8 +1788,7 @@
         "tradingview:fxstreet:0f0d9321bd9e8:0",
         "tradingview:cointelegraph:766752910d9e8:0",
         "tradingview:fxstreet:be470230dd9e8:0",
-        "tradingview:fxstreet:5fecac1f5d9e8:0",
-        "tradingview:cointelegraph:56350b514d9e8:0"
+        "tradingview:fxstreet:5fecac1f5d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1806,6 +1806,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag al c lar rallinin genislemesiyle 70 seviyesini test ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ab3e9e7d8d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "ccola ozel durum ac klamas genel gumruk islemlerine iliskin idari karar hukuki surec hakk nda sirket coca cola icecek a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654253"
+    },
+    {
+      "source": "kap",
+      "text": "pengd genel kurul islemlerine iliskin bildirim 2025 y l olagan genel kurul toplant s tescili sirket penguen gida sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654252"
+    },
     {
       "source": "tradingview",
       "text": "alt n orta dogu risklerinin ralliyi koruklemesiyle 4 600 dolar n uzerinde uc ayl k zirveye ulast",
@@ -9290,21 +9305,6 @@
       "source": "kap",
       "text": "denva pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfdngv22711 isin kodlu bononun kupon oran sirket denge varlik yonetim a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653540"
-    },
-    {
-      "source": "kap",
-      "text": "cemzy pay baz nda devre kesici bildirimi cemzy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653539"
-    },
-    {
-      "source": "kap",
-      "text": "afb aktif pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon oran belirlenmesi sirket aktif yatirim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653538"
-    },
-    {
-      "source": "kap",
-      "text": "karsn pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfkrsn82622 isin kodlu tahvilin 4 kupon odemesi faiz oran sirket karsan otomotiv sanayii ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653537"
     }
   ]
 }
