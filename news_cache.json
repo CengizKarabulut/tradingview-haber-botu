@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653731",
+      "last_seen_key": "kap:1653732",
       "seen_keys": [
+        "kap:1653732",
         "kap:1653731",
         "kap:1653727",
         "kap:1653726",
@@ -502,13 +503,13 @@
         "kap:1653095",
         "kap:1653094",
         "kap:1653093",
-        "kap:1653091",
-        "kap:1653090"
+        "kap:1653091"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-tahvil-geri-alimlarinin-boyutlari-artabilir-3786088",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/fed-icin-yeni-sorun-alani-tahvil-geri-alimlari-3786089",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/fed-icin-yeni-sorun-alani-tahvil-geri-alimlari-3786089",
         "bloomberght:https://www.bloomberght.com/abd-de-tahvil-geri-alimlarinin-boyutlari-artabilir-3786088",
         "bloomberght:https://www.bloomberght.com/anthropic-spacex-halka-arzini-yakalamayi-hedefliyor-3786087",
         "bloomberght:https://www.bloomberght.com/thy-asya-ucuslarini-yuzde-15-20-artirmayi-hedefliyor-3786085",
@@ -1076,8 +1077,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-61-yillik-sirket-iflas-etti-1738244",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artiyor-1738247",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artiyor-1738247",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-61-yillik-sirket-iflas-etti-1738244",
         "ntvpara:https://www.ntv.com.tr/ntvpara/petrol-guclu-seyrediyor-1738234",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bitcoin-costu-2-yilin-en-iyi-haftasini-yasiyor-1738227",
@@ -1258,9 +1260,20 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6688666:0",
+      "last_seen_key": "tradingview:matriks:6688688:0",
       "seen_keys": [
+        "tradingview:matriks:6688688:0",
+        "tradingview:matriks:6688685:0",
+        "tradingview:matriks:6688682:0",
+        "tradingview:matriks:6688680:0",
+        "tradingview:matriks:6688679:0",
+        "tradingview:matriks:6688672:0",
+        "tradingview:matriks:6688671:0",
+        "tradingview:matriks:6688669:0",
+        "tradingview:matriks:6688668:0",
         "tradingview:matriks:6688666:0",
+        "tradingview:matriks:6688665:0",
+        "tradingview:matriks:6688664:0",
         "tradingview:matriks:6688661:0",
         "tradingview:matriks:6688660:0",
         "tradingview:matriks:6688659:0",
@@ -1748,18 +1761,7 @@
         "tradingview:matriks:6686461:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44H0BF:0",
         "tradingview:matriks:6686450:0",
-        "tradingview:matriks:6686449:0",
-        "tradingview:matriks:6686446:0",
-        "tradingview:fxstreet:65bb46deed9e8:0",
-        "tradingview:fxstreet:824d028d6d9e8:0",
-        "tradingview:beincrypto:9686aa103d9e8:0",
-        "tradingview:matriks:6686438:0",
-        "tradingview:matriks:6686436:0",
-        "tradingview:fxstreet:f1945de00d9e8:0",
-        "tradingview:matriks:6686421:0",
-        "tradingview:matriks:6686417:0",
-        "tradingview:fxstreet:c0dd50f52d9e8:0",
-        "tradingview:matriks:6686402:0"
+        "tradingview:matriks:6686449:0"
       ]
     },
     "forexfactory": {
@@ -1777,6 +1779,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6688688:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nikkei thy asya ucuslar n yuzde 15 20 art rmay hedefliyor",
+      "link": "https://tr.tradingview.com/news/matriks:6688685:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten marbas menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6688682:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunun piyasa haritas trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6688680:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "banca monte dei paschi di siena yonetim kurulu ceo lovaglio nun banco bpm banca generali iki ayr halka ac k hisse degisim teklifi baslatma plan n onaylad",
+      "link": "https://tr.tradingview.com/news/matriks:6688679:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "haftal k bulten alnus yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688672:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten halk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688671:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sabah notlar ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688669:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasalar gunluk bulten pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6688668:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "motorin fiyatlar art yor akaryak t urunlerinden motorinin litre fiyat na art s yap lacak",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artiyor-1738247"
+    },
+    {
+      "source": "bloomberght",
+      "text": "fed yeni sorun alan tahvil geri al mlar bloomberg in goruslerini derledigi ekonomistlere gore abd hazine bakan scott bessent in tahvillerde geri al m limitlerini art rma ad m faiz oranlar n art r p art rmamay degerlendiren fed yeni komplikasyon olusturuyor",
+      "link": "https://www.bloomberght.com/fed-icin-yeni-sorun-alani-tahvil-geri-alimlari-3786089"
+    },
+    {
+      "source": "kap",
+      "text": "erm ozel durum ac klamas genel ozel durum ac klamas genel sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653732"
+    },
     {
       "source": "tradingview",
       "text": "teknik bulten kuveyt turk yat r m",
@@ -9216,66 +9278,6 @@
       "source": "investing",
       "text": "cardano 10 oran nda yukseldi",
       "link": "https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-yukseldi-4037086"
-    },
-    {
-      "source": "investing",
-      "text": "tuhura biosciences hissedarlar hisse ihrac n onaylad",
-      "link": "https://tr.investing.com/news/sec-filings/tuhura-biosciences-hissedarlar-hisse-ihracn-onaylad-93CH-4037085"
-    },
-    {
-      "source": "investing",
-      "text": "encore capital yonetim kuruluna robert beck i atad",
-      "link": "https://tr.investing.com/news/company-news/encore-capital-yonetim-kuruluna-robert-becki-atad-93CH-4037082"
-    },
-    {
-      "source": "investing",
-      "text": "hershey trust hershey hisselerinden 5 5 milyon dolar satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/hershey-trust-hershey-hisselerinden-55-milyon-dolar-satt-93CH-4037081"
-    },
-    {
-      "source": "investing",
-      "text": "msc industrial direct yonetim kurulu uyesi louise goeser emekli olacak",
-      "link": "https://tr.investing.com/news/sec-filings/msc-industrial-direct-yonetim-kurulu-uyesi-louise-goeser-emekli-olacak-93CH-4037079"
-    },
-    {
-      "source": "investing",
-      "text": "morgan stanley moderna n n hedef fiyat n 89 dolara yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-modernann-hedef-fiyatn-89-dolara-yukseltti-93CH-4037078"
-    },
-    {
-      "source": "investing",
-      "text": "bernstein analog devices hissesini degerleme gerekcesiyle yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/bernstein-analog-devices-hissesini-degerleme-gerekcesiyle-yukseltti-93CH-4037077"
-    },
-    {
-      "source": "investing",
-      "text": "frontview reit 125 milyon dolarl k hisse arz anlasma degistirdi",
-      "link": "https://tr.investing.com/news/sec-filings/frontview-reit-125-milyon-dolarlk-hisse-arz-icin-anlasma-degistirdi-93CH-4037075"
-    },
-    {
-      "source": "investing",
-      "text": "morgan stanley merck hissesi tavsiyesini yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-merck-hissesi-icin-tavsiyesini-yukseltti-93CH-4037074"
-    },
-    {
-      "source": "investing",
-      "text": "nordson hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/nordson-hissesi-bugun-neden-yukseliyor-93CH-4037072"
-    },
-    {
-      "source": "bloomberght",
-      "text": "trump hurmuz eskisi kadar onemli olmayacak abd baskan donald trump alternatif guzergahlar yeni insa edilen boru hatlar nedeniyle hurmuz bogaz n n eskisi kadar onemli olmayacag n belirterek bogaz n tamamen abd donanmas n n kontrolunde oldugunu savundu",
-      "link": "https://www.bloomberght.com/trump-hurmuz-eskisi-kadar-onemli-olmayacak-3785931"
-    },
-    {
-      "source": "kap",
-      "text": "yyapi faaliyet raporu konsolide 2026 y l 2 ceyrek donemi faaliyet raporu sirket yesil yapi endustrisi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653285"
-    },
-    {
-      "source": "kap",
-      "text": "yyapi finansal rapor sirket yesil yapi endustrisi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653284"
     }
   ]
 }
