@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654165",
+      "last_seen_key": "kap:1654170",
       "seen_keys": [
+        "kap:1654170",
+        "kap:1654168",
+        "kap:1654167",
         "kap:1654165",
         "kap:1654164",
         "kap:1654163",
@@ -60,7 +63,6 @@
         "kap:1653968",
         "kap:1653967",
         "kap:1653961",
-        "kap:1653960",
         "kap:1653959",
         "kap:1653955",
         "kap:1653954",
@@ -90,6 +92,7 @@
         "kap:1653878",
         "kap:1653877",
         "kap:1653876",
+        "kap:1653960",
         "kap:1653874",
         "kap:1653856",
         "kap:1653853",
@@ -500,10 +503,7 @@
         "kap:1653255",
         "kap:1653307",
         "kap:1653254",
-        "kap:1653252",
-        "kap:1653251",
-        "kap:1653250",
-        "kap:1653249"
+        "kap:1653252"
       ]
     },
     "bloomberght": {
@@ -1164,8 +1164,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/ilac-sektorunde-faaliyet-gosteren-teva-hakkinda-sorusturma-954589.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-uraloglu-352-arac-muayene-merkezini-hizmete-sunacagiz-954592.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-uraloglu-352-arac-muayene-merkezini-hizmete-sunacagiz-954592.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ilac-sektorunde-faaliyet-gosteren-teva-hakkinda-sorusturma-954589.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/tarimsal-destekleme-odemeleri-hesaplara-aktariliyor-954587.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/vdknin-gozetimine-takilan-mukellefler-287-milyar-liralik-matrahi-duzeltti-954584.html",
@@ -1320,6 +1321,7 @@
         "tradingview:matriks:6690159:0",
         "tradingview:matriks:6690158:0",
         "tradingview:matriks:6690154:0",
+        "tradingview:matriks:6690152:0",
         "tradingview:fxstreet:ea6a21287d9e8:0",
         "tradingview:cointelegraph:98dc654cad9e8:0",
         "tradingview:beincrypto:29b1a893ad9e8:0",
@@ -1782,8 +1784,7 @@
         "tradingview:fxstreet:e8c15b32dd9e8:0",
         "tradingview:fxstreet:fb51235edd9e8:0",
         "tradingview:cointelegraph:df9893edbd9e8:0",
-        "tradingview:cointelegraph:7dc43c20ed9e8:0",
-        "tradingview:fxstreet:aa3810a63d9e8:0"
+        "tradingview:cointelegraph:7dc43c20ed9e8:0"
       ]
     },
     "forexfactory": {
@@ -1801,6 +1802,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "bakan uraloglu 352 arac muayene merkezini hizmete sunacag z ulast rma altyap bakan abdulkadir uraloglu yeni nesil arac muayene donemi yaklas k 3 milyar dolarl k yat r m program n hayata gecirmeyi planlad klar n belirterek planlamalar m z dogrultusunda 249 u sabit 103 u mobil olma",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-uraloglu-352-arac-muayene-merkezini-hizmete-sunacagiz-954592.html"
+    },
+    {
+      "source": "kap",
+      "text": "kfilo pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfkytrk2631 isin kodlu tahvilin 24 08 2026 tarihli ikinci kupon odemesine ait faiz bildirimidir sirket kayatur filo kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654170"
+    },
+    {
+      "source": "kap",
+      "text": "golda sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m ndan elde edilen fonun kullan m na iliskin rapor sirket golda gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654168"
+    },
+    {
+      "source": "kap",
+      "text": "katvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdktlm32716 yurtici kira sertifikas ihrac n n 2 kupon odenmesi sirket katilim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654167"
+    },
     {
       "source": "tradingview",
       "text": "birlesik krall k hizmetlerin onculuk ettigi buyume fiyat riskleri nomura",
@@ -9280,26 +9301,6 @@
       "source": "kap",
       "text": "tera tra ozel durum ac klamas genel genel mudur yard mc l g atama karar hk sirket tera yatirim menkul degerler a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653491"
-    },
-    {
-      "source": "kap",
-      "text": "zkbvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdzkvk82620 isin kodlu yurtici kira sertifikalar n n itfa getiri odeme islemlerinin tamamlanmas hk sirket ziraat katilim varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653490"
-    },
-    {
-      "source": "kap",
-      "text": "etyat ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro trend yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653489"
-    },
-    {
-      "source": "kap",
-      "text": "sktas pay baz nda devre kesici bildirimi sktas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653488"
-    },
-    {
-      "source": "kap",
-      "text": "gep sirket genel bilgi formu sirket inveo portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653487"
     }
   ]
 }
