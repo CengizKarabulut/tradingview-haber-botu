@@ -507,8 +507,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/petrolde-yatay-seyir-haftalik-kazanca-ilerliyor-3786080",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/altin-dolarin-zayiflamasiyla-ucuncu-haftalik-yukselisine-ilerliyor-3786081",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/altin-dolarin-zayiflamasiyla-ucuncu-haftalik-yukselisine-ilerliyor-3786081",
         "bloomberght:https://www.bloomberght.com/petrolde-yatay-seyir-haftalik-kazanca-ilerliyor-3786080",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-21-agustos-2026-3786079",
         "bloomberght:https://www.bloomberght.com/vance-iran-a-karsi-en-etkili-aracimiz-ekonomik-baski-3786078",
@@ -1248,8 +1249,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:e87d4909dd9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:9c0caee93d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:9c0caee93d9e8:0",
         "tradingview:fxstreet:e87d4909dd9e8:0",
         "tradingview:fxstreet:c3ac4d42ed9e8:0",
         "tradingview:fxstreet:642f9afb8d9e8:0",
@@ -1748,8 +1750,7 @@
         "tradingview:matriks:6686043:0",
         "tradingview:matriks:6686041:0",
         "tradingview:matriks:6686040:0",
-        "tradingview:matriks:6686039:0",
-        "tradingview:matriks:6686038:0"
+        "tradingview:matriks:6686039:0"
       ]
     },
     "forexfactory": {
@@ -1767,6 +1768,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "capital com istirak n n lisans almas n n ard ndan bae spot kripto hizmetleri sunmay planl yor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:9c0caee93d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "alt n dolar n zay flamas yla ucuncu haftal k yukselisine ilerliyor alt n cuma gunu yukselerek ust uste ucuncu haftal k kazanc na haz rlan yor",
+      "link": "https://www.bloomberght.com/altin-dolarin-zayiflamasiyla-ucuncu-haftalik-yukselisine-ilerliyor-3786081"
+    },
     {
       "source": "bloomberght",
       "text": "petrolde yatay seyir haftal k kazanca ilerliyor petrol cuma gunu yatay seyrederken abd iran savas n n orta dogu dan petrol arz n aksatmas nedeniyle ikinci haftal k yukselisine haz rlan yor",
@@ -9256,16 +9267,6 @@
       "source": "investing",
       "text": "verizon evp kyle malady 53 548 dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-53548-dolarlk-hisse-satt-93CH-4036927"
-    },
-    {
-      "source": "investing",
-      "text": "bakkt yoneticisi michael alfred 2 11 milyon dolarl k hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/bakkt-yoneticisi-michael-alfred-211-milyon-dolarlk-hisse-ald-93CH-4036926"
-    },
-    {
-      "source": "investing",
-      "text": "southstate bank cfo su 435 720 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/southstate-bank-cfosu-435720-dolarlk-hisse-satt-93CH-4036925"
     }
   ]
 }
