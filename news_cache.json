@@ -584,8 +584,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/mizuho-viking-holdings-icin-hisse-hedefini-kalite-gorunumuyle-yukseltti-93CH-4040214",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/geo-group-hisseleri-3264-dolarda-52-haftalk-zirve-yapt-93CH-4040221",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/geo-group-hisseleri-3264-dolarda-52-haftalk-zirve-yapt-93CH-4040221",
+        "investing:https://tr.investing.com/news/company-news/andersen-hissedarlar-2168-milyon-dolarlk-ikincil-arz-tamamlad-93CH-4040218",
+        "investing:https://tr.investing.com/news/stock-market-news/apple-yapay-zeka-odagyla-siri-ve-vision-pro-ekiplerinde-is-kesiyor-4040219",
         "investing:https://tr.investing.com/news/analyst-ratings/mizuho-viking-holdings-icin-hisse-hedefini-kalite-gorunumuyle-yukseltti-93CH-4040214",
         "investing:https://tr.investing.com/news/insider-trading-news/bkv-corp-cfosu-david-tameron-38445-dolar-degerinde-hisse-satt-93CH-4040212",
         "investing:https://tr.investing.com/news/insider-trading-news/bkv-corp-kdemli-baskan-yardmcs-318452-dolar-degerinde-hisse-satt-93CH-4040213",
@@ -593,9 +596,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/raymond-james-agustos-2026da-token-fiyat-farknn-genisledigini-goruyor-93CH-4040210",
         "investing:https://tr.investing.com/news/company-news/agilent-technologies-hissesi-16036-dolarda-52-haftalk-zirve-yapt-93CH-4040209",
         "investing:https://tr.investing.com/news/company-news/peoples-bancorp-uc-aylk-021-dolar-temettu-acklad-93CH-4040208",
-        "investing:https://tr.investing.com/news/company-news/virtu-financial-hissesi-6808-dolarla-rekor-krd-93CH-4040206",
-        "investing:https://tr.investing.com/news/company-news/gronland-nadir-toprak-elementleri-lisans-devrini-onaylad-93CH-4040205",
-        "investing:https://tr.investing.com/news/world-news/abd-abann-hukuk-fakultesi-akreditasyon-yetkisini-kaldryor-93CH-4040201",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -616,6 +616,9 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/company-news/virtu-financial-hissesi-6808-dolarla-rekor-krd-93CH-4040206",
+        "investing:https://tr.investing.com/news/company-news/gronland-nadir-toprak-elementleri-lisans-devrini-onaylad-93CH-4040205",
+        "investing:https://tr.investing.com/news/world-news/abd-abann-hukuk-fakultesi-akreditasyon-yetkisini-kaldryor-93CH-4040201",
         "investing:https://tr.investing.com/news/insider-trading-news/chicago-atlantic-refi-esceosu-peter-sack-52220-dolar-degerinde-hisse-ald-93CH-4040200",
         "investing:https://tr.investing.com/news/insider-trading-news/t-stamp-ctosu-francis-scott-sirket-hisselerinden-4960-dolar-ald-93CH-4040199",
         "investing:https://tr.investing.com/news/insider-trading-news/t-stamp-yoneticisi-charles-potts-sirket-hisselerinden-2000-dolar-ald-93CH-4040198",
@@ -1082,10 +1085,7 @@
         "investing:https://tr.investing.com/news/company-news/cascades-2028-vadeli-kdemli-bonolarndan-100-milyon-dolar-itfa-edecek-93CH-4038664",
         "investing:https://tr.investing.com/news/stock-market-news/disney-abc-istasyonlarnn-lisanslarnn-fcc-incelemesini-engellemek-istiyor-93CH-4038663",
         "investing:https://tr.investing.com/news/insider-trading-news/byline-bancorp-yoneticisi-mary-jo-herseth-11518-dolar-degerinde-hisse-ald-93CH-4038662",
-        "investing:https://tr.investing.com/news/insider-trading-news/bank-of-america-pimco-municipal-income-fund-ii-hisselerini-satt-93CH-4038660",
-        "investing:https://tr.investing.com/news/stock-market-news/bank-of-montreal-uluslararas-sermaye-piyasalar-birimini-yeniden-yaplandryor-93CH-4038659",
-        "investing:https://tr.investing.com/news/commodities-news/truist-altn-faiz-gorunumu-ve-dolar-zayflgyla-notre-yukseltti-93CH-4038658",
-        "investing:https://tr.investing.com/news/stock-market-news/fresenius-medical-care-hissesi-satsndan-300-milyon-euro-toplad-93CH-4038657"
+        "investing:https://tr.investing.com/news/insider-trading-news/bank-of-america-pimco-municipal-income-fund-ii-hisselerini-satt-93CH-4038660"
       ]
     },
     "ntvpara": {
@@ -1807,6 +1807,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "geo group hisseleri 32 64 dolarda 52 haftal k zirve yapt",
+      "link": "https://tr.investing.com/news/company-news/geo-group-hisseleri-3264-dolarda-52-haftalk-zirve-yapt-93CH-4040221"
+    },
+    {
+      "source": "investing",
+      "text": "andersen hissedarlar 216 8 milyon dolarl k ikincil arz tamamlad",
+      "link": "https://tr.investing.com/news/company-news/andersen-hissedarlar-2168-milyon-dolarlk-ikincil-arz-tamamlad-93CH-4040218"
+    },
+    {
+      "source": "investing",
+      "text": "apple yapay zeka odag yla siri vision pro ekiplerinde is kesiyor",
+      "link": "https://tr.investing.com/news/stock-market-news/apple-yapay-zeka-odagyla-siri-ve-vision-pro-ekiplerinde-is-kesiyor-4040219"
+    },
     {
       "source": "kap",
       "text": "bls blsmd izahname spk taraf ndan onaylanan intetra teknoloji bilisim hizmetleri a s spk taraf ndan onaylanan izahname ek 4 30 06 2026 tarihinde sona eren donemlere iliskin finansal tablolar ozel bag ms z denetim raporu sirket bulls yatirim menkul degerler a s",
@@ -9291,21 +9306,6 @@
       "source": "kap",
       "text": "kvy ozel durum ac klamas genel kira sertifikas ihrac yonetim kurulu karar hk sirket kuveyt turk yatirim menkul degerler a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653545"
-    },
-    {
-      "source": "tradingview",
-      "text": "endonezya rupiah bi nin duraklamas s k lasma riskini canl tutuyor commerzbank",
-      "link": "https://tr.tradingview.com/news/fxstreet:c706a4451d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd oncu gostergeler endeksi temmuz ayl k 0 2 beklenti 0 1 onceki 0 2",
-      "link": "https://tr.tradingview.com/news/matriks:6687753:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd oncu gostergeler endeksi ac klanacak",
-      "link": "https://tr.tradingview.com/news/matriks:6687748:0"
     }
   ]
 }
