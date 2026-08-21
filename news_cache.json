@@ -2,9 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654215",
+      "last_seen_key": "kap:1654233",
       "seen_keys": [
-        "kap:1654215",
+        "kap:1654233",
+        "kap:1654232",
+        "kap:1654231",
+        "kap:1654230",
+        "kap:1654229",
+        "kap:1654216",
         "kap:1654209",
         "kap:1654208",
         "kap:1654207",
@@ -75,6 +80,7 @@
         "kap:1654037",
         "kap:1654036",
         "kap:1654035",
+        "kap:1654215",
         "kap:1654032",
         "kap:1654030",
         "kap:1654029",
@@ -497,13 +503,7 @@
         "kap:1653291",
         "kap:1653380",
         "kap:1653290",
-        "kap:1653289",
-        "kap:1653288",
-        "kap:1653287",
-        "kap:1653286",
-        "kap:1653285",
-        "kap:1653284",
-        "kap:1653283"
+        "kap:1653289"
       ]
     },
     "bloomberght": {
@@ -582,18 +582,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/bristow-yonetim-kurulu-uyesi-lorin-brass-92702-dolar-degerinde-hisse-satt-93CH-4040121",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/hindistanda-en-iyi-banka-hissesi-state-bank-of-india-mevduatta-one-ckyor-93CH-4040130",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/hindistanda-en-iyi-banka-hissesi-state-bank-of-india-mevduatta-one-ckyor-93CH-4040130",
+        "investing:https://tr.investing.com/news/insider-trading-news/team-inc-yoneticisi-anthony-horton-45420-dolar-degerinde-hisse-ald-93CH-4040129",
+        "investing:https://tr.investing.com/news/stock-market-news/cinli-cip-ureticisi-ymtc-49-milyar-dolarlk-halka-arz-basvurusu-yapt-4040127",
+        "investing:https://tr.investing.com/news/company-news/bidconun-pinewoodai-devralma-destegi-4672ye-dustu-93CH-4040125",
         "investing:https://tr.investing.com/news/insider-trading-news/bristow-yonetim-kurulu-uyesi-lorin-brass-92702-dolar-degerinde-hisse-satt-93CH-4040121",
+        "investing:https://tr.investing.com/news/stock-market-news/anthropic-gercekten-spacexin-halka-arzn-yakalayabilir-mi-4040123",
         "investing:https://tr.investing.com/news/company-news/cqs-new-city-high-yield-fund-505-peniden-500000-hisse-ihrac-etti-93CH-4040120",
         "investing:https://tr.investing.com/news/stock-market-news/tesla-hisseleri-bugun-neden-yukseliste-93CH-4040117",
         "investing:https://tr.investing.com/news/stock-market-news/teradyne-hissesi-neden-dusuyor-93CH-4040116",
         "investing:https://tr.investing.com/news/stock-market-news/bairdin-not-dusurmesi-sonras-teradyne-hisseleri-dustu-93CH-4040114",
-        "investing:https://tr.investing.com/news/company-news/pulse-biosciences-hissesi-4892-dolarda-rekor-krd-93CH-4040113",
-        "investing:https://tr.investing.com/news/global-filings/son-dakika-vestel-elektronik-eurobond-muvafakat-surecini-baslatt-93CH-4040112",
-        "investing:https://tr.investing.com/news/stock-market-news/mongodb-hisseleri-neden-bugun-yukseliyor-93CH-4040111",
-        "investing:https://tr.investing.com/news/stock-market-news/parsons-hissesi-bugun-neden-yukseliste-93CH-4040110",
-        "investing:https://tr.investing.com/news/global-filings/enerjisa-enerji-tahvil-kupon-odemesi-2267-milyar-tl-93CH-4040109",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -614,6 +614,11 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/company-news/pulse-biosciences-hissesi-4892-dolarda-rekor-krd-93CH-4040113",
+        "investing:https://tr.investing.com/news/global-filings/son-dakika-vestel-elektronik-eurobond-muvafakat-surecini-baslatt-93CH-4040112",
+        "investing:https://tr.investing.com/news/stock-market-news/mongodb-hisseleri-neden-bugun-yukseliyor-93CH-4040111",
+        "investing:https://tr.investing.com/news/stock-market-news/parsons-hissesi-bugun-neden-yukseliste-93CH-4040110",
+        "investing:https://tr.investing.com/news/global-filings/enerjisa-enerji-tahvil-kupon-odemesi-2267-milyar-tl-93CH-4040109",
         "investing:https://tr.investing.com/news/company-news/solana-company-yonetisim-onerileri-icin-oy-pozisyonlarn-acklad-93CH-4040107",
         "investing:https://tr.investing.com/news/global-filings/midas-menkul-yurt-ds-islem-araclg-icin-5-yeni-izin-ald-93CH-4040108",
         "investing:https://tr.investing.com/news/stock-market-news/hindistan-duzenleyicisi-731-milyon-dolarlk-lpg-hattn-onaylad-93CH-4040106",
@@ -1078,12 +1083,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/transocean-hisseleri-hindistan-sozlesmesiyle-yukseldi-93CH-4038570",
         "investing:https://tr.investing.com/news/stock-market-news/riot-platforms-hissesi-neden-yukseliste-93CH-4038522",
         "investing:https://tr.investing.com/news/company-news/quanome-technologies-kuantum-dansma-konseyi-kurdu-93CH-4038519",
-        "investing:https://tr.investing.com/news/company-news/weibo-hissesi-709-dolara-duserek-52-haftann-dibini-gordu-93CH-4038517",
-        "investing:https://tr.investing.com/news/stock-market-news/waymo-robotaksiler-icin-ozel-cip-gelistirdi-4038520",
-        "investing:https://tr.investing.com/news/insider-trading-news/ctt-pharma-ceosu-khouri-sirket-hissesi-satn-ald-93CH-4038516",
-        "investing:https://tr.investing.com/news/company-news/vivos-therapeutics-henderson-tesisini-10-milyon-dolarlk-kapasite-ile-acyor-93CH-4038515",
-        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-yapay-zeka-potansiyeline-dayanarak-salesforce-hisse-tavsiyesini-yineledi-93CH-4038514",
-        "investing:https://tr.investing.com/news/stock-market-news/bitdeer-technologies-hissesi-bugun-neden-yukseliyor-93CH-4038513"
+        "investing:https://tr.investing.com/news/company-news/weibo-hissesi-709-dolara-duserek-52-haftann-dibini-gordu-93CH-4038517"
       ]
     },
     "ntvpara": {
@@ -1286,14 +1286,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44I0WL:0",
+      "last_seen_key": "tradingview:fxstreet:ddda9ecd3d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:ddda9ecd3d9e8:0",
+        "tradingview:fxstreet:b47527507d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44I0WL:0",
         "tradingview:fxstreet:dc3d9cfabd9e8:0",
         "tradingview:fxstreet:6e3ecb08dd9e8:0",
         "tradingview:matriks:6690522:0",
         "tradingview:matriks:6690521:0",
         "tradingview:matriks:6690520:0",
+        "tradingview:matriks:6690509:0",
+        "tradingview:matriks:6690495:0",
+        "tradingview:matriks:6690493:0",
         "tradingview:matriks:6690487:0",
         "tradingview:matriks:6690481:0",
         "tradingview:beincrypto:9e4fb58f3d9e8:0",
@@ -1782,12 +1787,7 @@
         "tradingview:beincrypto:047bb3533d9e8:0",
         "tradingview:beincrypto:5180731d8d9e8:0",
         "tradingview:fxstreet:8e463bb8ed9e8:0",
-        "tradingview:cointelegraph:1b388601dd9e8:0",
-        "tradingview:fxstreet:68d204d59d9e8:0",
-        "tradingview:fxstreet:fab383b41d9e8:0",
-        "tradingview:fxstreet:d185a2254d9e8:0",
-        "tradingview:fxstreet:5ccb81896d9e8:0",
-        "tradingview:fxstreet:657bc87ecd9e8:0"
+        "tradingview:cointelegraph:1b388601dd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1805,6 +1805,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avrupa merkez bankas yap sal ltro lar fonlama bask s n hafifletebilir rabobank",
+      "link": "https://tr.tradingview.com/news/fxstreet:ddda9ecd3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini ingiltere sat slar duserken abd hizmetleri beklentileri asarken gevsiyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b47527507d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "hindistan en iyi banka hissesi state bank of india mevduatta one c k yor",
+      "link": "https://tr.investing.com/news/stock-market-news/hindistanda-en-iyi-banka-hissesi-state-bank-of-india-mevduatta-one-ckyor-93CH-4040130"
+    },
+    {
+      "source": "investing",
+      "text": "team inc yoneticisi anthony horton 45 420 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/team-inc-yoneticisi-anthony-horton-45420-dolar-degerinde-hisse-ald-93CH-4040129"
+    },
+    {
+      "source": "investing",
+      "text": "cinli cip ureticisi ymtc 4 9 milyar dolarl k halka arz basvurusu yapt",
+      "link": "https://tr.investing.com/news/stock-market-news/cinli-cip-ureticisi-ymtc-49-milyar-dolarlk-halka-arz-basvurusu-yapt-4040127"
+    },
+    {
+      "source": "investing",
+      "text": "bidco nun pinewood ai devralma destegi 46 72 ye dustu",
+      "link": "https://tr.investing.com/news/company-news/bidconun-pinewoodai-devralma-destegi-4672ye-dustu-93CH-4040125"
+    },
+    {
+      "source": "kap",
+      "text": "aksgy paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket akis gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654233"
+    },
+    {
+      "source": "kap",
+      "text": "inm tasarruf sahiplerine sat s duyurusu bak rc gayrimenkul yat r m ortakl g a s nin paylar n n halka arz na iliskin tasarruf sahiplerine sat s duyurusu hk sirket integral yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654232"
+    },
+    {
+      "source": "kap",
+      "text": "inm izahname spk taraf ndan onaylanan bak rc gayrimenkul yat r m ortakl g a s nin spk onayl izahnamesinin ekleri hk sirket integral yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654231"
+    },
+    {
+      "source": "kap",
+      "text": "eximb thr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren xs3295888823 isin kodlu finansman bonosunun itfas hk sirket turkiye ihracat kredi bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654230"
+    },
+    {
+      "source": "kap",
+      "text": "inm fiyat tespit raporu bak rc gayrimenkul yat r m ortakl g a s nin spk onayl izahnamesinin ekleri hk sirket integral yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654229"
+    },
+    {
+      "source": "kap",
+      "text": "asuzu ozel durum ac klamas genel savunma sanayii baskanl g z rhl otobus tedarik sozlesmesi imzalanmas sirket anadolu isuzu otomotiv sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654216"
+    },
     {
       "source": "tradingview",
       "text": "abd bulunan bagl ortakl g m z borusan berg pipe yaklas k 555 mln tutar nda yeni sat s siparisi ald borusan birlesik boru kap",
@@ -9244,66 +9304,6 @@
       "source": "tradingview",
       "text": "abd philadelphia fed odenen fiyatlar endeksi agustos ta 40 90 onceki 53 90",
       "link": "https://tr.tradingview.com/news/matriks:6687521:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd 4 haftal k ortalama issizlik basvurular 204 bin onceki 199 00 bin",
-      "link": "https://tr.tradingview.com/news/matriks:6687520:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd philadelphia fed yat r m harcamalar endeksi agustos ta 48 20 onceki 30 10",
-      "link": "https://tr.tradingview.com/news/matriks:6687518:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd philadelphia fed isdunyas aktivite endeksi agustos ta 47 4 beklenti 25 0 onceki 41 4",
-      "link": "https://tr.tradingview.com/news/matriks:6687517:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ab den mesaj taramas baslad uctan uca sifreleme s rada",
-      "link": "https://tr.tradingview.com/news/beincrypto:1759dfca2d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd philadelphia fed yeni siparisler endeksi agustos ta 30 10 onceki 37 00",
-      "link": "https://tr.tradingview.com/news/matriks:6687516:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gosterge niteligindeki tc merkez bankas dolar al s 47 8642 sat s 47 9504 euro al s 55 9760 sat s 56 0768",
-      "link": "https://tr.tradingview.com/news/matriks:6687512:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi jants ahlatc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6687507:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi beslr ahlatc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6687502:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd uzun vadeli getiri riskleri kontrol alt nda ing",
-      "link": "https://tr.tradingview.com/news/fxstreet:8574785c6d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bilanco analizi doas ahlatc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6687494:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd endeks vadelileri dususle seyrediyor",
-      "link": "https://tr.tradingview.com/news/matriks:6687479:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd issizlik basvurular verisi ac klanacak",
-      "link": "https://tr.tradingview.com/news/matriks:6687478:0"
     }
   ]
 }
