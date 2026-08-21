@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654250",
+      "last_seen_key": "kap:1654251",
       "seen_keys": [
+        "kap:1654251",
         "kap:1654250",
         "kap:1654249",
         "kap:1654248",
@@ -502,8 +503,7 @@
         "kap:1653306",
         "kap:1653332",
         "kap:1653305",
-        "kap:1653349",
-        "kap:1653334"
+        "kap:1653349"
       ]
     },
     "bloomberght": {
@@ -583,18 +583,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/nscale-yapay-zeka-veri-merkezi-yarsnda-3-milyar-dolarlk-halka-arz-pesinde-93CH-4040189",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/nuvation-bio-hisseleri-neden-yukseliyor-93CH-4040195",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/nuvation-bio-hisseleri-neden-yukseliyor-93CH-4040195",
+        "investing:https://tr.investing.com/news/stock-market-news/nuvation-bio-hisseleri-cantorun-overweight-onerisiyle-yukseldi-93CH-4040194",
+        "investing:https://tr.investing.com/news/stock-market-news/nato-komutan-hurmuz-bogaznda-destek-icin-gorusme-yapt-93CH-4040193",
+        "investing:https://tr.investing.com/news/commodities-news/rafineri-uretimi-artarken-avrupa-dizel-marjlar-yukseldi-93CH-4040192",
+        "investing:https://tr.investing.com/news/stock-market-news/latin-amerika-hisse-senetleri-ve-para-birimleri-dolardaki-zayflkla-yukseldi-93CH-4040191",
+        "investing:https://tr.investing.com/news/stock-market-news/isvicre-merkez-bankas-yetkilisi-yapay-zeka-ksa-vadede-enflasyonu-artrabilir-93CH-4040190",
         "investing:https://tr.investing.com/news/stock-market-news/nscale-yapay-zeka-veri-merkezi-yarsnda-3-milyar-dolarlk-halka-arz-pesinde-93CH-4040189",
         "investing:https://tr.investing.com/news/insider-trading-news/warrior-met-coal-yoneticisi-500304-dolar-degerinde-hisse-satt-93CH-4040188",
         "investing:https://tr.investing.com/news/company-news/agroz-nasdaqtan-ckarlma-bildirimi-ald-temyiz-durusmas-planlyor-93CH-4040187",
         "investing:https://tr.investing.com/news/stock-market-news/walmart-temassz-odeme-seceneklerini-genisletiyor-apple-pay-ekledi-93CH-4040186",
-        "investing:https://tr.investing.com/news/insider-trading-news/medifast-yoneticisi-parsa-kiai-842698-dolar-degerinde-hisse-ald-93CH-4040185",
-        "investing:https://tr.investing.com/news/insider-trading-news/wabtec-baskan-michael-fetsko-952961-dolar-degerinde-wab-hissesi-satt-93CH-4040184",
-        "investing:https://tr.investing.com/news/company-news/vireo-growth-c21-investments-satn-ald-93CH-4040182",
-        "investing:https://tr.investing.com/news/company-news/barclays-central-asia-metalsdeki-payn-557ye-ckard-93CH-4040181",
-        "investing:https://tr.investing.com/news/stock-market-news/guggenheim-fon-hisseleri-acga-sats-raporunun-ardndan-17-yln-dibinde-93CH-4040179",
-        "investing:https://tr.investing.com/news/stock-market-news/abd-hazine-tahvil-faizleri-hizmet-sektoru-verisiyle-yukseldi-93CH-4040178",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -615,6 +615,12 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/insider-trading-news/medifast-yoneticisi-parsa-kiai-842698-dolar-degerinde-hisse-ald-93CH-4040185",
+        "investing:https://tr.investing.com/news/insider-trading-news/wabtec-baskan-michael-fetsko-952961-dolar-degerinde-wab-hissesi-satt-93CH-4040184",
+        "investing:https://tr.investing.com/news/company-news/vireo-growth-c21-investments-satn-ald-93CH-4040182",
+        "investing:https://tr.investing.com/news/company-news/barclays-central-asia-metalsdeki-payn-557ye-ckard-93CH-4040181",
+        "investing:https://tr.investing.com/news/stock-market-news/guggenheim-fon-hisseleri-acga-sats-raporunun-ardndan-17-yln-dibinde-93CH-4040179",
+        "investing:https://tr.investing.com/news/stock-market-news/abd-hazine-tahvil-faizleri-hizmet-sektoru-verisiyle-yukseldi-93CH-4040178",
         "investing:https://tr.investing.com/news/stock-market-news/allianz-commercial-emma-woolleyi-ozel-brans-rolune-atad-93CH-4040177",
         "investing:https://tr.investing.com/news/company-news/axis-bank-300-milyon-dolarlk-tahviller-icin-onay-ald-93CH-4040176",
         "investing:https://tr.investing.com/news/insider-trading-news/tredegar-yoneticisi-james-gottwald-35053-dolar-degerinde-hisse-satt-93CH-4040175",
@@ -1078,13 +1084,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/globalfoundries-cpo-pradheepa-raman-345571-dolarlk-hisse-satt-93CH-4038644",
         "investing:https://tr.investing.com/news/insider-trading-news/first-citizens-bancshares-yoneticisi-morais-108405-dolar-degerinde-hisse-ald-93CH-4038643",
         "investing:https://tr.investing.com/news/stock-market-news/solaris-energy-infrastructure-hissesi-bugun-neden-dusuyor-93CH-4038642",
-        "investing:https://tr.investing.com/news/company-news/balfour-beatty-sarah-brandi-tampa-operasyonlar-baskan-yardmcs-olarak-atad-93CH-4038639",
-        "investing:https://tr.investing.com/news/company-news/popular-hisse-basna-090-dolar-temettu-acklad-93CH-4038638",
-        "investing:https://tr.investing.com/news/stock-market-news/instacart-hissesi-neden-yeni-52-haftalk-zirve-yapt-93CH-4038637",
-        "investing:https://tr.investing.com/news/stock-market-news/sharonai-holdings-hissesi-bugun-neden-dusuyor-93CH-4038635",
-        "investing:https://tr.investing.com/news/company-news/oxford-nanopore-ceosu-ltip-odulu-kapsamnda-49676-hisse-ald-93CH-4038633",
-        "investing:https://tr.investing.com/news/stock-market-news/twenty-one-capital-hissesi-neden-yukseliyor-93CH-4038632",
-        "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-hisseleri-neden-dusuyor-93CH-4038631"
+        "investing:https://tr.investing.com/news/company-news/balfour-beatty-sarah-brandi-tampa-operasyonlar-baskan-yardmcs-olarak-atad-93CH-4038639"
       ]
     },
     "ntvpara": {
@@ -1287,8 +1287,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:cd5f532c8d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:af54de630d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:af54de630d9e8:0",
+        "tradingview:fxstreet:8eceb7a30d9e8:0",
         "tradingview:fxstreet:cd5f532c8d9e8:0",
         "tradingview:fxstreet:c94488439d9e8:0",
         "tradingview:fxstreet:233638037d9e8:0",
@@ -1786,9 +1788,7 @@
         "tradingview:cointelegraph:766752910d9e8:0",
         "tradingview:fxstreet:be470230dd9e8:0",
         "tradingview:fxstreet:5fecac1f5d9e8:0",
-        "tradingview:cointelegraph:56350b514d9e8:0",
-        "tradingview:beincrypto:25fee8f7ed9e8:0",
-        "tradingview:cointelegraph:acc5c5361d9e8:0"
+        "tradingview:cointelegraph:56350b514d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1806,6 +1806,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n orta dogu risklerinin ralliyi koruklemesiyle 4 600 dolar n uzerinde uc ayl k zirveye ulast",
+      "link": "https://tr.tradingview.com/news/fxstreet:af54de630d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur usd fiyat analizi bogalar 1 1700 seviyesini test ediyor rsi as r al ma donuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:8eceb7a30d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "nuvation bio hisseleri neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/nuvation-bio-hisseleri-neden-yukseliyor-93CH-4040195"
+    },
+    {
+      "source": "investing",
+      "text": "nuvation bio hisseleri cantor un overweight onerisiyle yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/nuvation-bio-hisseleri-cantorun-overweight-onerisiyle-yukseldi-93CH-4040194"
+    },
+    {
+      "source": "investing",
+      "text": "nato komutan hurmuz bogaz nda destek gorusme yapt",
+      "link": "https://tr.investing.com/news/stock-market-news/nato-komutan-hurmuz-bogaznda-destek-icin-gorusme-yapt-93CH-4040193"
+    },
+    {
+      "source": "investing",
+      "text": "rafineri uretimi artarken avrupa dizel marjlar yukseldi",
+      "link": "https://tr.investing.com/news/commodities-news/rafineri-uretimi-artarken-avrupa-dizel-marjlar-yukseldi-93CH-4040192"
+    },
+    {
+      "source": "investing",
+      "text": "latin amerika hisse senetleri para birimleri dolardaki zay fl kla yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/latin-amerika-hisse-senetleri-ve-para-birimleri-dolardaki-zayflkla-yukseldi-93CH-4040191"
+    },
+    {
+      "source": "investing",
+      "text": "isvicre merkez bankas yetkilisi yapay zeka k sa vadede enflasyonu art rabilir",
+      "link": "https://tr.investing.com/news/stock-market-news/isvicre-merkez-bankas-yetkilisi-yapay-zeka-ksa-vadede-enflasyonu-artrabilir-93CH-4040190"
+    },
+    {
+      "source": "kap",
+      "text": "vangd ozel durum ac klamas genel sirketimizin buyume stratejisi kapsam nda istirak edinimine yonelik cal smalar hakk nda sirket vanet gida sanayi ic dis ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654251"
+    },
     {
       "source": "tradingview",
       "text": "almanya ifo hissiyat n n iran savas nedeniyle zay flad g goruluyor commerzbank",
@@ -9260,51 +9305,6 @@
       "source": "kap",
       "text": "karsn pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfkrsn82622 isin kodlu tahvilin 4 kupon odemesi faiz oran sirket karsan otomotiv sanayii ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653537"
-    },
-    {
-      "source": "kap",
-      "text": "takasbank para piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653536"
-    },
-    {
-      "source": "kap",
-      "text": "korts pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trskort22726 isin kodlu korteks ihrac n n 3 kupon donemine iliskin faiz oran ac klamas sirket korteks mensucat sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653534"
-    },
-    {
-      "source": "kap",
-      "text": "aefes brisa btcim cimsa dohol ekgyo enjsa enkai eregl garan hekts isctr merit sise tavhl thyao toaso tralt ttkom ybtas borsada islem goren tipe donusum duyurusu donusum sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653533"
-    },
-    {
-      "source": "tradingview",
-      "text": "wall street abd hazine tahvillerinin yukselmesiyle ekside ac lmaya haz rlan yor",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44H0S7:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bist k ymetli madenler piyasas nda bugun 836 kg alt n 255 kg gumus islemi yap ld",
-      "link": "https://tr.tradingview.com/news/matriks:6687671:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurt ici yerlesiklerin doviz mevduat hareketleri phillipcapital",
-      "link": "https://tr.tradingview.com/news/matriks:6687669:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hindistan rupisi rbi yonetilebilir dolar k sa pozisyonlar n savunuyor bny",
-      "link": "https://tr.tradingview.com/news/fxstreet:f6eb5ac3bd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurt ici yerlesiklerin doviz mevduat hareketleri bizim menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6687662:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bitdeer malezya tesisi 400 milyon dolarl k yapay zeka bulut bilisim anlasmas imzalad",
-      "link": "https://tr.tradingview.com/news/cointelegraph:08e7ca2e1d9e8:0"
     }
   ]
 }
