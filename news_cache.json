@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653878",
+      "last_seen_key": "kap:1653882",
       "seen_keys": [
+        "kap:1653882",
+        "kap:1653881",
         "kap:1653878",
         "kap:1653877",
         "kap:1653876",
@@ -501,9 +503,7 @@
         "kap:1653168",
         "kap:1653167",
         "kap:1653166",
-        "kap:1653165",
-        "kap:1653164",
-        "kap:1653163"
+        "kap:1653165"
       ]
     },
     "bloomberght": {
@@ -1260,8 +1260,20 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:8f6500badd9e8:0",
+      "last_seen_key": "tradingview:matriks:6689520:0",
       "seen_keys": [
+        "tradingview:matriks:6689520:0",
+        "tradingview:matriks:6689495:0",
+        "tradingview:fxstreet:586ab33a0d9e8:0",
+        "tradingview:fxstreet:13656f366d9e8:0",
+        "tradingview:fxstreet:0f495b17fd9e8:0",
+        "tradingview:matriks:6689487:0",
+        "tradingview:fxstreet:2a65cc79ad9e8:0",
+        "tradingview:fxstreet:d4a936cfbd9e8:0",
+        "tradingview:fxstreet:51d886782d9e8:0",
+        "tradingview:cointelegraph:5d66c52d7d9e8:0",
+        "tradingview:matriks:6689445:0",
+        "tradingview:matriks:6689439:0",
         "tradingview:fxstreet:8f6500badd9e8:0",
         "tradingview:matriks:6689397:0",
         "tradingview:fxstreet:ae61af7c0d9e8:0",
@@ -1310,6 +1322,7 @@
         "tradingview:matriks:6689119:0",
         "tradingview:matriks:6689115:0",
         "tradingview:matriks:6689114:0",
+        "tradingview:fxstreet:b415f415ed9e8:0",
         "tradingview:matriks:6689098:0",
         "tradingview:tag:reuters.com,2026:newsml_APNA2HEIR:0",
         "tradingview:fxstreet:36fc7868dd9e8:0",
@@ -1331,6 +1344,7 @@
         "tradingview:matriks:6689052:0",
         "tradingview:fxstreet:36389976ed9e8:0",
         "tradingview:matriks:6689043:0",
+        "tradingview:beincrypto:d65fe0ca6d9e8:0",
         "tradingview:matriks:6689042:0",
         "tradingview:matriks:6689030:0",
         "tradingview:tag:reuters.com,2026:newsml_APNA2HEY1:0",
@@ -1435,9 +1449,7 @@
         "tradingview:matriks:6688718:0",
         "tradingview:matriks:6688717:0",
         "tradingview:matriks:6688715:0",
-        "tradingview:fxstreet:0f495b17fd9e8:0",
         "tradingview:fxstreet:194b90ad3d9e8:0",
-        "tradingview:fxstreet:b415f415ed9e8:0",
         "tradingview:matriks:6688691:0",
         "tradingview:matriks:6688688:0",
         "tradingview:matriks:6688685:0",
@@ -1749,19 +1761,7 @@
         "tradingview:matriks:6687573:0",
         "tradingview:fxstreet:85037646fd9e8:0",
         "tradingview:matriks:6687566:0",
-        "tradingview:fxstreet:937a93768d9e8:0",
-        "tradingview:matriks:6687565:0",
-        "tradingview:matriks:6687557:0",
-        "tradingview:matriks:6687556:0",
-        "tradingview:matriks:6687555:0",
-        "tradingview:matriks:6687554:0",
-        "tradingview:matriks:6687550:0",
-        "tradingview:cointelegraph:5be30eefed9e8:0",
-        "tradingview:matriks:6687547:0",
-        "tradingview:matriks:6687546:0",
-        "tradingview:matriks:6687545:0",
-        "tradingview:matriks:6687544:0",
-        "tradingview:matriks:6687543:0"
+        "tradingview:fxstreet:937a93768d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1779,6 +1779,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin e dogrudan yabanc yat r mc girisi ocak temmuz yuan cinsinden 6 2 azald",
+      "link": "https://tr.tradingview.com/news/matriks:6689520:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed hazine piyasalar konusunda ayr telden cal yor axios",
+      "link": "https://tr.tradingview.com/news/matriks:6689495:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti fiyat analizi petrol arz ndaki s k l k 90 uzerindeki daha fazla yukselisi destekliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:586ab33a0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar risk istah n destekleyen ak slarla daha zay f gorunum ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:13656f366d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "mastercard dogu avrupa bolge baskanl g na avsar gurdal etan yor",
+      "link": "https://tr.tradingview.com/news/matriks:6689487:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro guclu pmi lar n her iki tarafta destek saglamas yla ingiliz sterlini kars s nda istikrar kazan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2a65cc79ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni boj dan s k lasmac beklentiler aras nda kazanclar n koruyor abd dolar ise fed beklentileriyle zay f kal yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d4a936cfbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "federal rezerv destek mekanizmas na dair supheler yuksek mudahale c tas bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:51d886782d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "btc fiyat 77 bin dolar asarken strategy nin bitcoin hazinesi basa bas noktas na ulast",
+      "link": "https://tr.tradingview.com/news/cointelegraph:5d66c52d7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "skoda tamamen elektrikli yeni amiral gemisi peaq in seri uretimine cek cumhuriyeti ndeki mlada boleslav fabrikas nda baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6689445:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kongo daki ebola salg n katlanarak buyuyor bm ebola koordinatoru",
+      "link": "https://tr.tradingview.com/news/matriks:6689439:0"
+    },
+    {
+      "source": "kap",
+      "text": "atatp pay baz nda devre kesici bildirimi atatp e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653882"
+    },
+    {
+      "source": "kap",
+      "text": "vkfyo ozel durum ac klamas genel sirketimizin bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sebebiyle yap lan ac klamad r sirket vakif menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653881"
+    },
     {
       "source": "tradingview",
       "text": "polonya zlotisi enflasyonun yeniden h zlanmas pln uzerinde bask olusturuyor commerzbank",
@@ -9213,71 +9278,6 @@
       "source": "kap",
       "text": "sanel pay baz nda devre kesici bildirimi sanel e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653347"
-    },
-    {
-      "source": "kap",
-      "text": "tmks tertip ihrac belgesi tmks tarfin birinci varl k finansman fonu tertip ihrac belgesi sirket birlesik ipotek finansmani a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653346"
-    },
-    {
-      "source": "tradingview",
-      "text": "cin ticaret bakanl g abd nin dronlar uzergine uygulad g gumruk tarifeleri hakk nda abd nin 232 bolumu tedbirleri ulusal guvenlik kavram n as r genellestiren tek tarafl korumac tedbirlerdir",
-      "link": "https://tr.tradingview.com/news/matriks:6686417:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "borsa gune yukselisle baslad borsa istanbul bist 100 endeksi gune yuzde 0 07 art sla 14 469 07 puandan baslad",
-      "link": "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-954436.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "alt n n gram 6 bin 923 liradan islem goruyor gune dususle baslayan gram alt n 6 bin 923 liradan islem goruyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/altinin-grami-6-bin-923-liradan-islem-goruyor-954432.html"
-    },
-    {
-      "source": "bloomberght",
-      "text": "iran merkez bankas baskan hic petrol ihrac etmiyoruz iran merkez bankas baskan abdulnas r himmeti ulkesinin petrol ihracat n n tamamen kesildigini soyledi",
-      "link": "https://www.bloomberght.com/iran-merkez-bankasi-baskan-hic-petrol-ihrac-etmiyoruz-3785965"
-    },
-    {
-      "source": "kap",
-      "text": "crdfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trftpfc22714 isin kodlu finansman bonosu ihrac sirket creditwest faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653345"
-    },
-    {
-      "source": "kap",
-      "text": "kuvva pay baz nda devre kesici bildirimi kuvva e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653343"
-    },
-    {
-      "source": "kap",
-      "text": "kfein pay baz nda devre kesici bildirimi kfein e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653342"
-    },
-    {
-      "source": "kap",
-      "text": "arsan pay baz nda devre kesici bildirimi arsan e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653341"
-    },
-    {
-      "source": "kap",
-      "text": "clebi pay baz nda devre kesici bildirimi clebi e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653340"
-    },
-    {
-      "source": "kap",
-      "text": "megmt pay baz nda devre kesici bildirimi megmt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653339"
-    },
-    {
-      "source": "kap",
-      "text": "zgyo pay baz nda devre kesici bildirimi zgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653338"
-    },
-    {
-      "source": "kap",
-      "text": "hktm pay baz nda devre kesici bildirimi hktm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653337"
     }
   ]
 }
