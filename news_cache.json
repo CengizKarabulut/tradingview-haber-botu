@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654249",
+      "last_seen_key": "kap:1654250",
       "seen_keys": [
+        "kap:1654250",
         "kap:1654249",
         "kap:1654248",
         "kap:1654247",
@@ -502,8 +503,7 @@
         "kap:1653332",
         "kap:1653305",
         "kap:1653349",
-        "kap:1653334",
-        "kap:1653304"
+        "kap:1653334"
       ]
     },
     "bloomberght": {
@@ -1287,12 +1287,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:c94488439d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:cd5f532c8d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:cd5f532c8d9e8:0",
         "tradingview:fxstreet:c94488439d9e8:0",
         "tradingview:fxstreet:233638037d9e8:0",
         "tradingview:fxstreet:77d0edc64d9e8:0",
         "tradingview:fxstreet:8dda6ff2fd9e8:0",
+        "tradingview:beincrypto:6ac253cd5d9e8:0",
         "tradingview:fxstreet:f54c60504d9e8:0",
         "tradingview:fxstreet:b09f7c611d9e8:0",
         "tradingview:cointelegraph:17cd0736fd9e8:0",
@@ -1786,9 +1788,7 @@
         "tradingview:fxstreet:5fecac1f5d9e8:0",
         "tradingview:cointelegraph:56350b514d9e8:0",
         "tradingview:beincrypto:25fee8f7ed9e8:0",
-        "tradingview:cointelegraph:acc5c5361d9e8:0",
-        "tradingview:beincrypto:3bea8ed36d9e8:0",
-        "tradingview:fxstreet:449036394d9e8:0"
+        "tradingview:cointelegraph:acc5c5361d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1806,6 +1806,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "almanya ifo hissiyat n n iran savas nedeniyle zay flad g goruluyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:cd5f532c8d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "ykb ykbnk sirket genel bilgi formu sirket yapi kredi bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654250"
+    },
     {
       "source": "tradingview",
       "text": "daha yuksek getiriler dolar endeksi odeme yapmay durduruyor",
@@ -9295,16 +9305,6 @@
       "source": "tradingview",
       "text": "bitdeer malezya tesisi 400 milyon dolarl k yapay zeka bulut bilisim anlasmas imzalad",
       "link": "https://tr.tradingview.com/news/cointelegraph:08e7ca2e1d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alves kablo firmam z uluslararas pazarda faaliyet gosteren musteri bak r iletkenli enerji kablolar n n sat s na yonelik ticari is iliskisi tesis etmis sat s sozlesmesi imzalam st r soz konusu sozlesmenin toplam bedeli 152 978 401 tl",
-      "link": "https://tr.tradingview.com/news/matriks:6687650:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "analistler hemfikir hint rupisi s k lasmac rbi guclu rezervlerden destek almal",
-      "link": "https://tr.tradingview.com/news/fxstreet:b2380312dd9e8:0"
     }
   ]
 }
