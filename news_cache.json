@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654244",
+      "last_seen_key": "kap:1654248",
       "seen_keys": [
+        "kap:1654248",
+        "kap:1654247",
+        "kap:1654246",
+        "kap:1654245",
         "kap:1654244",
         "kap:1654243",
         "kap:1654242",
@@ -499,16 +503,13 @@
         "kap:1653349",
         "kap:1653334",
         "kap:1653304",
-        "kap:1653303",
-        "kap:1653302",
-        "kap:1653301",
-        "kap:1653300",
-        "kap:1653299"
+        "kap:1653303"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-tuketici-guveni-beklentileri-asti-3786202",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/turk-eximbank-tan-ihracatcilara-59-milyar-dolarlik-destek-hedefi-3786205",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/turk-eximbank-tan-ihracatcilara-59-milyar-dolarlik-destek-hedefi-3786205",
         "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-tuketici-guveni-beklentileri-asti-3786202",
         "bloomberght:https://www.bloomberght.com/jpmorgan-tcmb-den-yil-sonuna-kadar-iki-faiz-indirimi-bekliyor-3786200",
         "bloomberght:https://www.bloomberght.com/abd-de-is-dunyasi-aktivitesinde-2022-den-beri-en-hizli-genisleme-3786199",
@@ -1805,6 +1806,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "turk eximbank tan ihracatc lara 59 milyar dolarl k destek hedefi turk eximbank y l ihracatc lara 59 milyar dolarl k kredi sigorta destegi saglamay hedeflerken bankan n 20 bine yaklasan musterilerinin yuzde 83 unu kobi ler olusturuyor",
+      "link": "https://www.bloomberght.com/turk-eximbank-tan-ihracatcilara-59-milyar-dolarlik-destek-hedefi-3786205"
+    },
+    {
+      "source": "kap",
+      "text": "flap sirket genel bilgi formu sirket flap kongre toplanti hizmetleri otomotiv turizm a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654248"
+    },
+    {
+      "source": "kap",
+      "text": "ict sorumluluk beyan konsolide 2026 2c sorumluluk beyan sirket icbc turkey yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654247"
+    },
+    {
+      "source": "kap",
+      "text": "ict faaliyet raporu konsolide 2026 2c faaliyet raporu sirket icbc turkey yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654246"
+    },
+    {
+      "source": "kap",
+      "text": "ict finansal rapor sirket icbc turkey yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654245"
+    },
     {
       "source": "investing",
       "text": "barclays central asia metals deki pay n 5 57 ye c kard",
@@ -9279,31 +9305,6 @@
       "source": "investing",
       "text": "xiao i nasdaq tan piyasa degeri yetersizligi bildirimi ald",
       "link": "https://tr.investing.com/news/company-news/xiaoi-nasdaqtan-piyasa-degeri-yetersizligi-bildirimi-ald-93CH-4038396"
-    },
-    {
-      "source": "investing",
-      "text": "xiao i 8 eylul 1 e 7 ters ads bolunmesi planl yor",
-      "link": "https://tr.investing.com/news/company-news/xiaoi-8-eylulde-1e-7-ters-ads-bolunmesi-planlyor-93CH-4038395"
-    },
-    {
-      "source": "investing",
-      "text": "terreno realty washington 8 milyon dolara tesis ald",
-      "link": "https://tr.investing.com/news/company-news/terreno-realty-washingtonda-8-milyon-dolara-tesis-ald-93CH-4038394"
-    },
-    {
-      "source": "investing",
-      "text": "fs bancorp pacific west bancorp sat n al m n tamamlad",
-      "link": "https://tr.investing.com/news/company-news/fs-bancorp-pacific-west-bancorp-satn-almn-tamamlad-93CH-4038393"
-    },
-    {
-      "source": "investing",
-      "text": "maris tech devlet musterisinden yeni siparis ald",
-      "link": "https://tr.investing.com/news/company-news/maristech-devlet-musterisinden-yeni-siparis-ald-93CH-4038392"
-    },
-    {
-      "source": "investing",
-      "text": "paypal baskan suzan kereere 253 722 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/paypal-baskan-suzan-kereere-253722-dolar-degerinde-hisse-satt-93CH-4038384"
     }
   ]
 }
