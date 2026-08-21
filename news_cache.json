@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1653902",
+      "last_seen_key": "kap:1653904",
       "seen_keys": [
+        "kap:1653904",
+        "kap:1653903",
         "kap:1653902",
         "kap:1653901",
         "kap:1653897",
@@ -28,7 +30,6 @@
         "kap:1653809",
         "kap:1653807",
         "kap:1653806",
-        "kap:1653805",
         "kap:1653802",
         "kap:1653801",
         "kap:1653800",
@@ -80,6 +81,7 @@
         "kap:1653720",
         "kap:1653719",
         "kap:1653718",
+        "kap:1653805",
         "kap:1653717",
         "kap:1653716",
         "kap:1653714",
@@ -501,14 +503,13 @@
         "kap:1653175",
         "kap:1653174",
         "kap:1653173",
-        "kap:1653172",
-        "kap:1653171",
-        "kap:1653170"
+        "kap:1653172"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/ingiltere-de-bilesik-pmi-son-4-ayin-zirvesinde-3786147",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/turkiye-nin-kadin-girisimcisi-yarismasi-basvurulari-basladi-3786148",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/turkiye-nin-kadin-girisimcisi-yarismasi-basvurulari-basladi-3786148",
         "bloomberght:https://www.bloomberght.com/ingiltere-de-bilesik-pmi-son-4-ayin-zirvesinde-3786147",
         "bloomberght:https://www.bloomberght.com/tasarruf-yapan-kadin-sayisinda-artis-3786145",
         "bloomberght:https://www.bloomberght.com/bloomberg-businessweek-turkiye-nin-144-sayisi-cikti-3786144",
@@ -1261,8 +1262,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:cd7a2aca6d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:8aec0522dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:8aec0522dd9e8:0",
         "tradingview:fxstreet:cd7a2aca6d9e8:0",
         "tradingview:fxstreet:ec22b9edbd9e8:0",
         "tradingview:fxstreet:3df4c4aaad9e8:0",
@@ -1761,8 +1763,7 @@
         "tradingview:fxstreet:001a70b6bd9e8:0",
         "tradingview:matriks:6687611:0",
         "tradingview:beincrypto:bf3f22945d9e8:0",
-        "tradingview:fxstreet:fa0f7a527d9e8:0",
-        "tradingview:fxstreet:4019d3c22d9e8:0"
+        "tradingview:fxstreet:fa0f7a527d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1780,6 +1781,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "birlesik krall k burnham hissiyat nda s crama deutsche bank",
+      "link": "https://tr.tradingview.com/news/fxstreet:8aec0522dd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "turkiye nin kad n girisimcisi yar smas basvurular baslad garanti bbva n n turkiye kad n girisimciler dernegi kagider ekonomist dergisi isbirligiyle hayata gecirdigi turkiye nin kad n girisimcisi yar smas n n 20 donem basvurular baslad",
+      "link": "https://www.bloomberght.com/turkiye-nin-kadin-girisimcisi-yarismasi-basvurulari-basladi-3786148"
+    },
+    {
+      "source": "kap",
+      "text": "karsn pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfkrsn82622 isin kodlu tahvilin itfa kupon odemesi sirket karsan otomotiv sanayii ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653904"
+    },
+    {
+      "source": "kap",
+      "text": "bobet pay baz nda devre kesici bildirimi bobet e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1653903"
+    },
     {
       "source": "investing",
       "text": "ubs ingiltere kazanc buyume tahminini yukseltti",
@@ -9259,26 +9280,6 @@
       "source": "kap",
       "text": "etyat pay baz nda devre kesici bildirimi etyat e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653356"
-    },
-    {
-      "source": "kap",
-      "text": "oyayo ozel durum ac klamas genel ortakl k paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket oyak yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653355"
-    },
-    {
-      "source": "kap",
-      "text": "kgyo pay baz nda devre kesici bildirimi kgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653354"
-    },
-    {
-      "source": "kap",
-      "text": "hedef pay baz nda devre kesici bildirimi hedef e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653353"
-    },
-    {
-      "source": "kap",
-      "text": "zkbvr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdzkbva2653 isin kodlu yurtici kira sertifikas ihrac n n sat s n n tamamlanmas hk sirket zkb varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653352"
     }
   ]
 }
