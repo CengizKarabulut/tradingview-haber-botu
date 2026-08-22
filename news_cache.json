@@ -561,8 +561,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/john-ternus-doneminde-applen-risk-istah-degisecek-mi-4040500",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrm-dongusu-yavaslarsa-ne-olur-4040501",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrm-dongusu-yavaslarsa-ne-olur-4040501",
         "investing:https://tr.investing.com/news/stock-market-news/john-ternus-doneminde-applen-risk-istah-degisecek-mi-4040500",
         "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-ctosu-yapay-zeka-fonu-kurmak-icin-ayrlyor-93CH-4040499",
         "investing:https://tr.investing.com/news/economy-news/kanada-ticaret-gorusmeleri-coktukten-sonra-abd-tarifelerine-karslk-verecek-4040498",
@@ -572,7 +573,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/jefferies-para-birimi-endiseleri-nedeniyle-metallerde-atlm-bekliyor-93CH-4040464",
         "investing:https://tr.investing.com/news/stock-market-news/bofa-hazine-ksa-pozisyonlar-sabit-euro-riskinde-arts-93CH-4040461",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-turk-lojistik-hissesinde-567-getiri-saglad-93CH-4040460",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-degeri-akfisteki-51-dususu-nasl-ongordu-93CH-4040459",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -593,6 +593,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-degeri-akfisteki-51-dususu-nasl-ongordu-93CH-4040459",
         "investing:https://tr.investing.com/news/insider-trading-news/elf-beauty-svpsi-joshua-franks-571800-dolarlk-hisse-satt-93CH-4040458",
         "investing:https://tr.investing.com/news/investment-ideas/world-kinectin-64luk-yukselisi-investingpro-gercege-uygun-deger-analizini-dogrulad-93CH-4040456",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-ttmnin-38lik-dususunu-onceden-tespit-etti-93CH-4040454",
@@ -1061,8 +1062,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/fold-holdings-cfosu-1297-dolar-degerinde-hisse-satt-93CH-4039017",
         "investing:https://tr.investing.com/news/stock-market-news/samsung-electronics-hissesi-bugun-neden-yukseliyor-93CH-4039016",
         "investing:https://tr.investing.com/news/stock-market-news/henderson-land-hissesi-neden-yukseliste-93CH-4039015",
-        "investing:https://tr.investing.com/news/insider-trading-news/cineverse-teknoloji-baskan-huidor-40200-dolarlk-hisse-satt-93CH-4039014",
-        "investing:https://tr.investing.com/news/insider-trading-news/tempus-ai-cfosu-269-milyon-dolarlk-hisse-satt-93CH-4039013"
+        "investing:https://tr.investing.com/news/insider-trading-news/cineverse-teknoloji-baskan-huidor-40200-dolarlk-hisse-satt-93CH-4039014"
       ]
     },
     "ntvpara": {
@@ -1797,6 +1797,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "yapay zeka yat r m dongusu yavaslarsa olur",
+      "link": "https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrm-dongusu-yavaslarsa-ne-olur-4040501"
+    },
     {
       "source": "investing",
       "text": "john ternus doneminde apple n risk istah degisecek",
@@ -9291,11 +9296,6 @@
       "source": "tradingview",
       "text": "abd dolar geri al m n ard ndan deger kayb endiseleri bask olusturuyor scotiabank",
       "link": "https://tr.tradingview.com/news/fxstreet:fb51235edd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "optimism gelecekteki airdrop lardan 546 9 milyon op yi ekosistem buyume fonuna aktar yor",
-      "link": "https://tr.tradingview.com/news/cointelegraph:df9893edbd9e8:0"
     }
   ]
 }
