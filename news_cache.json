@@ -1314,8 +1314,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:597329eb7d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:d2841f186d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:d2841f186d9e8:0",
         "tradingview:beincrypto:597329eb7d9e8:0",
         "tradingview:beincrypto:bcb99dfb7d9e8:0",
         "tradingview:beincrypto:8478ee33cd9e8:0",
@@ -1814,8 +1815,7 @@
         "tradingview:beincrypto:d0e65ee55d9e8:0",
         "tradingview:matriks:6688408:0",
         "tradingview:fxstreet:16ddd95e5d9e8:0",
-        "tradingview:fxstreet:9ef1ef7b9d9e8:0",
-        "tradingview:fxstreet:63597fb4ed9e8:0"
+        "tradingview:fxstreet:9ef1ef7b9d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1833,6 +1833,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "xrp fiyat sert dustu 1 35 milyar dolar l k kripto likidasyonu",
+      "link": "https://tr.tradingview.com/news/beincrypto:d2841f186d9e8:0"
+    },
     {
       "source": "investing",
       "text": "braze cbo astha malik 464 910 dolarl k hisse satt",
@@ -9327,11 +9332,6 @@
       "source": "tradingview",
       "text": "turk telekom tobb undp habitat dernegi girisimci kad nlar n dijitallesme yolculuguna guc kat yor",
       "link": "https://tr.tradingview.com/news/matriks:6687999:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "acer swift spin 14 ai uretkenlik donusturulebilir tasar mla bulusuyor",
-      "link": "https://tr.tradingview.com/news/matriks:6687998:0"
     }
   ]
 }
