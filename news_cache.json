@@ -591,8 +591,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/coreweave-coosu-582427-dolarlk-hisse-satt-93CH-4040401",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/modernann-kanser-assnda-atlm-biyoteknolojiye-umut-verdi-4040406",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/modernann-kanser-assnda-atlm-biyoteknolojiye-umut-verdi-4040406",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-coosu-582427-dolarlk-hisse-satt-93CH-4040401",
         "investing:https://tr.investing.com/news/insider-trading-news/archer-aviation-csosu-631000-dolarlk-hisse-satt-93CH-4040402",
         "investing:https://tr.investing.com/news/insider-trading-news/rivian-cfosu-claire-mcdonough-128368-dolarlk-hisse-satt-93CH-4040400",
@@ -602,7 +603,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/lumentum-baskan-wupen-yuen-169-milyon-dolarlk-hisse-satt-93CH-4040396",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-cdo-brannin-mcbee-331686-dolarlk-hisse-satt-93CH-4040395",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweavein-genel-musaviri-365682-dolarlk-hisse-satt-93CH-4040394",
-        "investing:https://tr.investing.com/news/insider-trading-news/intuitive-surgical-evp-mark-brosius-59439-dolarlk-hisse-satt-93CH-4040393",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -623,6 +623,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/insider-trading-news/intuitive-surgical-evp-mark-brosius-59439-dolarlk-hisse-satt-93CH-4040393",
         "investing:https://tr.investing.com/news/insider-trading-news/illumina-yoneticisi-keith-meister-1455-milyon-dolarlk-hisse-satt-93CH-4040381",
         "investing:https://tr.investing.com/news/insider-trading-news/american-securities-solv-energynin-79-milyon-hissesini-satt-93CH-4040380",
         "investing:https://tr.investing.com/news/insider-trading-news/nightfood-holdings-yoneticisi-stauber-140-dolar-degerinde-hisse-ald-93CH-4040379",
@@ -1091,8 +1092,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/virtu-financial-yoneticisi-joseph-grano-jr-511855-dolar-degerinde-hisse-satt-93CH-4038936",
         "investing:https://tr.investing.com/news/insider-trading-news/coeur-mining-yoneticisi-519250-dolar-degerinde-hisse-satt-93CH-4038935",
         "investing:https://tr.investing.com/news/economic-indicators/japonyada-tufe-temmuzda-yukseldi-cekirdek-enflasyon-artt-ancak-boj-hedefinin-altnda-kald-4038934",
-        "investing:https://tr.investing.com/news/insider-trading-news/tapestry-ceosu-crevoiserat-19-agustosta-368-milyon-dolarlk-hisse-satt-93CH-4038932",
-        "investing:https://tr.investing.com/news/insider-trading-news/eton-pharmaceuticals-ceosu-608-milyon-dolarlk-hisse-satt-93CH-4038931"
+        "investing:https://tr.investing.com/news/insider-trading-news/tapestry-ceosu-crevoiserat-19-agustosta-368-milyon-dolarlk-hisse-satt-93CH-4038932"
       ]
     },
     "ntvpara": {
@@ -1816,6 +1816,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "moderna n n kanser as s nda at l m biyoteknolojiye umut verdi",
+      "link": "https://tr.investing.com/news/company-news/modernann-kanser-assnda-atlm-biyoteknolojiye-umut-verdi-4040406"
+    },
     {
       "source": "investing",
       "text": "coreweave coo su 582 427 dolarl k hisse satt",
@@ -9310,11 +9315,6 @@
       "source": "bloomberght",
       "text": "hazine den 3 5 milyar dolarl k tahvil kira sertifikas ihrac hazine maliye bakanl g kurumsal yat r mc lara yonelik 3 milyar 425 milyon dolarl k devlet tahvili 105 4 milyon dolarl k kira sertifikas ihrac ederken toplam ihrac tutar 3 53 milyar dolar oldu",
       "link": "https://www.bloomberght.com/hazine-den-3-5-milyar-dolarlik-tahvil-ve-kira-sertifikasi-ihraci-3786054"
-    },
-    {
-      "source": "kap",
-      "text": "gsdho ozel durum ac klamas genel lena maritime taraf ndan adet kuru yuk gemisi al m karar sirket gsd holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653688"
     }
   ]
 }
