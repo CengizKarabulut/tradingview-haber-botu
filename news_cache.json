@@ -591,8 +591,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/universal-safety-products-yonetici-ault-183344-dolar-degerinde-hisse-ald-93CH-4040409",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/abdnin-kanadaya-tarifeleri-ticaret-gorusmeleri-coktukten-sonra-yururluge-girdi-4040410",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/abdnin-kanadaya-tarifeleri-ticaret-gorusmeleri-coktukten-sonra-yururluge-girdi-4040410",
         "investing:https://tr.investing.com/news/insider-trading-news/universal-safety-products-yonetici-ault-183344-dolar-degerinde-hisse-ald-93CH-4040409",
         "investing:https://tr.investing.com/news/insider-trading-news/texas-roadhouse-ceosu-303-milyon-dolarlk-hisse-satt-93CH-4040408",
         "investing:https://tr.investing.com/news/company-news/modernann-kanser-assnda-atlm-biyoteknolojiye-umut-verdi-4040406",
@@ -602,7 +603,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-193-milyon-dolarlk-hisse-satt-93CH-4040399",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-cso-brian-venturo-542-bin-dolar-degerinde-a-snf-hisse-satt-93CH-4040398",
         "investing:https://tr.investing.com/news/insider-trading-news/goodrxin-10-hissedar-francisco-partners-42-milyon-dolarlk-hisse-satt-93CH-4040397",
-        "investing:https://tr.investing.com/news/insider-trading-news/lumentum-baskan-wupen-yuen-169-milyon-dolarlk-hisse-satt-93CH-4040396",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -623,6 +623,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/insider-trading-news/lumentum-baskan-wupen-yuen-169-milyon-dolarlk-hisse-satt-93CH-4040396",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-cdo-brannin-mcbee-331686-dolarlk-hisse-satt-93CH-4040395",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweavein-genel-musaviri-365682-dolarlk-hisse-satt-93CH-4040394",
         "investing:https://tr.investing.com/news/insider-trading-news/intuitive-surgical-evp-mark-brosius-59439-dolarlk-hisse-satt-93CH-4040393",
@@ -1091,8 +1092,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/appfolio-yoneticisi-maurice-duca-164-milyon-dolarlk-hisse-satt-93CH-4038939",
         "investing:https://tr.investing.com/news/insider-trading-news/coeur-mining-evp-nault-200000-dolarlk-hisse-satt-93CH-4038938",
         "investing:https://tr.investing.com/news/insider-trading-news/applen-svpsi-jennifer-newstead-442478-dolar-degerinde-hisse-satt-93CH-4038937",
-        "investing:https://tr.investing.com/news/insider-trading-news/virtu-financial-yoneticisi-joseph-grano-jr-511855-dolar-degerinde-hisse-satt-93CH-4038936",
-        "investing:https://tr.investing.com/news/insider-trading-news/coeur-mining-yoneticisi-519250-dolar-degerinde-hisse-satt-93CH-4038935"
+        "investing:https://tr.investing.com/news/insider-trading-news/virtu-financial-yoneticisi-joseph-grano-jr-511855-dolar-degerinde-hisse-satt-93CH-4038936"
       ]
     },
     "ntvpara": {
@@ -1816,6 +1816,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "abd nin kanada ya tarifeleri ticaret gorusmeleri coktukten sonra yururluge girdi",
+      "link": "https://tr.investing.com/news/economy-news/abdnin-kanadaya-tarifeleri-ticaret-gorusmeleri-coktukten-sonra-yururluge-girdi-4040410"
+    },
     {
       "source": "investing",
       "text": "universal safety products yonetici ault 183 344 dolar degerinde hisse ald",
@@ -9310,11 +9315,6 @@
       "source": "investing",
       "text": "meksika merkez bankas faiz oranlar n sabit tutma sinyali verdi",
       "link": "https://tr.investing.com/news/economy-news/meksika-merkez-bankas-faiz-oranlarn-sabit-tutma-sinyali-verdi-93CH-4038572"
-    },
-    {
-      "source": "investing",
-      "text": "transocean hisseleri hindistan sozlesmesiyle yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/transocean-hisseleri-hindistan-sozlesmesiyle-yukseldi-93CH-4038570"
     }
   ]
 }
