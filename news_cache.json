@@ -1278,8 +1278,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:d928321c6d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:49478aeafd9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:49478aeafd9e8:0",
         "tradingview:beincrypto:d928321c6d9e8:0",
         "tradingview:beincrypto:d6bcf3d52d9e8:0",
         "tradingview:cointelegraph:44a087160d9e8:0",
@@ -1778,8 +1779,7 @@
         "tradingview:fxstreet:e87d4909dd9e8:0",
         "tradingview:fxstreet:c3ac4d42ed9e8:0",
         "tradingview:fxstreet:642f9afb8d9e8:0",
-        "tradingview:fxstreet:a52409925d9e8:0",
-        "tradingview:beincrypto:d0e65ee55d9e8:0"
+        "tradingview:fxstreet:a52409925d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1797,6 +1797,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bouncebit 286 5 milyon token transferi sonras zincirini kapatt",
+      "link": "https://tr.tradingview.com/news/beincrypto:49478aeafd9e8:0"
+    },
     {
       "source": "investing",
       "text": "kanada ticaret gorusmeleri coktukten sonra abd tarifelerine kars l k verecek",
@@ -9291,11 +9296,6 @@
       "source": "tradingview",
       "text": "usd chf fiyat analizi 100 gunluk sma y savunduktan sonra 0 8000 seviyesini geri almaya cal s yor",
       "link": "https://tr.tradingview.com/news/fxstreet:aa3810a63d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bessent daha buyuk tahvil geri al mlar istiyor ancak piyasalar neredeyse hic tepki vermiyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:0c5d3f1f7d9e8:0"
     }
   ]
 }
