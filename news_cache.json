@@ -595,8 +595,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/abdli-yargc-75-ulkeyi-kapsayan-gocmen-vizesi-yasagn-iptal-etti-4040424",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/vatikan-roma-yaknlarnda-100-milyon-euroluk-enerji-tesisi-kuracak-4040428",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/vatikan-roma-yaknlarnda-100-milyon-euroluk-enerji-tesisi-kuracak-4040428",
         "investing:https://tr.investing.com/news/economy-news/abdli-yargc-75-ulkeyi-kapsayan-gocmen-vizesi-yasagn-iptal-etti-4040424",
         "investing:https://tr.investing.com/news/economy-news/cinin-robot-oyunlar-bilim-fuarndan-stratejik-vitrinine-donustu-4040423",
         "investing:https://tr.investing.com/news/economy-news/reform-uktaki-ic-catsmalar-faragen-planlarn-karstryor-4040420",
@@ -606,7 +607,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/texas-roadhouse-ceosu-303-milyon-dolarlk-hisse-satt-93CH-4040408",
         "investing:https://tr.investing.com/news/company-news/modernann-kanser-assnda-atlm-biyoteknolojiye-umut-verdi-4040406",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-coosu-582427-dolarlk-hisse-satt-93CH-4040401",
-        "investing:https://tr.investing.com/news/insider-trading-news/archer-aviation-csosu-631000-dolarlk-hisse-satt-93CH-4040402",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -627,6 +627,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/insider-trading-news/archer-aviation-csosu-631000-dolarlk-hisse-satt-93CH-4040402",
         "investing:https://tr.investing.com/news/insider-trading-news/rivian-cfosu-claire-mcdonough-128368-dolarlk-hisse-satt-93CH-4040400",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-193-milyon-dolarlk-hisse-satt-93CH-4040399",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-cso-brian-venturo-542-bin-dolar-degerinde-a-snf-hisse-satt-93CH-4040398",
@@ -1095,8 +1096,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/coeur-mining-cfo-whelan-125220-dolarlk-hisse-satt-93CH-4038945",
         "investing:https://tr.investing.com/news/insider-trading-news/american-states-water-yoneticisi-anne-holloway-79969-dolar-hisse-satt-93CH-4038943",
         "investing:https://tr.investing.com/news/stock-market-news/avustralya-imalat-ve-hizmet-pmi-agustosta-istikrarl-buyudu-93CH-4038942",
-        "investing:https://tr.investing.com/news/stock-market-news/tpg-telecom-mobil-kazanclarla-karn-artrd-93CH-4038941",
-        "investing:https://tr.investing.com/news/insider-trading-news/meta-platforms-cfosu-susan-li-506-milyon-dolarlk-hisse-satt-93CH-4038940"
+        "investing:https://tr.investing.com/news/stock-market-news/tpg-telecom-mobil-kazanclarla-karn-artrd-93CH-4038941"
       ]
     },
     "ntvpara": {
@@ -1182,8 +1182,10 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/altin-ve-petrol-yukseliste-borsa-istanbul-14-bin-500-puani-asti-954622.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/merkez-bankasindan-altin-karari-954626.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/merkez-bankasindan-altin-karari-954626.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-lityum-borat-bilesiklerini-yerli-imkanlarla-uretmeye-basladi-954625.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-ve-petrol-yukseliste-borsa-istanbul-14-bin-500-puani-asti-954622.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/mevzuata-aykiri-ilan-veren-emlakci-ve-galericilere-82-milyon-lira-ceza-954620.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/borsa-gunu-yukselisle-tamamladi-954593.html",
@@ -1823,6 +1825,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "turkiye lityum borat bilesiklerini yerli imkanlarla uretmeye baslad basta cimento cam sanayisinde kullan lan neredeyse tamam ithal edilen lityum borat bilesiklerinin yerli milli imkanlarla uretilmesi amac yla tenmak boren lityum borat tuzlar uretim tesisi devreye al nd",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-lityum-borat-bilesiklerini-yerli-imkanlarla-uretmeye-basladi-954625.html"
+    },
+    {
+      "source": "investing",
+      "text": "vatikan roma yak nlar nda 100 milyon euroluk enerji tesisi kuracak",
+      "link": "https://tr.investing.com/news/economy-news/vatikan-roma-yaknlarnda-100-milyon-euroluk-enerji-tesisi-kuracak-4040428"
+    },
     {
       "source": "investing",
       "text": "abd li yarg c 75 ulkeyi kapsayan gocmen vizesi yasag n iptal etti",
@@ -9312,16 +9324,6 @@
       "source": "investing",
       "text": "kropz kopru kredisi imkan ndan 80 milyon zar cekti",
       "link": "https://tr.investing.com/news/company-news/kropz-kopru-kredisi-imkanndan-80-milyon-zar-cekti-93CH-4038591"
-    },
-    {
-      "source": "investing",
-      "text": "abrdn european logistics income 2 34 euro sent temettu ac klad",
-      "link": "https://tr.investing.com/news/company-news/abrdn-european-logistics-income-234-euro-sent-temettu-acklad-93CH-4038589"
-    },
-    {
-      "source": "kap",
-      "text": "miatk kat l m finans ilkeleri bilgi formu sirket mia teknoloji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653690"
     }
   ]
 }
