@@ -598,8 +598,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/circle-internet-yoneticisi-m-michele-burns-283653-dolarlk-hisse-satt-93CH-4040440",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/heritage-insurance-baskan-johns-117864-dolarlk-hisse-satt-93CH-4040442",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/heritage-insurance-baskan-johns-117864-dolarlk-hisse-satt-93CH-4040442",
         "investing:https://tr.investing.com/news/insider-trading-news/circle-internet-yoneticisi-m-michele-burns-283653-dolarlk-hisse-satt-93CH-4040440",
         "investing:https://tr.investing.com/news/economy-news/ukrayna-ihalar-ozon-deposunu-vurdu-rusya-buyuk-saldr-bildirdi-4040438",
         "investing:https://tr.investing.com/news/insider-trading-news/goosehead-insurance-yoneticisi-serena-jones-205-milyon-dolarlk-hisse-satt-93CH-4040436",
@@ -609,7 +610,6 @@
         "investing:https://tr.investing.com/news/economy-news/merkez-bankalar-altnlarn-nerede-saklyor-4040432",
         "investing:https://tr.investing.com/news/economy-news/vatikan-roma-yaknlarnda-100-milyon-euroluk-enerji-tesisi-kuracak-4040428",
         "investing:https://tr.investing.com/news/economy-news/abdli-yargc-75-ulkeyi-kapsayan-gocmen-vizesi-yasagn-iptal-etti-4040424",
-        "investing:https://tr.investing.com/news/economy-news/cinin-robot-oyunlar-bilim-fuarndan-stratejik-vitrinine-donustu-4040423",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -630,6 +630,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/economy-news/cinin-robot-oyunlar-bilim-fuarndan-stratejik-vitrinine-donustu-4040423",
         "investing:https://tr.investing.com/news/economy-news/reform-uktaki-ic-catsmalar-faragen-planlarn-karstryor-4040420",
         "investing:https://tr.investing.com/news/economy-news/pentagon-stars-and-stripes-gazetesi-yonetimini-gorevden-ald-4040415",
         "investing:https://tr.investing.com/news/economy-news/abdnin-kanadaya-tarifeleri-ticaret-gorusmeleri-coktukten-sonra-yururluge-girdi-4040410",
@@ -1098,8 +1099,7 @@
         "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-1-aylk-zirveden-dustu-abdiran-geriliminde-haftalk-kazanc-yolunda-4038990",
         "investing:https://tr.investing.com/news/insider-trading-news/happen-svp-fergal-stack-213-milyon-dolarlk-hisse-satt-93CH-4038987",
         "investing:https://tr.investing.com/news/insider-trading-news/viridian-therapeutics-clo-348194-dolarlk-hisse-satt-93CH-4038986",
-        "investing:https://tr.investing.com/news/insider-trading-news/aeva-technologies-cfosu-sinha-148-milyon-dolarlk-hisse-satt-93CH-4038985",
-        "investing:https://tr.investing.com/news/insider-trading-news/micron-evp-sumit-sadana-1401-milyon-dolarlk-hisse-satt-93CH-4038983"
+        "investing:https://tr.investing.com/news/insider-trading-news/aeva-technologies-cfosu-sinha-148-milyon-dolarlk-hisse-satt-93CH-4038985"
       ]
     },
     "ntvpara": {
@@ -1312,8 +1312,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:8478ee33cd9e8:0",
+      "last_seen_key": "tradingview:beincrypto:597329eb7d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:597329eb7d9e8:0",
+        "tradingview:beincrypto:bcb99dfb7d9e8:0",
         "tradingview:beincrypto:8478ee33cd9e8:0",
         "tradingview:beincrypto:20a0d1ed5d9e8:0",
         "tradingview:fxstreet:f4ccf06a1d9e8:0",
@@ -1811,9 +1813,7 @@
         "tradingview:matriks:6688408:0",
         "tradingview:fxstreet:16ddd95e5d9e8:0",
         "tradingview:fxstreet:9ef1ef7b9d9e8:0",
-        "tradingview:fxstreet:63597fb4ed9e8:0",
-        "tradingview:fxstreet:dba099a5cd9e8:0",
-        "tradingview:fxstreet:b3a5be375d9e8:0"
+        "tradingview:fxstreet:63597fb4ed9e8:0"
       ]
     },
     "forexfactory": {
@@ -1831,6 +1831,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "zcash fiyat 8 y l n zirvesinde grayscale etf onay yaklas yor",
+      "link": "https://tr.tradingview.com/news/beincrypto:597329eb7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kripto para dunyas nda yeni tehdit yapay zeka suclular guclendiriyor",
+      "link": "https://tr.tradingview.com/news/beincrypto:bcb99dfb7d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "heritage insurance baskan johns 117 864 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/heritage-insurance-baskan-johns-117864-dolarlk-hisse-satt-93CH-4040442"
+    },
     {
       "source": "bloomberght",
       "text": "hangi yat r m arac kazand rd hafta yat r m araclar ndan borsa alt n doviz deger kazand",
@@ -9315,21 +9330,6 @@
       "source": "tradingview",
       "text": "samsung galaxy z serisi mediamarkt magazalar nda",
       "link": "https://tr.tradingview.com/news/matriks:6687990:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "sepas enerji dijital kanallar yla kolayl k sagl yor",
-      "link": "https://tr.tradingview.com/news/matriks:6687988:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "totalenergies euromaster is birligi 3 donemine girdi",
-      "link": "https://tr.tradingview.com/news/matriks:6687989:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "vodafone 2026 cev trendyol kad nlar avrupa voleybol sampiyonas n n teknoloji sponsoru oldu",
-      "link": "https://tr.tradingview.com/news/matriks:6687997:0"
     }
   ]
 }
