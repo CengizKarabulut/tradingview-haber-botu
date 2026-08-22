@@ -1278,8 +1278,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:49478aeafd9e8:0",
+      "last_seen_key": "tradingview:beincrypto:7e2693cb9d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:7e2693cb9d9e8:0",
+        "tradingview:beincrypto:d324a3b38d9e8:0",
         "tradingview:beincrypto:49478aeafd9e8:0",
         "tradingview:beincrypto:d928321c6d9e8:0",
         "tradingview:beincrypto:d6bcf3d52d9e8:0",
@@ -1777,9 +1779,7 @@
         "tradingview:beincrypto:8b479cc37d9e8:0",
         "tradingview:cointelegraph:9c0caee93d9e8:0",
         "tradingview:fxstreet:e87d4909dd9e8:0",
-        "tradingview:fxstreet:c3ac4d42ed9e8:0",
-        "tradingview:fxstreet:642f9afb8d9e8:0",
-        "tradingview:fxstreet:a52409925d9e8:0"
+        "tradingview:fxstreet:c3ac4d42ed9e8:0"
       ]
     },
     "forexfactory": {
@@ -1797,6 +1797,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "xrp trump guney kore 1 saatte 830 milyon dolar l k rekor",
+      "link": "https://tr.tradingview.com/news/beincrypto:7e2693cb9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin ethereum etf leri ekim den yana en guclu hafta 2 3 milyar dolar girisi",
+      "link": "https://tr.tradingview.com/news/beincrypto:d324a3b38d9e8:0"
+    },
     {
       "source": "investing",
       "text": "yapay zeka yat r m dongusu yavaslarsa olur",
@@ -9286,16 +9296,6 @@
       "source": "tradingview",
       "text": "cogu amerikal trump ailesinin kripto yat r mlar n n uygun olmad g n soyluyor anket",
       "link": "https://tr.tradingview.com/news/cointelegraph:c0aea5a40d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "fed den musalem simdi faizleri art rmak daha sonra daha agresif ad m onleyebilir",
-      "link": "https://tr.tradingview.com/news/fxstreet:e8c15b32dd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar geri al m n ard ndan deger kayb endiseleri bask olusturuyor scotiabank",
-      "link": "https://tr.tradingview.com/news/fxstreet:fb51235edd9e8:0"
     }
   ]
 }
