@@ -591,8 +591,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/rockwell-automation-cfosu-256-bin-dolarlk-hisse-satt-93CH-4040348",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/airbnb-cso-blecharczyk-504-bin-dolarlk-hisse-satt-93CH-4040350",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/airbnb-cso-blecharczyk-504-bin-dolarlk-hisse-satt-93CH-4040350",
+        "investing:https://tr.investing.com/news/economy-news/abd-ve-kanada-ithalatta-50-tarife-uygulamasn-onlemek-icin-anlasma-aryor-4040349",
         "investing:https://tr.investing.com/news/insider-trading-news/rockwell-automation-cfosu-256-bin-dolarlk-hisse-satt-93CH-4040348",
         "investing:https://tr.investing.com/news/insider-trading-news/sibone-cfosu-337138-dolar-degerinde-hisse-satt-93CH-4040347",
         "investing:https://tr.investing.com/news/insider-trading-news/evp-cfo-kevin-rhodes-486697-dolar-degerinde-hisse-satt-93CH-4040345",
@@ -601,8 +603,6 @@
         "investing:https://tr.investing.com/news/company-news/walmart-iletisim-direktoru-allyson-park-sirketten-ayrlyor-4040342",
         "investing:https://tr.investing.com/news/insider-trading-news/ethos-technologies-ceosu-28-milyon-dolarlk-hisse-satt-93CH-4040339",
         "investing:https://tr.investing.com/news/insider-trading-news/sibone-ceosu-laura-francis-1-milyon-dolarn-uzerinde-hisse-satt-93CH-4040338",
-        "investing:https://tr.investing.com/news/insider-trading-news/ethos-technologies-baskan-wang-39-milyon-dolarlk-hisse-satt-93CH-4040337",
-        "investing:https://tr.investing.com/news/insider-trading-news/ethos-technologies-cao-283664-dolarlk-hisse-satt-93CH-4040336",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -623,6 +623,8 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/insider-trading-news/ethos-technologies-baskan-wang-39-milyon-dolarlk-hisse-satt-93CH-4040337",
+        "investing:https://tr.investing.com/news/insider-trading-news/ethos-technologies-cao-283664-dolarlk-hisse-satt-93CH-4040336",
         "investing:https://tr.investing.com/news/insider-trading-news/upstart-baskan-sanjay-datta-565-bin-dolarlk-hisse-satt-93CH-4040335",
         "investing:https://tr.investing.com/news/insider-trading-news/upstart-hukuk-muduru-scott-darling-216216-dolar-degerinde-hisse-satt-93CH-4040334",
         "investing:https://tr.investing.com/news/insider-trading-news/nakamoto-ceosu-david-bailey-sirket-hisselerinden-209989-dolar-ald-93CH-4040333",
@@ -1090,9 +1092,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/clipper-realty-yoneticisi-sam-levinson-310591-dolar-degerinde-hisse-ald-93CH-4038909",
         "investing:https://tr.investing.com/news/insider-trading-news/dst-global-advisors-chime-financial-hisselerini-1569-milyon-dolara-satt-93CH-4038908",
         "investing:https://tr.investing.com/news/insider-trading-news/stark-novus-mali-direktoru-21219-dolar-degerinde-hisse-ald-93CH-4038907",
-        "investing:https://tr.investing.com/news/insider-trading-news/expedia-group-svp-ve-bas-muhasebe-muduru-909456-dolar-degerinde-hisse-satt-93CH-4038906",
-        "investing:https://tr.investing.com/news/company-news/parker-hannifin-200-dolar-temettu-acklad-93CH-4038904",
-        "investing:https://tr.investing.com/news/insider-trading-news/medical-properties-trust-ust-duzey-baskan-yardmcs-9545-dolar-degerinde-hisse-ald-93CH-4038902"
+        "investing:https://tr.investing.com/news/insider-trading-news/expedia-group-svp-ve-bas-muhasebe-muduru-909456-dolar-degerinde-hisse-satt-93CH-4038906"
       ]
     },
     "ntvpara": {
@@ -1305,6 +1305,7 @@
         "tradingview:fxstreet:e7bd098dcd9e8:0",
         "tradingview:beincrypto:243c25969d9e8:0",
         "tradingview:beincrypto:653bab6d2d9e8:0",
+        "tradingview:matriks:6690901:0",
         "tradingview:fxstreet:670766033d9e8:0",
         "tradingview:beincrypto:980092348d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
@@ -1796,8 +1797,7 @@
         "tradingview:fxstreet:c5c542fffd9e8:0",
         "tradingview:fxstreet:74798ed7ad9e8:0",
         "tradingview:fxstreet:f58f03723d9e8:0",
-        "tradingview:fxstreet:9d778cd62d9e8:0",
-        "tradingview:fxstreet:1ba96fba2d9e8:0"
+        "tradingview:fxstreet:9d778cd62d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1815,6 +1815,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "airbnb cso blecharczyk 504 bin dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/airbnb-cso-blecharczyk-504-bin-dolarlk-hisse-satt-93CH-4040350"
+    },
+    {
+      "source": "investing",
+      "text": "abd kanada ithalatta 50 tarife uygulamas n onlemek anlasma ar yor",
+      "link": "https://tr.investing.com/news/economy-news/abd-ve-kanada-ithalatta-50-tarife-uygulamasn-onlemek-icin-anlasma-aryor-4040349"
+    },
     {
       "source": "investing",
       "text": "rockwell automation cfo su 256 bin dolarl k hisse satt",
@@ -9304,16 +9314,6 @@
       "source": "kap",
       "text": "pgsus sirket genel bilgi formu sirket pegasus hava tasimaciligi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653651"
-    },
-    {
-      "source": "kap",
-      "text": "gerel kat l m finans ilkeleri bilgi formu sirket gersan elektrik ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653650"
-    },
-    {
-      "source": "kap",
-      "text": "bjkas cemzy bistech pay piyasas al m sat m sistemi duyurusu pay piyasas nda volatilite bazl tedbir sistemi sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653649"
     }
   ]
 }
