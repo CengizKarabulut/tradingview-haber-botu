@@ -507,8 +507,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/vergi-mufettisleri-yilin-ilk-6-ayinda-354-2-milyar-liralik-matrah-farkini-ortaya-cikardi-3786223",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/rusya-akaryakit-piyasasini-gecici-ithalatla-dengelemeyi-planliyor-3786224",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/rusya-akaryakit-piyasasini-gecici-ithalatla-dengelemeyi-planliyor-3786224",
         "bloomberght:https://www.bloomberght.com/vergi-mufettisleri-yilin-ilk-6-ayinda-354-2-milyar-liralik-matrah-farkini-ortaya-cikardi-3786223",
         "bloomberght:https://www.bloomberght.com/is-gucu-piyasasinda-yeni-donem-nitelikli-calisan-acigi-buyuyor-3786222",
         "bloomberght:https://www.bloomberght.com/hangi-yatirim-araci-ne-kazandirdi-3786221",
@@ -1276,8 +1277,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:44a087160d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:d6bcf3d52d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:d6bcf3d52d9e8:0",
         "tradingview:cointelegraph:44a087160d9e8:0",
         "tradingview:beincrypto:d2841f186d9e8:0",
         "tradingview:beincrypto:597329eb7d9e8:0",
@@ -1776,8 +1778,7 @@
         "tradingview:fxstreet:642f9afb8d9e8:0",
         "tradingview:fxstreet:a52409925d9e8:0",
         "tradingview:beincrypto:d0e65ee55d9e8:0",
-        "tradingview:matriks:6688408:0",
-        "tradingview:fxstreet:16ddd95e5d9e8:0"
+        "tradingview:matriks:6688408:0"
       ]
     },
     "forexfactory": {
@@ -1795,6 +1796,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "anthropic abd yapay zekaya tepki art yor ipo yu zora sokabilir",
+      "link": "https://tr.tradingview.com/news/beincrypto:d6bcf3d52d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "rusya akaryak t piyasas n gecici ithalatla dengelemeyi planl yor rusya basbakan yard mc s aleksandr novak ulkedeki akaryak t piyasas n gecici ithalat yoluyla dengelemeyi planlad klar n soyledi",
+      "link": "https://www.bloomberght.com/rusya-akaryakit-piyasasini-gecici-ithalatla-dengelemeyi-planliyor-3786224"
+    },
     {
       "source": "bloomberght",
       "text": "rusya akaryak t piyasas n gecici ithalatla dengelemeyi planl yor rusya basbakan yard mc s aleksandr novak ulkedeki akaryak t piyasas n gecici ithalat yoluyla dengelemeyi planlad klar n soyledi",
@@ -9284,16 +9295,6 @@
       "source": "tradingview",
       "text": "ege maden ihracatc lar birligi afyonkarahisar kutahya ankara merkezli 89 uyesi ihracat n y ld zlar odul toreni duzenledi",
       "link": "https://tr.tradingview.com/news/matriks:6688000:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "huawei dunya fotografc l k gunu nde c ragan saray n gun bat m na burudu",
-      "link": "https://tr.tradingview.com/news/matriks:6688003:0"
-    },
-    {
-      "source": "investing",
-      "text": "nacco industries ceyreklik 0 2625 dolar temettu ac klad",
-      "link": "https://tr.investing.com/news/company-news/nacco-industries-ceyreklik-02625-dolar-temettu-acklad-93CH-4038626"
     }
   ]
 }
