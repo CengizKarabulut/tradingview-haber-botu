@@ -600,8 +600,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-degeri-akfisteki-51-dususu-nasl-ongordu-93CH-4040459",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/jefferies-para-birimi-endiseleri-nedeniyle-metallerde-atlm-bekliyor-93CH-4040464",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/jefferies-para-birimi-endiseleri-nedeniyle-metallerde-atlm-bekliyor-93CH-4040464",
+        "investing:https://tr.investing.com/news/stock-market-news/bofa-hazine-ksa-pozisyonlar-sabit-euro-riskinde-arts-93CH-4040461",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-turk-lojistik-hissesinde-567-getiri-saglad-93CH-4040460",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-degeri-akfisteki-51-dususu-nasl-ongordu-93CH-4040459",
         "investing:https://tr.investing.com/news/insider-trading-news/elf-beauty-svpsi-joshua-franks-571800-dolarlk-hisse-satt-93CH-4040458",
         "investing:https://tr.investing.com/news/investment-ideas/world-kinectin-64luk-yukselisi-investingpro-gercege-uygun-deger-analizini-dogrulad-93CH-4040456",
@@ -609,9 +612,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/hem-hedge-fonlar-hem-yatrm-fonlar-bu-3-yapay-zeka-hissesini-ald-4040453",
         "investing:https://tr.investing.com/news/insider-trading-news/braze-cbo-astha-malik-464910-dolarlk-hisse-satt-93CH-4040448",
         "investing:https://tr.investing.com/news/insider-trading-news/braze-cto-hyman-282288-dolarlk-hisse-satt-93CH-4040446",
-        "investing:https://tr.investing.com/news/insider-trading-news/trinet-svp-anthony-treadway-74546-dolar-degerinde-hisse-satt-93CH-4040444",
-        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-hazine-kaynakl-ksa-sksmasnn-ardndan-77000-dolarn-uzerinde-4040443",
-        "investing:https://tr.investing.com/news/insider-trading-news/heritage-insurance-baskan-johns-117864-dolarlk-hisse-satt-93CH-4040442",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -632,6 +632,9 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/insider-trading-news/trinet-svp-anthony-treadway-74546-dolar-degerinde-hisse-satt-93CH-4040444",
+        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-hazine-kaynakl-ksa-sksmasnn-ardndan-77000-dolarn-uzerinde-4040443",
+        "investing:https://tr.investing.com/news/insider-trading-news/heritage-insurance-baskan-johns-117864-dolarlk-hisse-satt-93CH-4040442",
         "investing:https://tr.investing.com/news/insider-trading-news/circle-internet-yoneticisi-m-michele-burns-283653-dolarlk-hisse-satt-93CH-4040440",
         "investing:https://tr.investing.com/news/economy-news/ukrayna-ihalar-ozon-deposunu-vurdu-rusya-buyuk-saldr-bildirdi-4040438",
         "investing:https://tr.investing.com/news/insider-trading-news/goosehead-insurance-yoneticisi-serena-jones-205-milyon-dolarlk-hisse-satt-93CH-4040436",
@@ -1098,10 +1101,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/protagenic-therapeutics-icra-kurulu-baskan-garo-armen-9810-dolarlk-hisse-ald-93CH-4039010",
         "investing:https://tr.investing.com/news/insider-trading-news/keith-m-rosenbloom-american-vanguard-hisselerinden-122-milyon-dolar-satt-93CH-4039007",
         "investing:https://tr.investing.com/news/insider-trading-news/glaukos-yoneticisi-kliman-475000-dolarlk-hisse-satt-93CH-4038999",
-        "investing:https://tr.investing.com/news/insider-trading-news/delek-us-holdings-evp-reuven-spiegel-682099-dolarlk-hisse-satt-93CH-4038998",
-        "investing:https://tr.investing.com/news/stock-market-news/zip-co-hissesi-bugun-neden-dusuyor-93CH-4038997",
-        "investing:https://tr.investing.com/news/stock-market-news/fisher--paykel-healthcare-hisseleri-neden-yukseliyor-93CH-4038996",
-        "investing:https://tr.investing.com/news/insider-trading-news/quantumscape-ctosu-437000-dolarlk-hisse-satt-93CH-4038995"
+        "investing:https://tr.investing.com/news/insider-trading-news/delek-us-holdings-evp-reuven-spiegel-682099-dolarlk-hisse-satt-93CH-4038998"
       ]
     },
     "ntvpara": {
@@ -1188,8 +1188,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turizmin-baskenti-antalyada-10-milyon-turist-baraji-gecildi-954634.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/vergi-mufettisleri-3542-milyar-liralik-matrah-farkini-tespit-etti-954649.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/vergi-mufettisleri-3542-milyar-liralik-matrah-farkini-tespit-etti-954649.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turizmin-baskenti-antalyada-10-milyon-turist-baraji-gecildi-954634.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-satis-baskisi-etkili-oldu-954631.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/merkez-bankasindan-altin-karari-954626.html",
@@ -1833,6 +1834,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "vergi mufettisleri 354 2 milyar liral k matrah fark n tespit etti vergi mufettisleri y l n ilk yar s nda izaha davet rehberlik gozetim gibi vergiye gonullu uyumu art rmaya yonelik ad mlar n etkisiyle gecen y l n ayn donemine gore yuzde 57 art sla 354 2 milyar liral k matrah fark n tespit etti",
+      "link": "https://www.trthaber.com/haber/ekonomi/vergi-mufettisleri-3542-milyar-liralik-matrah-farkini-tespit-etti-954649.html"
+    },
+    {
+      "source": "investing",
+      "text": "jefferies para birimi endiseleri nedeniyle metallerde at l m bekliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/jefferies-para-birimi-endiseleri-nedeniyle-metallerde-atlm-bekliyor-93CH-4040464"
+    },
+    {
+      "source": "investing",
+      "text": "bofa hazine k sa pozisyonlar sabit euro riskinde art s",
+      "link": "https://tr.investing.com/news/stock-market-news/bofa-hazine-ksa-pozisyonlar-sabit-euro-riskinde-arts-93CH-4040461"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro nun gercege uygun degeri turk lojistik hissesinde 56 7 getiri saglad",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-turk-lojistik-hissesinde-567-getiri-saglad-93CH-4040460"
+    },
     {
       "source": "investing",
       "text": "investingpro adil degeri akfis teki 51 dususu nas l ongordu",
@@ -9312,26 +9333,6 @@
       "source": "investing",
       "text": "potter moore hissedarlar temettu tum kararlar onaylad",
       "link": "https://tr.investing.com/news/company-news/potter--moore-hissedarlar-temettu-ve-tum-kararlar-onaylad-93CH-4038607"
-    },
-    {
-      "source": "investing",
-      "text": "teekay tankers hissesi 91 56 dolarda 52 haftal k zirve yapt",
-      "link": "https://tr.investing.com/news/company-news/teekay-tankers-hissesi-9156-dolarda-52-haftalk-zirve-yapt-93CH-4038606"
-    },
-    {
-      "source": "investing",
-      "text": "bwx technologies hissesi 156 95 dolarda 52 haftan n dibini gordu",
-      "link": "https://tr.investing.com/news/company-news/bwx-technologies-hissesi-15695-dolarda-52-haftann-dibini-gordu-93CH-4038603"
-    },
-    {
-      "source": "bloomberght",
-      "text": "abd katar a yak t ikmal ucag sat s n onaylad abd d sisleri bakanl g katar a 4 5 milyar dolarl k 4 adet kc 46a havada yak t ikmal ucag sat s na onay verdi",
-      "link": "https://www.bloomberght.com/abd-katar-a-yakit-ikmal-ucagi-satisini-onayladi-3786068"
-    },
-    {
-      "source": "bloomberght",
-      "text": "husiler necran havaliman aramco tesisini hedef ald yemen deki iran destekli husiler suudi arabistan n necran kentindeki havaliman aramco ya ait tesisi iki iha sald r s yla hedef ald klar n ac klarken suudi arabistan dan henuz dogrulama gelmedi",
-      "link": "https://www.bloomberght.com/husiler-necran-havalimani-ve-aramco-tesisini-hedef-aldi-3786067"
     }
   ]
 }
