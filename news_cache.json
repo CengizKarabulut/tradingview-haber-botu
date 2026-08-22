@@ -507,8 +507,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abdnin-yuzde-50-tarife-karari-uzerine-kanadadan-muzakereleri-sonlandirma-adimi-3786219",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/hangi-yatirim-araci-ne-kazandirdi-3786221",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/hangi-yatirim-araci-ne-kazandirdi-3786221",
+        "bloomberght:https://www.bloomberght.com/iran-irak-a-ait-bazi-gemilere-hurmuz-bogazi-ndan-gecis-izni-verdi-3786220",
         "bloomberght:https://www.bloomberght.com/abdnin-yuzde-50-tarife-karari-uzerine-kanadadan-muzakereleri-sonlandirma-adimi-3786219",
         "bloomberght:https://www.bloomberght.com/7-baslikla-gecen-hafta-3786218",
         "bloomberght:https://www.bloomberght.com/birkac-yuz-dolar-secim-tahmin-piyasalarini-nasil-manipule-edebilir-3786217",
@@ -1829,6 +1831,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "hangi yat r m arac kazand rd hafta yat r m araclar ndan borsa alt n doviz deger kazand",
+      "link": "https://www.bloomberght.com/hangi-yatirim-araci-ne-kazandirdi-3786221"
+    },
+    {
+      "source": "bloomberght",
+      "text": "iran irak a ait baz gemilere hurmuz bogaz ndan gecis izni verdi iran n irak n talebi uzerine ulkeye ait baz gemilerin hurmuz bogaz ndan gecisine izin verdigi bildirildi",
+      "link": "https://www.bloomberght.com/iran-irak-a-ait-bazi-gemilere-hurmuz-bogazi-ndan-gecis-izni-verdi-3786220"
+    },
     {
       "source": "investing",
       "text": "circle internet yoneticisi m michele burns 283 653 dolarl k hisse satt",
@@ -9318,16 +9330,6 @@
       "source": "tradingview",
       "text": "vodafone 2026 cev trendyol kad nlar avrupa voleybol sampiyonas n n teknoloji sponsoru oldu",
       "link": "https://tr.tradingview.com/news/matriks:6687997:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yenileme abd hazine bakan bessent tahvil geri al mlar 4 milyar dolardan fazla olabilir",
-      "link": "https://tr.tradingview.com/news/matriks:6687983:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "wti iran daki c kmaz n petrolu desteklemesiyle uc haftan n en yuksek seviyesine ulast",
-      "link": "https://tr.tradingview.com/news/fxstreet:358b754a0d9e8:0"
     }
   ]
 }
