@@ -601,8 +601,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/bofa-alt-bdc-hissesinde-dusuk-performans-notunu-korudu-93CH-4040484",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/cta-hisse-senedi-pozisyonlar-iran-oncesi-seviyelere-dondu-bofa-4040491",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/cta-hisse-senedi-pozisyonlar-iran-oncesi-seviyelere-dondu-bofa-4040491",
         "investing:https://tr.investing.com/news/stock-market-news/bofa-alt-bdc-hissesinde-dusuk-performans-notunu-korudu-93CH-4040484",
         "investing:https://tr.investing.com/news/stock-market-news/cnh-hissesi-icin-2027-gorunumu-emtia-fiyatlar-nedeniyle-yatay-93CH-4040483",
         "investing:https://tr.investing.com/news/stock-market-news/jefferies-para-birimi-endiseleri-nedeniyle-metallerde-atlm-bekliyor-93CH-4040464",
@@ -612,7 +613,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/elf-beauty-svpsi-joshua-franks-571800-dolarlk-hisse-satt-93CH-4040458",
         "investing:https://tr.investing.com/news/investment-ideas/world-kinectin-64luk-yukselisi-investingpro-gercege-uygun-deger-analizini-dogrulad-93CH-4040456",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-ttmnin-38lik-dususunu-onceden-tespit-etti-93CH-4040454",
-        "investing:https://tr.investing.com/news/stock-market-news/hem-hedge-fonlar-hem-yatrm-fonlar-bu-3-yapay-zeka-hissesini-ald-4040453",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -633,6 +633,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/stock-market-news/hem-hedge-fonlar-hem-yatrm-fonlar-bu-3-yapay-zeka-hissesini-ald-4040453",
         "investing:https://tr.investing.com/news/insider-trading-news/braze-cbo-astha-malik-464910-dolarlk-hisse-satt-93CH-4040448",
         "investing:https://tr.investing.com/news/insider-trading-news/braze-cto-hyman-282288-dolarlk-hisse-satt-93CH-4040446",
         "investing:https://tr.investing.com/news/insider-trading-news/trinet-svp-anthony-treadway-74546-dolar-degerinde-hisse-satt-93CH-4040444",
@@ -1101,8 +1102,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/tempus-ai-cfosu-269-milyon-dolarlk-hisse-satt-93CH-4039013",
         "investing:https://tr.investing.com/news/insider-trading-news/tempus-ai-yoneticisi-polovin-154-milyon-dolarlk-hisse-satt-93CH-4039012",
         "investing:https://tr.investing.com/news/insider-trading-news/tempus-ai-muhasebe-direktoru-306341-dolar-degerinde-hisse-satt-93CH-4039011",
-        "investing:https://tr.investing.com/news/insider-trading-news/protagenic-therapeutics-icra-kurulu-baskan-garo-armen-9810-dolarlk-hisse-ald-93CH-4039010",
-        "investing:https://tr.investing.com/news/insider-trading-news/keith-m-rosenbloom-american-vanguard-hisselerinden-122-milyon-dolar-satt-93CH-4039007"
+        "investing:https://tr.investing.com/news/insider-trading-news/protagenic-therapeutics-icra-kurulu-baskan-garo-armen-9810-dolarlk-hisse-ald-93CH-4039010"
       ]
     },
     "ntvpara": {
@@ -1836,6 +1836,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "cta hisse senedi pozisyonlar iran oncesi seviyelere dondu bofa",
+      "link": "https://tr.investing.com/news/stock-market-news/cta-hisse-senedi-pozisyonlar-iran-oncesi-seviyelere-dondu-bofa-4040491"
+    },
     {
       "source": "tradingview",
       "text": "mica defi kasalar n n pesine dusuyor ancak duzenleme zor olacak",
@@ -9330,11 +9335,6 @@
       "source": "investing",
       "text": "deutsche bank abd kanada tarife indiriminin etkilerini degerlendirdi",
       "link": "https://tr.investing.com/news/stock-market-news/deutsche-bank-abdkanada-tarife-indiriminin-etkilerini-degerlendirdi-93CH-4038625"
-    },
-    {
-      "source": "investing",
-      "text": "conocophillips hissesi 135 87 dolarla 52 haftal k zirveye ulast",
-      "link": "https://tr.investing.com/news/company-news/conocophillips-hissesi-13587-dolarla-52-haftalk-zirveye-ulast-93CH-4038624"
     }
   ]
 }
