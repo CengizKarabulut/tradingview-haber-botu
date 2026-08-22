@@ -1317,8 +1317,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:d2841f186d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:44a087160d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:44a087160d9e8:0",
         "tradingview:beincrypto:d2841f186d9e8:0",
         "tradingview:beincrypto:597329eb7d9e8:0",
         "tradingview:beincrypto:bcb99dfb7d9e8:0",
@@ -1817,8 +1818,7 @@
         "tradingview:fxstreet:a52409925d9e8:0",
         "tradingview:beincrypto:d0e65ee55d9e8:0",
         "tradingview:matriks:6688408:0",
-        "tradingview:fxstreet:16ddd95e5d9e8:0",
-        "tradingview:fxstreet:9ef1ef7b9d9e8:0"
+        "tradingview:fxstreet:16ddd95e5d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1836,6 +1836,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "mica defi kasalar n n pesine dusuyor ancak duzenleme zor olacak",
+      "link": "https://tr.tradingview.com/news/cointelegraph:44a087160d9e8:0"
+    },
     {
       "source": "bloomberght",
       "text": "vergi mufettisleri y l n ilk 6 ay nda 354 2 milyar liral k matrah fark n ortaya c kard vergi mufettisleri y l n ilk yar s nda izaha davet rehberlik gozetim gibi vergiye gonullu uyumu art rmaya yonelik ad mlar n etkisiyle gecen y l n ayn donemine gore yuzde 57 art sla 354 2 milyar liral k matrah fark n tespit etti",
@@ -9330,11 +9335,6 @@
       "source": "investing",
       "text": "conocophillips hissesi 135 87 dolarla 52 haftal k zirveye ulast",
       "link": "https://tr.investing.com/news/company-news/conocophillips-hissesi-13587-dolarla-52-haftalk-zirveye-ulast-93CH-4038624"
-    },
-    {
-      "source": "investing",
-      "text": "aegon hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/aegon-hissesi-bugun-neden-dusuyor-93CH-4038618"
     }
   ]
 }
