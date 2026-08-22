@@ -1277,8 +1277,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:d6bcf3d52d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:d928321c6d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:d928321c6d9e8:0",
         "tradingview:beincrypto:d6bcf3d52d9e8:0",
         "tradingview:cointelegraph:44a087160d9e8:0",
         "tradingview:beincrypto:d2841f186d9e8:0",
@@ -1777,8 +1778,7 @@
         "tradingview:fxstreet:c3ac4d42ed9e8:0",
         "tradingview:fxstreet:642f9afb8d9e8:0",
         "tradingview:fxstreet:a52409925d9e8:0",
-        "tradingview:beincrypto:d0e65ee55d9e8:0",
-        "tradingview:matriks:6688408:0"
+        "tradingview:beincrypto:d0e65ee55d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1796,6 +1796,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bitcoin risk bolgesine yaklas yor rsi zirvede 70 000 dolar geri doner",
+      "link": "https://tr.tradingview.com/news/beincrypto:d928321c6d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "anthropic abd yapay zekaya tepki art yor ipo yu zora sokabilir",
@@ -9290,11 +9295,6 @@
       "source": "tradingview",
       "text": "corendon airlines chief operating officer coo gorevini yuruten at lay batu corendon airlines sorumlu muduru olarak atand",
       "link": "https://tr.tradingview.com/news/matriks:6688001:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ege maden ihracatc lar birligi afyonkarahisar kutahya ankara merkezli 89 uyesi ihracat n y ld zlar odul toreni duzenledi",
-      "link": "https://tr.tradingview.com/news/matriks:6688000:0"
     }
   ]
 }
