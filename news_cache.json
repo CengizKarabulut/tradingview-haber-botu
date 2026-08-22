@@ -1100,8 +1100,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-emlakcilar-ve-galericilere-ceza-yagmuru-100er-bin-lira-odeyecekler-1738370",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-unlu-cigerci-hileli-urun-listesinde-adana-kebabindan-ne-cikti-1738399",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-unlu-cigerci-hileli-urun-listesinde-adana-kebabindan-ne-cikti-1738399",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-emlakcilar-ve-galericilere-ceza-yagmuru-100er-bin-lira-odeyecekler-1738370",
         "ntvpara:https://www.ntv.com.tr/ntvpara/merkez-bankasindan-yastik-alti-altin-karari-teblig-yururlukten-kaldirildi-1738351",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-istanbul-ulasimina-yeni-duzenleme-150-gun-surecek-calisma-icin-tarih-verildi-1738294",
@@ -1182,8 +1183,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-satis-baskisi-etkili-oldu-954631.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turizmin-baskenti-antalyada-10-milyon-turist-baraji-gecildi-954634.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turizmin-baskenti-antalyada-10-milyon-turist-baraji-gecildi-954634.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-satis-baskisi-etkili-oldu-954631.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/merkez-bankasindan-altin-karari-954626.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-lityum-borat-bilesiklerini-yerli-imkanlarla-uretmeye-basladi-954625.html",
@@ -1826,6 +1828,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "turizmin baskenti antalya 10 milyon turist baraj gecildi dunyan n onemli turizm destinasyonlar aras nda yer alan antalya ya y l n bas ndan yana gelen yabanc turist say s 10 milyonu ast",
+      "link": "https://www.trthaber.com/haber/ekonomi/turizmin-baskenti-antalyada-10-milyon-turist-baraji-gecildi-954634.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "unlu cigerci hileli urun listesinde adana kebab ndan c kt tar m orman bakanl g n n taklit tagsis listesine turkiye genelinde bircok subesi bulunan cigercinin adana kebab girdi",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-unlu-cigerci-hileli-urun-listesinde-adana-kebabindan-ne-cikti-1738399"
+    },
     {
       "source": "trthaber",
       "text": "kuresel piyasalarda sat s bask s etkili oldu jeopolitik gerilimlerin devam etmesi artan petrol fiyatlar tahvil piyasas ndaki sert sat s bask s n n etkisiyle kuresel piyasalarda gecen hafta dusus egilimi one c kt",
@@ -9315,16 +9327,6 @@
       "source": "investing",
       "text": "exchange bank ceyreklik 1 35 dolar temettu ac klad ceo emekli olacak",
       "link": "https://tr.investing.com/news/company-news/exchange-bank-ceyreklik-135-dolar-temettu-acklad-ceo-emekli-olacak-93CH-4038600"
-    },
-    {
-      "source": "investing",
-      "text": "wex hissesi 199 71 dolarda 52 haftal k zirve yapt",
-      "link": "https://tr.investing.com/news/company-news/wex-hissesi-19971-dolarda-52-haftalk-zirve-yapt-93CH-4038599"
-    },
-    {
-      "source": "investing",
-      "text": "fed in musalem i eylul toplant s secenekleri ac k tutuyor",
-      "link": "https://tr.investing.com/news/economy-news/fedin-musalemi-eylul-toplants-icin-secenekleri-ack-tutuyor-4038598"
     }
   ]
 }
