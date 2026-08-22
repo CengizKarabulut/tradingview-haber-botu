@@ -595,8 +595,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/cinin-robot-oyunlar-bilim-fuarndan-stratejik-vitrinine-donustu-4040423",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/abdli-yargc-75-ulkeyi-kapsayan-gocmen-vizesi-yasagn-iptal-etti-4040424",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/abdli-yargc-75-ulkeyi-kapsayan-gocmen-vizesi-yasagn-iptal-etti-4040424",
         "investing:https://tr.investing.com/news/economy-news/cinin-robot-oyunlar-bilim-fuarndan-stratejik-vitrinine-donustu-4040423",
         "investing:https://tr.investing.com/news/economy-news/reform-uktaki-ic-catsmalar-faragen-planlarn-karstryor-4040420",
         "investing:https://tr.investing.com/news/economy-news/pentagon-stars-and-stripes-gazetesi-yonetimini-gorevden-ald-4040415",
@@ -606,7 +607,6 @@
         "investing:https://tr.investing.com/news/company-news/modernann-kanser-assnda-atlm-biyoteknolojiye-umut-verdi-4040406",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-coosu-582427-dolarlk-hisse-satt-93CH-4040401",
         "investing:https://tr.investing.com/news/insider-trading-news/archer-aviation-csosu-631000-dolarlk-hisse-satt-93CH-4040402",
-        "investing:https://tr.investing.com/news/insider-trading-news/rivian-cfosu-claire-mcdonough-128368-dolarlk-hisse-satt-93CH-4040400",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -627,6 +627,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/insider-trading-news/rivian-cfosu-claire-mcdonough-128368-dolarlk-hisse-satt-93CH-4040400",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-193-milyon-dolarlk-hisse-satt-93CH-4040399",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-cso-brian-venturo-542-bin-dolar-degerinde-a-snf-hisse-satt-93CH-4040398",
         "investing:https://tr.investing.com/news/insider-trading-news/goodrxin-10-hissedar-francisco-partners-42-milyon-dolarlk-hisse-satt-93CH-4040397",
@@ -1095,8 +1096,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/american-states-water-yoneticisi-anne-holloway-79969-dolar-hisse-satt-93CH-4038943",
         "investing:https://tr.investing.com/news/stock-market-news/avustralya-imalat-ve-hizmet-pmi-agustosta-istikrarl-buyudu-93CH-4038942",
         "investing:https://tr.investing.com/news/stock-market-news/tpg-telecom-mobil-kazanclarla-karn-artrd-93CH-4038941",
-        "investing:https://tr.investing.com/news/insider-trading-news/meta-platforms-cfosu-susan-li-506-milyon-dolarlk-hisse-satt-93CH-4038940",
-        "investing:https://tr.investing.com/news/insider-trading-news/appfolio-yoneticisi-maurice-duca-164-milyon-dolarlk-hisse-satt-93CH-4038939"
+        "investing:https://tr.investing.com/news/insider-trading-news/meta-platforms-cfosu-susan-li-506-milyon-dolarlk-hisse-satt-93CH-4038940"
       ]
     },
     "ntvpara": {
@@ -1823,6 +1823,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "abd li yarg c 75 ulkeyi kapsayan gocmen vizesi yasag n iptal etti",
+      "link": "https://tr.investing.com/news/economy-news/abdli-yargc-75-ulkeyi-kapsayan-gocmen-vizesi-yasagn-iptal-etti-4040424"
+    },
     {
       "source": "trthaber",
       "text": "alt n petrol yukseliste borsa istanbul 14 bin 500 puan ast jeopolitik riskler tahvil piyasas ndaki hareketlilik para politikalar na yonelik sinyallerin etkisiyle kuresel piyasalar haftay yuksek hareketlilikle geride b rakt brent petrolun varili 95 dolar seviyelerini gorurken gram alt n",
@@ -9317,11 +9322,6 @@
       "source": "kap",
       "text": "miatk kat l m finans ilkeleri bilgi formu sirket mia teknoloji a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653690"
-    },
-    {
-      "source": "kap",
-      "text": "gpo sirket genel bilgi formu sirket azimut portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653689"
     }
   ]
 }
