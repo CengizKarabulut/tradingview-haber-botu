@@ -1071,8 +1071,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-vergi-trafik-cezasi-ogrenim-kredisi-borcu-olanlar-dikkat-son-tarih-31-agustos-1738506",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/italya-ve-vatikandan-100-milyon-euroluk-yenilenebilir-enerji-projesi-1738515",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/italya-ve-vatikandan-100-milyon-euroluk-yenilenebilir-enerji-projesi-1738515",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-vergi-trafik-cezasi-ogrenim-kredisi-borcu-olanlar-dikkat-son-tarih-31-agustos-1738506",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-unlu-cigerci-hileli-urun-listesinde-adana-kebabindan-ne-cikti-1738399",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-emlakcilar-ve-galericilere-ceza-yagmuru-100er-bin-lira-odeyecekler-1738370",
@@ -1155,8 +1156,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/ticarette-teknik-engellere-iliskin-internet-platformu-yenilendi-954680.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/zayiflayan-dolar-ve-arz-endiseleri-emtia-fiyatlarini-yukseltti-954683.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/zayiflayan-dolar-ve-arz-endiseleri-emtia-fiyatlarini-yukseltti-954683.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ticarette-teknik-engellere-iliskin-internet-platformu-yenilendi-954680.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/trabzon-havalimaninda-gunluk-ucak-trafigi-rekoru-kirildi-954664.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kosgeb-destek-programinin-3uncu-basvuru-donemi-basladi-954654.html",
@@ -1804,6 +1806,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "zay flayan dolar arz endiseleri emtia fiyatlar n yukseltti emtia piyasalar nda tamamlanan haftada abd nin mali gorunumune iliskin kayg lar dolar n gerilemesi degerli metalleri desteklerken hurmuz bogaz ndaki sevkiyat aksamalar enerji fiyatlar n hava verim riskleri ise tar m emtialar n y",
+      "link": "https://www.trthaber.com/haber/ekonomi/zayiflayan-dolar-ve-arz-endiseleri-emtia-fiyatlarini-yukseltti-954683.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "italya vatikan dan 100 milyon euroluk yenilenebilir enerji projesi vatikan italya is birlikleri dogrultusunda elektrik ihtiyac n kars lamak hem gunes enerjisi hem tar mdan faydalanacak santral uretmeyi planl yor",
+      "link": "https://www.ntv.com.tr/ntvpara/italya-ve-vatikandan-100-milyon-euroluk-yenilenebilir-enerji-projesi-1738515"
+    },
     {
       "source": "investing",
       "text": "alibaba yapay zeka 10 2 milyar dolarl k hisse sat s planl yor",
@@ -9293,16 +9305,6 @@
       "source": "kap",
       "text": "ppr finansal rapor sirket papara menkul degerler a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653705"
-    },
-    {
-      "source": "kap",
-      "text": "avtur kat l m finans ilkeleri bilgi formu sirket avrasya petrol turistik tesisler yatirimlar a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653704"
-    },
-    {
-      "source": "kap",
-      "text": "grm gryat ozel durum ac klamas genel quick sigorta a s fiyat istikrar surecinin sona ermesi hk sirket garanti yatirim menkul kiymetler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653703"
     }
   ]
 }
