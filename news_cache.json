@@ -1297,8 +1297,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:f3178ba68d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:c760eddced9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:c760eddced9e8:0",
         "tradingview:beincrypto:f3178ba68d9e8:0",
         "tradingview:beincrypto:5bfdd5242d9e8:0",
         "tradingview:beincrypto:368bd802fd9e8:0",
@@ -1797,8 +1798,7 @@
         "tradingview:matriks:6688473:0",
         "tradingview:matriks:6688487:0",
         "tradingview:matriks:6688496:0",
-        "tradingview:matriks:6688485:0",
-        "tradingview:matriks:6688465:0"
+        "tradingview:matriks:6688485:0"
       ]
     },
     "forexfactory": {
@@ -1816,6 +1816,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "term labs a sald r 8 5 milyon dolar l k yonetim ac g",
+      "link": "https://tr.tradingview.com/news/beincrypto:c760eddced9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "rashida tlaib n kripto suphesi portfoyunde bitcoin ethereum etf leri",
@@ -9310,11 +9315,6 @@
       "source": "kap",
       "text": "vkgyo maddi duran varl k al m sirketimiz maddi duran varl k al m sirket vakif gayrimenkul yatirim ortakligi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653712"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n hazine geri al m n n ard ndan abd getirileri toparlan rken geri cekiliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:68d204d59d9e8:0"
     }
   ]
 }
