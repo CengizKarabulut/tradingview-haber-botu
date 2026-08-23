@@ -71,8 +71,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/japonyann-hisse-senedi-piyasas-2023-sonu-gibi-gorunuyor-4040591",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/egemen-yapay-zeka-neden-ai-harcama-dongusunu-zayflatmak-yerine-guclendirmeli-4040594",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/egemen-yapay-zeka-neden-ai-harcama-dongusunu-zayflatmak-yerine-guclendirmeli-4040594",
         "investing:https://tr.investing.com/news/stock-market-news/japonyann-hisse-senedi-piyasas-2023-sonu-gibi-gorunuyor-4040591",
         "investing:https://tr.investing.com/news/commodities-news/italya-artan-akaryakt-fiyatlar-nedeniyle-dizel-vergisi-indirimini-carsamba-gunune-kadar-uzatt-93CH-4040589",
         "investing:https://tr.investing.com/news/stock-market-news/burry-alibabadan-ckt-degerleme-endisesiyle-jdcomda-buyuk-pozisyon-ald-4040587",
@@ -82,7 +83,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/hershey-mondelezi-satn-alabilir-mi-4040580",
         "investing:https://tr.investing.com/news/analyst-ratings/ubs-klarnann-hisse-notunu-dusurdu-93CH-4040575",
         "investing:https://tr.investing.com/news/stock-market-news/iran-yaptrm-endiseleri-petrol-fiyatlarn-yukseltti-korfez-borsalar-artt-93CH-4040573",
-        "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-secimi-enerji-hissesi-cuma-gunu-12-daha-yukseldi-4040552",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -103,6 +103,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-secimi-enerji-hissesi-cuma-gunu-12-daha-yukseldi-4040552",
         "investing:https://tr.investing.com/news/investment-ideas/adil-deger-cagrs-sonras-ambalaj-hissesi-56-kazandrd-93CH-4040549",
         "investing:https://tr.investing.com/news/investment-ideas/adil-deger-modelleri-kiler-holdingin-51lik-dususunu-nasl-ongordu-93CH-4040548",
         "investing:https://tr.investing.com/news/stock-market-news/citi-nvidia-hissesinin-kazanc-sonras-yukselecegini-bekliyor-4040545",
@@ -571,8 +572,7 @@
         "investing:https://tr.investing.com/news/economic-indicators/hindistann-ozel-sektor-buyumesi-agustosta-hizmetler-sayesinde-artt-93CH-4039064",
         "investing:https://tr.investing.com/news/insider-trading-news/arthur-j-gallagher-baskan-yardmcs-899-bin-dolarlk-hisse-satt-93CH-4039062",
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
-        "investing:https://tr.investing.com/news/insider-trading-news/coreweave-ceosu-295-milyon-dolarlk-hisse-satt-93CH-4039061",
-        "investing:https://tr.investing.com/news/economy-news/bessent-abdnin-irana-tarihin-en-sert-yaptrmlarn-uygulayacagn-soyledi-4039058"
+        "investing:https://tr.investing.com/news/insider-trading-news/coreweave-ceosu-295-milyon-dolarlk-hisse-satt-93CH-4039061"
       ]
     },
     "ntvpara": {
@@ -1321,6 +1321,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "egemen yapay zeka neden ai harcama dongusunu zay flatmak yerine guclendirmeli",
+      "link": "https://tr.investing.com/news/stock-market-news/egemen-yapay-zeka-neden-ai-harcama-dongusunu-zayflatmak-yerine-guclendirmeli-4040594"
+    },
     {
       "source": "investing",
       "text": "japonya n n hisse senedi piyasas 2023 sonu gibi gorunuyor",
@@ -8815,11 +8820,6 @@
       "source": "tradingview",
       "text": "yuksek petrol fiyatlar n n bask yapmas yla japon yeni daha kotu performans gosteriyor abd dolar toparlan yor",
       "link": "https://tr.tradingview.com/news/fxstreet:8e463bb8ed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd borcu 40 trilyon dolar ast durum bitcoin in anlama geldigine dair tart smalar korukluyor",
-      "link": "https://tr.tradingview.com/news/cointelegraph:1b388601dd9e8:0"
     }
   ]
 }
