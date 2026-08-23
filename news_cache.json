@@ -1160,8 +1160,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti-954692.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ikinci-yuksek-hizli-tren-hatti-15-yasinda-954699.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ikinci-yuksek-hizli-tren-hatti-15-yasinda-954699.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti-954692.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-3-haftadir-yatirimcisinin-yuzunu-gulduruyor-954688.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/iskurun-dabis-uygulamasindan-353-bin-kisi-faydalandi-954687.html",
@@ -1813,6 +1814,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "turkiye nin ikinci yuksek h zl tren hatt 15 yas nda bakan uraloglu 15 y l once ac lan ankara konya yuksek h zl tren yht hatt n n 22 8 milyon yolcuya hizmet verdigini duyurdu",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-ikinci-yuksek-hizli-tren-hatti-15-yasinda-954699.html"
+    },
     {
       "source": "ntvpara",
       "text": "bakan uraloglu ankara konya yht 15 y lda 22 8 milyon yolcuya hizmet verdi ulast rma altyap bakan abdulkadir uraloglu 15 y l once ac lan ankara konya yuksek h zl tren yht hatt n n 22 8 milyon yolcuya hizmet verdigini soyledi",
@@ -9307,11 +9313,6 @@
       "source": "investing",
       "text": "first citizens bancshares yoneticisi morais 108 405 dolar degerinde hisse ald",
       "link": "https://tr.investing.com/news/insider-trading-news/first-citizens-bancshares-yoneticisi-morais-108405-dolar-degerinde-hisse-ald-93CH-4038643"
-    },
-    {
-      "source": "investing",
-      "text": "solaris energy infrastructure hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/solaris-energy-infrastructure-hissesi-bugun-neden-dusuyor-93CH-4038642"
     }
   ]
 }
