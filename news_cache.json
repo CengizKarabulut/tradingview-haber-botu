@@ -507,8 +507,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-mahkemesi-trump-in-75-ulkeden-gelen-gocmen-vizelerini-askiya-alma-kararini-durdurdu-3786227",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/iran-abd-ye-ekonomik-savasta-yardim-eden-bolge-ulkelerinin-cikarlarini-vururuz-3786228",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/iran-abd-ye-ekonomik-savasta-yardim-eden-bolge-ulkelerinin-cikarlarini-vururuz-3786228",
         "bloomberght:https://www.bloomberght.com/abd-mahkemesi-trump-in-75-ulkeden-gelen-gocmen-vizelerini-askiya-alma-kararini-durdurdu-3786227",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-23-agustos-2026-3786226",
         "bloomberght:https://www.bloomberght.com/trump-kanada-abd-de-bir-eyalet-olmadan-eyalet-olmanin-faydalarindan-yararlanmak-istiyor-3786225",
@@ -1153,8 +1154,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/trabzon-havalimaninda-gunluk-ucak-trafigi-rekoru-kirildi-954664.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/ticarette-teknik-engellere-iliskin-internet-platformu-yenilendi-954680.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/ticarette-teknik-engellere-iliskin-internet-platformu-yenilendi-954680.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/trabzon-havalimaninda-gunluk-ucak-trafigi-rekoru-kirildi-954664.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kosgeb-destek-programinin-3uncu-basvuru-donemi-basladi-954654.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/vergi-mufettisleri-3542-milyar-liralik-matrah-farkini-tespit-etti-954649.html",
@@ -1801,6 +1803,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "ticarette teknik engellere iliskin internet platformu yenilendi ticaret bakanl g ihracatc lar n d s pazarlardaki teknik duzenlemeleri urun guvenligi uygulamalar n onceden takip edebilmelerini kars last klar teknik engelleri iletebilmelerini saglayan ticarette teknik engeller tte web platformu",
+      "link": "https://www.trthaber.com/haber/ekonomi/ticarette-teknik-engellere-iliskin-internet-platformu-yenilendi-954680.html"
+    },
+    {
+      "source": "bloomberght",
+      "text": "iran abd ye ekonomik savasta yard m eden bolge ulkelerinin c karlar n vururuz iran ulusal guvenlik yuksek konseyi genel sekreteri muhsin r zai abd nin ekonomik savas na yard mc olan bolge ulkelerinin c karlar n hedef alacaklar n soyledi",
+      "link": "https://www.bloomberght.com/iran-abd-ye-ekonomik-savasta-yardim-eden-bolge-ulkelerinin-cikarlarini-vururuz-3786228"
+    },
     {
       "source": "ntvpara",
       "text": "vergi trafik cezas ogrenim kredisi borcu olanlar dikkat tarih 31 agustos vergi borclar na yonelik 72 aya kadar taksitlendirme duzenlemesinden faydalanmak isteyen mukelleflerin 31 agustos pazartesi gunune kadar basvuru yapmas gerekiyor",
@@ -9290,16 +9302,6 @@
       "source": "investing",
       "text": "twenty one capital hissesi neden yukseliyor",
       "link": "https://tr.investing.com/news/stock-market-news/twenty-one-capital-hissesi-neden-yukseliyor-93CH-4038632"
-    },
-    {
-      "source": "investing",
-      "text": "crowdstrike hisseleri neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/crowdstrike-hisseleri-neden-dusuyor-93CH-4038631"
-    },
-    {
-      "source": "investing",
-      "text": "tempus ai hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/tempus-ai-hissesi-bugun-neden-yukseliyor-93CH-4038630"
     }
   ]
 }
