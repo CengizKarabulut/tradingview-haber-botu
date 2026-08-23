@@ -568,8 +568,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/adil-deger-cagrs-sonras-ambalaj-hissesi-56-kazandrd-93CH-4040549",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-secimi-enerji-hissesi-cuma-gunu-12-daha-yukseldi-4040552",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-secimi-enerji-hissesi-cuma-gunu-12-daha-yukseldi-4040552",
         "investing:https://tr.investing.com/news/investment-ideas/adil-deger-cagrs-sonras-ambalaj-hissesi-56-kazandrd-93CH-4040549",
         "investing:https://tr.investing.com/news/investment-ideas/adil-deger-modelleri-kiler-holdingin-51lik-dususunu-nasl-ongordu-93CH-4040548",
         "investing:https://tr.investing.com/news/stock-market-news/citi-nvidia-hissesinin-kazanc-sonras-yukselecegini-bekliyor-4040545",
@@ -579,7 +580,6 @@
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-77000-dolarn-altna-geriledi-ralli-madencilik-ekonomisini-destekledi-4040538",
         "investing:https://tr.investing.com/news/economy-news/kanada-abdnin-aluminyum-ihtiyacn-tek-basna-karslayabilir-mi-4040533",
         "investing:https://tr.investing.com/news/forex-news/bcaya-gore-abd-dolarn-bu-para-birimlerine-kars-satn-4040530",
-        "investing:https://tr.investing.com/news/economy-news/iran-komsularn-abd-yaptrmlarna-katlmamalar-konusunda-uyard-4040528",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -600,6 +600,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/economy-news/iran-komsularn-abd-yaptrmlarna-katlmamalar-konusunda-uyard-4040528",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-5-buyuk-yapay-zeka-hamlesi-4040522",
         "investing:https://tr.investing.com/news/company-news/alibaba-yapay-zeka-icin-102-milyar-dolarlk-hisse-sats-planlyor-4040525",
         "investing:https://tr.investing.com/news/stock-market-news/guney-koreli-bireysel-yatrmclar-tarihi-dususun-ardndan-40lk-kuponlarn-pesinde-4040523",
@@ -1068,8 +1069,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/lintec-hissesi-neden-dusuyor-93CH-4039044",
         "investing:https://tr.investing.com/news/stock-market-news/uniqlonun-sahibi-fast-retailing-hissesi-neden-dusuyor-93CH-4039043",
         "investing:https://tr.investing.com/news/stock-market-news/asya-borsalar-toparland-kospi-yukseldi-ancak-haftalk-kayplar-suruyor-4039041",
-        "investing:https://tr.investing.com/news/stock-market-news/metaplanet-hissesi-bugun-neden-yukseliyor-93CH-4039039",
-        "investing:https://tr.investing.com/news/stock-market-news/samsung-hisseleri-72-milyar-dolar-asan-hissedar-getirisi-planyla-yukseldi-4039038"
+        "investing:https://tr.investing.com/news/stock-market-news/metaplanet-hissesi-bugun-neden-yukseliyor-93CH-4039039"
       ]
     },
     "ntvpara": {
@@ -1816,6 +1816,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "cuma gunu 12 daha yukselen yapay zeka hissesi art k 90 kazand rd",
+      "link": "https://tr.investing.com/news/stock-market-news/yapay-zeka-secimi-enerji-hissesi-cuma-gunu-12-daha-yukseldi-4040552"
+    },
     {
       "source": "tradingview",
       "text": "term labs a sald r 8 5 milyon dolar l k yonetim ac g",
@@ -9310,11 +9315,6 @@
       "source": "kap",
       "text": "gipta pay al m sat m bildirimi pay sat s hk sirket gipta ofis kirtasiye promosyon urunleri imalat sanayi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653713"
-    },
-    {
-      "source": "kap",
-      "text": "vkgyo maddi duran varl k al m sirketimiz maddi duran varl k al m sirket vakif gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653712"
     }
   ]
 }
