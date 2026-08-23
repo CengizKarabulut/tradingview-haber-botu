@@ -1298,8 +1298,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:a32084ca8d9e8:0",
+      "last_seen_key": "tradingview:matriks:6692503:0",
       "seen_keys": [
+        "tradingview:matriks:6692503:0",
         "tradingview:beincrypto:a32084ca8d9e8:0",
         "tradingview:beincrypto:c760eddced9e8:0",
         "tradingview:beincrypto:f3178ba68d9e8:0",
@@ -1798,8 +1799,7 @@
         "tradingview:matriks:6688497:0",
         "tradingview:matriks:6688488:0",
         "tradingview:matriks:6688473:0",
-        "tradingview:matriks:6688487:0",
-        "tradingview:matriks:6688496:0"
+        "tradingview:matriks:6688487:0"
       ]
     },
     "forexfactory": {
@@ -1817,6 +1817,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "logitech red dot design awards 2026 dort odulun sahibi oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6692503:0"
+    },
     {
       "source": "tradingview",
       "text": "alibaba dan rekor 10 milyar dolar l k hisse sat s yapay zeka yar s nda yeni hamle",
@@ -9311,11 +9316,6 @@
       "source": "investing",
       "text": "bank of montreal uluslararas sermaye piyasalar birimini yeniden yap land r yor",
       "link": "https://tr.investing.com/news/stock-market-news/bank-of-montreal-uluslararas-sermaye-piyasalar-birimini-yeniden-yaplandryor-93CH-4038659"
-    },
-    {
-      "source": "investing",
-      "text": "truist alt n faiz gorunumu dolar zay fl g yla notre yukseltti",
-      "link": "https://tr.investing.com/news/commodities-news/truist-altn-faiz-gorunumu-ve-dolar-zayflgyla-notre-yukseltti-93CH-4038658"
     }
   ]
 }
