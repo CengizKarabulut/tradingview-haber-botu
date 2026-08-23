@@ -802,8 +802,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:6a02a6e76d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:0db02434bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:0db02434bd9e8:0",
+        "tradingview:beincrypto:c5da07c60d9e8:0",
         "tradingview:beincrypto:6a02a6e76d9e8:0",
         "tradingview:beincrypto:14f9b946cd9e8:0",
         "tradingview:beincrypto:5691c66e2d9e8:0",
@@ -1301,9 +1303,7 @@
         "tradingview:matriks:6688474:0",
         "tradingview:matriks:6688486:0",
         "tradingview:matriks:6688483:0",
-        "tradingview:matriks:6688482:0",
-        "tradingview:matriks:6688478:0",
-        "tradingview:matriks:6688480:0"
+        "tradingview:matriks:6688482:0"
       ]
     },
     "forexfactory": {
@@ -1321,6 +1321,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda perakende sat slar 2 ceyrekte ceyreklik bazda 0 1 beklentisi kars s nda 0 5 dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:0db02434bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ledger guvenlik ac g ai sirketi ortaya c kard cto korku taktikleri dedi",
+      "link": "https://tr.tradingview.com/news/beincrypto:c5da07c60d9e8:0"
+    },
     {
       "source": "investing",
       "text": "egemen yapay zeka neden ai harcama dongusunu zay flatmak yerine guclendirmeli",
@@ -8810,16 +8820,6 @@
       "source": "kap",
       "text": "ditas kat l m finans ilkeleri bilgi formu sirket ditas bdy yedek parca imalat teknik a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653716"
-    },
-    {
-      "source": "tradingview",
-      "text": "gumus fiyat analizi xag usd rallisi genislerken 100 gunluk sma y test ediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:53df6a689d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yuksek petrol fiyatlar n n bask yapmas yla japon yeni daha kotu performans gosteriyor abd dolar toparlan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:8e463bb8ed9e8:0"
     }
   ]
 }
