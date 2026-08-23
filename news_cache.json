@@ -1301,8 +1301,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:14f9b946cd9e8:0",
+      "last_seen_key": "tradingview:beincrypto:6a02a6e76d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:6a02a6e76d9e8:0",
         "tradingview:beincrypto:14f9b946cd9e8:0",
         "tradingview:beincrypto:5691c66e2d9e8:0",
         "tradingview:beincrypto:6608dc824d9e8:0",
@@ -1801,8 +1802,7 @@
         "tradingview:matriks:6688483:0",
         "tradingview:matriks:6688482:0",
         "tradingview:matriks:6688478:0",
-        "tradingview:matriks:6688480:0",
-        "tradingview:matriks:6688481:0"
+        "tradingview:matriks:6688480:0"
       ]
     },
     "forexfactory": {
@@ -1820,6 +1820,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "circle daki 42 lik dusus sonras cathie wood dan analistlere sert c k s",
+      "link": "https://tr.tradingview.com/news/beincrypto:6a02a6e76d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "japonya borclanma maliyeti rekorda zay f yen bitcoin i etkiler",
@@ -9314,11 +9319,6 @@
       "source": "investing",
       "text": "netsol technologies saas donusumunu h zland r yor",
       "link": "https://tr.investing.com/news/transcripts/netsol-technologies-saas-donusumunu-hzlandryor-93CH-4038676"
-    },
-    {
-      "source": "investing",
-      "text": "salem media waterstone vakf taraf ndan hisse bas na 1 dolardan sat n al nd",
-      "link": "https://tr.investing.com/news/company-news/salem-media-waterstone-vakf-tarafndan-hisse-basna-1-dolardan-satn-alnd-93CH-4038674"
     }
   ]
 }
