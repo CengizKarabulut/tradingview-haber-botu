@@ -1073,8 +1073,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-ankara-konya-yht-15-yilda-228-milyon-yolcuya-hizmet-verdi-1738559",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/kamuda-484-milyar-liralik-tasarruf-1738570",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/kamuda-484-milyar-liralik-tasarruf-1738570",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-ankara-konya-yht-15-yilda-228-milyon-yolcuya-hizmet-verdi-1738559",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-bakanliktan-ailelere-ucretsiz-danismanlik-destegi-1738543",
         "ntvpara:https://www.ntv.com.tr/ntvpara/italya-ve-vatikandan-100-milyon-euroluk-yenilenebilir-enerji-projesi-1738515",
@@ -1160,8 +1161,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ikinci-yuksek-hizli-tren-hatti-15-yasinda-954699.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-simsek-kamuda-484-milyar-tl-tasarruf-sagladik-954701.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-simsek-kamuda-484-milyar-tl-tasarruf-sagladik-954701.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ikinci-yuksek-hizli-tren-hatti-15-yasinda-954699.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti-954692.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-3-haftadir-yatirimcisinin-yuzunu-gulduruyor-954688.html",
@@ -1814,6 +1816,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "bakan simsek kamuda 484 milyar tl tasarruf saglad k hazine maliye bakan mehmet simsek kamuda tasarruf tedbirlerine iliskin kamuda 2024 2025 doneminde 484 milyar tl tasarruf saglad k tutar alt bakanl g n 2026 y l toplam butcesini as yor dedi",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-kamuda-484-milyar-tl-tasarruf-sagladik-954701.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "kamuda 484 milyar liral k tasarruf 2024 2025 y llar nda 6 bakanl g n y lki toplam butcesini asacak sekilde 484 milyar lira tasarruf elde edildi",
+      "link": "https://www.ntv.com.tr/ntvpara/kamuda-484-milyar-liralik-tasarruf-1738570"
+    },
     {
       "source": "tradingview",
       "text": "trump coin tart smas eric trump kripto iddialar na noktay koydu",
@@ -9303,16 +9315,6 @@
       "source": "investing",
       "text": "high roller tahmin piyasalar na yoneliyor",
       "link": "https://tr.investing.com/news/transcripts/high-roller-tahmin-piyasalarna-yoneliyor-93CH-4038646"
-    },
-    {
-      "source": "kap",
-      "text": "klypv sirket genel bilgi formu sirket kalyon gunes teknolojileri uretim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653711"
-    },
-    {
-      "source": "kap",
-      "text": "klypv ozel durum ac klamas genel yonetim kurulu uyeleri ust duzey yonetici degisiklikleri hk sirket kalyon gunes teknolojileri uretim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653710"
     }
   ]
 }
