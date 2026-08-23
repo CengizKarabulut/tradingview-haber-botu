@@ -1301,11 +1301,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:6608dc824d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:5691c66e2d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:5691c66e2d9e8:0",
         "tradingview:beincrypto:6608dc824d9e8:0",
         "tradingview:cointelegraph:c52c4d9a8d9e8:0",
         "tradingview:matriks:6692503:0",
+        "tradingview:beincrypto:786898ce4d9e8:0",
         "tradingview:beincrypto:a32084ca8d9e8:0",
         "tradingview:beincrypto:c760eddced9e8:0",
         "tradingview:beincrypto:f3178ba68d9e8:0",
@@ -1800,9 +1802,7 @@
         "tradingview:matriks:6688478:0",
         "tradingview:matriks:6688480:0",
         "tradingview:matriks:6688481:0",
-        "tradingview:matriks:6688479:0",
-        "tradingview:matriks:6688497:0",
-        "tradingview:matriks:6688488:0"
+        "tradingview:matriks:6688479:0"
       ]
     },
     "forexfactory": {
@@ -1820,6 +1820,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "400 bogaz trafigi art s yla arz endisesi azald petrolde pazartesi dusus gelir",
+      "link": "https://tr.tradingview.com/news/beincrypto:5691c66e2d9e8:0"
+    },
     {
       "source": "investing",
       "text": "burry alibaba dan c kt degerleme endisesiyle jd com buyuk pozisyon ald",
@@ -9314,11 +9319,6 @@
       "source": "investing",
       "text": "byline bancorp yoneticisi kistner 3 829 dolar degerinde hisse ald",
       "link": "https://tr.investing.com/news/insider-trading-news/byline-bancorp-yoneticisi-kistner-3829-dolar-degerinde-hisse-ald-93CH-4038668"
-    },
-    {
-      "source": "investing",
-      "text": "mps intesa ya kars banco bpm banca generali teklif haz rl yor",
-      "link": "https://tr.investing.com/news/stock-market-news/mps-intesaya-kars-banco-bpm-ve-banca-generali-icin-teklif-hazrlyor-4038671"
     }
   ]
 }
