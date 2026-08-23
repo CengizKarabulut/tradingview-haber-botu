@@ -570,8 +570,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/burry-alibabadan-ckt-degerleme-endisesiyle-jdcomda-buyuk-pozisyon-ald-4040587",
+      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/italya-artan-akaryakt-fiyatlar-nedeniyle-dizel-vergisi-indirimini-carsamba-gunune-kadar-uzatt-93CH-4040589",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/commodities-news/italya-artan-akaryakt-fiyatlar-nedeniyle-dizel-vergisi-indirimini-carsamba-gunune-kadar-uzatt-93CH-4040589",
         "investing:https://tr.investing.com/news/stock-market-news/burry-alibabadan-ckt-degerleme-endisesiyle-jdcomda-buyuk-pozisyon-ald-4040587",
         "investing:https://tr.investing.com/news/economy-news/turkiye-merkez-bankas-bir-haftalk-repo-ihalelerini-yeniden-baslatacak-93CH-4040584",
         "investing:https://tr.investing.com/news/economy-news/fedin-kashkarisi-yukselen-hazine-getirilerinin-endise-kaynag-olmadgn-soyledi-4040583",
@@ -581,7 +582,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/iran-yaptrm-endiseleri-petrol-fiyatlarn-yukseltti-korfez-borsalar-artt-93CH-4040573",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-secimi-enerji-hissesi-cuma-gunu-12-daha-yukseldi-4040552",
         "investing:https://tr.investing.com/news/investment-ideas/adil-deger-cagrs-sonras-ambalaj-hissesi-56-kazandrd-93CH-4040549",
-        "investing:https://tr.investing.com/news/investment-ideas/adil-deger-modelleri-kiler-holdingin-51lik-dususunu-nasl-ongordu-93CH-4040548",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -602,6 +602,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/investment-ideas/adil-deger-modelleri-kiler-holdingin-51lik-dususunu-nasl-ongordu-93CH-4040548",
         "investing:https://tr.investing.com/news/stock-market-news/citi-nvidia-hissesinin-kazanc-sonras-yukselecegini-bekliyor-4040545",
         "investing:https://tr.investing.com/news/investment-ideas/castle-biosciences-investingpro-sonras-yuzde-67-yukseldi-93CH-4040543",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-vicoru-45-dususten-once-isaretledi-93CH-4040542",
@@ -1070,8 +1071,7 @@
         "investing:https://tr.investing.com/analysis/15-gunde-30-getiren-yapay-zekann-son-portfoyu-investing-pro-200505337",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-ceosu-295-milyon-dolarlk-hisse-satt-93CH-4039061",
         "investing:https://tr.investing.com/news/economy-news/bessent-abdnin-irana-tarihin-en-sert-yaptrmlarn-uygulayacagn-soyledi-4039058",
-        "investing:https://tr.investing.com/news/insider-trading-news/nektar-therapeutics-arge-direktoru-zalevsky-13388-dolar-degerinde-hisse-satt-93CH-4039050",
-        "investing:https://tr.investing.com/news/stock-market-news/asya-kripto-hisseleri-bitcoinin-sert-yukselisiyle-rallide-4039051"
+        "investing:https://tr.investing.com/news/insider-trading-news/nektar-therapeutics-arge-direktoru-zalevsky-13388-dolar-degerinde-hisse-satt-93CH-4039050"
       ]
     },
     "ntvpara": {
@@ -1301,8 +1301,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:5691c66e2d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:14f9b946cd9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:14f9b946cd9e8:0",
         "tradingview:beincrypto:5691c66e2d9e8:0",
         "tradingview:beincrypto:6608dc824d9e8:0",
         "tradingview:cointelegraph:c52c4d9a8d9e8:0",
@@ -1801,8 +1802,7 @@
         "tradingview:matriks:6688482:0",
         "tradingview:matriks:6688478:0",
         "tradingview:matriks:6688480:0",
-        "tradingview:matriks:6688481:0",
-        "tradingview:matriks:6688479:0"
+        "tradingview:matriks:6688481:0"
       ]
     },
     "forexfactory": {
@@ -1820,6 +1820,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japonya borclanma maliyeti rekorda zay f yen bitcoin i etkiler",
+      "link": "https://tr.tradingview.com/news/beincrypto:14f9b946cd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "italya artan akaryak t fiyatlar nedeniyle dizel vergisi indirimini carsamba gunune kadar uzatt",
+      "link": "https://tr.investing.com/news/commodities-news/italya-artan-akaryakt-fiyatlar-nedeniyle-dizel-vergisi-indirimini-carsamba-gunune-kadar-uzatt-93CH-4040589"
+    },
     {
       "source": "tradingview",
       "text": "400 bogaz trafigi art s yla arz endisesi azald petrolde pazartesi dusus gelir",
@@ -9309,16 +9319,6 @@
       "source": "investing",
       "text": "salem media waterstone vakf taraf ndan hisse bas na 1 dolardan sat n al nd",
       "link": "https://tr.investing.com/news/company-news/salem-media-waterstone-vakf-tarafndan-hisse-basna-1-dolardan-satn-alnd-93CH-4038674"
-    },
-    {
-      "source": "investing",
-      "text": "burke herbert yoneticisi david wilson 2 470 dolar hisselik al m yapt",
-      "link": "https://tr.investing.com/news/insider-trading-news/burke--herbert-yoneticisi-david-wilson-2470-dolar-hisselik-alm-yapt-93CH-4038669"
-    },
-    {
-      "source": "investing",
-      "text": "byline bancorp yoneticisi kistner 3 829 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/byline-bancorp-yoneticisi-kistner-3829-dolar-degerinde-hisse-ald-93CH-4038668"
     }
   ]
 }
