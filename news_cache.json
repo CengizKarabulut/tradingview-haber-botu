@@ -566,8 +566,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/analistlerden-5-buyuk-yapay-zeka-hamlesi-4040522",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/alibaba-yapay-zeka-icin-102-milyar-dolarlk-hisse-sats-planlyor-4040525",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/alibaba-yapay-zeka-icin-102-milyar-dolarlk-hisse-sats-planlyor-4040525",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-5-buyuk-yapay-zeka-hamlesi-4040522",
         "investing:https://tr.investing.com/news/stock-market-news/guney-koreli-bireysel-yatrmclar-tarihi-dususun-ardndan-40lk-kuponlarn-pesinde-4040523",
         "investing:https://tr.investing.com/news/company-news/trumpn-haziran-aynda-1000den-fazla-menkul-kymet-islemi-yaptg-ortaya-ckt-4040521",
@@ -577,7 +578,6 @@
         "investing:https://tr.investing.com/news/forex-news/bessentin-mudahalesi-yen-icin-donum-noktas-olacak-m-4040504",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrm-dongusu-yavaslarsa-ne-olur-4040501",
         "investing:https://tr.investing.com/news/stock-market-news/john-ternus-doneminde-applen-risk-istah-degisecek-mi-4040500",
-        "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-ctosu-yapay-zeka-fonu-kurmak-icin-ayrlyor-93CH-4040499",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -598,6 +598,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-ctosu-yapay-zeka-fonu-kurmak-icin-ayrlyor-93CH-4040499",
         "investing:https://tr.investing.com/news/economy-news/kanada-ticaret-gorusmeleri-coktukten-sonra-abd-tarifelerine-karslk-verecek-4040498",
         "investing:https://tr.investing.com/news/stock-market-news/cta-hisse-senedi-pozisyonlar-iran-oncesi-seviyelere-dondu-bofa-4040491",
         "investing:https://tr.investing.com/news/stock-market-news/bofa-alt-bdc-hissesinde-dusuk-performans-notunu-korudu-93CH-4040484",
@@ -1066,8 +1067,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/nrw-holdings-hissesi-neden-yukseliyor-93CH-4039027",
         "investing:https://tr.investing.com/news/insider-trading-news/mount-logan-capital-cco-david-held-3206-dolar-degerinde-hisse-ald-93CH-4039025",
         "investing:https://tr.investing.com/news/insider-trading-news/snowflake-yoneticisi-frank-slootman-974-milyon-dolarlk-hisse-satt-93CH-4039024",
-        "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-41-milyon-dolarlk-hisse-satt-93CH-4039023",
-        "investing:https://tr.investing.com/news/insider-trading-news/neonc-technologies-cso-thomas-chen-192899-dolar-degerinde-hisse-ald-93CH-4039022"
+        "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-41-milyon-dolarlk-hisse-satt-93CH-4039023"
       ]
     },
     "ntvpara": {
@@ -1804,6 +1804,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "alibaba yapay zeka 10 2 milyar dolarl k hisse sat s planl yor",
+      "link": "https://tr.investing.com/news/company-news/alibaba-yapay-zeka-icin-102-milyar-dolarlk-hisse-sats-planlyor-4040525"
+    },
     {
       "source": "bloomberght",
       "text": "kanada basbakan carney abd nin tarifelerine yan t vereceklerini soyledi kanada basbakan mark carney yurutulen ticaret muzakerelerinde abd nin ekonomik ac dan uygulanabilir olmayan adaletsiz sartlar onerdigini belirterek iscileri ciftcileri aileleri isletmeleri korumak amac yla washington n yeni ta",
@@ -9298,11 +9303,6 @@
       "source": "kap",
       "text": "grm gryat ozel durum ac klamas genel quick sigorta a s fiyat istikrar surecinin sona ermesi hk sirket garanti yatirim menkul kiymetler a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653703"
-    },
-    {
-      "source": "investing",
-      "text": "oxford nanopore ceo su ltip odulu kapsam nda 49 676 hisse ald",
-      "link": "https://tr.investing.com/news/company-news/oxford-nanopore-ceosu-ltip-odulu-kapsamnda-49676-hisse-ald-93CH-4038633"
     }
   ]
 }
