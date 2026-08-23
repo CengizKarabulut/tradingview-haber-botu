@@ -1158,8 +1158,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/iskurun-dabis-uygulamasindan-353-bin-kisi-faydalandi-954687.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/altin-3-haftadir-yatirimcisinin-yuzunu-gulduruyor-954688.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/altin-3-haftadir-yatirimcisinin-yuzunu-gulduruyor-954688.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/iskurun-dabis-uygulamasindan-353-bin-kisi-faydalandi-954687.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/zayiflayan-dolar-ve-arz-endiseleri-emtia-fiyatlarini-yukseltti-954683.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ticarette-teknik-engellere-iliskin-internet-platformu-yenilendi-954680.html",
@@ -1809,6 +1810,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "alt n 3 haftad r yat r mc s n n yuzunu gulduruyor alt n n onsu abd merkez bankas n n fed faiz art racag na yonelik ongorulerin zay flamas abd ekonomi yonetiminin tahvil piyasas na mudahalesiyle dolara olan talebin azalmas yla 3 haftad r yat r mc s n n yuzunu gulduruyor",
+      "link": "https://www.trthaber.com/haber/ekonomi/altin-3-haftadir-yatirimcisinin-yuzunu-gulduruyor-954688.html"
+    },
     {
       "source": "investing",
       "text": "abd dolar n para birimlerine kars sat bca oneriyor",
@@ -9303,11 +9309,6 @@
       "source": "kap",
       "text": "kgyo kat l m finans ilkeleri bilgi formu sirket koray gayrimenkul yatirim ortakligi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653709"
-    },
-    {
-      "source": "kap",
-      "text": "gipta pay al m sat m bildirimi pay sat s hk sirket gipta ofis kirtasiye promosyon urunleri imalat sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653708"
     }
   ]
 }
