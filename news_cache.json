@@ -561,8 +561,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-geriledi-4040519",
+      "last_seen_key": "investing:https://tr.investing.com/news/cryptocurrency-news/xrp-11-orannda-geriledi-4040520",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/cryptocurrency-news/xrp-11-orannda-geriledi-4040520",
         "investing:https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-geriledi-4040519",
         "investing:https://tr.investing.com/news/stock-market-news/nvidia-musterileri-bellek-maliyetleri-nedeniyle-yuzde-15in-uzerinde-sunucu-fiyat-artsyla-kars-karsya--rapor-4040505",
         "investing:https://tr.investing.com/news/forex-news/bessentin-mudahalesi-yen-icin-donum-noktas-olacak-m-4040504",
@@ -572,7 +573,6 @@
         "investing:https://tr.investing.com/news/economy-news/kanada-ticaret-gorusmeleri-coktukten-sonra-abd-tarifelerine-karslk-verecek-4040498",
         "investing:https://tr.investing.com/news/stock-market-news/cta-hisse-senedi-pozisyonlar-iran-oncesi-seviyelere-dondu-bofa-4040491",
         "investing:https://tr.investing.com/news/stock-market-news/bofa-alt-bdc-hissesinde-dusuk-performans-notunu-korudu-93CH-4040484",
-        "investing:https://tr.investing.com/news/stock-market-news/cnh-hissesi-icin-2027-gorunumu-emtia-fiyatlar-nedeniyle-yatay-93CH-4040483",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -593,6 +593,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/stock-market-news/cnh-hissesi-icin-2027-gorunumu-emtia-fiyatlar-nedeniyle-yatay-93CH-4040483",
         "investing:https://tr.investing.com/news/stock-market-news/jefferies-para-birimi-endiseleri-nedeniyle-metallerde-atlm-bekliyor-93CH-4040464",
         "investing:https://tr.investing.com/news/stock-market-news/bofa-hazine-ksa-pozisyonlar-sabit-euro-riskinde-arts-93CH-4040461",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-turk-lojistik-hissesinde-567-getiri-saglad-93CH-4040460",
@@ -1061,8 +1062,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/neonc-technologies-cso-thomas-chen-192899-dolar-degerinde-hisse-ald-93CH-4039022",
         "investing:https://tr.investing.com/news/insider-trading-news/neonc-technologies-ceosu-thomas-chen-69997-dolar-degerinde-hisse-ald-93CH-4039021",
         "investing:https://tr.investing.com/news/stock-market-news/henderson-land-hisseleri-ilk-yar-kar-frlamasyla-2-ayn-zirvesinde-4039020",
-        "investing:https://tr.investing.com/news/insider-trading-news/ceribell-cfosu-863-bin-dolardan-fazla-hisse-satt-93CH-4039018",
-        "investing:https://tr.investing.com/news/insider-trading-news/fold-holdings-cfosu-1297-dolar-degerinde-hisse-satt-93CH-4039017"
+        "investing:https://tr.investing.com/news/insider-trading-news/ceribell-cfosu-863-bin-dolardan-fazla-hisse-satt-93CH-4039018"
       ]
     },
     "ntvpara": {
@@ -1797,6 +1797,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "xrp 11 oran nda geriledi",
+      "link": "https://tr.investing.com/news/cryptocurrency-news/xrp-11-orannda-geriledi-4040520"
+    },
     {
       "source": "investing",
       "text": "cardano 10 oran nda geriledi",
@@ -9291,11 +9296,6 @@
       "source": "kap",
       "text": "dgnmo kat l m finans ilkeleri bilgi formu sirket doganlar mobilya grubu imalat sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653700"
-    },
-    {
-      "source": "kap",
-      "text": "odas sirket genel bilgi formu sirket odas elektrik uretim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653699"
     }
   ]
 }
