@@ -568,8 +568,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/forex-news/bcaya-gore-abd-dolarn-bu-para-birimlerine-kars-satn-4040530",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/kanada-abdnin-aluminyum-ihtiyacn-tek-basna-karslayabilir-mi-4040533",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/kanada-abdnin-aluminyum-ihtiyacn-tek-basna-karslayabilir-mi-4040533",
         "investing:https://tr.investing.com/news/forex-news/bcaya-gore-abd-dolarn-bu-para-birimlerine-kars-satn-4040530",
         "investing:https://tr.investing.com/news/economy-news/iran-komsularn-abd-yaptrmlarna-katlmamalar-konusunda-uyard-4040528",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-5-buyuk-yapay-zeka-hamlesi-4040522",
@@ -579,7 +580,6 @@
         "investing:https://tr.investing.com/news/cryptocurrency-news/xrp-11-orannda-geriledi-4040520",
         "investing:https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-geriledi-4040519",
         "investing:https://tr.investing.com/news/stock-market-news/nvidia-musterileri-bellek-maliyetleri-nedeniyle-yuzde-15in-uzerinde-sunucu-fiyat-artsyla-kars-karsya--rapor-4040505",
-        "investing:https://tr.investing.com/news/forex-news/bessentin-mudahalesi-yen-icin-donum-noktas-olacak-m-4040504",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -600,6 +600,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/forex-news/bessentin-mudahalesi-yen-icin-donum-noktas-olacak-m-4040504",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrm-dongusu-yavaslarsa-ne-olur-4040501",
         "investing:https://tr.investing.com/news/stock-market-news/john-ternus-doneminde-applen-risk-istah-degisecek-mi-4040500",
         "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-ctosu-yapay-zeka-fonu-kurmak-icin-ayrlyor-93CH-4040499",
@@ -1068,8 +1069,7 @@
         "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-haftalk-kazanc-yolunda-dolar-3-aylk-dusukte-4039032",
         "investing:https://tr.investing.com/news/company-news/implanticann-gerd-implant-refluxstop-fda-onay-ald-93CH-4039029",
         "investing:https://tr.investing.com/news/stock-market-news/charter-hall-hissesi-neden-dusuyor-93CH-4039028",
-        "investing:https://tr.investing.com/news/stock-market-news/nrw-holdings-hissesi-neden-yukseliyor-93CH-4039027",
-        "investing:https://tr.investing.com/news/insider-trading-news/mount-logan-capital-cco-david-held-3206-dolar-degerinde-hisse-ald-93CH-4039025"
+        "investing:https://tr.investing.com/news/stock-market-news/nrw-holdings-hissesi-neden-yukseliyor-93CH-4039027"
       ]
     },
     "ntvpara": {
@@ -1159,8 +1159,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/altin-3-haftadir-yatirimcisinin-yuzunu-gulduruyor-954688.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti-954692.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti-954692.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-3-haftadir-yatirimcisinin-yuzunu-gulduruyor-954688.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/iskurun-dabis-uygulamasindan-353-bin-kisi-faydalandi-954687.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/zayiflayan-dolar-ve-arz-endiseleri-emtia-fiyatlarini-yukseltti-954683.html",
@@ -1811,6 +1812,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "turkiye nin elektrik kurulu gucu 126 bin 476 megavata ulast turkiye nin elektrik kurulu gucu temmuz sonu itibar yla 126 bin 476 megavata yukseldi",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti-954692.html"
+    },
+    {
+      "source": "investing",
+      "text": "kanada abd nin aluminyum ihtiyac n tek bas na kars layabilir",
+      "link": "https://tr.investing.com/news/economy-news/kanada-abdnin-aluminyum-ihtiyacn-tek-basna-karslayabilir-mi-4040533"
+    },
     {
       "source": "ntvpara",
       "text": "bakanl ktan ailelere ucretsiz dan smanl k destegi aile sosyal hizmetler bakanl g aile bireylerinin sorunlarla basa c kma kapasitelerinin guclendirilmesi aile butunlugunun korunmas amac yla ucretsiz destek sagl yor",
@@ -9300,16 +9311,6 @@
       "source": "investing",
       "text": "popular hisse bas na 0 90 dolar temettu ac klad",
       "link": "https://tr.investing.com/news/company-news/popular-hisse-basna-090-dolar-temettu-acklad-93CH-4038638"
-    },
-    {
-      "source": "investing",
-      "text": "instacart hissesi neden yeni 52 haftal k zirve yapt",
-      "link": "https://tr.investing.com/news/stock-market-news/instacart-hissesi-neden-yeni-52-haftalk-zirve-yapt-93CH-4038637"
-    },
-    {
-      "source": "investing",
-      "text": "sharonai holdings hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/sharonai-holdings-hissesi-bugun-neden-dusuyor-93CH-4038635"
     }
   ]
 }
