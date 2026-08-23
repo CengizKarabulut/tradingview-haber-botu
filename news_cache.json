@@ -568,8 +568,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/kanada-abdnin-aluminyum-ihtiyacn-tek-basna-karslayabilir-mi-4040533",
+      "last_seen_key": "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-77000-dolarn-altna-geriledi-ralli-madencilik-ekonomisini-destekledi-4040538",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-77000-dolarn-altna-geriledi-ralli-madencilik-ekonomisini-destekledi-4040538",
         "investing:https://tr.investing.com/news/economy-news/kanada-abdnin-aluminyum-ihtiyacn-tek-basna-karslayabilir-mi-4040533",
         "investing:https://tr.investing.com/news/forex-news/bcaya-gore-abd-dolarn-bu-para-birimlerine-kars-satn-4040530",
         "investing:https://tr.investing.com/news/economy-news/iran-komsularn-abd-yaptrmlarna-katlmamalar-konusunda-uyard-4040528",
@@ -579,7 +580,6 @@
         "investing:https://tr.investing.com/news/company-news/trumpn-haziran-aynda-1000den-fazla-menkul-kymet-islemi-yaptg-ortaya-ckt-4040521",
         "investing:https://tr.investing.com/news/cryptocurrency-news/xrp-11-orannda-geriledi-4040520",
         "investing:https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-geriledi-4040519",
-        "investing:https://tr.investing.com/news/stock-market-news/nvidia-musterileri-bellek-maliyetleri-nedeniyle-yuzde-15in-uzerinde-sunucu-fiyat-artsyla-kars-karsya--rapor-4040505",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -600,6 +600,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/stock-market-news/nvidia-musterileri-bellek-maliyetleri-nedeniyle-yuzde-15in-uzerinde-sunucu-fiyat-artsyla-kars-karsya--rapor-4040505",
         "investing:https://tr.investing.com/news/forex-news/bessentin-mudahalesi-yen-icin-donum-noktas-olacak-m-4040504",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrm-dongusu-yavaslarsa-ne-olur-4040501",
         "investing:https://tr.investing.com/news/stock-market-news/john-ternus-doneminde-applen-risk-istah-degisecek-mi-4040500",
@@ -1068,13 +1069,13 @@
         "investing:https://tr.investing.com/news/stock-market-news/alibaba-hk-hissesi-bugun-neden-dusuyor-93CH-4039033",
         "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-haftalk-kazanc-yolunda-dolar-3-aylk-dusukte-4039032",
         "investing:https://tr.investing.com/news/company-news/implanticann-gerd-implant-refluxstop-fda-onay-ald-93CH-4039029",
-        "investing:https://tr.investing.com/news/stock-market-news/charter-hall-hissesi-neden-dusuyor-93CH-4039028",
-        "investing:https://tr.investing.com/news/stock-market-news/nrw-holdings-hissesi-neden-yukseliyor-93CH-4039027"
+        "investing:https://tr.investing.com/news/stock-market-news/charter-hall-hissesi-neden-dusuyor-93CH-4039028"
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-bakanliktan-ailelere-ucretsiz-danismanlik-destegi-1738543",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-ankara-konya-yht-15-yilda-228-milyon-yolcuya-hizmet-verdi-1738559",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-ankara-konya-yht-15-yilda-228-milyon-yolcuya-hizmet-verdi-1738559",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-bakanliktan-ailelere-ucretsiz-danismanlik-destegi-1738543",
         "ntvpara:https://www.ntv.com.tr/ntvpara/italya-ve-vatikandan-100-milyon-euroluk-yenilenebilir-enerji-projesi-1738515",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-vergi-trafik-cezasi-ogrenim-kredisi-borcu-olanlar-dikkat-son-tarih-31-agustos-1738506",
@@ -1812,6 +1813,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "bakan uraloglu ankara konya yht 15 y lda 22 8 milyon yolcuya hizmet verdi ulast rma altyap bakan abdulkadir uraloglu 15 y l once ac lan ankara konya yuksek h zl tren yht hatt n n 22 8 milyon yolcuya hizmet verdigini soyledi",
+      "link": "https://www.ntv.com.tr/ntvpara/bakan-uraloglu-ankara-konya-yht-15-yilda-228-milyon-yolcuya-hizmet-verdi-1738559"
+    },
+    {
+      "source": "investing",
+      "text": "bitcoin 77 000 dolar n alt na geriledi ralli madencilik ekonomisini destekledi",
+      "link": "https://tr.investing.com/news/cryptocurrency-news/bitcoin-77000-dolarn-altna-geriledi-ralli-madencilik-ekonomisini-destekledi-4040538"
+    },
     {
       "source": "trthaber",
       "text": "turkiye nin elektrik kurulu gucu 126 bin 476 megavata ulast turkiye nin elektrik kurulu gucu temmuz sonu itibar yla 126 bin 476 megavata yukseldi",
@@ -9301,16 +9312,6 @@
       "source": "investing",
       "text": "solaris energy infrastructure hissesi bugun neden dusuyor",
       "link": "https://tr.investing.com/news/stock-market-news/solaris-energy-infrastructure-hissesi-bugun-neden-dusuyor-93CH-4038642"
-    },
-    {
-      "source": "investing",
-      "text": "balfour beatty sarah brand i tampa operasyonlar baskan yard mc s olarak atad",
-      "link": "https://tr.investing.com/news/company-news/balfour-beatty-sarah-brandi-tampa-operasyonlar-baskan-yardmcs-olarak-atad-93CH-4038639"
-    },
-    {
-      "source": "investing",
-      "text": "popular hisse bas na 0 90 dolar temettu ac klad",
-      "link": "https://tr.investing.com/news/company-news/popular-hisse-basna-090-dolar-temettu-acklad-93CH-4038638"
     }
   ]
 }
