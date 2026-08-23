@@ -1278,8 +1278,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:7e2693cb9d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:645d51552d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:645d51552d9e8:0",
+        "tradingview:beincrypto:04a1fe1ecd9e8:0",
         "tradingview:beincrypto:7e2693cb9d9e8:0",
         "tradingview:beincrypto:d324a3b38d9e8:0",
         "tradingview:beincrypto:49478aeafd9e8:0",
@@ -1777,9 +1779,7 @@
         "tradingview:matriks:6688466:0",
         "tradingview:beincrypto:a06ce08ded9e8:0",
         "tradingview:beincrypto:8b479cc37d9e8:0",
-        "tradingview:cointelegraph:9c0caee93d9e8:0",
-        "tradingview:fxstreet:e87d4909dd9e8:0",
-        "tradingview:fxstreet:c3ac4d42ed9e8:0"
+        "tradingview:cointelegraph:9c0caee93d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1797,6 +1797,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "arthur hayes ten carp c oneri hisse alt n bitcoin surpriz taktik",
+      "link": "https://tr.tradingview.com/news/beincrypto:645d51552d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "noones kapan yor 2 5 milyon kullan c ya yapt r m darbesi",
+      "link": "https://tr.tradingview.com/news/beincrypto:04a1fe1ecd9e8:0"
+    },
     {
       "source": "investing",
       "text": "nvidia musterileri bellek maliyetleri nedeniyle yuzde 15 in uzerinde sunucu fiyat art s yla kars kars ya rapor",
@@ -9286,16 +9296,6 @@
       "source": "kap",
       "text": "odas kat l m finans ilkeleri bilgi formu sirket odas elektrik uretim sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653698"
-    },
-    {
-      "source": "kap",
-      "text": "cante sirket genel bilgi formu sirket can2 termik a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653697"
-    },
-    {
-      "source": "kap",
-      "text": "cante kat l m finans ilkeleri bilgi formu sirket can2 termik a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653696"
     }
   ]
 }
