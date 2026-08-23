@@ -802,8 +802,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:0db02434bd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:931cd4b05d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:931cd4b05d9e8:0",
+        "tradingview:beincrypto:542fb72bad9e8:0",
         "tradingview:fxstreet:0db02434bd9e8:0",
         "tradingview:beincrypto:c5da07c60d9e8:0",
         "tradingview:beincrypto:6a02a6e76d9e8:0",
@@ -1301,9 +1303,7 @@
         "tradingview:matriks:6688468:0",
         "tradingview:matriks:6688469:0",
         "tradingview:matriks:6688474:0",
-        "tradingview:matriks:6688486:0",
-        "tradingview:matriks:6688483:0",
-        "tradingview:matriks:6688482:0"
+        "tradingview:matriks:6688486:0"
       ]
     },
     "forexfactory": {
@@ -1321,6 +1321,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "iranl araghchi caresiz abd nin tehdit ettigi yeni yapt r mlar n basar s z olacag n soyledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:931cd4b05d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitwise ay piyasas nda 1 8 milyar dolar toplad tom lee fark etti",
+      "link": "https://tr.tradingview.com/news/beincrypto:542fb72bad9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "yeni zelanda perakende sat slar 2 ceyrekte ceyreklik bazda 0 1 beklentisi kars s nda 0 5 dustu",
@@ -8810,16 +8820,6 @@
       "source": "kap",
       "text": "horoz yonetim kurulu komiteleri komite uyeliklerinde degisiklik sirket horoz lojistik kargo hizmetleri ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653718"
-    },
-    {
-      "source": "kap",
-      "text": "horoz ozel durum ac klamas genel ust yonetim degisikligi sirket horoz lojistik kargo hizmetleri ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653717"
-    },
-    {
-      "source": "kap",
-      "text": "ditas kat l m finans ilkeleri bilgi formu sirket ditas bdy yedek parca imalat teknik a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653716"
     }
   ]
 }
