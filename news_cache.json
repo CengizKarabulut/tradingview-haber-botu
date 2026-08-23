@@ -802,8 +802,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:931cd4b05d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:a7674a9e2d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:a7674a9e2d9e8:0",
         "tradingview:fxstreet:931cd4b05d9e8:0",
         "tradingview:beincrypto:542fb72bad9e8:0",
         "tradingview:fxstreet:0db02434bd9e8:0",
@@ -1302,8 +1303,7 @@
         "tradingview:matriks:6688470:0",
         "tradingview:matriks:6688468:0",
         "tradingview:matriks:6688469:0",
-        "tradingview:matriks:6688474:0",
-        "tradingview:matriks:6688486:0"
+        "tradingview:matriks:6688474:0"
       ]
     },
     "forexfactory": {
@@ -1321,6 +1321,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar zay f perakende sat slar verilerinin ard ndan 0 6000 in alt na hafifce geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:a7674a9e2d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "iranl araghchi caresiz abd nin tehdit ettigi yeni yapt r mlar n basar s z olacag n soyledi",
@@ -8815,11 +8820,6 @@
       "source": "kap",
       "text": "horoz sirket genel bilgi formu sirket horoz lojistik kargo hizmetleri ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653719"
-    },
-    {
-      "source": "kap",
-      "text": "horoz yonetim kurulu komiteleri komite uyeliklerinde degisiklik sirket horoz lojistik kargo hizmetleri ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653718"
     }
   ]
 }
