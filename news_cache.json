@@ -1298,8 +1298,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6692503:0",
+      "last_seen_key": "tradingview:cointelegraph:c52c4d9a8d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:c52c4d9a8d9e8:0",
         "tradingview:matriks:6692503:0",
         "tradingview:beincrypto:a32084ca8d9e8:0",
         "tradingview:beincrypto:c760eddced9e8:0",
@@ -1798,8 +1799,7 @@
         "tradingview:matriks:6688479:0",
         "tradingview:matriks:6688497:0",
         "tradingview:matriks:6688488:0",
-        "tradingview:matriks:6688473:0",
-        "tradingview:matriks:6688487:0"
+        "tradingview:matriks:6688473:0"
       ]
     },
     "forexfactory": {
@@ -1817,6 +1817,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "fed cal smas kripto yat r mc lar n n inanclar taraf ndan yonlendirildigini getirilerden kolayca etkilendigini ortaya koyuyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:c52c4d9a8d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "logitech red dot design awards 2026 dort odulun sahibi oldu",
@@ -9311,11 +9316,6 @@
       "source": "investing",
       "text": "bank of america pimco municipal income fund ii hisselerini satt",
       "link": "https://tr.investing.com/news/insider-trading-news/bank-of-america-pimco-municipal-income-fund-ii-hisselerini-satt-93CH-4038660"
-    },
-    {
-      "source": "investing",
-      "text": "bank of montreal uluslararas sermaye piyasalar birimini yeniden yap land r yor",
-      "link": "https://tr.investing.com/news/stock-market-news/bank-of-montreal-uluslararas-sermaye-piyasalar-birimini-yeniden-yaplandryor-93CH-4038659"
     }
   ]
 }
