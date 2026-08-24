@@ -2,8 +2,31 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654519",
+      "last_seen_key": "kap:1654542",
       "seen_keys": [
+        "kap:1654542",
+        "kap:1654541",
+        "kap:1654540",
+        "kap:1654539",
+        "kap:1654538",
+        "kap:1654537",
+        "kap:1654536",
+        "kap:1654535",
+        "kap:1654534",
+        "kap:1654533",
+        "kap:1654532",
+        "kap:1654531",
+        "kap:1654530",
+        "kap:1654529",
+        "kap:1654528",
+        "kap:1654527",
+        "kap:1654526",
+        "kap:1654525",
+        "kap:1654524",
+        "kap:1654523",
+        "kap:1654522",
+        "kap:1654521",
+        "kap:1654520",
         "kap:1654519",
         "kap:1654516",
         "kap:1654514",
@@ -243,8 +266,15 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/micron-technology-hissesi-bugun-neden-dusuyor-93CH-4041785",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/truist-jfrog-hissesi-icin-al-tavsiyesini-yineledi-yapay-zeka-kodlama-buyumesine-isaret-etti-93CH-4041828",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-jfrog-hissesi-icin-al-tavsiyesini-yineledi-yapay-zeka-kodlama-buyumesine-isaret-etti-93CH-4041828",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-agilon-health-hissesi-icin-tut-tavsiyesini-yineledi-hedef-112-dolar-93CH-4041827",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-guc-talebi-gorunumuyle-emerson-hisse-hedefini-yukseltti-93CH-4041826",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-nordsonn-hisse-hedefini-buyume-ile-375-dolara-yukseltti-93CH-4041824",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-deerein-hisse-hedefini-guclu-marjlarla-yukseltti-93CH-4041825",
+        "investing:https://tr.investing.com/news/stock-market-news/american-airlines-dorduncu-ceyrek-kapasite-buyume-tahminini-dusurdu-93CH-4041823",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-romork-verileri-sonras-wabash-national-hisse-notunu-korudu-93CH-4041822",
         "investing:https://tr.investing.com/news/stock-market-news/micron-technology-hissesi-bugun-neden-dusuyor-93CH-4041785",
         "investing:https://tr.investing.com/news/stock-market-news/tesla-hisseleri-bugun-neden-dusuyor-93CH-4041784",
         "investing:https://tr.investing.com/news/stock-market-news/nebius-hissesi-bugun-neden-dusuyor-93CH-4041783",
@@ -737,14 +767,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/fitch-mercury-generaln-gorunumunu-sermaye-kazanclaryla-yukseltti-93CH-4040062",
         "investing:https://tr.investing.com/news/company-news/slide-insurance-hisseleri-2301-dolarla-zirve-yapt-93CH-4040061",
         "investing:https://tr.investing.com/news/global-filings/eminis-ambalaj-konkordato-kapsamnda-57-taksit-odemesini-gerceklestirdi-93CH-4040060",
-        "investing:https://tr.investing.com/news/global-filings/akbank-30-milyar-tl-borclanma-arac-ihrac-tavan-icin-basvurdu-93CH-4040057",
-        "investing:https://tr.investing.com/news/stock-market-news/nebius-hissesi-bugun-neden-yukseliyor-93CH-4040056",
-        "investing:https://tr.investing.com/news/company-news/clevelandcliffs-middletown-tesisine-1-milyar-dolarlk-yatrm-yapyor-93CH-4040055",
-        "investing:https://tr.investing.com/news/company-news/walmart-100-elektrikli-arac-sarj-istasyonunu-act-93CH-4040054",
-        "investing:https://tr.investing.com/news/commodities-news/hindistann-gumruksuz-ithalat-karar-seker-vadeli-islemlerini-dusurdu-93CH-4040053",
-        "investing:https://tr.investing.com/news/global-filings/kt-sukuk-106-milyar-tllik-kira-sertifikas-ihrac-icin-spk-onay-ald-93CH-4040052",
-        "investing:https://tr.investing.com/news/stock-market-news/freeportmcmoran-hisseleri-neden-bugun-yukseliyor-93CH-4040029",
-        "investing:https://tr.investing.com/news/stock-market-news/apollo-kullanc-verilerinin-etkilendigi-guvenlik-ihlalini-bildirdi-93CH-4040028"
+        "investing:https://tr.investing.com/news/global-filings/akbank-30-milyar-tl-borclanma-arac-ihrac-tavan-icin-basvurdu-93CH-4040057"
       ]
     },
     "ntvpara": {
@@ -1509,6 +1532,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "truist jfrog hissesi al tavsiyesini yineledi yapay zeka kodlama buyumesine isaret etti",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-jfrog-hissesi-icin-al-tavsiyesini-yineledi-yapay-zeka-kodlama-buyumesine-isaret-etti-93CH-4041828"
+    },
+    {
+      "source": "investing",
+      "text": "truist agilon health hissesi tut tavsiyesini yineledi hedef 112 dolar",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-agilon-health-hissesi-icin-tut-tavsiyesini-yineledi-hedef-112-dolar-93CH-4041827"
+    },
+    {
+      "source": "investing",
+      "text": "davidson guc talebi gorunumuyle emerson hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-guc-talebi-gorunumuyle-emerson-hisse-hedefini-yukseltti-93CH-4041826"
+    },
+    {
+      "source": "investing",
+      "text": "davidson nordson n hisse hedefini buyume 375 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-nordsonn-hisse-hedefini-buyume-ile-375-dolara-yukseltti-93CH-4041824"
+    },
+    {
+      "source": "investing",
+      "text": "davidson deere in hisse hedefini guclu marjlarla yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-deerein-hisse-hedefini-guclu-marjlarla-yukseltti-93CH-4041825"
+    },
+    {
+      "source": "investing",
+      "text": "american airlines dorduncu ceyrek kapasite buyume tahminini dusurdu",
+      "link": "https://tr.investing.com/news/stock-market-news/american-airlines-dorduncu-ceyrek-kapasite-buyume-tahminini-dusurdu-93CH-4041823"
+    },
+    {
+      "source": "investing",
+      "text": "davidson romork verileri sonras wabash national hisse notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-romork-verileri-sonras-wabash-national-hisse-notunu-korudu-93CH-4041822"
+    },
+    {
+      "source": "kap",
+      "text": "betae esas sozlesme tadili esas sozlesme tadili sirket beta enerji teknoloji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654542"
+    },
+    {
+      "source": "kap",
+      "text": "vkfyo haftal k rapor 21 08 2026 tarihli haftal k rapor sirket vakif menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654541"
+    },
+    {
+      "source": "kap",
+      "text": "sngyo ozel durum ac klamas genel turk ticaret kanununun 363 maddesi uyar nca bag ms z yonetim kurulu uyesi atamas n n tescil ilan sirket sinpas gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654540"
+    },
+    {
+      "source": "kap",
+      "text": "mobtl pay baz nda devre kesici bildirimi mobtl e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654539"
+    },
+    {
+      "source": "kap",
+      "text": "usak pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon faiz oran n n belirlenmesi hk sirket usak seramik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654538"
+    },
+    {
+      "source": "kap",
+      "text": "islem iptali bap islem iptali sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654537"
+    },
+    {
+      "source": "kap",
+      "text": "hatek pay baz nda devre kesici bildirimi hatek e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654536"
+    },
+    {
+      "source": "kap",
+      "text": "vkfyo ozel durum ac klamas genel sirketimizin bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sebebiyle yap lan ac klamad r sirket vakif menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654535"
+    },
+    {
+      "source": "kap",
+      "text": "opo sirket genel bilgi formu sirket oyak portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654534"
+    },
+    {
+      "source": "kap",
+      "text": "garfl pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsgfyh82610 isin kodlu tahvilin kupon oran n n belirlenmesi sirket garanti bbva operasyonel kiralama hizmetleri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654533"
+    },
+    {
+      "source": "kap",
+      "text": "sanfm pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654532"
+    },
+    {
+      "source": "kap",
+      "text": "kayse tsrs uyumlu surdurulebilirlik raporu 2024 y l tsrs uyumlu surdurulebilirlik raporu sirket kayseri seker fabrikasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654531"
+    },
+    {
+      "source": "kap",
+      "text": "empae pay baz nda devre kesici bildirimi empae e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654530"
+    },
+    {
+      "source": "kap",
+      "text": "sarae pay baz nda devre kesici bildirimi sarae e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654529"
+    },
+    {
+      "source": "kap",
+      "text": "hvril ozel durum ac klamas genel kira sertifikas ihrac na iliskin yonetim kurulu karar al nmas hakk nda sirket haver farma ilac a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654528"
+    },
+    {
+      "source": "kap",
+      "text": "gog genel ac klama golden global portfoy yonetimi a s besinci girisim sermayesi yat r m fonu ihrac belgesi sirket golden global portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654527"
+    },
+    {
+      "source": "kap",
+      "text": "viop gun ici fiyat limiti degisikligi duyurular viop gun ici fiyat limiti degisikligi duyurular sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654526"
+    },
+    {
+      "source": "kap",
+      "text": "a1cap akcvr borclanma araclar n n kira sertifikalar n n islem gormeye baslamas borclanma araclar n n kira sertifikalar n n islem gormeye baslamas sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654525"
+    },
+    {
+      "source": "kap",
+      "text": "egegy halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin rapor sirket egeyapi avrupa gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654524"
+    },
+    {
+      "source": "kap",
+      "text": "fnv sorumluluk beyan konsolide sorumluluk beyan 30 06 2026 sirket fonmap portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654523"
+    },
+    {
+      "source": "kap",
+      "text": "fnv finansal rapor sirket fonmap portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654522"
+    },
+    {
+      "source": "kap",
+      "text": "fnv faaliyet raporu konsolide fonmap portfoy yonetimi a s faaliyet raporu 30 06 2026 sirket fonmap portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654521"
+    },
+    {
+      "source": "kap",
+      "text": "prdgs pay baz nda devre kesici bildirimi prdgs e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654520"
+    },
     {
       "source": "tradingview",
       "text": "hisse notu petkm deniz yat r m",
@@ -8858,156 +9031,6 @@
       "source": "investing",
       "text": "wolfe research walmart n hisse hedefini dusurdu",
       "link": "https://tr.investing.com/news/analyst-ratings/wolfe-research-walmartn-hisse-hedefini-dusurdu-93CH-4039560"
-    },
-    {
-      "source": "investing",
-      "text": "zkh hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/zkh-hissesi-bugun-neden-yukseliyor-93CH-4039559"
-    },
-    {
-      "source": "investing",
-      "text": "s p 500 ara secimler oncesi gerileyebilir citi dususte al diyor",
-      "link": "https://tr.investing.com/news/stock-market-news/sp-500-ara-secimler-oncesi-gerileyebilir-citi-dususte-al-diyor-4039572"
-    },
-    {
-      "source": "investing",
-      "text": "dolar magazalar gelecek hafta ac klanacak kazanclar oncesi kar s k gorunum sergiliyor gordon haskett yorumluyor",
-      "link": "https://tr.investing.com/news/stock-market-news/dolar-magazalar-gelecek-hafta-acklanacak-kazanclar-oncesi-karsk-gorunum-sergiliyor-gordon-haskett-yorumluyor-93CH-4039544"
-    },
-    {
-      "source": "investing",
-      "text": "bmo capital semtech hissesi hedef fiyat 155 dolar belirledi",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-semtech-hissesi-icin-hedef-fiyat-155-dolar-belirledi-93CH-4039529"
-    },
-    {
-      "source": "investing",
-      "text": "bmo skyworks solutions hissesini birlesme nedeniyle notr baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-skyworks-solutions-hissesini-birlesme-nedeniyle-notr-baslatt-93CH-4039528"
-    },
-    {
-      "source": "investing",
-      "text": "bmo yapay zeka gucuyle broadcom hissesine outperform verdi",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-yapay-zeka-gucuyle-broadcom-hissesine-outperform-verdi-93CH-4039527"
-    },
-    {
-      "source": "investing",
-      "text": "bmo capital nvidia hissesini yapay zeka liderligiyle al onerisiyle baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-nvidia-hissesini-yapay-zeka-liderligiyle-al-onerisiyle-baslatt-93CH-4039526"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bofa dan piyasa uyar s bank of america bofa basstratejisti michael hartnett abd hazine bakan scott bessent in uzun vadeli tahvil getirilerini dusurme plan n n basar s z olmas durumunda dolar n deger kaybedecegini ongordu",
-      "link": "https://www.bloomberght.com/bofa-dan-piyasa-uyarisi-3786151"
-    },
-    {
-      "source": "kap",
-      "text": "alfas pay baz nda devre kesici bildirimi alfas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653925"
-    },
-    {
-      "source": "kap",
-      "text": "afb aktif pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon odemesi sirket aktif yatirim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653922"
-    },
-    {
-      "source": "kap",
-      "text": "blcyt pay baz nda devre kesici bildirimi blcyt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653920"
-    },
-    {
-      "source": "kap",
-      "text": "vestl pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsvstla2613 isin kodlu tahvilin 3 kupon donemine iliskin faiz odemesi 4 kupon donemine iliskin faiz oran hakk nda sirket vestel elektronik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653918"
-    },
-    {
-      "source": "tradingview",
-      "text": "yeni zelanda dolar abd dolar n n zay flamas yla haziran ay ndan yana en yuksek seviyeye c kt",
-      "link": "https://tr.tradingview.com/news/fxstreet:16829de5fd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "anket matriks haber bist sentiment anketi borsa kapan s beklentisi 103 23 puan",
-      "link": "https://tr.tradingview.com/news/matriks:6689678:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "vergi borclar nda gun 31 agustos 72 aya kadar yap land rma vergi dairelerine olan borclar n 72 aya kadar taksitlendirilmesine imkan saglayan duzenlemeden faydalanmak 31 agustos pazartesi gunune kadar basvuru yap lmas onem tas yor",
-      "link": "https://www.trthaber.com/haber/ekonomi/vergi-borclarinda-son-gun-31-agustos-72-aya-kadar-yapilandirma-954568.html"
-    },
-    {
-      "source": "ntvpara",
-      "text": "orman koylusune 3 3 milyar lira destek 2026 y l nda 3 3 milyar liral k butceyle 11 bin 325 orman koylusune destek verilecek",
-      "link": "https://www.ntv.com.tr/ntvpara/orman-koylusune-33-milyar-lira-destek-1738284"
-    },
-    {
-      "source": "investing",
-      "text": "bmo capital macom technology hissesini piyasa performans baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-macom-technology-hissesini-piyasa-performans-ile-baslatt-93CH-4039512"
-    },
-    {
-      "source": "investing",
-      "text": "walmart hisseleri freedom broker taraf ndan al a yukseltildi",
-      "link": "https://tr.investing.com/news/analyst-ratings/walmart-hisseleri-freedom-broker-tarafndan-ala-yukseltildi-93CH-4039511"
-    },
-    {
-      "source": "investing",
-      "text": "bmo capital marvell hissesine al m tavsiyesi verdi",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-marvell-hissesine-alm-tavsiyesi-verdi-93CH-4039510"
-    },
-    {
-      "source": "investing",
-      "text": "baird hubbell hissesi al m tavsiyesi verdi",
-      "link": "https://tr.investing.com/news/analyst-ratings/baird-hubbell-hissesi-icin-alm-tavsiyesi-verdi-93CH-4039509"
-    },
-    {
-      "source": "investing",
-      "text": "bmo eaton hissesi outperform onerisiyle baslad",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-eaton-hissesi-icin-outperform-onerisiyle-baslad-93CH-4039508"
-    },
-    {
-      "source": "investing",
-      "text": "bmo capital impinj hissesine al m tavsiyesi verdi",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-impinj-hissesine-alm-tavsiyesi-verdi-93CH-4039507"
-    },
-    {
-      "source": "investing",
-      "text": "bmo capital d wave quantum hissesi al m tavsiyesi verdi",
-      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-dwave-quantum-hissesi-icin-alm-tavsiyesi-verdi-93CH-4039506"
-    },
-    {
-      "source": "investing",
-      "text": "taylor devices hissesi freedom broker dan yukseltme",
-      "link": "https://tr.investing.com/news/analyst-ratings/taylor-devices-hissesi-icin-freedom-brokerdan-yukseltme-93CH-4039505"
-    },
-    {
-      "source": "investing",
-      "text": "iran savas nedeniyle almanya gaz depolama hedeflerine ulasmakta zorlan yor",
-      "link": "https://tr.investing.com/news/economy-news/iran-savas-nedeniyle-almanya-gaz-depolama-hedeflerine-ulasmakta-zorlanyor-93CH-4039504"
-    },
-    {
-      "source": "investing",
-      "text": "avrupa komisyonu rtx birimine yonelik sorusturmay kapatt",
-      "link": "https://tr.investing.com/news/stock-market-news/avrupa-komisyonu-rtx-birimine-yonelik-sorusturmay-kapatt-93CH-4039503"
-    },
-    {
-      "source": "bloomberght",
-      "text": "almanya dogalgaz alarm almanya dogalgaz depolar n n cok yavas dolmas k s sezonu oncesinde yasal olarak zorunlu k l nan hedeflere ulas lmas n zorlast r rken durum muhalefet sektor temsilcileri taraf ndan sert sekilde elestiriliyor",
-      "link": "https://www.bloomberght.com/almanya-da-dogalgaz-alarmi-3786150"
-    },
-    {
-      "source": "kap",
-      "text": "istfk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfifask2620 isin kodlu finansman bonosunun 1 kupon odemesi sirket istanbul faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653916"
-    },
-    {
-      "source": "kap",
-      "text": "tehol bag ms z denetim kurulusunun belirlenmesi bag ms z denetim kurulusu secimine iliskin genel kurul karar tescil ilan sirket tera yatirim teknoloji holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653915"
-    },
-    {
-      "source": "kap",
-      "text": "tehol genel kurul islemlerine iliskin bildirim olagan genel kurul sonuclar n n tescili sirket tera yatirim teknoloji holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653914"
     }
   ]
 }
