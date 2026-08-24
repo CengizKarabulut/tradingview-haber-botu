@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654335",
+      "last_seen_key": "kap:1654339",
       "seen_keys": [
+        "kap:1654339",
+        "kap:1654338",
+        "kap:1654337",
+        "kap:1654336",
         "kap:1654335",
         "kap:1654333",
         "kap:1654332",
@@ -26,7 +30,6 @@
         "kap:1654311",
         "kap:1654310",
         "kap:1654308",
-        "kap:1654307",
         "kap:1654301",
         "kap:1654300",
         "kap:1654299",
@@ -43,6 +46,7 @@
         "kap:1654280",
         "kap:1654279",
         "kap:1654278",
+        "kap:1654307",
         "kap:1654309"
       ]
     },
@@ -716,8 +720,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/altin-haftaya-yukselisle-basladi-954750.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/borsa-yeni-haftaya-1463772-puandan-basladi-954759.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/borsa-yeni-haftaya-1463772-puandan-basladi-954759.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-haftaya-yukselisle-basladi-954750.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-islam-ulkeleriyle-ticareti-gucleniyor-954749.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/fast-islem-tutar-limitleri-300-bin-liraya-yukseltildi-954747.html",
@@ -856,8 +861,33 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6693161:0",
+      "last_seen_key": "tradingview:matriks:6693240:0",
       "seen_keys": [
+        "tradingview:matriks:6693240:0",
+        "tradingview:matriks:6693239:0",
+        "tradingview:fxstreet:646a1b634d9e8:0",
+        "tradingview:matriks:6693224:0",
+        "tradingview:matriks:6693221:0",
+        "tradingview:matriks:6693220:0",
+        "tradingview:matriks:6693217:0",
+        "tradingview:matriks:6693214:0",
+        "tradingview:matriks:6693213:0",
+        "tradingview:matriks:6693212:0",
+        "tradingview:matriks:6693210:0",
+        "tradingview:matriks:6693204:0",
+        "tradingview:matriks:6693203:0",
+        "tradingview:matriks:6693195:0",
+        "tradingview:matriks:6693194:0",
+        "tradingview:matriks:6693188:0",
+        "tradingview:matriks:6693185:0",
+        "tradingview:matriks:6693184:0",
+        "tradingview:matriks:6693179:0",
+        "tradingview:fxstreet:071c59d25d9e8:0",
+        "tradingview:matriks:6693177:0",
+        "tradingview:matriks:6693175:0",
+        "tradingview:matriks:6693171:0",
+        "tradingview:matriks:6693168:0",
+        "tradingview:matriks:6693167:0",
         "tradingview:matriks:6693161:0",
         "tradingview:matriks:6693153:0",
         "tradingview:fxstreet:9c5325c7dd9e8:0",
@@ -1332,32 +1362,7 @@
         "tradingview:matriks:6688989:0",
         "tradingview:matriks:6688988:0",
         "tradingview:matriks:6688987:0",
-        "tradingview:matriks:6688985:0",
-        "tradingview:matriks:6688983:0",
-        "tradingview:matriks:6688982:0",
-        "tradingview:matriks:6688981:0",
-        "tradingview:matriks:6688980:0",
-        "tradingview:fxstreet:4e543c8aad9e8:0",
-        "tradingview:matriks:6688974:0",
-        "tradingview:matriks:6688975:0",
-        "tradingview:matriks:6688973:0",
-        "tradingview:matriks:6688953:0",
-        "tradingview:matriks:6688946:0",
-        "tradingview:fxstreet:b88a4090dd9e8:0",
-        "tradingview:matriks:6688943:0",
-        "tradingview:matriks:6688923:0",
-        "tradingview:fxstreet:5b283027cd9e8:0",
-        "tradingview:matriks:6688921:0",
-        "tradingview:matriks:6688920:0",
-        "tradingview:matriks:6688919:0",
-        "tradingview:matriks:6688914:0",
-        "tradingview:matriks:6688912:0",
-        "tradingview:matriks:6688910:0",
-        "tradingview:matriks:6688903:0",
-        "tradingview:matriks:6688896:0",
-        "tradingview:matriks:6688895:0",
-        "tradingview:fxstreet:f20c95158d9e8:0",
-        "tradingview:matriks:6688892:0"
+        "tradingview:matriks:6688985:0"
       ]
     },
     "forexfactory": {
@@ -1375,6 +1380,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd ham petrol vadelileri 2 den fazla azalarak 85 23 dolarla 4 seans n en dusuk seviyesine geriledi",
+      "link": "https://tr.tradingview.com/news/matriks:6693240:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ab den ukrayna savunmas 6 1 milyar euro finansman onayland",
+      "link": "https://tr.tradingview.com/news/matriks:6693239:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n mali endiseler artt kca yukar yonlu riskler olusuyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:646a1b634d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borsa istanbul gune 122 90 puan 0 85 yukselisle baslad matriks haber anketi 64 96 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6693224:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693221:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin etf lerine 10 ay n en guclu haftal k para girisi yasand",
+      "link": "https://tr.tradingview.com/news/matriks:6693220:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop bulten ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6693217:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693214:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hisse bulten ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6693213:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6693212:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten kuzey menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6693210:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasa gorunumu tera yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693204:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankac l k sektoru deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693203:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar bulteni deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693195:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hafta ac klanacak onemli veriler tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6693194:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasalara analitik bak s bizim menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6693188:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "market watch seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693185:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk hisse senedi piyasas gorunumu akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693184:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk strateji bulteni piramit menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6693179:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti petrol 85 00 seviyesini test ediyor piyasalar iran a yonelik ekonomik d day yapt r mlar n bekliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:071c59d25d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten bulls yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693177:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten bulls yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693175:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist gunluk bulten integral yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6693171:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "morgan stanley ulusal yz hamleleri yat r m dongusunu guclendirecek",
+      "link": "https://tr.tradingview.com/news/matriks:6693168:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik analiz hisse senedi onerisi hisse garan yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693167:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "borsa yeni haftaya 14 637 72 puandan baslad borsa istanbul bist 100 endeksi gune yuzde 0 85 art sla 14 637 72 puandan baslad",
+      "link": "https://www.trthaber.com/haber/ekonomi/borsa-yeni-haftaya-1463772-puandan-basladi-954759.html"
+    },
+    {
+      "source": "kap",
+      "text": "akm akmen likidite saglay c l k kapsam ndaki islemler logo paylar nda likidite saglay c l g kapsam nda gerceklestirilen islemler 10 08 2026 21 08 2026 sirket ak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654339"
+    },
+    {
+      "source": "kap",
+      "text": "rysas pay baz nda devre kesici bildirimi rysas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654338"
+    },
+    {
+      "source": "kap",
+      "text": "isvea pay baz nda devre kesici bildirimi isvea e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654337"
+    },
+    {
+      "source": "kap",
+      "text": "endae ozel durum ac klamas genel isbirligi ortakl k sirket enda enerji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654336"
+    },
     {
       "source": "tradingview",
       "text": "forex bulteni info yat r m",
@@ -8724,156 +8879,6 @@
       "source": "tradingview",
       "text": "hindistan agustos ay hsbc flas imalat hizmet pmi 52 9 beklenti 54 0 onceki 53 5",
       "link": "https://tr.tradingview.com/news/matriks:6688629:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hindistan agustos ay hsbc flas bilesik pmi 54 6 beklenti 54 3 onceki 54 3",
-      "link": "https://tr.tradingview.com/news/matriks:6688628:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hindistan agustos ay hsbc flas imalat hizmet pmi 54 5 beklenti 54 0 onceki 53 5",
-      "link": "https://tr.tradingview.com/news/matriks:6688627:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk piyasa bulteni qnb invest",
-      "link": "https://tr.tradingview.com/news/matriks:6688624:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "global piyasalar borsa",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44I09B:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "iran gerilimi petrolu desteklerken tahvil hamleleri dolar bask l yor ikon menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6688616:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "aud jpy fiyat analizi 100 gunluk sma n n uzerinde yukselis ivmesi devam ederken 113 50 nin uzerinde gucleniyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:369c1ec19d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "cin elektrik tuketimi temmuz ay nda y ll k 1 7 artt",
-      "link": "https://tr.tradingview.com/news/matriks:6688612:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "coinbase ceo su armstrong etik sorunlar n clarity act in ilerlemesini engellememesi gerek",
-      "link": "https://tr.tradingview.com/news/matriks:6688609:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurt d s piyasalar bulteni unlu menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6688608:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro zay f usd kars s nda birkac ay n zirvesi civar nda seyrediyor bogalar pmi verileri oncesinde 1 1700 seviyesinin otesine gecisi bekliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:efb7944a5d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "cumhurbaskanl g siber guvenlik baskanl g 275 sozlesmeli uzman teknik idari personel alacak",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44I02W:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten a1 capital",
-      "link": "https://tr.tradingview.com/news/matriks:6688603:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hindistan alt n fiyat bugun fxstreet taraf ndan derlenen verilere gore alt n fiyat yukseldi",
-      "link": "https://tr.tradingview.com/news/fxstreet:dd756e6ffd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "analitik bulten a1 capital",
-      "link": "https://tr.tradingview.com/news/matriks:6688600:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bitcoin 74 bin dolar asarken kripto piyasas nda risk istah artt",
-      "link": "https://tr.tradingview.com/news/matriks:6688599:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bist100 teknik bulten a1 capital",
-      "link": "https://tr.tradingview.com/news/matriks:6688598:0"
-    },
-    {
-      "source": "investing",
-      "text": "asya borsalar toparland kospi yukseldi ancak haftal k kay plar suruyor",
-      "link": "https://tr.investing.com/news/stock-market-news/asya-borsalar-toparland-kospi-yukseldi-ancak-haftalk-kayplar-suruyor-4039041"
-    },
-    {
-      "source": "investing",
-      "text": "metaplanet hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/metaplanet-hissesi-bugun-neden-yukseliyor-93CH-4039039"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunun pusulas pusula yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6688597:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurt d s sabah teknik bulten ikon menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6688596:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "viop bist 30 teknik analiz bulteni yap kredi yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6688595:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "netherlands the consumer confidence adj agustos 35 seviyesinden 34 seviyesine artt",
-      "link": "https://tr.tradingview.com/news/fxstreet:814847411d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "resmi gazete bugun 21 agustos 2026",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44I02P:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bosch home comfort malaysia split klima ithalat hitachi verilen muafiyetten yararlanmak basvuruda bulundu",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44I02O:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bist gunluk teknik analiz bulteni yap kredi yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6688594:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "dask gayrimenkulun sahibinin degismesi sonras yeni sahip devam etmeyecek",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44I02G:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurt ici piyasa bulteni unlu menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6688593:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6688592:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "teknik bulten info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6688590:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "destekler direncler info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6688589:0"
     }
   ]
 }
