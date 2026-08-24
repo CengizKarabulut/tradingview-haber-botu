@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654631",
+      "last_seen_key": "kap:1654641",
       "seen_keys": [
+        "kap:1654641",
+        "kap:1654639",
+        "kap:1654636",
+        "kap:1654632",
         "kap:1654631",
         "kap:1654630",
         "kap:1654629",
@@ -238,8 +242,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/kritik-si-trump-zirvesi-oncesi-abd-de-yeni-tarife-hazirligi-3786314",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/wall-streetten-tahvil-uyarisi-3786315",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/wall-streetten-tahvil-uyarisi-3786315",
         "bloomberght:https://www.bloomberght.com/kritik-si-trump-zirvesi-oncesi-abd-de-yeni-tarife-hazirligi-3786314",
         "bloomberght:https://www.bloomberght.com/piyasa-ikinci-ceyrekte-yuzde-2-7-buyume-bekliyor-3786310",
         "bloomberght:https://www.bloomberght.com/erdogan-brezilya-devlet-baskani-lula-ile-gorustu-3786308",
@@ -1083,6 +1088,7 @@
         "tradingview:fxstreet:63dee6489d9e8:0",
         "tradingview:fxstreet:c1dce71d4d9e8:0",
         "tradingview:cointelegraph:bd2c1f643d9e8:0",
+        "tradingview:beincrypto:3c15641c9d9e8:0",
         "tradingview:fxstreet:3aa9cc58dd9e8:0",
         "tradingview:fxstreet:18b8d2c17d9e8:0",
         "tradingview:fxstreet:ae3570b66d9e8:0",
@@ -1103,6 +1109,7 @@
         "tradingview:matriks:6694609:0",
         "tradingview:matriks:6694599:0",
         "tradingview:matriks:6694590:0",
+        "tradingview:matriks:6694583:0",
         "tradingview:matriks:6694574:0",
         "tradingview:matriks:6694538:0",
         "tradingview:fxstreet:17c1bc482d9e8:0",
@@ -1164,6 +1171,7 @@
         "tradingview:fxstreet:9b9ebe446d9e8:0",
         "tradingview:matriks:6694139:0",
         "tradingview:matriks:6694136:0",
+        "tradingview:fxstreet:dcc441668d9e8:0",
         "tradingview:matriks:6694134:0",
         "tradingview:matriks:6694113:0",
         "tradingview:fxstreet:c1781dff1d9e8:0",
@@ -1575,10 +1583,7 @@
         "tradingview:fxstreet:1fd36e77fd9e8:0",
         "tradingview:fxstreet:31757c227d9e8:0",
         "tradingview:fxstreet:24969c8dad9e8:0",
-        "tradingview:cointelegraph:9c848c3a3d9e8:0",
-        "tradingview:cointelegraph:eb1247187d9e8:0",
-        "tradingview:beincrypto:add034fbed9e8:0",
-        "tradingview:fxstreet:7df3b3c3bd9e8:0"
+        "tradingview:cointelegraph:9c848c3a3d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1596,6 +1601,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "wall street ten tahvil uyar s goldman sachs wells fargo gibi wall street devlerinin stratejistleri abd hazine bakanl g n n uzun vadeli tahvil geri al m hamlesinin getirilerdeki yukselisi tersine cevirmede etkisiz kalacag n vurgulad",
+      "link": "https://www.bloomberght.com/wall-streetten-tahvil-uyarisi-3786315"
+    },
+    {
+      "source": "kap",
+      "text": "tehol ozel durum ac klamas genel yonetim kurulu baskan vekili genel mudur secimi sirket tera yatirim teknoloji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654641"
+    },
+    {
+      "source": "kap",
+      "text": "sngyo kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 sirket sinpas gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654639"
+    },
+    {
+      "source": "kap",
+      "text": "skp pay al m sat m bildirimi pay al m sat m bildirimi sirket tera portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654636"
+    },
+    {
+      "source": "kap",
+      "text": "denge sermaye art r m azalt m islemlerine iliskin bildirim tahsisli sermaye art r m na iliskin spk basvurusu hk sirket denge yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654632"
+    },
     {
       "source": "tradingview",
       "text": "hazine dow jones industrial average al s sat s kotasyonu veriyor",
@@ -9070,31 +9100,6 @@
       "source": "tradingview",
       "text": "wall street art ac lmaya haz rlan rken haftay kay pla kapatmas bekleniyor",
       "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44I0S6:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurtd s gunluk bulten aktif yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6690160:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurtd s bulteni ncm investment",
-      "link": "https://tr.tradingview.com/news/matriks:6690159:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "forex bulteni ncm investment",
-      "link": "https://tr.tradingview.com/news/matriks:6690158:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bist k ymetli madenler piyasas nda haftal k 3 448 kg alt n 3 570 kg gumus islemi yap ld",
-      "link": "https://tr.tradingview.com/news/matriks:6690154:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "tar msal destekleme odemeleri hesaplara aktar l yor tar m orman bakan ibrahim yumakl tar msal destek odemesi olarak 195 6 milyon liran n ciftcilerin hesaplar na aktar lacag n bildirdi",
-      "link": "https://www.trthaber.com/haber/ekonomi/tarimsal-destekleme-odemeleri-hesaplara-aktariliyor-954587.html"
     }
   ]
 }
