@@ -1062,8 +1062,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:a531ad4e7d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:20dd563c1d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:20dd563c1d9e8:0",
+        "tradingview:fxstreet:8041b19dfd9e8:0",
         "tradingview:fxstreet:a531ad4e7d9e8:0",
         "tradingview:fxstreet:24223363ed9e8:0",
         "tradingview:cointelegraph:68df818b6d9e8:0",
@@ -1561,9 +1563,7 @@
         "tradingview:beincrypto:368bd802fd9e8:0",
         "tradingview:beincrypto:f012ab505d9e8:0",
         "tradingview:beincrypto:ddef003e3d9e8:0",
-        "tradingview:beincrypto:645d51552d9e8:0",
-        "tradingview:beincrypto:04a1fe1ecd9e8:0",
-        "tradingview:beincrypto:7e2693cb9d9e8:0"
+        "tradingview:beincrypto:645d51552d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1581,6 +1581,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu ralli politika haftas nda konsolidasyon riskiyle kars kars ya ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:20dd563c1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "mudahale kayd japon yeni ni uc hafta boyunca sat n ald",
+      "link": "https://tr.tradingview.com/news/fxstreet:8041b19dfd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "eur usd fiyat analizi 1 1700 al c lar s n rl yor rsi as r s n yor",
@@ -9070,16 +9080,6 @@
       "source": "kap",
       "text": "arfye halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin gerceklesme degerlendirme raporu 3 sirket arf bio yenilenebilir enerji uretim a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1654199"
-    },
-    {
-      "source": "kap",
-      "text": "skp pay al m sat m bildirimi pay al m sat m bildirimi sirket tera portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654198"
-    },
-    {
-      "source": "kap",
-      "text": "psp pay al m sat m bildirimi ozel durumlar tebligi nin 12 4 maddesi geregince yap lan ac klama sirket pusula portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654197"
     }
   ]
 }
