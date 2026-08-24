@@ -2,8 +2,18 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654547",
+      "last_seen_key": "kap:1654560",
       "seen_keys": [
+        "kap:1654560",
+        "kap:1654559",
+        "kap:1654558",
+        "kap:1654557",
+        "kap:1654556",
+        "kap:1654555",
+        "kap:1654554",
+        "kap:1654551",
+        "kap:1654550",
+        "kap:1654549",
         "kap:1654547",
         "kap:1654544",
         "kap:1654543",
@@ -180,8 +190,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/erdogan-brezilya-devlet-baskani-lula-ile-gorustu-3786308",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/piyasa-ikinci-ceyrekte-yuzde-2-7-buyume-bekliyor-3786310",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/piyasa-ikinci-ceyrekte-yuzde-2-7-buyume-bekliyor-3786310",
         "bloomberght:https://www.bloomberght.com/erdogan-brezilya-devlet-baskani-lula-ile-gorustu-3786308",
         "bloomberght:https://www.bloomberght.com/porsche-yazilim-sirketi-mhp-yi-tcs-ye-satiyor-3786307",
         "bloomberght:https://www.bloomberght.com/kizildeniz-de-gerilim-husilerden-yeni-saldiri-3786306",
@@ -1016,8 +1027,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6694515:0",
+      "last_seen_key": "tradingview:matriks:6694538:0",
       "seen_keys": [
+        "tradingview:matriks:6694538:0",
+        "tradingview:fxstreet:17c1bc482d9e8:0",
         "tradingview:matriks:6694515:0",
         "tradingview:fxstreet:4cbfacaadd9e8:0",
         "tradingview:fxstreet:62cd31ae1d9e8:0",
@@ -1515,9 +1528,7 @@
         "tradingview:cointelegraph:7c72be5c3d9e8:0",
         "tradingview:fxstreet:b47527507d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44I0WL:0",
-        "tradingview:beincrypto:32e8532e5d9e8:0",
-        "tradingview:fxstreet:dc3d9cfabd9e8:0",
-        "tradingview:fxstreet:6e3ecb08dd9e8:0"
+        "tradingview:beincrypto:32e8532e5d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1535,6 +1546,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bist 100 endeksi bugun 0 09 geriledi 14501 toplam gunluk islem hacmi 310 milyar 254 milyon tl oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6694538:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd harcama enflasyon gorunumu wells fargo",
+      "link": "https://tr.tradingview.com/news/fxstreet:17c1bc482d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "piyasa ikinci ceyrekte yuzde 2 7 buyume bekliyor bloomberg ht nin buyume anketine kat lan kurumlar n beklentisi y l n ikinci ceyreginde y ll k buyumenin yuzde 2 7 olmas yonunde",
+      "link": "https://www.bloomberght.com/piyasa-ikinci-ceyrekte-yuzde-2-7-buyume-bekliyor-3786310"
+    },
+    {
+      "source": "kap",
+      "text": "cvkmd sermaye art r m azalt m islemlerine iliskin bildirim bedelli sermaye art r m nda ruchan hakk kullan m sonras kalan paylar n sat s n n tamamlanmas hk sirket cvk maden isletmeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654560"
+    },
+    {
+      "source": "kap",
+      "text": "hedef ihrac tavan na iliskin bildirim borclanma arac ihrac edilmesine iliskin yonetim kurulu karar al nmas spk ya basvuru yap lmas hk sirket hedef holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654559"
+    },
+    {
+      "source": "kap",
+      "text": "ekdmr esas sozlesme tadili esas sozlesme tadil metni spk taraf ndan onaylanm st r sirket ekinciler demir celik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654558"
+    },
+    {
+      "source": "kap",
+      "text": "glcvy ozel durum ac klamas genel tahsili gecikmis alacak portfoyu al m sirket gelecek varlik yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654557"
+    },
+    {
+      "source": "kap",
+      "text": "tba trksh sirket genel bilgi formu sirket turkish bank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654556"
+    },
+    {
+      "source": "kap",
+      "text": "a1cap acp sirket genel bilgi formu sirket a1 capital yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654555"
+    },
+    {
+      "source": "kap",
+      "text": "a1cap acp ozel durum ac klamas genel irtibat burosunun kapat lmas hk sirket a1 capital yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654554"
+    },
+    {
+      "source": "kap",
+      "text": "tbn sirket genel bilgi formu sirket turkland bank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654551"
+    },
+    {
+      "source": "kap",
+      "text": "ttb sirket genel bilgi formu sirket turk ticaret bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654550"
+    },
+    {
+      "source": "kap",
+      "text": "halkb thl pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren yurticinde nitelikli yat r mc lara sermaye benzeri tahvil kupon oran sirket turkiye halk bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654549"
+    },
     {
       "source": "tradingview",
       "text": "rus bankalar temmuz ay nda 443 milyar ruble kar elde etti merkez bankas",
@@ -8969,71 +9045,6 @@
       "source": "investing",
       "text": "trump baz k yma kotalar n n gecici olarak gevsetilecegini ac klad",
       "link": "https://tr.investing.com/news/economy-news/trump-kyma-kotalarnn-gecici-olarak-gevsetilecegini-soyledi-4039680"
-    },
-    {
-      "source": "investing",
-      "text": "guggenheim lowe s hisse hedefini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/guggenheim-lowes-icin-hisse-hedefini-dusurdu-93CH-4039673"
-    },
-    {
-      "source": "kap",
-      "text": "golda halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu sirket golda gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653961"
-    },
-    {
-      "source": "kap",
-      "text": "golda sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m ndan elde edilen fonun kullan m na iliskin rapor sirket golda gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653960"
-    },
-    {
-      "source": "kap",
-      "text": "kvy ihrac tavan na iliskin bildirim kira sertifikas ihrac na iliskin al nan yonetim kurulu karar hk sirket kuveyt turk yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653959"
-    },
-    {
-      "source": "tradingview",
-      "text": "avustralya dolar tahvil geri al mlar aras nda abd dolar n n deger kaybetmesiyle 0 7150 uzerine yukseliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:2a41656bcd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "uzmanlar hemfikir zay f dolar eur usd k sa vadeli yukar yonu destekliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:58bc93aadd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar getiri yonetimi para birimi uzerinde bask olusturuyor bbh",
-      "link": "https://tr.tradingview.com/news/fxstreet:c22f3902bd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "global piyasalar bulteni tacirler yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6689811:0"
-    },
-    {
-      "source": "bloomberght",
-      "text": "daron acemoglu ndan tart smal the economist elestirisine yan t nobel odullu iktisatc daron acemoglu kendi cal smalar na yonelik ingiliz the economist dergisinde c kan tart smalar yaratan elestiriye kars l k verdi",
-      "link": "https://www.bloomberght.com/daron-acemoglu-ndan-tartismali-the-economist-elestirisine-yanit-3786154"
-    },
-    {
-      "source": "bloomberght",
-      "text": "trump tarifesiz k yma ithalat na izin verecek abd baskan donald trump onumuzdeki 90 gun boyunca 300 bin tona kadar k yma ithalat na kota d s tarife uygulanmaks z n ithal edilmesine izin verecegini ac klad",
-      "link": "https://www.bloomberght.com/trump-tarifesiz-kiyma-ithalatina-izin-verecek-3786153"
-    },
-    {
-      "source": "kap",
-      "text": "eukyo ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro kapital yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653955"
-    },
-    {
-      "source": "kap",
-      "text": "eukyo paylar n geri al nmas na iliskin bildirim pay geri al m fon tutar revizesi hk sirket euro kapital yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653954"
-    },
-    {
-      "source": "kap",
-      "text": "etyat ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro trend yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653952"
     }
   ]
 }
