@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654649",
+      "last_seen_key": "kap:1654650",
       "seen_keys": [
+        "kap:1654650",
         "kap:1654649",
         "kap:1654648",
         "kap:1654647",
@@ -345,18 +346,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/protagenic-therapeutics-yonetim-kurulu-baskan-garo-armen-13000-dolarlk-hisse-ald-93CH-4041995",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/suudi-aramco-fransz-sirketlerle-37-milyar-dolar-asan-anlasma-imzalad-93CH-4042004",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/suudi-aramco-fransz-sirketlerle-37-milyar-dolar-asan-anlasma-imzalad-93CH-4042004",
+        "investing:https://tr.investing.com/news/stock-market-news/visa-hissesi-bugun-neden-rekor-seviyeye-yukseldi-93CH-4042002",
+        "investing:https://tr.investing.com/news/company-news/cronos-group-hissesi-344-dolarda-52-haftalk-zirve-yapt-93CH-4042001",
+        "investing:https://tr.investing.com/news/insider-trading-news/globalfoundries-bas-hukuk-musaviri-samak-azar-16207-dolarlk-hisse-satt-93CH-4042000",
+        "investing:https://tr.investing.com/news/stock-market-news/hc-wainwrighttan-en-iyi-kripto-hisse-onerisi-93CH-4041998",
+        "investing:https://tr.investing.com/news/company-news/scholar-rock-hissesi-5852-dolarlk-zirveye-ulast-93CH-4041997",
         "investing:https://tr.investing.com/news/insider-trading-news/protagenic-therapeutics-yonetim-kurulu-baskan-garo-armen-13000-dolarlk-hisse-ald-93CH-4041995",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fund-hisselerinden-2169-dolar-ald-93CH-4041994",
         "investing:https://tr.investing.com/news/stock-market-news/broadcomun-kredi-riski-yapay-zeka-finansmanyla-artt-4041996",
         "investing:https://tr.investing.com/news/economy-news/kanada-sahil-guvenlik-icin-alt-yeni-buzkrana-11-milyar-dolar-yatrm-yapacak-4041991",
-        "investing:https://tr.investing.com/news/commodities-news/avrupa-dizel-marjlar-dusuk-gazyag-primi-ile-7den-fazla-geriledi-93CH-4041990",
-        "investing:https://tr.investing.com/news/analyst-ratings/xpeng-hisse-hedefi-tiger-securities-tarafndan-15-dolara-dusuruldu-93CH-4041989",
-        "investing:https://tr.investing.com/news/company-news/ancora-hb-fuller-birimi-icin-satn-alma-teklifini-yineledi-93CH-4041988",
-        "investing:https://tr.investing.com/news/economy-news/abd-suriyeyi-teroru-destekleyen-ulkeler-listesinden-ckard-93CH-4041987",
-        "investing:https://tr.investing.com/news/insider-trading-news/conocophillips-kdemli-baskan-yardmcs-128-milyon-dolarlk-hisse-satt-93CH-4041983",
-        "investing:https://tr.investing.com/news/stock-market-news/trump-haziranda-spacex-hissesi-satn-ald-4041986",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -377,6 +378,12 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/commodities-news/avrupa-dizel-marjlar-dusuk-gazyag-primi-ile-7den-fazla-geriledi-93CH-4041990",
+        "investing:https://tr.investing.com/news/analyst-ratings/xpeng-hisse-hedefi-tiger-securities-tarafndan-15-dolara-dusuruldu-93CH-4041989",
+        "investing:https://tr.investing.com/news/company-news/ancora-hb-fuller-birimi-icin-satn-alma-teklifini-yineledi-93CH-4041988",
+        "investing:https://tr.investing.com/news/economy-news/abd-suriyeyi-teroru-destekleyen-ulkeler-listesinden-ckard-93CH-4041987",
+        "investing:https://tr.investing.com/news/insider-trading-news/conocophillips-kdemli-baskan-yardmcs-128-milyon-dolarlk-hisse-satt-93CH-4041983",
+        "investing:https://tr.investing.com/news/stock-market-news/trump-haziranda-spacex-hissesi-satn-ald-4041986",
         "investing:https://tr.investing.com/news/economy-news/bessent-iran-kuresel-ekonomiden-tecrit-kampanyas-baslatt-4041981",
         "investing:https://tr.investing.com/news/analyst-ratings/needham-geri-alm-planyla-sk-hynix-hisse-hedefini-yukseltti-93CH-4041980",
         "investing:https://tr.investing.com/news/company-news/elastic-yapay-zeka-sirketi-deductive-ai-satn-ald-93CH-4041979",
@@ -840,13 +847,7 @@
         "investing:https://tr.investing.com/news/company-news/vireo-growth-c21-investments-satn-ald-93CH-4040182",
         "investing:https://tr.investing.com/news/company-news/barclays-central-asia-metalsdeki-payn-557ye-ckard-93CH-4040181",
         "investing:https://tr.investing.com/news/stock-market-news/guggenheim-fon-hisseleri-acga-sats-raporunun-ardndan-17-yln-dibinde-93CH-4040179",
-        "investing:https://tr.investing.com/news/stock-market-news/abd-hazine-tahvil-faizleri-hizmet-sektoru-verisiyle-yukseldi-93CH-4040178",
-        "investing:https://tr.investing.com/news/stock-market-news/allianz-commercial-emma-woolleyi-ozel-brans-rolune-atad-93CH-4040177",
-        "investing:https://tr.investing.com/news/company-news/axis-bank-300-milyon-dolarlk-tahviller-icin-onay-ald-93CH-4040176",
-        "investing:https://tr.investing.com/news/insider-trading-news/tredegar-yoneticisi-james-gottwald-35053-dolar-degerinde-hisse-satt-93CH-4040175",
-        "investing:https://tr.investing.com/news/stock-market-news/avro-bolgesi-tahvil-getirileri-kuresel-dalgalanma-sonras-sabit-93CH-4040174",
-        "investing:https://tr.investing.com/news/commodities-news/kuzeybat-avrupa-benzin-marjlar-guclu-talep-ile-yukseldi-93CH-4040173",
-        "investing:https://tr.investing.com/news/commodities-news/euronext-bugday-dort-haftalk-zirveden-kar-satsyla-dustu-93CH-4040172"
+        "investing:https://tr.investing.com/news/stock-market-news/abd-hazine-tahvil-faizleri-hizmet-sektoru-verisiyle-yukseldi-93CH-4040178"
       ]
     },
     "ntvpara": {
@@ -1092,8 +1093,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:c91385aa6d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:e6d443fc0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:e6d443fc0d9e8:0",
+        "tradingview:fxstreet:141f2c0a7d9e8:0",
+        "tradingview:fxstreet:70f8bdfdbd9e8:0",
+        "tradingview:cointelegraph:af38b7bd6d9e8:0",
         "tradingview:fxstreet:c91385aa6d9e8:0",
         "tradingview:fxstreet:3d7ba651fd9e8:0",
         "tradingview:cointelegraph:1a04365d5d9e8:0",
@@ -1589,11 +1594,7 @@
         "tradingview:cointelegraph:6df4580bdd9e8:0",
         "tradingview:beincrypto:5783e921ad9e8:0",
         "tradingview:fxstreet:3b3e45e15d9e8:0",
-        "tradingview:fxstreet:1a82bae0bd9e8:0",
-        "tradingview:beincrypto:1f4529006d9e8:0",
-        "tradingview:fxstreet:80737ab62d9e8:0",
-        "tradingview:fxstreet:e5a9cb8e2d9e8:0",
-        "tradingview:fxstreet:c884fbd97d9e8:0"
+        "tradingview:fxstreet:1a82bae0bd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1611,6 +1612,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "isvicre frang gecen haftaki sat s dalgas n n ard ndan abd dolar istikrar kazan nca gevsiyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e6d443fc0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro alman anketleri on plana c karken ingiliz sterlini kars s nda zirvelerin alt nda duraksad",
+      "link": "https://tr.tradingview.com/news/fxstreet:141f2c0a7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine bakan bessent abd iran n finansal baglant s na kars ekonomik sald r baslat yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:70f8bdfdbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin fiyat 80 bin dolara ulast 24 saatlik kripto ac ga sat s tasfiyeleri 220 milyon dolar ast",
+      "link": "https://tr.tradingview.com/news/cointelegraph:af38b7bd6d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "suudi aramco frans z sirketlerle 3 7 milyar dolar asan anlasma imzalad",
+      "link": "https://tr.investing.com/news/stock-market-news/suudi-aramco-fransz-sirketlerle-37-milyar-dolar-asan-anlasma-imzalad-93CH-4042004"
+    },
+    {
+      "source": "investing",
+      "text": "visa hissesi bugun neden rekor seviyeye yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/visa-hissesi-bugun-neden-rekor-seviyeye-yukseldi-93CH-4042002"
+    },
+    {
+      "source": "investing",
+      "text": "cronos group hissesi 3 44 dolarda 52 haftal k zirve yapt",
+      "link": "https://tr.investing.com/news/company-news/cronos-group-hissesi-344-dolarda-52-haftalk-zirve-yapt-93CH-4042001"
+    },
+    {
+      "source": "investing",
+      "text": "globalfoundries bas hukuk musaviri samak azar 16 207 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/globalfoundries-bas-hukuk-musaviri-samak-azar-16207-dolarlk-hisse-satt-93CH-4042000"
+    },
+    {
+      "source": "investing",
+      "text": "h c wainwright tan en iyi kripto hisse onerisi",
+      "link": "https://tr.investing.com/news/stock-market-news/hc-wainwrighttan-en-iyi-kripto-hisse-onerisi-93CH-4041998"
+    },
+    {
+      "source": "investing",
+      "text": "scholar rock hissesi 58 52 dolarl k zirveye ulast",
+      "link": "https://tr.investing.com/news/company-news/scholar-rock-hissesi-5852-dolarlk-zirveye-ulast-93CH-4041997"
+    },
+    {
+      "source": "kap",
+      "text": "borsk paylar n geri al nmas na iliskin bildirim pay geri al m program n n sona ermesi hk sirket bor seker a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654650"
+    },
     {
       "source": "investing",
       "text": "protagenic therapeutics yonetim kurulu baskan garo armen 13 000 dolarl k hisse ald",
@@ -9055,61 +9111,6 @@
       "source": "kap",
       "text": "akfye ayes bera ebebk ekim borsada islem goren tipe donusum duyurusu donusum sirket merkezi kayit kurulusu a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1654121"
-    },
-    {
-      "source": "kap",
-      "text": "adel aktif brkt denva dsyat enjsa istfk karsn katvk korts smrfa tmks vestl zoren borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654120"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro bolgesi agustos ay tuketici guven endeksi flas 15 5 beklenti 16 3 onceki 15 9",
-      "link": "https://tr.tradingview.com/news/matriks:6690319:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni yumusak dolar boj gorunumundeki degisim yak n vadeli tonu belirliyor scotiabank",
-      "link": "https://tr.tradingview.com/news/fxstreet:db533ca0fd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "vestel elektronik 2029 vadeli eurobondu yat r mc lardan muafiyet istedi bloomberg ht",
-      "link": "https://tr.tradingview.com/news/matriks:6690310:0"
-    },
-    {
-      "source": "investing",
-      "text": "freeport mcmoran hisseleri neden bugun yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/freeportmcmoran-hisseleri-neden-bugun-yukseliyor-93CH-4040029"
-    },
-    {
-      "source": "investing",
-      "text": "apollo kullan c verilerinin etkilendigi guvenlik ihlalini bildirdi",
-      "link": "https://tr.investing.com/news/stock-market-news/apollo-kullanc-verilerinin-etkilendigi-guvenlik-ihlalini-bildirdi-93CH-4040028"
-    },
-    {
-      "source": "investing",
-      "text": "moderna hisseleri bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/moderna-hisseleri-bugun-neden-yukseliyor-93CH-4040025"
-    },
-    {
-      "source": "investing",
-      "text": "btig affirm abs yukselen gecikmelere dikkat cekiyor",
-      "link": "https://tr.investing.com/news/stock-market-news/btig-affirm-absde-yukselen-gecikmelere-dikkat-cekiyor-93CH-4040024"
-    },
-    {
-      "source": "investing",
-      "text": "tg therapeutics hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/tg-therapeutics-hissesi-bugun-neden-yukseliyor-93CH-4040023"
-    },
-    {
-      "source": "investing",
-      "text": "alpha tau medical hissesi 14 79 dolarda 52 haftal k zirve yapt",
-      "link": "https://tr.investing.com/news/company-news/alpha-tau-medical-hissesi-1479-dolarda-52-haftalk-zirve-yapt-93CH-4040022"
-    },
-    {
-      "source": "investing",
-      "text": "innventure yoneticisi james donnally 337 500 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/innventure-yoneticisi-james-donnally-337500-dolar-degerinde-hisse-ald-93CH-4040021"
     }
   ]
 }
