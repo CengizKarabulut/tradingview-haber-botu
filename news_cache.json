@@ -1101,8 +1101,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:d9cb5fca1d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:ed53bc915d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:ed53bc915d9e8:0",
         "tradingview:cointelegraph:d9cb5fca1d9e8:0",
         "tradingview:fxstreet:99f5b4f8bd9e8:0",
         "tradingview:cointelegraph:413e212b4d9e8:0",
@@ -1148,6 +1149,8 @@
         "tradingview:matriks:6694574:0",
         "tradingview:matriks:6694538:0",
         "tradingview:fxstreet:17c1bc482d9e8:0",
+        "tradingview:matriks:6694524:0",
+        "tradingview:matriks:6694520:0",
         "tradingview:matriks:6694515:0",
         "tradingview:fxstreet:4cbfacaadd9e8:0",
         "tradingview:fxstreet:62cd31ae1d9e8:0",
@@ -1599,10 +1602,7 @@
         "tradingview:fxstreet:dc06fe037d9e8:0",
         "tradingview:fxstreet:e7bd098dcd9e8:0",
         "tradingview:beincrypto:243c25969d9e8:0",
-        "tradingview:beincrypto:653bab6d2d9e8:0",
-        "tradingview:matriks:6690901:0",
-        "tradingview:fxstreet:670766033d9e8:0",
-        "tradingview:beincrypto:980092348d9e8:0"
+        "tradingview:beincrypto:653bab6d2d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1620,6 +1620,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi temkinli toparlanma 100 civar nda s n rl kald scotiabank",
+      "link": "https://tr.tradingview.com/news/fxstreet:ed53bc915d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "coinbase baglant l savunuculuk grubu abd ara secimleri adaylar destekliyor",
@@ -9114,11 +9119,6 @@
       "source": "investing",
       "text": "jpmorgan deere in hisse hedefini uretim gorunumuyle yukseltti",
       "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-deerein-hisse-hedefini-uretim-gorunumuyle-yukseltti-93CH-4040076"
-    },
-    {
-      "source": "investing",
-      "text": "clear street anterix hissesi al onerisini spektrum degeri uzerinden yineledi",
-      "link": "https://tr.investing.com/news/analyst-ratings/clear-street-anterix-hissesi-icin-al-onerisini-spektrum-degeri-uzerinden-yineledi-93CH-4040075"
     }
   ]
 }
