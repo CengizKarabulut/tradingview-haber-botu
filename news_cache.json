@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654489",
+      "last_seen_key": "kap:1654494",
       "seen_keys": [
+        "kap:1654494",
         "kap:1654489",
         "kap:1654486",
         "kap:1654470",
@@ -66,7 +67,6 @@
         "kap:1654381",
         "kap:1654380",
         "kap:1654379",
-        "kap:1654378",
         "kap:1654377",
         "kap:1654376",
         "kap:1654374",
@@ -91,6 +91,7 @@
         "kap:1654343",
         "kap:1654338",
         "kap:1654337",
+        "kap:1654378",
         "kap:1654336",
         "kap:1654335",
         "kap:1654333",
@@ -972,8 +973,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6694266:0",
+      "last_seen_key": "tradingview:matriks:6694315:0",
       "seen_keys": [
+        "tradingview:matriks:6694315:0",
+        "tradingview:matriks:6694311:0",
+        "tradingview:fxstreet:37cf30a0bd9e8:0",
+        "tradingview:matriks:6694307:0",
+        "tradingview:matriks:6694305:0",
+        "tradingview:matriks:6694303:0",
+        "tradingview:fxstreet:f541da2a9d9e8:0",
+        "tradingview:cointelegraph:1b8094597d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44L0O4:0",
         "tradingview:matriks:6694266:0",
         "tradingview:fxstreet:c627aee1dd9e8:0",
         "tradingview:fxstreet:85499523dd9e8:0",
@@ -986,8 +996,13 @@
         "tradingview:matriks:6694192:0",
         "tradingview:fxstreet:7a221bddcd9e8:0",
         "tradingview:matriks:6694176:0",
-        "tradingview:matriks:6694173:0",
         "tradingview:cointelegraph:0def09549d9e8:0",
+        "tradingview:matriks:6694173:0",
+        "tradingview:matriks:6694168:0",
+        "tradingview:matriks:6694160:0",
+        "tradingview:matriks:6694155:0",
+        "tradingview:matriks:6694154:0",
+        "tradingview:matriks:6694147:0",
         "tradingview:fxstreet:9b9ebe446d9e8:0",
         "tradingview:matriks:6694139:0",
         "tradingview:fxstreet:18b8d2c17d9e8:0",
@@ -1459,21 +1474,7 @@
         "tradingview:fxstreet:db533ca0fd9e8:0",
         "tradingview:matriks:6690310:0",
         "tradingview:matriks:6690303:0",
-        "tradingview:fxstreet:cd7a2aca6d9e8:0",
-        "tradingview:fxstreet:522fc5091d9e8:0",
-        "tradingview:matriks:6690239:0",
-        "tradingview:cointelegraph:c7344351ed9e8:0",
-        "tradingview:matriks:6690238:0",
-        "tradingview:matriks:6690237:0",
-        "tradingview:matriks:6690224:0",
-        "tradingview:matriks:6690212:0",
-        "tradingview:fxstreet:b4235a208d9e8:0",
-        "tradingview:matriks:6690184:0",
-        "tradingview:beincrypto:39fa64effd9e8:0",
-        "tradingview:matriks:6690174:0",
-        "tradingview:fxstreet:d6401e7aed9e8:0",
-        "tradingview:matriks:6690167:0",
-        "tradingview:matriks:6690162:0"
+        "tradingview:fxstreet:cd7a2aca6d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1491,6 +1492,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yurt d s bulten ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6694315:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "forex bulteni ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6694311:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada gumruk tarifleri gorunumu yeniden sekillendiriyor rbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:37cf30a0bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s gunluk bulten global menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6694307:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "new york borsas kar s k seyirle ac ld",
+      "link": "https://tr.tradingview.com/news/matriks:6694305:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n uc ay n zirvesinde wall street te iran enflasyon temkini ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6694303:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro abd dolar n n istikrar kazanmas yla konumunu koruyor piyasalar iran yapt r mlar na haz rlan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f541da2a9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitget ceo su bitcoin rallisini sat n alm yor 50 000 bekliyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:1b8094597d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wall street abd nin iran baglant l yapt r mlar beklenirken ekside ac lmaya haz rlan yor",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44L0O4:0"
+    },
+    {
+      "source": "kap",
+      "text": "eximb thr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren gmtn program cercevesinde yurt d s nda borclanma arac ihrac sirket turkiye ihracat kredi bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654494"
+    },
     {
       "source": "investing",
       "text": "cantor fitzgerald cip devi nvidia y en iyi yar iletken hissesi secti",
@@ -8940,56 +8991,6 @@
       "source": "tradingview",
       "text": "euro bolgesi nde muzakere edilen ucretler 2 ceyrekte 2 44 ilk ceyrek 2 56",
       "link": "https://tr.tradingview.com/news/matriks:6689526:0"
-    },
-    {
-      "source": "kap",
-      "text": "ruzye pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653888"
-    },
-    {
-      "source": "tradingview",
-      "text": "cin e dogrudan yabanc yat r mc girisi ocak temmuz yuan cinsinden 6 2 azald",
-      "link": "https://tr.tradingview.com/news/matriks:6689520:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "fed hazine piyasalar konusunda ayr telden cal yor axios",
-      "link": "https://tr.tradingview.com/news/matriks:6689495:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "wti fiyat analizi petrol arz ndaki s k l k 90 uzerindeki daha fazla yukselisi destekliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:586ab33a0d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar risk istah n destekleyen ak slarla daha zay f gorunum ing",
-      "link": "https://tr.tradingview.com/news/fxstreet:13656f366d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "mastercard dogu avrupa bolge baskanl g na avsar gurdal etan yor",
-      "link": "https://tr.tradingview.com/news/matriks:6689487:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro guclu pmi lar n her iki tarafta destek saglamas yla ingiliz sterlini kars s nda istikrar kazan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:2a65cc79ad9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni boj dan s k lasmac beklentiler aras nda kazanclar n koruyor abd dolar ise fed beklentileriyle zay f kal yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:d4a936cfbd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "federal rezerv destek mekanizmas na dair supheler yuksek mudahale c tas bny",
-      "link": "https://tr.tradingview.com/news/fxstreet:51d886782d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "btc fiyat 77 bin dolar asarken strategy nin bitcoin hazinesi basa bas noktas na ulast",
-      "link": "https://tr.tradingview.com/news/cointelegraph:5d66c52d7d9e8:0"
     }
   ]
 }
