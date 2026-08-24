@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654655",
+      "last_seen_key": "kap:1654659",
       "seen_keys": [
+        "kap:1654659",
+        "kap:1654658",
+        "kap:1654657",
+        "kap:1654656",
         "kap:1654655",
         "kap:1654654",
         "kap:1654653",
@@ -1101,8 +1105,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:e6b302c68d9e8:0",
+      "last_seen_key": "tradingview:matriks:6694921:0",
       "seen_keys": [
+        "tradingview:matriks:6694921:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:e6b302c68d9e8:0",
         "tradingview:fxstreet:ed53bc915d9e8:0",
         "tradingview:cointelegraph:d9cb5fca1d9e8:0",
@@ -1117,6 +1123,7 @@
         "tradingview:fxstreet:70f8bdfdbd9e8:0",
         "tradingview:cointelegraph:af38b7bd6d9e8:0",
         "tradingview:fxstreet:c91385aa6d9e8:0",
+        "tradingview:matriks:6694765:0",
         "tradingview:fxstreet:3d7ba651fd9e8:0",
         "tradingview:cointelegraph:1a04365d5d9e8:0",
         "tradingview:beincrypto:1a4ecd8e1d9e8:0",
@@ -1192,7 +1199,6 @@
         "tradingview:fxstreet:f03ef8370d9e8:0",
         "tradingview:matriks:6694206:0",
         "tradingview:matriks:6694205:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:beincrypto:7ce5e7ccfd9e8:0",
         "tradingview:matriks:6694195:0",
         "tradingview:matriks:6694192:0",
@@ -1600,9 +1606,7 @@
         "tradingview:fxstreet:f4ccf06a1d9e8:0",
         "tradingview:fxstreet:d9418a74ad9e8:0",
         "tradingview:beincrypto:91a3dfbccd9e8:0",
-        "tradingview:fxstreet:dc06fe037d9e8:0",
-        "tradingview:fxstreet:e7bd098dcd9e8:0",
-        "tradingview:beincrypto:243c25969d9e8:0"
+        "tradingview:fxstreet:dc06fe037d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1620,6 +1624,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "aksfa ak faktoring solo bilanco 2026 6 ayl k net kar 107 230 000 tl onceki 171 925 000 tl net kar",
+      "link": "https://tr.tradingview.com/news/matriks:6694921:0"
+    },
+    {
+      "source": "kap",
+      "text": "aksfa sorumluluk beyan konsolide olmayan 01 01 2026 30 06 2026 hesap donemi sorumluluk beyani hk sirket ak faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654659"
+    },
+    {
+      "source": "kap",
+      "text": "balat paylar n geri al nmas na iliskin bildirim 24 08 2026 tarihli pay geri al m hakk nda sirket balatacilar balatacilik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654658"
+    },
+    {
+      "source": "kap",
+      "text": "aksfa faaliyet raporu konsolide olmayan 01 01 2026 30 06 2026 faaliyet raporu gonderilmesi hk sirket ak faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654657"
+    },
+    {
+      "source": "kap",
+      "text": "aksfa finansal rapor sirket ak faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654656"
+    },
     {
       "source": "tradingview",
       "text": "guney kore wonu abd dolar kars s nda konsolidasyon bolgesi hedefleniyor commerzbank",
@@ -9094,31 +9123,6 @@
       "source": "tradingview",
       "text": "ozel haber matriks bilanco anketinde en isabetli tahminler netlesti",
       "link": "https://tr.tradingview.com/news/matriks:6690434:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar jackson hole volatilitesi guvenilirligin onunde td securities",
-      "link": "https://tr.tradingview.com/news/fxstreet:af137859ad9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro pmi gucu abd dolar kars s nda destekliyor bbh",
-      "link": "https://tr.tradingview.com/news/fxstreet:da926adb7d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tahvil stresi suruyor alt n 4 600 dolar ast ikon menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6690408:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "jpmorgan tcmb nin gelecek ay haftal k repo ihalelerine yeniden baslayacag n ongoruyor bn",
-      "link": "https://tr.tradingview.com/news/matriks:6690406:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni enflasyonun boj faiz art r m beklentilerini desteklemesiyle abd dolar kars s nda gucleniyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:11df56cccd9e8:0"
     }
   ]
 }
