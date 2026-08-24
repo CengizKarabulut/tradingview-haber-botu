@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654504",
+      "last_seen_key": "kap:1654516",
       "seen_keys": [
+        "kap:1654516",
+        "kap:1654514",
+        "kap:1654512",
+        "kap:1654511",
+        "kap:1654509",
         "kap:1654504",
         "kap:1654502",
         "kap:1654498",
@@ -234,18 +239,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/karo-platinum-zimbabve-projesi-icin-madencilik-kiralama-anlasmas-imzalad-93CH-4041714",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/micron-technology-hissesi-bugun-neden-dusuyor-93CH-4041785",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/karo-platinum-zimbabve-projesi-icin-madencilik-kiralama-anlasmas-imzalad-93CH-4041714",
-        "investing:https://tr.investing.com/news/insider-trading-news/t-stamp-ceosu-genner-3210-dolarlk-a-snf-hisse-ald-93CH-4041712",
-        "investing:https://tr.investing.com/news/world-news/moodys-sri-lankann-caa1-notunu-reform-ilerlemesiyle-teyit-etti-93CH-4041710",
-        "investing:https://tr.investing.com/news/world-news/moodys-filipinlerin-baa2-notunu-mali-konsolidasyon-ile-teyit-etti-93CH-4041709",
-        "investing:https://tr.investing.com/news/transcripts/xpeng-hisse-senedi-duserken-2c-2026-tahminlerini-kacrd-93CH-4041706",
-        "investing:https://tr.investing.com/news/company-news/global-payments-hissesi-9559-dolarda-52-haftalk-zirve-yapt-93CH-4041704",
-        "investing:https://tr.investing.com/news/company-news/match-group-hissesi-4143-dolarla-yln-zirvesinde-93CH-4041703",
-        "investing:https://tr.investing.com/news/company-news/heimstaden-bostad-15-milyar-sek-yesil-tahvil-ihrac-etti-93CH-4041702",
-        "investing:https://tr.investing.com/news/stock-market-news/bunge-hisseleri-bugun-neden-dusuyor-93CH-4041698",
-        "investing:https://tr.investing.com/news/company-news/omnicom-group-hissesi-8867-dolarda-52-haftalk-zirve-yapt-93CH-4041694",
+        "investing:https://tr.investing.com/news/stock-market-news/micron-technology-hissesi-bugun-neden-dusuyor-93CH-4041785",
+        "investing:https://tr.investing.com/news/stock-market-news/tesla-hisseleri-bugun-neden-dusuyor-93CH-4041784",
+        "investing:https://tr.investing.com/news/stock-market-news/nebius-hissesi-bugun-neden-dusuyor-93CH-4041783",
+        "investing:https://tr.investing.com/news/stock-market-news/jefferies-ikinci-el-is-jetlerinin-stoklar-agustosta-yllk-bazda-yuzde-45-dustu-93CH-4041782",
+        "investing:https://tr.investing.com/news/analyst-ratings/piper-sandler-walmart-endiseleri-nedeniyle-celsius-hisse-notunu-korudu-93CH-4041780",
+        "investing:https://tr.investing.com/news/global-filings/etiler-gda-45-milyon-tl-nakit-kar-pay-dagtm-onerdi-93CH-4041781",
+        "investing:https://tr.investing.com/news/analyst-ratings/keybanc-servicetitan-hissesi-icin-hedefini-korudu-93CH-4041779",
+        "investing:https://tr.investing.com/news/analyst-ratings/piper-sandler-walmart-ivmesiyle-vita-coco-hisse-notunu-korudu-93CH-4041778",
+        "investing:https://tr.investing.com/news/analyst-ratings/piper-sandler-cfo-haberi-sonras-skyward-hisse-notunu-korudu-93CH-4041777",
+        "investing:https://tr.investing.com/news/company-news/greenland-mines-sarfartoq-icin-nadir-toprak-kaynak-tahminini-acklad-93CH-4041776",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -266,6 +271,16 @@
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
+        "investing:https://tr.investing.com/news/company-news/karo-platinum-zimbabve-projesi-icin-madencilik-kiralama-anlasmas-imzalad-93CH-4041714",
+        "investing:https://tr.investing.com/news/insider-trading-news/t-stamp-ceosu-genner-3210-dolarlk-a-snf-hisse-ald-93CH-4041712",
+        "investing:https://tr.investing.com/news/world-news/moodys-sri-lankann-caa1-notunu-reform-ilerlemesiyle-teyit-etti-93CH-4041710",
+        "investing:https://tr.investing.com/news/world-news/moodys-filipinlerin-baa2-notunu-mali-konsolidasyon-ile-teyit-etti-93CH-4041709",
+        "investing:https://tr.investing.com/news/transcripts/xpeng-hisse-senedi-duserken-2c-2026-tahminlerini-kacrd-93CH-4041706",
+        "investing:https://tr.investing.com/news/company-news/global-payments-hissesi-9559-dolarda-52-haftalk-zirve-yapt-93CH-4041704",
+        "investing:https://tr.investing.com/news/company-news/match-group-hissesi-4143-dolarla-yln-zirvesinde-93CH-4041703",
+        "investing:https://tr.investing.com/news/company-news/heimstaden-bostad-15-milyar-sek-yesil-tahvil-ihrac-etti-93CH-4041702",
+        "investing:https://tr.investing.com/news/stock-market-news/bunge-hisseleri-bugun-neden-dusuyor-93CH-4041698",
+        "investing:https://tr.investing.com/news/company-news/omnicom-group-hissesi-8867-dolarda-52-haftalk-zirve-yapt-93CH-4041694",
         "investing:https://tr.investing.com/news/stock-market-news/cantor-fitzgerald-cip-devi-nvidiay-en-iyi-yar-iletken-hissesi-secti-93CH-4041645",
         "investing:https://tr.investing.com/news/company-news/microvision-binlerce-iris-lidar-sensoru-icin-siparis-ald-93CH-4041642",
         "investing:https://tr.investing.com/news/company-news/cyabra-500000-dolarlk-avrupa-devlet-sozlesmeleri-ald-93CH-4041641",
@@ -725,17 +740,7 @@
         "investing:https://tr.investing.com/news/commodities-news/hindistann-gumruksuz-ithalat-karar-seker-vadeli-islemlerini-dusurdu-93CH-4040053",
         "investing:https://tr.investing.com/news/global-filings/kt-sukuk-106-milyar-tllik-kira-sertifikas-ihrac-icin-spk-onay-ald-93CH-4040052",
         "investing:https://tr.investing.com/news/stock-market-news/freeportmcmoran-hisseleri-neden-bugun-yukseliyor-93CH-4040029",
-        "investing:https://tr.investing.com/news/stock-market-news/apollo-kullanc-verilerinin-etkilendigi-guvenlik-ihlalini-bildirdi-93CH-4040028",
-        "investing:https://tr.investing.com/news/stock-market-news/moderna-hisseleri-bugun-neden-yukseliyor-93CH-4040025",
-        "investing:https://tr.investing.com/news/stock-market-news/btig-affirm-absde-yukselen-gecikmelere-dikkat-cekiyor-93CH-4040024",
-        "investing:https://tr.investing.com/news/stock-market-news/tg-therapeutics-hissesi-bugun-neden-yukseliyor-93CH-4040023",
-        "investing:https://tr.investing.com/news/company-news/alpha-tau-medical-hissesi-1479-dolarda-52-haftalk-zirve-yapt-93CH-4040022",
-        "investing:https://tr.investing.com/news/insider-trading-news/innventure-yoneticisi-james-donnally-337500-dolar-degerinde-hisse-ald-93CH-4040021",
-        "investing:https://tr.investing.com/news/insider-trading-news/innventure-ceosu-gregory-haskell-75600-dolarlk-hisse-ald-93CH-4040020",
-        "investing:https://tr.investing.com/news/insider-trading-news/innventure-yonetim-kurulu-baskan-349295-dolar-degerinde-hisse-ald-93CH-4040019",
-        "investing:https://tr.investing.com/news/insider-trading-news/gaia-yoneticisi-paul-sutherland-2306-dolarlk-hisse-ald-93CH-4040018",
-        "investing:https://tr.investing.com/news/company-news/ternium-sa-adr-hissesi-5607-dolarda-52-haftalk-zirve-yapt-93CH-4039986",
-        "investing:https://tr.investing.com/news/company-news/osi-systems-hissesi-1950-dolarda-52-haftalk-dip-yapt-93CH-4039985"
+        "investing:https://tr.investing.com/news/stock-market-news/apollo-kullanc-verilerinin-etkilendigi-guvenlik-ihlalini-bildirdi-93CH-4040028"
       ]
     },
     "ntvpara": {
@@ -981,8 +986,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:07396c062d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:adba0cc0fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:adba0cc0fd9e8:0",
+        "tradingview:fxstreet:08ed8da1ed9e8:0",
+        "tradingview:fxstreet:f3a4ba881d9e8:0",
+        "tradingview:cointelegraph:85ab69e64d9e8:0",
         "tradingview:fxstreet:07396c062d9e8:0",
         "tradingview:fxstreet:18b8d2c17d9e8:0",
         "tradingview:matriks:6694332:0",
@@ -1478,11 +1487,7 @@
         "tradingview:beincrypto:9e4fb58f3d9e8:0",
         "tradingview:fxstreet:3598d8720d9e8:0",
         "tradingview:fxstreet:154dddf6ad9e8:0",
-        "tradingview:matriks:6690434:0",
-        "tradingview:fxstreet:af137859ad9e8:0",
-        "tradingview:fxstreet:da926adb7d9e8:0",
-        "tradingview:matriks:6690408:0",
-        "tradingview:matriks:6690406:0"
+        "tradingview:matriks:6690434:0"
       ]
     },
     "forexfactory": {
@@ -1500,6 +1505,101 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd baskan trump kanada otomobilleri kamyonlar celigine gumruk tarifeleri ac klad",
+      "link": "https://tr.tradingview.com/news/fxstreet:adba0cc0fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar abd buyume avantaj surdukce zay fl k istikrar kazanabilir bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:08ed8da1ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar trump n kanada ticaret savas n t rmand rmas yla geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f3a4ba881d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "zondacrypto yoneticisi siyasi baglara iliskin ifade kars l g nda hosgoru talep ediyor rapor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:85ab69e64d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "micron technology hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/micron-technology-hissesi-bugun-neden-dusuyor-93CH-4041785"
+    },
+    {
+      "source": "investing",
+      "text": "tesla hisseleri bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/tesla-hisseleri-bugun-neden-dusuyor-93CH-4041784"
+    },
+    {
+      "source": "investing",
+      "text": "nebius hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/nebius-hissesi-bugun-neden-dusuyor-93CH-4041783"
+    },
+    {
+      "source": "investing",
+      "text": "jefferies ikinci el is jetlerinin stoklar agustos ta y ll k bazda yuzde 45 dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/jefferies-ikinci-el-is-jetlerinin-stoklar-agustosta-yllk-bazda-yuzde-45-dustu-93CH-4041782"
+    },
+    {
+      "source": "investing",
+      "text": "piper sandler walmart endiseleri nedeniyle celsius hisse notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/piper-sandler-walmart-endiseleri-nedeniyle-celsius-hisse-notunu-korudu-93CH-4041780"
+    },
+    {
+      "source": "investing",
+      "text": "etiler g 4 5 milyon tl nakit kar pay dag t m onerdi",
+      "link": "https://tr.investing.com/news/global-filings/etiler-gda-45-milyon-tl-nakit-kar-pay-dagtm-onerdi-93CH-4041781"
+    },
+    {
+      "source": "investing",
+      "text": "keybanc servicetitan hissesi hedefini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/keybanc-servicetitan-hissesi-icin-hedefini-korudu-93CH-4041779"
+    },
+    {
+      "source": "investing",
+      "text": "piper sandler walmart ivmesiyle vita coco hisse notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/piper-sandler-walmart-ivmesiyle-vita-coco-hisse-notunu-korudu-93CH-4041778"
+    },
+    {
+      "source": "investing",
+      "text": "piper sandler cfo haberi sonras skyward hisse notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/piper-sandler-cfo-haberi-sonras-skyward-hisse-notunu-korudu-93CH-4041777"
+    },
+    {
+      "source": "investing",
+      "text": "greenland mines sarfartoq nadir toprak kaynak tahminini ac klad",
+      "link": "https://tr.investing.com/news/company-news/greenland-mines-sarfartoq-icin-nadir-toprak-kaynak-tahminini-acklad-93CH-4041776"
+    },
+    {
+      "source": "kap",
+      "text": "hdffl pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 3 kupon oran n n belirlenmesi sirket hedef arac kiralama servis a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654516"
+    },
+    {
+      "source": "kap",
+      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren tmks tera bank ikinci varl k finansman fonu vdmk itfas sirket birlesik ipotek finansmani a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654514"
+    },
+    {
+      "source": "kap",
+      "text": "akcvr brkvy deva emvar enjsa isatr kfilo ksfin ktsvk otkar qnbin tmks borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri sirket merkezi kayit kurulusu a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654512"
+    },
+    {
+      "source": "kap",
+      "text": "ecogr pay baz nda devre kesici bildirimi ecogr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654511"
+    },
+    {
+      "source": "kap",
+      "text": "alves pay baz nda devre kesici bildirimi alves e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654509"
+    },
     {
       "source": "tradingview",
       "text": "euro dolar kars s nda tersine donuse kars k r lgan ralli scotiabank",
@@ -8904,101 +9004,6 @@
       "source": "investing",
       "text": "wolfe research f d potansiyeline ragmen lumentum hissesi notunu korudu",
       "link": "https://tr.investing.com/news/analyst-ratings/wolfe-research-fd-potansiyeline-ragmen-lumentum-hissesi-notunu-korudu-93CH-4039446"
-    },
-    {
-      "source": "investing",
-      "text": "td cowen lakefront biotherapeutics hissesini al a yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/td-cowen-lakefront-biotherapeutics-hissesini-ala-yukseltti-93CH-4039443"
-    },
-    {
-      "source": "investing",
-      "text": "arrowhead pharmaceuticals yoneticisi 173 920 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/arrowhead-pharmaceuticals-yoneticisi-173920-dolar-degerinde-hisse-satt-93CH-4039439"
-    },
-    {
-      "source": "investing",
-      "text": "hon hai nin yan kurulusu q edge corporation a 188 milyon dolar yat rd",
-      "link": "https://tr.investing.com/news/company-news/hon-hainin-yan-kurulusu-qedge-corporationa-188-milyon-dolar-yatrd-93CH-4039438"
-    },
-    {
-      "source": "investing",
-      "text": "ubs avro bolgesi kazanc gorunumunu yukseltti",
-      "link": "https://tr.investing.com/news/stock-market-news/ubs-avro-bolgesi-icin-kazanc-gorunumunu-yukseltti-4039442"
-    },
-    {
-      "source": "investing",
-      "text": "bofa kamyon nakliyecileri anketi talep gorunumunde l ml art s gosteriyor",
-      "link": "https://tr.investing.com/news/stock-market-news/bofa-kamyon-nakliyecileri-anketi-talep-gorunumunde-lml-arts-gosteriyor-93CH-4039437"
-    },
-    {
-      "source": "investing",
-      "text": "guggenheim walmart hissesi hedef fiyat 130 dolara dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/guggenheim-walmart-hissesi-icin-hedef-fiyat-130-dolara-dusurdu-93CH-4039435"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bitcoin uc ay n zirvesinde bitcoin abd baskan donald trump n kripto paralara yonelik ac klamalar abd hazine bakanl g n n tahvil geri al mlar n art rma karar n n destegiyle yukselisini h zland rd",
-      "link": "https://www.bloomberght.com/bitcoin-uc-ayin-zirvesinde-3786149"
-    },
-    {
-      "source": "kap",
-      "text": "fpy genel ac klama qnb portfoy enpara alt n ozel fon kurulusu sirket qnb portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653907"
-    },
-    {
-      "source": "kap",
-      "text": "deva pay baz nda devre kesici bildirimi deva e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653906"
-    },
-    {
-      "source": "kap",
-      "text": "masfn pay baz nda devre kesici bildirimi masfn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653905"
-    },
-    {
-      "source": "tradingview",
-      "text": "birlesik krall k burnham hissiyat nda s crama deutsche bank",
-      "link": "https://tr.tradingview.com/news/fxstreet:8aec0522dd9e8:0"
-    },
-    {
-      "source": "bloomberght",
-      "text": "turkiye nin kad n girisimcisi yar smas basvurular baslad garanti bbva n n turkiye kad n girisimciler dernegi kagider ekonomist dergisi isbirligiyle hayata gecirdigi turkiye nin kad n girisimcisi yar smas n n 20 donem basvurular baslad",
-      "link": "https://www.bloomberght.com/turkiye-nin-kadin-girisimcisi-yarismasi-basvurulari-basladi-3786148"
-    },
-    {
-      "source": "kap",
-      "text": "karsn pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfkrsn82622 isin kodlu tahvilin itfa kupon odemesi sirket karsan otomotiv sanayii ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653904"
-    },
-    {
-      "source": "kap",
-      "text": "bobet pay baz nda devre kesici bildirimi bobet e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653903"
-    },
-    {
-      "source": "investing",
-      "text": "ubs ingiltere kazanc buyume tahminini yukseltti",
-      "link": "https://tr.investing.com/news/stock-market-news/ubs-ingiltere-icin-kazanc-buyume-tahminini-yukseltti-4039395"
-    },
-    {
-      "source": "investing",
-      "text": "ming yang uniwatt technology sat n al m nda ilerleme kaydetti",
-      "link": "https://tr.investing.com/news/company-news/ming-yang-uniwatt-technology-satn-almnda-ilerleme-kaydetti-93CH-4039382"
-    },
-    {
-      "source": "investing",
-      "text": "ishares fonu ayl k temettu dag t m na geciyor",
-      "link": "https://tr.investing.com/news/company-news/ishares-fonu-aylk-temettu-dagtmna-geciyor-93CH-4039377"
-    },
-    {
-      "source": "investing",
-      "text": "flowers foods hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/flowers-foods-hissesi-bugun-neden-dusuyor-93CH-4039375"
-    },
-    {
-      "source": "investing",
-      "text": "stoke therapeutics hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/stoke-therapeutics-hissesi-bugun-neden-yukseliyor-93CH-4039374"
     }
   ]
 }
