@@ -314,8 +314,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/honest-company-ceosu-carla-vernon-588286-dolar-degerinde-hisse-satt-93CH-4042169",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/alkermesin-narkolepsi-ilac-faz-2-denemesinde-olumlu-sonuc-verdi-93CH-4042172",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/alkermesin-narkolepsi-ilac-faz-2-denemesinde-olumlu-sonuc-verdi-93CH-4042172",
+        "investing:https://tr.investing.com/news/insider-trading-news/appfolio-yoneticisi-maurice-duca-215-milyon-dolarlk-hisse-satt-93CH-4042171",
         "investing:https://tr.investing.com/news/insider-trading-news/honest-company-ceosu-carla-vernon-588286-dolar-degerinde-hisse-satt-93CH-4042169",
         "investing:https://tr.investing.com/news/insider-trading-news/globalstar-yoneticisi-benjamin-wolff-164-milyon-dolarlk-hisse-satt-93CH-4042168",
         "investing:https://tr.investing.com/news/insider-trading-news/peoples-financial-ceosu-swetman-23250-dolar-degerinde-pfbx-hissesi-ald-93CH-4042167",
@@ -324,8 +326,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/honest-companynin-svpsi-mayle-30743-dolar-hisse-satt-93CH-4042164",
         "investing:https://tr.investing.com/news/insider-trading-news/goosehead-insurance-yoneticisi-490000-dolar-degerinde-hisse-satt-93CH-4042163",
         "investing:https://tr.investing.com/news/insider-trading-news/nexstar-medya-direktoru-aulestia-56040-dolar-degerinde-hisse-satt-93CH-4042162",
-        "investing:https://tr.investing.com/news/company-news/la-rosa-holdings-nasdaq-uyumlulugunu-yeniden-saglad-93CH-4042161",
-        "investing:https://tr.investing.com/news/insider-trading-news/morningstar-yonetim-kurulu-baskan-124-milyon-dolarlk-hisse-satt-93CH-4042160",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -346,6 +346,8 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/company-news/la-rosa-holdings-nasdaq-uyumlulugunu-yeniden-saglad-93CH-4042161",
+        "investing:https://tr.investing.com/news/insider-trading-news/morningstar-yonetim-kurulu-baskan-124-milyon-dolarlk-hisse-satt-93CH-4042160",
         "investing:https://tr.investing.com/news/insider-trading-news/cirrus-logic-evp-jeffrey-baumgartner-137459-dolarlk-crus-hissesi-satt-93CH-4042159",
         "investing:https://tr.investing.com/news/company-news/conx-kablosuz-operator-mobilexte-kontrol-hissesi-ald-93CH-4042158",
         "investing:https://tr.investing.com/news/stock-market-news/oura-halka-arzda-16-milyar-dolar-asan-degerlemeyle-3-milyar-dolar-hedefliyor--bloomberg-4042157",
@@ -813,9 +815,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/hims--herse-visadan-ihtilaf-arts-nedeniyle-ceza-93CH-4040304",
         "investing:https://tr.investing.com/news/insider-trading-news/corecivic-yoneticisi-john-prann-jr-758132-dolar-degerinde-hisse-satt-93CH-4040303",
         "investing:https://tr.investing.com/news/insider-trading-news/nb-bancorp-ceosu-joseph-campanelli-nbbk-hissesinden-43500-dolar-ald-93CH-4040302",
-        "investing:https://tr.investing.com/news/stock-market-news/canl-sgr-vadeli-islemleri-tarife-haberi-ve-zayf-nakit-piyasada-geriledi-93CH-4040301",
-        "investing:https://tr.investing.com/news/economy-news/trump-abdnin-kanada-ile-ticaret-anlasmas-yapmasn-bekliyor-93CH-4040300",
-        "investing:https://tr.investing.com/news/company-news/singularity-future-technology-5-milyon-dolarlk-arz-kapatt-93CH-4040299"
+        "investing:https://tr.investing.com/news/stock-market-news/canl-sgr-vadeli-islemleri-tarife-haberi-ve-zayf-nakit-piyasada-geriledi-93CH-4040301"
       ]
     },
     "ntvpara": {
@@ -1581,6 +1581,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "alkermes in narkolepsi ilac faz 2 denemesinde olumlu sonuc verdi",
+      "link": "https://tr.investing.com/news/company-news/alkermesin-narkolepsi-ilac-faz-2-denemesinde-olumlu-sonuc-verdi-93CH-4042172"
+    },
+    {
+      "source": "investing",
+      "text": "appfolio yoneticisi maurice duca 2 15 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/appfolio-yoneticisi-maurice-duca-215-milyon-dolarlk-hisse-satt-93CH-4042171"
+    },
     {
       "source": "tradingview",
       "text": "cin yuan abd dolar kars s nda 6 7200 hedefleniyor uob",
@@ -9070,16 +9080,6 @@
       "source": "investing",
       "text": "bristow yonetim kurulu uyesi lorin brass 92 702 dolar degerinde hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/bristow-yonetim-kurulu-uyesi-lorin-brass-92702-dolar-degerinde-hisse-satt-93CH-4040121"
-    },
-    {
-      "source": "investing",
-      "text": "cqs new city high yield fund 50 5 peni den 500 000 hisse ihrac etti",
-      "link": "https://tr.investing.com/news/company-news/cqs-new-city-high-yield-fund-505-peniden-500000-hisse-ihrac-etti-93CH-4040120"
-    },
-    {
-      "source": "investing",
-      "text": "tesla hisseleri bugun neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/tesla-hisseleri-bugun-neden-yukseliste-93CH-4040117"
     }
   ]
 }
