@@ -2,16 +2,21 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654280",
+      "last_seen_key": "kap:1654283",
       "seen_keys": [
+        "kap:1654283",
+        "kap:1654282",
+        "kap:1654281",
         "kap:1654280",
         "kap:1654279",
         "kap:1654278"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/altin-uc-ayin-zirvesini-asti-gozler-fed-ve-abd-enflasyon-verilerinde-3786244",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-odak-teknoloji-hisselerinde-3786246",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-odak-teknoloji-hisselerinde-3786246",
+        "bloomberght:https://www.bloomberght.com/tahvil-geri-alimi-aciklamasinin-etkisi-kisa-surdu-3786245",
         "bloomberght:https://www.bloomberght.com/altin-uc-ayin-zirvesini-asti-gozler-fed-ve-abd-enflasyon-verilerinde-3786244",
         "bloomberght:https://www.bloomberght.com/norvec-ukraynaya-2027de-9-2-milyar-dolarlik-destek-saglayacak-3786243",
         "bloomberght:https://www.bloomberght.com/piyasalarin-gozu-warshin-jackson-holedaki-ilk-konusmasinda-3786239",
@@ -63,8 +68,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/hanmi-pharm-hisseleri-genentech-obezite-ilac-anlasmasyla-30-yukseldi-93CH-4040660",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/haleon-guclu-marjlar-daha-guclu-buyumeye-cevirebilir-mi-4040670",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/haleon-guclu-marjlar-daha-guclu-buyumeye-cevirebilir-mi-4040670",
+        "investing:https://tr.investing.com/news/company-news/jyske-bank-34-haftada-55859-hisse-geri-ald-93CH-4040665",
+        "investing:https://tr.investing.com/news/stock-market-news/cinde-kap-kolu-guvenligi-nedeniyle-rekor-geri-cagrma-4040667",
         "investing:https://tr.investing.com/news/stock-market-news/hanmi-pharm-hisseleri-genentech-obezite-ilac-anlasmasyla-30-yukseldi-93CH-4040660",
         "investing:https://tr.investing.com/news/stock-market-news/2c-kazanclar-oncesi-ayda-28-yukseldi-yazlm-devinin-49-potansiyeli-var-4040659",
         "investing:https://tr.investing.com/news/stock-market-news/xiaomi-hisseleri-neden-dusuyor-93CH-4040657",
@@ -72,9 +80,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/metall-zug-satslar-artarken-zararn-daraltt-93CH-4040654",
         "investing:https://tr.investing.com/news/stock-market-news/shellin-kimyasal-bolumune-exxon-ve-lyondellbasell-ilgi-gosteriyor-4040655",
         "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-yatay-dolar-3-aylk-dusukte-abd-borc-ve-iran-riskleri-4040647",
-        "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-dustu-samsung-ve-alibaba-teknoloji-satsna-onculuk-etti-4040637",
-        "investing:https://tr.investing.com/news/stock-market-news/toei-animation-hisseleri-neden-yukseliste-93CH-4040634",
-        "investing:https://tr.investing.com/news/stock-market-news/endeavour-hissesi-bugun-neden-dusuyor-93CH-4040633",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -95,6 +100,9 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-dustu-samsung-ve-alibaba-teknoloji-satsna-onculuk-etti-4040637",
+        "investing:https://tr.investing.com/news/stock-market-news/toei-animation-hisseleri-neden-yukseliste-93CH-4040634",
+        "investing:https://tr.investing.com/news/stock-market-news/endeavour-hissesi-bugun-neden-dusuyor-93CH-4040633",
         "investing:https://tr.investing.com/news/stock-market-news/sinopec-hk-hissesi-bugun-neden-yukseliyor-93CH-4040632",
         "investing:https://tr.investing.com/news/stock-market-news/samsung-electronics-hisseleri-neden-dusuyor-93CH-4040631",
         "investing:https://tr.investing.com/news/stock-market-news/nvidia-perplexitye-30-milyar-dolarlk-degerlemeyle-yatrm-gorusmelerinde-93CH-4040629",
@@ -561,15 +569,13 @@
         "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-select-water-solutions-hissesini-fazla-kilolu-baslatt-93CH-4039211",
         "investing:https://tr.investing.com/news/analyst-ratings/keybanc-innovage-hissesi-icin-hedef-fiyat-belirledi-93CH-4039210",
         "investing:https://tr.investing.com/news/stock-market-news/monte-paschinin-ikili-devralma-teklifi-sonras-hisseler-dustu-4039214",
-        "investing:https://tr.investing.com/news/global-filings/pegasus-vismansn-yerine-alex-cruzu-yonetim-kuruluna-atad-93CH-4039201",
-        "investing:https://tr.investing.com/news/stock-market-news/investingproda-55-indirim-snrl-sureli-frsat-4039209",
-        "investing:https://tr.investing.com/news/global-filings/fenerbahce-futbol-403-milyar-tl-zarar-kaydetti-temettu-yok-93CH-4039196",
-        "investing:https://tr.investing.com/news/stock-market-news/48-37-kazanc-basarlar-artan-volatilite-ortamnda-yapay-zeka-secimli-hisselerin-haftasna-liderlik-etti-4039202"
+        "investing:https://tr.investing.com/news/global-filings/pegasus-vismansn-yerine-alex-cruzu-yonetim-kuruluna-atad-93CH-4039201"
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/yuksek-petrol-fiyatlari-avrupada-elektrikli-arac-satislarini-artiriyor-1738640",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-fast-islem-limiti-yuzde-200-yukseliyor-1738647",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-fast-islem-limiti-yuzde-200-yukseliyor-1738647",
         "ntvpara:https://www.ntv.com.tr/ntvpara/yuksek-petrol-fiyatlari-avrupada-elektrikli-arac-satislarini-artiriyor-1738640",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-5-bin-lira-daha-az-kazanacaksiniz-parasi-olanlar-dikkat-yeni-donem-basliyor-1738641",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-benzin-fiyatlari-artiyor-1738639",
@@ -798,8 +804,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:508550d3ad9e8:0",
+      "last_seen_key": "tradingview:fxstreet:d78a9182dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:d78a9182dd9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44L07L:0",
         "tradingview:cointelegraph:e6e0ec8aad9e8:0",
@@ -1298,8 +1305,7 @@
         "tradingview:matriks:6688732:0",
         "tradingview:matriks:6688731:0",
         "tradingview:matriks:6688729:0",
-        "tradingview:matriks:6688726:0",
-        "tradingview:matriks:6688724:0"
+        "tradingview:matriks:6688726:0"
       ]
     },
     "forexfactory": {
@@ -1317,6 +1323,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "eur usd fiyat analizi as r al m momentumu daha fazla kazanc s n rlarken 1 1700 un alt nda yatay seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d78a9182dd9e8:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "fast islem limiti yuzde 200 yukseliyor merkez bankas fast para transferi limitlerinin yukseltilecegini ac klad",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-fast-islem-limiti-yuzde-200-yukseliyor-1738647"
+    },
+    {
+      "source": "investing",
+      "text": "haleon guclu marjlar buyumeye donusturebilir jefferies degerlendirdi",
+      "link": "https://tr.investing.com/news/stock-market-news/haleon-guclu-marjlar-daha-guclu-buyumeye-cevirebilir-mi-4040670"
+    },
+    {
+      "source": "investing",
+      "text": "jyske bank 34 haftada 55 859 hisse geri ald",
+      "link": "https://tr.investing.com/news/company-news/jyske-bank-34-haftada-55859-hisse-geri-ald-93CH-4040665"
+    },
+    {
+      "source": "investing",
+      "text": "cin kap kolu guvenligi nedeniyle rekor geri cag rma",
+      "link": "https://tr.investing.com/news/stock-market-news/cinde-kap-kolu-guvenligi-nedeniyle-rekor-geri-cagrma-4040667"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kuresel piyasalar teknoloji hisselerine odakland hafta nvidia basta olmak uzere teknoloji sirketlerinden beklenen bilanco ac klamalar fed baskan kevin warsh n y ll k jackson hole toplant s nda yapacag konusma oncesinde tedirgin temkinli hava etkili oluyor",
+      "link": "https://www.bloomberght.com/kuresel-piyasalarda-odak-teknoloji-hisselerinde-3786246"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tahvil geri al m ac klamas n n etkisi k sa surdu bessent in ac klamas ilk asamada tahvil getirilerini asag cekse abd nin 10 y ll k tahvillerinin getirisi haftay goreve gelmesinden yana gorulen en yuksek seviyelere yak n noktada yuzde 4 73 seviyesinde kapatt",
+      "link": "https://www.bloomberght.com/tahvil-geri-alimi-aciklamasinin-etkisi-kisa-surdu-3786245"
+    },
+    {
+      "source": "kap",
+      "text": "frigo tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyum raporu hk sirket frigo pak gida maddeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654283"
+    },
+    {
+      "source": "kap",
+      "text": "forte pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654282"
+    },
+    {
+      "source": "kap",
+      "text": "anele dnisi orge paseu pbr phe pnu ruzye taten tehol thf tly tmpol tmv trhol kamuyu ayd nlatma platformu duyurusu ozel durumlar tebligi nin 12 4 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654281"
+    },
     {
       "source": "tradingview",
       "text": "bas nda bugun 24 agustos pazartesi",
@@ -8766,56 +8822,6 @@
       "source": "investing",
       "text": "mount logan capital cfo su satoren mlci hisselerinden 1 600 dolar ald",
       "link": "https://tr.investing.com/news/insider-trading-news/mount-logan-capital-cfosu-satoren-mlci-hisselerinden-1600-dolar-ald-93CH-4038991"
-    },
-    {
-      "source": "investing",
-      "text": "fisher paykel healthcare 2027 kar tahminini yukseltti",
-      "link": "https://tr.investing.com/news/stock-market-news/fisher--paykel-healthcare-2027-kar-tahminini-yukseltti-93CH-4038989"
-    },
-    {
-      "source": "investing",
-      "text": "petrol fiyatlar 1 ayl k zirveden dustu abd iran geriliminde haftal k kazanc yolunda",
-      "link": "https://tr.investing.com/news/commodities-news/petrol-fiyatlar-1-aylk-zirveden-dustu-abdiran-geriliminde-haftalk-kazanc-yolunda-4038990"
-    },
-    {
-      "source": "investing",
-      "text": "happen svp fergal stack 2 13 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/happen-svp-fergal-stack-213-milyon-dolarlk-hisse-satt-93CH-4038987"
-    },
-    {
-      "source": "investing",
-      "text": "viridian therapeutics clo 348 194 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/viridian-therapeutics-clo-348194-dolarlk-hisse-satt-93CH-4038986"
-    },
-    {
-      "source": "investing",
-      "text": "aeva technologies cfo su sinha 1 48 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/aeva-technologies-cfosu-sinha-148-milyon-dolarlk-hisse-satt-93CH-4038985"
-    },
-    {
-      "source": "investing",
-      "text": "micron evp sumit sadana 14 01 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/micron-evp-sumit-sadana-1401-milyon-dolarlk-hisse-satt-93CH-4038983"
-    },
-    {
-      "source": "investing",
-      "text": "corebridge financial yoneticisi 256 024 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/corebridge-financial-yoneticisi-256024-dolar-degerinde-hisse-satt-93CH-4038982"
-    },
-    {
-      "source": "tradingview",
-      "text": "bessent abd nin buyuk olcekli iran cat smalar na yeniden baslamas n n pek olas olmad g n soyluyor ekonomik bask y art r yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:705f23d95d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "surgery partners yoneticisi teresa deluca 161 212 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/surgery-partners-yoneticisi-teresa-deluca-161212-dolar-degerinde-hisse-ald-93CH-4038947"
-    },
-    {
-      "source": "investing",
-      "text": "meta cto andrew bosworth 4 379 184 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/meta-cto-andrew-bosworth-4379184-dolarlk-hisse-satt-93CH-4038946"
     }
   ]
 }
