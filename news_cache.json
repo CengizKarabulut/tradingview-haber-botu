@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654612",
+      "last_seen_key": "kap:1654616",
       "seen_keys": [
+        "kap:1654616",
+        "kap:1654615",
+        "kap:1654614",
         "kap:1654612",
         "kap:1654605",
         "kap:1654604",
@@ -40,7 +43,6 @@
         "kap:1654559",
         "kap:1654558",
         "kap:1654557",
-        "kap:1654556",
         "kap:1654555",
         "kap:1654554",
         "kap:1654551",
@@ -99,6 +101,7 @@
         "kap:1654460",
         "kap:1654459",
         "kap:1654458",
+        "kap:1654556",
         "kap:1654454",
         "kap:1654452",
         "kap:1654450",
@@ -262,7 +265,6 @@
         "bloomberght:https://www.bloomberght.com/iran-savasin-golgesinde-dogalgaz-kesfetti-3786238",
         "bloomberght:https://www.bloomberght.com/abdden-irana-yeni-ekonomik-saldiri-hazirligi-3786237",
         "bloomberght:https://www.bloomberght.com/petrol-abdnin-iran-yaptirimlari-oncesi-geriledi-3786236",
-        "bloomberght:https://www.bloomberght.com/piyasalarda-gunun-ozeti-24-agustos-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3786312",
         "bloomberght:https://www.bloomberght.com/gram-altinda-son-durum-ne-24-agustos-2026-pazartesi-altin-fiyatlari-pkh1-3786261",
         "bloomberght:https://www.bloomberght.com/dolar-ne-kadar-oldu-24-agustos-2026-dolar-kurunda-son-durum-ne-pkh2-3786252",
         "bloomberght:https://www.bloomberght.com/resmi-gazrete-de-bugun-24082026-3786235",
@@ -273,6 +275,7 @@
         "bloomberght:https://www.bloomberght.com/pezaskiyan-ekonomik-ve-askeri-anlamda-topyekun-savas-icindeyiz-3786231",
         "bloomberght:https://www.bloomberght.com/zayiflayan-dolar-ve-arz-endiseleri-emtia-fiyatlarini-yukseltti-3786230",
         "bloomberght:https://www.bloomberght.com/kanada-basbakani-carney-abd-nin-tarifelerine-yanit-vereceklerini-soyledi-3786229",
+        "bloomberght:https://www.bloomberght.com/piyasalarda-gunun-ozeti-24-agustos-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3786312",
         "bloomberght:https://www.bloomberght.com/iran-abd-ye-ekonomik-savasta-yardim-eden-bolge-ulkelerinin-cikarlarini-vururuz-3786228",
         "bloomberght:https://www.bloomberght.com/abd-mahkemesi-trump-in-75-ulkeden-gelen-gocmen-vizelerini-askiya-alma-kararini-durdurdu-3786227",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-23-agustos-2026-3786226",
@@ -1060,8 +1063,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6694631:0",
+      "last_seen_key": "tradingview:fxstreet:18b8d2c17d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:18b8d2c17d9e8:0",
+        "tradingview:fxstreet:ae3570b66d9e8:0",
+        "tradingview:fxstreet:2dedfcadad9e8:0",
+        "tradingview:matriks:6694648:0",
+        "tradingview:matriks:6694646:0",
+        "tradingview:matriks:6694643:0",
+        "tradingview:matriks:6694639:0",
+        "tradingview:matriks:6694636:0",
+        "tradingview:cointelegraph:85e25a270d9e8:0",
+        "tradingview:fxstreet:6f3ff6cebd9e8:0",
+        "tradingview:matriks:6694633:0",
         "tradingview:matriks:6694631:0",
         "tradingview:matriks:6694622:0",
         "tradingview:matriks:6694620:0",
@@ -1090,7 +1104,6 @@
         "tradingview:fxstreet:f3a4ba881d9e8:0",
         "tradingview:cointelegraph:85ab69e64d9e8:0",
         "tradingview:fxstreet:07396c062d9e8:0",
-        "tradingview:fxstreet:18b8d2c17d9e8:0",
         "tradingview:matriks:6694332:0",
         "tradingview:matriks:6694333:0",
         "tradingview:matriks:6694335:0",
@@ -1144,14 +1157,15 @@
         "tradingview:matriks:6694062:0",
         "tradingview:matriks:6694057:0",
         "tradingview:fxstreet:7555f9345d9e8:0",
-        "tradingview:matriks:6694054:0",
         "tradingview:fxstreet:46e184dd9d9e8:0",
         "tradingview:matriks:6694025:0",
         "tradingview:matriks:6694017:0",
+        "tradingview:matriks:6694002:0",
         "tradingview:fxstreet:95a5d9862d9e8:0",
         "tradingview:fxstreet:83fb46523d9e8:0",
         "tradingview:matriks:6693992:0",
         "tradingview:matriks:6693991:0",
+        "tradingview:matriks:6694054:0",
         "tradingview:matriks:6693988:0",
         "tradingview:matriks:6693985:0",
         "tradingview:matriks:6693984:0",
@@ -1550,18 +1564,7 @@
         "tradingview:beincrypto:7b85bd724d9e8:0",
         "tradingview:fxstreet:af54de630d9e8:0",
         "tradingview:fxstreet:8eceb7a30d9e8:0",
-        "tradingview:fxstreet:cd5f532c8d9e8:0",
-        "tradingview:fxstreet:c94488439d9e8:0",
-        "tradingview:fxstreet:233638037d9e8:0",
-        "tradingview:fxstreet:77d0edc64d9e8:0",
-        "tradingview:fxstreet:8dda6ff2fd9e8:0",
-        "tradingview:fxstreet:e03ceb223d9e8:0",
-        "tradingview:beincrypto:6ac253cd5d9e8:0",
-        "tradingview:fxstreet:f54c60504d9e8:0",
-        "tradingview:fxstreet:b09f7c611d9e8:0",
-        "tradingview:cointelegraph:17cd0736fd9e8:0",
-        "tradingview:fxstreet:499b6a706d9e8:0",
-        "tradingview:fxstreet:8d090b11ed9e8:0"
+        "tradingview:fxstreet:cd5f532c8d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1579,6 +1582,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar yat r mc lar n rba tutanaklar n beklemesiyle birkac ayl k zirvelerine yak n geri cekiliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ae3570b66d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti fiyat analizi 100 gunluk sma 85 civar nda yukselisi s n rl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2dedfcadad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "n kolay gerceklestirilen is birligi kapsam nda pttavm kullan c lar al sveris s ras nda taksitli al sveris kredisine platform uzerinden kolay guvenli sekilde basvurabilecek",
+      "link": "https://tr.tradingview.com/news/matriks:6694648:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "honor en h zl buyuyen android markas oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6694646:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sennheiser momentum true wireless 5 tan t ld",
+      "link": "https://tr.tradingview.com/news/matriks:6694643:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ilk insaat enr listesinde 138 inci s raya yukseldi",
+      "link": "https://tr.tradingview.com/news/matriks:6694639:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "halkbank ureten kad nlar yar smas n n yeni donem basvurular baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6694636:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ether 2 500 dolar n uzerine c karken bitmine 14 ayl k eth al m temposunu surduruyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:85e25a270d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini hissiyat abd dolar kars s nda daha fazla kazanc destekliyor scotiabank",
+      "link": "https://tr.tradingview.com/news/fxstreet:6f3ff6cebd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "panasonic iki yeni showroomla marka deneyimini ege bolgesi tas yor",
+      "link": "https://tr.tradingview.com/news/matriks:6694633:0"
+    },
+    {
+      "source": "kap",
+      "text": "tba trksh sirket genel bilgi formu sirket turkish bank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654616"
+    },
+    {
+      "source": "kap",
+      "text": "gsdho ozel durum ac klamas genel gsd varl k yonetimi a s taraf ndan tahsili gecikmis alacak portfoyu al m sirket gsd holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654615"
+    },
+    {
+      "source": "kap",
+      "text": "kgyo ihrac tavan na iliskin bildirim borclanma arac ihrac na iliskin yonetim kurulu karar sermaye piyasas kurulu na basvuru hk sirket koray gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654614"
+    },
     {
       "source": "tradingview",
       "text": "pepsico turkiye nin damla dunya projesi y l tekirdag onder ciftci uretim pazarlama kooperatifi nde devam ediyor",
@@ -9013,71 +9081,6 @@
       "source": "tradingview",
       "text": "haftal k bulten kuveyt turk yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6690052:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turkiye israil basbakan netanyahu hakk nda k rm z bulten talep etti adalet bakan gurlek",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44I0ND:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "vdk n n gozetimine tak lan mukellefler 28 7 milyar liral k matrah duzeltti vergi denetim kurulu vdk baskanl g sahte belge mucadele gozetim program iii sbimp iii kapsam nda 28 7 milyar lira matrah n gonullu uyumla duzeltildigini bildirdi",
-      "link": "https://www.trthaber.com/haber/ekonomi/vdknin-gozetimine-takilan-mukellefler-287-milyar-liralik-matrahi-duzeltti-954584.html"
-    },
-    {
-      "source": "investing",
-      "text": "yapay zeka yat r mlar alt ay oncesine gore daha ekonomik gorunuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrmlar-alt-ay-oncesine-gore-daha-ekonomik-gorunuyor-4039885"
-    },
-    {
-      "source": "investing",
-      "text": "piper sandler walmart n hisse hedefini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/piper-sandler-walmartn-hisse-hedefini-dusurdu-93CH-4039882"
-    },
-    {
-      "source": "investing",
-      "text": "mizuho broadcom hissesi gorusunu yineledi",
-      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-broadcom-hissesi-icin-gorusunu-yineledi-93CH-4039881"
-    },
-    {
-      "source": "investing",
-      "text": "piper sandler buyume endiseleriyle applovin hisse hedefini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/piper-sandler-buyume-endiseleriyle-applovin-hisse-hedefini-dusurdu-93CH-4039880"
-    },
-    {
-      "source": "investing",
-      "text": "piper sandler intuitive surgical ag rl kl al tavsiyesini korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/piper-sandler-intuitive-surgical-icin-agrlkl-al-tavsiyesini-korudu-93CH-4039879"
-    },
-    {
-      "source": "bloomberght",
-      "text": "tesla cin 3 milyon arac geri cag rd tesla kap kollar ndaki guvenlik endiseleri nedeniyle cin milyonlarca arac geri cag rd",
-      "link": "https://www.bloomberght.com/tesla-cin-de-3-milyon-araci-geri-cagirdi-3786161"
-    },
-    {
-      "source": "kap",
-      "text": "emnis ozel durum ac klamas genel konkordato 57 taksit odemesi sirket eminis ambalaj sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654032"
-    },
-    {
-      "source": "kap",
-      "text": "takasbank para piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654030"
-    },
-    {
-      "source": "kap",
-      "text": "frigo sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m ndan elde edilen fonun kullan m raporu hk sirket frigo pak gida maddeleri sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654029"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni japonya verileri guclu gelirken destek testi bbh",
-      "link": "https://tr.tradingview.com/news/fxstreet:dd1a77062d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gosterge niteligindeki tc merkez bankas dolar al s 47 8799 sat s 47 9662 euro al s 56 0159 sat s 56 1169",
-      "link": "https://tr.tradingview.com/news/matriks:6690021:0"
     }
   ]
 }
