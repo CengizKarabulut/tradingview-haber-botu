@@ -353,8 +353,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/consumers-bancorp-evp-3200-dolarlk-hisse-satn-ald-93CH-4042036",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/moodys-xponun-notunu-ba1e-yukseltti-93CH-4042044",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/moodys-xponun-notunu-ba1e-yukseltti-93CH-4042044",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landde-381-dolar-degerinde-hisse-ald-93CH-4042043",
+        "investing:https://tr.investing.com/news/company-news/cosmos-health-oliv18-takviyesinden-6-milyon-dolar-gelir-bekliyor-93CH-4042042",
         "investing:https://tr.investing.com/news/insider-trading-news/consumers-bancorp-evp-3200-dolarlk-hisse-satn-ald-93CH-4042036",
         "investing:https://tr.investing.com/news/insider-trading-news/wesbanco-yonetim-kurulu-uyesi-knousesnyder-125545-dolar-hisse-satt-93CH-4042034",
         "investing:https://tr.investing.com/news/analyst-ratings/bernstein-socgen-xpeng-icin-hisse-hedefini-dusurdu-93CH-4042033",
@@ -362,9 +365,6 @@
         "investing:https://tr.investing.com/news/economy-news/hazine-kuantum-bilisim-risklerine-kars-gorev-gucu-kurdu-93CH-4042031",
         "investing:https://tr.investing.com/news/company-news/jetblue-bostonda-ikinci-bluehouse-salonunu-persembe-acyor-93CH-4042030",
         "investing:https://tr.investing.com/news/commodities-news/soya-vadeli-islemleri-ham-petrol-ile-geriledi-ihracat-dususu-snrlad-93CH-4042028",
-        "investing:https://tr.investing.com/news/insider-trading-news/packaging-corp-of-america-yoneticisi-301-milyon-dolarlk-hisse-satt-93CH-4042027",
-        "investing:https://tr.investing.com/news/insider-trading-news/bank-first-corp-yoneticisi-tracy-pearson-160737-dolar-hisse-ald-93CH-4042026",
-        "investing:https://tr.investing.com/news/company-news/tyson-foods-12-milyar-dolarlk-bonolar-icin-ihale-fiyat-acklad-93CH-4042025",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -385,6 +385,9 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/insider-trading-news/packaging-corp-of-america-yoneticisi-301-milyon-dolarlk-hisse-satt-93CH-4042027",
+        "investing:https://tr.investing.com/news/insider-trading-news/bank-first-corp-yoneticisi-tracy-pearson-160737-dolar-hisse-ald-93CH-4042026",
+        "investing:https://tr.investing.com/news/company-news/tyson-foods-12-milyar-dolarlk-bonolar-icin-ihale-fiyat-acklad-93CH-4042025",
         "investing:https://tr.investing.com/news/company-news/guardant-health-patent-davasnda-mahkeme-kararna-itiraz-edecek-93CH-4042021",
         "investing:https://tr.investing.com/news/company-news/united-bankshares-temettu-ve-geri-alm-program-acklad-93CH-4042020",
         "investing:https://tr.investing.com/news/company-news/fs-bancorp-5-milyon-dolarlk-hisse-geri-alm-program-onaylad-93CH-4042019",
@@ -851,10 +854,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/bkv-corp-kdemli-baskan-yardmcs-318452-dolar-degerinde-hisse-satt-93CH-4040213",
         "investing:https://tr.investing.com/news/insider-trading-news/warrior-met-coal-caosu-336-bin-dolarlk-hisse-satt-93CH-4040211",
         "investing:https://tr.investing.com/news/stock-market-news/raymond-james-agustos-2026da-token-fiyat-farknn-genisledigini-goruyor-93CH-4040210",
-        "investing:https://tr.investing.com/news/company-news/agilent-technologies-hissesi-16036-dolarda-52-haftalk-zirve-yapt-93CH-4040209",
-        "investing:https://tr.investing.com/news/company-news/peoples-bancorp-uc-aylk-021-dolar-temettu-acklad-93CH-4040208",
-        "investing:https://tr.investing.com/news/company-news/virtu-financial-hissesi-6808-dolarla-rekor-krd-93CH-4040206",
-        "investing:https://tr.investing.com/news/company-news/gronland-nadir-toprak-elementleri-lisans-devrini-onaylad-93CH-4040205"
+        "investing:https://tr.investing.com/news/company-news/agilent-technologies-hissesi-16036-dolarda-52-haftalk-zirve-yapt-93CH-4040209"
       ]
     },
     "ntvpara": {
@@ -1101,8 +1101,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:ed53bc915d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:e6b302c68d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:e6b302c68d9e8:0",
         "tradingview:fxstreet:ed53bc915d9e8:0",
         "tradingview:cointelegraph:d9cb5fca1d9e8:0",
         "tradingview:fxstreet:99f5b4f8bd9e8:0",
@@ -1601,8 +1602,7 @@
         "tradingview:beincrypto:91a3dfbccd9e8:0",
         "tradingview:fxstreet:dc06fe037d9e8:0",
         "tradingview:fxstreet:e7bd098dcd9e8:0",
-        "tradingview:beincrypto:243c25969d9e8:0",
-        "tradingview:beincrypto:653bab6d2d9e8:0"
+        "tradingview:beincrypto:243c25969d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1620,6 +1620,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu abd dolar kars s nda konsolidasyon bolgesi hedefleniyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:e6b302c68d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "moody s xpo nun notunu ba1 e yukseltti",
+      "link": "https://tr.investing.com/news/stock-market-news/moodys-xponun-notunu-ba1e-yukseltti-93CH-4042044"
+    },
+    {
+      "source": "investing",
+      "text": "horizon kinetics texas pacific land 381 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landde-381-dolar-degerinde-hisse-ald-93CH-4042043"
+    },
+    {
+      "source": "investing",
+      "text": "cosmos health oliv18 takviyesinden 6 milyon dolar gelir bekliyor",
+      "link": "https://tr.investing.com/news/company-news/cosmos-health-oliv18-takviyesinden-6-milyon-dolar-gelir-bekliyor-93CH-4042042"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar endeksi temkinli toparlanma 100 civar nda s n rl kald scotiabank",
@@ -9099,26 +9119,6 @@
       "source": "tradingview",
       "text": "japon yeni enflasyonun boj faiz art r m beklentilerini desteklemesiyle abd dolar kars s nda gucleniyor",
       "link": "https://tr.tradingview.com/news/fxstreet:11df56cccd9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "benchmark nvidia hissesi al tavsiyesini yineledi",
-      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-nvidia-hissesi-icin-al-tavsiyesini-yineledi-93CH-4040081"
-    },
-    {
-      "source": "investing",
-      "text": "benchmark ticarilesme ilerlemesi sonras rank one hisse gorusunu yineledi",
-      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-ticarilesme-ilerlemesi-sonras-rank-one-hisse-gorusunu-yineledi-93CH-4040082"
-    },
-    {
-      "source": "investing",
-      "text": "benchmark intchains group un hisse hedefini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-intchains-groupun-hisse-hedefini-dusurdu-93CH-4040077"
-    },
-    {
-      "source": "investing",
-      "text": "jpmorgan deere in hisse hedefini uretim gorunumuyle yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-deerein-hisse-hedefini-uretim-gorunumuyle-yukseltti-93CH-4040076"
     }
   ]
 }
