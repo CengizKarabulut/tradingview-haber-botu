@@ -935,8 +935,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:95a5d9862d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:46e184dd9d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:46e184dd9d9e8:0",
+        "tradingview:matriks:6694025:0",
+        "tradingview:matriks:6694017:0",
         "tradingview:fxstreet:95a5d9862d9e8:0",
         "tradingview:fxstreet:83fb46523d9e8:0",
         "tradingview:matriks:6693992:0",
@@ -1433,10 +1436,7 @@
         "tradingview:fxstreet:0c0f4dcd1d9e8:0",
         "tradingview:fxstreet:b07244d61d9e8:0",
         "tradingview:fxstreet:0eeb74e8cd9e8:0",
-        "tradingview:fxstreet:b415f415ed9e8:0",
-        "tradingview:beincrypto:0b853c7e6d9e8:0",
-        "tradingview:fxstreet:2a41656bcd9e8:0",
-        "tradingview:matriks:6689842:0"
+        "tradingview:fxstreet:b415f415ed9e8:0"
       ]
     },
     "forexfactory": {
@@ -1454,6 +1454,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kanada dolar gsyih toparlanmas kanada dolar n destekliyor td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:46e184dd9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan eylul ilk tokenize kurumsal tahvil ihrac n yapmaya haz rlan yor",
+      "link": "https://tr.tradingview.com/news/matriks:6694025:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ozel haber tcmb rezervlerinin gecen hafta 5 3 milyar dolar artt g hesapland",
+      "link": "https://tr.tradingview.com/news/matriks:6694017:0"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar deger kayb anlat s yukselisi s n rl yor ocbc",
@@ -8938,21 +8953,6 @@
       "source": "tradingview",
       "text": "almanya bilesik pmi agustos ta 51 0 beklenti 51 3 onceki 51 3",
       "link": "https://tr.tradingview.com/news/matriks:6689115:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "almanya hizmet sektoru pmi agustos ta 48 5 beklenti 50 1 onceki 49 8",
-      "link": "https://tr.tradingview.com/news/matriks:6689114:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yenileme bak rc gyo nun halka arz basvurusu onayland",
-      "link": "https://tr.tradingview.com/news/matriks:6689098:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "imalat sanayinde kapasite kullan m oran agustos ta 0 4 puan azalarak 73 5 oldu tcmb",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_APNA2HEIR:0"
     }
   ]
 }
