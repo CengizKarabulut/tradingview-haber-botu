@@ -919,8 +919,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6693793:0",
+      "last_seen_key": "tradingview:matriks:6693830:0",
       "seen_keys": [
+        "tradingview:matriks:6693830:0",
         "tradingview:matriks:6693793:0",
         "tradingview:matriks:6693791:0",
         "tradingview:fxstreet:ccf8c1132d9e8:0",
@@ -1419,8 +1420,7 @@
         "tradingview:cointelegraph:5d66c52d7d9e8:0",
         "tradingview:matriks:6689445:0",
         "tradingview:matriks:6689439:0",
-        "tradingview:fxstreet:8f6500badd9e8:0",
-        "tradingview:matriks:6689420:0"
+        "tradingview:fxstreet:8f6500badd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1438,6 +1438,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "anket matriks haber bist sentiment anketi borsa kapan s beklentisi 87 00 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6693830:0"
+    },
     {
       "source": "ntvpara",
       "text": "skandallarla sars lan kpmg avustralya yaklas k 400 kisiyi isten c karacak kpmg avustralya n n isten c karma planlar toplamda 27 ortag n 360 cal san n etkileyecek geride kalanlar n maaslar ise azalt lacak",
@@ -8932,11 +8937,6 @@
       "source": "tradingview",
       "text": "merkez bankas nca ac klanan verilere gore bankalar n serbest depolar toplam 1855230 6 milyon tl",
       "link": "https://tr.tradingview.com/news/matriks:6688975:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "piyasa gunlugu is bankas",
-      "link": "https://tr.tradingview.com/news/matriks:6688973:0"
     }
   ]
 }
