@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654278",
+      "last_seen_key": "kap:1654279",
       "seen_keys": [
+        "kap:1654279",
         "kap:1654278"
       ]
     },
@@ -574,8 +575,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-merkez-bankasi-6-ay-once-durdurmustu-1-hafta-vadeli-repo-ihaleleri-geri-donuyor-1738599",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/petrol-fiyatlarinda-yaptirim-oncesi-kar-satisi-1738634",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/petrol-fiyatlarinda-yaptirim-oncesi-kar-satisi-1738634",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-merkez-bankasi-6-ay-once-durdurmustu-1-hafta-vadeli-repo-ihaleleri-geri-donuyor-1738599",
         "ntvpara:https://www.ntv.com.tr/ntvpara/kamuda-484-milyar-liralik-tasarruf-1738570",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-ankara-konya-yht-15-yilda-228-milyon-yolcuya-hizmet-verdi-1738559",
@@ -800,14 +802,22 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6692956:0",
+      "last_seen_key": "tradingview:matriks:6692968:0",
       "seen_keys": [
+        "tradingview:matriks:6692968:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44L06R:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44L086:0",
+        "tradingview:fxstreet:0be6ca2e6d9e8:0",
+        "tradingview:matriks:6692963:0",
+        "tradingview:matriks:6692961:0",
+        "tradingview:matriks:6692960:0",
         "tradingview:matriks:6692956:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44L07G:0",
         "tradingview:matriks:6692949:0",
         "tradingview:fxstreet:d375be9acd9e8:0",
         "tradingview:fxstreet:d302024d6d9e8:0",
         "tradingview:fxstreet:e42b063d0d9e8:0",
+        "tradingview:matriks:6692947:0",
         "tradingview:matriks:6692941:0",
         "tradingview:fxstreet:e6c1a13dcd9e8:0",
         "tradingview:matriks:6692935:0",
@@ -1293,15 +1303,7 @@
         "tradingview:matriks:6688668:0",
         "tradingview:matriks:6688666:0",
         "tradingview:matriks:6688665:0",
-        "tradingview:matriks:6688664:0",
-        "tradingview:matriks:6688661:0",
-        "tradingview:matriks:6688660:0",
-        "tradingview:matriks:6688659:0",
-        "tradingview:matriks:6688658:0",
-        "tradingview:matriks:6688657:0",
-        "tradingview:matriks:6688656:0",
-        "tradingview:matriks:6688654:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44I0BB:0"
+        "tradingview:matriks:6688664:0"
       ]
     },
     "forexfactory": {
@@ -1319,6 +1321,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "haftaya makro bak s veriden gorunume",
+      "link": "https://tr.tradingview.com/news/matriks:6692968:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 24 agustos pazartesi",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44L06R:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44L086:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nzd usd fiyat analizi al c lar 0 6000 uzerinden k r lma beklerken haziran ay zirvesi yak n nda konsolide oluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:0be6ca2e6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alibaba yapay zeka yat r mlar 10 2 milyar dolarl k kaynak toplayacak",
+      "link": "https://tr.tradingview.com/news/matriks:6692963:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6692961:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6692960:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "petrol fiyatlar nda yapt r m oncesi kar sat s abd nin iran a yonelik yeni yapt r mlar oncesinde petrol fiyatlar dustu",
+      "link": "https://www.ntv.com.tr/ntvpara/petrol-fiyatlarinda-yaptirim-oncesi-kar-satisi-1738634"
+    },
+    {
+      "source": "kap",
+      "text": "efor ozel durum ac klamas genel pay sat s na iliskin ek ac klama sirket efor yatirim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654279"
+    },
     {
       "source": "tradingview",
       "text": "haftal k bulten a1 capital",
@@ -8773,51 +8820,6 @@
       "source": "investing",
       "text": "heartflow ceo su john farquhar 1 47 milyon dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/heartflow-ceosu-john-farquhar-147-milyon-dolarlk-hisse-satt-93CH-4038924"
-    },
-    {
-      "source": "investing",
-      "text": "nakamoto ceo su david bailey sirket hisselerinden 25 161 dolar ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/nakamoto-ceosu-david-bailey-sirket-hisselerinden-25161-dolar-ald-93CH-4038923"
-    },
-    {
-      "source": "investing",
-      "text": "draftkings yoneticisi jocelyn moore 258 753 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/draftkings-yoneticisi-jocelyn-moore-258753-dolarlk-hisse-satt-93CH-4038922"
-    },
-    {
-      "source": "investing",
-      "text": "disney in ust duzey yoneticisi roeder 382 bin dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/disneyin-ust-duzey-yoneticisi-roeder-382-bin-dolarlk-hisse-satt-93CH-4038921"
-    },
-    {
-      "source": "investing",
-      "text": "murphy usa yoneticisi rosemary turner 552 436 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/murphy-usa-yoneticisi-rosemary-turner-552436-dolar-degerinde-hisse-satt-93CH-4038920"
-    },
-    {
-      "source": "investing",
-      "text": "medalist diversified cfo sirket hisselerinden 862 dolar ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/medalist-diversified-cfo-sirket-hisselerinden-862-dolar-ald-93CH-4038919"
-    },
-    {
-      "source": "tradingview",
-      "text": "avustralya s p global imalat pmi agustos ta 52 0 sabit kald",
-      "link": "https://tr.tradingview.com/news/fxstreet:f3ab1fdafd9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "evercommerce cfo su ryan siurek 32 398 dolar hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/evercommerce-cfosu-ryan-siurek-32398-dolar-hisse-satt-93CH-4038918"
-    },
-    {
-      "source": "investing",
-      "text": "mcgrath rentcorp ta ust duzey yonetici hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/mcgrath-rentcorpta-ust-duzey-yonetici-hisse-satt-93CH-4038916"
-    },
-    {
-      "source": "investing",
-      "text": "macrogenics k demli baskan yard mc s 129 085 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/macrogenics-kdemli-baskan-yardmcs-129085-dolarlk-hisse-satt-93CH-4038917"
     }
   ]
 }
