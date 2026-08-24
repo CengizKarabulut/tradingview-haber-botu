@@ -802,8 +802,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:933e637c2d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:09004c883d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:09004c883d9e8:0",
+        "tradingview:matriks:6692815:0",
         "tradingview:fxstreet:933e637c2d9e8:0",
         "tradingview:fxstreet:67033a631d9e8:0",
         "tradingview:fxstreet:fb7e96e64d9e8:0",
@@ -1301,9 +1303,7 @@
         "tradingview:matriks:6688520:0",
         "tradingview:matriks:6688507:0",
         "tradingview:matriks:6688517:0",
-        "tradingview:matriks:6688502:0",
-        "tradingview:matriks:6688506:0",
-        "tradingview:matriks:6688501:0"
+        "tradingview:matriks:6688502:0"
       ]
     },
     "forexfactory": {
@@ -1321,6 +1321,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kanada dolar sat c lar zay f usd nin abd kanada ticaret savas n dengelemesiyle tereddutlu gorunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:09004c883d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "emisyon hacmi 21 08 2026 itibariyle 993 47 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6692815:0"
+    },
     {
       "source": "tradingview",
       "text": "ons alt n abd hazine geri al m planlar yla 4 600 dolar n uzerinde ivme kazand",
@@ -8810,16 +8820,6 @@
       "source": "investing",
       "text": "epa fiyatlar dusurmek k s benzinine erken gecise izin verdi",
       "link": "https://tr.investing.com/news/stock-market-news/epa-fiyatlar-dusurmek-icin-ks-benzinine-erken-gecise-izin-verdi-4038700"
-    },
-    {
-      "source": "investing",
-      "text": "precigen hissesi 7 33 dolarda 52 haftal k zirve yapt",
-      "link": "https://tr.investing.com/news/company-news/precigen-hissesi-733-dolarda-52-haftalk-zirve-yapt-93CH-4038697"
-    },
-    {
-      "source": "kap",
-      "text": "alklc kat l m finans ilkeleri bilgi formu sirket altinkilic gida sut sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653723"
     }
   ]
 }
