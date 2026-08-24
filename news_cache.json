@@ -353,8 +353,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/bernstein-socgen-xpeng-icin-hisse-hedefini-dusurdu-93CH-4042033",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/consumers-bancorp-evp-3200-dolarlk-hisse-satn-ald-93CH-4042036",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/consumers-bancorp-evp-3200-dolarlk-hisse-satn-ald-93CH-4042036",
+        "investing:https://tr.investing.com/news/insider-trading-news/wesbanco-yonetim-kurulu-uyesi-knousesnyder-125545-dolar-hisse-satt-93CH-4042034",
         "investing:https://tr.investing.com/news/analyst-ratings/bernstein-socgen-xpeng-icin-hisse-hedefini-dusurdu-93CH-4042033",
         "investing:https://tr.investing.com/news/company-news/safety-insurance-group-hissesi-10376-dolarla-zirve-yapt-93CH-4042032",
         "investing:https://tr.investing.com/news/economy-news/hazine-kuantum-bilisim-risklerine-kars-gorev-gucu-kurdu-93CH-4042031",
@@ -363,8 +365,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/packaging-corp-of-america-yoneticisi-301-milyon-dolarlk-hisse-satt-93CH-4042027",
         "investing:https://tr.investing.com/news/insider-trading-news/bank-first-corp-yoneticisi-tracy-pearson-160737-dolar-hisse-ald-93CH-4042026",
         "investing:https://tr.investing.com/news/company-news/tyson-foods-12-milyar-dolarlk-bonolar-icin-ihale-fiyat-acklad-93CH-4042025",
-        "investing:https://tr.investing.com/news/company-news/guardant-health-patent-davasnda-mahkeme-kararna-itiraz-edecek-93CH-4042021",
-        "investing:https://tr.investing.com/news/company-news/united-bankshares-temettu-ve-geri-alm-program-acklad-93CH-4042020",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -385,6 +385,8 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/company-news/guardant-health-patent-davasnda-mahkeme-kararna-itiraz-edecek-93CH-4042021",
+        "investing:https://tr.investing.com/news/company-news/united-bankshares-temettu-ve-geri-alm-program-acklad-93CH-4042020",
         "investing:https://tr.investing.com/news/company-news/fs-bancorp-5-milyon-dolarlk-hisse-geri-alm-program-onaylad-93CH-4042019",
         "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-dine-brands-hissesi-icin-tut-onerisiyle-kapsama-baslad-93CH-4042018",
         "investing:https://tr.investing.com/news/company-news/plains-all-american-pipeline-hissesi-2504-dolarda-zirve-yapt-93CH-4042016",
@@ -852,9 +854,7 @@
         "investing:https://tr.investing.com/news/company-news/agilent-technologies-hissesi-16036-dolarda-52-haftalk-zirve-yapt-93CH-4040209",
         "investing:https://tr.investing.com/news/company-news/peoples-bancorp-uc-aylk-021-dolar-temettu-acklad-93CH-4040208",
         "investing:https://tr.investing.com/news/company-news/virtu-financial-hissesi-6808-dolarla-rekor-krd-93CH-4040206",
-        "investing:https://tr.investing.com/news/company-news/gronland-nadir-toprak-elementleri-lisans-devrini-onaylad-93CH-4040205",
-        "investing:https://tr.investing.com/news/world-news/abd-abann-hukuk-fakultesi-akreditasyon-yetkisini-kaldryor-93CH-4040201",
-        "investing:https://tr.investing.com/news/insider-trading-news/chicago-atlantic-refi-esceosu-peter-sack-52220-dolar-degerinde-hisse-ald-93CH-4040200"
+        "investing:https://tr.investing.com/news/company-news/gronland-nadir-toprak-elementleri-lisans-devrini-onaylad-93CH-4040205"
       ]
     },
     "ntvpara": {
@@ -1101,9 +1101,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:99f5b4f8bd9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:d9cb5fca1d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:d9cb5fca1d9e8:0",
         "tradingview:fxstreet:99f5b4f8bd9e8:0",
+        "tradingview:cointelegraph:413e212b4d9e8:0",
         "tradingview:fxstreet:bf893d647d9e8:0",
         "tradingview:fxstreet:e7490d48dd9e8:0",
         "tradingview:fxstreet:958c9b63ad9e8:0",
@@ -1600,9 +1602,7 @@
         "tradingview:beincrypto:653bab6d2d9e8:0",
         "tradingview:matriks:6690901:0",
         "tradingview:fxstreet:670766033d9e8:0",
-        "tradingview:beincrypto:980092348d9e8:0",
-        "tradingview:cointelegraph:2ac05528fd9e8:0",
-        "tradingview:fxstreet:84bf9260ad9e8:0"
+        "tradingview:beincrypto:980092348d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1620,6 +1620,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "coinbase baglant l savunuculuk grubu abd ara secimleri adaylar destekliyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:d9cb5fca1d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "consumers bancorp evp 3 200 dolarl k hisse sat n ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/consumers-bancorp-evp-3200-dolarlk-hisse-satn-ald-93CH-4042036"
+    },
+    {
+      "source": "investing",
+      "text": "wesbanco yonetim kurulu uyesi knouse snyder 125 545 dolar hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/wesbanco-yonetim-kurulu-uyesi-knousesnyder-125545-dolar-hisse-satt-93CH-4042034"
+    },
     {
       "source": "tradingview",
       "text": "cin yuan abd dolar kars s nda kilit seviyelerle kademeli deger kazanma egilimi ocbc",
@@ -9104,21 +9119,6 @@
       "source": "investing",
       "text": "clear street anterix hissesi al onerisini spektrum degeri uzerinden yineledi",
       "link": "https://tr.investing.com/news/analyst-ratings/clear-street-anterix-hissesi-icin-al-onerisini-spektrum-degeri-uzerinden-yineledi-93CH-4040075"
-    },
-    {
-      "source": "investing",
-      "text": "bernstein spacex iyimser ancak telekomda zorluklar goruyor",
-      "link": "https://tr.investing.com/news/stock-market-news/bernstein-spacex-icin-iyimser-ancak-telekomda-zorluklar-goruyor-4040079"
-    },
-    {
-      "source": "investing",
-      "text": "travere therapeutics hissesi 66 35 dolarda 52 haftal k zirve yapt",
-      "link": "https://tr.investing.com/news/company-news/travere-therapeutics-hissesi-6635-dolarda-52-haftalk-zirve-yapt-93CH-4040074"
-    },
-    {
-      "source": "investing",
-      "text": "jpmorgan walmart n hisse hedefini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-walmartn-hisse-hedefini-dusurdu-93CH-4040070"
     }
   ]
 }
