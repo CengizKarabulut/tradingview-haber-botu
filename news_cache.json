@@ -8,8 +8,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/iran-meclis-komisyonu-hurmuzden-gecen-gemilere-ucret-ongoren-maddeyi-kabul-etti-3786233",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazrete-de-bugun-24082026-3786235",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazrete-de-bugun-24082026-3786235",
+        "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-24-agustos-2026-3786234",
         "bloomberght:https://www.bloomberght.com/iran-meclis-komisyonu-hurmuzden-gecen-gemilere-ucret-ongoren-maddeyi-kabul-etti-3786233",
         "bloomberght:https://www.bloomberght.com/tcmb-haftalik-repo-ihalelerine-yeniden-basliyor-3786232",
         "bloomberght:https://www.bloomberght.com/pezaskiyan-ekonomik-ve-askeri-anlamda-topyekun-savas-icindeyiz-3786231",
@@ -806,6 +808,8 @@
       "seen_keys": [
         "tradingview:fxstreet:e6b355e1ad9e8:0",
         "tradingview:fxstreet:a990f9fe2d9e8:0",
+        "tradingview:beincrypto:ded9aab84d9e8:0",
+        "tradingview:beincrypto:0709b5f7cd9e8:0",
         "tradingview:fxstreet:8900bfcacd9e8:0",
         "tradingview:beincrypto:234b26fa1d9e8:0",
         "tradingview:beincrypto:83a4cb87cd9e8:0",
@@ -1301,9 +1305,7 @@
         "tradingview:matriks:6688525:0",
         "tradingview:matriks:6688524:0",
         "tradingview:matriks:6688513:0",
-        "tradingview:matriks:6688523:0",
-        "tradingview:matriks:6688522:0",
-        "tradingview:matriks:6688510:0"
+        "tradingview:matriks:6688523:0"
       ]
     },
     "forexfactory": {
@@ -1321,6 +1323,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "resmi gazrete bugun 24 08 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazrete-de-bugun-24082026-3786235"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ekonomi siyaset gundemi 24 agustos 2026 ekonomi siyaset gundeminde one c kanlar",
+      "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-24-agustos-2026-3786234"
+    },
     {
       "source": "tradingview",
       "text": "gumus fiyat analizi xag usd cuma gunu belirlenen 70 00 iki ayl k zirvenin alt nda yukselisini koruyor",
@@ -8810,16 +8822,6 @@
       "source": "kap",
       "text": "spk bulteni spk bulteni sirket sermaye piyasasi kurulu",
       "link": "https://www.kap.org.tr/tr/Bildirim/1653725"
-    },
-    {
-      "source": "tradingview",
-      "text": "guney kore wonu yabanc girislerle ralli h zlan yor dbs",
-      "link": "https://tr.tradingview.com/news/fxstreet:f7109e526d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "powerus ortadogu dan 22 3 milyon dolarl k sozlesme ald",
-      "link": "https://tr.investing.com/news/company-news/powerus-ortadogudan-223-milyon-dolarlk-sozlesme-ald-93CH-4038710"
     }
   ]
 }
