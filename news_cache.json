@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654646",
+      "last_seen_key": "kap:1654647",
       "seen_keys": [
+        "kap:1654647",
         "kap:1654646",
         "kap:1654645",
         "kap:1654644",
@@ -247,8 +248,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-yonetimi-103-bin-dolarlik-profesyonel-vizesinde-israrci-3786317",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-den-iran-a-yardim-eden-ulkelere-dolar-sistemi-tehdidi-3786327",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/abd-den-iran-a-yardim-eden-ulkelere-dolar-sistemi-tehdidi-3786327",
         "bloomberght:https://www.bloomberght.com/trump-yonetimi-103-bin-dolarlik-profesyonel-vizesinde-israrci-3786317",
         "bloomberght:https://www.bloomberght.com/wall-streetten-tahvil-uyarisi-3786315",
         "bloomberght:https://www.bloomberght.com/kritik-si-trump-zirvesi-oncesi-abd-de-yeni-tarife-hazirligi-3786314",
@@ -1092,6 +1094,8 @@
       "seen_keys": [
         "tradingview:fxstreet:3d7ba651fd9e8:0",
         "tradingview:cointelegraph:1a04365d5d9e8:0",
+        "tradingview:beincrypto:1a4ecd8e1d9e8:0",
+        "tradingview:beincrypto:2ec23d55bd9e8:0",
         "tradingview:fxstreet:6b376df05d9e8:0",
         "tradingview:fxstreet:63dee6489d9e8:0",
         "tradingview:fxstreet:c1dce71d4d9e8:0",
@@ -1587,9 +1591,7 @@
         "tradingview:fxstreet:80737ab62d9e8:0",
         "tradingview:fxstreet:e5a9cb8e2d9e8:0",
         "tradingview:fxstreet:c884fbd97d9e8:0",
-        "tradingview:fxstreet:de2f34fa9d9e8:0",
-        "tradingview:fxstreet:1fd36e77fd9e8:0",
-        "tradingview:fxstreet:31757c227d9e8:0"
+        "tradingview:fxstreet:de2f34fa9d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1607,6 +1609,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "abd den iran a yard m eden ulkelere dolar sistemi tehdidi abd hazine bakan scott bessent iran kuresel ekonomiden tamamen izole etmeyi amaclayan esi benzeri gorulmedigini belirttigi yeni yapt r m kampanyas baslatt klar n ac klad",
+      "link": "https://www.bloomberght.com/abd-den-iran-a-yardim-eden-ulkelere-dolar-sistemi-tehdidi-3786327"
+    },
+    {
+      "source": "kap",
+      "text": "armgd ozel durum ac klamas genel kredi sozlesmesinin imzalanmas hk sirket armada gida ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654647"
+    },
     {
       "source": "investing",
       "text": "energys group ayd nlatma gunes enerjisi sirketlerini sat n ald",
@@ -9096,16 +9108,6 @@
       "source": "tradingview",
       "text": "ingiliz sterlini kar s k veriler ancak sterlin destekleniyor bbh",
       "link": "https://tr.tradingview.com/news/fxstreet:b4235a208d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "new york borsas yukselisle ac ld",
-      "link": "https://tr.tradingview.com/news/matriks:6690184:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "ilac sektorunde faaliyet gosteren teva hakk nda sorusturma rekabet kurulu teva ilaclar sanayi ticaret as teva hakk nda sorusturma ac lmas na karar verdi",
-      "link": "https://www.trthaber.com/haber/ekonomi/ilac-sektorunde-faaliyet-gosteren-teva-hakkinda-sorusturma-954589.html"
     }
   ]
 }
