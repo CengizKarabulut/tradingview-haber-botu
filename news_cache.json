@@ -2,8 +2,29 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654560",
+      "last_seen_key": "kap:1654593",
       "seen_keys": [
+        "kap:1654593",
+        "kap:1654592",
+        "kap:1654591",
+        "kap:1654588",
+        "kap:1654584",
+        "kap:1654578",
+        "kap:1654577",
+        "kap:1654576",
+        "kap:1654574",
+        "kap:1654573",
+        "kap:1654572",
+        "kap:1654571",
+        "kap:1654570",
+        "kap:1654569",
+        "kap:1654568",
+        "kap:1654566",
+        "kap:1654565",
+        "kap:1654564",
+        "kap:1654563",
+        "kap:1654562",
+        "kap:1654561",
         "kap:1654560",
         "kap:1654559",
         "kap:1654558",
@@ -67,7 +88,6 @@
         "kap:1654460",
         "kap:1654459",
         "kap:1654458",
-        "kap:1654456",
         "kap:1654454",
         "kap:1654452",
         "kap:1654450",
@@ -82,6 +102,7 @@
         "kap:1654424",
         "kap:1654423",
         "kap:1654422",
+        "kap:1654456",
         "kap:1654421",
         "kap:1654420",
         "kap:1654415",
@@ -280,8 +301,17 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/citi-arjantin-enerji-sirketlerine-alm-tavsiyesi-verdi-93CH-4041873",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/alto-neuroscience-hissesi-3542-dolarla-rekor-krd-93CH-4041907",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/alto-neuroscience-hissesi-3542-dolarla-rekor-krd-93CH-4041907",
+        "investing:https://tr.investing.com/news/insider-trading-news/itron-ceosu-thomas-deitrich-76597-dolar-degerinde-itri-hissesi-satt-93CH-4041905",
+        "investing:https://tr.investing.com/news/insider-trading-news/itronun-svpsi-marcolini-26902-dolar-degerinde-hisse-satt-93CH-4041906",
+        "investing:https://tr.investing.com/news/stock-market-news/td-cowen-havayolu-sektorunde-en-iyi-tercihini-acklad-93CH-4041903",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-palo-alto-networks-icin-hisse-hedefini-yukseltti-93CH-4041904",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-zillow-hissesi-icin-tavsiyesini-yineledi-93CH-4041902",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-marvell-hissesi-icin-al-tavsiyesini-yineledi-93CH-4041901",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-disney-hissesi-icin-al-tavsiyesini-yineledi-93CH-4041900",
+        "investing:https://tr.investing.com/news/analyst-ratings/deutsche-bank-argenx-hissesini-degerleme-nedeniyle-tuta-dusurdu-93CH-4041898",
         "investing:https://tr.investing.com/news/stock-market-news/citi-arjantin-enerji-sirketlerine-alm-tavsiyesi-verdi-93CH-4041873",
         "investing:https://tr.investing.com/news/stock-market-news/biomea-fusion-hisseleri-diyabet-calsmas-kayt-tamamlanmasyla-yukseldi-93CH-4041872",
         "investing:https://tr.investing.com/news/analyst-ratings/ubs-marj-endiseleri-nedeniyle-buckle-hissesi-icin-notr-gorusunu-koruyor-93CH-4041871",
@@ -772,16 +802,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/boston-beer-hisseleri-cfo-reynosonun-ayrlgyla-dustu-93CH-4040096",
         "investing:https://tr.investing.com/news/stock-market-news/clevelandcliffs-hisseleri-neden-yukseliste-93CH-4040095",
         "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-advance-auto-partsn-hisse-hedefini-dusurdu-93CH-4040091",
-        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-box-hissesi-icin-kazanc-oncesi-al-tavsiyesini-yineledi-93CH-4040090",
-        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-rockwell-automation-icin-hedef-fiyat-dusurdu-93CH-4040089",
-        "investing:https://tr.investing.com/news/company-news/nationwide-building-society-40-milyon-euroluk-tahvili-lseye-kabul-etti-93CH-4040088",
-        "investing:https://tr.investing.com/news/company-news/heartflow-inc-hissesi-487-dolarda-rekor-krd-93CH-4040087",
-        "investing:https://tr.investing.com/news/company-news/aminex-birimi-tanzanya-gaz-projesi-gecikmeleri-nedeniyle-uyusmazlk-bildirimi-yaynlad-93CH-4040086",
-        "investing:https://tr.investing.com/news/company-news/dht-holdings-hissesi-2057-dolarda-52-haftalk-zirve-yapt-93CH-4040085",
-        "investing:https://tr.investing.com/news/stock-market-news/volkswagen-ceosu-genel-giderler-rakiplerden-30-fazla-93CH-4040084",
-        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-nvidia-hissesi-icin-al-tavsiyesini-yineledi-93CH-4040081",
-        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-ticarilesme-ilerlemesi-sonras-rank-one-hisse-gorusunu-yineledi-93CH-4040082",
-        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-intchains-groupun-hisse-hedefini-dusurdu-93CH-4040077"
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-box-hissesi-icin-kazanc-oncesi-al-tavsiyesini-yineledi-93CH-4040090"
       ]
     },
     "ntvpara": {
@@ -1546,6 +1567,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "alto neuroscience hissesi 35 42 dolarla rekor k rd",
+      "link": "https://tr.investing.com/news/company-news/alto-neuroscience-hissesi-3542-dolarla-rekor-krd-93CH-4041907"
+    },
+    {
+      "source": "investing",
+      "text": "itron ceo su thomas deitrich 76 597 dolar degerinde itri hissesi satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/itron-ceosu-thomas-deitrich-76597-dolar-degerinde-itri-hissesi-satt-93CH-4041905"
+    },
+    {
+      "source": "investing",
+      "text": "itron un svp si marcolini 26 902 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/itronun-svpsi-marcolini-26902-dolar-degerinde-hisse-satt-93CH-4041906"
+    },
+    {
+      "source": "investing",
+      "text": "td cowen havayolu sektorunde en iyi tercihini ac klad",
+      "link": "https://tr.investing.com/news/stock-market-news/td-cowen-havayolu-sektorunde-en-iyi-tercihini-acklad-93CH-4041903"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark palo alto networks hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-palo-alto-networks-icin-hisse-hedefini-yukseltti-93CH-4041904"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark zillow hissesi tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-zillow-hissesi-icin-tavsiyesini-yineledi-93CH-4041902"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark marvell hissesi al tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-marvell-hissesi-icin-al-tavsiyesini-yineledi-93CH-4041901"
+    },
+    {
+      "source": "investing",
+      "text": "benchmark disney hissesi al tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/benchmark-disney-hissesi-icin-al-tavsiyesini-yineledi-93CH-4041900"
+    },
+    {
+      "source": "investing",
+      "text": "deutsche bank argenx hissesini degerleme nedeniyle tut a dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/deutsche-bank-argenx-hissesini-degerleme-nedeniyle-tuta-dusurdu-93CH-4041898"
+    },
+    {
+      "source": "kap",
+      "text": "tuclk tsrs uyumlu surdurulebilirlik raporu 2025 tsrs uyumlu surdurulebilirlik raporu sirket tugcelik aluminyum metal mamulleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654593"
+    },
+    {
+      "source": "kap",
+      "text": "unlu sirket genel bilgi formu sirket unlu yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654592"
+    },
+    {
+      "source": "kap",
+      "text": "unlus uns sirket genel bilgi formu sirket unlu menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654591"
+    },
+    {
+      "source": "kap",
+      "text": "afb aktif tsrs uyumlu surdurulebilirlik raporu aktif bank tsrs uyumlu 2025 surdurulebilirlik raporu sirket aktif yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654588"
+    },
+    {
+      "source": "kap",
+      "text": "hfp pay al m sat m bildirimi ozel durum ac klamas sirket hedef portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654584"
+    },
+    {
+      "source": "kap",
+      "text": "efg ozel durum ac klamas genel burgan yat r m menkul degerler a s ciftehavuzlar sube kapan s hk sirket burgan yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654578"
+    },
+    {
+      "source": "kap",
+      "text": "vakfa kurumsal yonetim bilgi formu guncelleme yonetim kurulu 1 kurumsal yonetim bilgi formu guncelleme yonetim kurulu i sirket vakif faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654577"
+    },
+    {
+      "source": "kap",
+      "text": "arsnf finansal rapor sirket arsan finans faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654576"
+    },
+    {
+      "source": "kap",
+      "text": "vakfa sirket genel bilgi formu sirket vakif faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654574"
+    },
+    {
+      "source": "kap",
+      "text": "vakfa ozel durum ac klamas genel yonetim kurulu uye degisiklikleri sirket vakif faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654573"
+    },
+    {
+      "source": "kap",
+      "text": "fny qnbin piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi 24 08 2026 tarihli piyasa yap c islemler sirket qnb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654572"
+    },
+    {
+      "source": "kap",
+      "text": "jcrav kredi derecelendirmesi kredi derecelendirme bildirimi sirket jcr avrasya derecelendirme a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654571"
+    },
+    {
+      "source": "kap",
+      "text": "otkar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsotkr22817 isin kodlu 3 000 000 000 tl tutar ndaki tahvilin 2 kupon odemesi sirket otokar otomotiv savunma sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654570"
+    },
+    {
+      "source": "kap",
+      "text": "bascm tsrs uyumlu surdurulebilirlik raporu tsrs uyumlu surdurulebilirlik raporu 2025 sirket bastas baskent cimento sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654569"
+    },
+    {
+      "source": "kap",
+      "text": "tbn finansal rapor sirket turkland bank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654568"
+    },
+    {
+      "source": "kap",
+      "text": "ayx sorumluluk beyan konsolide 30 06 2026 tarihli finansal tablolara iliskin sorumluluk beyan sirket ahlatci yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654566"
+    },
+    {
+      "source": "kap",
+      "text": "tbn sorumluluk beyan konsolide olmayan t bank a s 062026 donemine ait solo denetim raporu sirket turkland bank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654565"
+    },
+    {
+      "source": "kap",
+      "text": "edata ozel durum ac klamas genel yat r mc iliskileri bolum yoneticisi atamas hk sirket e data teknoloji pazarlama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654564"
+    },
+    {
+      "source": "kap",
+      "text": "hubvc ozel durum ac klamas genel rem arast rma hizmetleri bilisim sanayi ticaret a s sulh protokolu imzalanmas hk sirket hub girisim sermayesi yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654563"
+    },
+    {
+      "source": "kap",
+      "text": "elite kat l m finans ilkeleri bilgi formu sirket elite naturel organik gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654562"
+    },
+    {
+      "source": "kap",
+      "text": "ayx finansal rapor sirket ahlatci yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654561"
+    },
     {
       "source": "tradingview",
       "text": "bist 100 endeksi bugun 0 09 geriledi 14501 toplam gunluk islem hacmi 310 milyar 254 milyon tl oldu",
@@ -8895,156 +9066,6 @@
       "source": "tradingview",
       "text": "eur gbp fiyat analizi notr rsi daha fazla konsolidasyon sinyali veriyor",
       "link": "https://tr.tradingview.com/news/fxstreet:888483e92d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turkiye ekonomi gundemi 24 agustos",
-      "link": "https://tr.tradingview.com/news/matriks:6689929:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiliz sterlini kar s k ingiltere verilerinin ard ndan 216 50 japon yeni uzerinde dip seviyelerini koruyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:e510d865bd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "standard chartered 100 bin dolarl k y l sonu bitcoin tahmininde tereddutlu bunun fazla dusuk olabilecegini soyluyor",
-      "link": "https://tr.tradingview.com/news/cointelegraph:278f55742d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "enda enerji urla res te kapasite art s onemli ad m att",
-      "link": "https://tr.tradingview.com/news/matriks:6689916:0"
-    },
-    {
-      "source": "investing",
-      "text": "sky harbour dogrudan hisse sat s yla 10 milyon dolar daha toplad",
-      "link": "https://tr.investing.com/news/company-news/sky-harbour-dogrudan-hisse-satsyla-10-milyon-dolar-daha-toplad-93CH-4039775"
-    },
-    {
-      "source": "investing",
-      "text": "espn fantezi draft united ucusundan canl yay nlanacak",
-      "link": "https://tr.investing.com/news/company-news/espn-fantezi-draft-united-ucusundan-canl-yaynlanacak-93CH-4039774"
-    },
-    {
-      "source": "investing",
-      "text": "baird yapay zeka yat r mlar nedeniyle alibaba n n hedef fiyat n dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/baird-yapay-zeka-yatrmlar-nedeniyle-alibabann-hedef-fiyatn-dusurdu-93CH-4039757"
-    },
-    {
-      "source": "investing",
-      "text": "baird walmart n hisse hedefini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/baird-walmartn-hisse-hedefini-dusurdu-93CH-4039756"
-    },
-    {
-      "source": "investing",
-      "text": "werewolf therapeutics ambros 150 milyon dolarl k birlesme",
-      "link": "https://tr.investing.com/news/company-news/werewolf-therapeutics-ambros-ile-150-milyon-dolarlk-birlesme-93CH-4039755"
-    },
-    {
-      "source": "investing",
-      "text": "kuresel hisse senedi rallisi genisliyor mu ubs degerlendirdi",
-      "link": "https://tr.investing.com/news/stock-market-news/kuresel-hisse-senedi-rallisi-genisliyor-mu-ubs-degerlendirdi-4039764"
-    },
-    {
-      "source": "investing",
-      "text": "milestone pharmaceuticals afib tedavisi faz 3 denemesine baslad",
-      "link": "https://tr.investing.com/news/company-news/milestone-pharmaceuticals-afib-tedavisi-icin-faz-3-denemesine-baslad-93CH-4039754"
-    },
-    {
-      "source": "investing",
-      "text": "gossamer bio 250 milyon dolara kadar finansman saglad",
-      "link": "https://tr.investing.com/news/company-news/gossamer-bio-250-milyon-dolara-kadar-finansman-saglad-93CH-4039753"
-    },
-    {
-      "source": "investing",
-      "text": "azitra nyse american kotasyon standartlar na uyumu saglad",
-      "link": "https://tr.investing.com/news/company-news/azitra-nyse-american-kotasyon-standartlarna-uyumu-saglad-93CH-4039752"
-    },
-    {
-      "source": "investing",
-      "text": "georgia universitesi lokahi ortakl g n yeniledi",
-      "link": "https://tr.investing.com/news/company-news/georgia-universitesi-lokahi-ile-ortaklgn-yeniledi-93CH-4039751"
-    },
-    {
-      "source": "kap",
-      "text": "grm gryat yat r m kurulusu varant sertifika senetlerine iliskin bildirim haftal k al m sat m sirket garanti yatirim menkul kiymetler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653970"
-    },
-    {
-      "source": "kap",
-      "text": "isy sirket genel bilgi formu sirket istanbul portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653968"
-    },
-    {
-      "source": "kap",
-      "text": "tcz tczb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren xs3152348911 isin kodlu tahvilin itfas hk sirket t c ziraat bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653967"
-    },
-    {
-      "source": "kap",
-      "text": "yyapi genel kurul islemlerine iliskin bildirim 2025 yili olagan genel kurul toplantisinin tehir edilmesi hakkinda sirket yesil yapi endustrisi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1653964"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar ikili tarife riskleri k sa vadeli yolu sekillendiriyor td securities",
-      "link": "https://tr.tradingview.com/news/fxstreet:0c0f4dcd1d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gumus abd dolar n n bask alt nda kalmaya devam etmesiyle 70 a dogru yukseliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:b07244d61d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro sterlin abd dolar yen i geride b rakmaya haz rlan yor nomura",
-      "link": "https://tr.tradingview.com/news/fxstreet:0eeb74e8cd9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "bofa cin ithalat verilerindeki degisimle takip edilecek 5 avrupa yar iletken hissesini ac klad",
-      "link": "https://tr.investing.com/news/stock-market-news/bofa-cin-ithalat-verilerindeki-degisimle-takip-edilecek-5-avrupa-yar-iletken-hissesini-acklad-93CH-4039686"
-    },
-    {
-      "source": "investing",
-      "text": "stratejist hisse senetlerinin uzun vadeli gorunumunu neden olumsuz buluyor",
-      "link": "https://tr.investing.com/news/stock-market-news/stratejist-hisse-senetlerinin-uzun-vadeli-gorunumunu-neden-olumsuz-buluyor-4039689"
-    },
-    {
-      "source": "investing",
-      "text": "baird yapay zeka talep art s eaton hissesini al onerisiyle baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/baird-yapay-zeka-talep-arts-ile-eaton-hissesini-al-onerisiyle-baslatt-93CH-4039683"
-    },
-    {
-      "source": "investing",
-      "text": "truist zamanlama endiseleriyle matthews hissesine tut onerisi verdi",
-      "link": "https://tr.investing.com/news/analyst-ratings/truist-zamanlama-endiseleriyle-matthews-hissesine-tut-onerisi-verdi-93CH-4039682"
-    },
-    {
-      "source": "investing",
-      "text": "buckle hissesi bugun neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/buckle-hissesi-bugun-neden-yukseliste-93CH-4039681"
-    },
-    {
-      "source": "investing",
-      "text": "steadfast group 7 7 milyar avustralya dolarl k teklifi kabul etti",
-      "link": "https://tr.investing.com/news/stock-market-news/steadfast-group-77-milyar-avustralya-dolarlk-teklifi-kabul-etti-93CH-4039679"
-    },
-    {
-      "source": "investing",
-      "text": "ubiquiti networks hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/ubiquiti-networks-hissesi-bugun-neden-yukseliyor-93CH-4039677"
-    },
-    {
-      "source": "investing",
-      "text": "professional diversity network yapay zeka altyap yan kurulusu kurdu",
-      "link": "https://tr.investing.com/news/company-news/professional-diversity-network-yapay-zeka-altyap-yan-kurulusu-kurdu-93CH-4039676"
-    },
-    {
-      "source": "investing",
-      "text": "trump baz k yma kotalar n n gecici olarak gevsetilecegini ac klad",
-      "link": "https://tr.investing.com/news/economy-news/trump-kyma-kotalarnn-gecici-olarak-gevsetilecegini-soyledi-4039680"
     }
   ]
 }
