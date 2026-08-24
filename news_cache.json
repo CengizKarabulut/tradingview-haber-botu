@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654283",
+      "last_seen_key": "kap:1654291",
       "seen_keys": [
+        "kap:1654291",
+        "kap:1654286",
+        "kap:1654285",
+        "kap:1654284",
         "kap:1654283",
         "kap:1654282",
         "kap:1654281",
@@ -13,8 +17,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-odak-teknoloji-hisselerinde-3786246",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/carry-trade-ruzgari-gelisen-piyasalarda-esiyor-3786247",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/carry-trade-ruzgari-gelisen-piyasalarda-esiyor-3786247",
         "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-odak-teknoloji-hisselerinde-3786246",
         "bloomberght:https://www.bloomberght.com/tahvil-geri-alimi-aciklamasinin-etkisi-kisa-surdu-3786245",
         "bloomberght:https://www.bloomberght.com/altin-uc-ayin-zirvesini-asti-gozler-fed-ve-abd-enflasyon-verilerinde-3786244",
@@ -68,18 +73,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/haleon-guclu-marjlar-daha-guclu-buyumeye-cevirebilir-mi-4040670",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/quantum-helium-sagebrush-testlerini-ilerletiyor-93CH-4040681",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/quantum-helium-sagebrush-testlerini-ilerletiyor-93CH-4040681",
+        "investing:https://tr.investing.com/news/company-news/gsknn-hibsago-ilac-japonyada-kuresel-ilk-onay-ald-93CH-4040680",
+        "investing:https://tr.investing.com/news/company-news/valerio-therapeutics-ethernay-30-milyon-euroya-satn-alacak-93CH-4040679",
+        "investing:https://tr.investing.com/news/stock-market-news/hindistan-seker-hisseleri-yukselen-fiyatlar-ve-talep-ile-scrad-4040677",
         "investing:https://tr.investing.com/news/stock-market-news/haleon-guclu-marjlar-daha-guclu-buyumeye-cevirebilir-mi-4040670",
         "investing:https://tr.investing.com/news/company-news/jyske-bank-34-haftada-55859-hisse-geri-ald-93CH-4040665",
         "investing:https://tr.investing.com/news/stock-market-news/cinde-kap-kolu-guvenligi-nedeniyle-rekor-geri-cagrma-4040667",
         "investing:https://tr.investing.com/news/stock-market-news/hanmi-pharm-hisseleri-genentech-obezite-ilac-anlasmasyla-30-yukseldi-93CH-4040660",
         "investing:https://tr.investing.com/news/stock-market-news/2c-kazanclar-oncesi-ayda-28-yukseldi-yazlm-devinin-49-potansiyeli-var-4040659",
         "investing:https://tr.investing.com/news/stock-market-news/xiaomi-hisseleri-neden-dusuyor-93CH-4040657",
-        "investing:https://tr.investing.com/news/stock-market-news/uaw-uyeleri-deerenin-sozlesme-uzatma-teklifini-reddetti-93CH-4040656",
-        "investing:https://tr.investing.com/news/stock-market-news/metall-zug-satslar-artarken-zararn-daraltt-93CH-4040654",
-        "investing:https://tr.investing.com/news/stock-market-news/shellin-kimyasal-bolumune-exxon-ve-lyondellbasell-ilgi-gosteriyor-4040655",
-        "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-yatay-dolar-3-aylk-dusukte-abd-borc-ve-iran-riskleri-4040647",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -100,6 +105,10 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-borsada-duzenli-kazanc-mumkun-mu-200505524",
         "investing:https://tr.investing.com/analysis/borsada-1-ayda-30-getiri-investing-pro-yapay-zeka-portfoyu-200505426",
         "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371",
+        "investing:https://tr.investing.com/news/stock-market-news/uaw-uyeleri-deerenin-sozlesme-uzatma-teklifini-reddetti-93CH-4040656",
+        "investing:https://tr.investing.com/news/stock-market-news/metall-zug-satslar-artarken-zararn-daraltt-93CH-4040654",
+        "investing:https://tr.investing.com/news/stock-market-news/shellin-kimyasal-bolumune-exxon-ve-lyondellbasell-ilgi-gosteriyor-4040655",
+        "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-yatay-dolar-3-aylk-dusukte-abd-borc-ve-iran-riskleri-4040647",
         "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-dustu-samsung-ve-alibaba-teknoloji-satsna-onculuk-etti-4040637",
         "investing:https://tr.investing.com/news/stock-market-news/toei-animation-hisseleri-neden-yukseliste-93CH-4040634",
         "investing:https://tr.investing.com/news/stock-market-news/endeavour-hissesi-bugun-neden-dusuyor-93CH-4040633",
@@ -565,18 +574,14 @@
         "investing:https://tr.investing.com/news/forex-news/kuresel-tahvil-piyasalarnda-rahatlama-sona-erdi-4039229",
         "investing:https://tr.investing.com/news/global-filings/tarfin-345-milyon-tllik-varlga-dayal-menkul-kymet-ihrac-yapt-93CH-4039218",
         "investing:https://tr.investing.com/news/company-news/vp-plc-corinne-ripocheu-bagmsz-yonetim-kurulu-uyesi-atad-93CH-4039213",
-        "investing:https://tr.investing.com/news/analyst-ratings/baird-muhafazakar-rehberlik-gorunumu-nedeniyle-parsons-hissesini-yukseltti-93CH-4039212",
-        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-select-water-solutions-hissesini-fazla-kilolu-baslatt-93CH-4039211",
-        "investing:https://tr.investing.com/news/analyst-ratings/keybanc-innovage-hissesi-icin-hedef-fiyat-belirledi-93CH-4039210",
-        "investing:https://tr.investing.com/news/stock-market-news/monte-paschinin-ikili-devralma-teklifi-sonras-hisseler-dustu-4039214",
-        "investing:https://tr.investing.com/news/global-filings/pegasus-vismansn-yerine-alex-cruzu-yonetim-kuruluna-atad-93CH-4039201"
+        "investing:https://tr.investing.com/news/analyst-ratings/baird-muhafazakar-rehberlik-gorunumu-nedeniyle-parsons-hissesini-yukseltti-93CH-4039212"
       ]
     },
     "ntvpara": {
       "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-fast-islem-limiti-yuzde-200-yukseliyor-1738647",
       "seen_keys": [
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-fast-islem-limiti-yuzde-200-yukseliyor-1738647",
-        "ntvpara:https://www.ntv.com.tr/ntvpara/yuksek-petrol-fiyatlari-avrupada-elektrikli-arac-satislarini-artiriyor-1738640",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/avrupadaki-elektrikli-arac-satislarinda-bir-donum-noktasi-1738640",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-5-bin-lira-daha-az-kazanacaksiniz-parasi-olanlar-dikkat-yeni-donem-basliyor-1738641",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-benzin-fiyatlari-artiyor-1738639",
         "ntvpara:https://www.ntv.com.tr/ntvpara/petrol-fiyatlarinda-yaptirim-oncesi-kar-satisi-1738634",
@@ -595,6 +600,7 @@
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-61-yillik-sirket-iflas-etti-1738244",
         "ntvpara:https://www.ntv.com.tr/ntvpara/petrol-guclu-seyrediyor-1738234",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bitcoin-costu-2-yilin-en-iyi-haftasini-yasiyor-1738227",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/yuksek-petrol-fiyatlari-avrupada-elektrikli-arac-satislarini-artiriyor-1738640",
         "ntvpara:https://www.ntv.com.tr/ntvpara/ingiliz-moda-sitesinin-sahte-indirimlerine-para-cezasi-1738192",
         "ntvpara:https://www.ntv.com.tr/ntvpara/alibabanin-yapay-zeka-yatirimlari-etkisini-gostermeye-basladi-1738183",
         "ntvpara:https://www.ntv.com.tr/ntvpara/merkezin-rezervleri-yuzde-3e-yakin-artti-1738171",
@@ -804,8 +810,29 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:d78a9182dd9e8:0",
+      "last_seen_key": "tradingview:matriks:6693069:0",
       "seen_keys": [
+        "tradingview:matriks:6693069:0",
+        "tradingview:matriks:6693067:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44L08P:0",
+        "tradingview:matriks:6693065:0",
+        "tradingview:matriks:6693061:0",
+        "tradingview:matriks:6693060:0",
+        "tradingview:matriks:6693057:0",
+        "tradingview:matriks:6693056:0",
+        "tradingview:matriks:6693055:0",
+        "tradingview:matriks:6693054:0",
+        "tradingview:matriks:6693051:0",
+        "tradingview:matriks:6693050:0",
+        "tradingview:matriks:6693047:0",
+        "tradingview:matriks:6693040:0",
+        "tradingview:matriks:6693039:0",
+        "tradingview:fxstreet:b5cf546cdd9e8:0",
+        "tradingview:matriks:6693037:0",
+        "tradingview:matriks:6693035:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44L08A:0",
+        "tradingview:matriks:6693033:0",
+        "tradingview:matriks:6693028:0",
         "tradingview:fxstreet:d78a9182dd9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44L07L:0",
@@ -1284,28 +1311,7 @@
         "tradingview:matriks:6688805:0",
         "tradingview:matriks:6688775:0",
         "tradingview:matriks:6688772:0",
-        "tradingview:matriks:6688768:0",
-        "tradingview:matriks:6688766:0",
-        "tradingview:matriks:6688764:0",
-        "tradingview:matriks:6688763:0",
-        "tradingview:matriks:6688761:0",
-        "tradingview:fxstreet:bda38c92bd9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44I0CL:0",
-        "tradingview:matriks:6688758:0",
-        "tradingview:matriks:6688756:0",
-        "tradingview:matriks:6688755:0",
-        "tradingview:matriks:6688750:0",
-        "tradingview:fxstreet:5c422a88bd9e8:0",
-        "tradingview:matriks:6688748:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44I06Y:0",
-        "tradingview:matriks:6688747:0",
-        "tradingview:matriks:6688740:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44I0D6:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44I060:0",
-        "tradingview:matriks:6688732:0",
-        "tradingview:matriks:6688731:0",
-        "tradingview:matriks:6688729:0",
-        "tradingview:matriks:6688726:0"
+        "tradingview:matriks:6688768:0"
       ]
     },
     "forexfactory": {
@@ -1323,6 +1329,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "anket matriks haber bist sentiment anketi borsa ac l s beklentisi 64 96 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6693069:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx bulten trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6693067:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fast sisteminde para transferleri limiti 26 agustos ta 300 000 tl ye yukseltilecek tcmb",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44L08P:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "carry trade ruzgar gelisen piyasalarda esiyor bloomberght com",
+      "link": "https://tr.tradingview.com/news/matriks:6693065:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "foreks bulteni destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693061:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693060:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasa dan k sa notlar baskent menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6693057:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ecb cipollone elbette makroekonomik ortamda meydana gelen degisimleri izlememiz gerekecek ancak su an stagflasyon senaryosuna isaret eden herhangi belirti yok",
+      "link": "https://tr.tradingview.com/news/matriks:6693056:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ecb cipollone veriler enflasyonun ise gecen haziranda yay mlanan projeksiyonlar n temel senaryosuyla uyumlu kald g n olumsuz ag r senaryolardan oldukca uzak gorundugunu gosteriyor",
+      "link": "https://tr.tradingview.com/news/matriks:6693055:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ecb cipollone veriler avrupa ekonomisinin yavaslamas na ragmen beklenenden daha direncli oldugunu gosteriyor",
+      "link": "https://tr.tradingview.com/news/matriks:6693054:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "2026 2 ceyrek el kitapc g pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693051:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ecb cipollone kerkez bankalar enerji emtia fiyatlar ndaki art slar gidermek fazla sey yapamaz ancak art slar n orta vadeli enflasyon beklentilerine yans mamas n saglayabilirler",
+      "link": "https://tr.tradingview.com/news/matriks:6693050:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693047:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik strateji bulteni vak f yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693040:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693039:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro abd dolar kars s nda 1 1800 e dogru yukar yonlu alan var uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:b5cf546cdd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6693037:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gedik yat r m asels hedef fiyat 587 tl tavsiye endeks ustu getiri",
+      "link": "https://tr.tradingview.com/news/matriks:6693035:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dolar tl 48 in uzerinde ekk olas iran yapt r mlar tcmb repo fonlamas izlenecek",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44L08A:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ekonomi koordinasyon kurulu toplan yor",
+      "link": "https://tr.tradingview.com/news/matriks:6693033:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fast islem tutar limitleri 26 agustos 2026 tarihi itibar yla 300 bintl ye yukseltilecek tcmb",
+      "link": "https://tr.tradingview.com/news/matriks:6693028:0"
+    },
+    {
+      "source": "investing",
+      "text": "quantum helium sagebrush testlerini ilerletiyor",
+      "link": "https://tr.investing.com/news/company-news/quantum-helium-sagebrush-testlerini-ilerletiyor-93CH-4040681"
+    },
+    {
+      "source": "investing",
+      "text": "gsk n n hibsago ilac japonya kuresel ilk onay ald",
+      "link": "https://tr.investing.com/news/company-news/gsknn-hibsago-ilac-japonyada-kuresel-ilk-onay-ald-93CH-4040680"
+    },
+    {
+      "source": "investing",
+      "text": "valerio therapeutics etherna y 30 milyon euroya sat n alacak",
+      "link": "https://tr.investing.com/news/company-news/valerio-therapeutics-ethernay-30-milyon-euroya-satn-alacak-93CH-4040679"
+    },
+    {
+      "source": "investing",
+      "text": "hindistan seker hisseleri yukselen fiyatlar talep s crad",
+      "link": "https://tr.investing.com/news/stock-market-news/hindistan-seker-hisseleri-yukselen-fiyatlar-ve-talep-ile-scrad-4040677"
+    },
+    {
+      "source": "bloomberght",
+      "text": "carry trade ruzgar gelisen piyasalarda esiyor gelisen piyasalarda yuksek faiz zay flayan dolar n olusturdugu cazip getiri ortam kuresel yat r mc lar n carry trade ilgisini canl tutarken turkiye kolombiya brezilya meksika guney afrika one c kan piyasalar aras nda yer al",
+      "link": "https://www.bloomberght.com/carry-trade-ruzgari-gelisen-piyasalarda-esiyor-3786247"
+    },
+    {
+      "source": "kap",
+      "text": "ardyz yeni is iliskisi ozbekistan eds projesi kapsam nda yeni lokasyonlar n devreye al nmas hk sirket ard grup bilisim teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654291"
+    },
+    {
+      "source": "kap",
+      "text": "otkar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsotkr22817 isin kodlu tahvilin 2 kupon faiz oran n n belirlenmesi sirket otokar otomotiv savunma sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654286"
+    },
+    {
+      "source": "kap",
+      "text": "ahgaz bistech pay piyasas al m sat m sistemi duyurusu hak kullan m sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654285"
+    },
+    {
+      "source": "kap",
+      "text": "cvkmd bistech pay piyasas al m sat m sistemi duyurusu devam eden birincil piyasa sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654284"
+    },
     {
       "source": "tradingview",
       "text": "eur usd fiyat analizi as r al m momentumu daha fazla kazanc s n rlarken 1 1700 un alt nda yatay seyrediyor",
@@ -8672,156 +8828,6 @@
       "source": "tradingview",
       "text": "avustralya dolar abd borc endiselerinin abd dolar uzerinde bask olusturmas yla 0 7100 seviyesinin uzerine c kt",
       "link": "https://tr.tradingview.com/news/fxstreet:c3ac4d42ed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gumus fiyat analizi xag usd artan volatilite amid 69 00 civar na yukseldi",
-      "link": "https://tr.tradingview.com/news/fxstreet:642f9afb8d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar endeksi 99 75 99 70 civar nda islem goruyor uc ayl k dip seviyeye yak n seyrediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:a52409925d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "upbit ten 4 token a ruzgar ethgas 11 yukseldi",
-      "link": "https://tr.tradingview.com/news/beincrypto:d0e65ee55d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "ceribell cfo su 863 bin dolardan fazla hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/ceribell-cfosu-863-bin-dolardan-fazla-hisse-satt-93CH-4039018"
-    },
-    {
-      "source": "investing",
-      "text": "fold holdings cfo su 1 297 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/fold-holdings-cfosu-1297-dolar-degerinde-hisse-satt-93CH-4039017"
-    },
-    {
-      "source": "investing",
-      "text": "samsung electronics hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/samsung-electronics-hissesi-bugun-neden-yukseliyor-93CH-4039016"
-    },
-    {
-      "source": "investing",
-      "text": "henderson land hissesi neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/henderson-land-hissesi-neden-yukseliste-93CH-4039015"
-    },
-    {
-      "source": "investing",
-      "text": "cineverse teknoloji baskan huidor 40 200 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/cineverse-teknoloji-baskan-huidor-40200-dolarlk-hisse-satt-93CH-4039014"
-    },
-    {
-      "source": "investing",
-      "text": "tempus ai cfo su 2 69 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/tempus-ai-cfosu-269-milyon-dolarlk-hisse-satt-93CH-4039013"
-    },
-    {
-      "source": "investing",
-      "text": "tempus ai yoneticisi polovin 1 54 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/tempus-ai-yoneticisi-polovin-154-milyon-dolarlk-hisse-satt-93CH-4039012"
-    },
-    {
-      "source": "investing",
-      "text": "tempus ai muhasebe direktoru 306 341 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/tempus-ai-muhasebe-direktoru-306341-dolar-degerinde-hisse-satt-93CH-4039011"
-    },
-    {
-      "source": "investing",
-      "text": "protagenic therapeutics icra kurulu baskan garo armen 9 810 dolarl k hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/protagenic-therapeutics-icra-kurulu-baskan-garo-armen-9810-dolarlk-hisse-ald-93CH-4039010"
-    },
-    {
-      "source": "investing",
-      "text": "keith m rosenbloom american vanguard hisselerinden 1 22 milyon dolar satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/keith-m-rosenbloom-american-vanguard-hisselerinden-122-milyon-dolar-satt-93CH-4039007"
-    },
-    {
-      "source": "tradingview",
-      "text": "emisyon hacmi 20 08 2026 itibariyle 974 28 milyar tl",
-      "link": "https://tr.tradingview.com/news/matriks:6688408:0"
-    },
-    {
-      "source": "investing",
-      "text": "glaukos yoneticisi kliman 475 000 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/glaukos-yoneticisi-kliman-475000-dolarlk-hisse-satt-93CH-4038999"
-    },
-    {
-      "source": "investing",
-      "text": "delek us holdings evp reuven spiegel 682 099 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/delek-us-holdings-evp-reuven-spiegel-682099-dolarlk-hisse-satt-93CH-4038998"
-    },
-    {
-      "source": "investing",
-      "text": "zip co hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/zip-co-hissesi-bugun-neden-dusuyor-93CH-4038997"
-    },
-    {
-      "source": "investing",
-      "text": "fisher paykel healthcare hisseleri neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/fisher--paykel-healthcare-hisseleri-neden-yukseliyor-93CH-4038996"
-    },
-    {
-      "source": "investing",
-      "text": "quantumscape cto su 437 000 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/quantumscape-ctosu-437000-dolarlk-hisse-satt-93CH-4038995"
-    },
-    {
-      "source": "investing",
-      "text": "guzman y gomez hisseleri neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/guzman-y-gomez-hisseleri-neden-yukseliste-93CH-4038994"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiliz sterlini ingiltere perakende sat slar verileri oncesinde 1 3650 seviyesine yaklast",
-      "link": "https://tr.tradingview.com/news/fxstreet:16ddd95e5d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar yukselen petrol fiyatlar yla deger kazand",
-      "link": "https://tr.tradingview.com/news/fxstreet:9ef1ef7b9d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yeni zelanda dolar zay flayan abd dolar kars s nda haziran ay ndan yana yeni zirveye 0 5950 nin uzerine c kt",
-      "link": "https://tr.tradingview.com/news/fxstreet:63597fb4ed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro s k lasmac ecb gorunumune ragmen guclu abd dolar kars s nda deger kazan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:dba099a5cd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7808 seviyesine k yasla 6 7817 olarak belirledi",
-      "link": "https://tr.tradingview.com/news/fxstreet:b3a5be375d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "wti ham petrol fiyat 86 00 civar nda konsolide oluyor abd iran c kmaz aras nda al c lar n potansiyeli saglam kal yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:0d45320aad9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni tufe enflasyon raporunun ard ndan yatay seyrediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:8bbefda9dd9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "kratos defense yoneticisi scot jarvis 634 961 dolar degerinde ktos satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/kratos-defense-yoneticisi-scot-jarvis-634961-dolar-degerinde-ktos-satt-93CH-4038993"
-    },
-    {
-      "source": "investing",
-      "text": "rain enhancement technologies ceo su randy seidl 104 bin dolarl k hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/rain-enhancement-technologies-ceosu-randy-seidl-104-bin-dolarlk-hisse-ald-93CH-4038992"
-    },
-    {
-      "source": "investing",
-      "text": "mount logan capital cfo su satoren mlci hisselerinden 1 600 dolar ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/mount-logan-capital-cfosu-satoren-mlci-hisselerinden-1600-dolar-ald-93CH-4038991"
     }
   ]
 }
