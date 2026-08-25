@@ -515,8 +515,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/ginkgo-bioworks-cfosu-2302-dolarlk-hisse-satt-93CH-4043649",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/mineralys-therapeutics-cco-eric-warren-193188-dolarlk-hisse-satt-93CH-4043653",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/mineralys-therapeutics-cco-eric-warren-193188-dolarlk-hisse-satt-93CH-4043653",
+        "investing:https://tr.investing.com/news/insider-trading-news/chicago-atlantic-refi-yonetim-kurulu-baskan-1547-dolarlk-hisse-ald-93CH-4043652",
+        "investing:https://tr.investing.com/news/company-news/greenland-mines-halka-arz-ile-satn-alma-fonlayacak-93CH-4043651",
         "investing:https://tr.investing.com/news/insider-trading-news/ginkgo-bioworks-cfosu-2302-dolarlk-hisse-satt-93CH-4043649",
         "investing:https://tr.investing.com/news/insider-trading-news/amazon-web-services-ceosu-matthew-garman-377-milyon-dolarlk-amzn-hissesi-satt-93CH-4043648",
         "investing:https://tr.investing.com/news/stock-market-news/dynatrace-hisseleri-morgan-stanley-tarafndan-yukseltildi-4043650",
@@ -524,9 +527,6 @@
         "investing:https://tr.investing.com/news/company-news/hertz-car-sales-ikinci-el-araclara-3-yl-garanti-sunuyor-93CH-4043643",
         "investing:https://tr.investing.com/news/company-news/franklin-templeton-033-dolar-temettu-acklad-93CH-4043639",
         "investing:https://tr.investing.com/news/stock-market-news/northrop-grumman-216-milyon-dolarlk-radar-sozlesmesi-kazand-93CH-4043638",
-        "investing:https://tr.investing.com/news/company-news/kohls-arianne-parisiyi-musteri-deneyimi-direktoru-atad-93CH-4043636",
-        "investing:https://tr.investing.com/news/stock-market-news/echostarn-hughes-anlasmalar-sorusturma-altnda-93CH-4043633",
-        "investing:https://tr.investing.com/news/stock-market-news/dwave-quantum-hisseleri-cfonun-emeklilik-kararyla-geriledi-93CH-4043632",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -547,6 +547,9 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/company-news/kohls-arianne-parisiyi-musteri-deneyimi-direktoru-atad-93CH-4043636",
+        "investing:https://tr.investing.com/news/stock-market-news/echostarn-hughes-anlasmalar-sorusturma-altnda-93CH-4043633",
+        "investing:https://tr.investing.com/news/stock-market-news/dwave-quantum-hisseleri-cfonun-emeklilik-kararyla-geriledi-93CH-4043632",
         "investing:https://tr.investing.com/news/analyst-ratings/jones-trading-seaport-therapeutics-hissesi-icin-al-onerisi-verdi-93CH-4043631",
         "investing:https://tr.investing.com/news/company-news/dwave-quantum-markovichin-emekliligiyle-golkovu-cfo-vekili-atad-93CH-4043630",
         "investing:https://tr.investing.com/news/company-news/fm-bank-yonetim-kurulunda-degisiklik-acklad-93CH-4043629",
@@ -995,8 +998,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:0b8feb898d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:ec461ff1dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:ec461ff1dd9e8:0",
+        "tradingview:fxstreet:72ba729fcd9e8:0",
         "tradingview:fxstreet:0b8feb898d9e8:0",
         "tradingview:fxstreet:37b5c0278d9e8:0",
         "tradingview:cointelegraph:a0f8eb541d9e8:0",
@@ -1494,9 +1499,7 @@
         "tradingview:fxstreet:cf1f59aa2d9e8:0",
         "tradingview:cointelegraph:43c58fc7fd9e8:0",
         "tradingview:beincrypto:0725d1460d9e8:0",
-        "tradingview:fxstreet:bd3790254d9e8:0",
-        "tradingview:beincrypto:abf2ff655d9e8:0",
-        "tradingview:fxstreet:062305762d9e8:0"
+        "tradingview:fxstreet:bd3790254d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1514,6 +1517,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "meksika pesosu yat r mc lar n abd verileri iran daki degisimi takip etmesiyle 16 95 in alt nda kal yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ec461ff1dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tayland baht abd dolar kars s nda yukselis egilimi bot hassasiyetiyle kars kars ya ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:72ba729fcd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "mineralys therapeutics cco eric warren 193 188 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/mineralys-therapeutics-cco-eric-warren-193188-dolarlk-hisse-satt-93CH-4043653"
+    },
+    {
+      "source": "investing",
+      "text": "chicago atlantic refi yonetim kurulu baskan 1 547 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/chicago-atlantic-refi-yonetim-kurulu-baskan-1547-dolarlk-hisse-ald-93CH-4043652"
+    },
+    {
+      "source": "investing",
+      "text": "greenland mines halka arz sat n alma fonlayacak",
+      "link": "https://tr.investing.com/news/company-news/greenland-mines-halka-arz-ile-satn-alma-fonlayacak-93CH-4043651"
+    },
     {
       "source": "tradingview",
       "text": "cin yuan abd dolar kars s nda 6 7000 odag nda yukselis egilimi uob",
@@ -8988,31 +9016,6 @@
       "source": "bloomberght",
       "text": "ingiltere basbakan rusya n n finansman kabiliyetini k s tlaman n tam zaman ingiltere basbakan andy burnham rusya uzerindeki bask y surdurmenin ulkenin finansman kabiliyetini k s tlaman n tam zaman oldugunu belirtti",
       "link": "https://www.bloomberght.com/ingiltere-basbakani-rusya-nin-finansman-kabiliyetini-kisitlamanin-tam-zamani-3786290"
-    },
-    {
-      "source": "bloomberght",
-      "text": "ekk dan 2027 2029 ovp mesaj ekonomi koordinasyon kurulu nun ekk 2026 y l ndaki yedinci toplant s nda 2027 2029 donemini kapsayan orta vadeli program ovp haz rl klar kapsam nda temel politika oncelikleri makroekonomik tahminler butce buyuklukleri degerlendiri",
-      "link": "https://www.bloomberght.com/ekk-dan-2027-2029-ovp-mesaji-3786288"
-    },
-    {
-      "source": "kap",
-      "text": "edata pay baz nda devre kesici bildirimi edata e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654416"
-    },
-    {
-      "source": "tradingview",
-      "text": "finansal kesim d s ndaki firmalar n net doviz pozisyon ac g haziran sonunda milyar dolar",
-      "link": "https://tr.tradingview.com/news/matriks:6693972:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "finansal kesim d s ndaki firmalar n net doviz pozisyon ac g haziran ay nda 205 76 milyar dolar onceki ay 204 42 milyar dolar",
-      "link": "https://tr.tradingview.com/news/matriks:6693970:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ovp haz rl k cal smalar nda gelinen asama degerlendirildi politika oncelikleri makro tahminler butce buyuklukleri ele al nd ekk",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44L0PR:0"
     }
   ]
 }
