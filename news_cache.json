@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654659",
+      "last_seen_key": "kap:1654660",
       "seen_keys": [
+        "kap:1654660",
         "kap:1654659",
         "kap:1654658",
         "kap:1654657",
@@ -825,8 +826,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-40-yillik-sirkete-konkordato-iflastan-once-son-cikistalar-1-yil-muhlet-verildi-1738770",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-kademeli-emeklilik-olacak-mi-sartlar-siralandi-milyonlari-ilgilendiriyor-1738778",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-kademeli-emeklilik-olacak-mi-sartlar-siralandi-milyonlari-ilgilendiriyor-1738778",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-40-yillik-sirkete-konkordato-iflastan-once-son-cikistalar-1-yil-muhlet-verildi-1738770",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-petrol-90-dolara-tutundu-1738768",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-abdnin-iran-yaptirimlari-dolara-yaradi-1738766",
@@ -1072,8 +1074,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44M09V:0",
+      "last_seen_key": "tradingview:matriks:6695139:0",
       "seen_keys": [
+        "tradingview:matriks:6695139:0",
+        "tradingview:matriks:6695138:0",
+        "tradingview:matriks:6695136:0",
+        "tradingview:matriks:6695130:0",
+        "tradingview:matriks:6695128:0",
+        "tradingview:matriks:6695127:0",
+        "tradingview:fxstreet:130d3f1aed9e8:0",
+        "tradingview:matriks:6695124:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44M04L:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44M09V:0",
         "tradingview:matriks:6695120:0",
         "tradingview:matriks:6695119:0",
@@ -1564,16 +1575,7 @@
         "tradingview:matriks:6692928:0",
         "tradingview:matriks:6692926:0",
         "tradingview:matriks:6692923:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44L04M:0",
-        "tradingview:matriks:6692920:0",
-        "tradingview:beincrypto:989c465dcd9e8:0",
-        "tradingview:matriks:6692911:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44L04K:0",
-        "tradingview:matriks:6692908:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44L04L:0",
-        "tradingview:matriks:6692901:0",
-        "tradingview:matriks:6692898:0",
-        "tradingview:matriks:6692894:0"
+        "tradingview:tag:reuters.com,2026:newsml_L8N44L04M:0"
       ]
     },
     "forexfactory": {
@@ -1591,6 +1593,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695139:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten halk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695138:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "keskinoglu foodist 2026 yerini almaya haz rlan yor",
+      "link": "https://tr.tradingview.com/news/matriks:6695136:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt ici teknik bulten burgan yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695130:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten fibayat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695128:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695127:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "endonezya rupiah rekor ac k d s bask lar aras nda zorlan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:130d3f1aed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten tera yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695124:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 25 agustos sal",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44M04L:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "kademeli emeklilik olacak m sartlar s raland milyonlar ilgilendiriyor kademeli emeklilik le ilgili cal smalar emeklilikte adalet dernegi yurutuyor dernek yoneticileri siyasilerle goruserek bilgi al sverisinde bulunuyor ancak ortaya henuz cal sma taslak c kmad",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-kademeli-emeklilik-olacak-mi-sartlar-siralandi-milyonlari-ilgilendiriyor-1738778"
+    },
+    {
+      "source": "kap",
+      "text": "kuvva genel kurul islemlerine iliskin bildirim 2025 y l na ait 27 07 2026 tarihde yap lan olagan genel kurulu tescil ilan hakk nda sirket kuvva gida ticaret sanayi yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654660"
+    },
     {
       "source": "tradingview",
       "text": "global piyasalar borsa doviz tahvil petrol alt n",
@@ -9035,61 +9092,6 @@
       "source": "investing",
       "text": "iqvia holdings hissesi 260 32 dolarla zirve yapt",
       "link": "https://tr.investing.com/news/company-news/iqvia-holdings-hissesi-26032-dolarla-zirve-yapt-93CH-4040234"
-    },
-    {
-      "source": "bloomberght",
-      "text": "yuksek mahkeme den trump n balo salonuna gecici izin abd yuksek mahkemesi alt mahkemenin karar n ask ya alarak baskan donald trump n beyaz saray a yapt rd g 400 milyon dolarl k balo salonunun insaat n n yeni karar al nana kadar devam etmesine izin verdi",
-      "link": "https://www.bloomberght.com/yuksek-mahkeme-den-trump-in-balo-salonuna-gecici-izin-3786208"
-    },
-    {
-      "source": "kap",
-      "text": "pengd sirket genel bilgi formu sirket penguen gida sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654270"
-    },
-    {
-      "source": "investing",
-      "text": "eaton vance enhanced equity income ii mutevellisi quinton 106 950 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/eaton-vance-enhanced-equity-income-ii-mutevellisi-quinton-106950-dolar-degerinde-hisse-ald-93CH-4040229"
-    },
-    {
-      "source": "investing",
-      "text": "eaton vance yoneticisi keith quinton 110 209 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/eaton-vance-yoneticisi-keith-quinton-110209-dolar-degerinde-hisse-satt-93CH-4040228"
-    },
-    {
-      "source": "investing",
-      "text": "dexcom hissesi 91 99 dolarla 52 haftal k zirveye ulast",
-      "link": "https://tr.investing.com/news/company-news/dexcom-hissesi-9199-dolarla-52-haftalk-zirveye-ulast-93CH-4040227"
-    },
-    {
-      "source": "investing",
-      "text": "cms energy hissesi 68 63 dolarla 52 haftal k dibe vurdu",
-      "link": "https://tr.investing.com/news/company-news/cms-energy-hissesi-6863-dolarla-52-haftalk-dibe-vurdu-93CH-4040226"
-    },
-    {
-      "source": "investing",
-      "text": "abd venezuela n n telekomunikasyon sektorune yeni yat r ma izin verdi",
-      "link": "https://tr.investing.com/news/economy-news/abd-venezuelann-telekomunikasyon-sektorune-yeni-yatrma-izin-verdi-93CH-4040225"
-    },
-    {
-      "source": "investing",
-      "text": "fda pmi 11 zyn ultra nikotin kesesi urununu onaylad",
-      "link": "https://tr.investing.com/news/company-news/fda-pmi-icin-11-zyn-ultra-nikotin-kesesi-urununu-onaylad-93CH-4040224"
-    },
-    {
-      "source": "investing",
-      "text": "weed inc sekreteri breen 24 500 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/weed-inc-sekreteri-breen-24500-dolarlk-hisse-satt-93CH-4040223"
-    },
-    {
-      "source": "tradingview",
-      "text": "tayland baht tayland merkez bankas ndan uzat lm s politika duraklamas bekleniyor dbs",
-      "link": "https://tr.tradingview.com/news/fxstreet:3b3e45e15d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni direncli abd verileriyle kars last g notr durumda",
-      "link": "https://tr.tradingview.com/news/fxstreet:1a82bae0bd9e8:0"
     }
   ]
 }
