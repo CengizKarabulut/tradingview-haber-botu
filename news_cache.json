@@ -1067,8 +1067,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6695059:0",
+      "last_seen_key": "tradingview:matriks:6695080:0",
       "seen_keys": [
+        "tradingview:matriks:6695080:0",
+        "tradingview:matriks:6695079:0",
+        "tradingview:matriks:6695078:0",
+        "tradingview:matriks:6695077:0",
+        "tradingview:matriks:6695075:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44M03G:0",
         "tradingview:matriks:6695059:0",
         "tradingview:matriks:6695060:0",
         "tradingview:matriks:6695058:0",
@@ -1080,6 +1086,7 @@
         "tradingview:matriks:6695055:0",
         "tradingview:matriks:6695050:0",
         "tradingview:matriks:6695047:0",
+        "tradingview:cointelegraph:1de30eef4d9e8:0",
         "tradingview:fxstreet:b33020f2cd9e8:0",
         "tradingview:fxstreet:b9b637f82d9e8:0",
         "tradingview:fxstreet:4818175acd9e8:0",
@@ -1561,14 +1568,7 @@
         "tradingview:matriks:6692848:0",
         "tradingview:matriks:6692847:0",
         "tradingview:matriks:6692845:0",
-        "tradingview:matriks:6692846:0",
-        "tradingview:matriks:6692851:0",
-        "tradingview:matriks:6692842:0",
-        "tradingview:matriks:6692850:0",
-        "tradingview:matriks:6692844:0",
-        "tradingview:matriks:6692843:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44K04P:0",
-        "tradingview:beincrypto:c51c66bafd9e8:0"
+        "tradingview:matriks:6692846:0"
       ]
     },
     "forexfactory": {
@@ -1586,6 +1586,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "1 hafta vadeli repoya gecis gevseme degil normallesme nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6695080:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunun pusulas pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695079:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6695078:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar gunluk rapor is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695077:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasalarda bugun unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6695075:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "resmi gazete bugun 25 agustos 2026",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44M03G:0"
+    },
     {
       "source": "tradingview",
       "text": "bist islem goren sirketlerin genel kurul tarihleri tablo",
@@ -9055,36 +9085,6 @@
       "source": "investing",
       "text": "nuvation bio hisseleri neden yukseliyor",
       "link": "https://tr.investing.com/news/stock-market-news/nuvation-bio-hisseleri-neden-yukseliyor-93CH-4040195"
-    },
-    {
-      "source": "investing",
-      "text": "nuvation bio hisseleri cantor un overweight onerisiyle yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/nuvation-bio-hisseleri-cantorun-overweight-onerisiyle-yukseldi-93CH-4040194"
-    },
-    {
-      "source": "investing",
-      "text": "nato komutan hurmuz bogaz nda destek gorusme yapt",
-      "link": "https://tr.investing.com/news/stock-market-news/nato-komutan-hurmuz-bogaznda-destek-icin-gorusme-yapt-93CH-4040193"
-    },
-    {
-      "source": "investing",
-      "text": "rafineri uretimi artarken avrupa dizel marjlar yukseldi",
-      "link": "https://tr.investing.com/news/commodities-news/rafineri-uretimi-artarken-avrupa-dizel-marjlar-yukseldi-93CH-4040192"
-    },
-    {
-      "source": "investing",
-      "text": "latin amerika hisse senetleri para birimleri dolardaki zay fl kla yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/latin-amerika-hisse-senetleri-ve-para-birimleri-dolardaki-zayflkla-yukseldi-93CH-4040191"
-    },
-    {
-      "source": "investing",
-      "text": "isvicre merkez bankas yetkilisi yapay zeka k sa vadede enflasyonu art rabilir",
-      "link": "https://tr.investing.com/news/stock-market-news/isvicre-merkez-bankas-yetkilisi-yapay-zeka-ksa-vadede-enflasyonu-artrabilir-93CH-4040190"
-    },
-    {
-      "source": "kap",
-      "text": "vangd ozel durum ac klamas genel sirketimizin buyume stratejisi kapsam nda istirak edinimine yonelik cal smalar hakk nda sirket vanet gida sanayi ic dis ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654251"
     }
   ]
 }
