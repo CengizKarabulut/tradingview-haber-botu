@@ -1071,8 +1071,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6695101:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44M09D:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L6N44M09D:0",
+        "tradingview:matriks:6695104:0",
         "tradingview:matriks:6695101:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44M08S:0",
         "tradingview:matriks:6695099:0",
@@ -1570,9 +1572,7 @@
         "tradingview:matriks:6692880:0",
         "tradingview:matriks:6692887:0",
         "tradingview:matriks:6692892:0",
-        "tradingview:cointelegraph:9901d717ed9e8:0",
-        "tradingview:matriks:6692866:0",
-        "tradingview:matriks:6692870:0"
+        "tradingview:cointelegraph:9901d717ed9e8:0"
       ]
     },
     "forexfactory": {
@@ -1590,6 +1590,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44M09D:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasalarda bugun qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6695104:0"
+    },
     {
       "source": "tradingview",
       "text": "dolar zay flarken merkez bankalar jeopolitik riskler nvidia bilancosu gundemin odag nda ikon menkul",
@@ -9079,16 +9089,6 @@
       "source": "kap",
       "text": "bls blsmd izahname spk taraf ndan onaylanan intetra teknoloji bilisim hizmetleri a s spk taraf ndan onaylanan izahname ek 4 30 06 2026 tarihinde sona eren donemlere iliskin finansal tablolar ozel bag ms z denetim raporu sirket bulls yatirim menkul degerler a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1654268"
-    },
-    {
-      "source": "kap",
-      "text": "bls blsmd izahname spk taraf ndan onaylanan intetra teknoloji bilisim hizmetleri a s spk taraf ndan onaylanan izahname ek 10 kat l m finans ilkeleri bilgi formu sirket bulls yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654267"
-    },
-    {
-      "source": "kap",
-      "text": "bls blsmd fiyat tespit raporu intetra teknoloji bilisim hizmetleri a s spk taraf ndan onaylanan izahname ek 6 fiyat tespit raporu sirket bulls yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654263"
     }
   ]
 }
