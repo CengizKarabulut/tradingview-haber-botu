@@ -824,8 +824,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-petrol-90-dolara-tutundu-1738768",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-40-yillik-sirkete-konkordato-iflastan-once-son-cikistalar-1-yil-muhlet-verildi-1738770",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-40-yillik-sirkete-konkordato-iflastan-once-son-cikistalar-1-yil-muhlet-verildi-1738770",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-petrol-90-dolara-tutundu-1738768",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-abdnin-iran-yaptirimlari-dolara-yaradi-1738766",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-dogalgaz-65-yilin-zirvesinde-1738765",
@@ -1070,8 +1071,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:a03334ccfd9e8:0",
+      "last_seen_key": "tradingview:matriks:6695101:0",
       "seen_keys": [
+        "tradingview:matriks:6695101:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44M08S:0",
+        "tradingview:matriks:6695099:0",
         "tradingview:fxstreet:a03334ccfd9e8:0",
         "tradingview:matriks:6695097:0",
         "tradingview:fxstreet:9779b9157d9e8:0",
@@ -1568,10 +1572,7 @@
         "tradingview:matriks:6692892:0",
         "tradingview:cointelegraph:9901d717ed9e8:0",
         "tradingview:matriks:6692866:0",
-        "tradingview:matriks:6692870:0",
-        "tradingview:matriks:6692868:0",
-        "tradingview:matriks:6692869:0",
-        "tradingview:matriks:6692867:0"
+        "tradingview:matriks:6692870:0"
       ]
     },
     "forexfactory": {
@@ -1589,6 +1590,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "dolar zay flarken merkez bankalar jeopolitik riskler nvidia bilancosu gundemin odag nda ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6695101:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44M08S:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s sabah teknik butlten ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6695099:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "40 y ll k sirkete konkordato iflastan once c k stalar 1 y l muhlet verildi manisa n n akhisar ilcesinde bulunan 40 y ll k zeytin sirketine y l sureyle konkordato muhleti verildi",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-40-yillik-sirkete-konkordato-iflastan-once-son-cikistalar-1-yil-muhlet-verildi-1738770"
+    },
     {
       "source": "tradingview",
       "text": "teknik bulten info yat r m",
@@ -9068,26 +9089,6 @@
       "source": "kap",
       "text": "bls blsmd fiyat tespit raporu intetra teknoloji bilisim hizmetleri a s spk taraf ndan onaylanan izahname ek 6 fiyat tespit raporu sirket bulls yatirim menkul degerler a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1654263"
-    },
-    {
-      "source": "kap",
-      "text": "bls blsmd ozel durum ac klamas genel intetra teknoloji bilisim hizmetleri a s ek 5 finansal tablolar ozel bag ms z denetim raporuna iliskin bag ms z denetim kurulusu sorumluluk beyan sirket bulls yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654262"
-    },
-    {
-      "source": "tradingview",
-      "text": "malezya ringgiti abd dolar kars s nda guclu temellerle destekleniyor ocbc",
-      "link": "https://tr.tradingview.com/news/fxstreet:7df3b3c3bd9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "mizuho viking holdings hisse hedefini kalite gorunumuyle yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-viking-holdings-icin-hisse-hedefini-kalite-gorunumuyle-yukseltti-93CH-4040214"
-    },
-    {
-      "source": "investing",
-      "text": "bkv corp cfo su david tameron 38 445 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/bkv-corp-cfosu-david-tameron-38445-dolar-degerinde-hisse-satt-93CH-4040212"
     }
   ]
 }
