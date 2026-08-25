@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654766",
+      "last_seen_key": "kap:1654773",
       "seen_keys": [
+        "kap:1654773",
+        "kap:1654772",
+        "kap:1654767",
         "kap:1654766",
         "kap:1654765",
         "kap:1654764",
@@ -327,9 +330,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/godman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/goldman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378",
       "seen_keys": [
-        "bloomberght:https://www.bloomberght.com/godman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378",
+        "bloomberght:https://www.bloomberght.com/goldman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378",
         "bloomberght:https://www.bloomberght.com/mscidan-turkiye-kucuk-olcekli-sirketler-endeksine-girecek-hisselerde-degisiklik-3786374",
         "bloomberght:https://www.bloomberght.com/cin-den-abd-nin-iran-yaptirimlarina-karsi-misilleme-tehdidi-3786373",
         "bloomberght:https://www.bloomberght.com/almanyanin-ekonomik-gorunumunde-iyilesme-surdu-3786372",
@@ -377,6 +380,7 @@
         "bloomberght:https://www.bloomberght.com/iran-dan-doviz-kuru-aciklamasi-3786282",
         "bloomberght:https://www.bloomberght.com/iran-dan-hurmuz-den-gecen-tankerlere-el-koyma-tehdidi-3786281",
         "bloomberght:https://www.bloomberght.com/goldman-tlde-uzun-pozisyonu-korudu-3786279",
+        "bloomberght:https://www.bloomberght.com/godman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378",
         "bloomberght:https://www.bloomberght.com/ftse-russell-endekslerinden-24-turk-sirketini-cikardi-3786278",
         "bloomberght:https://www.bloomberght.com/ab-de-ukrayna-ya-6-milyar-euroyu-askin-destek-3786276",
         "bloomberght:https://www.bloomberght.com/zeytinyagi-sektoru-abd-tarifesine-karsi-dfif-istiyor-3786275",
@@ -1162,11 +1166,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:d275aa692d9e8:0",
+      "last_seen_key": "tradingview:matriks:6696055:0",
       "seen_keys": [
+        "tradingview:matriks:6696055:0",
+        "tradingview:fxstreet:e61809284d9e8:0",
         "tradingview:fxstreet:d275aa692d9e8:0",
         "tradingview:matriks:6696006:0",
         "tradingview:matriks:6695998:0",
+        "tradingview:cointelegraph:1ad1bad01d9e8:0",
         "tradingview:fxstreet:3bb84c234d9e8:0",
         "tradingview:fxstreet:bef7f8b43d9e8:0",
         "tradingview:fxstreet:f3192b3dbd9e8:0",
@@ -1660,10 +1667,7 @@
         "tradingview:matriks:6693509:0",
         "tradingview:fxstreet:3a6db067dd9e8:0",
         "tradingview:fxstreet:3207ae629d9e8:0",
-        "tradingview:matriks:6693487:0",
-        "tradingview:matriks:6693476:0",
-        "tradingview:matriks:6693471:0",
-        "tradingview:matriks:6693470:0"
+        "tradingview:matriks:6693487:0"
       ]
     },
     "forexfactory": {
@@ -1681,6 +1685,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "anket matriks haber bist sentiment anketi borsa kapan s beklentisi 5 62 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6696055:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini guvercin yeniden fiyatlama euro kars s nda zay fl ga isaret ediyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:e61809284d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "goldman sachs y l faizlerle ilgili goruslerini korudu goldman sachs ekonomistleri turkiye cumhuriyet merkez bankas n n tcmb haftal k repo faizini y l sonuna kadar yuzde 37 seviyesinde b rakacag yonundeki goruslerini koruduklar n belirtti",
+      "link": "https://www.bloomberght.com/goldman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378"
+    },
+    {
+      "source": "kap",
+      "text": "afb aktif ihrac tavan na iliskin bildirim yurtd s ihrac tavan hk sirket aktif yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654773"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr pay baz nda devre kesici bildirimi sdttr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654772"
+    },
+    {
+      "source": "kap",
+      "text": "oyayo ozel durum ac klamas genel ortakl k paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket oyak yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654767"
+    },
     {
       "source": "tradingview",
       "text": "euro alman is dunyas guveni iyilesirken japon yeni kars s nda yukseliyor",
@@ -9150,36 +9184,6 @@
       "source": "tradingview",
       "text": "coca cola icecek hakk nda ticaret bakanl g izmir gumruk mudurlugu taraf ndan idari para cezas uygulanmas na karar verildi",
       "link": "https://tr.tradingview.com/news/matriks:6692888:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "denge yat r m holding sb celik madencilik in 9 26 s na denk gelen ilave pay n devral nmas na karar verdi",
-      "link": "https://tr.tradingview.com/news/matriks:6692881:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "europap tezol bas n sosyal medyada yer alan haberler uzerine ac klama yapt",
-      "link": "https://tr.tradingview.com/news/matriks:6692879:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gozde tech ventures n kolay ik daki pay oran 3 60 seviyesinden yaklas k 4 04 seviyesine yukseldi",
-      "link": "https://tr.tradingview.com/news/matriks:6692886:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hidropar n iki pay sahibi sirketin sermayesinin toplamda 22 76 s n oy haklar n n ise toplamda 57 09 unu temsil eden paylar n devri hususunda mutabakata vard",
-      "link": "https://tr.tradingview.com/news/matriks:6692882:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "metro ticari metro insaat paylar n n tamam n n sat n al nmas na karar verdi",
-      "link": "https://tr.tradingview.com/news/matriks:6692880:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "vanet g dr nar g n n paylar n n tamam n n sat n al nmas na karar verdi",
-      "link": "https://tr.tradingview.com/news/matriks:6692887:0"
     }
   ]
 }
