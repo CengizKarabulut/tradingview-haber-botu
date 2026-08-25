@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654975",
+      "last_seen_key": "kap:1654979",
       "seen_keys": [
+        "kap:1654979",
+        "kap:1654978",
         "kap:1654975",
         "kap:1654973",
         "kap:1654972",
@@ -1008,8 +1010,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:53cfdac9bd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:a1a335807d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:a1a335807d9e8:0",
         "tradingview:fxstreet:53cfdac9bd9e8:0",
         "tradingview:fxstreet:0cc12d285d9e8:0",
         "tradingview:fxstreet:ec461ff1dd9e8:0",
@@ -1508,8 +1511,7 @@
         "tradingview:fxstreet:9787709b6d9e8:0",
         "tradingview:fxstreet:f11862a5dd9e8:0",
         "tradingview:fxstreet:954b08e74d9e8:0",
-        "tradingview:fxstreet:cf1f59aa2d9e8:0",
-        "tradingview:cointelegraph:43c58fc7fd9e8:0"
+        "tradingview:fxstreet:cf1f59aa2d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1527,6 +1529,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "singapur dolar abd dolar kars s nda kazanclar n ard ndan konsolidasyon riski ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:a1a335807d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "kuvva sirket genel bilgi formu sirket kuvva gida ticaret sanayi yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654979"
+    },
+    {
+      "source": "kap",
+      "text": "kuvva yonetim kurulu komiteleri yonetim kurulu komitelerinin belirlenmesi hk sirket kuvva gida ticaret sanayi yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654978"
+    },
     {
       "source": "tradingview",
       "text": "avustralya tufe sinin temmuz ay nda enflasyonun yavaslad g n gostermesi bekleniyor",
@@ -9011,21 +9028,6 @@
       "source": "bloomberght",
       "text": "reel sektor doviz ac g rekor seviyeye yak n tcmb verilerine gore finansal kesim d s ndaki firmalar n net doviz pozisyonu ac g haziran 2026 onceki aya gore 2 milyar 342 milyon dolar artarak 205 milyar 755 milyon dolara yukseldi",
       "link": "https://www.bloomberght.com/reel-sektor-net-doviz-acigi-haziran-da-206-milyar-dolar-oldu-3786292"
-    },
-    {
-      "source": "kap",
-      "text": "psgyo sermaye art r m azalt m islemlerine iliskin bildirim tahsisli sat s yontemiyle bedelli sermaye art s basvurusu hakk nda sirket pasifik gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654422"
-    },
-    {
-      "source": "kap",
-      "text": "hdfvk ihrac tavan na iliskin bildirim kira sertifikas ihrac na iliskin yonetim kurulu karar al nmas hk sirket hedef varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654421"
-    },
-    {
-      "source": "kap",
-      "text": "edata pay baz nda devre kesici bildirimi edata e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654420"
     }
   ]
 }
