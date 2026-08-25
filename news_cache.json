@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654782",
+      "last_seen_key": "kap:1654785",
       "seen_keys": [
+        "kap:1654785",
+        "kap:1654784",
+        "kap:1654783",
         "kap:1654782",
         "kap:1654781",
         "kap:1654780",
@@ -414,18 +417,17 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/katar-abdiran-yaptrm-anlasmazlgnn-cozumu-icin-arabuluculugu-destekliyor-93CH-4042786",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/needham-freesolve-potansiyeli-nedeniyle-teleflex-hisse-hedefini-yukseltti-93CH-4042880",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/economy-news/katar-abdiran-yaptrm-anlasmazlgnn-cozumu-icin-arabuluculugu-destekliyor-93CH-4042786",
-        "investing:https://tr.investing.com/news/company-news/schmid-group-ilk-yar-gelirini-46-milyon-avro-acklad-93CH-4042785",
-        "investing:https://tr.investing.com/news/economy-news/kremlin-fin-liderini-ukrayna-acklamalar-nedeniyle-suclad-93CH-4042784",
-        "investing:https://tr.investing.com/news/company-news/nexgen-patterson-corridor-eastteki-uranyum-yatagn-genisletti-93CH-4042761",
-        "investing:https://tr.investing.com/news/company-news/builders-firstsource-digsin-253-milyon-dolarlk-turuna-liderlik-etti-93CH-4042760",
-        "investing:https://tr.investing.com/news/company-news/nayax-ips-groupu-350-milyon-dolara-satn-alacak-93CH-4042759",
-        "investing:https://tr.investing.com/news/company-news/liontrustn-focusritetaki-pay-yuzde-15in-altna-dustu-93CH-4042757",
-        "investing:https://tr.investing.com/news/company-news/qnity-ileri-cip-paketleme-icin-malzeme-platformu-baslatt-93CH-4042758",
-        "investing:https://tr.investing.com/news/company-news/willis-lease-finance-12-ucak-ve-13-motor-satn-ald-93CH-4042756",
-        "investing:https://tr.investing.com/news/company-news/hyperscale-datann-216-milyon-dolar-degerinde-278-bitcoini-var-93CH-4042755",
+        "investing:https://tr.investing.com/news/analyst-ratings/needham-freesolve-potansiyeli-nedeniyle-teleflex-hisse-hedefini-yukseltti-93CH-4042880",
+        "investing:https://tr.investing.com/news/company-news/celea-ers-kongresinde-deupirfenidone-calsma-verilerini-sunacak-93CH-4042879",
+        "investing:https://tr.investing.com/news/stock-market-news/capricor-therapeutics-hissesi-neden-yukseliyor-93CH-4042876",
+        "investing:https://tr.investing.com/news/company-news/parabilis-medicines-eski-jj-onkoloji-yoneticisini-yonetim-kuruluna-ald-93CH-4042871",
+        "investing:https://tr.investing.com/news/company-news/madison-air-225-milyar-dolarlk-ozel-yerlestirme-acklad-93CH-4042870",
+        "investing:https://tr.investing.com/news/company-news/sagimet-akne-ilac-denemesine-2026nn-4-ceyreginde-baslayacak-93CH-4042868",
+        "investing:https://tr.investing.com/news/company-news/fury-gold-eau-claire-projesinden-sondaj-sonuclarn-acklad-93CH-4042867",
+        "investing:https://tr.investing.com/news/company-news/beyond-air-neuronos-hissesini-univoya-1999-hisse-karslgnda-satyor-93CH-4042866",
+        "investing:https://tr.investing.com/news/company-news/iss-ve-glass-lewis-evogenenin-yonetim-kurulu-adaylarn-destekledi-93CH-4042865",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -446,6 +448,16 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/economy-news/katar-abdiran-yaptrm-anlasmazlgnn-cozumu-icin-arabuluculugu-destekliyor-93CH-4042786",
+        "investing:https://tr.investing.com/news/company-news/schmid-group-ilk-yar-gelirini-46-milyon-avro-acklad-93CH-4042785",
+        "investing:https://tr.investing.com/news/economy-news/kremlin-fin-liderini-ukrayna-acklamalar-nedeniyle-suclad-93CH-4042784",
+        "investing:https://tr.investing.com/news/company-news/nexgen-patterson-corridor-eastteki-uranyum-yatagn-genisletti-93CH-4042761",
+        "investing:https://tr.investing.com/news/company-news/builders-firstsource-digsin-253-milyon-dolarlk-turuna-liderlik-etti-93CH-4042760",
+        "investing:https://tr.investing.com/news/company-news/nayax-ips-groupu-350-milyon-dolara-satn-alacak-93CH-4042759",
+        "investing:https://tr.investing.com/news/company-news/liontrustn-focusritetaki-pay-yuzde-15in-altna-dustu-93CH-4042757",
+        "investing:https://tr.investing.com/news/company-news/qnity-ileri-cip-paketleme-icin-malzeme-platformu-baslatt-93CH-4042758",
+        "investing:https://tr.investing.com/news/company-news/willis-lease-finance-12-ucak-ve-13-motor-satn-ald-93CH-4042756",
+        "investing:https://tr.investing.com/news/company-news/hyperscale-datann-216-milyon-dolar-degerinde-278-bitcoini-var-93CH-4042755",
         "investing:https://tr.investing.com/news/transcripts/lanxess-alman-konferansnda-maliyet-kesintileri-dayankllg-artryor-93CH-4042683",
         "investing:https://tr.investing.com/news/stock-market-news/fidelity-national-information-services-hissesi-neden-dusuyor-93CH-4042681",
         "investing:https://tr.investing.com/news/stock-market-news/shift4-payments-hissesi-bugun-neden-yukseliyor-93CH-4042680",
@@ -906,16 +918,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/ftse-100-iran-yaptrmlar-ve-teknoloji-satslar-bask-yapt-4040737",
         "investing:https://tr.investing.com/news/company-news/arada-sukuk-rza-ucreti-son-tarihini-31-agustosa-uzatt-93CH-4040728",
         "investing:https://tr.investing.com/news/global-filings/agrotech-flora-entegredeki-payn-90a-yukseltti-93CH-4040727",
-        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-jersey-mikes-hissesine-asr-agrlk-verdi-93CH-4040704",
-        "investing:https://tr.investing.com/news/stock-market-news/xiaomi-tsmc-ile-ortaklkta-yeni-cip-tantt-4040707",
-        "investing:https://tr.investing.com/news/company-news/telecom-egypt-ftse-russell-orta-olcekli-segmente-yukseltildi-93CH-4040702",
-        "investing:https://tr.investing.com/news/company-news/celsius-resources-avukatlar-hakknda-baro-kayd-iptali-sikayetinde-bulundu-93CH-4040700",
-        "investing:https://tr.investing.com/news/company-news/likewise-group-corbydeki-dagtm-merkezini-957-milyon-sterline-ald-93CH-4040698",
-        "investing:https://tr.investing.com/news/stock-market-news/jp-morgan-diploma-icin-hedefini-yukseltti-4040696",
-        "investing:https://tr.investing.com/news/stock-market-news/abd-ordusu-dogu-pasifikte-uyusturucu-gemisini-vurdu-93CH-4040694",
-        "investing:https://tr.investing.com/news/company-news/kazera-global-guney-afrika-projesinde-369-milyon-dolarlk-maden-kaynag-bildirdi-93CH-4040693",
-        "investing:https://tr.investing.com/news/company-news/huddled-canl-ticaret-icin-tiktok-ile-ortak-girisim-kurdu-93CH-4040690",
-        "investing:https://tr.investing.com/news/company-news/quantum-helium-sagebrush-testlerini-ilerletiyor-93CH-4040681"
+        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-jersey-mikes-hissesine-asr-agrlk-verdi-93CH-4040704"
       ]
     },
     "ntvpara": {
@@ -1177,9 +1180,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:b1a75522cd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:0d86bd796d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:0d86bd796d9e8:0",
+        "tradingview:fxstreet:4f9c1f36cd9e8:0",
         "tradingview:fxstreet:b1a75522cd9e8:0",
+        "tradingview:cointelegraph:dfa0c9403d9e8:0",
         "tradingview:matriks:6696135:0",
         "tradingview:matriks:6696132:0",
         "tradingview:matriks:6696124:0",
@@ -1675,10 +1681,7 @@
         "tradingview:matriks:6693647:0",
         "tradingview:matriks:6693642:0",
         "tradingview:fxstreet:1c26845d9d9e8:0",
-        "tradingview:cointelegraph:2f949ca8cd9e8:0",
-        "tradingview:fxstreet:e42b063d0d9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44L0G5:0",
-        "tradingview:fxstreet:2c070c282d9e8:0"
+        "tradingview:cointelegraph:2f949ca8cd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1696,6 +1699,76 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n keskin rallinin ard ndan uc ayl k zirveye yak n duraksad",
+      "link": "https://tr.tradingview.com/news/fxstreet:0d86bd796d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar deger kayb korkular tarihsel suphecilikle kars las yor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:4f9c1f36cd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "needham freesolve potansiyeli nedeniyle teleflex hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/needham-freesolve-potansiyeli-nedeniyle-teleflex-hisse-hedefini-yukseltti-93CH-4042880"
+    },
+    {
+      "source": "investing",
+      "text": "celea ers kongresinde deupirfenidone cal sma verilerini sunacak",
+      "link": "https://tr.investing.com/news/company-news/celea-ers-kongresinde-deupirfenidone-calsma-verilerini-sunacak-93CH-4042879"
+    },
+    {
+      "source": "investing",
+      "text": "capricor therapeutics hissesi neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/capricor-therapeutics-hissesi-neden-yukseliyor-93CH-4042876"
+    },
+    {
+      "source": "investing",
+      "text": "parabilis medicines eski j j onkoloji yoneticisini yonetim kuruluna ald",
+      "link": "https://tr.investing.com/news/company-news/parabilis-medicines-eski-jj-onkoloji-yoneticisini-yonetim-kuruluna-ald-93CH-4042871"
+    },
+    {
+      "source": "investing",
+      "text": "madison air 2 25 milyar dolarl k ozel yerlestirme ac klad",
+      "link": "https://tr.investing.com/news/company-news/madison-air-225-milyar-dolarlk-ozel-yerlestirme-acklad-93CH-4042870"
+    },
+    {
+      "source": "investing",
+      "text": "sagimet akne ilac denemesine 2026 n n 4 ceyreginde baslayacak",
+      "link": "https://tr.investing.com/news/company-news/sagimet-akne-ilac-denemesine-2026nn-4-ceyreginde-baslayacak-93CH-4042868"
+    },
+    {
+      "source": "investing",
+      "text": "fury gold eau claire projesinden sondaj sonuclar n ac klad",
+      "link": "https://tr.investing.com/news/company-news/fury-gold-eau-claire-projesinden-sondaj-sonuclarn-acklad-93CH-4042867"
+    },
+    {
+      "source": "investing",
+      "text": "beyond air neuronos hissesini univo ya 19 99 hisse kars l g nda sat yor",
+      "link": "https://tr.investing.com/news/company-news/beyond-air-neuronos-hissesini-univoya-1999-hisse-karslgnda-satyor-93CH-4042866"
+    },
+    {
+      "source": "investing",
+      "text": "iss glass lewis evogene nin yonetim kurulu adaylar n destekledi",
+      "link": "https://tr.investing.com/news/company-news/iss-ve-glass-lewis-evogenenin-yonetim-kurulu-adaylarn-destekledi-93CH-4042865"
+    },
+    {
+      "source": "kap",
+      "text": "ahlvk genel kurul bildirimi 25 08 2026 tarihli olaganustu genel kurul toplant s kararlar sirket ahlatci varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654785"
+    },
+    {
+      "source": "kap",
+      "text": "tuprs pay baz nda devre kesici bildirimi tuprs e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654784"
+    },
+    {
+      "source": "kap",
+      "text": "vakko gelecege donuk degerlendirmeler gelecege donuk degerlendirmeler sirket vakko tekstil hazir giyim sanayi isletmeleri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654783"
+    },
     {
       "source": "tradingview",
       "text": "turkiye nin 2 y ll k tahvil faizi 13 baz puan dususle yuzde 40 seviyesinin alt na geriledi bloomberg ht",
@@ -9125,76 +9198,6 @@
       "source": "kap",
       "text": "efor sermaye art r m azalt m islemlerine iliskin bildirim tahsisli sermaye art r m yonetim kurulu karar sirket efor yatirim sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1654280"
-    },
-    {
-      "source": "tradingview",
-      "text": "global piyasalar borsa doviz tahvil petrol alt n",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44L08K:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "coca cola icecek e izmir gumruk mudurlugu taraf ndan 705 8 milyon tl ek tahakkuk 2 1 milyar tl idari para cezas uygulama karar al nd kap",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44L073:0"
-    },
-    {
-      "source": "investing",
-      "text": "hanmi pharm hisseleri genentech obezite ilac anlasmas yla 30 yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/hanmi-pharm-hisseleri-genentech-obezite-ilac-anlasmasyla-30-yukseldi-93CH-4040660"
-    },
-    {
-      "source": "investing",
-      "text": "2 ceyrekte 28 yukselen yaz l m devi hala 49 dan fazla potansiyel sunuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/2c-kazanclar-oncesi-ayda-28-yukseldi-yazlm-devinin-49-potansiyeli-var-4040659"
-    },
-    {
-      "source": "investing",
-      "text": "xiaomi hisseleri neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/xiaomi-hisseleri-neden-dusuyor-93CH-4040657"
-    },
-    {
-      "source": "investing",
-      "text": "uaw uyeleri deere nin sozlesme uzatma teklifini reddetti",
-      "link": "https://tr.investing.com/news/stock-market-news/uaw-uyeleri-deerenin-sozlesme-uzatma-teklifini-reddetti-93CH-4040656"
-    },
-    {
-      "source": "investing",
-      "text": "metall zug sat slar artarken zarar n daraltt",
-      "link": "https://tr.investing.com/news/stock-market-news/metall-zug-satslar-artarken-zararn-daraltt-93CH-4040654"
-    },
-    {
-      "source": "investing",
-      "text": "shell in kimyasal bolumune exxon lyondellbasell ilgi gosteriyor",
-      "link": "https://tr.investing.com/news/stock-market-news/shellin-kimyasal-bolumune-exxon-ve-lyondellbasell-ilgi-gosteriyor-4040655"
-    },
-    {
-      "source": "tradingview",
-      "text": "haftaya makro bak s veriden gorunume",
-      "link": "https://tr.tradingview.com/news/matriks:6692968:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bas nda bugun 24 agustos pazartesi",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44L06R:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "global piyasalar borsa doviz",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44L086:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "nzd usd fiyat analizi al c lar 0 6000 uzerinden k r lma beklerken haziran ay zirvesi yak n nda konsolide oluyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:0be6ca2e6d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alibaba yapay zeka yat r mlar 10 2 milyar dolarl k kaynak toplayacak",
-      "link": "https://tr.tradingview.com/news/matriks:6692963:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "teknik bulten info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6692961:0"
     }
   ]
 }
