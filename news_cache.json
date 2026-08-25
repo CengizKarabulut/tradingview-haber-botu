@@ -314,8 +314,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/tokio-marine-berkshiren-hisse-almnn-ardndan-suncorpu-degerlendiriyor-4042243",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/evercommerce-yoneticisi-remer-293569-dolarlk-hisse-satt-93CH-4042246",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/evercommerce-yoneticisi-remer-293569-dolarlk-hisse-satt-93CH-4042246",
+        "investing:https://tr.investing.com/news/stock-market-news/tokio-marine-hisseleri-neden-yukseliyor-93CH-4042245",
+        "investing:https://tr.investing.com/news/stock-market-news/insurance-australia-hisseleri-neden-yukseliste-93CH-4042244",
         "investing:https://tr.investing.com/news/stock-market-news/tokio-marine-berkshiren-hisse-almnn-ardndan-suncorpu-degerlendiriyor-4042243",
         "investing:https://tr.investing.com/news/stock-market-news/coles-hisseleri-neden-bugun-yukseliyor-93CH-4042241",
         "investing:https://tr.investing.com/news/stock-market-news/aub-hissesi-bugun-neden-yukseldi-93CH-4042239",
@@ -323,9 +326,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/suncorp-hissesi-neden-yukseliste-93CH-4042237",
         "investing:https://tr.investing.com/news/insider-trading-news/procore-hukuk-muduru-249-bin-dolarlk-hisse-satt-93CH-4042236",
         "investing:https://tr.investing.com/news/insider-trading-news/chipotlenin-kontroloru-matthew-bush-95631-dolar-degerinde-hisse-satt-93CH-4042235",
-        "investing:https://tr.investing.com/news/stock-market-news/scentre-groupun-ilk-yar-dagtmlar-49-artt-2026-rehberini-yukseltti-93CH-4042234",
-        "investing:https://tr.investing.com/news/insider-trading-news/venu-holding-ceosu-jay-roth-sirket-hissesi-satn-ald-93CH-4042233",
-        "investing:https://tr.investing.com/news/insider-trading-news/fold-holdings-ceosu-reeves-9143-dolar-degerinde-hisse-satt-93CH-4042232",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -346,6 +346,9 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/stock-market-news/scentre-groupun-ilk-yar-dagtmlar-49-artt-2026-rehberini-yukseltti-93CH-4042234",
+        "investing:https://tr.investing.com/news/insider-trading-news/venu-holding-ceosu-jay-roth-sirket-hissesi-satn-ald-93CH-4042233",
+        "investing:https://tr.investing.com/news/insider-trading-news/fold-holdings-ceosu-reeves-9143-dolar-degerinde-hisse-satt-93CH-4042232",
         "investing:https://tr.investing.com/news/insider-trading-news/dst-global-advisors-chime-financial-hisselerini-satt-93CH-4042230",
         "investing:https://tr.investing.com/news/insider-trading-news/chime-financialn-10-hissesahibi-281-milyon-dolarlk-hisse-satt-93CH-4042229",
         "investing:https://tr.investing.com/news/insider-trading-news/resolute-holdings-cfosu-44190-dolarlk-hisse-satn-ald-93CH-4042228",
@@ -812,10 +815,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/coreweavein-genel-musaviri-365682-dolarlk-hisse-satt-93CH-4040394",
         "investing:https://tr.investing.com/news/insider-trading-news/intuitive-surgical-evp-mark-brosius-59439-dolarlk-hisse-satt-93CH-4040393",
         "investing:https://tr.investing.com/news/insider-trading-news/illumina-yoneticisi-keith-meister-1455-milyon-dolarlk-hisse-satt-93CH-4040381",
-        "investing:https://tr.investing.com/news/insider-trading-news/american-securities-solv-energynin-79-milyon-hissesini-satt-93CH-4040380",
-        "investing:https://tr.investing.com/news/insider-trading-news/nightfood-holdings-yoneticisi-stauber-140-dolar-degerinde-hisse-ald-93CH-4040379",
-        "investing:https://tr.investing.com/news/insider-trading-news/coreweave-evp-chen-goldberg-792740-dolarlk-hisse-satt-93CH-4040378",
-        "investing:https://tr.investing.com/news/insider-trading-news/coreweave-ceosu-12-milyon-dolarlk-hisse-satt-93CH-4040377"
+        "investing:https://tr.investing.com/news/insider-trading-news/american-securities-solv-energynin-79-milyon-hissesini-satt-93CH-4040380"
       ]
     },
     "ntvpara": {
@@ -1062,8 +1062,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:27d928468d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:eb7867c2ed9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:eb7867c2ed9e8:0",
         "tradingview:fxstreet:27d928468d9e8:0",
         "tradingview:fxstreet:a03334ccfd9e8:0",
         "tradingview:fxstreet:3239e53fdd9e8:0",
@@ -1562,8 +1563,7 @@
         "tradingview:fxstreet:933e637c2d9e8:0",
         "tradingview:fxstreet:67033a631d9e8:0",
         "tradingview:fxstreet:fb7e96e64d9e8:0",
-        "tradingview:fxstreet:6cc17b2efd9e8:0",
-        "tradingview:fxstreet:3d645e4f0d9e8:0"
+        "tradingview:fxstreet:6cc17b2efd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1581,6 +1581,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "etf talebi hazine geri al mlar ralliyi koruklerken bitcoin 80 bin dolar n uzerine f rlad",
+      "link": "https://tr.tradingview.com/news/cointelegraph:eb7867c2ed9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "evercommerce yoneticisi remer 293 569 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/evercommerce-yoneticisi-remer-293569-dolarlk-hisse-satt-93CH-4042246"
+    },
+    {
+      "source": "investing",
+      "text": "tokio marine hisseleri neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/tokio-marine-hisseleri-neden-yukseliyor-93CH-4042245"
+    },
+    {
+      "source": "investing",
+      "text": "insurance australia hisseleri neden yukseliste",
+      "link": "https://tr.investing.com/news/stock-market-news/insurance-australia-hisseleri-neden-yukseliste-93CH-4042244"
+    },
     {
       "source": "tradingview",
       "text": "yeni zelanda dolar yuksek enflasyonun rbnz nin eylul ay nda faiz art r m ihtimalini art rmas yla yukseliyor",
@@ -9060,26 +9080,6 @@
       "source": "investing",
       "text": "abd hazine tahvil faizleri hizmet sektoru verisiyle yukseldi",
       "link": "https://tr.investing.com/news/stock-market-news/abd-hazine-tahvil-faizleri-hizmet-sektoru-verisiyle-yukseldi-93CH-4040178"
-    },
-    {
-      "source": "investing",
-      "text": "allianz commercial emma woolley i ozel brans rolune atad",
-      "link": "https://tr.investing.com/news/stock-market-news/allianz-commercial-emma-woolleyi-ozel-brans-rolune-atad-93CH-4040177"
-    },
-    {
-      "source": "investing",
-      "text": "axis bank 300 milyon dolarl k tahviller onay ald",
-      "link": "https://tr.investing.com/news/company-news/axis-bank-300-milyon-dolarlk-tahviller-icin-onay-ald-93CH-4040176"
-    },
-    {
-      "source": "investing",
-      "text": "tredegar yoneticisi james gottwald 35 053 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/tredegar-yoneticisi-james-gottwald-35053-dolar-degerinde-hisse-satt-93CH-4040175"
-    },
-    {
-      "source": "investing",
-      "text": "avro bolgesi tahvil getirileri kuresel dalgalanma sonras sabit",
-      "link": "https://tr.investing.com/news/stock-market-news/avro-bolgesi-tahvil-getirileri-kuresel-dalgalanma-sonras-sabit-93CH-4040174"
     }
   ]
 }
