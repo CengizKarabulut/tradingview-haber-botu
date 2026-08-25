@@ -1015,8 +1015,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:a1a335807d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:5e9e0d0e0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:5e9e0d0e0d9e8:0",
+        "tradingview:fxstreet:9e6b3ed5fd9e8:0",
+        "tradingview:fxstreet:d5b2a3038d9e8:0",
         "tradingview:fxstreet:a1a335807d9e8:0",
         "tradingview:fxstreet:53cfdac9bd9e8:0",
         "tradingview:fxstreet:0cc12d285d9e8:0",
@@ -1513,10 +1516,7 @@
         "tradingview:beincrypto:cb7d75157d9e8:0",
         "tradingview:beincrypto:72570e79dd9e8:0",
         "tradingview:cointelegraph:68df818b6d9e8:0",
-        "tradingview:fxstreet:9787709b6d9e8:0",
-        "tradingview:fxstreet:f11862a5dd9e8:0",
-        "tradingview:fxstreet:954b08e74d9e8:0",
-        "tradingview:fxstreet:cf1f59aa2d9e8:0"
+        "tradingview:fxstreet:9787709b6d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1534,6 +1534,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar rba n n sahin tutanaklar n n ard ndan yukseliyor enflasyon verileri izleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5e9e0d0e0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tokyo japon yeni ni aral kta ald trend degil",
+      "link": "https://tr.tradingview.com/news/fxstreet:9e6b3ed5fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini nin alt ayl k zirvesi hafta ingiltere kaynakl s navla kars lasm yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d5b2a3038d9e8:0"
+    },
     {
       "source": "investing",
       "text": "stubhub yoneticisi mark streams 1 13 milyon dolarl k hisse satt",
@@ -9018,21 +9033,6 @@
       "source": "investing",
       "text": "humacyte diyaliz erisimi kas m fda basvurusu yapacak",
       "link": "https://tr.investing.com/news/company-news/humacyte-diyaliz-erisimi-icin-kasmda-fda-basvurusu-yapacak-93CH-4041467"
-    },
-    {
-      "source": "investing",
-      "text": "spruce mps iiib tedavisi fda bla oncesi toplant lar tamamlad",
-      "link": "https://tr.investing.com/news/company-news/spruce-mps-iiib-tedavisi-icin-fda-ile-bla-oncesi-toplantlar-tamamlad-93CH-4041468"
-    },
-    {
-      "source": "investing",
-      "text": "clearmind mdma kombinasyonu abd patent basvurusunu duyurdu",
-      "link": "https://tr.investing.com/news/company-news/clearmind-mdma-kombinasyonu-icin-abd-patent-basvurusunu-duyurdu-93CH-4041466"
-    },
-    {
-      "source": "investing",
-      "text": "aeg archer l a live vertiport planl yor",
-      "link": "https://tr.investing.com/news/company-news/aeg-ve-archer-la-liveda-vertiport-planlyor-93CH-4041465"
     }
   ]
 }
