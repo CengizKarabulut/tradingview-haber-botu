@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654780",
+      "last_seen_key": "kap:1654782",
       "seen_keys": [
+        "kap:1654782",
+        "kap:1654781",
         "kap:1654780",
         "kap:1654779",
         "kap:1654778",
@@ -412,18 +414,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/transcripts/lanxess-alman-konferansnda-maliyet-kesintileri-dayankllg-artryor-93CH-4042683",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/katar-abdiran-yaptrm-anlasmazlgnn-cozumu-icin-arabuluculugu-destekliyor-93CH-4042786",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/transcripts/lanxess-alman-konferansnda-maliyet-kesintileri-dayankllg-artryor-93CH-4042683",
-        "investing:https://tr.investing.com/news/stock-market-news/fidelity-national-information-services-hissesi-neden-dusuyor-93CH-4042681",
-        "investing:https://tr.investing.com/news/stock-market-news/shift4-payments-hissesi-bugun-neden-yukseliyor-93CH-4042680",
-        "investing:https://tr.investing.com/news/company-news/pizza-hut-josh-allen-ile-futbol-kampanyas-baslatt-93CH-4042678",
-        "investing:https://tr.investing.com/news/company-news/intapp-yapay-zeka-uyum-entegrasyonu-icin-legora-ile-ortaklk-kurdu-93CH-4042677",
-        "investing:https://tr.investing.com/news/company-news/nuran-wireless-gelecek-halka-arzlar-icin-izahname-sundu-93CH-4042676",
-        "investing:https://tr.investing.com/news/company-news/nayax-ips-groupu-350-milyon-dolara-nakit-olarak-satn-alyor-93CH-4042670",
-        "investing:https://tr.investing.com/news/company-news/stable-sea-platformuna-wisdomtreeden-iki-tokenize-fon-eklendi-93CH-4042669",
-        "investing:https://tr.investing.com/news/company-news/davita-humana-ile-bobrek-hastalg-bakm-program-baslatt-93CH-4042668",
-        "investing:https://tr.investing.com/news/company-news/escalade-yaltml-kopek-kulubesi-ureticisi-asl-solutions-satn-ald-93CH-4042667",
+        "investing:https://tr.investing.com/news/economy-news/katar-abdiran-yaptrm-anlasmazlgnn-cozumu-icin-arabuluculugu-destekliyor-93CH-4042786",
+        "investing:https://tr.investing.com/news/company-news/schmid-group-ilk-yar-gelirini-46-milyon-avro-acklad-93CH-4042785",
+        "investing:https://tr.investing.com/news/economy-news/kremlin-fin-liderini-ukrayna-acklamalar-nedeniyle-suclad-93CH-4042784",
+        "investing:https://tr.investing.com/news/company-news/nexgen-patterson-corridor-eastteki-uranyum-yatagn-genisletti-93CH-4042761",
+        "investing:https://tr.investing.com/news/company-news/builders-firstsource-digsin-253-milyon-dolarlk-turuna-liderlik-etti-93CH-4042760",
+        "investing:https://tr.investing.com/news/company-news/nayax-ips-groupu-350-milyon-dolara-satn-alacak-93CH-4042759",
+        "investing:https://tr.investing.com/news/company-news/liontrustn-focusritetaki-pay-yuzde-15in-altna-dustu-93CH-4042757",
+        "investing:https://tr.investing.com/news/company-news/qnity-ileri-cip-paketleme-icin-malzeme-platformu-baslatt-93CH-4042758",
+        "investing:https://tr.investing.com/news/company-news/willis-lease-finance-12-ucak-ve-13-motor-satn-ald-93CH-4042756",
+        "investing:https://tr.investing.com/news/company-news/hyperscale-datann-216-milyon-dolar-degerinde-278-bitcoini-var-93CH-4042755",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -444,6 +446,16 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/transcripts/lanxess-alman-konferansnda-maliyet-kesintileri-dayankllg-artryor-93CH-4042683",
+        "investing:https://tr.investing.com/news/stock-market-news/fidelity-national-information-services-hissesi-neden-dusuyor-93CH-4042681",
+        "investing:https://tr.investing.com/news/stock-market-news/shift4-payments-hissesi-bugun-neden-yukseliyor-93CH-4042680",
+        "investing:https://tr.investing.com/news/company-news/pizza-hut-josh-allen-ile-futbol-kampanyas-baslatt-93CH-4042678",
+        "investing:https://tr.investing.com/news/company-news/intapp-yapay-zeka-uyum-entegrasyonu-icin-legora-ile-ortaklk-kurdu-93CH-4042677",
+        "investing:https://tr.investing.com/news/company-news/nuran-wireless-gelecek-halka-arzlar-icin-izahname-sundu-93CH-4042676",
+        "investing:https://tr.investing.com/news/company-news/nayax-ips-groupu-350-milyon-dolara-nakit-olarak-satn-alyor-93CH-4042670",
+        "investing:https://tr.investing.com/news/company-news/stable-sea-platformuna-wisdomtreeden-iki-tokenize-fon-eklendi-93CH-4042669",
+        "investing:https://tr.investing.com/news/company-news/davita-humana-ile-bobrek-hastalg-bakm-program-baslatt-93CH-4042668",
+        "investing:https://tr.investing.com/news/company-news/escalade-yaltml-kopek-kulubesi-ureticisi-asl-solutions-satn-ald-93CH-4042667",
         "investing:https://tr.investing.com/news/stock-market-news/wolfe-eylul-fomc-oncesi-agustosta-65-bin-istihdam-arts-ongoruyor-93CH-4042647",
         "investing:https://tr.investing.com/news/stock-market-news/moderna-hisseleri-bugun-neden-yukseliyor-93CH-4042646",
         "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-arm-holdings-icin-hedef-fiyat-yukseltti-93CH-4042645",
@@ -903,17 +915,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/abd-ordusu-dogu-pasifikte-uyusturucu-gemisini-vurdu-93CH-4040694",
         "investing:https://tr.investing.com/news/company-news/kazera-global-guney-afrika-projesinde-369-milyon-dolarlk-maden-kaynag-bildirdi-93CH-4040693",
         "investing:https://tr.investing.com/news/company-news/huddled-canl-ticaret-icin-tiktok-ile-ortak-girisim-kurdu-93CH-4040690",
-        "investing:https://tr.investing.com/news/company-news/quantum-helium-sagebrush-testlerini-ilerletiyor-93CH-4040681",
-        "investing:https://tr.investing.com/news/company-news/gsknn-hibsago-ilac-japonyada-kuresel-ilk-onay-ald-93CH-4040680",
-        "investing:https://tr.investing.com/news/company-news/valerio-therapeutics-ethernay-30-milyon-euroya-satn-alacak-93CH-4040679",
-        "investing:https://tr.investing.com/news/stock-market-news/hindistan-seker-hisseleri-yukselen-fiyatlar-ve-talep-ile-scrad-4040677",
-        "investing:https://tr.investing.com/news/stock-market-news/haleon-guclu-marjlar-daha-guclu-buyumeye-cevirebilir-mi-4040670",
-        "investing:https://tr.investing.com/news/company-news/jyske-bank-34-haftada-55859-hisse-geri-ald-93CH-4040665",
-        "investing:https://tr.investing.com/news/stock-market-news/cinde-kap-kolu-guvenligi-nedeniyle-rekor-geri-cagrma-4040667",
-        "investing:https://tr.investing.com/news/stock-market-news/hanmi-pharm-hisseleri-genentech-obezite-ilac-anlasmasyla-30-yukseldi-93CH-4040660",
-        "investing:https://tr.investing.com/news/stock-market-news/2c-kazanclar-oncesi-ayda-28-yukseldi-yazlm-devinin-49-potansiyeli-var-4040659",
-        "investing:https://tr.investing.com/news/stock-market-news/xiaomi-hisseleri-neden-dusuyor-93CH-4040657",
-        "investing:https://tr.investing.com/analysis/yapay-zeka-yarsnn-icyuzu--yanls-yere-mi-bakyoruz-200505371"
+        "investing:https://tr.investing.com/news/company-news/quantum-helium-sagebrush-testlerini-ilerletiyor-93CH-4040681"
       ]
     },
     "ntvpara": {
@@ -1175,8 +1177,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6696132:0",
+      "last_seen_key": "tradingview:fxstreet:b1a75522cd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:b1a75522cd9e8:0",
+        "tradingview:matriks:6696135:0",
         "tradingview:matriks:6696132:0",
         "tradingview:matriks:6696124:0",
         "tradingview:matriks:6696122:0",
@@ -1215,7 +1219,6 @@
         "tradingview:matriks:6695793:0",
         "tradingview:fxstreet:160bbca75d9e8:0",
         "tradingview:fxstreet:775e4f17dd9e8:0",
-        "tradingview:fxstreet:b1a75522cd9e8:0",
         "tradingview:fxstreet:8deff3d6ed9e8:0",
         "tradingview:matriks:6695762:0",
         "tradingview:matriks:6695748:0",
@@ -1675,8 +1678,7 @@
         "tradingview:fxstreet:e42b063d0d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44L0G5:0",
         "tradingview:fxstreet:2c070c282d9e8:0",
-        "tradingview:matriks:6693576:0",
-        "tradingview:fxstreet:8928868cfd9e8:0"
+        "tradingview:matriks:6693576:0"
       ]
     },
     "forexfactory": {
@@ -1694,6 +1696,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "turkiye nin 2 y ll k tahvil faizi 13 baz puan dususle yuzde 40 seviyesinin alt na geriledi bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6696135:0"
+    },
+    {
+      "source": "investing",
+      "text": "katar abd iran yapt r m anlasmazl g n n cozumu arabuluculugu destekliyor",
+      "link": "https://tr.investing.com/news/economy-news/katar-abdiran-yaptrm-anlasmazlgnn-cozumu-icin-arabuluculugu-destekliyor-93CH-4042786"
+    },
+    {
+      "source": "investing",
+      "text": "schmid group ilk yar gelirini 46 milyon avro ac klad",
+      "link": "https://tr.investing.com/news/company-news/schmid-group-ilk-yar-gelirini-46-milyon-avro-acklad-93CH-4042785"
+    },
+    {
+      "source": "investing",
+      "text": "kremlin fin liderini ukrayna ac klamalar nedeniyle suclad",
+      "link": "https://tr.investing.com/news/economy-news/kremlin-fin-liderini-ukrayna-acklamalar-nedeniyle-suclad-93CH-4042784"
+    },
+    {
+      "source": "investing",
+      "text": "nexgen patterson corridor east teki uranyum yatag n genisletti",
+      "link": "https://tr.investing.com/news/company-news/nexgen-patterson-corridor-eastteki-uranyum-yatagn-genisletti-93CH-4042761"
+    },
+    {
+      "source": "investing",
+      "text": "builders firstsource digs in 25 3 milyon dolarl k turuna liderlik etti",
+      "link": "https://tr.investing.com/news/company-news/builders-firstsource-digsin-253-milyon-dolarlk-turuna-liderlik-etti-93CH-4042760"
+    },
+    {
+      "source": "investing",
+      "text": "nayax ips group u 350 milyon dolara sat n alacak",
+      "link": "https://tr.investing.com/news/company-news/nayax-ips-groupu-350-milyon-dolara-satn-alacak-93CH-4042759"
+    },
+    {
+      "source": "investing",
+      "text": "liontrust n focusrite taki pay yuzde 15 in alt na dustu",
+      "link": "https://tr.investing.com/news/company-news/liontrustn-focusritetaki-pay-yuzde-15in-altna-dustu-93CH-4042757"
+    },
+    {
+      "source": "investing",
+      "text": "qnity ileri cip paketleme malzeme platformu baslatt",
+      "link": "https://tr.investing.com/news/company-news/qnity-ileri-cip-paketleme-icin-malzeme-platformu-baslatt-93CH-4042758"
+    },
+    {
+      "source": "investing",
+      "text": "willis lease finance 12 ucak 13 motor sat n ald",
+      "link": "https://tr.investing.com/news/company-news/willis-lease-finance-12-ucak-ve-13-motor-satn-ald-93CH-4042756"
+    },
+    {
+      "source": "investing",
+      "text": "hyperscale data n n 21 6 milyon dolar degerinde 278 bitcoini var",
+      "link": "https://tr.investing.com/news/company-news/hyperscale-datann-216-milyon-dolar-degerinde-278-bitcoini-var-93CH-4042755"
+    },
+    {
+      "source": "kap",
+      "text": "hdffl pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trshdakk2717 isin kodlu tahvil ihrac n n 3 kupon odemesi hakk nda sirket hedef arac kiralama servis a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654782"
+    },
+    {
+      "source": "kap",
+      "text": "tera tra halka arz islemlerinde sermaye piyasas arac n n 5 inden fazlas n sat n alanlara iliskin bildirim cvk maden isletmeleri sanayi ticaret a s paylar n n halka arz nda 5 ten fazla pay alan yat r mc listesi sirket tera yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654781"
+    },
     {
       "source": "tradingview",
       "text": "societe generale abd 10 y ll k faizi 50 60 bp daha yukselirse tahviller hisselere ciddi rakip olabilir rapor",
@@ -9128,71 +9195,6 @@
       "source": "tradingview",
       "text": "teknik bulten info yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6692961:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten a1 capital",
-      "link": "https://tr.tradingview.com/news/matriks:6692960:0"
-    },
-    {
-      "source": "ntvpara",
-      "text": "petrol fiyatlar nda yapt r m oncesi kar sat s abd nin iran a yonelik yeni yapt r mlar oncesinde petrol fiyatlar dustu",
-      "link": "https://www.ntv.com.tr/ntvpara/petrol-fiyatlarinda-yaptirim-oncesi-kar-satisi-1738634"
-    },
-    {
-      "source": "kap",
-      "text": "efor ozel durum ac klamas genel pay sat s na iliskin ek ac klama sirket efor yatirim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654279"
-    },
-    {
-      "source": "tradingview",
-      "text": "haftal k bulten a1 capital",
-      "link": "https://tr.tradingview.com/news/matriks:6692956:0"
-    },
-    {
-      "source": "investing",
-      "text": "asya dovizleri yatay dolar 3 ayl k dusukte abd borc iran riskleri",
-      "link": "https://tr.investing.com/news/forex-news/asya-dovizleri-yatay-dolar-3-aylk-dusukte-abd-borc-ve-iran-riskleri-4040647"
-    },
-    {
-      "source": "bloomberght",
-      "text": "alt n uc ay n zirvesini ast gozler fed abd enflasyon verilerinde alt n zay flayan dolar n destegiyle pazartesi gunu uc aydan uzun surenin en yuksek seviyesine yukseldi",
-      "link": "https://www.bloomberght.com/altin-uc-ayin-zirvesini-asti-gozler-fed-ve-abd-enflasyon-verilerinde-3786244"
-    },
-    {
-      "source": "tradingview",
-      "text": "global piyasalar borsa",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44L07G:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunun pusulas pusula yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6692949:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "isvicre frang abd tahvil geri al m ndaki art sla dolar n gerilemesiyle yukseliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:d375be9acd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "eur jpy fiyat analizi 185 50 civar na dogru zay fl yor ancak 100 gunluk sma n n uzerinde yap c egilimini koruyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:d302024d6d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n dusuk tahvil getirileri azalan fed beklentilerinin usd yi zay flatmas yla may s ortas ndan yana yeni zirveye ulast",
-      "link": "https://tr.tradingview.com/news/fxstreet:e42b063d0d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurt d s sabah bulteni ikon menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6692941:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hindistan alt n fiyat bugun fxstreet taraf ndan derlenen verilere gore alt n fiyat yukseldi",
-      "link": "https://tr.tradingview.com/news/fxstreet:e6c1a13dcd9e8:0"
     }
   ]
 }
