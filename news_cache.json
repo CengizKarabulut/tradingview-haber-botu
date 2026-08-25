@@ -508,18 +508,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/interactive-brokers-hissesi-9785-dolarda-rekor-krd-93CH-4043529",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/guggenheim-borc-dustukten-sonra-indirimli-kredi-alabilecegini-soyluyor-93CH-4043539",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/guggenheim-borc-dustukten-sonra-indirimli-kredi-alabilecegini-soyluyor-93CH-4043539",
+        "investing:https://tr.investing.com/news/stock-market-news/pepsico-kilo-verme-ilaclarnn-kapsamn-maliyetler-nedeniyle-kaldryor-93CH-4043538",
+        "investing:https://tr.investing.com/news/company-news/abbotttan-cift-sensorlu-glikozketon-izleme-cihazna-fda-onay-93CH-4043535",
+        "investing:https://tr.investing.com/news/stock-market-news/thomson-reuters-hisseleri-neden-dusuyor-93CH-4043534",
+        "investing:https://tr.investing.com/news/stock-market-news/synopsys-hissesi-bugun-neden-yukseliyor-93CH-4043533",
+        "investing:https://tr.investing.com/news/company-news/helium-evolution-25-milyon-dolarlk-ozel-yerlesim-tamamlad-93CH-4043531",
         "investing:https://tr.investing.com/news/company-news/interactive-brokers-hissesi-9785-dolarda-rekor-krd-93CH-4043529",
         "investing:https://tr.investing.com/news/commodities-news/cme-group-abd-cinko-vadeli-islemlerini-ilk-alm-satmlarla-baslatt-93CH-4043528",
         "investing:https://tr.investing.com/news/company-news/aami-hissesi-940-dolarda-tum-zamanlarn-zirvesine-ulast-93CH-4043527",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-tpl-yoneticisi-377-dolar-degerinde-hisse-ald-93CH-4043526",
-        "investing:https://tr.investing.com/news/economy-news/hhs-fdada-iki-yeni-baskan-yardmcs-atamay-planlyor-93CH-4043524",
-        "investing:https://tr.investing.com/news/analyst-ratings/bofa-kanzhun-hissesi-icin-hedefini-korudu-93CH-4043523",
-        "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-kanzhun-hissesi-icin-buyume-gorunumune-dayanarak-notunu-korudu-93CH-4043521",
-        "investing:https://tr.investing.com/news/economy-news/imf-baskan-kuresel-ekonomi-iran-savas-sokunu-iyi-atlatt-4043522",
-        "investing:https://tr.investing.com/news/transcripts/intelin-the-six-five-summit-konusmas-yapay-zekada-roi-donemi-93CH-4043520",
-        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fundda-2230-dolarlk-hisse-ald-93CH-4043519",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -540,6 +540,12 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/economy-news/hhs-fdada-iki-yeni-baskan-yardmcs-atamay-planlyor-93CH-4043524",
+        "investing:https://tr.investing.com/news/analyst-ratings/bofa-kanzhun-hissesi-icin-hedefini-korudu-93CH-4043523",
+        "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-kanzhun-hissesi-icin-buyume-gorunumune-dayanarak-notunu-korudu-93CH-4043521",
+        "investing:https://tr.investing.com/news/economy-news/imf-baskan-kuresel-ekonomi-iran-savas-sokunu-iyi-atlatt-4043522",
+        "investing:https://tr.investing.com/news/transcripts/intelin-the-six-five-summit-konusmas-yapay-zekada-roi-donemi-93CH-4043520",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fundda-2230-dolarlk-hisse-ald-93CH-4043519",
         "investing:https://tr.investing.com/news/company-news/idt-hissesi-6922-dolarla-52-haftann-zirvesinde-93CH-4043518",
         "investing:https://tr.investing.com/news/economy-news/brezilyann-federal-vergi-geliri-temmuzda-rekor-krd-93CH-4043514",
         "investing:https://tr.investing.com/news/stock-market-news/openai-chatgpt-work-icin-admin-eklentisini-baslatt-93CH-4043513",
@@ -1453,6 +1459,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "guggenheim borc dustukten sonra indirimli kredi alabilecegini soyluyor",
+      "link": "https://tr.investing.com/news/stock-market-news/guggenheim-borc-dustukten-sonra-indirimli-kredi-alabilecegini-soyluyor-93CH-4043539"
+    },
+    {
+      "source": "investing",
+      "text": "pepsico kilo verme ilaclar n n kapsam n maliyetler nedeniyle kald r yor",
+      "link": "https://tr.investing.com/news/stock-market-news/pepsico-kilo-verme-ilaclarnn-kapsamn-maliyetler-nedeniyle-kaldryor-93CH-4043538"
+    },
+    {
+      "source": "investing",
+      "text": "abbott tan cift sensorlu glikoz keton izleme cihaz na fda onay",
+      "link": "https://tr.investing.com/news/company-news/abbotttan-cift-sensorlu-glikozketon-izleme-cihazna-fda-onay-93CH-4043535"
+    },
+    {
+      "source": "investing",
+      "text": "thomson reuters hisseleri neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/thomson-reuters-hisseleri-neden-dusuyor-93CH-4043534"
+    },
+    {
+      "source": "investing",
+      "text": "synopsys hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/synopsys-hissesi-bugun-neden-yukseliyor-93CH-4043533"
+    },
+    {
+      "source": "investing",
+      "text": "helium evolution 25 milyon dolarl k ozel yerlesim tamamlad",
+      "link": "https://tr.investing.com/news/company-news/helium-evolution-25-milyon-dolarlk-ozel-yerlesim-tamamlad-93CH-4043531"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar endeksi oy kullanamayan sahinlerin bedelini odemeyi b rak yor",
@@ -8922,36 +8958,6 @@
       "source": "tradingview",
       "text": "moody s pakistan n ulke kredi notunu b3 e c kar rken gorununumu duraganda b rakt",
       "link": "https://tr.tradingview.com/news/matriks:6693856:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "apple n fiyat 2 000 dolar n uzerinde olmas beklenen katlanabilir modeli iphone ultra y eylul ay n n ilk gunlerinde tan tacag one suruldu",
-      "link": "https://tr.tradingview.com/news/matriks:6693844:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n fiyat analizi xau usd yukselmeye devam ediyor ancak as r al m rsi al c lar uyar yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:0513dd9f8d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "wolfe research jersey mike s hissesine peerperform notu verdi",
-      "link": "https://tr.investing.com/news/analyst-ratings/wolfe-research-jersey-mikes-hissesine-peerperform-notu-verdi-93CH-4041062"
-    },
-    {
-      "source": "investing",
-      "text": "td cowen jersey mike s hissesine buyume beklentisiyle al onerisi verdi",
-      "link": "https://tr.investing.com/news/analyst-ratings/td-cowen-jersey-mikes-hissesine-buyume-beklentisiyle-al-onerisi-verdi-93CH-4041060"
-    },
-    {
-      "source": "investing",
-      "text": "wolfe research humana n n hisse hedefini marj gorunumuyle 450 dolara yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/wolfe-research-humanann-hisse-hedefini-marj-gorunumuyle-450-dolara-yukseltti-93CH-4041061"
-    },
-    {
-      "source": "investing",
-      "text": "xpeng in robotik birimi 900 milyon dolar n uzerinde fon toplad",
-      "link": "https://tr.investing.com/news/company-news/xpengin-robotik-birimi-900-milyon-dolarn-uzerinde-fon-toplad-93CH-4041048"
     }
   ]
 }
