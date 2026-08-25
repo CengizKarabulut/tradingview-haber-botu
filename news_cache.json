@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654973",
+      "last_seen_key": "kap:1654975",
       "seen_keys": [
+        "kap:1654975",
         "kap:1654973",
         "kap:1654972",
         "kap:1654971",
@@ -514,18 +515,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/zoom-video-communications-hissesi-neden-dusuyor-93CH-4043606",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/biohaven-ve-yale-ticari-sr-davasnda-4-milyon-dolar-kazand-93CH-4043621",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/biohaven-ve-yale-ticari-sr-davasnda-4-milyon-dolar-kazand-93CH-4043621",
+        "investing:https://tr.investing.com/news/company-news/renasant-catherine-mealoru-yeni-cfo-olarak-atad-93CH-4043620",
+        "investing:https://tr.investing.com/news/insider-trading-news/kamu-politikas-holding-yoneticisi-22232-dolar-degerinde-hisse-satt-93CH-4043618",
+        "investing:https://tr.investing.com/news/stock-market-news/seans-sonras-hareketler-intu-smtc-syre-zm-ncno-432SI-4043616",
+        "investing:https://tr.investing.com/news/company-news/cbre-global-real-estate-income-fund-hisse-birlesmesini-onaylad-93CH-4043613",
+        "investing:https://tr.investing.com/news/company-news/exelon-ust-duzey-yonetim-degisikliklerini-duyurdu-93CH-4043612",
+        "investing:https://tr.investing.com/news/company-news/par-pacific-laramie-energy-varlk-satsndan-146-milyon-dolar-alacak-93CH-4043609",
         "investing:https://tr.investing.com/news/stock-market-news/zoom-video-communications-hissesi-neden-dusuyor-93CH-4043606",
         "investing:https://tr.investing.com/news/insider-trading-news/oklo-urun-muduru-alexandra-renner-22151-dolar-hisse-satt-93CH-4043604",
         "investing:https://tr.investing.com/news/stock-market-news/sp-southwest-airlinesn-gorunumunu-yukseltti-93CH-4043602",
-        "investing:https://tr.investing.com/news/stock-market-news/intuit-hissesi-bugun-neden-dusuyor-93CH-4043593",
-        "investing:https://tr.investing.com/news/company-news/ryman-hospitality-700-milyon-dolarlk-tahvil-ihracn-tamamlad-93CH-4043592",
-        "investing:https://tr.investing.com/news/company-news/eos-energy-michelle-buczkowskii-ticari-direktor-olarak-atad-93CH-4043591",
-        "investing:https://tr.investing.com/news/company-news/farmers-national-banc-uc-aylk-temettusunu-018-dolara-yukseltti-93CH-4043590",
-        "investing:https://tr.investing.com/news/company-news/draftkings-700-milyon-dolarlk-kredi-ve-750-milyon-dolarlk-tesis-kapatt-93CH-4043589",
-        "investing:https://tr.investing.com/news/company-news/broadstone-net-lease-iki-perakende-projesi-insaatna-baslad-93CH-4043583",
-        "investing:https://tr.investing.com/news/company-news/qumulusainin-2-ceyrek-geliri-iki-katna-ckarak-67-milyon-dolara-ulast-93CH-4043575",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -546,6 +547,13 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/stock-market-news/intuit-hissesi-bugun-neden-dusuyor-93CH-4043593",
+        "investing:https://tr.investing.com/news/company-news/ryman-hospitality-700-milyon-dolarlk-tahvil-ihracn-tamamlad-93CH-4043592",
+        "investing:https://tr.investing.com/news/company-news/eos-energy-michelle-buczkowskii-ticari-direktor-olarak-atad-93CH-4043591",
+        "investing:https://tr.investing.com/news/company-news/farmers-national-banc-uc-aylk-temettusunu-018-dolara-yukseltti-93CH-4043590",
+        "investing:https://tr.investing.com/news/company-news/draftkings-700-milyon-dolarlk-kredi-ve-750-milyon-dolarlk-tesis-kapatt-93CH-4043589",
+        "investing:https://tr.investing.com/news/company-news/broadstone-net-lease-iki-perakende-projesi-insaatna-baslad-93CH-4043583",
+        "investing:https://tr.investing.com/news/company-news/qumulusainin-2-ceyrek-geliri-iki-katna-ckarak-67-milyon-dolara-ulast-93CH-4043575",
         "investing:https://tr.investing.com/news/stock-market-news/openaida-veri-merkezi-baskan-ayrld-2027-halka-arz-oncesi-4-yonetici-gitti-4043557",
         "investing:https://tr.investing.com/news/stock-market-news/japonya-hisse-ve-tahviller-icin-blockchain-odeme-sistemi-kuracak-93CH-4043554",
         "investing:https://tr.investing.com/news/economy-news/hazine-tahvilleri-petrol-dususu-ile-geriledi-93CH-4043553",
@@ -1488,6 +1496,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "biohaven yale ticari s r davas nda 4 milyon dolar kazand",
+      "link": "https://tr.investing.com/news/company-news/biohaven-ve-yale-ticari-sr-davasnda-4-milyon-dolar-kazand-93CH-4043621"
+    },
+    {
+      "source": "investing",
+      "text": "renasant catherine mealor u yeni cfo olarak atad",
+      "link": "https://tr.investing.com/news/company-news/renasant-catherine-mealoru-yeni-cfo-olarak-atad-93CH-4043620"
+    },
+    {
+      "source": "investing",
+      "text": "kamu politikas holding yoneticisi 22 232 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/kamu-politikas-holding-yoneticisi-22232-dolar-degerinde-hisse-satt-93CH-4043618"
+    },
+    {
+      "source": "investing",
+      "text": "saat sonras hareketler intu smtc syre zm ncno",
+      "link": "https://tr.investing.com/news/stock-market-news/seans-sonras-hareketler-intu-smtc-syre-zm-ncno-432SI-4043616"
+    },
+    {
+      "source": "investing",
+      "text": "cbre global real estate income fund hisse birlesmesini onaylad",
+      "link": "https://tr.investing.com/news/company-news/cbre-global-real-estate-income-fund-hisse-birlesmesini-onaylad-93CH-4043613"
+    },
+    {
+      "source": "investing",
+      "text": "exelon ust duzey yonetim degisikliklerini duyurdu",
+      "link": "https://tr.investing.com/news/company-news/exelon-ust-duzey-yonetim-degisikliklerini-duyurdu-93CH-4043612"
+    },
+    {
+      "source": "investing",
+      "text": "par pacific laramie energy varl k sat s ndan 146 milyon dolar alacak",
+      "link": "https://tr.investing.com/news/company-news/par-pacific-laramie-energy-varlk-satsndan-146-milyon-dolar-alacak-93CH-4043609"
+    },
+    {
+      "source": "kap",
+      "text": "balat paylar n geri al nmas na iliskin bildirim 25 08 2026 tarihli pay geri al m hakk nda sirket balatacilar balatacilik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654975"
+    },
     {
       "source": "tradingview",
       "text": "world liberty financial usd1 i canton network te yerel olarak kullan ma sundu",
@@ -8947,46 +8995,6 @@
       "source": "investing",
       "text": "fda united therapeutics in pah ralinepag basvurusunu kabul etti",
       "link": "https://tr.investing.com/news/company-news/fda-united-therapeuticsin-pah-icin-ralinepag-basvurusunu-kabul-etti-93CH-4041299"
-    },
-    {
-      "source": "investing",
-      "text": "vanda n n sedef ilac imsidolimab a ab den yetim ilac statusu",
-      "link": "https://tr.investing.com/news/company-news/vandann-sedef-ilac-imsidolimaba-abden-yetim-ilac-statusu-93CH-4041298"
-    },
-    {
-      "source": "investing",
-      "text": "japonya insmed in akciger hastal g ilac n onaylad",
-      "link": "https://tr.investing.com/news/company-news/japonya-insmedin-akciger-hastalg-ilacn-onaylad-93CH-4041297"
-    },
-    {
-      "source": "bloomberght",
-      "text": "iran dan doviz kuru ac klamas iran merkez bankas baskan abdunnas r himmeti temel urunler ilaclar n ithalat gerekli doviz kaynag n n saglanacag n belirterek doviz kurlar ndaki fark n gecici oldugunu k sa vadeli dalgalanmalar nedeniyle doviz politikas n n",
-      "link": "https://www.bloomberght.com/iran-dan-doviz-kuru-aciklamasi-3786282"
-    },
-    {
-      "source": "kap",
-      "text": "sohoe halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin gerceklesme degerlendirme raporu 1 sirket soho giyim enerji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654415"
-    },
-    {
-      "source": "kap",
-      "text": "marka pay baz nda devre kesici bildirimi marka e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654414"
-    },
-    {
-      "source": "kap",
-      "text": "mercn pay baz nda devre kesici bildirimi mercn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654413"
-    },
-    {
-      "source": "kap",
-      "text": "tcz tczb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren yurt d s borclanma arac ihrac sirket t c ziraat bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654412"
-    },
-    {
-      "source": "tradingview",
-      "text": "moody s filipinler in kredi notunu baa2 olarak teyit etti gorunumu duraganda b rakt",
-      "link": "https://tr.tradingview.com/news/matriks:6693912:0"
     }
   ]
 }
