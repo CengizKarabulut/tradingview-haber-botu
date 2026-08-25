@@ -449,8 +449,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/cumhurbaskani-erdogan-dan-kabine-toplantisi-sonrasi-aciklamalar-3786424",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/iran-dan-ekonomik-savas-cikisi-3786426",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/iran-dan-ekonomik-savas-cikisi-3786426",
+        "bloomberght:https://www.bloomberght.com/spacex-te-yeni-us-yatirimi-plani-3786425",
         "bloomberght:https://www.bloomberght.com/cumhurbaskani-erdogan-dan-kabine-toplantisi-sonrasi-aciklamalar-3786424",
         "bloomberght:https://www.bloomberght.com/anthropic-ten-yatirimcilara-devasa-pazar-sunumu-3786422",
         "bloomberght:https://www.bloomberght.com/hurmuz-deki-mayinlar-temizlendi-3786420",
@@ -914,8 +916,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:dc4c4c38cd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:604ae7530d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:604ae7530d9e8:0",
         "tradingview:fxstreet:dc4c4c38cd9e8:0",
         "tradingview:fxstreet:675a66549d9e8:0",
         "tradingview:fxstreet:ccc7e36cad9e8:0",
@@ -1414,8 +1417,7 @@
         "tradingview:matriks:6694636:0",
         "tradingview:cointelegraph:85e25a270d9e8:0",
         "tradingview:fxstreet:6f3ff6cebd9e8:0",
-        "tradingview:matriks:6694633:0",
-        "tradingview:matriks:6694631:0"
+        "tradingview:matriks:6694633:0"
       ]
     },
     "forexfactory": {
@@ -1433,6 +1435,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro olumlu alman verilerine ragmen sterlin kars s nda yatay seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:604ae7530d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "iran dan ekonomik savas c k s iran taraf abd nin yuruttugu ekonomik savas n tum ulkelerin egemenligini hedef ald g n belirtti",
+      "link": "https://www.bloomberght.com/iran-dan-ekonomik-savas-cikisi-3786426"
+    },
+    {
+      "source": "bloomberght",
+      "text": "spacex te yeni us yat r m plan spacex louisiana eyalet valisi jeff landry yap lan anlasma kapsam nda eyaletin guneyinde yeni starship f rlatma tesisi insa edecegini duyurdu",
+      "link": "https://www.bloomberght.com/spacex-te-yeni-us-yatirimi-plani-3786425"
+    },
     {
       "source": "tradingview",
       "text": "japon yeni daha zay f dolar a ragmen k r lgan kalmaya devam ediyor",
@@ -8917,21 +8934,6 @@
       "source": "investing",
       "text": "nucor hissesi bugun neden yukseliyor",
       "link": "https://tr.investing.com/news/stock-market-news/nucor-hissesi-bugun-neden-yukseliyor-93CH-4040988"
-    },
-    {
-      "source": "investing",
-      "text": "hazine nin getiri dusurme cabas zorlu savasla kars kars ya barclays",
-      "link": "https://tr.investing.com/news/economy-news/hazinenin-getiri-dusurme-cabas-zorlu-bir-savasla-kars-karsya-barclays-4040995"
-    },
-    {
-      "source": "investing",
-      "text": "cleveland cliffs hisseleri neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/clevelandcliffs-hisseleri-neden-yukseliyor-93CH-4040987"
-    },
-    {
-      "source": "investing",
-      "text": "bernstein airbnb hissesi hedef fiyat 217 dolara yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/bernstein-airbnb-hissesi-icin-hedef-fiyat-217-dolara-yukseltti-93CH-4040986"
     }
   ]
 }
