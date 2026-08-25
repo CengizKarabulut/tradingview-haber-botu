@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654760",
+      "last_seen_key": "kap:1654764",
       "seen_keys": [
+        "kap:1654764",
+        "kap:1654763",
+        "kap:1654762",
+        "kap:1654761",
         "kap:1654760",
         "kap:1654759",
         "kap:1654758",
@@ -1155,8 +1159,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6695925:0",
+      "last_seen_key": "tradingview:fxstreet:bef7f8b43d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:bef7f8b43d9e8:0",
+        "tradingview:fxstreet:f3192b3dbd9e8:0",
         "tradingview:matriks:6695925:0",
         "tradingview:fxstreet:dc3495c31d9e8:0",
         "tradingview:fxstreet:f5d6b52a7d9e8:0",
@@ -1165,6 +1171,7 @@
         "tradingview:matriks:6695877:0",
         "tradingview:fxstreet:a6f261184d9e8:0",
         "tradingview:matriks:6695866:0",
+        "tradingview:beincrypto:ef2d3cd8ed9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44M0G8:0",
         "tradingview:fxstreet:327c1799bd9e8:0",
         "tradingview:cointelegraph:cdbba6f1ad9e8:0",
@@ -1653,10 +1660,7 @@
         "tradingview:fxstreet:9c852cd46d9e8:0",
         "tradingview:matriks:6693462:0",
         "tradingview:fxstreet:883452e53d9e8:0",
-        "tradingview:matriks:6693453:0",
-        "tradingview:matriks:6693452:0",
-        "tradingview:fxstreet:7a25be1aed9e8:0",
-        "tradingview:matriks:6693423:0"
+        "tradingview:matriks:6693453:0"
       ]
     },
     "forexfactory": {
@@ -1674,6 +1678,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat bugun fxstreet verilerine gore gumus fiyat dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:bef7f8b43d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar tarife riskleri gorunumu golgeliyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:f3192b3dbd9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "samat genel kurul islemlerine iliskin bildirim genel kurul islemlerimizin tescil edilmesi hakk nda sirket saray matbaacilik kagitcilik kirtasiyecilik ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654764"
+    },
+    {
+      "source": "kap",
+      "text": "pay esas sozlesme tr sirket pay menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654763"
+    },
+    {
+      "source": "kap",
+      "text": "avgyo pay baz nda devre kesici bildirimi avgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654762"
+    },
+    {
+      "source": "kap",
+      "text": "anhyt ayes bayrk ekim mopas ozysr spk islem yasag nedeniyle pay duyurusu spk islem yasag nedeniyle pay duyurusu sirket merkezi kayit kurulusu a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654761"
+    },
     {
       "source": "tradingview",
       "text": "rekabet kurulu kararlar",
@@ -9143,36 +9177,6 @@
       "source": "tradingview",
       "text": "tcmb ag rl kl ortalama fonlama maliyeti tablo",
       "link": "https://tr.tradingview.com/news/matriks:6692865:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb net fonlamas verileri tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6692864:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turib gunluk bulteni",
-      "link": "https://tr.tradingview.com/news/matriks:6692875:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turkiyenin ekonomik gostergeleri",
-      "link": "https://tr.tradingview.com/news/matriks:6692862:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "borsa istanbul borclanma araclar piyasas para piyasas swap piyasas tatil gunleri tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6692848:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "borsa istanbul k ymetli madenler k ymetli taslar piyasas tatil gunleri tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6692847:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "borsa istanbul pay piyasas tatil gunleri tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6692845:0"
     }
   ]
 }
