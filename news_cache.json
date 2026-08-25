@@ -442,8 +442,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/hurmuz-deki-mayinlar-temizlendi-3786420",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/anthropic-ten-yatirimcilara-devasa-pazar-sunumu-3786422",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/anthropic-ten-yatirimcilara-devasa-pazar-sunumu-3786422",
         "bloomberght:https://www.bloomberght.com/hurmuz-deki-mayinlar-temizlendi-3786420",
         "bloomberght:https://www.bloomberght.com/bofa-dan-tcmb-icin-ekim-tahmini-3786418",
         "bloomberght:https://www.bloomberght.com/kanada-dan-abd-ye-tarife-misillemesi-3786416",
@@ -926,8 +927,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:fa831f8a3d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:6eef1f2a4d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:6eef1f2a4d9e8:0",
         "tradingview:fxstreet:fa831f8a3d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44M1A6:0",
         "tradingview:cointelegraph:66a67b9d5d9e8:0",
@@ -935,6 +937,7 @@
         "tradingview:matriks:6696949:0",
         "tradingview:matriks:6696948:0",
         "tradingview:matriks:6696947:0",
+        "tradingview:beincrypto:f53d277c3d9e8:0",
         "tradingview:matriks:6696944:0",
         "tradingview:matriks:6696940:0",
         "tradingview:matriks:6696938:0",
@@ -1425,9 +1428,7 @@
         "tradingview:matriks:6694538:0",
         "tradingview:fxstreet:17c1bc482d9e8:0",
         "tradingview:matriks:6694524:0",
-        "tradingview:matriks:6694520:0",
-        "tradingview:matriks:6694515:0",
-        "tradingview:fxstreet:4cbfacaadd9e8:0"
+        "tradingview:matriks:6694520:0"
       ]
     },
     "forexfactory": {
@@ -1445,6 +1446,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "almanya is ortam iyilesiyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:6eef1f2a4d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "anthropic ten yat r mc lara devasa pazar sunumu wall street journal n haberine gore claude modelinin gelistiricisi anthropic in yaklasan halka arz nda yat r mc lara sundugu toplam adreslenebilir pazar buyuklugunun 30 trilyon dolar asabilecegi ongoruluyor",
+      "link": "https://www.bloomberght.com/anthropic-ten-yatirimcilara-devasa-pazar-sunumu-3786422"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini hormuz umutlar n n hissiyat art rmas yla alt ayl k zirvesi yak nlar nda tutunuyor",
@@ -8934,16 +8945,6 @@
       "source": "tradingview",
       "text": "ci devlet baskan xi urdun kral pekin muzakereler duzenliyor cctv",
       "link": "https://tr.tradingview.com/news/matriks:6693576:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "model portfoy guncelleme seker yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6693540:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "petrol yapt r m riski piyasay gergin tutuyor danske bank",
-      "link": "https://tr.tradingview.com/news/fxstreet:8b0793d09d9e8:0"
     }
   ]
 }
