@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654844",
+      "last_seen_key": "kap:1654854",
       "seen_keys": [
+        "kap:1654854",
+        "kap:1654853",
+        "kap:1654852",
+        "kap:1654851",
+        "kap:1654850",
+        "kap:1654849",
+        "kap:1654848",
         "kap:1654844",
         "kap:1654842",
         "kap:1654841",
@@ -16,7 +23,6 @@
         "kap:1654818",
         "kap:1654817",
         "kap:1654816",
-        "kap:1654815",
         "kap:1654808",
         "kap:1654806",
         "kap:1654804",
@@ -88,6 +94,7 @@
         "kap:1654697",
         "kap:1654696",
         "kap:1654687",
+        "kap:1654815",
         "kap:1654686",
         "kap:1654685",
         "kap:1654684",
@@ -773,8 +780,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:34a00a46bd9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:508550d3ad9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:matriks:6696525:0",
+        "tradingview:matriks:6696521:0",
         "tradingview:fxstreet:34a00a46bd9e8:0",
         "tradingview:matriks:6696508:0",
         "tradingview:matriks:6696504:0",
@@ -1011,7 +1021,6 @@
         "tradingview:matriks:6695168:0",
         "tradingview:matriks:6695166:0",
         "tradingview:matriks:6695165:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:matriks:6695154:0",
         "tradingview:matriks:6695153:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44M06H:0",
@@ -1272,9 +1281,7 @@
         "tradingview:matriks:6693959:0",
         "tradingview:fxstreet:3769f10e1d9e8:0",
         "tradingview:cointelegraph:fb5dfa05dd9e8:0",
-        "tradingview:cointelegraph:8686d919ad9e8:0",
-        "tradingview:matriks:6693942:0",
-        "tradingview:matriks:6693939:0"
+        "tradingview:cointelegraph:8686d919ad9e8:0"
       ]
     },
     "forexfactory": {
@@ -1292,6 +1299,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hsbc tcmb nin repo hamlesi faiz indirimi beklentilerini guclendirebilir rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6696525:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist k ymetli madenler piyasas nda bugun 591 kg alt n yap ld gumus islemi yap lmad",
+      "link": "https://tr.tradingview.com/news/matriks:6696521:0"
+    },
+    {
+      "source": "kap",
+      "text": "aytem yya ozel durum ac klamas genel aytemiz birinci varl k finansman fonu kurulmas hk sirket aytemiz yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654854"
+    },
+    {
+      "source": "kap",
+      "text": "ktsvk tertip ihrac belgesi tertip ihrac belgesi 300 milyon tl duzeltme sirket kt sukuk varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654853"
+    },
+    {
+      "source": "kap",
+      "text": "cwene ozel durum ac klamas genel sermaye avans odemesi hk sirket cw enerji muhendislik ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654852"
+    },
+    {
+      "source": "kap",
+      "text": "euren ozel durum ac klamas genel ipotek degisikligi sirket europen endustri insaat sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654851"
+    },
+    {
+      "source": "kap",
+      "text": "durkn sermaye art r m azalt m islemlerine iliskin bildirim guncelleme ic kaynaklardan sermaye art r m tadil metni degisikligi hk sirket durukan sekerleme sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654850"
+    },
+    {
+      "source": "kap",
+      "text": "trmet pay baz nda devre kesici bildirimi trmet e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654849"
+    },
+    {
+      "source": "kap",
+      "text": "emvar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdemvk72713 isin kodlu kira sertifikas ihrac n n 3 kupon oran n n belirlenmesi hk sirket emlak varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654848"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar tahvil piyasas temkinli konsolidasyonu destekliyor ing",
@@ -8746,51 +8798,6 @@
       "source": "tradingview",
       "text": "gunluk bulten seker yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6693090:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "haftal k bulten piramit menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6693089:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten icbc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6693081:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "uluslararas piyasalar gunluk bulten burgan yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6693079:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni psikolojik direnc mudahale korkular mufg",
-      "link": "https://tr.tradingview.com/news/fxstreet:e5b48db3cd9e8:0"
-    },
-    {
-      "source": "bloomberght",
-      "text": "abd iran oyuna girdik abd hazine bakan scott bessent abd israil in iran a yonelik sald r lar yla baslayan savasta oyuna girdiklerini belirterek amaclar n n tahran yaln z kalana kadar her turlu ekonomik can damar n koparmak oldugunu ifade etti",
-      "link": "https://www.bloomberght.com/abd-iran-ile-son-oyuna-girdik-3786271"
-    },
-    {
-      "source": "kap",
-      "text": "ismen iym yat r m kurulusu varant sertifika senetlerine iliskin bildirim is yat r m arac kurulus varantlar n n itfa bildirimi sirket is yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654335"
-    },
-    {
-      "source": "kap",
-      "text": "karcl pay baz nda devre kesici bildirimi karcl e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654333"
-    },
-    {
-      "source": "tradingview",
-      "text": "goldman sachs dolar tl tahminlerini yukar yonlu guncelledi bn",
-      "link": "https://tr.tradingview.com/news/matriks:6693074:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten global menkul degerler",
-      "link": "https://tr.tradingview.com/news/matriks:6693073:0"
     }
   ]
 }
