@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654888",
+      "last_seen_key": "kap:1654895",
       "seen_keys": [
+        "kap:1654895",
+        "kap:1654894",
+        "kap:1654892",
+        "kap:1654890",
         "kap:1654888",
         "kap:1654886",
         "kap:1654885",
@@ -402,8 +406,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/tahran-hurmuz-e-iliskin-sartlarini-abd-ye-iletti-3786399",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-tuketici-guveni-geriledi-3786403",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/abd-de-tuketici-guveni-geriledi-3786403",
         "bloomberght:https://www.bloomberght.com/tahran-hurmuz-e-iliskin-sartlarini-abd-ye-iletti-3786399",
         "bloomberght:https://www.bloomberght.com/trump-kanada-ya-kizdi-golun-adini-degistirmekle-tehdit-etti-3786394",
         "bloomberght:https://www.bloomberght.com/abd-de-konut-fiyatlarindaki-yillik-artis-yuzde-1-5-3786393",
@@ -836,8 +841,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:0629b25f9d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:3e1ce5f9dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:3e1ce5f9dd9e8:0",
         "tradingview:fxstreet:0629b25f9d9e8:0",
         "tradingview:fxstreet:7c2df5783d9e8:0",
         "tradingview:matriks:6696694:0",
@@ -848,11 +854,19 @@
         "tradingview:matriks:6696670:0",
         "tradingview:matriks:6696664:0",
         "tradingview:fxstreet:0d86bd796d9e8:0",
+        "tradingview:matriks:6696657:0",
         "tradingview:fxstreet:29bce46d0d9e8:0",
+        "tradingview:matriks:6696656:0",
+        "tradingview:matriks:6696655:0",
         "tradingview:fxstreet:c2747b7c6d9e8:0",
+        "tradingview:matriks:6696654:0",
+        "tradingview:matriks:6696653:0",
         "tradingview:fxstreet:6e78a2d25d9e8:0",
+        "tradingview:matriks:6696651:0",
+        "tradingview:matriks:6696650:0",
         "tradingview:fxstreet:331c48db7d9e8:0",
         "tradingview:cointelegraph:7d9463dc9d9e8:0",
+        "tradingview:beincrypto:48d712163d9e8:0",
         "tradingview:matriks:6696624:0",
         "tradingview:matriks:6696611:0",
         "tradingview:fxstreet:f1ea270fad9e8:0",
@@ -1328,16 +1342,7 @@
         "tradingview:matriks:6694173:0",
         "tradingview:matriks:6694168:0",
         "tradingview:matriks:6694160:0",
-        "tradingview:matriks:6694155:0",
-        "tradingview:matriks:6694154:0",
-        "tradingview:beincrypto:66b86b8e3d9e8:0",
-        "tradingview:matriks:6694147:0",
-        "tradingview:fxstreet:9b9ebe446d9e8:0",
-        "tradingview:matriks:6694139:0",
-        "tradingview:matriks:6694136:0",
-        "tradingview:fxstreet:dcc441668d9e8:0",
-        "tradingview:matriks:6694134:0",
-        "tradingview:matriks:6694113:0"
+        "tradingview:matriks:6694155:0"
       ]
     },
     "forexfactory": {
@@ -1355,6 +1360,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni boj un eylul ay riski abd dolar kars s nda yatay aral kta beliriyor scotiabank",
+      "link": "https://tr.tradingview.com/news/fxstreet:3e1ce5f9dd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd tuketici guveni geriledi abd agustos ay nda tuketici guveni is kosullar istihdam piyasas na iliskin gorunumun kotulesmesiyle geriledi",
+      "link": "https://www.bloomberght.com/abd-de-tuketici-guveni-geriledi-3786403"
+    },
+    {
+      "source": "kap",
+      "text": "sodsn ozel durum ac klamas genel yonetim kurulu uyesi ayr l s sirket sodas sodyum sanayii a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654895"
+    },
+    {
+      "source": "kap",
+      "text": "sirket genel bilgi formu sirket eren bagimsiz denetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654894"
+    },
+    {
+      "source": "kap",
+      "text": "hktm pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654892"
+    },
+    {
+      "source": "kap",
+      "text": "dcttr pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654890"
+    },
     {
       "source": "tradingview",
       "text": "gumus abd pce verileri oncesinde geri cekiliyor ancak altta yatan destek suruyor",
@@ -8824,36 +8859,6 @@
       "source": "investing",
       "text": "ceigall india hissesi bugun neden yukseliyor",
       "link": "https://tr.investing.com/news/stock-market-news/ceigall-india-hissesi-bugun-neden-yukseliyor-93CH-4040825"
-    },
-    {
-      "source": "investing",
-      "text": "atp yaz l m voltivo elektrikli tas t teknolojileri nin tescilini duyurdu",
-      "link": "https://tr.investing.com/news/global-filings/atp-yazlm-voltivo-elektrikli-tast-teknolojilerinin-tescilini-duyurdu-93CH-4040824"
-    },
-    {
-      "source": "investing",
-      "text": "baird jersey mike s subs hissesi outperform notu verdi",
-      "link": "https://tr.investing.com/news/analyst-ratings/baird-jersey-mikes-subs-hissesi-icin-outperform-notu-verdi-93CH-4040823"
-    },
-    {
-      "source": "investing",
-      "text": "enda enerji romanya ges projesi ceisd basvurusunu tamamlad",
-      "link": "https://tr.investing.com/news/global-filings/enda-enerji-romanya-ges-projesi-icin-ceisd-basvurusunu-tamamlad-93CH-4040818"
-    },
-    {
-      "source": "investing",
-      "text": "polonya n n temmuz perakende sat slar 3 9 artt beklentileri kars lamad",
-      "link": "https://tr.investing.com/news/economic-indicators/polonyann-temmuz-perakende-satslar-39-artt-beklentileri-karslamad-93CH-4040816"
-    },
-    {
-      "source": "investing",
-      "text": "morgan stanley arcelormittal iyimser",
-      "link": "https://tr.investing.com/news/stock-market-news/morgan-stanley-arcelormittal-icin-iyimser-4040820"
-    },
-    {
-      "source": "investing",
-      "text": "synectics hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/synectics-hissesi-bugun-neden-yukseliyor-93CH-4040813"
     }
   ]
 }
