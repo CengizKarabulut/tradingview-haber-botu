@@ -455,8 +455,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/iran-dan-kritik-iki-temas-3786430",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/openai-da-yaprak-dokumu-suruyor-bir-yonetici-daha-ayrildi-3786431",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/openai-da-yaprak-dokumu-suruyor-bir-yonetici-daha-ayrildi-3786431",
         "bloomberght:https://www.bloomberght.com/iran-dan-kritik-iki-temas-3786430",
         "bloomberght:https://www.bloomberght.com/halkbank-a-1-1-milyar-dolarlik-ilave-kaynak-3786429",
         "bloomberght:https://www.bloomberght.com/imf-baskani-georgieva-kuresel-ekonomi-enerji-sokuna-direniyor-3786428",
@@ -968,9 +969,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:a0b59278bd9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:a0f8eb541d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:a0f8eb541d9e8:0",
         "tradingview:fxstreet:a0b59278bd9e8:0",
+        "tradingview:beincrypto:7d2fce378d9e8:0",
+        "tradingview:beincrypto:0f3eae9fbd9e8:0",
         "tradingview:fxstreet:494f98517d9e8:0",
         "tradingview:fxstreet:399b6a8cfd9e8:0",
         "tradingview:matriks:6697184:0",
@@ -1466,10 +1470,7 @@
         "tradingview:beincrypto:abf2ff655d9e8:0",
         "tradingview:fxstreet:062305762d9e8:0",
         "tradingview:fxstreet:8c127c233d9e8:0",
-        "tradingview:matriks:6694921:0",
-        "tradingview:cointelegraph:decd735d2d9e8:0",
-        "tradingview:fxstreet:e6b302c68d9e8:0",
-        "tradingview:fxstreet:ed53bc915d9e8:0"
+        "tradingview:matriks:6694921:0"
       ]
     },
     "forexfactory": {
@@ -1487,6 +1488,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "world liberty financial usd1 i canton network te yerel olarak kullan ma sundu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:a0f8eb541d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "openai yaprak dokumu suruyor yonetici daha ayr ld openai n altyap veri merkezi genisleme sureclerini yoneten k demli yonetici chris malone un sirketten ayr ld g dogruland",
+      "link": "https://www.bloomberght.com/openai-da-yaprak-dokumu-suruyor-bir-yonetici-daha-ayrildi-3786431"
+    },
     {
       "source": "tradingview",
       "text": "abd iran ateskes anlasmas haberleri petrolu asag cekti ria novosti",
@@ -8976,16 +8987,6 @@
       "source": "tradingview",
       "text": "moody s filipinler in kredi notunu baa2 olarak teyit etti gorunumu duraganda b rakt",
       "link": "https://tr.tradingview.com/news/matriks:6693912:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "copilot said fed arast rmas bitcoin getirilerini goren hanelerin kriptoya yonelme olas l g artt",
-      "link": "https://tr.tradingview.com/news/matriks:6693907:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ons alt n piyasalar abd pce verisi warsh n jackson hole konusmas n beklerken rallisini surduruyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:18b8d2c17d9e8:0"
     }
   ]
 }
