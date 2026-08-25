@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654872",
+      "last_seen_key": "kap:1654878",
       "seen_keys": [
+        "kap:1654878",
+        "kap:1654877",
+        "kap:1654876",
+        "kap:1654875",
+        "kap:1654874",
+        "kap:1654873",
         "kap:1654872",
         "kap:1654871",
         "kap:1654870",
@@ -810,8 +816,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6696624:0",
+      "last_seen_key": "tradingview:fxstreet:77de4dbd5d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:77de4dbd5d9e8:0",
+        "tradingview:fxstreet:a3ebdfd20d9e8:0",
+        "tradingview:matriks:6696670:0",
+        "tradingview:matriks:6696664:0",
+        "tradingview:fxstreet:0d86bd796d9e8:0",
+        "tradingview:fxstreet:29bce46d0d9e8:0",
+        "tradingview:cointelegraph:7d9463dc9d9e8:0",
         "tradingview:matriks:6696624:0",
         "tradingview:matriks:6696611:0",
         "tradingview:fxstreet:f1ea270fad9e8:0",
@@ -835,6 +848,8 @@
         "tradingview:cointelegraph:4fbb31530d9e8:0",
         "tradingview:beincrypto:3909defd2d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44M0VJ:0",
+        "tradingview:matriks:6696445:0",
+        "tradingview:matriks:6696444:0",
         "tradingview:fxstreet:e599f1b77d9e8:0",
         "tradingview:matriks:6696434:0",
         "tradingview:matriks:6696426:0",
@@ -842,7 +857,6 @@
         "tradingview:matriks:6696425:0",
         "tradingview:matriks:6696421:0",
         "tradingview:fxstreet:042a602ded9e8:0",
-        "tradingview:fxstreet:0d86bd796d9e8:0",
         "tradingview:matriks:6696409:0",
         "tradingview:matriks:6696400:0",
         "tradingview:matriks:6696399:0",
@@ -1303,15 +1317,7 @@
         "tradingview:matriks:6694057:0",
         "tradingview:fxstreet:7555f9345d9e8:0",
         "tradingview:fxstreet:46e184dd9d9e8:0",
-        "tradingview:matriks:6694025:0",
-        "tradingview:matriks:6694017:0",
-        "tradingview:matriks:6694002:0",
-        "tradingview:fxstreet:95a5d9862d9e8:0",
-        "tradingview:fxstreet:83fb46523d9e8:0",
-        "tradingview:matriks:6693992:0",
-        "tradingview:matriks:6693991:0",
-        "tradingview:matriks:6694054:0",
-        "tradingview:matriks:6693988:0"
+        "tradingview:matriks:6694025:0"
       ]
     },
     "forexfactory": {
@@ -1329,6 +1335,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro abd dolar kars s nda adil degerin uzerinde yukar yonlu hareket s n rl scotiabank",
+      "link": "https://tr.tradingview.com/news/fxstreet:77de4dbd5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd cb tuketici guveni endeksi agustos ta 89 4 e geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:a3ebdfd20d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed collins isgucu piyasas tam istihdam uyumlu gorunum sergiliyor ekonomi ise uzun donem trendine yak n h zda buyumeye devam ediyor",
+      "link": "https://tr.tradingview.com/news/matriks:6696670:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed collins enflasyon hala cok yuksek fed in yetki alan ndaki fiyat istikrar hedefi konusunda endiseliyiz",
+      "link": "https://tr.tradingview.com/news/matriks:6696664:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n as r al m rallisi onemli direnci hedefliyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:29bce46d0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "arcus robinhood chain tokenlestirilmis surekli vadeli pozisyonlar baslatt",
+      "link": "https://tr.tradingview.com/news/cointelegraph:7d9463dc9d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "egeen ozel durum ac klamas genel bagl ortakl g m z n sermaye art r m na istirak karar sirket ege endustri ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654878"
+    },
+    {
+      "source": "kap",
+      "text": "veyas pay baz nda devre kesici bildirimi veyas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654877"
+    },
+    {
+      "source": "kap",
+      "text": "huzfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfhzrf82611 isin kodlu finansman bonosu 2 kupon orani belirlenmesi sirket huzur faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654876"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank para piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654875"
+    },
+    {
+      "source": "kap",
+      "text": "agrot ozel durum ac klamas genel istirak yat r m na iliskin islemlerin tamamlanmas tescili sirket agrotech yuksek teknoloji yatirim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654874"
+    },
+    {
+      "source": "kap",
+      "text": "skymd pay baz nda devre kesici bildirimi skymd e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654873"
+    },
     {
       "source": "tradingview",
       "text": "teknoloji hisseleri toparland gozler nvidia abd nin pce verisinde ikon menkul",
@@ -8768,66 +8834,6 @@
       "source": "tradingview",
       "text": "borsa istanbul gune 122 90 puan 0 85 yukselisle baslad matriks haber anketi 64 96 puan",
       "link": "https://tr.tradingview.com/news/matriks:6693224:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "uluslararas piyasalar bulteni info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6693221:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bitcoin etf lerine 10 ay n en guclu haftal k para girisi yasand",
-      "link": "https://tr.tradingview.com/news/matriks:6693220:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "viop bulten ncm investment",
-      "link": "https://tr.tradingview.com/news/matriks:6693217:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten yap kredi yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6693214:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hisse bulten ncm investment",
-      "link": "https://tr.tradingview.com/news/matriks:6693213:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten ncm investment",
-      "link": "https://tr.tradingview.com/news/matriks:6693212:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk bulten kuzey menkul degerler",
-      "link": "https://tr.tradingview.com/news/matriks:6693210:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "piyasa gorunumu tera yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6693204:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "bankac l k sektoru deniz yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6693203:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "uluslararas piyasalar bulteni deniz yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6693195:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hafta ac klanacak onemli veriler tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6693194:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "piyasalara analitik bak s bizim menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6693188:0"
     }
   ]
 }
