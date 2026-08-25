@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654967",
+      "last_seen_key": "kap:1654969",
       "seen_keys": [
+        "kap:1654969",
         "kap:1654967",
         "kap:1654966",
         "kap:1654965",
@@ -507,8 +508,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/aami-hissesi-940-dolarda-tum-zamanlarn-zirvesine-ulast-93CH-4043527",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/interactive-brokers-hissesi-9785-dolarda-rekor-krd-93CH-4043529",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/interactive-brokers-hissesi-9785-dolarda-rekor-krd-93CH-4043529",
+        "investing:https://tr.investing.com/news/commodities-news/cme-group-abd-cinko-vadeli-islemlerini-ilk-alm-satmlarla-baslatt-93CH-4043528",
         "investing:https://tr.investing.com/news/company-news/aami-hissesi-940-dolarda-tum-zamanlarn-zirvesine-ulast-93CH-4043527",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-tpl-yoneticisi-377-dolar-degerinde-hisse-ald-93CH-4043526",
         "investing:https://tr.investing.com/news/economy-news/hhs-fdada-iki-yeni-baskan-yardmcs-atamay-planlyor-93CH-4043524",
@@ -517,8 +520,6 @@
         "investing:https://tr.investing.com/news/economy-news/imf-baskan-kuresel-ekonomi-iran-savas-sokunu-iyi-atlatt-4043522",
         "investing:https://tr.investing.com/news/transcripts/intelin-the-six-five-summit-konusmas-yapay-zekada-roi-donemi-93CH-4043520",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fundda-2230-dolarlk-hisse-ald-93CH-4043519",
-        "investing:https://tr.investing.com/news/company-news/idt-hissesi-6922-dolarla-52-haftann-zirvesinde-93CH-4043518",
-        "investing:https://tr.investing.com/news/economy-news/brezilyann-federal-vergi-geliri-temmuzda-rekor-krd-93CH-4043514",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -539,6 +540,8 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/company-news/idt-hissesi-6922-dolarla-52-haftann-zirvesinde-93CH-4043518",
+        "investing:https://tr.investing.com/news/economy-news/brezilyann-federal-vergi-geliri-temmuzda-rekor-krd-93CH-4043514",
         "investing:https://tr.investing.com/news/stock-market-news/openai-chatgpt-work-icin-admin-eklentisini-baslatt-93CH-4043513",
         "investing:https://tr.investing.com/news/company-news/star-bulk-carriers-hissesi-3103-dolarda-zirve-yapt-93CH-4043512",
         "investing:https://tr.investing.com/news/commodities-news/avrupa-bugday-vadeli-islemleri-karadeniz-gorusmeleri-ile-geriledi-93CH-4043500",
@@ -931,8 +934,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f3f56f901d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:3b882d7a4d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:3b882d7a4d9e8:0",
         "tradingview:fxstreet:f3f56f901d9e8:0",
         "tradingview:fxstreet:d0da0e9d3d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
@@ -1431,8 +1435,7 @@
         "tradingview:fxstreet:6b376df05d9e8:0",
         "tradingview:fxstreet:63dee6489d9e8:0",
         "tradingview:fxstreet:c1dce71d4d9e8:0",
-        "tradingview:cointelegraph:bd2c1f643d9e8:0",
-        "tradingview:beincrypto:3c15641c9d9e8:0"
+        "tradingview:cointelegraph:bd2c1f643d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1450,6 +1453,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi oy kullanamayan sahinlerin bedelini odemeyi b rak yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:3b882d7a4d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "interactive brokers hissesi 97 85 dolarda rekor k rd",
+      "link": "https://tr.investing.com/news/company-news/interactive-brokers-hissesi-9785-dolarda-rekor-krd-93CH-4043529"
+    },
+    {
+      "source": "investing",
+      "text": "cme group abd cinko vadeli islemlerini ilk al m sat mlarla baslatt",
+      "link": "https://tr.investing.com/news/commodities-news/cme-group-abd-cinko-vadeli-islemlerini-ilk-alm-satmlarla-baslatt-93CH-4043528"
+    },
+    {
+      "source": "kap",
+      "text": "koton sirket genel bilgi formu sirket koton magazacilik tekstil sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654969"
+    },
     {
       "source": "tradingview",
       "text": "foreks piyasas nda bugun abd dolar pce oncesinde zay f kalmaya devam ediyor",
@@ -8929,26 +8952,6 @@
       "source": "investing",
       "text": "xpeng in robotik birimi 900 milyon dolar n uzerinde fon toplad",
       "link": "https://tr.investing.com/news/company-news/xpengin-robotik-birimi-900-milyon-dolarn-uzerinde-fon-toplad-93CH-4041048"
-    },
-    {
-      "source": "investing",
-      "text": "union jack oil hissedarlar yonetim kurulu degisikligini onaylad",
-      "link": "https://tr.investing.com/news/company-news/union-jack-oil-hissedarlar-yonetim-kurulu-degisikligini-onaylad-93CH-4041047"
-    },
-    {
-      "source": "investing",
-      "text": "siegfried hissesi bugun neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/siegfried-hissesi-bugun-neden-dusuyor-93CH-4041046"
-    },
-    {
-      "source": "investing",
-      "text": "bofa williams sonoma n n hisse hedefini buyume 261 dolara yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/bofa-williamssonomann-hisse-hedefini-buyume-ile-261-dolara-yukseltti-93CH-4041045"
-    },
-    {
-      "source": "investing",
-      "text": "jpmorgan roku hissesini fox anlasmas nedeniyle notr baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-roku-hissesini-fox-anlasmas-nedeniyle-notr-baslatt-93CH-4041044"
     }
   ]
 }
