@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654956",
+      "last_seen_key": "kap:1654959",
       "seen_keys": [
+        "kap:1654959",
+        "kap:1654958",
+        "kap:1654957",
         "kap:1654956",
         "kap:1654955",
         "kap:1654954",
@@ -439,8 +442,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/bofa-dan-tcmb-icin-ekim-tahmini-3786418",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/hurmuz-deki-mayinlar-temizlendi-3786420",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/hurmuz-deki-mayinlar-temizlendi-3786420",
         "bloomberght:https://www.bloomberght.com/bofa-dan-tcmb-icin-ekim-tahmini-3786418",
         "bloomberght:https://www.bloomberght.com/kanada-dan-abd-ye-tarife-misillemesi-3786416",
         "bloomberght:https://www.bloomberght.com/hsbcye-gore-eylul-ppksi-oncesi-getiri-egrisi-diklesebilir-3786408",
@@ -916,8 +920,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6696940:0",
+      "last_seen_key": "tradingview:cointelegraph:66a67b9d5d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:66a67b9d5d9e8:0",
+        "tradingview:matriks:6696952:0",
+        "tradingview:matriks:6696949:0",
+        "tradingview:matriks:6696948:0",
+        "tradingview:matriks:6696947:0",
+        "tradingview:matriks:6696944:0",
         "tradingview:matriks:6696940:0",
         "tradingview:matriks:6696938:0",
         "tradingview:matriks:6696936:0",
@@ -937,11 +947,13 @@
         "tradingview:matriks:6696859:0",
         "tradingview:fxstreet:a66526425d9e8:0",
         "tradingview:fxstreet:6bf00ece2d9e8:0",
+        "tradingview:beincrypto:97a8616dcd9e8:0",
         "tradingview:matriks:6696846:0",
         "tradingview:fxstreet:0d86bd796d9e8:0",
         "tradingview:matriks:6696842:0",
         "tradingview:matriks:6696841:0",
         "tradingview:matriks:6696838:0",
+        "tradingview:beincrypto:4bf369254d9e8:0",
         "tradingview:fxstreet:9822aff20d9e8:0",
         "tradingview:matriks:6696827:0",
         "tradingview:matriks:6696807:0",
@@ -1409,15 +1421,7 @@
         "tradingview:matriks:6694515:0",
         "tradingview:fxstreet:4cbfacaadd9e8:0",
         "tradingview:fxstreet:62cd31ae1d9e8:0",
-        "tradingview:fxstreet:dc97a4ac1d9e8:0",
-        "tradingview:matriks:6694475:0",
-        "tradingview:fxstreet:f72db7e77d9e8:0",
-        "tradingview:matriks:6694456:0",
-        "tradingview:matriks:6694455:0",
-        "tradingview:matriks:6694447:0",
-        "tradingview:matriks:6694445:0",
-        "tradingview:matriks:6694439:0",
-        "tradingview:fxstreet:3bce37d2ed9e8:0"
+        "tradingview:fxstreet:dc97a4ac1d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1435,6 +1439,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "merkeziyetsiz yapay zeka ag kullan ma ac l rken dgrid ai token lansman sonras 93 s crad",
+      "link": "https://tr.tradingview.com/news/cointelegraph:66a67b9d5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "otomotivde dijital donem yeni sistemlerle otomobil ticaretinde guven artacak",
+      "link": "https://tr.tradingview.com/news/matriks:6696952:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tedmem liseden mezun olan her ogrenciye yapay zeka ehliyeti verilmesini oneriyor",
+      "link": "https://tr.tradingview.com/news/matriks:6696949:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiye sarj pazar ivme kazanmay surduruyor ayl k sarj islemi 3 3 milyonu ast",
+      "link": "https://tr.tradingview.com/news/matriks:6696948:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sencard mobil sagl k sigortas ndan dijital sagl ga tum hizmetler tek uygulamada",
+      "link": "https://tr.tradingview.com/news/matriks:6696947:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "xiaomi redmi a serisi nin ilk pro modeli redmi a7 pro yu tan tt",
+      "link": "https://tr.tradingview.com/news/matriks:6696944:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "hurmuz deki may nlar temizlendi abd baskan donald trump hurmuz bogaz ndaki tum may nlar n temizlendigini ac klad",
+      "link": "https://www.bloomberght.com/hurmuz-deki-mayinlar-temizlendi-3786420"
+    },
+    {
+      "source": "kap",
+      "text": "ekim paylar n geri al nmas na iliskin bildirim 25 agustos 2026 tarihli pay geri al m islemleri sirket ekim turizm ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654959"
+    },
+    {
+      "source": "kap",
+      "text": "klsyn geri al nan paylar n elden c kar lmas geri al nan paylar n elden c kar lmas sirket koleksiyon mobilya sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654958"
+    },
+    {
+      "source": "kap",
+      "text": "escom kat l m finans ilkeleri bilgi formu sirket escort teknoloji yatirim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654957"
+    },
     {
       "source": "tradingview",
       "text": "uipath kodlama ajanlar yla is sureclerini uctan uca yonetmeye imkan tan yan maestro flow u tan tt",
@@ -8884,56 +8938,6 @@
       "source": "tradingview",
       "text": "ced duyurusu oyak cimento fabrikalar",
       "link": "https://tr.tradingview.com/news/matriks:6693476:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "destek portfoy destek portfoy para piyasas fonu destek portfoy hisse senedi fonu nu hisse senedi yogun fon yat r mc larla bulusturdu",
-      "link": "https://tr.tradingview.com/news/matriks:6693471:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "efor yat r m 175 milyon adet pay sat s ndan elde edilecek sat s bedelinin sirkete sermaye avans olarak aktar lmas tahsisli sermaye art r m kapsam nda sirkete kazand r lmas amac yla spk na basvurulmas na karar verdi",
-      "link": "https://tr.tradingview.com/news/matriks:6693470:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "uluslararas piyasalar bulteni qnb invest",
-      "link": "https://tr.tradingview.com/news/matriks:6693469:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gumus fiyat analizi xag usd abd tahvil geri al mlar amidinde 69 00 civar nda istikrar kazand",
-      "link": "https://tr.tradingview.com/news/fxstreet:9c852cd46d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd endeks vadelileri dususle seyrediyor",
-      "link": "https://tr.tradingview.com/news/matriks:6693462:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "foreks piyasas nda bugun yat r mc lar abd nin ekonomik d gunu yapt r mlar n beklerken piyasalar sakin",
-      "link": "https://tr.tradingview.com/news/fxstreet:883452e53d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb 25 agustos valorlu 1 hafta vadeli 500 milyon dolar tutar nda doviz kars l g tl swap ihalesi act",
-      "link": "https://tr.tradingview.com/news/matriks:6693453:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb 31 08 2026 vadeli 1 00 milyar tl tutarl repo ihalesi act",
-      "link": "https://tr.tradingview.com/news/matriks:6693452:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar getiriler yuksek kal rken momentum zay fl yor mufg",
-      "link": "https://tr.tradingview.com/news/fxstreet:7a25be1aed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yenileme turkiye nin ham celik uretimi temmuz 7 artt",
-      "link": "https://tr.tradingview.com/news/matriks:6693423:0"
     }
   ]
 }
