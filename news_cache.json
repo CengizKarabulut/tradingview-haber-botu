@@ -1062,8 +1062,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6695029:0",
+      "last_seen_key": "tradingview:fxstreet:c48480ff4d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:c48480ff4d9e8:0",
         "tradingview:matriks:6695029:0",
         "tradingview:fxstreet:0773e625ad9e8:0",
         "tradingview:fxstreet:123b59efed9e8:0",
@@ -1562,8 +1563,7 @@
         "tradingview:beincrypto:298844b87d9e8:0",
         "tradingview:cointelegraph:371dc8561d9e8:0",
         "tradingview:fxstreet:a7674a9e2d9e8:0",
-        "tradingview:fxstreet:931cd4b05d9e8:0",
-        "tradingview:beincrypto:542fb72bad9e8:0"
+        "tradingview:fxstreet:931cd4b05d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1581,6 +1581,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar rba toplant tutanaklar n n ard ndan istikrarl kal yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:c48480ff4d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "emisyon hacmi 24 08 2026 itibariyle 989 59 milyar tl",
@@ -9075,11 +9080,6 @@
       "source": "investing",
       "text": "galantas gold hissedarlar toplant s n ekim e planlad",
       "link": "https://tr.investing.com/news/company-news/galantas-gold-hissedarlar-toplantsn-ekime-planlad-93CH-4040161"
-    },
-    {
-      "source": "investing",
-      "text": "trump fiyatlar dusurmek gecici gumruksuz s g r eti ithalat na izin verdi",
-      "link": "https://tr.investing.com/news/economy-news/trump-fiyatlar-dusurmek-icin-gecici-gumruksuz-sgr-eti-ithalatna-izin-verdi-93CH-4040160"
     }
   ]
 }
