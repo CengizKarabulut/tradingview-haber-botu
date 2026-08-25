@@ -316,8 +316,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceosu-ryan-khouri-115-dolar-hisse-satn-ald-93CH-4042249",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/navitas-clarosu-2328-milyon-dolara-satn-alacak-93CH-4042253",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/navitas-clarosu-2328-milyon-dolara-satn-alacak-93CH-4042253",
+        "investing:https://tr.investing.com/news/company-news/navitas-clarosu-2328-milyon-dolara-satn-alyor-93CH-4042252",
         "investing:https://tr.investing.com/news/insider-trading-news/ctt-pharmaceutical-ceosu-ryan-khouri-115-dolar-hisse-satn-ald-93CH-4042249",
         "investing:https://tr.investing.com/news/insider-trading-news/evercommerce-yoneticisi-remer-293569-dolarlk-hisse-satt-93CH-4042246",
         "investing:https://tr.investing.com/news/stock-market-news/tokio-marine-hisseleri-neden-yukseliyor-93CH-4042245",
@@ -326,8 +328,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/coles-hisseleri-neden-bugun-yukseliyor-93CH-4042241",
         "investing:https://tr.investing.com/news/stock-market-news/aub-hissesi-bugun-neden-yukseldi-93CH-4042239",
         "investing:https://tr.investing.com/news/economic-indicators/rba-tutanaklar-faiz-artrmnn-tartsldgn-gosteriyor-4042240",
-        "investing:https://tr.investing.com/news/stock-market-news/suncorp-hissesi-neden-yukseliste-93CH-4042237",
-        "investing:https://tr.investing.com/news/insider-trading-news/procore-hukuk-muduru-249-bin-dolarlk-hisse-satt-93CH-4042236",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -348,6 +348,8 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/stock-market-news/suncorp-hissesi-neden-yukseliste-93CH-4042237",
+        "investing:https://tr.investing.com/news/insider-trading-news/procore-hukuk-muduru-249-bin-dolarlk-hisse-satt-93CH-4042236",
         "investing:https://tr.investing.com/news/insider-trading-news/chipotlenin-kontroloru-matthew-bush-95631-dolar-degerinde-hisse-satt-93CH-4042235",
         "investing:https://tr.investing.com/news/stock-market-news/scentre-groupun-ilk-yar-dagtmlar-49-artt-2026-rehberini-yukseltti-93CH-4042234",
         "investing:https://tr.investing.com/news/insider-trading-news/venu-holding-ceosu-jay-roth-sirket-hissesi-satn-ald-93CH-4042233",
@@ -815,9 +817,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/goodrxin-10-hissedar-francisco-partners-42-milyon-dolarlk-hisse-satt-93CH-4040397",
         "investing:https://tr.investing.com/news/insider-trading-news/lumentum-baskan-wupen-yuen-169-milyon-dolarlk-hisse-satt-93CH-4040396",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-cdo-brannin-mcbee-331686-dolarlk-hisse-satt-93CH-4040395",
-        "investing:https://tr.investing.com/news/insider-trading-news/coreweavein-genel-musaviri-365682-dolarlk-hisse-satt-93CH-4040394",
-        "investing:https://tr.investing.com/news/insider-trading-news/intuitive-surgical-evp-mark-brosius-59439-dolarlk-hisse-satt-93CH-4040393",
-        "investing:https://tr.investing.com/news/insider-trading-news/illumina-yoneticisi-keith-meister-1455-milyon-dolarlk-hisse-satt-93CH-4040381"
+        "investing:https://tr.investing.com/news/insider-trading-news/coreweavein-genel-musaviri-365682-dolarlk-hisse-satt-93CH-4040394"
       ]
     },
     "ntvpara": {
@@ -1064,10 +1064,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:4818175acd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:b33020f2cd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:b33020f2cd9e8:0",
+        "tradingview:fxstreet:b9b637f82d9e8:0",
         "tradingview:fxstreet:4818175acd9e8:0",
         "tradingview:cointelegraph:eb7867c2ed9e8:0",
+        "tradingview:beincrypto:ae90ae749d9e8:0",
         "tradingview:fxstreet:27d928468d9e8:0",
         "tradingview:fxstreet:a03334ccfd9e8:0",
         "tradingview:fxstreet:3239e53fdd9e8:0",
@@ -1562,10 +1565,7 @@
         "tradingview:beincrypto:234b26fa1d9e8:0",
         "tradingview:beincrypto:83a4cb87cd9e8:0",
         "tradingview:fxstreet:09004c883d9e8:0",
-        "tradingview:matriks:6692815:0",
-        "tradingview:fxstreet:933e637c2d9e8:0",
-        "tradingview:fxstreet:67033a631d9e8:0",
-        "tradingview:fxstreet:fb7e96e64d9e8:0"
+        "tradingview:matriks:6692815:0"
       ]
     },
     "forexfactory": {
@@ -1583,6 +1583,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi artan jeopolitik riskler amidinde 99 00 civar nda kazanclar n koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b33020f2cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd abd pce enflasyonu verileri oncesinde 68 alt na dogru duzeltme yapt",
+      "link": "https://tr.tradingview.com/news/fxstreet:b9b637f82d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "navitas claros u 232 8 milyon dolara sat n alacak",
+      "link": "https://tr.investing.com/news/company-news/navitas-clarosu-2328-milyon-dolara-satn-alacak-93CH-4042253"
+    },
+    {
+      "source": "investing",
+      "text": "navitas claros u 232 8 milyon dolara sat n al yor",
+      "link": "https://tr.investing.com/news/company-news/navitas-clarosu-2328-milyon-dolara-satn-alyor-93CH-4042252"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini fed riskleri iran gerilimleri aras nda abd dolar n n guclenmesiyle 1 3650 nin alt ndaki aral kta kal yor",
@@ -9062,26 +9082,6 @@
       "source": "investing",
       "text": "vireo growth c21 investments sat n ald",
       "link": "https://tr.investing.com/news/company-news/vireo-growth-c21-investments-satn-ald-93CH-4040182"
-    },
-    {
-      "source": "bloomberght",
-      "text": "turk eximbank tan ihracatc lara 59 milyar dolarl k destek hedefi turk eximbank y l ihracatc lara 59 milyar dolarl k kredi sigorta destegi saglamay hedeflerken bankan n 20 bine yaklasan musterilerinin yuzde 83 unu kobi ler olusturuyor",
-      "link": "https://www.bloomberght.com/turk-eximbank-tan-ihracatcilara-59-milyar-dolarlik-destek-hedefi-3786205"
-    },
-    {
-      "source": "kap",
-      "text": "flap sirket genel bilgi formu sirket flap kongre toplanti hizmetleri otomotiv turizm a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654248"
-    },
-    {
-      "source": "kap",
-      "text": "ict sorumluluk beyan konsolide 2026 2c sorumluluk beyan sirket icbc turkey yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654247"
-    },
-    {
-      "source": "kap",
-      "text": "ict faaliyet raporu konsolide 2026 2c faaliyet raporu sirket icbc turkey yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654246"
     }
   ]
 }
