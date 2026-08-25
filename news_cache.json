@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654963",
+      "last_seen_key": "kap:1654964",
       "seen_keys": [
+        "kap:1654964",
         "kap:1654963",
         "kap:1654962",
         "kap:1654961",
@@ -446,8 +447,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/cumhurbaskani-erdogan-dan-kabine-toplantisi-sonrasi-aciklamalar-3786424",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/spacex-te-yeni-us-yatirimi-plani-3786425",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/spacex-te-yeni-us-yatirimi-plani-3786425",
         "bloomberght:https://www.bloomberght.com/cumhurbaskani-erdogan-dan-kabine-toplantisi-sonrasi-aciklamalar-3786424",
         "bloomberght:https://www.bloomberght.com/anthropic-ten-yatirimcilara-devasa-pazar-sunumu-3786422",
         "bloomberght:https://www.bloomberght.com/hurmuz-deki-mayinlar-temizlendi-3786420",
@@ -945,8 +947,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:ccc7e36cad9e8:0",
+      "last_seen_key": "tradingview:fxstreet:675a66549d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:675a66549d9e8:0",
         "tradingview:fxstreet:ccc7e36cad9e8:0",
         "tradingview:cointelegraph:ef8c90fead9e8:0",
         "tradingview:fxstreet:90096670bd9e8:0",
@@ -979,7 +982,9 @@
         "tradingview:matriks:6696900:0",
         "tradingview:fxstreet:9b760e1cdd9e8:0",
         "tradingview:fxstreet:c17548709d9e8:0",
+        "tradingview:matriks:6696867:0",
         "tradingview:cointelegraph:1619fa6bbd9e8:0",
+        "tradingview:matriks:6696865:0",
         "tradingview:matriks:6696859:0",
         "tradingview:fxstreet:a66526425d9e8:0",
         "tradingview:fxstreet:6bf00ece2d9e8:0",
@@ -995,6 +1000,8 @@
         "tradingview:matriks:6696807:0",
         "tradingview:fxstreet:d28a5af1ed9e8:0",
         "tradingview:fxstreet:6cdde501ad9e8:0",
+        "tradingview:matriks:6696774:0",
+        "tradingview:matriks:6696771:0",
         "tradingview:beincrypto:4e5818b0fd9e8:0",
         "tradingview:matriks:6696750:0",
         "tradingview:fxstreet:3e1ce5f9dd9e8:0",
@@ -1441,12 +1448,7 @@
         "tradingview:fxstreet:6f3ff6cebd9e8:0",
         "tradingview:matriks:6694633:0",
         "tradingview:matriks:6694631:0",
-        "tradingview:matriks:6694622:0",
-        "tradingview:matriks:6694620:0",
-        "tradingview:matriks:6694617:0",
-        "tradingview:matriks:6694613:0",
-        "tradingview:matriks:6694609:0",
-        "tradingview:matriks:6694599:0"
+        "tradingview:matriks:6694622:0"
       ]
     },
     "forexfactory": {
@@ -1464,6 +1466,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "almanya siyasi riskler reform gorunumunu golgeliyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:675a66549d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "spacex te yeni us yat r m plan spacex louisiana eyalet valisi jeff landry yap lan anlasma kapsam nda eyaletin guneyinde yeni starship f rlatma tesisi insa edecegini duyurdu",
+      "link": "https://www.bloomberght.com/spacex-te-yeni-us-yatirimi-plani-3786425"
+    },
+    {
+      "source": "kap",
+      "text": "halkb thl ozel durum ac klamas genel bankam z n artan yurt d s kaynak erisiminin kaynak maliyetlerimize etkisi sirket turkiye halk bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654964"
+    },
     {
       "source": "investing",
       "text": "sonoco avrupa karton fiyatlar n ton bas na 60 euro art racak",
@@ -8948,21 +8965,6 @@
       "source": "tradingview",
       "text": "polonya zlotisi butce riskleri euro kars s nda daha fazla zay fl ga isaret ediyor societe generale",
       "link": "https://tr.tradingview.com/news/fxstreet:22340ddafd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turib haftal k bulteni",
-      "link": "https://tr.tradingview.com/news/matriks:6693688:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "macar forinti faiz patikas yaz n otesine uzan yor ing",
-      "link": "https://tr.tradingview.com/news/fxstreet:bd95b06c6d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro yat r mc lar n abd nin iran a yonelik yapt r mlar n beklemesiyle uc ayl k zirvelerine yak n seyrediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:b8cfac5e9d9e8:0"
     }
   ]
 }
