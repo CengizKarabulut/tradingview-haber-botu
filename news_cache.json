@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654945",
+      "last_seen_key": "kap:1654948",
       "seen_keys": [
+        "kap:1654948",
+        "kap:1654947",
+        "kap:1654946",
         "kap:1654945",
         "kap:1654944",
         "kap:1654943",
@@ -428,8 +431,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/hsbcye-gore-eylul-ppksi-oncesi-getiri-egrisi-diklesebilir-3786408",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/kanada-dan-abd-ye-tarife-misillemesi-3786416",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/kanada-dan-abd-ye-tarife-misillemesi-3786416",
         "bloomberght:https://www.bloomberght.com/hsbcye-gore-eylul-ppksi-oncesi-getiri-egrisi-diklesebilir-3786408",
         "bloomberght:https://www.bloomberght.com/abd-de-tuketici-guveni-geriledi-3786403",
         "bloomberght:https://www.bloomberght.com/tahran-hurmuz-e-iliskin-sartlarini-abd-ye-iletti-3786399",
@@ -892,10 +896,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:9b760e1cdd9e8:0",
+      "last_seen_key": "tradingview:matriks:6696903:0",
       "seen_keys": [
+        "tradingview:matriks:6696903:0",
+        "tradingview:matriks:6696900:0",
         "tradingview:fxstreet:9b760e1cdd9e8:0",
         "tradingview:fxstreet:c17548709d9e8:0",
+        "tradingview:cointelegraph:1619fa6bbd9e8:0",
         "tradingview:matriks:6696859:0",
         "tradingview:fxstreet:a66526425d9e8:0",
         "tradingview:fxstreet:6bf00ece2d9e8:0",
@@ -1390,10 +1397,7 @@
         "tradingview:matriks:6694333:0",
         "tradingview:matriks:6694335:0",
         "tradingview:matriks:6694334:0",
-        "tradingview:matriks:6694315:0",
-        "tradingview:matriks:6694311:0",
-        "tradingview:fxstreet:37cf30a0bd9e8:0",
-        "tradingview:matriks:6694307:0"
+        "tradingview:matriks:6694315:0"
       ]
     },
     "forexfactory": {
@@ -1411,6 +1415,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "okul al sverisinde planl donem baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6696903:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ilac kozmetik ev bak m sektoru tek ekosistem yasam bilimleri istanbul bulusuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6696900:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kanada dan abd ye tarife misillemesi kanada abd nin uygulad g yeni gumruk vergilerine yan t olarak amerikan mallar na yonelik 27 6 milyar kanada dolar yaklas k 19 94 milyar dolar tutar nda misilleme tarifeleri ac klad",
+      "link": "https://www.bloomberght.com/kanada-dan-abd-ye-tarife-misillemesi-3786416"
+    },
+    {
+      "source": "kap",
+      "text": "casa sermaye art r m azalt m islemlerine iliskin bildirim sermaye artirimina iliskin bildirim sirket casa emtia petrol kimyevi turevleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654948"
+    },
+    {
+      "source": "kap",
+      "text": "akfis geri al nan paylar n elden c kar lmas geri al m program kapsam nda geri al nan paylar n elden c kar lmas hk sirket akfen insaat turizm ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654947"
+    },
+    {
+      "source": "kap",
+      "text": "krgyo bistech pay piyasas al m sat m sistemi duyurusu pay piyasas nda volatilite bazl tedbir sistemi sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654946"
+    },
     {
       "source": "tradingview",
       "text": "euro bolgesi afd nin yukselisi politika belirsizligini art r yor ing",
@@ -8880,36 +8914,6 @@
       "source": "investing",
       "text": "citizens asana hissesi hedef fiyat n korudu",
       "link": "https://tr.investing.com/news/analyst-ratings/citizens-asana-hissesi-icin-hedef-fiyatn-korudu-93CH-4040910"
-    },
-    {
-      "source": "investing",
-      "text": "oyak yat r m ortakl g piyasa fiyat nad n 2 kat n ast",
-      "link": "https://tr.investing.com/news/global-filings/oyak-yatrm-ortaklg-piyasa-fiyat-nadn-2-katn-ast-93CH-4040907"
-    },
-    {
-      "source": "investing",
-      "text": "aktif yat r m bankas 5 milyar tl lik finansman bonosu ihrac n tamamlad",
-      "link": "https://tr.investing.com/news/global-filings/aktif-yatrm-bankas-5-milyar-tllik-finansman-bonosu-ihracn-tamamlad-93CH-4040904"
-    },
-    {
-      "source": "investing",
-      "text": "havas haftal k hisse geri al m faaliyetini ac klad",
-      "link": "https://tr.investing.com/news/company-news/havas-haftalk-hisse-geri-alm-faaliyetini-acklad-93CH-4040903"
-    },
-    {
-      "source": "investing",
-      "text": "deutsche bank hisse pozisyonlar n n dustugunu ancak ag rl kl kald g n soyluyor",
-      "link": "https://tr.investing.com/news/stock-market-news/deutsche-bank-hisse-pozisyonlarnn-dustugunu-ancak-agrlkl-kaldgn-soyluyor-93CH-4040897"
-    },
-    {
-      "source": "investing",
-      "text": "ak yat r m 1 976 milyar tl tutar nda finansman bonosu ihrac etti",
-      "link": "https://tr.investing.com/news/global-filings/ak-yatrm-1976-milyar-tl-tutarnda-finansman-bonosu-ihrac-etti-93CH-4040896"
-    },
-    {
-      "source": "kap",
-      "text": "euhol sermaye art r m azalt m islemlerine iliskin bildirim tahsisli sermaye art r m basvurusu hakk nda sirket euro yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654397"
     }
   ]
 }
