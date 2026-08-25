@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654660",
+      "last_seen_key": "kap:1654662",
       "seen_keys": [
+        "kap:1654662",
+        "kap:1654661",
         "kap:1654660",
         "kap:1654659",
         "kap:1654658",
@@ -261,8 +263,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/maliyeden-sicak-paraya-yuzde-10-stopaj-hazirligi-3786341",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/pakistan-ve-iran-gorusmelerinde-onemli-ilerleme-saglandi-3786346",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/pakistan-ve-iran-gorusmelerinde-onemli-ilerleme-saglandi-3786346",
         "bloomberght:https://www.bloomberght.com/maliyeden-sicak-paraya-yuzde-10-stopaj-hazirligi-3786341",
         "bloomberght:https://www.bloomberght.com/bitcoin-80-bin-dolara-yaklasti-3786337",
         "bloomberght:https://www.bloomberght.com/altinda-ralli-suruyor-3786336",
@@ -1074,17 +1077,25 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6695139:0",
+      "last_seen_key": "tradingview:matriks:6695154:0",
       "seen_keys": [
+        "tradingview:matriks:6695154:0",
+        "tradingview:matriks:6695153:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44M06H:0",
+        "tradingview:matriks:6695141:0",
+        "tradingview:matriks:6695140:0",
+        "tradingview:fxstreet:b1a75522cd9e8:0",
         "tradingview:matriks:6695139:0",
         "tradingview:matriks:6695138:0",
         "tradingview:matriks:6695136:0",
+        "tradingview:matriks:6695133:0",
+        "tradingview:matriks:6695131:0",
         "tradingview:matriks:6695130:0",
         "tradingview:matriks:6695128:0",
+        "tradingview:cointelegraph:f50cc84acd9e8:0",
         "tradingview:matriks:6695127:0",
         "tradingview:fxstreet:130d3f1aed9e8:0",
         "tradingview:matriks:6695124:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44M04L:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44M09V:0",
         "tradingview:matriks:6695120:0",
         "tradingview:matriks:6695119:0",
@@ -1168,6 +1179,7 @@
         "tradingview:fxstreet:7c70d57ead9e8:0",
         "tradingview:beincrypto:2545253a2d9e8:0",
         "tradingview:fxstreet:20dd563c1d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44M04L:0",
         "tradingview:fxstreet:8041b19dfd9e8:0",
         "tradingview:fxstreet:a531ad4e7d9e8:0",
         "tradingview:fxstreet:24223363ed9e8:0",
@@ -1566,16 +1578,7 @@
         "tradingview:fxstreet:d375be9acd9e8:0",
         "tradingview:fxstreet:d302024d6d9e8:0",
         "tradingview:matriks:6692947:0",
-        "tradingview:matriks:6692941:0",
-        "tradingview:fxstreet:e6c1a13dcd9e8:0",
-        "tradingview:matriks:6692935:0",
-        "tradingview:beincrypto:b0e9c4703d9e8:0",
-        "tradingview:matriks:6692931:0",
-        "tradingview:matriks:6692930:0",
-        "tradingview:matriks:6692928:0",
-        "tradingview:matriks:6692926:0",
-        "tradingview:matriks:6692923:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44L04M:0"
+        "tradingview:matriks:6692941:0"
       ]
     },
     "forexfactory": {
@@ -1593,6 +1596,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "viop bulten ata yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695154:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk analizler ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6695153:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 25 agustos sal",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44M06H:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sabah bulteni tfg istanbul menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6695141:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten ata yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695140:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan rupisi rbi nin muhtemel mudahalesiyle abd dolar kars s nda yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b1a75522cd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "pakistan iran gorusmelerinde onemli ilerleme sagland pakistan iran abd israil savas cat sman n sona erdirilmesine yonelik yurutulen gorusmelerde onemli ilerleme saglad",
+      "link": "https://www.bloomberght.com/pakistan-ve-iran-gorusmelerinde-onemli-ilerleme-saglandi-3786346"
+    },
+    {
+      "source": "kap",
+      "text": "grp sirket genel bilgi formu sirket one portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654662"
+    },
+    {
+      "source": "kap",
+      "text": "kuvva kar pay dag t m islemlerine iliskin bildirim 2025 y l na ait 27 07 2026 tarihinde yap lan olagan genel kurul toplant s tescil ilan hk sirket kuvva gida ticaret sanayi yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654661"
+    },
     {
       "source": "tradingview",
       "text": "gunluk bulten info yat r m",
@@ -9047,51 +9095,6 @@
       "source": "investing",
       "text": "breeze acquisition corp ii ye nasdaq tan c kar lma bildirimi",
       "link": "https://tr.investing.com/news/company-news/breeze-acquisition-corp-iiye-nasdaqtan-ckarlma-bildirimi-93CH-4040245"
-    },
-    {
-      "source": "tradingview",
-      "text": "ray dalio olas borc krizi kars s nda biraz bitcoin al nmas n soyluyor",
-      "link": "https://tr.tradingview.com/news/cointelegraph:6df4580bdd9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "whitefiber 310 milyon dolarl k tahvil ihrac n tamamlad",
-      "link": "https://tr.investing.com/news/company-news/whitefiber-310-milyon-dolarlk-tahvil-ihracn-tamamlad-93CH-4040243"
-    },
-    {
-      "source": "investing",
-      "text": "united fire group 0 20 dolar temettu ac klad yonetim kuruluna uye ekledi",
-      "link": "https://tr.investing.com/news/company-news/united-fire-group-020-dolar-temettu-acklad-yonetim-kuruluna-uye-ekledi-93CH-4040242"
-    },
-    {
-      "source": "investing",
-      "text": "meksika abd kanada usmca sonuclar na benzer ticaret anlasmas bekliyor",
-      "link": "https://tr.investing.com/news/economy-news/meksika-abdkanada-usmca-sonuclarna-benzer-ticaret-anlasmas-bekliyor-93CH-4040239"
-    },
-    {
-      "source": "investing",
-      "text": "s p global somnigroup un notunu yukseltti",
-      "link": "https://tr.investing.com/news/stock-market-news/sp-global-somnigroupun-notunu-yukseltti-93CH-4040238"
-    },
-    {
-      "source": "investing",
-      "text": "wisdomtree hissesi 23 47 dolarla 52 haftal k zirveye ulast",
-      "link": "https://tr.investing.com/news/company-news/wisdomtree-hissesi-2347-dolarla-52-haftalk-zirveye-ulast-93CH-4040237"
-    },
-    {
-      "source": "investing",
-      "text": "s p leslie s notunu yeniden yap land rma riski nedeniyle dusurdu",
-      "link": "https://tr.investing.com/news/stock-market-news/sp-leslies-notunu-yeniden-yaplandrma-riski-nedeniyle-dusurdu-93CH-4040236"
-    },
-    {
-      "source": "investing",
-      "text": "moody s microsoft hissesinin aaa notunu teyit etti gorunum istikrarl",
-      "link": "https://tr.investing.com/news/stock-market-news/moodys-microsoft-hissesinin-aaa-notunu-teyit-etti-gorunum-istikrarl-93CH-4040235"
-    },
-    {
-      "source": "investing",
-      "text": "iqvia holdings hissesi 260 32 dolarla zirve yapt",
-      "link": "https://tr.investing.com/news/company-news/iqvia-holdings-hissesi-26032-dolarla-zirve-yapt-93CH-4040234"
     }
   ]
 }
