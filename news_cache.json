@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654841",
+      "last_seen_key": "kap:1654844",
       "seen_keys": [
+        "kap:1654844",
+        "kap:1654842",
         "kap:1654841",
         "kap:1654824",
         "kap:1654823",
@@ -771,10 +773,25 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6696421:0",
+      "last_seen_key": "tradingview:fxstreet:34a00a46bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:34a00a46bd9e8:0",
+        "tradingview:matriks:6696508:0",
+        "tradingview:matriks:6696504:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44M0NV:0",
+        "tradingview:matriks:6696488:0",
+        "tradingview:matriks:6696487:0",
+        "tradingview:matriks:6696486:0",
+        "tradingview:cointelegraph:4fbb31530d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44M0VJ:0",
+        "tradingview:fxstreet:e599f1b77d9e8:0",
+        "tradingview:matriks:6696434:0",
+        "tradingview:matriks:6696426:0",
+        "tradingview:fxstreet:f182e8eb3d9e8:0",
+        "tradingview:matriks:6696425:0",
         "tradingview:matriks:6696421:0",
         "tradingview:fxstreet:042a602ded9e8:0",
+        "tradingview:fxstreet:0d86bd796d9e8:0",
         "tradingview:matriks:6696409:0",
         "tradingview:matriks:6696400:0",
         "tradingview:matriks:6696399:0",
@@ -804,7 +821,6 @@
         "tradingview:matriks:6696232:0",
         "tradingview:fxstreet:fc579ddcfd9e8:0",
         "tradingview:fxstreet:078eddaded9e8:0",
-        "tradingview:fxstreet:0d86bd796d9e8:0",
         "tradingview:fxstreet:4f9c1f36cd9e8:0",
         "tradingview:matriks:6696170:0",
         "tradingview:matriks:6696171:0",
@@ -1258,21 +1274,7 @@
         "tradingview:cointelegraph:fb5dfa05dd9e8:0",
         "tradingview:cointelegraph:8686d919ad9e8:0",
         "tradingview:matriks:6693942:0",
-        "tradingview:matriks:6693939:0",
-        "tradingview:matriks:6693934:0",
-        "tradingview:matriks:6693933:0",
-        "tradingview:matriks:6693931:0",
-        "tradingview:matriks:6693930:0",
-        "tradingview:fxstreet:12926e056d9e8:0",
-        "tradingview:beincrypto:128efb62bd9e8:0",
-        "tradingview:matriks:6693912:0",
-        "tradingview:matriks:6693907:0",
-        "tradingview:fxstreet:df08aa712d9e8:0",
-        "tradingview:matriks:6693898:0",
-        "tradingview:matriks:6693884:0",
-        "tradingview:matriks:6693873:0",
-        "tradingview:fxstreet:80698e013d9e8:0",
-        "tradingview:matriks:6693861:0"
+        "tradingview:matriks:6693939:0"
       ]
     },
     "forexfactory": {
@@ -1290,6 +1292,86 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar tahvil piyasas temkinli konsolidasyonu destekliyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:34a00a46bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s bulten ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6696508:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "forex bulteni ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6696504:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nvidia bilancosu enflasyon verisi bekleyen wall street teknoloji hisselerinin etkisiyle art ac lmaya haz rland",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44M0NV:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd s p case shiller 20 sehir konut fiyatlar endeksi haziran y ll k 2 1 beklenti 1 7 onceki 1 6",
+      "link": "https://tr.tradingview.com/news/matriks:6696488:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd s p case shiller 20 sehir konut fiyatlar endeksi haziran ayl k 0 4 onceki 0 9",
+      "link": "https://tr.tradingview.com/news/matriks:6696487:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd md s p case shiller 20 sehir konut fiyatlar endeksi haziran ayl k 0 2 beklenti 0 1 onceki 0 2",
+      "link": "https://tr.tradingview.com/news/matriks:6696486:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "chainalysis liderligindeki operasyon cocuk istismar sorusturmas nda 7 700 hesab isaretledi",
+      "link": "https://tr.tradingview.com/news/cointelegraph:4fbb31530d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rusya dizel ihracat yasag n eylul e kadar uzatmaya haz rlan yor kaynaklar",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44M0VJ:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n tarife cat smas guvenli liman talebini art r yor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:e599f1b77d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada ticaret bakan hukumet bugun misilleme niteliginde gumruk vergileri ac klamay planl yor",
+      "link": "https://tr.tradingview.com/news/matriks:6696434:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "goldman sachs y l faizlerle ilgili goruslerini korudu bloomberght com",
+      "link": "https://tr.tradingview.com/news/matriks:6696426:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar rbnz faiz art r m beklentilerinin destek saglamas yla daha guclu abd dolar na meydan okuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f182e8eb3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "takasbank para piyasas nda bugun 71 milyar 386 milyon tl lik islem hacmi gerceklesti",
+      "link": "https://tr.tradingview.com/news/matriks:6696425:0"
+    },
+    {
+      "source": "kap",
+      "text": "eximb thr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren xs3105517679 isin kodlu tahvil itfas hk sirket turkiye ihracat kredi bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654844"
+    },
+    {
+      "source": "kap",
+      "text": "pnlsn yat r mc raporu yat r mc sunumu hk sirket panelsan cati cephe sistemleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654842"
+    },
     {
       "source": "tradingview",
       "text": "hurmuz bogaz ndan pazartesi gunu yaln zca iki tanker gecis yapt bloomberght com",
@@ -8709,86 +8791,6 @@
       "source": "tradingview",
       "text": "gunluk bulten global menkul degerler",
       "link": "https://tr.tradingview.com/news/matriks:6693073:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "alt n haftaya yukselisle baslad haftan n ilk gunune yukselisle baslayan gram alt n 7 bin 189 liradan islem goruyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-haftaya-yukselisle-basladi-954750.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "turkiyenin islam ulkeleriyle ticareti gucleniyor ticaret bakanl g n n islam isbirligi teskilat iit uyeleri ihracat gelistirme stratejisi dogrultusunda turkiye nin islam ulkelerine ihracat 2026 n n 7 ay nda 41 5 milyar dolara ulas rken donemde iit ulkelerine ihracat gece",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-islam-ulkeleriyle-ticareti-gucleniyor-954749.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "fast islem tutar limitleri 300 bin liraya yukseltildi merkez bankas fast islem tutar limitlerinin 26 agustos itibar yla 300 bin tl ye yukseltilecegini duyurdu",
-      "link": "https://www.trthaber.com/haber/ekonomi/fast-islem-tutar-limitleri-300-bin-liraya-yukseltildi-954747.html"
-    },
-    {
-      "source": "ntvpara",
-      "text": "alt n gumus fiyatlar nda durum 24 agustos gram ceyrek yar m cumhuriyet alt n bugun kadar gumus gram kadar oldu haftan n ilk islem gununde alt n gumus piyasalar nda hareketlilik suruyor kuresel piyasalarda makroekonomik verilerin etkisi dolar n deger kayb yla birlikte yon aray s nda olan alt n fiyatlar yeni haftaya yukselisle baslad gram a",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-altin-ve-gumus-fiyatlarinda-son-durum-24-agustos-gram-altin-ve-gram-gumus-fiyatlari-bugun-ne-kadar-1738654"
-    },
-    {
-      "source": "ntvpara",
-      "text": "viop costu banka hisseleri yukseldi borsa istanbul un ac l s oncu olan viop yuzde 1 43 primle gune baslad",
-      "link": "https://www.ntv.com.tr/ntvpara/viop-costu-bankalar-firladi-1738651"
-    },
-    {
-      "source": "investing",
-      "text": "metro holding metro insaat n tum paylar n 60 milyon tl ye sat n ald",
-      "link": "https://tr.investing.com/news/global-filings/metro-holding-metro-insaatn-tum-paylarn-60-milyon-tlye-satn-ald-93CH-4040782"
-    },
-    {
-      "source": "investing",
-      "text": "visne madencilik afrika amerika 53 milyon tl lik sirket kurdu",
-      "link": "https://tr.investing.com/news/global-filings/visne-madencilik-afrika-ve-amerika-icin-53-milyon-tllik-sirket-kurdu-93CH-4040781"
-    },
-    {
-      "source": "investing",
-      "text": "denge yat r m holding sb celik te ek 9 26 pay al m na karar verdi",
-      "link": "https://tr.investing.com/news/global-filings/denge-yatrm-holding-sb-celikte-ek-926-pay-almna-karar-verdi-93CH-4040753"
-    },
-    {
-      "source": "investing",
-      "text": "hidropar 22 76 hisse devri 6 5 milyon usd lik anlasma",
-      "link": "https://tr.investing.com/news/global-filings/hidroparda-2276-hisse-devri-65-milyon-usdlik-anlasma-93CH-4040740"
-    },
-    {
-      "source": "investing",
-      "text": "halyk bank islami bankac l k lisans hissedar oylamas yapacak",
-      "link": "https://tr.investing.com/news/company-news/halyk-bank-islami-bankaclk-lisans-icin-hissedar-oylamas-yapacak-93CH-4040735"
-    },
-    {
-      "source": "investing",
-      "text": "borusan birlesik boru abd 555 milyon dolarl k siparis ald",
-      "link": "https://tr.investing.com/news/global-filings/borusan-birlesik-boru-abdde-555-milyon-dolarlk-siparis-ald-93CH-4040734"
-    },
-    {
-      "source": "investing",
-      "text": "anadolu isuzu ssb 10 25 milyon avro luk sozlesme imzalad",
-      "link": "https://tr.investing.com/news/global-filings/anadolu-isuzu-ssb-ile-1025-milyon-avroluk-sozlesme-imzalad-93CH-4040733"
-    },
-    {
-      "source": "investing",
-      "text": "ftse 100 iran yapt r mlar teknoloji sat slar bask yapt",
-      "link": "https://tr.investing.com/news/stock-market-news/ftse-100-iran-yaptrmlar-ve-teknoloji-satslar-bask-yapt-4040737"
-    },
-    {
-      "source": "investing",
-      "text": "arada sukuk r za ucreti tarihini 31 agustos a uzatt",
-      "link": "https://tr.investing.com/news/company-news/arada-sukuk-rza-ucreti-son-tarihini-31-agustosa-uzatt-93CH-4040728"
-    },
-    {
-      "source": "investing",
-      "text": "agrotech flora entegre deki pay n 90 a yukseltti",
-      "link": "https://tr.investing.com/news/global-filings/agrotech-flora-entegredeki-payn-90a-yukseltti-93CH-4040727"
-    },
-    {
-      "source": "bloomberght",
-      "text": "iran n asya ya petrol sevkiyat durma noktas nda abd yonetiminin tahran ticari ortaklar n izole etmeye yonelik yeni yapt r m hamleleri oncesinde iran n asya piyasalar na petrol ak s neredeyse tamamen kesildi",
-      "link": "https://www.bloomberght.com/iranin-asyaya-petrol-sevkiyati-durma-noktasinda-3786269"
     }
   ]
 }
