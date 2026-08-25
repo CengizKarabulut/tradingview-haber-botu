@@ -824,8 +824,10 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/skandallarla-sarsilan-kpmg-avustralya-yaklasik-400-kisiyi-isten-cikaracak-1738694",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-abdnin-iran-yaptirimlari-dolara-yaradi-1738766",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-abdnin-iran-yaptirimlari-dolara-yaradi-1738766",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-dogalgaz-65-yilin-zirvesinde-1738765",
         "ntvpara:https://www.ntv.com.tr/ntvpara/skandallarla-sarsilan-kpmg-avustralya-yaklasik-400-kisiyi-isten-cikaracak-1738694",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-arac-sahipleri-dikkat-giseler-tarih-oluyor-1738686",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-ve-gumus-fiyatlarinda-son-durum-24-agustos-gram-altin-ve-gram-gumus-fiyatlari-bugun-ne-kadar-1738654",
@@ -1067,8 +1069,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6695080:0",
+      "last_seen_key": "tradingview:matriks:6695085:0",
       "seen_keys": [
+        "tradingview:matriks:6695085:0",
+        "tradingview:matriks:6695084:0",
+        "tradingview:fxstreet:7e89463c8d9e8:0",
+        "tradingview:matriks:6695083:0",
+        "tradingview:matriks:6695082:0",
+        "tradingview:fxstreet:5eed9e657d9e8:0",
+        "tradingview:matriks:6695081:0",
+        "tradingview:fxstreet:f195ea7f7d9e8:0",
         "tradingview:matriks:6695080:0",
         "tradingview:matriks:6695079:0",
         "tradingview:matriks:6695078:0",
@@ -1560,15 +1570,7 @@
         "tradingview:matriks:6692857:0",
         "tradingview:matriks:6692858:0",
         "tradingview:matriks:6692856:0",
-        "tradingview:matriks:6692874:0",
-        "tradingview:matriks:6692865:0",
-        "tradingview:matriks:6692864:0",
-        "tradingview:matriks:6692875:0",
-        "tradingview:matriks:6692862:0",
-        "tradingview:matriks:6692848:0",
-        "tradingview:matriks:6692847:0",
-        "tradingview:matriks:6692845:0",
-        "tradingview:matriks:6692846:0"
+        "tradingview:matriks:6692874:0"
       ]
     },
     "forexfactory": {
@@ -1586,6 +1588,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bist100 teknik gorunum a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6695085:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop bist 30 teknik analiz bulteni yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695084:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur jpy fiyat analizi yukselen kanal n alt band ndan toparland ktan sonra 186 00 seviyesine dogru yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:7e89463c8d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "suriye tekstili canland r yor turk sirketleri s raya giriyor nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6695083:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist gunluk teknik analiz bulteni yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6695082:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar guclu usd ticaret savas nedeniyle yukselen petrol fiyatlar na ragmen bask alt nda kalmaya devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5eed9e657d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "petroldeki fiyat soku yukselen emtialar bozulan tedarik zinciri elektrik elektronikte girdi maliyetlerini yukseltiyor dunya",
+      "link": "https://tr.tradingview.com/news/matriks:6695081:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rba n n jacobs u rezerv miktar n rba n n kontrol etmesinden bankac l k sisteminin bunu yonetmesine gecis",
+      "link": "https://tr.tradingview.com/news/fxstreet:f195ea7f7d9e8:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "abd nin iran yapt r mlar dolara yarad abd nin iran a yonelik yapt r mlar n s k last rmas yla dolar istikrar kazand",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-abdnin-iran-yaptirimlari-dolara-yaradi-1738766"
+    },
+    {
+      "source": "ntvpara",
+      "text": "dogalgaz 3 5 y l n zirvesinde avrupa dogalgaz fiyatlar yuksek seyrini koruyor",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-dogalgaz-65-yilin-zirvesinde-1738765"
+    },
     {
       "source": "tradingview",
       "text": "1 hafta vadeli repoya gecis gevseme degil normallesme nbe",
@@ -9035,56 +9087,6 @@
       "source": "investing",
       "text": "t stamp yoneticisi charles potts sirket hisselerinden 2 000 dolar ald",
       "link": "https://tr.investing.com/news/insider-trading-news/t-stamp-yoneticisi-charles-potts-sirket-hisselerinden-2000-dolar-ald-93CH-4040198"
-    },
-    {
-      "source": "bloomberght",
-      "text": "erakci trump n yeni yapt r mlar basar s z olacak iran d sisleri bakan abbas erakci abd baskan donald trump n iran a yonelik yeni ekonomik yapt r mlar n n gecmiste uygulanan bask politikalar gibi basar s z olacag n savunarak filmi daha once gorduk dedi",
-      "link": "https://www.bloomberght.com/erakci-trump-in-yeni-yaptirimlari-da-basarisiz-olacak-3786206"
-    },
-    {
-      "source": "kap",
-      "text": "pengd esas sozlesme tadili esas sozlesme tadilinin tescili ilan sirket penguen gida sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654256"
-    },
-    {
-      "source": "kap",
-      "text": "pengd bag ms z denetim kurulusunun belirlenmesi bag ms z denetim sirket seciminin tescil ilan sirket penguen gida sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654255"
-    },
-    {
-      "source": "kap",
-      "text": "denge sermaye art r m azalt m islemlerine iliskin bildirim ruchan hakk kulland r lmadan tahsisli sermaye art r m hk sirket denge yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654254"
-    },
-    {
-      "source": "tradingview",
-      "text": "gumus fiyat analizi xag al c lar rallinin genislemesiyle 70 seviyesini test ediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:ab3e9e7d8d9e8:0"
-    },
-    {
-      "source": "kap",
-      "text": "ccola ozel durum ac klamas genel gumruk islemlerine iliskin idari karar hukuki surec hakk nda sirket coca cola icecek a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654253"
-    },
-    {
-      "source": "kap",
-      "text": "pengd genel kurul islemlerine iliskin bildirim 2025 y l olagan genel kurul toplant s tescili sirket penguen gida sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654252"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n orta dogu risklerinin ralliyi koruklemesiyle 4 600 dolar n uzerinde uc ayl k zirveye ulast",
-      "link": "https://tr.tradingview.com/news/fxstreet:af54de630d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "eur usd fiyat analizi bogalar 1 1700 seviyesini test ediyor rsi as r al ma donuyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:8eceb7a30d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "nuvation bio hisseleri neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/nuvation-bio-hisseleri-neden-yukseliyor-93CH-4040195"
     }
   ]
 }
