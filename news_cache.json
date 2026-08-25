@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654970",
+      "last_seen_key": "kap:1654973",
       "seen_keys": [
+        "kap:1654973",
+        "kap:1654972",
+        "kap:1654971",
         "kap:1654970",
         "kap:1654969",
         "kap:1654967",
@@ -1470,6 +1473,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "burce sorumluluk beyan konsolide olmayan 01 01 2026 30 06 2026 donemi sorumluluk beyan sirket burcelik bursa celik dokum sanayii a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654973"
+    },
+    {
+      "source": "kap",
+      "text": "burce faaliyet raporu konsolide olmayan 01 01 2026 30 06 2026 donemi faaliyet raporu sirket burcelik bursa celik dokum sanayii a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654972"
+    },
+    {
+      "source": "kap",
+      "text": "burce finansal rapor sirket burcelik bursa celik dokum sanayii a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654971"
+    },
     {
       "source": "tradingview",
       "text": "cin yuan ticaret riskleri abd dolar kars s ndaki kazanclar s n rl yor ocbc",
@@ -8954,21 +8972,6 @@
       "source": "tradingview",
       "text": "aud usd fiyat analizi avustralya dolar 12 haftan n en yuksek seviyelerinden gevserken al c lar hala kontrolu elinde tutuyor",
       "link": "https://tr.tradingview.com/news/fxstreet:80698e013d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "wells fargo fortune brands hissesini donus potansiyeli baslatt",
-      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-fortune-brands-hissesini-donus-potansiyeli-ile-baslatt-93CH-4041102"
-    },
-    {
-      "source": "investing",
-      "text": "wells fargo whirlpool hissesini esit ag rl k degerlendirmeye ald",
-      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-whirlpool-hissesini-esit-agrlk-ile-degerlendirmeye-ald-93CH-4041103"
-    },
-    {
-      "source": "investing",
-      "text": "vision marine ters devralma baglay c olmayan anlasma imzalad",
-      "link": "https://tr.investing.com/news/company-news/vision-marine-ters-devralma-icin-baglayc-olmayan-anlasma-imzalad-93CH-4041093"
     }
   ]
 }
