@@ -518,8 +518,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/stubhub-yoneticisi-mark-streams-113-milyon-dolarlk-hisse-satt-93CH-4043669",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/seacor-marine-kdemli-baskan-yardmcs-2000-dolarlk-hisse-satt-93CH-4043672",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/seacor-marine-kdemli-baskan-yardmcs-2000-dolarlk-hisse-satt-93CH-4043672",
+        "investing:https://tr.investing.com/news/insider-trading-news/omeros-finans-baskan-yardmcs-206804-dolar-degerinde-hisse-satt-93CH-4043671",
+        "investing:https://tr.investing.com/news/insider-trading-news/hoyne-bancorp-ceosu-sirket-hisselerinden-25670-dolar-ald-93CH-4043670",
         "investing:https://tr.investing.com/news/insider-trading-news/stubhub-yoneticisi-mark-streams-113-milyon-dolarlk-hisse-satt-93CH-4043669",
         "investing:https://tr.investing.com/news/insider-trading-news/cadence-design-kdemli-baskan-yardmcs-149-milyon-dolarlk-hisse-satt-93CH-4043667",
         "investing:https://tr.investing.com/news/insider-trading-news/mercury-systems-evp-ve-ik-direktoru-ratner-32524-dolar-degerinde-hisse-satt-93CH-4043668",
@@ -527,9 +530,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/community-health-systems-yoneticisi-118400-dolar-degerinde-hisse-satt-93CH-4043664",
         "investing:https://tr.investing.com/news/insider-trading-news/gen-digital-yoneticisi-ondrej-vlcek-138-milyon-dolarlk-hisse-satt-93CH-4043663",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-secimi-kucuk-olcekli-hisseler-aylk-bazda-41-yukseldi-4043662",
-        "investing:https://tr.investing.com/news/company-news/brixton-metals-finansman-kapatt-toplam-9-milyon-dolar-toplad-93CH-4043661",
-        "investing:https://tr.investing.com/news/insider-trading-news/precigen-coo-rutul-shah-375000-dolarlk-hisse-satt-93CH-4043660",
-        "investing:https://tr.investing.com/news/insider-trading-news/precigen-cco-phil-tennant-593745-dolarlk-hisse-satt-93CH-4043659",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -550,6 +550,9 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/company-news/brixton-metals-finansman-kapatt-toplam-9-milyon-dolar-toplad-93CH-4043661",
+        "investing:https://tr.investing.com/news/insider-trading-news/precigen-coo-rutul-shah-375000-dolarlk-hisse-satt-93CH-4043660",
+        "investing:https://tr.investing.com/news/insider-trading-news/precigen-cco-phil-tennant-593745-dolarlk-hisse-satt-93CH-4043659",
         "investing:https://tr.investing.com/news/insider-trading-news/alarmcom-ceosu-stephen-trundle-288-milyon-dolarlk-hisse-satt-93CH-4043658",
         "investing:https://tr.investing.com/news/insider-trading-news/onto-innovation-yoneticisi-susan-lynch-302300-dolar-degerinde-hisse-satt-93CH-4043657",
         "investing:https://tr.investing.com/news/insider-trading-news/electrocore-cfosu-joshua-lev-200120-dolarlk-hisse-satt-93CH-4043656",
@@ -1015,8 +1018,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:5e9e0d0e0d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:5e4a98943d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:5e4a98943d9e8:0",
         "tradingview:fxstreet:5e9e0d0e0d9e8:0",
         "tradingview:fxstreet:9e6b3ed5fd9e8:0",
         "tradingview:fxstreet:d5b2a3038d9e8:0",
@@ -1515,8 +1519,7 @@
         "tradingview:fxstreet:24223363ed9e8:0",
         "tradingview:beincrypto:cb7d75157d9e8:0",
         "tradingview:beincrypto:72570e79dd9e8:0",
-        "tradingview:cointelegraph:68df818b6d9e8:0",
-        "tradingview:fxstreet:9787709b6d9e8:0"
+        "tradingview:cointelegraph:68df818b6d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1534,6 +1537,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n abd dolar ndaki zay fl k hazine tahvili geri al m planlar yla 4 650 uzerine yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:5e4a98943d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "seacor marine k demli baskan yard mc s 2 000 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/seacor-marine-kdemli-baskan-yardmcs-2000-dolarlk-hisse-satt-93CH-4043672"
+    },
+    {
+      "source": "investing",
+      "text": "omeros finans baskan yard mc s 206 804 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/omeros-finans-baskan-yardmcs-206804-dolar-degerinde-hisse-satt-93CH-4043671"
+    },
+    {
+      "source": "investing",
+      "text": "hoyne bancorp ceo su sirket hisselerinden 25 670 dolar ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/hoyne-bancorp-ceosu-sirket-hisselerinden-25670-dolar-ald-93CH-4043670"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar rba n n sahin tutanaklar n n ard ndan yukseliyor enflasyon verileri izleniyor",
@@ -9013,26 +9036,6 @@
       "source": "tradingview",
       "text": "gun ortas notlar garanti bbva yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6694057:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "macar forinti mnb gevsemesi huf carry beklentileri bny",
-      "link": "https://tr.tradingview.com/news/fxstreet:7555f9345d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "ingiltere enerji borcu 6 milyar sterline ulast",
-      "link": "https://tr.investing.com/news/economy-news/ingilterede-enerji-borcu-6-milyar-sterline-ulast-93CH-4041474"
-    },
-    {
-      "source": "investing",
-      "text": "nano nuclear yapay zeka veri merkezleri tillman anlast",
-      "link": "https://tr.investing.com/news/company-news/nano-nuclear-yapay-zeka-veri-merkezleri-icin-tillman-ile-anlast-93CH-4041469"
-    },
-    {
-      "source": "investing",
-      "text": "humacyte diyaliz erisimi kas m fda basvurusu yapacak",
-      "link": "https://tr.investing.com/news/company-news/humacyte-diyaliz-erisimi-icin-kasmda-fda-basvurusu-yapacak-93CH-4041467"
     }
   ]
 }
