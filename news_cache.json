@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654764",
+      "last_seen_key": "kap:1654766",
       "seen_keys": [
+        "kap:1654766",
+        "kap:1654765",
         "kap:1654764",
         "kap:1654763",
         "kap:1654762",
@@ -325,8 +327,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/mscidan-turkiye-kucuk-olcekli-sirketler-endeksine-girecek-hisselerde-degisiklik-3786374",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/godman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/godman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378",
         "bloomberght:https://www.bloomberght.com/mscidan-turkiye-kucuk-olcekli-sirketler-endeksine-girecek-hisselerde-degisiklik-3786374",
         "bloomberght:https://www.bloomberght.com/cin-den-abd-nin-iran-yaptirimlarina-karsi-misilleme-tehdidi-3786373",
         "bloomberght:https://www.bloomberght.com/almanyanin-ekonomik-gorunumunde-iyilesme-surdu-3786372",
@@ -1159,8 +1162,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:bef7f8b43d9e8:0",
+      "last_seen_key": "tradingview:matriks:6696006:0",
       "seen_keys": [
+        "tradingview:matriks:6696006:0",
+        "tradingview:matriks:6695998:0",
+        "tradingview:fxstreet:3bb84c234d9e8:0",
         "tradingview:fxstreet:bef7f8b43d9e8:0",
         "tradingview:fxstreet:f3192b3dbd9e8:0",
         "tradingview:matriks:6695925:0",
@@ -1257,6 +1263,7 @@
         "tradingview:matriks:6695421:0",
         "tradingview:matriks:6695419:0",
         "tradingview:matriks:6695415:0",
+        "tradingview:matriks:6695412:0",
         "tradingview:beincrypto:ce7e7e3add9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44M09G:0",
         "tradingview:matriks:6695387:0",
@@ -1656,11 +1663,7 @@
         "tradingview:matriks:6693476:0",
         "tradingview:matriks:6693471:0",
         "tradingview:matriks:6693470:0",
-        "tradingview:matriks:6693469:0",
-        "tradingview:fxstreet:9c852cd46d9e8:0",
-        "tradingview:matriks:6693462:0",
-        "tradingview:fxstreet:883452e53d9e8:0",
-        "tradingview:matriks:6693453:0"
+        "tradingview:matriks:6693469:0"
       ]
     },
     "forexfactory": {
@@ -1678,6 +1681,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ozlem oktem the pen nsula london n sat s pazarlamadan sorumlu genel muduru oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6696006:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "duzeltme bilgi notu glyho ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6695998:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "macar forinti kritik direncin alt nda euro kars s nda guclu kalmay surduruyor societe generale",
+      "link": "https://tr.tradingview.com/news/fxstreet:3bb84c234d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "godman sachs y l faizlerle ilgili goruslerini korudu godman sachs ekonomistleri turkiye cumhuriyet merkez bankas n n tcmb haftal k repo faizini y l sonuna kadar yuzde 37 seviyesinde b rakacag yonundeki goruslerini koruduklar n belirtti",
+      "link": "https://www.bloomberght.com/godman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378"
+    },
+    {
+      "source": "kap",
+      "text": "karcl esas sozlesme tadili esas sozlesme tadil metni spk taraf ndan onaylanm s tescil edilmistir sirket kardemir celik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654766"
+    },
+    {
+      "source": "kap",
+      "text": "usak pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon odemesi sirket usak seramik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654765"
+    },
     {
       "source": "tradingview",
       "text": "gumus fiyat bugun fxstreet verilerine gore gumus fiyat dustu",
@@ -9147,36 +9180,6 @@
       "source": "tradingview",
       "text": "hazine ic borc odemeleri tablo",
       "link": "https://tr.tradingview.com/news/matriks:6692859:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hazine maliye bakanl g n n uluslararas sermaye piyasalar nda gerceklestirdigi tahvil sukuk ihraclar tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6692855:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "merkezi yonetim d s borc odeme projeksiyonlar 12 ayl k tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6692857:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "merkezi yonetim d s borc odeme projeksiyonlar 2026 2029",
-      "link": "https://tr.tradingview.com/news/matriks:6692858:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "merkezi yonetim ic borc odeme projeksiyonlar 12 ayl k tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6692856:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "para piyasalar nakit ak s tablosu",
-      "link": "https://tr.tradingview.com/news/matriks:6692874:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tcmb ag rl kl ortalama fonlama maliyeti tablo",
-      "link": "https://tr.tradingview.com/news/matriks:6692865:0"
     }
   ]
 }
