@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1654966",
+      "last_seen_key": "kap:1654967",
       "seen_keys": [
+        "kap:1654967",
         "kap:1654966",
         "kap:1654965",
         "kap:1654964",
@@ -916,9 +917,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:604ae7530d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:06a14e567d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:06a14e567d9e8:0",
         "tradingview:fxstreet:604ae7530d9e8:0",
+        "tradingview:beincrypto:d7d1b715ad9e8:0",
         "tradingview:fxstreet:dc4c4c38cd9e8:0",
         "tradingview:fxstreet:675a66549d9e8:0",
         "tradingview:fxstreet:ccc7e36cad9e8:0",
@@ -1415,9 +1418,7 @@
         "tradingview:matriks:6694643:0",
         "tradingview:matriks:6694639:0",
         "tradingview:matriks:6694636:0",
-        "tradingview:cointelegraph:85e25a270d9e8:0",
-        "tradingview:fxstreet:6f3ff6cebd9e8:0",
-        "tradingview:matriks:6694633:0"
+        "tradingview:cointelegraph:85e25a270d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1435,6 +1436,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "usd cad fiyat analizi dusus yonlu gostergeler yolu asag egimli tutuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:06a14e567d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "ykb ykbnk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren yurtd s nda borclanma arac ihrac n n tamamlanmas sirket yapi kredi bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1654967"
+    },
     {
       "source": "tradingview",
       "text": "euro olumlu alman verilerine ragmen sterlin kars s nda yatay seyrediyor",
@@ -8924,16 +8935,6 @@
       "source": "investing",
       "text": "hengli konteyner gemisi siparislerinde zirveye c kt",
       "link": "https://tr.investing.com/news/stock-market-news/hengli-konteyner-gemisi-siparislerinde-zirveye-ckt-93CH-4040990"
-    },
-    {
-      "source": "investing",
-      "text": "jersey mike s subs hissesi neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/jersey-mikes-subs-hissesi-neden-yukseliyor-93CH-4040989"
-    },
-    {
-      "source": "investing",
-      "text": "nucor hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/nucor-hissesi-bugun-neden-yukseliyor-93CH-4040988"
     }
   ]
 }
