@@ -537,8 +537,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/gatik-otonom-kargo-talebinin-artmasyla-200-milyon-dolar-toplad-93CH-4043479",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/sonoco-avrupada-karton-fiyatlarn-ton-basna-60-euro-artracak-93CH-4043494",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/sonoco-avrupada-karton-fiyatlarn-ton-basna-60-euro-artracak-93CH-4043494",
+        "investing:https://tr.investing.com/news/company-news/morningstar-ve-pitchbook-google-cloud-ile-yapay-zeka-arac-icin-ortaklk-kurdu-93CH-4043485",
+        "investing:https://tr.investing.com/news/stock-market-news/spacex-louisianada-100-milyar-dolarlk-us-kuracak-4043487",
         "investing:https://tr.investing.com/news/stock-market-news/gatik-otonom-kargo-talebinin-artmasyla-200-milyon-dolar-toplad-93CH-4043479",
         "investing:https://tr.investing.com/news/stock-market-news/banco-bpm-monte-paschiden-primsiz-devralma-teklifi-ald-93CH-4043478",
         "investing:https://tr.investing.com/news/company-news/capital-gearing-trust-hazineden-350000-hisse-satt-93CH-4043477",
@@ -546,9 +549,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/monte-dei-paschi-hisse-sats-devralma-savas-bitene-kadar-askda-93CH-4043475",
         "investing:https://tr.investing.com/news/forex-news/guney-afrika-rand-is-kosullarndaki-dususe-ragmen-guclendi-93CH-4043474",
         "investing:https://tr.investing.com/news/stock-market-news/msci-turkiye-kucuk-sermaye-endeksi-eklemelerini-durdurdu-93CH-4043473",
-        "investing:https://tr.investing.com/news/stock-market-news/evercore-savunma-kapsamn-genisletmek-icin-bairdden-bankac-transfer-etti--bloomberg-93CH-4043472",
-        "investing:https://tr.investing.com/news/transcripts/snowflakete-six-five-zirvesi-hendek-modeller-degil-veri-93CH-4043469",
-        "investing:https://tr.investing.com/news/stock-market-news/anthropic-30-trilyon-dolarlk-yapay-zeka-pazar-iddia-ediyor-4043471",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -569,6 +569,9 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/stock-market-news/evercore-savunma-kapsamn-genisletmek-icin-bairdden-bankac-transfer-etti--bloomberg-93CH-4043472",
+        "investing:https://tr.investing.com/news/transcripts/snowflakete-six-five-zirvesi-hendek-modeller-degil-veri-93CH-4043469",
+        "investing:https://tr.investing.com/news/stock-market-news/anthropic-30-trilyon-dolarlk-yapay-zeka-pazar-iddia-ediyor-4043471",
         "investing:https://tr.investing.com/news/company-news/roku-hissesi-52-haftalk-zirvede-1597-dolar-seviyesinde-93CH-4043454",
         "investing:https://tr.investing.com/news/company-news/asos-londra-borsasnda-400000-yeni-hisse-icin-basvurdu-93CH-4043452",
         "investing:https://tr.investing.com/news/insider-trading-news/muncy-columbia-finans-direktoru-kile-jr-24-dolar-degerinde-hisse-satt-93CH-4043450",
@@ -1461,6 +1464,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "sonoco avrupa karton fiyatlar n ton bas na 60 euro art racak",
+      "link": "https://tr.investing.com/news/company-news/sonoco-avrupada-karton-fiyatlarn-ton-basna-60-euro-artracak-93CH-4043494"
+    },
+    {
+      "source": "investing",
+      "text": "morningstar pitchbook google cloud yapay zeka arac ortakl k kurdu",
+      "link": "https://tr.investing.com/news/company-news/morningstar-ve-pitchbook-google-cloud-ile-yapay-zeka-arac-icin-ortaklk-kurdu-93CH-4043485"
+    },
+    {
+      "source": "investing",
+      "text": "spacex louisiana 100 milyar dolarl k uzay ussu kuracak",
+      "link": "https://tr.investing.com/news/stock-market-news/spacex-louisianada-100-milyar-dolarlk-us-kuracak-4043487"
+    },
     {
       "source": "tradingview",
       "text": "meksika usmca kesinlik uyum societe generale",
@@ -8945,21 +8963,6 @@
       "source": "tradingview",
       "text": "euro yat r mc lar n abd nin iran a yonelik yapt r mlar n beklemesiyle uc ayl k zirvelerine yak n seyrediyor",
       "link": "https://tr.tradingview.com/news/fxstreet:b8cfac5e9d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "s p vietnam n kredi notunu bb b olarak teyit etti gorunum duragan",
-      "link": "https://tr.tradingview.com/news/matriks:6693680:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japon yeni toparlanan usd kars s nda zay fl yor abd japonya faiz fark aras nda k r lgan gorunuyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:f49c637ead9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar warsh n konusmas dolar hazine tahvillerini sekillendiriyor bny",
-      "link": "https://tr.tradingview.com/news/fxstreet:f39c01aeed9e8:0"
     }
   ]
 }
