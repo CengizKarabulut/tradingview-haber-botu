@@ -515,18 +515,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/dwave-quantum-hisseleri-cfonun-emeklilik-kararyla-geriledi-93CH-4043632",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/ginkgo-bioworks-cfosu-2302-dolarlk-hisse-satt-93CH-4043649",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/ginkgo-bioworks-cfosu-2302-dolarlk-hisse-satt-93CH-4043649",
+        "investing:https://tr.investing.com/news/insider-trading-news/amazon-web-services-ceosu-matthew-garman-377-milyon-dolarlk-amzn-hissesi-satt-93CH-4043648",
+        "investing:https://tr.investing.com/news/stock-market-news/dynatrace-hisseleri-morgan-stanley-tarafndan-yukseltildi-4043650",
+        "investing:https://tr.investing.com/news/stock-market-news/boeing-b52-iyilestirmeleri-icin-163-milyon-dolarlk-sozlesme-ald-93CH-4043644",
+        "investing:https://tr.investing.com/news/company-news/hertz-car-sales-ikinci-el-araclara-3-yl-garanti-sunuyor-93CH-4043643",
+        "investing:https://tr.investing.com/news/company-news/franklin-templeton-033-dolar-temettu-acklad-93CH-4043639",
+        "investing:https://tr.investing.com/news/stock-market-news/northrop-grumman-216-milyon-dolarlk-radar-sozlesmesi-kazand-93CH-4043638",
+        "investing:https://tr.investing.com/news/company-news/kohls-arianne-parisiyi-musteri-deneyimi-direktoru-atad-93CH-4043636",
+        "investing:https://tr.investing.com/news/stock-market-news/echostarn-hughes-anlasmalar-sorusturma-altnda-93CH-4043633",
         "investing:https://tr.investing.com/news/stock-market-news/dwave-quantum-hisseleri-cfonun-emeklilik-kararyla-geriledi-93CH-4043632",
-        "investing:https://tr.investing.com/news/analyst-ratings/jones-trading-seaport-therapeutics-hissesi-icin-al-onerisi-verdi-93CH-4043631",
-        "investing:https://tr.investing.com/news/company-news/dwave-quantum-markovichin-emekliligiyle-golkovu-cfo-vekili-atad-93CH-4043630",
-        "investing:https://tr.investing.com/news/company-news/fm-bank-yonetim-kurulunda-degisiklik-acklad-93CH-4043629",
-        "investing:https://tr.investing.com/news/insider-trading-news/itron-ik-baskan-yardmcs-17584-dolarlk-hisse-satt-93CH-4043626",
-        "investing:https://tr.investing.com/news/insider-trading-news/diana-shipping-genco-shipping-hisselerini-3206-milyon-dolara-satt-93CH-4043627",
-        "investing:https://tr.investing.com/news/insider-trading-news/optum-ceosu-conway-unitedhealth-group-hisselerinden-455910-dolar-satt-93CH-4043625",
-        "investing:https://tr.investing.com/news/insider-trading-news/ajb-investment-fund-ii-lp-yonetici-olarak-20845-dolar-degerinde-hisse-ald-93CH-4043624",
-        "investing:https://tr.investing.com/news/world-news/japonyada-daire-fiyatlarn-sogutmak-icin-vergi-degisikligi-plan-93CH-4043623",
-        "investing:https://tr.investing.com/news/company-news/biohaven-ve-yale-ticari-sr-davasnda-4-milyon-dolar-kazand-93CH-4043621",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -547,6 +547,15 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/analyst-ratings/jones-trading-seaport-therapeutics-hissesi-icin-al-onerisi-verdi-93CH-4043631",
+        "investing:https://tr.investing.com/news/company-news/dwave-quantum-markovichin-emekliligiyle-golkovu-cfo-vekili-atad-93CH-4043630",
+        "investing:https://tr.investing.com/news/company-news/fm-bank-yonetim-kurulunda-degisiklik-acklad-93CH-4043629",
+        "investing:https://tr.investing.com/news/insider-trading-news/itron-ik-baskan-yardmcs-17584-dolarlk-hisse-satt-93CH-4043626",
+        "investing:https://tr.investing.com/news/insider-trading-news/diana-shipping-genco-shipping-hisselerini-3206-milyon-dolara-satt-93CH-4043627",
+        "investing:https://tr.investing.com/news/insider-trading-news/optum-ceosu-conway-unitedhealth-group-hisselerinden-455910-dolar-satt-93CH-4043625",
+        "investing:https://tr.investing.com/news/insider-trading-news/ajb-investment-fund-ii-lp-yonetici-olarak-20845-dolar-degerinde-hisse-ald-93CH-4043624",
+        "investing:https://tr.investing.com/news/world-news/japonyada-daire-fiyatlarn-sogutmak-icin-vergi-degisikligi-plan-93CH-4043623",
+        "investing:https://tr.investing.com/news/company-news/biohaven-ve-yale-ticari-sr-davasnda-4-milyon-dolar-kazand-93CH-4043621",
         "investing:https://tr.investing.com/news/company-news/renasant-catherine-mealoru-yeni-cfo-olarak-atad-93CH-4043620",
         "investing:https://tr.investing.com/news/insider-trading-news/kamu-politikas-holding-yoneticisi-22232-dolar-degerinde-hisse-satt-93CH-4043618",
         "investing:https://tr.investing.com/news/stock-market-news/seans-sonras-hareketler-intu-smtc-syre-zm-ncno-432SI-4043616",
@@ -986,8 +995,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:37b5c0278d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:0b8feb898d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:0b8feb898d9e8:0",
         "tradingview:fxstreet:37b5c0278d9e8:0",
         "tradingview:cointelegraph:a0f8eb541d9e8:0",
         "tradingview:fxstreet:a0b59278bd9e8:0",
@@ -1486,8 +1496,7 @@
         "tradingview:beincrypto:0725d1460d9e8:0",
         "tradingview:fxstreet:bd3790254d9e8:0",
         "tradingview:beincrypto:abf2ff655d9e8:0",
-        "tradingview:fxstreet:062305762d9e8:0",
-        "tradingview:fxstreet:8c127c233d9e8:0"
+        "tradingview:fxstreet:062305762d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1505,6 +1514,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin yuan abd dolar kars s nda 6 7000 odag nda yukselis egilimi uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:0b8feb898d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "ginkgo bioworks cfo su 2 302 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/ginkgo-bioworks-cfosu-2302-dolarlk-hisse-satt-93CH-4043649"
+    },
+    {
+      "source": "investing",
+      "text": "amazon web services ceo su matthew garman 3 77 milyon dolarl k amzn hissesi satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/amazon-web-services-ceosu-matthew-garman-377-milyon-dolarlk-amzn-hissesi-satt-93CH-4043648"
+    },
+    {
+      "source": "investing",
+      "text": "dynatrace hisseleri morgan stanley taraf ndan yukseltildi",
+      "link": "https://tr.investing.com/news/stock-market-news/dynatrace-hisseleri-morgan-stanley-tarafndan-yukseltildi-4043650"
+    },
+    {
+      "source": "investing",
+      "text": "boeing b 52 iyilestirmeleri 163 milyon dolarl k sozlesme ald",
+      "link": "https://tr.investing.com/news/stock-market-news/boeing-b52-iyilestirmeleri-icin-163-milyon-dolarlk-sozlesme-ald-93CH-4043644"
+    },
+    {
+      "source": "investing",
+      "text": "hertz car sales ikinci el araclara 3 y l garanti sunuyor",
+      "link": "https://tr.investing.com/news/company-news/hertz-car-sales-ikinci-el-araclara-3-yl-garanti-sunuyor-93CH-4043643"
+    },
+    {
+      "source": "investing",
+      "text": "franklin templeton 0 33 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/franklin-templeton-033-dolar-temettu-acklad-93CH-4043639"
+    },
+    {
+      "source": "investing",
+      "text": "northrop grumman 216 milyon dolarl k radar sozlesmesi kazand",
+      "link": "https://tr.investing.com/news/stock-market-news/northrop-grumman-216-milyon-dolarlk-radar-sozlesmesi-kazand-93CH-4043638"
+    },
+    {
+      "source": "investing",
+      "text": "kohl s arianne parisi yi musteri deneyimi direktoru atad",
+      "link": "https://tr.investing.com/news/company-news/kohls-arianne-parisiyi-musteri-deneyimi-direktoru-atad-93CH-4043636"
+    },
+    {
+      "source": "investing",
+      "text": "echostar n hughes anlasmalar sorusturma alt nda",
+      "link": "https://tr.investing.com/news/stock-market-news/echostarn-hughes-anlasmalar-sorusturma-altnda-93CH-4043633"
+    },
     {
       "source": "tradingview",
       "text": "yeni zelanda dolar cekingen abd dolar kars s nda yeni zirvelere yukseliyor",
@@ -8954,56 +9013,6 @@
       "source": "tradingview",
       "text": "ovp haz rl k cal smalar nda gelinen asama degerlendirildi politika oncelikleri makro tahminler butce buyuklukleri ele al nd ekk",
       "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44L0PR:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "empa elektronik sarpel yaklas k 80 milyon dolara yak n onumuzdeki iki seneye yay lm s net siparisler elimizde bulunuyor bloomberght",
-      "link": "https://tr.tradingview.com/news/matriks:6693965:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "empa elektronik sarpel karl l kta dusus asl nda tamamen enflasyon muhasebesi ilgili durum bloomberght",
-      "link": "https://tr.tradingview.com/news/matriks:6693963:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "empa elektrorik sarpel y l 4 milyar tl ciroyla kapatacag z bloomberght",
-      "link": "https://tr.tradingview.com/news/matriks:6693959:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n k r lma yukar yonlu ivmeyi surduruyor societe generale",
-      "link": "https://tr.tradingview.com/news/fxstreet:3769f10e1d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "japonya merkezli sbi fasset in 1 milyar dolar degerlemeye ulast g 68 milyon dolarl k turuna liderlik etti",
-      "link": "https://tr.tradingview.com/news/cointelegraph:fb5dfa05dd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiltere mezuniyet sonras is ilanlar y lda neredeyse yar yar ya azald bbc",
-      "link": "https://tr.tradingview.com/news/matriks:6693942:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ekonomi koordinasyon kurulu toplant s nda ovp haz rl klar degerlendirildi",
-      "link": "https://tr.tradingview.com/news/matriks:6693939:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ekonomi koordinasyon kurulu mali disiplinden taviz vermeden g konut basta olmak uzere arz yonlu politikalar m z n katk s butuncul cercevede enflasyonla mucadeleyi surdurecek kazan mlar m z guclendirerek sosyal refah art racag z",
-      "link": "https://tr.tradingview.com/news/matriks:6693934:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ekonomi koordinasyon kurulu ovp doneminde ekonomide donusum surdurulebilir buyume hedeflerimiz dogrultusunda verimliligi rekabet gucunu art ran yat r mlar uretimi istihdam ihracat destekleyen yap sal reformlar hayata gecirecegiz",
-      "link": "https://tr.tradingview.com/news/matriks:6693933:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ekonomi koordinasyon kurulu ovp hedeflerimize ulasmay saglayacak oncelikli yap sal politika alanlar tedbirler kurul uyeleriyle istisare edilmistir",
-      "link": "https://tr.tradingview.com/news/matriks:6693931:0"
     }
   ]
 }
