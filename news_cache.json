@@ -598,18 +598,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/tritax-big-box-yoneticileri-164-sterlinden-771195-hisse-ald-93CH-4044076",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/zoom-video-hissesi-bugun-neden-dusuyor-93CH-4044122",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/tritax-big-box-yoneticileri-164-sterlinden-771195-hisse-ald-93CH-4044076",
-        "investing:https://tr.investing.com/news/analyst-ratings/ubs-box-hissesi-icin-hedef-fiyat-37-dolara-yukseltti-93CH-4044074",
-        "investing:https://tr.investing.com/news/commodities-news/avrupa-gaz-ortadoguda-ateskes-umutlaryla-3-dustu-4044075",
-        "investing:https://tr.investing.com/news/company-news/vaneck-10-ucits-etf-icin-temettu-dagtm-acklad-93CH-4044069",
-        "investing:https://tr.investing.com/news/company-news/rockfire-resources-yoneticilere-400-milyon-hisse-opsiyonu-verdi-93CH-4044058",
-        "investing:https://tr.investing.com/news/company-news/churchill-china-james-roper-yeni-ceo-olarak-atad-93CH-4044053",
-        "investing:https://tr.investing.com/news/stock-market-news/softwareone-hissesi-bugun-neden-yukseldi-93CH-4044052",
-        "investing:https://tr.investing.com/news/analyst-ratings/piper-sandler-trupanion-hissesinin-notunu-dusurdu-93CH-4044035",
-        "investing:https://tr.investing.com/news/analyst-ratings/piper-sandler-neogen-hissesi-icin-not-yukseltmesi-yapt-93CH-4044034",
-        "investing:https://tr.investing.com/news/global-filings/anadolubank-150-milyon-dolarlk-tahvilin-3-kupon-odemesini-yapt-93CH-4044025",
+        "investing:https://tr.investing.com/news/stock-market-news/zoom-video-hissesi-bugun-neden-dusuyor-93CH-4044122",
+        "investing:https://tr.investing.com/news/stock-market-news/nvidiann-2c-sonuclarn-unutun-wall-street-bu-200-milyar-dolarlk-riski-izliyor-4044120",
+        "investing:https://tr.investing.com/news/stock-market-news/bhp-tarife-endiselerinin-sisirdigi-bakr-rallisinde-risk-altnda-93CH-4044110",
+        "investing:https://tr.investing.com/news/economy-news/tayland-merkez-bankas-zayf-buyume-ortamnda-faizi-yuzde-100de-tuttu-93CH-4044109",
+        "investing:https://tr.investing.com/news/company-news/ming-yang-smart-energy-ucuncu-yesil-tahvil-dilimini-ihrac-etti-93CH-4044108",
+        "investing:https://tr.investing.com/news/stock-market-news/intuit-hissesi-bugun-neden-dusuyor-93CH-4044107",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-alphabet-hissesi-icin-bulut-buyumesi-potansiyeline-dayanarak-notunu-yineledi-93CH-4044106",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-kamyon-karllgndaki-iyilesmeye-atfta-bulunarak-arcbest-hissesi-notunu-yineledi-93CH-4044105",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-nakliye-gorunumu-uzerine-knight-transportation-hisse-notunu-yineledi-93CH-4044104",
+        "investing:https://tr.investing.com/news/analyst-ratings/zymeworks-hissesi-icin-piyasadan-iyi-performans-notu-teyit-edildi-93CH-4044102",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -630,6 +630,16 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/company-news/tritax-big-box-yoneticileri-164-sterlinden-771195-hisse-ald-93CH-4044076",
+        "investing:https://tr.investing.com/news/analyst-ratings/ubs-box-hissesi-icin-hedef-fiyat-37-dolara-yukseltti-93CH-4044074",
+        "investing:https://tr.investing.com/news/commodities-news/avrupa-gaz-ortadoguda-ateskes-umutlaryla-3-dustu-4044075",
+        "investing:https://tr.investing.com/news/company-news/vaneck-10-ucits-etf-icin-temettu-dagtm-acklad-93CH-4044069",
+        "investing:https://tr.investing.com/news/company-news/rockfire-resources-yoneticilere-400-milyon-hisse-opsiyonu-verdi-93CH-4044058",
+        "investing:https://tr.investing.com/news/company-news/churchill-china-james-roper-yeni-ceo-olarak-atad-93CH-4044053",
+        "investing:https://tr.investing.com/news/stock-market-news/softwareone-hissesi-bugun-neden-yukseldi-93CH-4044052",
+        "investing:https://tr.investing.com/news/analyst-ratings/piper-sandler-trupanion-hissesinin-notunu-dusurdu-93CH-4044035",
+        "investing:https://tr.investing.com/news/analyst-ratings/piper-sandler-neogen-hissesi-icin-not-yukseltmesi-yapt-93CH-4044034",
+        "investing:https://tr.investing.com/news/global-filings/anadolubank-150-milyon-dolarlk-tahvilin-3-kupon-odemesini-yapt-93CH-4044025",
         "investing:https://tr.investing.com/news/global-filings/deniz-eko-enerji-100-milyon-tllik-finansman-bonosu-ihracn-tamamlad-93CH-4044008",
         "investing:https://tr.investing.com/news/global-filings/sdt-14-milyon-dolar-tutarnda-savunma-elektronigi-siparisi-ald-93CH-4044006",
         "investing:https://tr.investing.com/news/company-news/hammerson-ara-temettu-odemesi-icin-zar-doviz-kurunu-belirledi-93CH-4044002",
@@ -968,8 +978,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-acikladi-yavuz-sultan-selim-koprusu-138-milyar-lira-tasarruf-sagladi-1738989",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-34-milyon-arac-sahibini-ilgilendiriyor-sadece-5-gun-kaldi-1738998",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-34-milyon-arac-sahibini-ilgilendiriyor-sadece-5-gun-kaldi-1738998",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-acikladi-yavuz-sultan-selim-koprusu-138-milyar-lira-tasarruf-sagladi-1738989",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-ise-alimlar-basladi-275-kisi-secilecek-1738980",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-ve-gumus-fiyatlari-canli-26-agustos-gram-ve-ceyrek-altin-ne-kadar-gumus-gram-ne-kadar-oldu-1738968",
@@ -1248,8 +1259,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6698193:0",
+      "last_seen_key": "tradingview:matriks:6698260:0",
       "seen_keys": [
+        "tradingview:matriks:6698260:0",
+        "tradingview:matriks:6698258:0",
+        "tradingview:matriks:6698257:0",
+        "tradingview:matriks:6698255:0",
+        "tradingview:fxstreet:cbe602279d9e8:0",
+        "tradingview:matriks:6698251:0",
+        "tradingview:fxstreet:e359e78b2d9e8:0",
+        "tradingview:fxstreet:b5a08f237d9e8:0",
+        "tradingview:matriks:6698208:0",
         "tradingview:matriks:6698193:0",
         "tradingview:fxstreet:b71985c3dd9e8:0",
         "tradingview:fxstreet:ccabcf0e7d9e8:0",
@@ -1260,15 +1280,18 @@
         "tradingview:fxstreet:a8d469c1dd9e8:0",
         "tradingview:fxstreet:2e214f8cdd9e8:0",
         "tradingview:cointelegraph:e46256974d9e8:0",
+        "tradingview:beincrypto:287da14e4d9e8:0",
         "tradingview:matriks:6698095:0",
         "tradingview:matriks:6698091:0",
         "tradingview:matriks:6698090:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44N0I2:0",
         "tradingview:fxstreet:bdf7a39d0d9e8:0",
         "tradingview:fxstreet:88316913fd9e8:0",
+        "tradingview:matriks:6698075:0",
         "tradingview:matriks:6698071:0",
         "tradingview:matriks:6698062:0",
         "tradingview:fxstreet:c13bf9455d9e8:0",
+        "tradingview:beincrypto:48748495ed9e8:0",
         "tradingview:matriks:6698040:0",
         "tradingview:matriks:6698039:0",
         "tradingview:matriks:6698031:0",
@@ -1288,7 +1311,9 @@
         "tradingview:fxstreet:f54526dd6d9e8:0",
         "tradingview:matriks:6697905:0",
         "tradingview:matriks:6697904:0",
+        "tradingview:matriks:6697901:0",
         "tradingview:fxstreet:d511b1034d9e8:0",
+        "tradingview:matriks:6697898:0",
         "tradingview:fxstreet:2c84bb3dfd9e8:0",
         "tradingview:matriks:6697874:0",
         "tradingview:matriks:6697875:0",
@@ -1301,6 +1326,7 @@
         "tradingview:matriks:6697828:0",
         "tradingview:beincrypto:21b909210d9e8:0",
         "tradingview:cointelegraph:377dc4d9dd9e8:0",
+        "tradingview:matriks:6697813:0",
         "tradingview:fxstreet:4f425fe07d9e8:0",
         "tradingview:matriks:6697797:0",
         "tradingview:matriks:6697793:0",
@@ -1734,22 +1760,7 @@
         "tradingview:matriks:6695998:0",
         "tradingview:cointelegraph:1ad1bad01d9e8:0",
         "tradingview:beincrypto:446d46aecd9e8:0",
-        "tradingview:fxstreet:3bb84c234d9e8:0",
-        "tradingview:matriks:6695977:0",
-        "tradingview:fxstreet:bef7f8b43d9e8:0",
-        "tradingview:fxstreet:f3192b3dbd9e8:0",
-        "tradingview:matriks:6695936:0",
-        "tradingview:matriks:6695925:0",
-        "tradingview:fxstreet:dc3495c31d9e8:0",
-        "tradingview:fxstreet:f5d6b52a7d9e8:0",
-        "tradingview:fxstreet:f6679f15fd9e8:0",
-        "tradingview:matriks:6695886:0",
-        "tradingview:matriks:6695877:0",
-        "tradingview:fxstreet:a6f261184d9e8:0",
-        "tradingview:matriks:6695866:0",
-        "tradingview:beincrypto:ef2d3cd8ed9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44M0G8:0",
-        "tradingview:fxstreet:327c1799bd9e8:0"
+        "tradingview:fxstreet:3bb84c234d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1770,6 +1781,106 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ticaret bakan bolat turkiye suriye ticaret sanayi odalar aras nda cok say isbirligi anlasmalar imzaland bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6698260:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ticaret bakan omer bolat suriye her konuda yak n is birlikleri icerisindeyiz bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6698258:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ticaret bakan omer bolat bolgesel savaslar jeopolitik gerilimlerle kuresel ticaret s k nt l donemden geciyor bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6698257:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ticaret bakan omer bolat yaklas k 33 firmam z uluslararas sam fuar nda yerimizi alacag z bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6698255:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "macar forinti toparlanma euroya giris hikayesine bagl ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:cbe602279d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kuresel k tipi buyume yeni teknoloji kosarken eski ekonomi yuruyor oyak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6698251:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat bugun fxstreet verilerine gore gumus fiyat dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:e359e78b2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi veriler zay f kal rken aral kta islem gorme suruyor dbs",
+      "link": "https://tr.tradingview.com/news/fxstreet:b5a08f237d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "intetra teknoloji halka arz nda talep toplama baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6698208:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "34 milyon arac sahibini ilgilendiriyor sadece 5 gun kald trafikteki 34 7 milyon arac sahibini ilgilendiren duzenlemenin devreye girmesine 5 gun kald bundan sonraki surecte vekaletle is takibi yapma sona eriyor",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-34-milyon-arac-sahibini-ilgilendiriyor-sadece-5-gun-kaldi-1738998"
+    },
+    {
+      "source": "investing",
+      "text": "zoom video hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/zoom-video-hissesi-bugun-neden-dusuyor-93CH-4044122"
+    },
+    {
+      "source": "investing",
+      "text": "nvidia n n 2c sonuclar n unutun wall street 200 milyar dolarl k riski izliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/nvidiann-2c-sonuclarn-unutun-wall-street-bu-200-milyar-dolarlk-riski-izliyor-4044120"
+    },
+    {
+      "source": "investing",
+      "text": "bhp tarife endiselerinin sisirdigi bak r rallisinde risk alt nda",
+      "link": "https://tr.investing.com/news/stock-market-news/bhp-tarife-endiselerinin-sisirdigi-bakr-rallisinde-risk-altnda-93CH-4044110"
+    },
+    {
+      "source": "investing",
+      "text": "tayland merkez bankas zay f buyume ortam nda faizi yuzde 1 00 tuttu",
+      "link": "https://tr.investing.com/news/economy-news/tayland-merkez-bankas-zayf-buyume-ortamnda-faizi-yuzde-100de-tuttu-93CH-4044109"
+    },
+    {
+      "source": "investing",
+      "text": "ming yang smart energy ucuncu yesil tahvil dilimini ihrac etti",
+      "link": "https://tr.investing.com/news/company-news/ming-yang-smart-energy-ucuncu-yesil-tahvil-dilimini-ihrac-etti-93CH-4044108"
+    },
+    {
+      "source": "investing",
+      "text": "intuit hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/intuit-hissesi-bugun-neden-dusuyor-93CH-4044107"
+    },
+    {
+      "source": "investing",
+      "text": "citizens alphabet hissesi bulut buyumesi potansiyeline dayanarak notunu yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-alphabet-hissesi-icin-bulut-buyumesi-potansiyeline-dayanarak-notunu-yineledi-93CH-4044106"
+    },
+    {
+      "source": "investing",
+      "text": "citizens kamyon karl l g ndaki iyilesmeye at fta bulunarak arcbest hissesi notunu yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-kamyon-karllgndaki-iyilesmeye-atfta-bulunarak-arcbest-hissesi-notunu-yineledi-93CH-4044105"
+    },
+    {
+      "source": "investing",
+      "text": "citizens nakliye gorunumu uzerine knight transportation hisse notunu yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-nakliye-gorunumu-uzerine-knight-transportation-hisse-notunu-yineledi-93CH-4044104"
+    },
+    {
+      "source": "investing",
+      "text": "zymeworks hissesi piyasadan iyi performans notu teyit edildi",
+      "link": "https://tr.investing.com/news/analyst-ratings/zymeworks-hissesi-icin-piyasadan-iyi-performans-notu-teyit-edildi-93CH-4044102"
+    },
     {
       "source": "bloomberght",
       "text": "fitch cin yeniden deflasyon riski bulunuyor uluslararas kredi derecelendirme kurulusu fitch ratings cin ekonomisinde deflasyon bask lar hafiflese zay f ic talebin fiyatlar uzerinde asag yonlu bask olusturmaya devam edebilecegini bildirdi",
@@ -9169,106 +9280,6 @@
       "source": "investing",
       "text": "matson evp vic angoco 510 784 dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/matson-evp-vic-angoco-510784-dolarlk-hisse-satt-93CH-4042178"
-    },
-    {
-      "source": "investing",
-      "text": "community west bancshares yoneticisi lokey 1 405 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/community-west-bancshares-yoneticisi-lokey-1405-dolar-degerinde-hisse-ald-93CH-4042176"
-    },
-    {
-      "source": "investing",
-      "text": "trinet group svp majalya 53 110 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/trinet-group-svp-majalya-53110-dolarlk-hisse-satt-93CH-4042175"
-    },
-    {
-      "source": "investing",
-      "text": "xos coo sordoni 197 549 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/xos-coo-sordoni-197549-dolarlk-hisse-satt-93CH-4042174"
-    },
-    {
-      "source": "investing",
-      "text": "alkermes in narkolepsi ilac faz 2 denemesinde olumlu sonuc verdi",
-      "link": "https://tr.investing.com/news/company-news/alkermesin-narkolepsi-ilac-faz-2-denemesinde-olumlu-sonuc-verdi-93CH-4042172"
-    },
-    {
-      "source": "investing",
-      "text": "appfolio yoneticisi maurice duca 2 15 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/appfolio-yoneticisi-maurice-duca-215-milyon-dolarlk-hisse-satt-93CH-4042171"
-    },
-    {
-      "source": "tradingview",
-      "text": "cin yuan abd dolar kars s nda 6 7200 hedefleniyor uob",
-      "link": "https://tr.tradingview.com/news/fxstreet:c1ff12d9fd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "eur jpy fiyat analizi mudahale endiseleri aras nda al c lar 187 seviyesinde zorlan yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:fe903ebd7d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "honest company ceo su carla vernon 588 286 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/honest-company-ceosu-carla-vernon-588286-dolar-degerinde-hisse-satt-93CH-4042169"
-    },
-    {
-      "source": "investing",
-      "text": "globalstar yoneticisi benjamin wolff 1 64 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/globalstar-yoneticisi-benjamin-wolff-164-milyon-dolarlk-hisse-satt-93CH-4042168"
-    },
-    {
-      "source": "investing",
-      "text": "peoples financial ceo su swetman 23 250 dolar degerinde pfbx hissesi ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/peoples-financial-ceosu-swetman-23250-dolar-degerinde-pfbx-hissesi-ald-93CH-4042167"
-    },
-    {
-      "source": "investing",
-      "text": "mcewen shaver n yerine uc yoneticiyi terfi ettirdi",
-      "link": "https://tr.investing.com/news/company-news/mcewen-shavern-yerine-uc-yoneticiyi-terfi-ettirdi-93CH-4042166"
-    },
-    {
-      "source": "tradingview",
-      "text": "gbp jpy fiyat analizi rsi duraklarken 217 00 al c lar s n rl yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:7c70d57ead9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "honest company tedarik zinciri baskan yard mc s 35 994 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/honest-company-tedarik-zinciri-baskan-yardmcs-35994-dolarlk-hisse-satt-93CH-4042165"
-    },
-    {
-      "source": "investing",
-      "text": "honest company nin svp si mayle 30 743 dolar hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/honest-companynin-svpsi-mayle-30743-dolar-hisse-satt-93CH-4042164"
-    },
-    {
-      "source": "investing",
-      "text": "goosehead insurance yoneticisi 490 000 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/goosehead-insurance-yoneticisi-490000-dolar-degerinde-hisse-satt-93CH-4042163"
-    },
-    {
-      "source": "investing",
-      "text": "nexstar medya direktoru aulestia 56 040 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/nexstar-medya-direktoru-aulestia-56040-dolar-degerinde-hisse-satt-93CH-4042162"
-    },
-    {
-      "source": "investing",
-      "text": "la rosa holdings nasdaq uyumlulugunu yeniden saglad",
-      "link": "https://tr.investing.com/news/company-news/la-rosa-holdings-nasdaq-uyumlulugunu-yeniden-saglad-93CH-4042161"
-    },
-    {
-      "source": "investing",
-      "text": "morningstar yonetim kurulu baskan 1 24 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/morningstar-yonetim-kurulu-baskan-124-milyon-dolarlk-hisse-satt-93CH-4042160"
-    },
-    {
-      "source": "investing",
-      "text": "cirrus logic evp jeffrey baumgartner 137 459 dolarl k crus hissesi satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/cirrus-logic-evp-jeffrey-baumgartner-137459-dolarlk-crus-hissesi-satt-93CH-4042159"
-    },
-    {
-      "source": "tradingview",
-      "text": "guney kore wonu ralli politika haftas nda konsolidasyon riskiyle kars kars ya ocbc",
-      "link": "https://tr.tradingview.com/news/fxstreet:20dd563c1d9e8:0"
     }
   ]
 }
