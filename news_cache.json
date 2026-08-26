@@ -523,8 +523,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/sk-biopharmaceuticals-hissesi-neden-yukseliyor-93CH-4043764",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/adani-energy-solutions-hissesi-bugun-neden-yukseliyor-93CH-4043768",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/adani-energy-solutions-hissesi-bugun-neden-yukseliyor-93CH-4043768",
+        "investing:https://tr.investing.com/news/stock-market-news/haidilao-hissesi-bugun-neden-yukseldi-93CH-4043767",
+        "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-abd-pce-enflasyonu-oncesi-karsk-seyretti-4043766",
         "investing:https://tr.investing.com/news/stock-market-news/sk-biopharmaceuticals-hissesi-neden-yukseliyor-93CH-4043764",
         "investing:https://tr.investing.com/news/stock-market-news/jiangxi-copper-hisseleri-neden-yukseliste-93CH-4043763",
         "investing:https://tr.investing.com/news/insider-trading-news/tela-bio-ceosu-heather-getz-8311-dolarlk-hisse-satn-ald-93CH-4043761",
@@ -532,9 +535,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/interface-baskan-yardmcs-blackorby-110807-dolar-degerinde-hisse-satt-93CH-4043760",
         "investing:https://tr.investing.com/news/stock-market-news/sk-biopharmaceuticals-epilepsi-ilac-icin-lisans-anlasmas-imzalad-93CH-4043758",
         "investing:https://tr.investing.com/news/stock-market-news/worley-hissesi-bugun-neden-dusuyor-93CH-4043756",
-        "investing:https://tr.investing.com/news/stock-market-news/worleyin-yllk-kar-yeniden-yaplanma-ve-ortadogu-sorunlaryla-35-dustu-93CH-4043755",
-        "investing:https://tr.investing.com/news/stock-market-news/jack-mann-76-milyon-dolarlk-alm-alibaba-hisselerini-yukseltti-4043754",
-        "investing:https://tr.investing.com/news/stock-market-news/worley-abdde-veri-merkezi-projeleri-icin-uc-sozlesme-kazand-93CH-4043752",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -555,6 +555,9 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/stock-market-news/worleyin-yllk-kar-yeniden-yaplanma-ve-ortadogu-sorunlaryla-35-dustu-93CH-4043755",
+        "investing:https://tr.investing.com/news/stock-market-news/jack-mann-76-milyon-dolarlk-alm-alibaba-hisselerini-yukseltti-4043754",
+        "investing:https://tr.investing.com/news/stock-market-news/worley-abdde-veri-merkezi-projeleri-icin-uc-sozlesme-kazand-93CH-4043752",
         "investing:https://tr.investing.com/news/stock-market-news/woolworths-hisseleri-bugun-neden-yukseliste-93CH-4043751",
         "investing:https://tr.investing.com/news/stock-market-news/alibaba-hisseleri-neden-yukseliste-93CH-4043749",
         "investing:https://tr.investing.com/news/stock-market-news/asya-cip-hisseleri-nvidia-kazanc-raporundan-once-toparland-4043748",
@@ -1078,14 +1081,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6697375:0",
+      "last_seen_key": "tradingview:fxstreet:566927c0bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:566927c0bd9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44N07X:0",
+        "tradingview:fxstreet:789a6cbc3d9e8:0",
+        "tradingview:matriks:6697376:0",
         "tradingview:matriks:6697375:0",
         "tradingview:matriks:6697373:0",
         "tradingview:fxstreet:a3f7a369fd9e8:0",
         "tradingview:fxstreet:d60943011d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44N07L:0",
         "tradingview:fxstreet:2b1219a42d9e8:0",
+        "tradingview:beincrypto:783357e0fd9e8:0",
         "tradingview:matriks:6697369:0",
         "tradingview:matriks:6697368:0",
         "tradingview:matriks:6697367:0",
@@ -1574,12 +1582,7 @@
         "tradingview:beincrypto:829add760d9e8:0",
         "tradingview:matriks:6695093:0",
         "tradingview:matriks:6695092:0",
-        "tradingview:matriks:6695090:0",
-        "tradingview:matriks:6695088:0",
-        "tradingview:matriks:6695087:0",
-        "tradingview:matriks:6695086:0",
-        "tradingview:beincrypto:81b65c05bd9e8:0",
-        "tradingview:matriks:6695085:0"
+        "tradingview:matriks:6695090:0"
       ]
     },
     "forexfactory": {
@@ -1600,6 +1603,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "asya hisse senedi piyasalar petrolun dususunu surdurmesiyle yukseliyor gozler jackson hall sempozyumu nda",
+      "link": "https://tr.tradingview.com/news/fxstreet:566927c0bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44N07X:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti fiyat analizi 50 fibo seviyesinin alt na k r lmas yla birlikte 80 00 seviyesinin alt nda k r lgan gorunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:789a6cbc3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bugun piyasalar n odag nda abd verileri nvidia bilancosu bulunuyor ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6697376:0"
+    },
+    {
+      "source": "investing",
+      "text": "adani energy solutions hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/adani-energy-solutions-hissesi-bugun-neden-yukseliyor-93CH-4043768"
+    },
+    {
+      "source": "investing",
+      "text": "haidilao hissesi bugun neden yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/haidilao-hissesi-bugun-neden-yukseldi-93CH-4043767"
+    },
+    {
+      "source": "investing",
+      "text": "asya dovizleri abd pce enflasyonu oncesi kar s k seyretti",
+      "link": "https://tr.investing.com/news/forex-news/asya-dovizleri-abd-pce-enflasyonu-oncesi-karsk-seyretti-4043766"
+    },
     {
       "source": "tradingview",
       "text": "bulten alnus yat r m",
@@ -9064,41 +9102,6 @@
       "source": "investing",
       "text": "etiler g 4 5 milyon tl nakit kar pay dag t m onerdi",
       "link": "https://tr.investing.com/news/global-filings/etiler-gda-45-milyon-tl-nakit-kar-pay-dagtm-onerdi-93CH-4041781"
-    },
-    {
-      "source": "investing",
-      "text": "keybanc servicetitan hissesi hedefini korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/keybanc-servicetitan-hissesi-icin-hedefini-korudu-93CH-4041779"
-    },
-    {
-      "source": "investing",
-      "text": "piper sandler walmart ivmesiyle vita coco hisse notunu korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/piper-sandler-walmart-ivmesiyle-vita-coco-hisse-notunu-korudu-93CH-4041778"
-    },
-    {
-      "source": "investing",
-      "text": "piper sandler cfo haberi sonras skyward hisse notunu korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/piper-sandler-cfo-haberi-sonras-skyward-hisse-notunu-korudu-93CH-4041777"
-    },
-    {
-      "source": "investing",
-      "text": "greenland mines sarfartoq nadir toprak kaynak tahminini ac klad",
-      "link": "https://tr.investing.com/news/company-news/greenland-mines-sarfartoq-icin-nadir-toprak-kaynak-tahminini-acklad-93CH-4041776"
-    },
-    {
-      "source": "kap",
-      "text": "hdffl pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 3 kupon oran n n belirlenmesi sirket hedef arac kiralama servis a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654516"
-    },
-    {
-      "source": "kap",
-      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren tmks tera bank ikinci varl k finansman fonu vdmk itfas sirket birlesik ipotek finansmani a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654514"
-    },
-    {
-      "source": "kap",
-      "text": "akcvr brkvy deva emvar enjsa isatr kfilo ksfin ktsvk otkar qnbin tmks borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654512"
     }
   ]
 }
