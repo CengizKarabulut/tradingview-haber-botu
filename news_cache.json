@@ -1387,8 +1387,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:6a00e3088d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:8cc28152ad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:8cc28152ad9e8:0",
+        "tradingview:fxstreet:d1ee942efd9e8:0",
+        "tradingview:fxstreet:67977e68cd9e8:0",
         "tradingview:beincrypto:6a00e3088d9e8:0",
         "tradingview:beincrypto:52d383a7fd9e8:0",
         "tradingview:beincrypto:720cb968bd9e8:0",
@@ -1885,10 +1888,7 @@
         "tradingview:fxstreet:5e4a98943d9e8:0",
         "tradingview:fxstreet:5e9e0d0e0d9e8:0",
         "tradingview:fxstreet:9e6b3ed5fd9e8:0",
-        "tradingview:fxstreet:d5b2a3038d9e8:0",
-        "tradingview:fxstreet:a1a335807d9e8:0",
-        "tradingview:fxstreet:7bc9ce377d9e8:0",
-        "tradingview:fxstreet:0cc12d285d9e8:0"
+        "tradingview:fxstreet:d5b2a3038d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1911,6 +1911,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini amerikan verilerinin b rakt g yerde aniden duruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:8cc28152ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ons alt n abd pce verilerinin ard ndan uc ayl k zirveden 4 600 dolar seviyesine yak n geri cekildi",
+      "link": "https://tr.tradingview.com/news/fxstreet:d1ee942efd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar rba faiz art r m beklentilerinin abd verilerini dengelemesiyle rallisini genisletiyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:67977e68cd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "ai veri merkezi tart smas siyasetin odag nda ara secimler dengeleri degistirir",
@@ -9395,21 +9410,6 @@
       "source": "kap",
       "text": "hdffl pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trshdakk2717 isin kodlu tahvil ihrac n n 3 kupon odemesi hakk nda sirket hedef arac kiralama servis a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1654782"
-    },
-    {
-      "source": "kap",
-      "text": "tera tra halka arz islemlerinde sermaye piyasas arac n n 5 inden fazlas n sat n alanlara iliskin bildirim cvk maden isletmeleri sanayi ticaret a s paylar n n halka arz nda 5 ten fazla pay alan yat r mc listesi sirket tera yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654781"
-    },
-    {
-      "source": "tradingview",
-      "text": "societe generale abd 10 y ll k faizi 50 60 bp daha yukselirse tahviller hisselere ciddi rakip olabilir rapor",
-      "link": "https://tr.tradingview.com/news/matriks:6696132:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "s p 500 hisse teknik gostergeleri gedik yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6696124:0"
     }
   ]
 }
