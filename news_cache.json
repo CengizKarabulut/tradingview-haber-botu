@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655070",
+      "last_seen_key": "kap:1655077",
       "seen_keys": [
+        "kap:1655077",
+        "kap:1655076",
         "kap:1655070",
         "kap:1655069",
         "kap:1655068",
@@ -501,9 +503,7 @@
         "kap:1654283",
         "kap:1654282",
         "kap:1654281",
-        "kap:1654280",
-        "kap:1654279",
-        "kap:1654344"
+        "kap:1654280"
       ]
     },
     "bloomberght": {
@@ -1246,9 +1246,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:2055175d5d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:a3f4a5e4cd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:a3f4a5e4cd9e8:0",
         "tradingview:fxstreet:2055175d5d9e8:0",
+        "tradingview:cointelegraph:e32c040f6d9e8:0",
+        "tradingview:cointelegraph:685c89263d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44N0QO:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44N0L2:0",
         "tradingview:matriks:6698356:0",
@@ -1744,10 +1747,7 @@
         "tradingview:matriks:6696171:0",
         "tradingview:fxstreet:b1a75522cd9e8:0",
         "tradingview:beincrypto:a8622c615d9e8:0",
-        "tradingview:cointelegraph:dfa0c9403d9e8:0",
-        "tradingview:matriks:6696146:0",
-        "tradingview:matriks:6696135:0",
-        "tradingview:matriks:6696132:0"
+        "tradingview:cointelegraph:dfa0c9403d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1768,6 +1768,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gbp usd fiyat analizi 1 3660 direncinde basar s zl g n ard ndan hafta ici yeni dip seviyelere ulast",
+      "link": "https://tr.tradingview.com/news/fxstreet:a3f4a5e4cd9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "info iyf izahname sermaye piyasas arac notu spk taraf ndan onaylanan yat r m kurulusu varant sertifikas ihrac na iliskin sermaye piyasas arac notu sirket info yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655077"
+    },
+    {
+      "source": "kap",
+      "text": "info iyf izahname ozet spk taraf ndan onaylanan yat r m kurulusu varant sertifikas ihrac na iliskin ozet sirket info yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655076"
+    },
     {
       "source": "tradingview",
       "text": "usd cad fiyat analizi abd kanada ticaret anlasmazl g n n etkisiyle 20 gunluk ema ya yaklas yor",
@@ -9252,21 +9267,6 @@
       "source": "investing",
       "text": "tokio marine berkshire n hisse al m n n ard ndan suncorp u degerlendiriyor",
       "link": "https://tr.investing.com/news/stock-market-news/tokio-marine-berkshiren-hisse-almnn-ardndan-suncorpu-degerlendiriyor-4042243"
-    },
-    {
-      "source": "investing",
-      "text": "coles hisseleri neden bugun yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/coles-hisseleri-neden-bugun-yukseliyor-93CH-4042241"
-    },
-    {
-      "source": "investing",
-      "text": "aub hissesi bugun neden yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/aub-hissesi-bugun-neden-yukseldi-93CH-4042239"
-    },
-    {
-      "source": "investing",
-      "text": "rba agustos toplant s nda faiz art r m n tart st",
-      "link": "https://tr.investing.com/news/economic-indicators/rba-tutanaklar-faiz-artrmnn-tartsldgn-gosteriyor-4042240"
     }
   ]
 }
