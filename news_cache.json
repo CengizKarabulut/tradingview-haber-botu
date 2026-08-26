@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655238",
+      "last_seen_key": "kap:1655241",
       "seen_keys": [
+        "kap:1655241",
+        "kap:1655240",
+        "kap:1655239",
         "kap:1655238",
         "kap:1655237",
         "kap:1655236",
@@ -500,10 +503,7 @@
         "kap:1654460",
         "kap:1654459",
         "kap:1654458",
-        "kap:1654556",
-        "kap:1654454",
-        "kap:1654452",
-        "kap:1654450"
+        "kap:1654556"
       ]
     },
     "bloomberght": {
@@ -586,18 +586,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/xenon-pharmaceuticals-kongrede-epilepsi-ilac-verilerini-sunacak-93CH-4045187",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/hp-hissesi-bugun-neden-dusuyor-93CH-4045284",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/xenon-pharmaceuticals-kongrede-epilepsi-ilac-verilerini-sunacak-93CH-4045187",
-        "investing:https://tr.investing.com/news/company-news/industrial-physics-vitreki-satn-ald-93CH-4045186",
-        "investing:https://tr.investing.com/news/company-news/nyse-natuzzi-adslerini-piyasa-degeri-dususu-nedeniyle-listeden-ckaracak-93CH-4045184",
-        "investing:https://tr.investing.com/news/company-news/hanover-bancorp-hisse-geri-alm-programn-onaylad-93CH-4045185",
-        "investing:https://tr.investing.com/news/insider-trading-news/virtus-ai--teknoloji-fonu-pmi-jue-263091-dolar-hisse-satt-93CH-4045182",
-        "investing:https://tr.investing.com/news/stock-market-news/td-cowen-artan-yakt-maliyetleri-arasnda-en-iyi-havayolu-hisselerini-acklad-93CH-4045180",
-        "investing:https://tr.investing.com/news/transcripts/richardson-electronics-midwest-ideasta-buyume-plan-ivme-kazanyor-93CH-4045179",
-        "investing:https://tr.investing.com/news/economy-news/meksika-merkez-bankas-2026-buyume-tahminini-yukseltti-93CH-4045176",
-        "investing:https://tr.investing.com/news/stock-market-news/sembcorp-green-infra-hindistanda-393-milyon-dolarlk-halka-arz-basvurusu-yapt-93CH-4045175",
-        "investing:https://tr.investing.com/news/company-news/news-corp-hissesi-3532-dolarlk-zirveye-ulast-93CH-4045174",
+        "investing:https://tr.investing.com/news/stock-market-news/hp-hissesi-bugun-neden-dusuyor-93CH-4045284",
+        "investing:https://tr.investing.com/news/stock-market-news/salesforce-hisseleri-neden-bugun-yukseliyor-93CH-4045282",
+        "investing:https://tr.investing.com/news/stock-market-news/nvidia-hissesi-mesai-sonras-neden-dusuyor-93CH-4045280",
+        "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-hissesi-bugun-neden-yukseldi-93CH-4045277",
+        "investing:https://tr.investing.com/news/company-news/xcel-energy-xostan-uc-mobil-sarj-unitesi-daha-siparis-etti-93CH-4045276",
+        "investing:https://tr.investing.com/news/company-news/granite-seattle-yuruyus-yolu-projesi-icin-123-milyon-dolarlk-sozlesme-kazand-93CH-4045275",
+        "investing:https://tr.investing.com/news/company-news/arcline-astronovay-hisse-basna-29-dolar-karslgnda-satn-ald-93CH-4045274",
+        "investing:https://tr.investing.com/news/company-news/invitation-homes-teknoloji-direktorlugune-james-curlu-atad-93CH-4045273",
+        "investing:https://tr.investing.com/news/company-news/american-resources-nasdaqtan-uyumsuzluk-bildirimi-ald-93CH-4045272",
+        "investing:https://tr.investing.com/news/company-news/ametek-5-milyar-dolarlk-indicor-instrumentation-satn-almn-tamamlad-93CH-4045271",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -618,6 +618,16 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/company-news/xenon-pharmaceuticals-kongrede-epilepsi-ilac-verilerini-sunacak-93CH-4045187",
+        "investing:https://tr.investing.com/news/company-news/industrial-physics-vitreki-satn-ald-93CH-4045186",
+        "investing:https://tr.investing.com/news/company-news/nyse-natuzzi-adslerini-piyasa-degeri-dususu-nedeniyle-listeden-ckaracak-93CH-4045184",
+        "investing:https://tr.investing.com/news/company-news/hanover-bancorp-hisse-geri-alm-programn-onaylad-93CH-4045185",
+        "investing:https://tr.investing.com/news/insider-trading-news/virtus-ai--teknoloji-fonu-pmi-jue-263091-dolar-hisse-satt-93CH-4045182",
+        "investing:https://tr.investing.com/news/stock-market-news/td-cowen-artan-yakt-maliyetleri-arasnda-en-iyi-havayolu-hisselerini-acklad-93CH-4045180",
+        "investing:https://tr.investing.com/news/transcripts/richardson-electronics-midwest-ideasta-buyume-plan-ivme-kazanyor-93CH-4045179",
+        "investing:https://tr.investing.com/news/economy-news/meksika-merkez-bankas-2026-buyume-tahminini-yukseltti-93CH-4045176",
+        "investing:https://tr.investing.com/news/stock-market-news/sembcorp-green-infra-hindistanda-393-milyon-dolarlk-halka-arz-basvurusu-yapt-93CH-4045175",
+        "investing:https://tr.investing.com/news/company-news/news-corp-hissesi-3532-dolarlk-zirveye-ulast-93CH-4045174",
         "investing:https://tr.investing.com/news/analyst-ratings/bofa-pinduoduo-icin-hisse-hedefini-marj-iyilesmesiyle-yukseltti-93CH-4045148",
         "investing:https://tr.investing.com/news/stock-market-news/trump-yonetimi-biyoteknoloji-sirketleriyle-ilac-fiyat-anlasmas-acklayacak-93CH-4045147",
         "investing:https://tr.investing.com/news/company-news/roche-gastrik-kanserlerde-her2-testleri-icin-fda-onay-ald-93CH-4045146",
@@ -1077,17 +1087,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/gaia-yonetim-kurulu-uyesi-paul-sutherland-3637-dolarlk-a-snf-hisse-ald-93CH-4043272",
         "investing:https://tr.investing.com/news/stock-market-news/rezolve-ai-hissesi-bugun-neden-yukseliyor-93CH-4043270",
         "investing:https://tr.investing.com/news/stock-market-news/sandvik-hisseleri-neden-yukseliyor-93CH-4043266",
-        "investing:https://tr.investing.com/news/analyst-ratings/biogenin-vault-crm-secimi-veeva-hisselerini-yukseltti-93CH-4043263",
-        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-masco-hissesi-icin-kapsam-baslatt-93CH-4043262",
-        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-palo-alto-networks-icin-hedef-fiyat-yukseltti-93CH-4043261",
-        "investing:https://tr.investing.com/news/company-news/maison-solutions-nasdaqtan-uyumsuzluk-bildirimi-ald-93CH-4043253",
-        "investing:https://tr.investing.com/news/stock-market-news/bytedance-brezilyada-genclerin-verileri-nedeniyle-30-milyon-dolar-ceza-ald-93CH-4043157",
-        "investing:https://tr.investing.com/news/insider-trading-news/t-stamp-ceosu-gareth-genner-6420-dolar-degerinde-a-snf-hisse-ald-93CH-4043147",
-        "investing:https://tr.investing.com/news/economic-indicators/abdde-ozel-sektor-istihdam-haftalk-ortalama-11750-artt-4043163",
-        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-zoetisin-hisse-hedefini-dusurdu-93CH-4043133",
-        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-iovance-biotherapeutics-icin-hedef-fiyat-yukseltti-93CH-4043132",
-        "investing:https://tr.investing.com/news/stock-market-news/abdde-barclaysin-en-cok-tercih-ettigi-otomotiv-hissesi-93CH-4043127",
-        "investing:https://tr.investing.com/news/investment-ideas/uc-haneli-getiriyi-cebe-koyduktan-sonra-akll-para-nereye-yoneliyor-4043126"
+        "investing:https://tr.investing.com/news/analyst-ratings/biogenin-vault-crm-secimi-veeva-hisselerini-yukseltti-93CH-4043263"
       ]
     },
     "ntvpara": {
@@ -1381,13 +1381,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:ec340e773d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:a4c8be90ed9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:a4c8be90ed9e8:0",
+        "tradingview:cointelegraph:454b9f8aed9e8:0",
         "tradingview:fxstreet:ec340e773d9e8:0",
         "tradingview:fxstreet:b3ee51800d9e8:0",
         "tradingview:fxstreet:d960c7d6ad9e8:0",
         "tradingview:fxstreet:70216c6bdd9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:beincrypto:bb3a0e29ed9e8:0",
         "tradingview:fxstreet:6f60eebd9d9e8:0",
         "tradingview:fxstreet:f26c45193d9e8:0",
         "tradingview:fxstreet:22f5aa649d9e8:0",
@@ -1468,6 +1471,16 @@
         "tradingview:matriks:6698967:0",
         "tradingview:fxstreet:bb94e811bd9e8:0",
         "tradingview:beincrypto:35df827b5d9e8:0",
+        "tradingview:matriks:6698954:0",
+        "tradingview:matriks:6698946:0",
+        "tradingview:matriks:6698945:0",
+        "tradingview:matriks:6698941:0",
+        "tradingview:matriks:6698940:0",
+        "tradingview:matriks:6698944:0",
+        "tradingview:matriks:6698943:0",
+        "tradingview:matriks:6698942:0",
+        "tradingview:matriks:6698931:0",
+        "tradingview:matriks:6698927:0",
         "tradingview:fxstreet:9ac487e3dd9e8:0",
         "tradingview:fxstreet:dc6566b87d9e8:0",
         "tradingview:matriks:6698882:0",
@@ -1869,20 +1882,7 @@
         "tradingview:fxstreet:37b5c0278d9e8:0",
         "tradingview:cointelegraph:a0f8eb541d9e8:0",
         "tradingview:fxstreet:a0b59278bd9e8:0",
-        "tradingview:beincrypto:7d2fce378d9e8:0",
-        "tradingview:beincrypto:0f3eae9fbd9e8:0",
-        "tradingview:fxstreet:494f98517d9e8:0",
-        "tradingview:fxstreet:399b6a8cfd9e8:0",
-        "tradingview:matriks:6697184:0",
-        "tradingview:fxstreet:ce8f020b0d9e8:0",
-        "tradingview:fxstreet:3b882d7a4d9e8:0",
-        "tradingview:fxstreet:f3f56f901d9e8:0",
-        "tradingview:beincrypto:91349e266d9e8:0",
-        "tradingview:fxstreet:d0da0e9d3d9e8:0",
-        "tradingview:fxstreet:9bf7bb232d9e8:0",
-        "tradingview:fxstreet:f0070f68ad9e8:0",
-        "tradingview:cointelegraph:3f413e9a3d9e8:0",
-        "tradingview:cointelegraph:d6be2f67ed9e8:0"
+        "tradingview:beincrypto:7d2fce378d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1905,6 +1905,81 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni tokyo tufe oncesinde geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:a4c8be90ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "coinbase destekli better bitcoin teminatl mortgage urununu kullan ma sundu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:454b9f8aed9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "hp hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/hp-hissesi-bugun-neden-dusuyor-93CH-4045284"
+    },
+    {
+      "source": "investing",
+      "text": "salesforce hisseleri neden bugun yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/salesforce-hisseleri-neden-bugun-yukseliyor-93CH-4045282"
+    },
+    {
+      "source": "investing",
+      "text": "nvidia hissesi mesai sonras neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/nvidia-hissesi-mesai-sonras-neden-dusuyor-93CH-4045280"
+    },
+    {
+      "source": "investing",
+      "text": "crowdstrike hissesi bugun neden yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/crowdstrike-hissesi-bugun-neden-yukseldi-93CH-4045277"
+    },
+    {
+      "source": "investing",
+      "text": "xcel energy xos tan uc mobil sarj unitesi daha siparis etti",
+      "link": "https://tr.investing.com/news/company-news/xcel-energy-xostan-uc-mobil-sarj-unitesi-daha-siparis-etti-93CH-4045276"
+    },
+    {
+      "source": "investing",
+      "text": "granite seattle yuruyus yolu projesi 12 3 milyon dolarl k sozlesme kazand",
+      "link": "https://tr.investing.com/news/company-news/granite-seattle-yuruyus-yolu-projesi-icin-123-milyon-dolarlk-sozlesme-kazand-93CH-4045275"
+    },
+    {
+      "source": "investing",
+      "text": "arcline astronova y hisse bas na 29 dolar kars l g nda sat n ald",
+      "link": "https://tr.investing.com/news/company-news/arcline-astronovay-hisse-basna-29-dolar-karslgnda-satn-ald-93CH-4045274"
+    },
+    {
+      "source": "investing",
+      "text": "invitation homes teknoloji direktorlugune james curl u atad",
+      "link": "https://tr.investing.com/news/company-news/invitation-homes-teknoloji-direktorlugune-james-curlu-atad-93CH-4045273"
+    },
+    {
+      "source": "investing",
+      "text": "american resources nasdaq tan uyumsuzluk bildirimi ald",
+      "link": "https://tr.investing.com/news/company-news/american-resources-nasdaqtan-uyumsuzluk-bildirimi-ald-93CH-4045272"
+    },
+    {
+      "source": "investing",
+      "text": "ametek 5 milyar dolarl k indicor instrumentation sat n al m n tamamlad",
+      "link": "https://tr.investing.com/news/company-news/ametek-5-milyar-dolarlk-indicor-instrumentation-satn-almn-tamamlad-93CH-4045271"
+    },
+    {
+      "source": "kap",
+      "text": "hktm ozel durum ac klamas genel sirket cogunluk paylar n n sat s n n tamamlanmas sirket hidropar hareket kontrol teknolojileri merkezi sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655241"
+    },
+    {
+      "source": "kap",
+      "text": "akfk sermaye art r m veya azalt m bildirimi sermaye art r m hk sirket ak finansal kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655240"
+    },
+    {
+      "source": "kap",
+      "text": "yeotk finansal duran varl k sat s finansal duran varl k sat s sirket yeo teknoloji enerji endustri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655239"
+    },
     {
       "source": "tradingview",
       "text": "cin yuan abd dolar kars s ndaki degerlenme h z n n yavaslamas bekleniyor ing",
@@ -9329,81 +9404,6 @@
       "source": "kap",
       "text": "ditas kurumsal yonetim bilgi formu guncelleme yonetim kurulu 3 kurumsal yonetim bilgi formu guncelleme yk iii sirket ditas bdy yedek parca imalat teknik a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1654778"
-    },
-    {
-      "source": "kap",
-      "text": "ditas kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 kurumsal yonetim bilgi formu guncelleme yk ii sirket ditas bdy yedek parca imalat teknik a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654777"
-    },
-    {
-      "source": "kap",
-      "text": "tcz tczb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren xs3153082832 isin kodlu tahvilin itfas hk sirket t c ziraat bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654776"
-    },
-    {
-      "source": "kap",
-      "text": "afb aktif ihrac belgesi yurt d s borclanma arac ihrac belgesi hk sirket aktif yatirim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654774"
-    },
-    {
-      "source": "tradingview",
-      "text": "anket matriks haber bist sentiment anketi borsa kapan s beklentisi 5 62 puan",
-      "link": "https://tr.tradingview.com/news/matriks:6696055:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiliz sterlini guvercin yeniden fiyatlama euro kars s nda zay fl ga isaret ediyor ing",
-      "link": "https://tr.tradingview.com/news/fxstreet:e61809284d9e8:0"
-    },
-    {
-      "source": "bloomberght",
-      "text": "goldman sachs y l faizlerle ilgili goruslerini korudu goldman sachs ekonomistleri turkiye cumhuriyet merkez bankas n n tcmb haftal k repo faizini y l sonuna kadar yuzde 37 seviyesinde b rakacag yonundeki goruslerini koruduklar n belirtti",
-      "link": "https://www.bloomberght.com/goldman-sachs-bu-yil-icin-faizlerle-ilgili-goruslerini-korudu-3786378"
-    },
-    {
-      "source": "kap",
-      "text": "afb aktif ihrac tavan na iliskin bildirim yurtd s ihrac tavan hk sirket aktif yatirim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654773"
-    },
-    {
-      "source": "kap",
-      "text": "sdttr pay baz nda devre kesici bildirimi sdttr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654772"
-    },
-    {
-      "source": "kap",
-      "text": "oyayo ozel durum ac klamas genel ortakl k paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket oyak yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654767"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro alman is dunyas guveni iyilesirken japon yeni kars s nda yukseliyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:d275aa692d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "wolfe eylul fomc oncesi agustos ta 65 bin istihdam art s ongoruyor",
-      "link": "https://tr.investing.com/news/stock-market-news/wolfe-eylul-fomc-oncesi-agustosta-65-bin-istihdam-arts-ongoruyor-93CH-4042647"
-    },
-    {
-      "source": "investing",
-      "text": "moderna hisseleri bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/moderna-hisseleri-bugun-neden-yukseliyor-93CH-4042646"
-    },
-    {
-      "source": "investing",
-      "text": "raymond james arm holdings hedef fiyat yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/raymond-james-arm-holdings-icin-hedef-fiyat-yukseltti-93CH-4042645"
-    },
-    {
-      "source": "investing",
-      "text": "raymond james nvidia n n hisse hedefini cpu buyumesi 352 dolara yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/raymond-james-nvidiann-hisse-hedefini-cpu-buyumesi-ile-352-dolara-yukseltti-93CH-4042643"
-    },
-    {
-      "source": "investing",
-      "text": "stifel nike hissesi tut tavsiyesini anket bulgular yla teyit etti",
-      "link": "https://tr.investing.com/news/analyst-ratings/stifel-nike-hissesi-icin-tut-tavsiyesini-anket-bulgularyla-teyit-etti-93CH-4042644"
     }
   ]
 }
