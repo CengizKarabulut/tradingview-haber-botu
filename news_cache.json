@@ -459,8 +459,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-26-agustos-2026-3786432",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/hurmuz-bogazi-ndaki-gecis-koridoru-7-mil-genisliginde-ve-guney-koridoru-kapatildi-3786433",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/hurmuz-bogazi-ndaki-gecis-koridoru-7-mil-genisliginde-ve-guney-koridoru-kapatildi-3786433",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-26-agustos-2026-3786432",
         "bloomberght:https://www.bloomberght.com/openai-da-yaprak-dokumu-suruyor-bir-yonetici-daha-ayrildi-3786431",
         "bloomberght:https://www.bloomberght.com/iran-dan-kritik-iki-temas-3786430",
@@ -1579,6 +1580,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "hurmuz bogaz ndaki gecis koridoru 7 mil genisliginde guney koridoru kapat ld iran d sisleri bakan yard mc s kaz m garibabadi umman var lan anlasmada hurmuz bogaz ndaki tas ma guzergah n n 7 mil genisliginde oldugunu belirterek guney koridorun kapat ld g n soyledi",
+      "link": "https://www.bloomberght.com/hurmuz-bogazi-ndaki-gecis-koridoru-7-mil-genisliginde-ve-guney-koridoru-kapatildi-3786433"
+    },
     {
       "source": "tradingview",
       "text": "gumus fiyat analizi xag usd abd pce enflasyonu verileri oncesinde 69 n uzerinde guclu kalmay surduruyor",
@@ -9073,11 +9079,6 @@
       "source": "tradingview",
       "text": "gunluk alt n analizi ahlatc yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6694195:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "trump iran tamamen cokuyor",
-      "link": "https://tr.tradingview.com/news/matriks:6694192:0"
     }
   ]
 }
