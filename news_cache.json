@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655059",
+      "last_seen_key": "kap:1655060",
       "seen_keys": [
+        "kap:1655060",
         "kap:1655059",
         "kap:1655058",
         "kap:1655057",
@@ -502,13 +503,13 @@
         "kap:1654339",
         "kap:1654320",
         "kap:1654319",
-        "kap:1654307",
-        "kap:1654309"
+        "kap:1654307"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/fitch-cin-de-yeniden-deflasyon-riski-bulunuyor-3786475",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/alman-ihracatcilarin-iyimserligi-dort-bucuk-yilin-zirvesinde-3786481",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/alman-ihracatcilarin-iyimserligi-dort-bucuk-yilin-zirvesinde-3786481",
         "bloomberght:https://www.bloomberght.com/fitch-cin-de-yeniden-deflasyon-riski-bulunuyor-3786475",
         "bloomberght:https://www.bloomberght.com/cinli-enerji-devi-savas-doneminde-krini-hizli-artirdi-3786473",
         "bloomberght:https://www.bloomberght.com/suudilerden-turev-piyasalarina-tesvik-hamlesi-3786472",
@@ -1107,8 +1108,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gune-1452255-puandan-basladi-954963.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/yas-meyve-ihracati-7-ayda-1-milyar-dolari-asti-954981.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/yas-meyve-ihracati-7-ayda-1-milyar-dolari-asti-954981.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gune-1452255-puandan-basladi-954963.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-954958.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-gozler-abd-verilerinde-954956.html",
@@ -1259,8 +1261,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6698260:0",
+      "last_seen_key": "tradingview:matriks:6698286:0",
       "seen_keys": [
+        "tradingview:matriks:6698286:0",
+        "tradingview:fxstreet:ca5866677d9e8:0",
+        "tradingview:fxstreet:1056173e5d9e8:0",
         "tradingview:matriks:6698260:0",
         "tradingview:matriks:6698258:0",
         "tradingview:matriks:6698257:0",
@@ -1309,6 +1314,7 @@
         "tradingview:matriks:6697939:0",
         "tradingview:matriks:6697937:0",
         "tradingview:fxstreet:f54526dd6d9e8:0",
+        "tradingview:fxstreet:af5fd2792d9e8:0",
         "tradingview:matriks:6697905:0",
         "tradingview:matriks:6697904:0",
         "tradingview:matriks:6697901:0",
@@ -1756,11 +1762,7 @@
         "tradingview:matriks:6696055:0",
         "tradingview:fxstreet:e61809284d9e8:0",
         "tradingview:fxstreet:d275aa692d9e8:0",
-        "tradingview:matriks:6696006:0",
-        "tradingview:matriks:6695998:0",
-        "tradingview:cointelegraph:1ad1bad01d9e8:0",
-        "tradingview:beincrypto:446d46aecd9e8:0",
-        "tradingview:fxstreet:3bb84c234d9e8:0"
+        "tradingview:matriks:6696006:0"
       ]
     },
     "forexfactory": {
@@ -1781,6 +1783,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gun ortas notlar garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6698286:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti ham petrol fiyat hurmuz bogaz n n yeniden ac lacag abd iran geriliminin azalacag umutlar yla 80 n alt na dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:ca5866677d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar abd dolar kars s nda 0 7200 direnci izleniyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:1056173e5d9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "yas meyve ihracat 7 ayda 1 milyar dolar ast turkiye nin yas meyve ihracat 7 ayl k donemde ilk kez 1 milyar dolar band n ast",
+      "link": "https://www.trthaber.com/haber/ekonomi/yas-meyve-ihracati-7-ayda-1-milyar-dolari-asti-954981.html"
+    },
+    {
+      "source": "bloomberght",
+      "text": "alman ihracatc lar n iyimserligi dort bucuk y l n zirvesinde alman ihracatc lar n guven endeksi agustos ay nda dort bucuk y l n en yuksek seviyesine yukseldi yukselise ab ortaklar yla yap lan ticarete iliskin iyimserlik destek oldu",
+      "link": "https://www.bloomberght.com/alman-ihracatcilarin-iyimserligi-dort-bucuk-yilin-zirvesinde-3786481"
+    },
+    {
+      "source": "kap",
+      "text": "cemzy pay baz nda devre kesici bildirimi cemzy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655060"
+    },
     {
       "source": "tradingview",
       "text": "ticaret bakan bolat turkiye suriye ticaret sanayi odalar aras nda cok say isbirligi anlasmalar imzaland bloomberg ht",
@@ -9250,36 +9282,6 @@
       "source": "investing",
       "text": "gevo yonetim kurulu uyesi james barber 77 000 dolarl k hisse ald",
       "link": "https://tr.investing.com/news/insider-trading-news/gevo-yonetim-kurulu-uyesi-james-barber-77000-dolarlk-hisse-ald-93CH-4042183"
-    },
-    {
-      "source": "investing",
-      "text": "lifetime brands yonetim kurulu uyesi siegel 24 450 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/lifetime-brands-yonetim-kurulu-uyesi-siegel-24450-dolarlk-hisse-satt-93CH-4042181"
-    },
-    {
-      "source": "investing",
-      "text": "99 85 45 yapay zeka secimi deger hisseleri yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/99-85-45-yapay-zeka-secimi-deger-hisseleri-yukseliste-4042180"
-    },
-    {
-      "source": "tradingview",
-      "text": "avustralya dolar iran yapt r mlar n n risk istah n bozmas yla dusuyor rba tutanaklar izleniyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:7debed4aed9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "arcus biosciences cao azoy 84 810 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/arcus-biosciences-cao-azoy-84810-dolarlk-hisse-satt-93CH-4042179"
-    },
-    {
-      "source": "investing",
-      "text": "dream finders homes yoneticisi len sturm 7 390 dolarl k hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/dream-finders-homes-yoneticisi-len-sturm-7390-dolarlk-hisse-ald-93CH-4042177"
-    },
-    {
-      "source": "investing",
-      "text": "matson evp vic angoco 510 784 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/matson-evp-vic-angoco-510784-dolarlk-hisse-satt-93CH-4042178"
     }
   ]
 }
