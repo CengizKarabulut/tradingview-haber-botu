@@ -805,8 +805,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-unilever-kuculmeye-gidiyor-hangi-markalari-devrettigi-belli-oldu-1738898",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/bakir-fiyatlari-rekor-kirdi-1738937",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/bakir-fiyatlari-rekor-kirdi-1738937",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-unilever-kuculmeye-gidiyor-hangi-markalari-devrettigi-belli-oldu-1738898",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-taksi-ve-servis-plakalari-iptal-ediliyor-1738877",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-bakanlik-harekete-gecti-sosyal-medyada-fiyat-icin-dm-yazanlar-yandi-1738875",
@@ -1068,8 +1069,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6697358:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44N04P:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44N04P:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44N04L:0",
+        "tradingview:fxstreet:4d30958a8d9e8:0",
+        "tradingview:matriks:6697359:0",
         "tradingview:matriks:6697358:0",
         "tradingview:matriks:6697357:0",
         "tradingview:matriks:6697355:0",
@@ -1102,6 +1107,9 @@
         "tradingview:fxstreet:bfb058f61d9e8:0",
         "tradingview:beincrypto:d3d0393e0d9e8:0",
         "tradingview:fxstreet:66ce19b7dd9e8:0",
+        "tradingview:fxstreet:e77119a7ad9e8:0",
+        "tradingview:fxstreet:255a7a166d9e8:0",
+        "tradingview:fxstreet:6f2dc39a2d9e8:0",
         "tradingview:fxstreet:c99d12403d9e8:0",
         "tradingview:beincrypto:c1645d9c5d9e8:0",
         "tradingview:fxstreet:513a5ba6dd9e8:0",
@@ -1562,14 +1570,7 @@
         "tradingview:matriks:6695079:0",
         "tradingview:matriks:6695078:0",
         "tradingview:matriks:6695077:0",
-        "tradingview:matriks:6695075:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44M03G:0",
-        "tradingview:matriks:6695059:0",
-        "tradingview:matriks:6695060:0",
-        "tradingview:matriks:6695058:0",
-        "tradingview:matriks:6695057:0",
-        "tradingview:matriks:6695052:0",
-        "tradingview:matriks:6695053:0"
+        "tradingview:matriks:6695075:0"
       ]
     },
     "forexfactory": {
@@ -1590,6 +1591,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "resmi gazete bugun 26 agustos 2026",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44N04P:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "merkez bankas iki para kurulusunun faaliyet iznini iptal etti",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44N04L:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya n n kiuchi si orta dogu kosullar nedeniyle tufe nin kademeli olarak yukselmesi bekleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:4d30958a8d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "imf baskan georgieva kuresel ekonomi enerji sokuna direniyor bloomberg ht com",
+      "link": "https://tr.tradingview.com/news/matriks:6697359:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "bak r fiyatlar rekor k rd bak r stoklar n n azalmas uretim yapan tesislerde sel bask n olmas ndan dolay bak r fiyatlar yukseldi",
+      "link": "https://www.ntv.com.tr/ntvpara/bakir-fiyatlari-rekor-kirdi-1738937"
+    },
     {
       "source": "tradingview",
       "text": "yurt d s piyasalarda bugun unlu menkul",
@@ -9064,31 +9090,6 @@
       "source": "bloomberght",
       "text": "trump tan kanada ya sert tarife tehdidi abd baskan donald trump kanada n n amerikan ciftcilerine tar m urunlerine yuksek tarifeler uygulayarak ticarette haks zl k yapt g n iki ulke aras nda 60 milyar dolarl k ac ga yol act g n savundu",
       "link": "https://www.bloomberght.com/trumptan-kanadaya-sert-tarife-tehdidi-3786305"
-    },
-    {
-      "source": "bloomberght",
-      "text": "k rtasiyecilerden kdv indirimi talebi tum k rtasiyeciler dernegi yonetim kurulu baskan taha keresteci okul cantas n n dolum maliyetinin y ll k yuzde 25 4 art sla 2 bin 483 liraya ulast g n ac klad k rtasiye urunlerinde kdv indirimi beklediklerini belirten keresteci te",
-      "link": "https://www.bloomberght.com/kirtasiyecilerden-kdv-indirimi-talebi-3786304"
-    },
-    {
-      "source": "kap",
-      "text": "enery tgsas hak kullan m sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654504"
-    },
-    {
-      "source": "kap",
-      "text": "aghol aksa astor ayes bulgs durkn ekgyo etyat euren gubrf hekts karel krdmd mopas oyakc ttkom uluun ybtas borsada islem goren tipe donusum duyurusu donusum sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654502"
-    },
-    {
-      "source": "kap",
-      "text": "begyo pay mali hak kullan m islemi nakit odeme hak kullan m islemleri sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654498"
-    },
-    {
-      "source": "kap",
-      "text": "dybnk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfdbnkk2614 isin kodlu degisken faizli borclanma arac m z n kupon oran na iliskin ac klama sirket d yatirim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654497"
     }
   ]
 }
