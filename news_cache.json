@@ -520,8 +520,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/asya-cip-hisseleri-nvidia-kazanc-raporundan-once-toparland-4043748",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/alibaba-hisseleri-neden-yukseliste-93CH-4043749",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/alibaba-hisseleri-neden-yukseliste-93CH-4043749",
         "investing:https://tr.investing.com/news/stock-market-news/asya-cip-hisseleri-nvidia-kazanc-raporundan-once-toparland-4043748",
         "investing:https://tr.investing.com/news/insider-trading-news/symbotic-ctosu-james-kuffner-160421-dolar-degerinde-hisse-satt-93CH-4043746",
         "investing:https://tr.investing.com/news/economic-indicators/avustralyada-temmuz-enflasyonu-beklenenden-az-yavaslad-4043744",
@@ -531,7 +532,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/ardelyx-cbo-mike-kelliher-29921-dolarlk-hisse-satt-93CH-4043738",
         "investing:https://tr.investing.com/news/insider-trading-news/ardelyx-cco-eric-foster-33022-dolarlk-hisse-satt-93CH-4043737",
         "investing:https://tr.investing.com/news/insider-trading-news/allison-transmission-ceosu-355-milyon-dolarlk-hisse-satt-93CH-4043736",
-        "investing:https://tr.investing.com/news/insider-trading-news/delek-us-yonetim-kurulu-uyesi-marcogliese-142100-dolar-degerinde-hisse-satt-93CH-4043735",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -552,6 +552,7 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/insider-trading-news/delek-us-yonetim-kurulu-uyesi-marcogliese-142100-dolar-degerinde-hisse-satt-93CH-4043735",
         "investing:https://tr.investing.com/news/stock-market-news/joyy-hissesi-neden-yukseliste-93CH-4043734",
         "investing:https://tr.investing.com/news/company-news/caliway-cbl514-kombinasyon-denemesi-icin-fda-onay-ald-93CH-4043733",
         "investing:https://tr.investing.com/news/stock-market-news/joyy-incin-2c-kar-guclu-kullanc-rakamlaryla-artt-93CH-4043731",
@@ -1058,8 +1059,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:eb74ec573d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:4a9151311d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:4a9151311d9e8:0",
         "tradingview:fxstreet:eb74ec573d9e8:0",
         "tradingview:fxstreet:d54a1e355d9e8:0",
         "tradingview:fxstreet:941821498d9e8:0",
@@ -1558,8 +1560,7 @@
         "tradingview:cointelegraph:b8529b5aad9e8:0",
         "tradingview:fxstreet:0773e625ad9e8:0",
         "tradingview:fxstreet:123b59efed9e8:0",
-        "tradingview:beincrypto:27ca86d9bd9e8:0",
-        "tradingview:fxstreet:975811dcfd9e8:0"
+        "tradingview:beincrypto:27ca86d9bd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1580,6 +1581,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n fed den faiz sinyalleri abd pce verilerine odaklanan yat r mc lar aras nda 4 650 dolar civar nda sabit kald",
+      "link": "https://tr.tradingview.com/news/fxstreet:4a9151311d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "alibaba hisseleri neden yukseliste",
+      "link": "https://tr.investing.com/news/stock-market-news/alibaba-hisseleri-neden-yukseliste-93CH-4043749"
+    },
     {
       "source": "bloomberght",
       "text": "hurmuz bogaz ndaki gecis koridoru 7 mil genisliginde guney koridoru kapat ld iran d sisleri bakan yard mc s kaz m garibabadi umman var lan anlasmada hurmuz bogaz ndaki tas ma guzergah n n 7 mil genisliginde oldugunu belirterek guney koridorun kapat ld g n soyledi",
@@ -9069,16 +9080,6 @@
       "source": "tradingview",
       "text": "ac l s oncesi kuresel piyasalar bulteni info yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6694206:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "benzinde litre fiyat na 2 74 tl zam geldi",
-      "link": "https://tr.tradingview.com/news/matriks:6694205:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk alt n analizi ahlatc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6694195:0"
     }
   ]
 }
