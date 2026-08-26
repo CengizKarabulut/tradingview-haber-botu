@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655057",
+      "last_seen_key": "kap:1655059",
       "seen_keys": [
+        "kap:1655059",
+        "kap:1655058",
         "kap:1655057",
         "kap:1655055",
         "kap:1655054",
@@ -505,8 +507,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/cinli-enerji-devi-savas-doneminde-krini-hizli-artirdi-3786473",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/fitch-cin-de-yeniden-deflasyon-riski-bulunuyor-3786475",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/fitch-cin-de-yeniden-deflasyon-riski-bulunuyor-3786475",
         "bloomberght:https://www.bloomberght.com/cinli-enerji-devi-savas-doneminde-krini-hizli-artirdi-3786473",
         "bloomberght:https://www.bloomberght.com/suudilerden-turev-piyasalarina-tesvik-hamlesi-3786472",
         "bloomberght:https://www.bloomberght.com/49-milyar-dolarlik-serveti-var-ama-varisi-yok-3786471",
@@ -1767,6 +1770,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "fitch cin yeniden deflasyon riski bulunuyor uluslararas kredi derecelendirme kurulusu fitch ratings cin ekonomisinde deflasyon bask lar hafiflese zay f ic talebin fiyatlar uzerinde asag yonlu bask olusturmaya devam edebilecegini bildirdi",
+      "link": "https://www.bloomberght.com/fitch-cin-de-yeniden-deflasyon-riski-bulunuyor-3786475"
+    },
+    {
+      "source": "kap",
+      "text": "kstur sirket genel bilgi formu sirket kustur kusadasi turizm endustrisi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655059"
+    },
+    {
+      "source": "kap",
+      "text": "ikn ozel durum ac klamas genel arac l k yuklenimi suretiyle halka arza arac l k faaliyet izni basvurumuz hk sirket ikon menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655058"
+    },
     {
       "source": "tradingview",
       "text": "bist 100 endeks 1 7 bankac l k endeksi 4 2 art",
@@ -9251,21 +9269,6 @@
       "source": "tradingview",
       "text": "guney kore wonu ralli politika haftas nda konsolidasyon riskiyle kars kars ya ocbc",
       "link": "https://tr.tradingview.com/news/fxstreet:20dd563c1d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "mudahale kayd japon yeni ni uc hafta boyunca sat n ald",
-      "link": "https://tr.tradingview.com/news/fxstreet:8041b19dfd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "eur usd fiyat analizi 1 1700 al c lar s n rl yor rsi as r s n yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:a531ad4e7d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yeni zelanda dolar zay f perakende sat slar golgede b rak rken birkac ayl k zirvelere yak n yatay seyrediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:24223363ed9e8:0"
     }
   ]
 }
