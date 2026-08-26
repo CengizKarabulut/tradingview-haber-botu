@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655055",
+      "last_seen_key": "kap:1655057",
       "seen_keys": [
+        "kap:1655057",
         "kap:1655055",
         "kap:1655054",
         "kap:1655045",
@@ -32,7 +33,6 @@
         "kap:1655006",
         "kap:1655005",
         "kap:1655002",
-        "kap:1655001",
         "kap:1654999",
         "kap:1654997",
         "kap:1654996",
@@ -91,6 +91,7 @@
         "kap:1654926",
         "kap:1654924",
         "kap:1654923",
+        "kap:1655001",
         "kap:1654918",
         "kap:1654913",
         "kap:1654911",
@@ -1244,8 +1245,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6698150:0",
+      "last_seen_key": "tradingview:matriks:6698193:0",
       "seen_keys": [
+        "tradingview:matriks:6698193:0",
+        "tradingview:fxstreet:b71985c3dd9e8:0",
+        "tradingview:fxstreet:ccabcf0e7d9e8:0",
         "tradingview:matriks:6698150:0",
         "tradingview:fxstreet:654b94341d9e8:0",
         "tradingview:fxstreet:7f88b88f3d9e8:0",
@@ -1742,10 +1746,7 @@
         "tradingview:matriks:6695866:0",
         "tradingview:beincrypto:ef2d3cd8ed9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44M0G8:0",
-        "tradingview:fxstreet:327c1799bd9e8:0",
-        "tradingview:cointelegraph:cdbba6f1ad9e8:0",
-        "tradingview:matriks:6695838:0",
-        "tradingview:matriks:6695817:0"
+        "tradingview:fxstreet:327c1799bd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1766,6 +1767,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bist 100 endeks 1 7 bankac l k endeksi 4 2 art",
+      "link": "https://tr.tradingview.com/news/matriks:6698193:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur jpy fiyat analizi 185 00 civar ndaki dokuz gunluk ema kavusum destegini test ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b71985c3dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "brent diplomatik ilerleme fiyatlar uzerinde bask olusturuyor ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:ccabcf0e7d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "emvar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz sirketimiz taraf ndan ihrac edilmis olan trdemvk82639 isin kodlu kira sertifikas n n itfas hk sirket emlak varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655057"
+    },
     {
       "source": "tradingview",
       "text": "02 09 2026 vadeli repo ihalesine gelen tekliflerin toplam 6 00 milyar tl",
@@ -9245,26 +9266,6 @@
       "source": "tradingview",
       "text": "yeni zelanda dolar zay f perakende sat slar golgede b rak rken birkac ayl k zirvelere yak n yatay seyrediyor",
       "link": "https://tr.tradingview.com/news/fxstreet:24223363ed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "cftc yasa d s polymarket bahsiyle suclanan abd askeri tahmin piyasalar n n yorumlanmas konusunda cekisiyor",
-      "link": "https://tr.tradingview.com/news/cointelegraph:68df818b6d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "conx kablosuz operator mobilex te kontrol hissesi ald",
-      "link": "https://tr.investing.com/news/company-news/conx-kablosuz-operator-mobilexte-kontrol-hissesi-ald-93CH-4042158"
-    },
-    {
-      "source": "investing",
-      "text": "oura halka arzda 16 milyar dolar asan degerlemeyle 3 milyar dolar hedefliyor bloomberg",
-      "link": "https://tr.investing.com/news/stock-market-news/oura-halka-arzda-16-milyar-dolar-asan-degerlemeyle-3-milyar-dolar-hedefliyor--bloomberg-4042157"
-    },
-    {
-      "source": "investing",
-      "text": "faraday future mart 2025 finansman ndaki varant yukumluluklerini kald rd",
-      "link": "https://tr.investing.com/news/company-news/faraday-future-mart-2025-finansmanndaki-varant-yukumluluklerini-kaldrd-93CH-4042155"
     }
   ]
 }
