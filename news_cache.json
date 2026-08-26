@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655061",
+      "last_seen_key": "kap:1655064",
       "seen_keys": [
+        "kap:1655064",
+        "kap:1655062",
         "kap:1655061",
         "kap:1655060",
         "kap:1655059",
@@ -501,9 +503,7 @@
         "kap:1654382",
         "kap:1654370",
         "kap:1654345",
-        "kap:1654339",
-        "kap:1654320",
-        "kap:1654319"
+        "kap:1654339"
       ]
     },
     "bloomberght": {
@@ -1222,13 +1222,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6698286:0",
+      "last_seen_key": "tradingview:fxstreet:4809c923fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:4809c923fd9e8:0",
+        "tradingview:matriks:6698311:0",
+        "tradingview:matriks:6698302:0",
+        "tradingview:fxstreet:a69f0b4d0d9e8:0",
+        "tradingview:matriks:6698296:0",
         "tradingview:matriks:6698286:0",
         "tradingview:fxstreet:ca5866677d9e8:0",
         "tradingview:fxstreet:1056173e5d9e8:0",
         "tradingview:matriks:6698260:0",
         "tradingview:matriks:6698258:0",
+        "tradingview:beincrypto:6bcf106e1d9e8:0",
         "tradingview:matriks:6698257:0",
         "tradingview:matriks:6698255:0",
         "tradingview:fxstreet:cbe602279d9e8:0",
@@ -1717,13 +1723,7 @@
         "tradingview:matriks:6696119:0",
         "tradingview:fxstreet:4229d79e1d9e8:0",
         "tradingview:matriks:6696101:0",
-        "tradingview:fxstreet:a31e91a35d9e8:0",
-        "tradingview:cointelegraph:544c92a8bd9e8:0",
-        "tradingview:matriks:6696065:0",
-        "tradingview:matriks:6696055:0",
-        "tradingview:fxstreet:e61809284d9e8:0",
-        "tradingview:fxstreet:d275aa692d9e8:0",
-        "tradingview:matriks:6696006:0"
+        "tradingview:fxstreet:a31e91a35d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1744,6 +1744,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n fiyat analizi xau usd abd pce enflasyon verileri oncesinde 4 620 civar na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:4809c923fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bolat organize sanayi bolgelerinde yat r mlar konusunda kars l kl ciddi ilgi varbloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6698311:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bolat turkiye suriye gumruk modernizasyonu konusunda yat r mlar devam ediyor bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6698302:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni boj faiz art r m beklentileri jpy yi abd dolar kars s nda destekliyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:a69f0b4d0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yenileme ingiltere perakende sat slar agustos ta zay flad cbi",
+      "link": "https://tr.tradingview.com/news/matriks:6698296:0"
+    },
+    {
+      "source": "kap",
+      "text": "vkfyo ozel durum ac klamas genel sirketimizin bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sebebiyle yap lan ac klamad r sirket vakif menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655064"
+    },
+    {
+      "source": "kap",
+      "text": "tgsas pay baz nda devre kesici bildirimi tgsas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655062"
+    },
     {
       "source": "kap",
       "text": "oyayo ozel durum ac klamas genel ortakl k paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket oyak yatirim ortakligi a s",
@@ -9208,41 +9243,6 @@
       "source": "investing",
       "text": "chord energy ceo su daniel brown 2 07 milyon dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/chord-energy-ceosu-daniel-brown-207-milyon-dolarlk-hisse-satt-93CH-4042194"
-    },
-    {
-      "source": "investing",
-      "text": "astellas mide kanseri asp2138 in faz 3 denemesine baslad",
-      "link": "https://tr.investing.com/news/company-news/astellas-mide-kanseri-icin-asp2138in-faz-3-denemesine-baslad-93CH-4042190"
-    },
-    {
-      "source": "investing",
-      "text": "arista networks baskan cto duda 8 03 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/arista-networks-baskan-ve-cto-duda-803-milyon-dolarlk-hisse-satt-93CH-4042189"
-    },
-    {
-      "source": "investing",
-      "text": "aveanna healthcare yoneticisi baglant l kuruluslar 192 6 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/aveanna-healthcare-yoneticisi-baglantl-kuruluslar-1926-milyon-dolarlk-hisse-satt-93CH-4042188"
-    },
-    {
-      "source": "investing",
-      "text": "meta yapay zeka platformu hatch i onumuzdeki haftalarda piyasaya surecek the information",
-      "link": "https://tr.investing.com/news/stock-market-news/meta-yapay-zeka-platformu-hatchi-onumuzdeki-haftalarda-piyasaya-surecek--the-information-93CH-4042187"
-    },
-    {
-      "source": "investing",
-      "text": "fda j j nin nadir kan hastal g ilac n onaylad",
-      "link": "https://tr.investing.com/news/company-news/fda-jjnin-nadir-kan-hastalg-ilacn-onaylad-93CH-4042185"
-    },
-    {
-      "source": "investing",
-      "text": "grocery outlet evp frank kerr 16 181 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/grocery-outlet-evp-frank-kerr-16181-dolarlk-hisse-satt-93CH-4042184"
-    },
-    {
-      "source": "investing",
-      "text": "gevo nun hukuk muduru kettner 19 368 dolarl k hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/gevonun-hukuk-muduru-kettner-19368-dolarlk-hisse-ald-93CH-4042182"
     }
   ]
 }
