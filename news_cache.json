@@ -498,8 +498,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/instagram-ceo-su-sirketin-olumsuz-bilgileri-gizledigi-iddialarini-reddetti-3786464",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/tasarruf-finansman-sektorunde-musteri-sayisi-1-5-milyonu-asti-3786466",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/tasarruf-finansman-sektorunde-musteri-sayisi-1-5-milyonu-asti-3786466",
+        "bloomberght:https://www.bloomberght.com/meta-sosyal-medya-davasinda-uzlasma-ariyor-3786465",
         "bloomberght:https://www.bloomberght.com/instagram-ceo-su-sirketin-olumsuz-bilgileri-gizledigi-iddialarini-reddetti-3786464",
         "bloomberght:https://www.bloomberght.com/avrupa-da-gaz-krizi-buyuyor-bir-uyari-da-hollanda-icin-3786463",
         "bloomberght:https://www.bloomberght.com/alman-tahvillerinde-asiri-sag-riski-3786461",
@@ -1208,8 +1210,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6697939:0",
+      "last_seen_key": "tradingview:fxstreet:8070f47f8d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:8070f47f8d9e8:0",
+        "tradingview:fxstreet:d14980c67d9e8:0",
         "tradingview:matriks:6697939:0",
         "tradingview:matriks:6697937:0",
         "tradingview:fxstreet:f54526dd6d9e8:0",
@@ -1707,9 +1711,7 @@
         "tradingview:matriks:6695642:0",
         "tradingview:fxstreet:2965aee6ed9e8:0",
         "tradingview:fxstreet:25f2ec1f4d9e8:0",
-        "tradingview:fxstreet:b0723441cd9e8:0",
-        "tradingview:matriks:6695630:0",
-        "tradingview:matriks:6695629:0"
+        "tradingview:fxstreet:b0723441cd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1730,6 +1732,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "dow jones vadeli islemleri yat r mc lar n abd pce enflasyon verileri nvidia kazanclar n beklemesiyle yatay seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:8070f47f8d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni abd dolar kars s nda yatay seyir gorunumu uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:d14980c67d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tasarruf finansman sektorunde musteri say s 1 5 milyonu ast finansal kurumlar birligi verilerine gore y l n ikinci ceyrek verileri itibariyle tasarruf finansman sektorunun aktif buyuklugu yuzde 188 art sla 501 milyar tl ye c kt sektorun musteri say s 1 5 milyonun uzerine c kt",
+      "link": "https://www.bloomberght.com/tasarruf-finansman-sektorunde-musteri-sayisi-1-5-milyonu-asti-3786466"
+    },
+    {
+      "source": "bloomberght",
+      "text": "meta sosyal medya davas nda uzlasma ar yor meta platforms eyalet bassavc lar n n facebook instagram n gencleri cocuklar bag ml hale getirmek amac yla kas tl olarak tasarland g iddias yla ac lan davada uzlasma saglanmas olas l g n gorustugu bildirildi",
+      "link": "https://www.bloomberght.com/meta-sosyal-medya-davasinda-uzlasma-ariyor-3786465"
+    },
     {
       "source": "tradingview",
       "text": "abd endeks vadelileri kar s k seyrediyor",
@@ -9209,26 +9231,6 @@
       "source": "kap",
       "text": "aksfa finansal rapor sirket ak faktoring a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1654656"
-    },
-    {
-      "source": "tradingview",
-      "text": "guney kore wonu abd dolar kars s nda konsolidasyon bolgesi hedefleniyor commerzbank",
-      "link": "https://tr.tradingview.com/news/fxstreet:e6b302c68d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "moody s xpo nun notunu ba1 e yukseltti",
-      "link": "https://tr.investing.com/news/stock-market-news/moodys-xponun-notunu-ba1e-yukseltti-93CH-4042044"
-    },
-    {
-      "source": "investing",
-      "text": "horizon kinetics texas pacific land 381 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landde-381-dolar-degerinde-hisse-ald-93CH-4042043"
-    },
-    {
-      "source": "investing",
-      "text": "cosmos health oliv18 takviyesinden 6 milyon dolar gelir bekliyor",
-      "link": "https://tr.investing.com/news/company-news/cosmos-health-oliv18-takviyesinden-6-milyon-dolar-gelir-bekliyor-93CH-4042042"
     }
   ]
 }
