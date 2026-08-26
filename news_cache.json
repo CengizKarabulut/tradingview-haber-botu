@@ -518,18 +518,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/allison-transmission-ceosu-355-milyon-dolarlk-hisse-satt-93CH-4043736",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/ardelyx-hasta-sorumlusu-41419-dolar-degerinde-hisse-satt-93CH-4043741",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/ardelyx-hasta-sorumlusu-41419-dolar-degerinde-hisse-satt-93CH-4043741",
+        "investing:https://tr.investing.com/news/stock-market-news/iranumman-hurmuz-gorusmeleri-petrolu-vurdu-asya-enerji-hisseleri-dustu-4043740",
+        "investing:https://tr.investing.com/news/insider-trading-news/ardelyx-cbo-mike-kelliher-29921-dolarlk-hisse-satt-93CH-4043738",
+        "investing:https://tr.investing.com/news/insider-trading-news/ardelyx-cco-eric-foster-33022-dolarlk-hisse-satt-93CH-4043737",
         "investing:https://tr.investing.com/news/insider-trading-news/allison-transmission-ceosu-355-milyon-dolarlk-hisse-satt-93CH-4043736",
         "investing:https://tr.investing.com/news/insider-trading-news/delek-us-yonetim-kurulu-uyesi-marcogliese-142100-dolar-degerinde-hisse-satt-93CH-4043735",
         "investing:https://tr.investing.com/news/stock-market-news/joyy-hissesi-neden-yukseliste-93CH-4043734",
         "investing:https://tr.investing.com/news/company-news/caliway-cbl514-kombinasyon-denemesi-icin-fda-onay-ald-93CH-4043733",
         "investing:https://tr.investing.com/news/stock-market-news/joyy-incin-2c-kar-guclu-kullanc-rakamlaryla-artt-93CH-4043731",
         "investing:https://tr.investing.com/news/commodities-news/altn-hafif-geriledi-ancak-3-aylk-zirvesine-yakn-seyrediyor-4043732",
-        "investing:https://tr.investing.com/news/insider-trading-news/corpay-ceosu-ronald-clarke-885-milyon-dolarlk-hisse-satt-93CH-4043729",
-        "investing:https://tr.investing.com/news/insider-trading-news/ttm-technologies-ceosu-edwin-roks-111-milyon-dolarlk-hisse-ald-93CH-4043728",
-        "investing:https://tr.investing.com/news/insider-trading-news/corpay-grup-baskan-alan-king-158-milyon-dolarlk-hisse-satt-93CH-4043727",
-        "investing:https://tr.investing.com/news/insider-trading-news/ringcentraln-muhasebe-direktoru-arora-45528-dolarlk-hisse-satt-93CH-4043726",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -550,6 +550,10 @@
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
         "investing:https://tr.investing.com/analysis/yapay-zekann-sectigi-hisseler-200505549",
+        "investing:https://tr.investing.com/news/insider-trading-news/corpay-ceosu-ronald-clarke-885-milyon-dolarlk-hisse-satt-93CH-4043729",
+        "investing:https://tr.investing.com/news/insider-trading-news/ttm-technologies-ceosu-edwin-roks-111-milyon-dolarlk-hisse-ald-93CH-4043728",
+        "investing:https://tr.investing.com/news/insider-trading-news/corpay-grup-baskan-alan-king-158-milyon-dolarlk-hisse-satt-93CH-4043727",
+        "investing:https://tr.investing.com/news/insider-trading-news/ringcentraln-muhasebe-direktoru-arora-45528-dolarlk-hisse-satt-93CH-4043726",
         "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-amd-hissesi-satt-cerebras-systems-ald-93CH-4043695",
         "investing:https://tr.investing.com/news/insider-trading-news/hut-8-cfosu-sean-glennan-507-bin-dolarlk-hisse-satt-93CH-4043693",
         "investing:https://tr.investing.com/news/insider-trading-news/ceribell-cbll-crosu-joseph-manni-32691-dolar-hisse-satt-93CH-4043692",
@@ -1048,8 +1052,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:53cfdac9bd9e8:0",
+      "last_seen_key": "tradingview:matriks:6697263:0",
       "seen_keys": [
+        "tradingview:matriks:6697263:0",
         "tradingview:fxstreet:53cfdac9bd9e8:0",
         "tradingview:fxstreet:bfb058f61d9e8:0",
         "tradingview:fxstreet:66ce19b7dd9e8:0",
@@ -1548,8 +1553,7 @@
         "tradingview:beincrypto:49f05cd04d9e8:0",
         "tradingview:beincrypto:c05de56a2d9e8:0",
         "tradingview:beincrypto:d9176c851d9e8:0",
-        "tradingview:fxstreet:7debed4aed9e8:0",
-        "tradingview:beincrypto:d51f5a25ad9e8:0"
+        "tradingview:fxstreet:7debed4aed9e8:0"
       ]
     },
     "forexfactory": {
@@ -1570,6 +1574,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "emisyon hacmi 25 08 2026 itibariyle 992 22 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6697263:0"
+    },
+    {
+      "source": "investing",
+      "text": "ardelyx hasta sorumlusu 41 419 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/ardelyx-hasta-sorumlusu-41419-dolar-degerinde-hisse-satt-93CH-4043741"
+    },
+    {
+      "source": "investing",
+      "text": "iran umman hurmuz gorusmeleri petrolu vurdu asya enerji hisseleri dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/iranumman-hurmuz-gorusmeleri-petrolu-vurdu-asya-enerji-hisseleri-dustu-4043740"
+    },
+    {
+      "source": "investing",
+      "text": "ardelyx cbo mike kelliher 29 921 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/ardelyx-cbo-mike-kelliher-29921-dolarlk-hisse-satt-93CH-4043738"
+    },
+    {
+      "source": "investing",
+      "text": "ardelyx cco eric foster 33 022 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/ardelyx-cco-eric-foster-33022-dolarlk-hisse-satt-93CH-4043737"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar beklentilerden yuksek gelen tufe raporunun ard ndan gucleniyor gozler abd pce verileri oncesinde birkac ayl k zirvede",
@@ -9044,31 +9073,6 @@
       "source": "tradingview",
       "text": "avustralya dolar soguyan enflasyon ancak carry destegi suruyor bbh",
       "link": "https://tr.tradingview.com/news/fxstreet:c1781dff1d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n fiyat 6 ayl k duzeltme bitti yukselis trendi geri dondu",
-      "link": "https://tr.tradingview.com/news/beincrypto:d0f106e89d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "mackolik in afrika kullan c say s 120 art sla 629 423 e ulast",
-      "link": "https://tr.investing.com/news/global-filings/mackolikin-afrika-kullanc-says-120-artsla-629423e-ulast-93CH-4041559"
-    },
-    {
-      "source": "investing",
-      "text": "truflation temmuz cekirdek pce yi ayl k 0 2 goruyor fed in y l faiz art rmayacag n soyluyor",
-      "link": "https://tr.investing.com/news/economy-news/truflation-temmuz-cekirdek-pceyi-aylk-02-goruyor-fedin-bu-yl-faiz-artrmayacagn-soyluyor-4041557"
-    },
-    {
-      "source": "bloomberght",
-      "text": "ukrayna rusya savas n n turkiye ye uc ayl k faturas 20 milyar dolar bulabilir transbosphor deniz tas mac l g yonetim kurulu baskan mustafa can karadeniz gemi ticaretinin rusya ukrayna n n sald r lar nedeniyle durma noktas na geldigini belirtti cat smalar n karadeniz m s r hatt nda uc ay daha devam etmesi h",
-      "link": "https://www.bloomberght.com/ukrayna-rusya-savasinin-turkiyeye-uc-aylik-faturasi-20-milyar-dolari-bulabilir-3786296"
-    },
-    {
-      "source": "kap",
-      "text": "sdttr yeni is iliskisi yeni is iliskisi hakk nda sirket sdt uzay savunma teknolojileri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654470"
     }
   ]
 }
