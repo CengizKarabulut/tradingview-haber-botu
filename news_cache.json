@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655045",
+      "last_seen_key": "kap:1655055",
       "seen_keys": [
+        "kap:1655055",
+        "kap:1655054",
         "kap:1655045",
         "kap:1655044",
         "kap:1655042",
@@ -502,8 +504,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/suudilerden-turev-piyasalarina-tesvik-hamlesi-3786472",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/cinli-enerji-devi-savas-doneminde-krini-hizli-artirdi-3786473",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/cinli-enerji-devi-savas-doneminde-krini-hizli-artirdi-3786473",
         "bloomberght:https://www.bloomberght.com/suudilerden-turev-piyasalarina-tesvik-hamlesi-3786472",
         "bloomberght:https://www.bloomberght.com/49-milyar-dolarlik-serveti-var-ama-varisi-yok-3786471",
         "bloomberght:https://www.bloomberght.com/bitcoin-rallisinde-kritik-veri-bekleniyor-3786470",
@@ -1094,7 +1097,7 @@
         "trthaber:https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gune-1452255-puandan-basladi-954963.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-954958.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-gozler-abd-verilerinde-954956.html",
-        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-risk-primi-6-ayin-en-dusuk-seviyesinde-954953.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-risk-primi-65-ayin-en-dusuk-seviyesinde-954953.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/prim-ve-vergi-borclari-icin-son-basvuru-tarihi-31-agustos-954940.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kuru-incirde-90-bin-tonun-uzerinde-rekolte-bekleniyor-954914.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/yilin-ilk-7-ayinda-54-ilin-ihracati-artti-954853.html",
@@ -1151,6 +1154,7 @@
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-simsek-kayitli-istihdamin-artmasi-kamu-maliyesini-guclendiriyor-954360.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/elektrikli-arac-sarjinda-tum-zamanlarin-rekoru-954358.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ekonomi-yonetimi-butce-calismalarina-yogunlasti-954353.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-risk-primi-6-ayin-en-dusuk-seviyesinde-954953.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/sahil-guvenlik-ekipleri-denizlerde-kacakcilara-gecit-vermedi-954350.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/7-ayda-719-milyar-liralik-kacak-esyaya-gecit-verilmedi-954347.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/issizlik-rakamlari-aciklandi-954340.html",
@@ -1240,10 +1244,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:a8d469c1dd9e8:0",
+      "last_seen_key": "tradingview:matriks:6698150:0",
       "seen_keys": [
+        "tradingview:matriks:6698150:0",
+        "tradingview:fxstreet:654b94341d9e8:0",
+        "tradingview:fxstreet:7f88b88f3d9e8:0",
+        "tradingview:matriks:6698139:0",
         "tradingview:fxstreet:a8d469c1dd9e8:0",
         "tradingview:fxstreet:2e214f8cdd9e8:0",
+        "tradingview:cointelegraph:e46256974d9e8:0",
         "tradingview:matriks:6698095:0",
         "tradingview:matriks:6698091:0",
         "tradingview:matriks:6698090:0",
@@ -1736,12 +1745,7 @@
         "tradingview:fxstreet:327c1799bd9e8:0",
         "tradingview:cointelegraph:cdbba6f1ad9e8:0",
         "tradingview:matriks:6695838:0",
-        "tradingview:matriks:6695817:0",
-        "tradingview:matriks:6695802:0",
-        "tradingview:matriks:6695795:0",
-        "tradingview:fxstreet:10f3bd54cd9e8:0",
-        "tradingview:matriks:6695793:0",
-        "tradingview:fxstreet:160bbca75d9e8:0"
+        "tradingview:matriks:6695817:0"
       ]
     },
     "forexfactory": {
@@ -1762,6 +1766,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "02 09 2026 vadeli repo ihalesine gelen tekliflerin toplam 6 00 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6698150:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar sars nt l basis trade riskleri bask olusturuyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:654b94341d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd al c lar kar s k gorunum aras nda 70 00 n uzerine k r lma bekliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:7f88b88f3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd medyas netanyahu nun oglu iran n suikast plan nedeniyle miami den israil e dondu",
+      "link": "https://tr.tradingview.com/news/matriks:6698139:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "cinli enerji devi savas doneminde kar n h zl art rd cin in en buyuk ac k deniz petrol dogal gaz ureticisi cnooc ltd kuresel enerji fiyatlar ndaki sert yukselisin etkisiyle y l n ilk yar s nda kar n art rd g n duyurdu",
+      "link": "https://www.bloomberght.com/cinli-enerji-devi-savas-doneminde-krini-hizli-artirdi-3786473"
+    },
+    {
+      "source": "kap",
+      "text": "tvb vakbn pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren nitelikli yat r mc lara finansman bonosu ihrac n n tamamlanmas sirket turkiye vakiflar bankasi t a o",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655055"
+    },
+    {
+      "source": "kap",
+      "text": "avgyo pay baz nda devre kesici bildirimi avgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655054"
+    },
     {
       "source": "tradingview",
       "text": "isvicre frang parlak isvicre zew ekonomik beklentilerine ragmen abd dolar kars s nda hafif yukseliyor",
@@ -9226,41 +9265,6 @@
       "source": "investing",
       "text": "faraday future mart 2025 finansman ndaki varant yukumluluklerini kald rd",
       "link": "https://tr.investing.com/news/company-news/faraday-future-mart-2025-finansmanndaki-varant-yukumluluklerini-kaldrd-93CH-4042155"
-    },
-    {
-      "source": "investing",
-      "text": "visa ceo su ryan mcinerney 2 16 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/visa-ceosu-ryan-mcinerney-216-milyon-dolarlk-hisse-satt-93CH-4042153"
-    },
-    {
-      "source": "investing",
-      "text": "circle internet cfo su 4 05 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/circle-internet-cfosu-405-milyon-dolarlk-hisse-satt-93CH-4042152"
-    },
-    {
-      "source": "investing",
-      "text": "danaher ceo su rainer blair 12 7 milyon dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/danaher-ceosu-rainer-blair-127-milyon-dolarlk-hisse-satt-93CH-4042151"
-    },
-    {
-      "source": "investing",
-      "text": "jpmorgan santander arjantin lng projesini finanse ediyor",
-      "link": "https://tr.investing.com/news/stock-market-news/jpmorgan-ve-santander-arjantin-lng-projesini-finanse-ediyor-93CH-4042148"
-    },
-    {
-      "source": "investing",
-      "text": "sato technologies 1 5 milyon c ozel yerlestirme planl yor borc anlasmas yapt",
-      "link": "https://tr.investing.com/news/company-news/sato-technologies-15-milyon-c-ozel-yerlestirme-planlyor-borc-anlasmas-yapt-93CH-4042147"
-    },
-    {
-      "source": "investing",
-      "text": "ul solutions perakende tedarik zinciri yaz l m platformunu baslatt",
-      "link": "https://tr.investing.com/news/company-news/ul-solutions-perakende-tedarik-zinciri-yazlm-platformunu-baslatt-93CH-4042145"
-    },
-    {
-      "source": "investing",
-      "text": "general dynamics 54 milyon dolarl k ordu sozlesmesi kazand",
-      "link": "https://tr.investing.com/news/stock-market-news/general-dynamics-54-milyon-dolarlk-ordu-sozlesmesi-kazand-93CH-4042144"
     }
   ]
 }
