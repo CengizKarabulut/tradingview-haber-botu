@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655085",
+      "last_seen_key": "kap:1655090",
       "seen_keys": [
+        "kap:1655090",
+        "kap:1655088",
+        "kap:1655087",
         "kap:1655085",
         "kap:1655084",
         "kap:1655083",
@@ -500,15 +503,13 @@
         "kap:1654416",
         "kap:1654298",
         "kap:1654297",
-        "kap:1654294",
-        "kap:1654291",
-        "kap:1654286",
-        "kap:1654285"
+        "kap:1654294"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/zelenskiy-den-musk-a-devlet-nisani-3786491",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/arjantin-de-milei-buyusu-sonuyor-3786492",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/arjantin-de-milei-buyusu-sonuyor-3786492",
         "bloomberght:https://www.bloomberght.com/zelenskiy-den-musk-a-devlet-nisani-3786491",
         "bloomberght:https://www.bloomberght.com/morgan-tahvillerde-oyun-planini-degistiriyor-3786490",
         "bloomberght:https://www.bloomberght.com/turkiye-ab-nin-besinci-buyuk-ticaret-ortagi-3786489",
@@ -1278,8 +1279,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6698546:0",
+      "last_seen_key": "tradingview:matriks:6698556:0",
       "seen_keys": [
+        "tradingview:matriks:6698556:0",
+        "tradingview:matriks:6698553:0",
         "tradingview:matriks:6698546:0",
         "tradingview:fxstreet:c608ab638d9e8:0",
         "tradingview:fxstreet:d03e30f7fd9e8:0",
@@ -1777,9 +1780,7 @@
         "tradingview:fxstreet:427986a19d9e8:0",
         "tradingview:fxstreet:f654e9e32d9e8:0",
         "tradingview:fxstreet:899b82571d9e8:0",
-        "tradingview:matriks:6696365:0",
-        "tradingview:matriks:6696358:0",
-        "tradingview:cointelegraph:c143296bdd9e8:0"
+        "tradingview:matriks:6696365:0"
       ]
     },
     "forexfactory": {
@@ -1802,6 +1803,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "iran devrim muhaf zlar sozcusu abd kosullar m z kabul etmezse hurmuz bogaz ac lmayacak",
+      "link": "https://tr.tradingview.com/news/matriks:6698556:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iiran devrim muhaf zlar sozcusu abd nin umman iran aras ndaki muzakere surecini engelledigini bunun gecikmeye yol act g n soyledi",
+      "link": "https://tr.tradingview.com/news/matriks:6698553:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "arjantin milei buyusunun rengi soluyor arjantin on y llard r suren gerilimin ard ndan iktidara gelen devlet baskan javier milei nin ekonomiyi canland rma cabalar ivme kaybediyor milei mucizesi nin sonmeye baslamas gelecek y l yap lacak secimler oncesinde siyasi engeller",
+      "link": "https://www.bloomberght.com/arjantin-de-milei-buyusu-sonuyor-3786492"
+    },
+    {
+      "source": "kap",
+      "text": "pa1 sirket genel bilgi formu sirket pardus portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655090"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr sermaye art r m azalt m islemlerine iliskin bildirim bedelsiz sermaye art r m hak kullan m na iliskin baslang c tarihi bildirimi sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655088"
+    },
+    {
+      "source": "kap",
+      "text": "ekos yonetim kurulu komiteleri surdurulebilirlik komitesinin kurulmas surdurulebilirlik politikas n n kabulu sirket ekos teknoloji elektrik a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655087"
+    },
     {
       "source": "tradingview",
       "text": "morgan tahvillerde oyun plan n degistiriyor bloomberght com",
@@ -9271,36 +9302,6 @@
       "source": "tradingview",
       "text": "dolar zay flarken merkez bankalar jeopolitik riskler nvidia bilancosu gundemin odag nda ikon menkul",
       "link": "https://tr.tradingview.com/news/matriks:6695101:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "global piyasalar borsa",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44M08S:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yurt d s sabah teknik butlten ikon menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6695099:0"
-    },
-    {
-      "source": "ntvpara",
-      "text": "40 y ll k sirkete konkordato iflastan once c k stalar 1 y l muhlet verildi manisa n n akhisar ilcesinde bulunan 40 y ll k zeytin sirketine y l sureyle konkordato muhleti verildi",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-40-yillik-sirkete-konkordato-iflastan-once-son-cikistalar-1-yil-muhlet-verildi-1738770"
-    },
-    {
-      "source": "tradingview",
-      "text": "teknik bulten info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6695097:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hindistan alt n fiyat bugun fxstreet taraf ndan derlenen verilere gore alt n fiyat dustu",
-      "link": "https://tr.tradingview.com/news/fxstreet:9779b9157d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "gunluk piyasa bulteni bfrc",
-      "link": "https://tr.tradingview.com/news/matriks:6695093:0"
     }
   ]
 }
