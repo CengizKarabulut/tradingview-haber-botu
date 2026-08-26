@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655136",
+      "last_seen_key": "kap:1655140",
       "seen_keys": [
+        "kap:1655140",
+        "kap:1655138",
         "kap:1655136",
         "kap:1655135",
         "kap:1655134",
@@ -501,9 +503,7 @@
         "kap:1654353",
         "kap:1654352",
         "kap:1654350",
-        "kap:1654349",
-        "kap:1654348",
-        "kap:1654347"
+        "kap:1654349"
       ]
     },
     "bloomberght": {
@@ -1335,8 +1335,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6698967:0",
+      "last_seen_key": "tradingview:fxstreet:4bb36837fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:4bb36837fd9e8:0",
+        "tradingview:matriks:6698971:0",
         "tradingview:matriks:6698967:0",
         "tradingview:fxstreet:bb94e811bd9e8:0",
         "tradingview:fxstreet:9ac487e3dd9e8:0",
@@ -1834,9 +1836,7 @@
         "tradingview:matriks:6696710:0",
         "tradingview:matriks:6696709:0",
         "tradingview:beincrypto:9b3809160d9e8:0",
-        "tradingview:fxstreet:0629b25f9d9e8:0",
-        "tradingview:matriks:6696703:0",
-        "tradingview:fxstreet:7c2df5783d9e8:0"
+        "tradingview:fxstreet:0629b25f9d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1859,6 +1859,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kanada ticaret soku gsyh bask s td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:4bb36837fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "stoxx 600 endeksinde y l sonuna kadar l ml yukselis bekleniyor",
+      "link": "https://tr.tradingview.com/news/matriks:6698971:0"
+    },
+    {
+      "source": "kap",
+      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren tmks ekgyo birinci varl k finansman fonu vdmk kupon oran bildirimi sirket birlesik ipotek finansmani a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655140"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank odunc pay piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655138"
+    },
     {
       "source": "tradingview",
       "text": "moody s bas ekonomisti mark zandi abd nin ekonomik krize dogru suruklenme ihtimali konusunda giderek daha fazla endise duyuyorum",
@@ -9338,26 +9358,6 @@
       "source": "tradingview",
       "text": "gunluk bulten icbc yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6695327:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hisseler yar iletken sat s dalgas wall street uzerinde bask olusturuyor deutsche bank",
-      "link": "https://tr.tradingview.com/news/fxstreet:ded06fb1fd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "fx bulten seker yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6695316:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "guney kore kospi endeksi 0 7 art sla 6742 74 puandan kapand",
-      "link": "https://tr.tradingview.com/news/matriks:6695305:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hsbc doviz mevduat ndaki art s n ard ndan en az 3 milyar dolarl k hindistan tahvili sat n ald bn",
-      "link": "https://tr.tradingview.com/news/matriks:6695298:0"
     }
   ]
 }
