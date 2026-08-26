@@ -1052,8 +1052,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6697263:0",
+      "last_seen_key": "tradingview:fxstreet:6465b5e60d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:6465b5e60d9e8:0",
         "tradingview:matriks:6697263:0",
         "tradingview:fxstreet:53cfdac9bd9e8:0",
         "tradingview:fxstreet:bfb058f61d9e8:0",
@@ -1552,8 +1553,7 @@
         "tradingview:fxstreet:635e164ffd9e8:0",
         "tradingview:beincrypto:49f05cd04d9e8:0",
         "tradingview:beincrypto:c05de56a2d9e8:0",
-        "tradingview:beincrypto:d9176c851d9e8:0",
-        "tradingview:fxstreet:7debed4aed9e8:0"
+        "tradingview:beincrypto:d9176c851d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1574,6 +1574,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "boj eylulde faizi 1 25 e yukseltecek reuters anketi",
+      "link": "https://tr.tradingview.com/news/fxstreet:6465b5e60d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "emisyon hacmi 25 08 2026 itibariyle 992 22 milyar tl",
@@ -9068,11 +9073,6 @@
       "source": "tradingview",
       "text": "abd ingiliz core power nukleer ticari gemi filosu anlasma imzalayacak",
       "link": "https://tr.tradingview.com/news/matriks:6694113:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "avustralya dolar soguyan enflasyon ancak carry destegi suruyor bbh",
-      "link": "https://tr.tradingview.com/news/fxstreet:c1781dff1d9e8:0"
     }
   ]
 }
