@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655311",
+      "last_seen_key": "kap:1655332",
       "seen_keys": [
+        "kap:1655332",
+        "kap:1655321",
         "kap:1655311",
         "kap:1655310",
         "kap:1655309",
@@ -501,14 +503,13 @@
         "kap:1654561",
         "kap:1654560",
         "kap:1654559",
-        "kap:1654558",
-        "kap:1654557",
-        "kap:1654555"
+        "kap:1654558"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/dogalgaz-dagitiminda-standartlari-yeniden-belirleniyor-3786578",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/almanya-da-tuketici-guveni-beklenmedik-sekilde-yukseldi-3786579",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/almanya-da-tuketici-guveni-beklenmedik-sekilde-yukseldi-3786579",
         "bloomberght:https://www.bloomberght.com/dogalgaz-dagitiminda-standartlari-yeniden-belirleniyor-3786578",
         "bloomberght:https://www.bloomberght.com/yilmaz-bes-yilda-17-ton-altin-uretilecek-3786577",
         "bloomberght:https://www.bloomberght.com/irak-tan-ilk-kez-hurmuz-u-bypass-hamlesi-3786576",
@@ -1428,21 +1429,30 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6700608:0",
+      "last_seen_key": "tradingview:matriks:6700679:0",
       "seen_keys": [
+        "tradingview:matriks:6700679:0",
+        "tradingview:matriks:6700677:0",
+        "tradingview:matriks:6700676:0",
+        "tradingview:matriks:6700675:0",
+        "tradingview:matriks:6700666:0",
         "tradingview:matriks:6700608:0",
         "tradingview:fxstreet:4daaf3053d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44O0LX:0",
         "tradingview:matriks:6700600:0",
         "tradingview:fxstreet:28734ffc7d9e8:0",
         "tradingview:fxstreet:f18babac5d9e8:0",
+        "tradingview:beincrypto:b31b10b4ad9e8:0",
         "tradingview:fxstreet:24097bf65d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:0e42e174ed9e8:0",
         "tradingview:fxstreet:2ed644c60d9e8:0",
+        "tradingview:beincrypto:c50f32923d9e8:0",
+        "tradingview:matriks:6700445:0",
         "tradingview:fxstreet:9a016b6bed9e8:0",
         "tradingview:matriks:6700440:0",
         "tradingview:cointelegraph:14bfa4fadd9e8:0",
+        "tradingview:matriks:6700425:0",
         "tradingview:fxstreet:34ef18a1dd9e8:0",
         "tradingview:fxstreet:e9eb3691cd9e8:0",
         "tradingview:matriks:6700375:0",
@@ -1920,16 +1930,7 @@
         "tradingview:matriks:6697564:0",
         "tradingview:matriks:6697552:0",
         "tradingview:fxstreet:4c6e4357fd9e8:0",
-        "tradingview:matriks:6697537:0",
-        "tradingview:matriks:6697533:0",
-        "tradingview:matriks:6697531:0",
-        "tradingview:matriks:6697527:0",
-        "tradingview:matriks:6697525:0",
-        "tradingview:beincrypto:7b9951951d9e8:0",
-        "tradingview:matriks:6697522:0",
-        "tradingview:matriks:6697521:0",
-        "tradingview:fxstreet:aa0d94082d9e8:0",
-        "tradingview:matriks:6697515:0"
+        "tradingview:matriks:6697537:0"
       ]
     },
     "forexfactory": {
@@ -1952,6 +1953,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "simsek ureten yat r m yapan istihdam saglayan esnaf m z n her zaman yan nda olmaya devam edecegiz",
+      "link": "https://tr.tradingview.com/news/matriks:6700679:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "simsek yapt g m z yeni duzenlemeyle kredi kosullar n tam olarak kars layamayan esnaf m z n finansmana erisimini kolaylast r yoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6700677:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "simsek hazine destekli yat r m isletme kredilerinde faiz yukunun onemli k sm n kars l yoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6700676:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "simsek esnaf m z n finansmana erisimini guclendirmeyi surduruyoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6700675:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eurusd jackson hole oncesi kritik esik trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6700666:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "almanya tuketici guveni beklenmedik sekilde yukseldi almanya tuketici guveni ekonomik finansal gorunumdeki iyilesmenin etkisiyle eylul ay beklentilerin uzerinde art s gostererek toparlanma egilimini surdurdu",
+      "link": "https://www.bloomberght.com/almanya-da-tuketici-guveni-beklenmedik-sekilde-yukseldi-3786579"
+    },
+    {
+      "source": "kap",
+      "text": "genkm pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655332"
+    },
+    {
+      "source": "kap",
+      "text": "bizvk tertip ihrac belgesi tertip ihrac belgesi sirket bizim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655321"
+    },
     {
       "source": "tradingview",
       "text": "anket matriks haber bist sentiment anketi borsa kapan s beklentisi 35 48 puan",
@@ -9411,46 +9452,6 @@
       "source": "investing",
       "text": "vishay otomotiv ortak mod sok portfoyunu genisletiyor",
       "link": "https://tr.investing.com/news/company-news/vishay-otomotiv-ortak-mod-sok-portfoyunu-genisletiyor-93CH-4043419"
-    },
-    {
-      "source": "investing",
-      "text": "cree led nanolumens patent anlasmazl g n cozume kavusturdu",
-      "link": "https://tr.investing.com/news/company-news/cree-led-ve-nanolumens-patent-anlasmazlgn-cozume-kavusturdu-93CH-4043418"
-    },
-    {
-      "source": "investing",
-      "text": "tam finans 1 28 milyar tl alacak portfoyunu 82 88 milyon tl ye satt",
-      "link": "https://tr.investing.com/news/global-filings/tam-finans-128-milyar-tl-alacak-portfoyunu-8288-milyon-tlye-satt-93CH-4043416"
-    },
-    {
-      "source": "kap",
-      "text": "golts kredi derecelendirmesi kredi derecelendirme notu hakk nda sirket goltas goller bolgesi cimento sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654945"
-    },
-    {
-      "source": "kap",
-      "text": "glyho paylar n geri al nmas na iliskin bildirim 25 08 2026 tarihli pay geri al m islemleri sirket global yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654944"
-    },
-    {
-      "source": "kap",
-      "text": "jcrav kredi derecelendirmesi kredi derecelendirme iptal bildirimi sirket jcr avrasya derecelendirme a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654943"
-    },
-    {
-      "source": "kap",
-      "text": "tgsas ozel durum ac klamas genel zorunlu pay al m teklifi hakk nda sirket tgs dis ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654941"
-    },
-    {
-      "source": "kap",
-      "text": "casa hak kullan m surec iptal bildirimi sirket casa emtia petrol kimyevi turevleri sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654940"
-    },
-    {
-      "source": "kap",
-      "text": "otkar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren finansman bonosu ihrac sat s n tamamlanmas sirket otokar otomotiv savunma sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654939"
     }
   ]
 }
