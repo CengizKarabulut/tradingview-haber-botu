@@ -2,8 +2,31 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655460",
+      "last_seen_key": "kap:1655487",
       "seen_keys": [
+        "kap:1655487",
+        "kap:1655486",
+        "kap:1655485",
+        "kap:1655484",
+        "kap:1655483",
+        "kap:1655482",
+        "kap:1655480",
+        "kap:1655479",
+        "kap:1655478",
+        "kap:1655477",
+        "kap:1655476",
+        "kap:1655475",
+        "kap:1655474",
+        "kap:1655472",
+        "kap:1655471",
+        "kap:1655470",
+        "kap:1655469",
+        "kap:1655468",
+        "kap:1655467",
+        "kap:1655465",
+        "kap:1655463",
+        "kap:1655462",
+        "kap:1655461",
         "kap:1655460",
         "kap:1655459",
         "kap:1655458",
@@ -29,7 +52,6 @@
         "kap:1655433",
         "kap:1655432",
         "kap:1655431",
-        "kap:1655429",
         "kap:1655428",
         "kap:1655427",
         "kap:1655426",
@@ -59,7 +81,6 @@
         "kap:1655384",
         "kap:1655379",
         "kap:1655378",
-        "kap:1655377",
         "kap:1655353",
         "kap:1655352",
         "kap:1655343",
@@ -68,6 +89,8 @@
         "kap:1655340",
         "kap:1655339",
         "kap:1655338",
+        "kap:1655429",
+        "kap:1655377",
         "kap:1655337",
         "kap:1655336",
         "kap:1655335",
@@ -138,10 +161,11 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/reysasta-fabrikalari-depoya-donusturen-buyume-modeli-3786611",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/piyasanin-yil-sonu-enflasyon-beklentisi-degismedi-3786613",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/piyasanin-yil-sonu-enflasyon-beklentisi-degismedi-3786613",
         "bloomberght:https://www.bloomberght.com/reysasta-fabrikalari-depoya-donusturen-buyume-modeli-3786611",
-        "bloomberght:https://www.bloomberght.com/abd-de-ticareti-acigi-mart-2025ten-beri-en-yuksek-seviyesinde-3786607",
+        "bloomberght:https://www.bloomberght.com/abd-de-ticaret-acigi-mart-2025ten-beri-en-yuksek-seviyesinde-3786607",
         "bloomberght:https://www.bloomberght.com/chicago-fed-baskani-goolsbee-den-iyimser-enflasyon-yorumu-3786606",
         "bloomberght:https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-dustu-3786603",
         "bloomberght:https://www.bloomberght.com/karadeniz-de-yukselen-tansiyon-bugday-fiyatini-uc-yilin-zirvesine-tasidi-3786604",
@@ -187,12 +211,19 @@
         "bloomberght:https://www.bloomberght.com/halkbankin-esnaf-ve-sanatkrlara-yonelik-kredilerin-faiz-indiriminde-degisiklik-3786539",
         "bloomberght:https://www.bloomberght.com/bakan-bolat-suriye-de-yeni-enerji-koridorlari-insasi-basladi-3786538",
         "bloomberght:https://www.bloomberght.com/abd-muttefiklerinden-hurmuz-hl-mayinli-iddiasi-3786529",
+        "bloomberght:https://www.bloomberght.com/abd-de-ticareti-acigi-mart-2025ten-beri-en-yuksek-seviyesinde-3786607",
         "bloomberght:https://www.bloomberght.com/nepal-de-can-kaybi-artiyor-3786528"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/transcripts/atn-international-fiber-buyumesi-ve-nakit-getirilerini-anlatt-93CH-4046870",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-intuit-icin-hedef-fiyat-dusurdu-93CH-4046914",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-intuit-icin-hedef-fiyat-dusurdu-93CH-4046914",
+        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-eagle-financial-hissesini-zayf-kazanclar-nedeniyle-dusurdu-93CH-4046913",
+        "investing:https://tr.investing.com/news/global-filings/misyon-yatrm-bankas-500-milyon-tllik-varant-ihracna-karar-verdi-93CH-4046912",
+        "investing:https://tr.investing.com/news/company-news/vishay-guc-transformator-hattn-flyback-serisiyle-genisletiyor-93CH-4046909",
+        "investing:https://tr.investing.com/news/company-news/accelsius-edgeconnex-egitim-merkezine-sogutma-sistemi-kurdu-93CH-4046910",
+        "investing:https://tr.investing.com/news/company-news/raytheon-mississippideki-tesisini-50-milyon-dolarlk-yatrmla-genisletti-93CH-4046908",
         "investing:https://tr.investing.com/news/transcripts/atn-international-fiber-buyumesi-ve-nakit-getirilerini-anlatt-93CH-4046870",
         "investing:https://tr.investing.com/news/transcripts/red-violet-17-yllk-midwest-ideas-konferansnda-buyume-stratejisini-acklad-93CH-4046868",
         "investing:https://tr.investing.com/news/company-news/chime-financial-hissesi-3381-dolarla-zirve-yapt-93CH-4046867",
@@ -513,6 +544,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "freedom broker intuit hedef fiyat dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/freedom-broker-intuit-icin-hedef-fiyat-dusurdu-93CH-4046914"
+    },
+    {
+      "source": "investing",
+      "text": "freedom broker eagle financial hissesini zay f kazanclar nedeniyle dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/freedom-broker-eagle-financial-hissesini-zayf-kazanclar-nedeniyle-dusurdu-93CH-4046913"
+    },
+    {
+      "source": "investing",
+      "text": "misyon yat r m bankas 500 milyon tl lik varant ihrac na karar verdi",
+      "link": "https://tr.investing.com/news/global-filings/misyon-yatrm-bankas-500-milyon-tllik-varant-ihracna-karar-verdi-93CH-4046912"
+    },
+    {
+      "source": "investing",
+      "text": "vishay guc transformator hatt n flyback serisiyle genisletiyor",
+      "link": "https://tr.investing.com/news/company-news/vishay-guc-transformator-hattn-flyback-serisiyle-genisletiyor-93CH-4046909"
+    },
+    {
+      "source": "investing",
+      "text": "accelsius edgeconnex egitim merkezine sogutma sistemi kurdu",
+      "link": "https://tr.investing.com/news/company-news/accelsius-edgeconnex-egitim-merkezine-sogutma-sistemi-kurdu-93CH-4046910"
+    },
+    {
+      "source": "investing",
+      "text": "raytheon mississippi deki tesisini 50 milyon dolarl k yat r mla genisletti",
+      "link": "https://tr.investing.com/news/company-news/raytheon-mississippideki-tesisini-50-milyon-dolarlk-yatrmla-genisletti-93CH-4046908"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bloomberg ht nin agustos ay enflasyon anketi ac kland bloomberg ht nin anketine gore agustos ay nda enflasyonun ayl k bazda yuzde 1 91 y ll k bazda yuzde 31 61 artmas bekleniyor",
+      "link": "https://www.bloomberght.com/piyasanin-yil-sonu-enflasyon-beklentisi-degismedi-3786613"
+    },
+    {
+      "source": "kap",
+      "text": "mcard halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin gerceklesme degerlendirme raporu sirket metropal kurumsal hizmetler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655487"
+    },
+    {
+      "source": "kap",
+      "text": "mcard sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m ndan elde edilen fonun kullan m na iliskin rapor sirket metropal kurumsal hizmetler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655486"
+    },
+    {
+      "source": "kap",
+      "text": "przma ozel durum ac klamas genel yonetim kurulu uye degisiklikleri sirket prizma pres matbaacilik yayincilik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655485"
+    },
+    {
+      "source": "kap",
+      "text": "grtho ozel durum ac klamas genel efkaftepe res ced surecinin olumlu sonuclanmas hk sirket grainturk holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655484"
+    },
+    {
+      "source": "kap",
+      "text": "yksln kat l m finans ilkeleri bilgi formu sirket yukselen celik a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655483"
+    },
+    {
+      "source": "kap",
+      "text": "izenr paylar n geri al nmas na iliskin bildirim pay geri al m program baslat lmas sirket izdemir enerji elektrik uretim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655482"
+    },
+    {
+      "source": "kap",
+      "text": "orge sirket genel bilgi formu sirket orge enerji elektrik taahhut a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655480"
+    },
+    {
+      "source": "kap",
+      "text": "kaplm genel kurul islemlerine iliskin bildirim 2025 y l olagan genel kurul toplant davet metninin basl g na iliskin duzeltme sirket kaplamin ambalaj sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655479"
+    },
+    {
+      "source": "kap",
+      "text": "barma tsrs uyumlu surdurulebilirlik raporu 2025 y l tsrs uyumlu surdurulebilirlik raporu sirket barem ambalaj sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655478"
+    },
+    {
+      "source": "kap",
+      "text": "hfp pay al m sat m bildirimi ozel durum ac klamas sirket hedef portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655477"
+    },
+    {
+      "source": "kap",
+      "text": "segmn ozel durum ac klamas genel yeni sat s anlasmas bildirimi sirket segmen kardesler gida uretim ambalaj sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655476"
+    },
+    {
+      "source": "kap",
+      "text": "jcrav kredi derecelendirmesi kredi derecelendirme bildirimi sirket jcr avrasya derecelendirme a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655475"
+    },
+    {
+      "source": "kap",
+      "text": "magen paylar n geri al nmas na iliskin bildirim 27 08 2026 tarihli pay geri al m islemleri sirket margun enerji uretim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655474"
+    },
+    {
+      "source": "kap",
+      "text": "orge esas sozlesme sirket esas sozlesmesi sirket orge enerji elektrik taahhut a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655472"
+    },
+    {
+      "source": "kap",
+      "text": "orge esas sozlesme tadili esas sozlesme degisikliginin tescil ilan sirket orge enerji elektrik taahhut a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655471"
+    },
+    {
+      "source": "kap",
+      "text": "orge sermaye art r m azalt m islemlerine iliskin bildirim sermaye art r m n n tescil ilan sirket orge enerji elektrik taahhut a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655470"
+    },
+    {
+      "source": "kap",
+      "text": "barma ozel durum ac klamas genel epdk dan uretim lisans al nmas hakk nda sirket barem ambalaj sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655469"
+    },
+    {
+      "source": "kap",
+      "text": "skp pay al m sat m bildirimi pay al m sat m bildirimi sirket tera portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655468"
+    },
+    {
+      "source": "kap",
+      "text": "arsan kat l m finans ilkeleri bilgi formu sirket arsan holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655467"
+    },
+    {
+      "source": "kap",
+      "text": "glcvy ozel durum ac klamas genel ihale sonras devir temlik islemlerinin tamamlanmas hk sirket gelecek varlik yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655465"
+    },
+    {
+      "source": "kap",
+      "text": "skylp yeni is iliskisi sirketimiz istanbul takas saklama bankas a s aras nda merkezi veri depolama urunu kurulum bak m destek hizmeti sat n al m sozlesme imzalanmas hk sirket skyalp finansal teknolojiler danismanlik a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655463"
+    },
+    {
+      "source": "kap",
+      "text": "avhol paylar n geri al nmas na iliskin bildirim avhol paylar n n geri al m sirket avrupa yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655462"
+    },
+    {
+      "source": "kap",
+      "text": "psp genel ac klama kredi derecelendirmesi sirket pusula portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655461"
+    },
     {
       "source": "tradingview",
       "text": "borsa istanbul gunu 35 41 puan 0 24 dususle kapatt matriks haber anketi 35 48 puan",
