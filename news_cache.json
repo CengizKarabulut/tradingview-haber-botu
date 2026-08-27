@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655505",
+      "last_seen_key": "kap:1655509",
       "seen_keys": [
+        "kap:1655509",
+        "kap:1655508",
+        "kap:1655507",
+        "kap:1655506",
         "kap:1655505",
         "kap:1655504",
         "kap:1655503",
@@ -236,8 +240,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/stagwell-adobe-ortaklgn-kurumsal-buyume-icin-genisletiyor-93CH-4047010",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/galantas-gold-110000-varant-kullanmn-duyurdu-93CH-4047014",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/galantas-gold-110000-varant-kullanmn-duyurdu-93CH-4047014",
+        "investing:https://tr.investing.com/news/stock-market-news/rosenblatt-marvelli-temel-uzun-vade-fikri-secti-hedefi-yukseltti-93CH-4047013",
+        "investing:https://tr.investing.com/news/transcripts/paysign-17-yllk-midwest-ideas-konferansnda-buyume-genisliyor-93CH-4047011",
         "investing:https://tr.investing.com/news/company-news/stagwell-adobe-ortaklgn-kurumsal-buyume-icin-genisletiyor-93CH-4047010",
         "investing:https://tr.investing.com/news/transcripts/stepan-midwest-ideasta-marj-iyilesmesi-hz-kazanyor-93CH-4047009",
         "investing:https://tr.investing.com/news/company-news/rubrik-hissesi-10665-dolarda-tum-zamanlarn-zirvesinde-93CH-4047007",
@@ -245,9 +252,6 @@
         "investing:https://tr.investing.com/news/transcripts/onsemi-deutsche-bank-2026-teknoloji-konferansnda-marj-atagnda-93CH-4047004",
         "investing:https://tr.investing.com/news/company-news/saic-hissesi-1297-dolarlk-52-haftalk-zirvesine-ulast-93CH-4047003",
         "investing:https://tr.investing.com/news/insider-trading-news/mueller-industries-yoneticisi-scott-goldman-128160-dolar-degerinde-hisse-satt-93CH-4047000",
-        "investing:https://tr.investing.com/news/stock-market-news/faiz-oranlar-ne-kadar-yukselebilir-ki-hisseler-zarar-gormeye-baslasn-4047002",
-        "investing:https://tr.investing.com/news/transcripts/energy-services-of-america-buyume-ile-degerleme-acg-bulusuyor-93CH-4046999",
-        "investing:https://tr.investing.com/news/transcripts/photronics-ileri-dugumlere-odaklanyor-93CH-4046998",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -268,6 +272,9 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/faiz-oranlar-ne-kadar-yukselebilir-ki-hisseler-zarar-gormeye-baslasn-4047002",
+        "investing:https://tr.investing.com/news/transcripts/energy-services-of-america-buyume-ile-degerleme-acg-bulusuyor-93CH-4046999",
+        "investing:https://tr.investing.com/news/transcripts/photronics-ileri-dugumlere-odaklanyor-93CH-4046998",
         "investing:https://tr.investing.com/news/stock-market-news/jfrog-hisseleri-yeni-ag-guvenlik-aracyla-yukseldi-93CH-4046994",
         "investing:https://tr.investing.com/news/stock-market-news/eos-energy-hisseleri-uretim-konsolidasyonu-planyla-yukseldi-93CH-4046993",
         "investing:https://tr.investing.com/news/commodities-news/kuzeybat-avrupa-benzin-marjlar-2022-ortasndan-bu-yana-en-yuksek-seviyede-93CH-4046992",
@@ -452,10 +459,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:d9a04bf81d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:1c2cdbfe6d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:1c2cdbfe6d9e8:0",
         "tradingview:fxstreet:d9a04bf81d9e8:0",
         "tradingview:fxstreet:913051a6ed9e8:0",
+        "tradingview:beincrypto:d2d4e4bd6d9e8:0",
         "tradingview:fxstreet:77ad48754d9e8:0",
         "tradingview:fxstreet:c476145e6d9e8:0",
         "tradingview:cointelegraph:382cbb83fd9e8:0",
@@ -654,6 +663,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "nvidia n n beklentileri asan sonuclar riskli varl klar desteklerken bitcoin 81 000 dolar hedefliyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:1c2cdbfe6d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "galantas gold 110 000 varant kullan m n duyurdu",
+      "link": "https://tr.investing.com/news/company-news/galantas-gold-110000-varant-kullanmn-duyurdu-93CH-4047014"
+    },
+    {
+      "source": "investing",
+      "text": "rosenblatt marvell i temel uzun vade fikri secti hedefi yukseltti",
+      "link": "https://tr.investing.com/news/stock-market-news/rosenblatt-marvelli-temel-uzun-vade-fikri-secti-hedefi-yukseltti-93CH-4047013"
+    },
+    {
+      "source": "investing",
+      "text": "paysign 17 y ll k midwest ideas konferans nda buyume genisliyor",
+      "link": "https://tr.investing.com/news/transcripts/paysign-17-yllk-midwest-ideas-konferansnda-buyume-genisliyor-93CH-4047011"
+    },
+    {
+      "source": "kap",
+      "text": "maalt maddi duran varl k kiraya verilmesi veya ayni hak tesisi mares otel tesislerine iliskin olarak mp hotel management turizm insaat yat r m a s imzalanan kira sozlesmesi nin tbc seyahat acenteligi turizm a s ye devri sirket marmaris altinyunus turistik tesisler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655509"
+    },
+    {
+      "source": "kap",
+      "text": "halkb thl sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m ndan elde edilecek fonun kullan m na iliskin rapor sirket turkiye halk bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655508"
+    },
+    {
+      "source": "kap",
+      "text": "halkb thl izahname spk onay na sunulan izahname sirket turkiye halk bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655507"
+    },
+    {
+      "source": "kap",
+      "text": "halkb thl sermaye art r m azalt m islemlerine iliskin bildirim halka arz yoluyla sermaye art r m na iliskin spk basvurusu sirket turkiye halk bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655506"
+    },
     {
       "source": "tradingview",
       "text": "gumus 70 dolara dogru ilerliyor ancak warsh ralliyi sogutabilir",
