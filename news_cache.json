@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655498",
+      "last_seen_key": "kap:1655501",
       "seen_keys": [
+        "kap:1655501",
+        "kap:1655500",
+        "kap:1655499",
         "kap:1655498",
         "kap:1655497",
         "kap:1655496",
@@ -215,6 +218,7 @@
         "bloomberght:https://www.bloomberght.com/nvidia-nin-ceyreklik-gelir-tahmini-beklentileri-asti-3786542",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-27082026-3786541",
         "bloomberght:https://www.bloomberght.com/30-agustosta-marmaray-baskentray-ve-izban-ucretsiz-olacak-3786540",
+        "bloomberght:https://www.bloomberght.com/piyasalarda-gunun-ozeti-27-agustos-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3786617",
         "bloomberght:https://www.bloomberght.com/gram-altinda-son-durum-ne-27-agustos-2026-persembe-altin-fiyatlari-pkh1-3786564",
         "bloomberght:https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-27-agustos-2026-doviz-fiyatlari-pkh2-3786559",
         "bloomberght:https://www.bloomberght.com/halkbankin-esnaf-ve-sanatkrlara-yonelik-kredilerin-faiz-indiriminde-degisiklik-3786539",
@@ -414,8 +418,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:fd93c7f78d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:863b39e25d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:863b39e25d9e8:0",
+        "tradingview:cointelegraph:2a6b508b6d9e8:0",
+        "tradingview:cointelegraph:7ada3a416d9e8:0",
         "tradingview:fxstreet:fd93c7f78d9e8:0",
         "tradingview:matriks:6701592:0",
         "tradingview:matriks:6701590:0",
@@ -430,6 +437,7 @@
         "tradingview:matriks:6701571:0",
         "tradingview:matriks:6701569:0",
         "tradingview:matriks:6701567:0",
+        "tradingview:beincrypto:45e36d78ed9e8:0",
         "tradingview:matriks:6701564:0",
         "tradingview:matriks:6701562:0",
         "tradingview:matriks:6701557:0",
@@ -450,6 +458,7 @@
         "tradingview:matriks:6701502:0",
         "tradingview:matriks:6701501:0",
         "tradingview:matriks:6701500:0",
+        "tradingview:fxstreet:fceaf3c9cd9e8:0",
         "tradingview:beincrypto:986c60a8fd9e8:0",
         "tradingview:beincrypto:3f808cdead9e8:0",
         "tradingview:fxstreet:c70bc98b8d9e8:0",
@@ -605,6 +614,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "dow jones industrial average n iki buyuk yukselisini yirmi sekiz hisse golgeliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:863b39e25d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin in yuzde 23 luk yukselisi darbe alm s madencileri yapay zeka hisselerini geride b rakacak sekilde ucurdu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:2a6b508b6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "birlesik krall k hukumeti 2025 te 240 kripto milyoneri bildirdi",
+      "link": "https://tr.tradingview.com/news/cointelegraph:7ada3a416d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "sasa ozel durum ac klamas genel suresi icinde kaydilestirilmeyen paylara iliskin yat r mc tazmin merkezi basvurular hk sirket sasa polyester sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655501"
+    },
+    {
+      "source": "kap",
+      "text": "idgyo kat l m finans ilkeleri bilgi formu sirket idealist gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655500"
+    },
+    {
+      "source": "kap",
+      "text": "ersu ozel durum ac klamas genel konya eregli bulunan tas nmazlar m za iliskin imar plan onay karma proje gelistirme cal smalar hakk nda sirket ersu meyve gida sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655499"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini fed sahinlerinin usd yi yukseltmesiyle guclu abd issizlik maas basvurular sonras geriledi",
