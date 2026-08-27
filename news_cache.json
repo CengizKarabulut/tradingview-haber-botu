@@ -240,8 +240,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/galantas-gold-110000-varant-kullanmn-duyurdu-93CH-4047014",
+      "last_seen_key": "investing:https://tr.investing.com/news/transcripts/smithmidland-midwest-ideasta-temel-pazarlarda-ruzgar-arkada-93CH-4047018",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/transcripts/smithmidland-midwest-ideasta-temel-pazarlarda-ruzgar-arkada-93CH-4047018",
+        "investing:https://tr.investing.com/news/insider-trading-news/exodus-movement-ctosu-71640-dolarlk-hisse-satt-93CH-4047017",
+        "investing:https://tr.investing.com/news/economy-news/fedin-hammack-enflasyonun-yl-sonunda-yuzde-3te-olacagn-goruyor-93CH-4047015",
         "investing:https://tr.investing.com/news/company-news/galantas-gold-110000-varant-kullanmn-duyurdu-93CH-4047014",
         "investing:https://tr.investing.com/news/stock-market-news/rosenblatt-marvelli-temel-uzun-vade-fikri-secti-hedefi-yukseltti-93CH-4047013",
         "investing:https://tr.investing.com/news/transcripts/paysign-17-yllk-midwest-ideas-konferansnda-buyume-genisliyor-93CH-4047011",
@@ -249,9 +252,6 @@
         "investing:https://tr.investing.com/news/transcripts/stepan-midwest-ideasta-marj-iyilesmesi-hz-kazanyor-93CH-4047009",
         "investing:https://tr.investing.com/news/company-news/rubrik-hissesi-10665-dolarda-tum-zamanlarn-zirvesinde-93CH-4047007",
         "investing:https://tr.investing.com/news/analyst-ratings/northland-everpure-hissesi-icin-hedef-fiyat-128-dolara-yukseltti-93CH-4047005",
-        "investing:https://tr.investing.com/news/transcripts/onsemi-deutsche-bank-2026-teknoloji-konferansnda-marj-atagnda-93CH-4047004",
-        "investing:https://tr.investing.com/news/company-news/saic-hissesi-1297-dolarlk-52-haftalk-zirvesine-ulast-93CH-4047003",
-        "investing:https://tr.investing.com/news/insider-trading-news/mueller-industries-yoneticisi-scott-goldman-128160-dolar-degerinde-hisse-satt-93CH-4047000",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -272,6 +272,9 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/transcripts/onsemi-deutsche-bank-2026-teknoloji-konferansnda-marj-atagnda-93CH-4047004",
+        "investing:https://tr.investing.com/news/company-news/saic-hissesi-1297-dolarlk-52-haftalk-zirvesine-ulast-93CH-4047003",
+        "investing:https://tr.investing.com/news/insider-trading-news/mueller-industries-yoneticisi-scott-goldman-128160-dolar-degerinde-hisse-satt-93CH-4047000",
         "investing:https://tr.investing.com/news/stock-market-news/faiz-oranlar-ne-kadar-yukselebilir-ki-hisseler-zarar-gormeye-baslasn-4047002",
         "investing:https://tr.investing.com/news/transcripts/energy-services-of-america-buyume-ile-degerleme-acg-bulusuyor-93CH-4046999",
         "investing:https://tr.investing.com/news/transcripts/photronics-ileri-dugumlere-odaklanyor-93CH-4046998",
@@ -459,9 +462,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:1c2cdbfe6d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:10e50689fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:10e50689fd9e8:0",
+        "tradingview:fxstreet:ef2d02fb3d9e8:0",
+        "tradingview:fxstreet:6a4c91ff2d9e8:0",
+        "tradingview:fxstreet:f9cee082dd9e8:0",
         "tradingview:cointelegraph:1c2cdbfe6d9e8:0",
+        "tradingview:fxstreet:fe5e6087ed9e8:0",
         "tradingview:fxstreet:d9a04bf81d9e8:0",
         "tradingview:fxstreet:913051a6ed9e8:0",
         "tradingview:beincrypto:d2d4e4bd6d9e8:0",
@@ -663,6 +671,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "fed den hammack politika k s tlay c l g n n hala gerekli oldugunu soyledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:10e50689fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi iki s k lasmac konusma boyunca yatay seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ef2d02fb3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ons alt n dusen getirilerin fed in s k lasmac soylemini dengelemesiyle yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:6a4c91ff2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd hazine bakan bessent g20 bakanlar na iran finansman konusunda bask yapacak",
+      "link": "https://tr.tradingview.com/news/fxstreet:f9cee082dd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "smith midland midwest ideas ta temel pazarlarda ruzgar arkada",
+      "link": "https://tr.investing.com/news/transcripts/smithmidland-midwest-ideasta-temel-pazarlarda-ruzgar-arkada-93CH-4047018"
+    },
+    {
+      "source": "investing",
+      "text": "exodus movement cto su 71 640 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/exodus-movement-ctosu-71640-dolarlk-hisse-satt-93CH-4047017"
+    },
+    {
+      "source": "investing",
+      "text": "fed in hammack enflasyonun y l sonunda yuzde 3 te olacag n goruyor",
+      "link": "https://tr.investing.com/news/economy-news/fedin-hammack-enflasyonun-yl-sonunda-yuzde-3te-olacagn-goruyor-93CH-4047015"
+    },
     {
       "source": "tradingview",
       "text": "nvidia n n beklentileri asan sonuclar riskli varl klar desteklerken bitcoin 81 000 dolar hedefliyor",
