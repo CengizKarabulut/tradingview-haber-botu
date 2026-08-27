@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655379",
+      "last_seen_key": "kap:1655385",
       "seen_keys": [
+        "kap:1655385",
+        "kap:1655384",
         "kap:1655379",
         "kap:1655378",
         "kap:1655377",
@@ -501,9 +503,7 @@
         "kap:1654591",
         "kap:1654588",
         "kap:1654701",
-        "kap:1654584",
-        "kap:1654578",
-        "kap:1654577"
+        "kap:1654584"
       ]
     },
     "bloomberght": {
@@ -1388,8 +1388,22 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6701012:0",
+      "last_seen_key": "tradingview:matriks:6701063:0",
       "seen_keys": [
+        "tradingview:matriks:6701063:0",
+        "tradingview:matriks:6701054:0",
+        "tradingview:matriks:6701053:0",
+        "tradingview:matriks:6701051:0",
+        "tradingview:matriks:6701050:0",
+        "tradingview:matriks:6701047:0",
+        "tradingview:matriks:6701040:0",
+        "tradingview:fxstreet:4198c362ed9e8:0",
+        "tradingview:matriks:6701039:0",
+        "tradingview:matriks:6701036:0",
+        "tradingview:matriks:6701035:0",
+        "tradingview:matriks:6701027:0",
+        "tradingview:matriks:6701025:0",
+        "tradingview:fxstreet:41b5829b8d9e8:0",
         "tradingview:matriks:6701012:0",
         "tradingview:matriks:6701011:0",
         "tradingview:fxstreet:88814098ed9e8:0",
@@ -1418,15 +1432,40 @@
         "tradingview:matriks:6700888:0",
         "tradingview:matriks:6700886:0",
         "tradingview:matriks:6700883:0",
+        "tradingview:matriks:6700854:0",
         "tradingview:fxstreet:7358fc7ddd9e8:0",
+        "tradingview:matriks:6700853:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44O0PN:0",
+        "tradingview:matriks:6700851:0",
+        "tradingview:matriks:6700849:0",
+        "tradingview:matriks:6700848:0",
+        "tradingview:matriks:6700847:0",
+        "tradingview:matriks:6700846:0",
+        "tradingview:matriks:6700845:0",
+        "tradingview:matriks:6700844:0",
+        "tradingview:matriks:6700843:0",
+        "tradingview:matriks:6700842:0",
+        "tradingview:matriks:6700841:0",
+        "tradingview:matriks:6700840:0",
+        "tradingview:matriks:6700839:0",
+        "tradingview:matriks:6700838:0",
+        "tradingview:matriks:6700837:0",
+        "tradingview:matriks:6700836:0",
+        "tradingview:matriks:6700835:0",
+        "tradingview:matriks:6700834:0",
+        "tradingview:matriks:6700833:0",
+        "tradingview:matriks:6700832:0",
+        "tradingview:matriks:6700831:0",
         "tradingview:matriks:6700823:0",
         "tradingview:matriks:6700814:0",
         "tradingview:matriks:6700802:0",
         "tradingview:matriks:6700800:0",
         "tradingview:fxstreet:a04c628bcd9e8:0",
+        "tradingview:matriks:6700791:0",
+        "tradingview:matriks:6700789:0",
         "tradingview:beincrypto:0df8e7f3fd9e8:0",
         "tradingview:fxstreet:1854f0d55d9e8:0",
+        "tradingview:matriks:6700783:0",
         "tradingview:fxstreet:efb9f0cc7d9e8:0",
         "tradingview:matriks:6700759:0",
         "tradingview:matriks:6700758:0",
@@ -1850,46 +1889,7 @@
         "tradingview:matriks:6698031:0",
         "tradingview:matriks:6698030:0",
         "tradingview:matriks:6698023:0",
-        "tradingview:matriks:6698020:0",
-        "tradingview:matriks:6698018:0",
-        "tradingview:fxstreet:8f5183c17d9e8:0",
-        "tradingview:matriks:6697996:0",
-        "tradingview:fxstreet:ff46736bdd9e8:0",
-        "tradingview:fxstreet:4a9151311d9e8:0",
-        "tradingview:matriks:6697983:0",
-        "tradingview:fxstreet:8070f47f8d9e8:0",
-        "tradingview:fxstreet:d14980c67d9e8:0",
-        "tradingview:matriks:6697939:0",
-        "tradingview:matriks:6697937:0",
-        "tradingview:fxstreet:af5fd2792d9e8:0",
-        "tradingview:matriks:6697905:0",
-        "tradingview:matriks:6697904:0",
-        "tradingview:matriks:6697901:0",
-        "tradingview:fxstreet:d511b1034d9e8:0",
-        "tradingview:matriks:6697898:0",
-        "tradingview:fxstreet:2c84bb3dfd9e8:0",
-        "tradingview:matriks:6697874:0",
-        "tradingview:matriks:6697875:0",
-        "tradingview:matriks:6697871:0",
-        "tradingview:beincrypto:bfd0cfa66d9e8:0",
-        "tradingview:fxstreet:b204b182fd9e8:0",
-        "tradingview:fxstreet:6074cadddd9e8:0",
-        "tradingview:cointelegraph:707164e0cd9e8:0",
-        "tradingview:fxstreet:5c66dd68bd9e8:0",
-        "tradingview:matriks:6697828:0",
-        "tradingview:beincrypto:21b909210d9e8:0",
-        "tradingview:cointelegraph:377dc4d9dd9e8:0",
-        "tradingview:matriks:6697813:0",
-        "tradingview:fxstreet:4f425fe07d9e8:0",
-        "tradingview:matriks:6697797:0",
-        "tradingview:matriks:6697793:0",
-        "tradingview:matriks:6697787:0",
-        "tradingview:matriks:6697783:0",
-        "tradingview:fxstreet:2e6b221bfd9e8:0",
-        "tradingview:fxstreet:a2b91aeded9e8:0",
-        "tradingview:matriks:6697767:0",
-        "tradingview:matriks:6697737:0",
-        "tradingview:matriks:6697736:0"
+        "tradingview:matriks:6698020:0"
       ]
     },
     "forexfactory": {
@@ -1912,6 +1912,86 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "fed goolsbee verilerin politika gorunumu onerdigini izliyoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6701063:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd gecici oto haric perakende stoklar temmuz 0 7 onceki 0 4",
+      "link": "https://tr.tradingview.com/news/matriks:6701054:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd gecici toptan esya stoklar temmuz 1 3 onceki 0 2",
+      "link": "https://tr.tradingview.com/news/matriks:6701053:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd gecici mal ticaret dengesi temmuz 118 8 milyar dolar beklenti 100 5 milyar onceki 101 4 milyar",
+      "link": "https://tr.tradingview.com/news/matriks:6701051:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd 4 haftal k ortalama issizlik basvurular 205 50 bin onceki 204 00 bin",
+      "link": "https://tr.tradingview.com/news/matriks:6701050:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gosterge niteligindeki tc merkez bankas dolar al s 48 0466 sat s 48 1331 euro al s 55 9574 sat s 56 0582",
+      "link": "https://tr.tradingview.com/news/matriks:6701047:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd issizlik basvurular verisi ac klanacak",
+      "link": "https://tr.tradingview.com/news/matriks:6701040:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "brent 84 83 dolar seviyesindeki destegi izliyor societe generale",
+      "link": "https://tr.tradingview.com/news/fxstreet:4198c362ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed goolsbee k sa vadede en buyuk endise enflasyonun kontrol alt nda olmamas",
+      "link": "https://tr.tradingview.com/news/matriks:6701039:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed goolsbee mevcut dusuk ise al m dusuk isten c karma oranlar n n goruldugu is gucu piyasas al s lmad k durum",
+      "link": "https://tr.tradingview.com/news/matriks:6701036:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed goolsbee ekonomi genel olarak istikrarl seyretti",
+      "link": "https://tr.tradingview.com/news/matriks:6701035:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bak sta yurt d s garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6701027:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb haftal k menkul k ymet istatistikleri ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6701025:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar abd kanada ticaret savas k z s rken k r lgan kalmay surduruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:41b5829b8d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "mpo genel ac klama yeni fon kurulusu mt portfoy yonetimi a s birinci gayrimenkul yat r m fonu sirket mt portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655385"
+    },
+    {
+      "source": "kap",
+      "text": "cwene ozel durum ac klamas genel sermaye avans odemesi hk sirket cw enerji muhendislik ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655384"
+    },
     {
       "source": "tradingview",
       "text": "fed goolsbee merkez bankalar uzerindeki politik mudahaleler genellikle enflasyona onculuk ediyor",
@@ -9331,86 +9411,6 @@
       "source": "kap",
       "text": "burce finansal rapor sirket burcelik bursa celik dokum sanayii a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1654971"
-    },
-    {
-      "source": "tradingview",
-      "text": "cin yuan ticaret riskleri abd dolar kars s ndaki kazanclar s n rl yor ocbc",
-      "link": "https://tr.tradingview.com/news/fxstreet:ce8f020b0d9e8:0"
-    },
-    {
-      "source": "investing",
-      "text": "seagate in ai zirvesindeki mesaj veri saklama odak noktas nda",
-      "link": "https://tr.investing.com/news/transcripts/seagatein-ai-zirvesindeki-mesaj-veri-saklama-odak-noktasnda-93CH-4043552"
-    },
-    {
-      "source": "investing",
-      "text": "ecb iran savas endiseleri nedeniyle eylul faiz art racak",
-      "link": "https://tr.investing.com/news/economy-news/ecb-iran-savas-endiseleri-nedeniyle-eylulde-faiz-artracak-93CH-4043551"
-    },
-    {
-      "source": "investing",
-      "text": "alpha metallurgical yoneticisi gorzynski 2 09 milyon dolarl k hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/alpha-metallurgical-yoneticisi-gorzynski-209-milyon-dolarlk-hisse-ald-93CH-4043550"
-    },
-    {
-      "source": "investing",
-      "text": "newmont goldcorp hissesi 134 9 dolarda rekor k rd",
-      "link": "https://tr.investing.com/news/company-news/newmont-goldcorp-hissesi-1349-dolarda-rekor-krd-93CH-4043549"
-    },
-    {
-      "source": "investing",
-      "text": "lemaitre vascular hissesi 78 64 dolara 52 haftal k dip yapt",
-      "link": "https://tr.investing.com/news/company-news/lemaitre-vascular-hissesi-7864-dolara-52-haftalk-dip-yapt-93CH-4043547"
-    },
-    {
-      "source": "investing",
-      "text": "jazz pharmaceuticals hisseleri neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/jazz-pharmaceuticals-hisseleri-neden-yukseliste-93CH-4043546"
-    },
-    {
-      "source": "investing",
-      "text": "mckesson hissesi bugun neden yukseliste",
-      "link": "https://tr.investing.com/news/stock-market-news/mckesson-hissesi-bugun-neden-yukseliste-93CH-4043545"
-    },
-    {
-      "source": "investing",
-      "text": "fda n n ziihera onay n n ard ndan jazz pharmaceuticals hisseleri yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/fdann-ziihera-onaynn-ardndan-jazz-pharmaceuticals-hisseleri-yukseldi-93CH-4043542"
-    },
-    {
-      "source": "investing",
-      "text": "oracle six five zirvesi nde yapay zeka dag t k buluta kay yor",
-      "link": "https://tr.investing.com/news/transcripts/oracle-six-five-zirvesinde-yapay-zeka-dagtk-buluta-kayyor-93CH-4043541"
-    },
-    {
-      "source": "investing",
-      "text": "mckesson hisseleri 2 25 milyar dolarl k anlasmayla yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/mckesson-hisseleri-225-milyar-dolarlk-anlasmayla-yukseldi-93CH-4043540"
-    },
-    {
-      "source": "kap",
-      "text": "ofsym paylar n geri al nmas na iliskin bildirim 25 08 2026 tarihli pay geri al m islemleri sirket ofis yem gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654970"
-    },
-    {
-      "source": "investing",
-      "text": "guggenheim borc dustukten sonra indirimli kredi alabilecegini soyluyor",
-      "link": "https://tr.investing.com/news/stock-market-news/guggenheim-borc-dustukten-sonra-indirimli-kredi-alabilecegini-soyluyor-93CH-4043539"
-    },
-    {
-      "source": "investing",
-      "text": "pepsico kilo verme ilaclar n n kapsam n maliyetler nedeniyle kald r yor",
-      "link": "https://tr.investing.com/news/stock-market-news/pepsico-kilo-verme-ilaclarnn-kapsamn-maliyetler-nedeniyle-kaldryor-93CH-4043538"
-    },
-    {
-      "source": "investing",
-      "text": "abbott tan cift sensorlu glikoz keton izleme cihaz na fda onay",
-      "link": "https://tr.investing.com/news/company-news/abbotttan-cift-sensorlu-glikozketon-izleme-cihazna-fda-onay-93CH-4043535"
-    },
-    {
-      "source": "investing",
-      "text": "thomson reuters hisseleri neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/thomson-reuters-hisseleri-neden-dusuyor-93CH-4043534"
     }
   ]
 }
