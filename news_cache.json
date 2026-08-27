@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655409",
+      "last_seen_key": "kap:1655413",
       "seen_keys": [
+        "kap:1655413",
         "kap:1655409",
         "kap:1655408",
         "kap:1655404",
@@ -149,18 +150,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-nvidia-icin-hisse-hedefini-yukseltti-93CH-4046595",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/first-solar-hisseleri-bmonun-outperform-notuna-yukseltmesiyle-scrad-93CH-4046657",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-nvidia-icin-hisse-hedefini-yukseltti-93CH-4046595",
-        "investing:https://tr.investing.com/news/stock-market-news/american-airlines-seyahat-talebine-bagl-yedi-uluslararas-hat-ekliyor-93CH-4046593",
-        "investing:https://tr.investing.com/news/transcripts/delivery-hero-2c-2026-gelir-tahminini-ast-93CH-4046588",
-        "investing:https://tr.investing.com/news/stock-market-news/healthequity-hissesi-bugun-neden-dusuyor-93CH-4046586",
-        "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-patlamasndan-hangi-cin-hisseleri-kazancl-ckacak-4046587",
-        "investing:https://tr.investing.com/news/transcripts/delivery-hero-2-ceyrek-2026-gelir-tahminini-ast-93CH-4046583",
-        "investing:https://tr.investing.com/news/company-news/fingermotion-veri-merkezi-stratejisini-acklad-93CH-4046579",
-        "investing:https://tr.investing.com/news/company-news/evolution-metals-guney-kore-tesisindeki-guc-kapasitesini-artracak-93CH-4046578",
-        "investing:https://tr.investing.com/news/stock-market-news/deutsche-bank-novo-nordiski-satsa-dusurdu-hisse-geriledi-4046582",
-        "investing:https://tr.investing.com/news/company-news/evolution-metals-guney-korede-guc-kapasitesini-genisletiyor-93CH-4046574",
+        "investing:https://tr.investing.com/news/stock-market-news/first-solar-hisseleri-bmonun-outperform-notuna-yukseltmesiyle-scrad-93CH-4046657",
+        "investing:https://tr.investing.com/news/economy-news/ecbnin-eylul-zamm-gerekceler-gucleniyor-mu-4046663",
+        "investing:https://tr.investing.com/news/company-news/gana-mediann-estadio-deportesi-meksika-maclarn-yaynlayacak-93CH-4046655",
+        "investing:https://tr.investing.com/news/company-news/dune-oil-genel-kurul-tarihini-belirledi-yeni-ceo-ve-coo-atad-93CH-4046646",
+        "investing:https://tr.investing.com/news/company-news/philips-ve-imricor-kardiyak-mudahale-icin-mr-cozumu-baslatt-93CH-4046645",
+        "investing:https://tr.investing.com/news/company-news/t1-energy-norvecte-veri-merkezi-icin-imar-izni-ald-93CH-4046644",
+        "investing:https://tr.investing.com/news/company-news/neptune-digital-kalanickin-robotik-sirketine-500-bin-dolar-yatrd-93CH-4046643",
+        "investing:https://tr.investing.com/news/stock-market-news/semtech-hissesi-northlandin-notunu-yukseltmesiyle-scrad-93CH-4046642",
+        "investing:https://tr.investing.com/news/company-news/kulicke--soffa-hisse-basna-0205-dolar-temettu-acklad-93CH-4046641",
+        "investing:https://tr.investing.com/news/stock-market-news/hd-hyundai-heavy-sendikas-grev-onay-ald-93CH-4046636",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -180,7 +181,17 @@
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
-        "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581"
+        "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-nvidia-icin-hisse-hedefini-yukseltti-93CH-4046595",
+        "investing:https://tr.investing.com/news/stock-market-news/american-airlines-seyahat-talebine-bagl-yedi-uluslararas-hat-ekliyor-93CH-4046593",
+        "investing:https://tr.investing.com/news/transcripts/delivery-hero-2c-2026-gelir-tahminini-ast-93CH-4046588",
+        "investing:https://tr.investing.com/news/stock-market-news/healthequity-hissesi-bugun-neden-dusuyor-93CH-4046586",
+        "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-patlamasndan-hangi-cin-hisseleri-kazancl-ckacak-4046587",
+        "investing:https://tr.investing.com/news/transcripts/delivery-hero-2-ceyrek-2026-gelir-tahminini-ast-93CH-4046583",
+        "investing:https://tr.investing.com/news/company-news/fingermotion-veri-merkezi-stratejisini-acklad-93CH-4046579",
+        "investing:https://tr.investing.com/news/company-news/evolution-metals-guney-kore-tesisindeki-guc-kapasitesini-artracak-93CH-4046578",
+        "investing:https://tr.investing.com/news/stock-market-news/deutsche-bank-novo-nordiski-satsa-dusurdu-hisse-geriledi-4046582",
+        "investing:https://tr.investing.com/news/company-news/evolution-metals-guney-korede-guc-kapasitesini-genisletiyor-93CH-4046574"
       ]
     },
     "ntvpara": {
@@ -273,8 +284,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44O0TF:0",
+      "last_seen_key": "tradingview:fxstreet:fcd3a5627d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:fcd3a5627d9e8:0",
+        "tradingview:fxstreet:dbc28e5afd9e8:0",
+        "tradingview:matriks:6701255:0",
+        "tradingview:matriks:6701251:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44O0QZ:0",
+        "tradingview:fxstreet:adf05e5d3d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44O0TF:0",
         "tradingview:matriks:6701205:0",
         "tradingview:matriks:6701200:0",
@@ -287,6 +304,7 @@
         "tradingview:matriks:6701177:0",
         "tradingview:fxstreet:e3991af6cd9e8:0",
         "tradingview:matriks:6701157:0",
+        "tradingview:fxstreet:536a8bfd2d9e8:0",
         "tradingview:matriks:6701147:0",
         "tradingview:matriks:6701130:0",
         "tradingview:cointelegraph:9b43c39bfd9e8:0",
@@ -299,11 +317,18 @@
         "tradingview:matriks:6701094:0",
         "tradingview:matriks:6701089:0",
         "tradingview:fxstreet:6a1debe85d9e8:0",
+        "tradingview:fxstreet:188aecf0ad9e8:0",
         "tradingview:matriks:6701063:0",
+        "tradingview:fxstreet:945f87087d9e8:0",
+        "tradingview:fxstreet:4330da4d3d9e8:0",
+        "tradingview:fxstreet:b3994f095d9e8:0",
+        "tradingview:fxstreet:93a3df489d9e8:0",
         "tradingview:matriks:6701054:0",
         "tradingview:matriks:6701053:0",
         "tradingview:matriks:6701051:0",
         "tradingview:matriks:6701050:0",
+        "tradingview:fxstreet:466cfb4e8d9e8:0",
+        "tradingview:fxstreet:d175907bed9e8:0",
         "tradingview:matriks:6701047:0",
         "tradingview:matriks:6701040:0",
         "tradingview:fxstreet:4198c362ed9e8:0",
@@ -330,6 +355,11 @@
         "tradingview:matriks:6700983:0",
         "tradingview:matriks:6700981:0",
         "tradingview:matriks:6700980:0",
+        "tradingview:fxstreet:0a082229fd9e8:0",
+        "tradingview:fxstreet:ab0ef8607d9e8:0",
+        "tradingview:fxstreet:5c9e66181d9e8:0",
+        "tradingview:fxstreet:169a94c3fd9e8:0",
+        "tradingview:fxstreet:35c65f346d9e8:0",
         "tradingview:matriks:6700939:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44O12M:0",
         "tradingview:matriks:6700934:0",
@@ -378,5 +408,91 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "fed den goolsbee fed e siyasi mudahalenin enflasyonu korukleyebilecegi konusunda uyar yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:fcd3a5627d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro yat r mc lar n fed amb faiz oran gorunumunu degerlendirmesiyle gun ici kay plar n azalt yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:dbc28e5afd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb bddk istatistikleri raporu alnus yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6701255:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk alt n analizi ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6701251:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nepal cin deki selde 1 000 den fazla kisiden haber al nam yor yuzlerce kisi hayat n kaybetti",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44O0QZ:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar fed yeniden fiyatland rma riski usd uzerinde bask olusturuyor bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:adf05e5d3d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "first solar hisseleri bmo nun outperform notuna yukseltmesiyle s crad",
+      "link": "https://tr.investing.com/news/stock-market-news/first-solar-hisseleri-bmonun-outperform-notuna-yukseltmesiyle-scrad-93CH-4046657"
+    },
+    {
+      "source": "investing",
+      "text": "ecb nin eylul zamm gerekceler gucleniyor mu",
+      "link": "https://tr.investing.com/news/economy-news/ecbnin-eylul-zamm-gerekceler-gucleniyor-mu-4046663"
+    },
+    {
+      "source": "investing",
+      "text": "gana media n n estadio deportes i meksika maclar n yay nlayacak",
+      "link": "https://tr.investing.com/news/company-news/gana-mediann-estadio-deportesi-meksika-maclarn-yaynlayacak-93CH-4046655"
+    },
+    {
+      "source": "investing",
+      "text": "dune oil genel kurul tarihini belirledi yeni ceo coo atad",
+      "link": "https://tr.investing.com/news/company-news/dune-oil-genel-kurul-tarihini-belirledi-yeni-ceo-ve-coo-atad-93CH-4046646"
+    },
+    {
+      "source": "investing",
+      "text": "philips imricor kardiyak mudahale mr cozumu baslatt",
+      "link": "https://tr.investing.com/news/company-news/philips-ve-imricor-kardiyak-mudahale-icin-mr-cozumu-baslatt-93CH-4046645"
+    },
+    {
+      "source": "investing",
+      "text": "t1 energy norvec te veri merkezi imar izni ald",
+      "link": "https://tr.investing.com/news/company-news/t1-energy-norvecte-veri-merkezi-icin-imar-izni-ald-93CH-4046644"
+    },
+    {
+      "source": "investing",
+      "text": "neptune digital kalanick in robotik sirketine 500 bin dolar yat rd",
+      "link": "https://tr.investing.com/news/company-news/neptune-digital-kalanickin-robotik-sirketine-500-bin-dolar-yatrd-93CH-4046643"
+    },
+    {
+      "source": "investing",
+      "text": "semtech hissesi northland in notunu yukseltmesiyle s crad",
+      "link": "https://tr.investing.com/news/stock-market-news/semtech-hissesi-northlandin-notunu-yukseltmesiyle-scrad-93CH-4046642"
+    },
+    {
+      "source": "investing",
+      "text": "kulicke soffa hisse bas na 0 205 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/kulicke--soffa-hisse-basna-0205-dolar-temettu-acklad-93CH-4046641"
+    },
+    {
+      "source": "investing",
+      "text": "hd hyundai heavy sendikas grev onay ald",
+      "link": "https://tr.investing.com/news/stock-market-news/hd-hyundai-heavy-sendikas-grev-onay-ald-93CH-4046636"
+    },
+    {
+      "source": "kap",
+      "text": "skp pay al m sat m bildirimi pay al m sat m bildirimi sirket tera portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655413"
+    }
+  ]
 }
