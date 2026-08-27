@@ -242,8 +242,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/trump-iran-mutabakatn-iptal-etti-hurmuz-gorusmeleri-tkand-ve-petrol-riski-artt-4047035",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/anthropic-rekor-halka-arzda-iceriden-sats-planlyor-4047039",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/anthropic-rekor-halka-arzda-iceriden-sats-planlyor-4047039",
         "investing:https://tr.investing.com/news/economy-news/trump-iran-mutabakatn-iptal-etti-hurmuz-gorusmeleri-tkand-ve-petrol-riski-artt-4047035",
         "investing:https://tr.investing.com/news/company-news/mint-incorporation-dogrudan-arzla-25-milyon-dolar-toplad-93CH-4047033",
         "investing:https://tr.investing.com/news/transcripts/wex-deutsche-bank-konferansnda-buyume-marjlar-ve-geri-almlar-anlatt-93CH-4047030",
@@ -253,7 +254,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-yoneticisi-daniel-roller-13250-dolar-degerinde-hisse-ald-93CH-4047025",
         "investing:https://tr.investing.com/news/insider-trading-news/southern-first-bancshares-yoneticisi-leighton-cubbage-47267-dolar-degerinde-hisse-satt-93CH-4047024",
         "investing:https://tr.investing.com/news/stock-market-news/anthropic-yapay-zeka-donanm-standard-icin-arastrma-onizlemesini-act-93CH-4047022",
-        "investing:https://tr.investing.com/news/transcripts/smithmidland-midwest-ideasta-temel-pazarlarda-ruzgar-arkada-93CH-4047018",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -274,6 +274,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/transcripts/smithmidland-midwest-ideasta-temel-pazarlarda-ruzgar-arkada-93CH-4047018",
         "investing:https://tr.investing.com/news/insider-trading-news/exodus-movement-ctosu-71640-dolarlk-hisse-satt-93CH-4047017",
         "investing:https://tr.investing.com/news/economy-news/fedin-hammack-enflasyonun-yl-sonunda-yuzde-3te-olacagn-goruyor-93CH-4047015",
         "investing:https://tr.investing.com/news/company-news/galantas-gold-110000-varant-kullanmn-duyurdu-93CH-4047014",
@@ -473,8 +474,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:81b504ae9d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:2ea35d123d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:2ea35d123d9e8:0",
         "tradingview:fxstreet:81b504ae9d9e8:0",
         "tradingview:fxstreet:45a2407c6d9e8:0",
         "tradingview:fxstreet:148655310d9e8:0",
@@ -690,6 +692,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu bok faiz art r mlar yla desteklenen degeri dusuk para birimi bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:2ea35d123d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "anthropic rekor halka arzda iceriden sat s planl yor",
+      "link": "https://tr.investing.com/news/stock-market-news/anthropic-rekor-halka-arzda-iceriden-sats-planlyor-4047039"
+    },
     {
       "source": "tradingview",
       "text": "cin yuan rmb olculu degerlenme iki yonlu riskler ocbc",
