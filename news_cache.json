@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655492",
+      "last_seen_key": "kap:1655498",
       "seen_keys": [
+        "kap:1655498",
+        "kap:1655497",
+        "kap:1655496",
+        "kap:1655494",
         "kap:1655492",
         "kap:1655491",
         "kap:1655490",
@@ -221,18 +225,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/sec-yonetici-ucret-acklama-reformunu-ilerletiyor-93CH-4046931",
+      "last_seen_key": "investing:https://tr.investing.com/news/transcripts/matador-resources-disiplinli-buyume-stratejisini-vurgulad-93CH-4046956",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/transcripts/matador-resources-disiplinli-buyume-stratejisini-vurgulad-93CH-4046956",
+        "investing:https://tr.investing.com/news/economy-news/fed-politika-degisimi-oncesi-tahvil-rallisi-bekleniyor-4046958",
+        "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-ford-hissesi-icin-gorusunu-korudu-93CH-4046955",
+        "investing:https://tr.investing.com/news/company-news/argenx-hissesi-105986-dolarda-tum-zamanlarn-zirvesinde-93CH-4046954",
+        "investing:https://tr.investing.com/news/transcripts/applied-materials-six-five-summitte-yapay-zeka-buyumeyi-tetikliyor-93CH-4046952",
+        "investing:https://tr.investing.com/news/transcripts/research-solutions-yapay-zeka-odagyla-marjlar-artryor-93CH-4046951",
+        "investing:https://tr.investing.com/news/stock-market-news/hugging-face-yapay-zeka-destekli-400-dolarlk-microduck-robotu-tantt-93CH-4046943",
+        "investing:https://tr.investing.com/news/company-news/sharkninja-hissesi-19128-dolarla-rekor-krd-93CH-4046937",
+        "investing:https://tr.investing.com/news/stock-market-news/sk-hynix-indianada-4-milyar-dolarlk-cip-tesisi-icin-temel-att-93CH-4046936",
         "investing:https://tr.investing.com/news/economy-news/sec-yonetici-ucret-acklama-reformunu-ilerletiyor-93CH-4046931",
-        "investing:https://tr.investing.com/news/economy-news/denizalt-bakm-gecikmeleri-34-milyar-dolara-mal-oldu-93CH-4046928",
-        "investing:https://tr.investing.com/news/company-news/labcorp-holdings-hissesi-33978-dolarla-rekor-krd-93CH-4046927",
-        "investing:https://tr.investing.com/news/stock-market-news/vista-global-1-milyar-dolarn-uzerinde-sermaye-icin-avrupa-halka-arzn-degerlendiriyor--bloomberg-93CH-4046926",
-        "investing:https://tr.investing.com/news/company-news/aecon-ontario-transit-projesinden-714-milyon-dolar-kazand-93CH-4046925",
-        "investing:https://tr.investing.com/news/company-news/talen-energy-hisseleri-30135-dolara-duserek-yln-dibini-gordu-93CH-4046923",
-        "investing:https://tr.investing.com/news/transcripts/covenant-logistics-nis-navlun-pazarlarna-odaklanyor-93CH-4046922",
-        "investing:https://tr.investing.com/news/global-filings/katlm-varlk-kiralama-242-milyon-tl-kupon-odemesi-gerceklestirdi-93CH-4046920",
-        "investing:https://tr.investing.com/news/company-news/fda-kowann-glokom-goz-damlas-ilac-basvurusunu-kabul-etti-93CH-4046917",
-        "investing:https://tr.investing.com/news/global-filings/dogusan-boru-a-ve-b-grubu-pay-yaps-olusturacak-5-oy-hakk-imtiyaz-93CH-4046916",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -253,6 +257,15 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/denizalt-bakm-gecikmeleri-34-milyar-dolara-mal-oldu-93CH-4046928",
+        "investing:https://tr.investing.com/news/company-news/labcorp-holdings-hissesi-33978-dolarla-rekor-krd-93CH-4046927",
+        "investing:https://tr.investing.com/news/stock-market-news/vista-global-1-milyar-dolarn-uzerinde-sermaye-icin-avrupa-halka-arzn-degerlendiriyor--bloomberg-93CH-4046926",
+        "investing:https://tr.investing.com/news/company-news/aecon-ontario-transit-projesinden-714-milyon-dolar-kazand-93CH-4046925",
+        "investing:https://tr.investing.com/news/company-news/talen-energy-hisseleri-30135-dolara-duserek-yln-dibini-gordu-93CH-4046923",
+        "investing:https://tr.investing.com/news/transcripts/covenant-logistics-nis-navlun-pazarlarna-odaklanyor-93CH-4046922",
+        "investing:https://tr.investing.com/news/global-filings/katlm-varlk-kiralama-242-milyon-tl-kupon-odemesi-gerceklestirdi-93CH-4046920",
+        "investing:https://tr.investing.com/news/company-news/fda-kowann-glokom-goz-damlas-ilac-basvurusunu-kabul-etti-93CH-4046917",
+        "investing:https://tr.investing.com/news/global-filings/dogusan-boru-a-ve-b-grubu-pay-yaps-olusturacak-5-oy-hakk-imtiyaz-93CH-4046916",
         "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-intuit-icin-hedef-fiyat-dusurdu-93CH-4046914",
         "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-eagle-financial-hissesini-zayf-kazanclar-nedeniyle-dusurdu-93CH-4046913",
         "investing:https://tr.investing.com/news/global-filings/misyon-yatrm-bankas-500-milyon-tllik-varant-ihracna-karar-verdi-93CH-4046912",
@@ -401,11 +414,22 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6701587:0",
+      "last_seen_key": "tradingview:fxstreet:fd93c7f78d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:fd93c7f78d9e8:0",
+        "tradingview:matriks:6701592:0",
+        "tradingview:matriks:6701590:0",
+        "tradingview:matriks:6701589:0",
+        "tradingview:matriks:6701588:0",
         "tradingview:matriks:6701587:0",
         "tradingview:matriks:6701585:0",
         "tradingview:matriks:6701584:0",
+        "tradingview:matriks:6701578:0",
+        "tradingview:matriks:6701576:0",
+        "tradingview:matriks:6701574:0",
+        "tradingview:matriks:6701571:0",
+        "tradingview:matriks:6701569:0",
+        "tradingview:matriks:6701567:0",
         "tradingview:matriks:6701564:0",
         "tradingview:matriks:6701562:0",
         "tradingview:matriks:6701557:0",
@@ -581,6 +605,96 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini fed sahinlerinin usd yi yukseltmesiyle guclu abd issizlik maas basvurular sonras geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:fd93c7f78d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "intel monsters reloaded 2026 baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6701592:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hyundai motor company yeni yol haritas n ac klad",
+      "link": "https://tr.tradingview.com/news/matriks:6701590:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "samsung galaxy s26 fe en yeni amiral gemisi deneyimlerini sunuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6701589:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rams turkiye rams park house maslak ta 60 aya varan vade imkan sunan yeni finansman modelini hayata gecirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6701588:0"
+    },
+    {
+      "source": "investing",
+      "text": "matador resources disiplinli buyume stratejisini vurgulad",
+      "link": "https://tr.investing.com/news/transcripts/matador-resources-disiplinli-buyume-stratejisini-vurgulad-93CH-4046956"
+    },
+    {
+      "source": "investing",
+      "text": "fed politika degisimi oncesi tahvil rallisi bekleniyor",
+      "link": "https://tr.investing.com/news/economy-news/fed-politika-degisimi-oncesi-tahvil-rallisi-bekleniyor-4046958"
+    },
+    {
+      "source": "investing",
+      "text": "morgan stanley ford hissesi gorusunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-ford-hissesi-icin-gorusunu-korudu-93CH-4046955"
+    },
+    {
+      "source": "investing",
+      "text": "argenx hissesi 1 059 86 dolarda tum zamanlar n zirvesinde",
+      "link": "https://tr.investing.com/news/company-news/argenx-hissesi-105986-dolarda-tum-zamanlarn-zirvesinde-93CH-4046954"
+    },
+    {
+      "source": "investing",
+      "text": "applied materials six five summit te yapay zeka buyumeyi tetikliyor",
+      "link": "https://tr.investing.com/news/transcripts/applied-materials-six-five-summitte-yapay-zeka-buyumeyi-tetikliyor-93CH-4046952"
+    },
+    {
+      "source": "investing",
+      "text": "research solutions yapay zeka odag yla marjlar art r yor",
+      "link": "https://tr.investing.com/news/transcripts/research-solutions-yapay-zeka-odagyla-marjlar-artryor-93CH-4046951"
+    },
+    {
+      "source": "investing",
+      "text": "hugging face yapay zeka destekli 400 dolarl k microduck robotu tan tt",
+      "link": "https://tr.investing.com/news/stock-market-news/hugging-face-yapay-zeka-destekli-400-dolarlk-microduck-robotu-tantt-93CH-4046943"
+    },
+    {
+      "source": "investing",
+      "text": "sharkninja hissesi 191 28 dolarla rekor k rd",
+      "link": "https://tr.investing.com/news/company-news/sharkninja-hissesi-19128-dolarla-rekor-krd-93CH-4046937"
+    },
+    {
+      "source": "investing",
+      "text": "sk hynix indiana 4 milyar dolarl k cip tesisi temel att",
+      "link": "https://tr.investing.com/news/stock-market-news/sk-hynix-indianada-4-milyar-dolarlk-cip-tesisi-icin-temel-att-93CH-4046936"
+    },
+    {
+      "source": "kap",
+      "text": "bls blsmd pay al m teklifi bilgi formu tgs d s ticaret a s paylar na yonelik zorunlu pay al m teklifi sirket bulls yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655498"
+    },
+    {
+      "source": "kap",
+      "text": "vkgyo ozel durum ac klamas genel yonetici sorumluluk sigortas sirket vakif gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655497"
+    },
+    {
+      "source": "kap",
+      "text": "dnisi esas sozlesme esas sozlesme sirket dinamik isi makina yalitim malzemeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655496"
+    },
+    {
+      "source": "kap",
+      "text": "fny qnbin piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi 27 08 2026 tarihli pyiasa yap c l islemler sirket qnb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655494"
+    },
     {
       "source": "tradingview",
       "text": "gelecek tek yone gitmiyor axa bugunun krizlerinden dogan bes yeni dunyay haritalad",
