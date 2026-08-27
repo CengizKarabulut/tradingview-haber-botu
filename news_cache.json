@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655338",
+      "last_seen_key": "kap:1655343",
       "seen_keys": [
+        "kap:1655343",
+        "kap:1655342",
+        "kap:1655341",
+        "kap:1655340",
+        "kap:1655339",
         "kap:1655338",
         "kap:1655337",
         "kap:1655336",
@@ -498,12 +503,7 @@
         "kap:1654573",
         "kap:1654572",
         "kap:1654571",
-        "kap:1654569",
-        "kap:1654568",
-        "kap:1654566",
-        "kap:1654565",
-        "kap:1654570",
-        "kap:1654564"
+        "kap:1654569"
       ]
     },
     "bloomberght": {
@@ -1069,8 +1069,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/bilisim-devinin-sevkiyatlarindaki-dusus-hisselerine-darbe-indirdi-1739128",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/kur-korumali-mevduat-sona-erdi-1739159",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/kur-korumali-mevduat-sona-erdi-1739159",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bilisim-devinin-sevkiyatlarindaki-dusus-hisselerine-darbe-indirdi-1739128",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-ve-gumus-fiyatlarinda-son-durum-27-agustos-gram-ceyrek-ve-yarim-altin-ne-kadar-1739125",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-bir-zamanlar-en-degerli-ihracat-urunuydu-eski-ihtisamini-kaybeden-sektore-yeni-calisan-bulunamiyor-1739108",
@@ -1378,8 +1379,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6700758:0",
+      "last_seen_key": "tradingview:matriks:6700814:0",
       "seen_keys": [
+        "tradingview:matriks:6700814:0",
+        "tradingview:matriks:6700802:0",
+        "tradingview:matriks:6700800:0",
+        "tradingview:fxstreet:a04c628bcd9e8:0",
+        "tradingview:fxstreet:1854f0d55d9e8:0",
+        "tradingview:fxstreet:efb9f0cc7d9e8:0",
+        "tradingview:matriks:6700759:0",
         "tradingview:matriks:6700758:0",
         "tradingview:matriks:6700756:0",
         "tradingview:matriks:6700755:0",
@@ -1404,6 +1412,8 @@
         "tradingview:matriks:6700676:0",
         "tradingview:matriks:6700675:0",
         "tradingview:matriks:6700666:0",
+        "tradingview:beincrypto:bc0eba8ffd9e8:0",
+        "tradingview:beincrypto:d769c33f7d9e8:0",
         "tradingview:matriks:6700608:0",
         "tradingview:fxstreet:4daaf3053d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44O0LX:0",
@@ -1870,16 +1880,7 @@
         "tradingview:matriks:6697638:0",
         "tradingview:fxstreet:f890a9413d9e8:0",
         "tradingview:matriks:6697635:0",
-        "tradingview:fxstreet:0927186fcd9e8:0",
-        "tradingview:matriks:6697629:0",
-        "tradingview:matriks:6697628:0",
-        "tradingview:matriks:6697627:0",
-        "tradingview:matriks:6697625:0",
-        "tradingview:matriks:6697619:0",
-        "tradingview:matriks:6697612:0",
-        "tradingview:beincrypto:b326a7e2cd9e8:0",
-        "tradingview:matriks:6697603:0",
-        "tradingview:fxstreet:c12ce3131d9e8:0"
+        "tradingview:fxstreet:0927186fcd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1902,6 +1903,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "reysas doven 14 bin arac s gacak cok katl buyuk otopark insa ediyoruz bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6700814:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "reysas doven avustralyal kimya fabrikas n n yerini al p depoya donusturecegiz bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6700802:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ac l s oncesi kuresel piyasalar bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6700800:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni boj faiz art r m beklentileriyle bant korunuyor bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:a04c628bcd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ons alt n yat r mc lar n fed faiz oran patikas na iliskin daha net sinyalleri beklemesiyle geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:1854f0d55d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini abd dolar ivme kazan rken 1 3600 nin alt ndaki haftal k dip seviyelere geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:efb9f0cc7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankac l k sektoru ticari diger kredileri 20 trilyon 957 milyar tl onceki hafta 20 trilyon 806 milyar tl y lbas 17 trilyon 322 milyar tl bddk",
+      "link": "https://tr.tradingview.com/news/matriks:6700759:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "kur korumal mevduat sona erdi 2021 y l ndan yana turkiye nin gundeminde olan kur korumal mevduat ta para kalmad tum hesaplar kapat ld",
+      "link": "https://www.ntv.com.tr/ntvpara/kur-korumali-mevduat-sona-erdi-1739159"
+    },
+    {
+      "source": "kap",
+      "text": "meten esas sozlesme metgun enerji yat r mlar a s ana sozlesme sirket metgun enerji yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655343"
+    },
+    {
+      "source": "kap",
+      "text": "pcilt pay baz nda devre kesici bildirimi pcilt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655342"
+    },
+    {
+      "source": "kap",
+      "text": "viop gun ici fiyat limiti degisikligi duyurular viop gun ici fiyat limiti degisikligi duyurular sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655341"
+    },
+    {
+      "source": "kap",
+      "text": "meten sirket genel bilgi formu sirket metgun enerji yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655340"
+    },
+    {
+      "source": "kap",
+      "text": "aksue pay baz nda devre kesici bildirimi aksue e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655339"
+    },
     {
       "source": "tradingview",
       "text": "bankac l k sektoru takipteki alacaklar 839 milyar tl onceki hafta 833 milyar tl y lbas 595 milyar tl bddk",
@@ -9336,71 +9402,6 @@
       "source": "tradingview",
       "text": "merkeziyetsiz yapay zeka ag kullan ma ac l rken dgrid ai token lansman sonras 93 s crad",
       "link": "https://tr.tradingview.com/news/cointelegraph:66a67b9d5d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "otomotivde dijital donem yeni sistemlerle otomobil ticaretinde guven artacak",
-      "link": "https://tr.tradingview.com/news/matriks:6696952:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tedmem liseden mezun olan her ogrenciye yapay zeka ehliyeti verilmesini oneriyor",
-      "link": "https://tr.tradingview.com/news/matriks:6696949:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turkiye sarj pazar ivme kazanmay surduruyor ayl k sarj islemi 3 3 milyonu ast",
-      "link": "https://tr.tradingview.com/news/matriks:6696948:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "sencard mobil sagl k sigortas ndan dijital sagl ga tum hizmetler tek uygulamada",
-      "link": "https://tr.tradingview.com/news/matriks:6696947:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "xiaomi redmi a serisi nin ilk pro modeli redmi a7 pro yu tan tt",
-      "link": "https://tr.tradingview.com/news/matriks:6696944:0"
-    },
-    {
-      "source": "bloomberght",
-      "text": "hurmuz deki may nlar temizlendi abd baskan donald trump hurmuz bogaz ndaki tum may nlar n temizlendigini ac klad",
-      "link": "https://www.bloomberght.com/hurmuz-deki-mayinlar-temizlendi-3786420"
-    },
-    {
-      "source": "kap",
-      "text": "ekim paylar n geri al nmas na iliskin bildirim 25 agustos 2026 tarihli pay geri al m islemleri sirket ekim turizm ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654959"
-    },
-    {
-      "source": "kap",
-      "text": "klsyn geri al nan paylar n elden c kar lmas geri al nan paylar n elden c kar lmas sirket koleksiyon mobilya sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654958"
-    },
-    {
-      "source": "kap",
-      "text": "escom kat l m finans ilkeleri bilgi formu sirket escort teknoloji yatirim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1654957"
-    },
-    {
-      "source": "tradingview",
-      "text": "uipath kodlama ajanlar yla is sureclerini uctan uca yonetmeye imkan tan yan maestro flow u tan tt",
-      "link": "https://tr.tradingview.com/news/matriks:6696940:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "jeopolitik riskler sanayide cift yak tl sistemlerin onemini art rd",
-      "link": "https://tr.tradingview.com/news/matriks:6696938:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "philips ambilight tv ye uluslararas arenada iki odul",
-      "link": "https://tr.tradingview.com/news/matriks:6696936:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "18 y ld r sabiha gokcen in her noktas nda emegi var",
-      "link": "https://tr.tradingview.com/news/matriks:6696934:0"
     }
   ]
 }
