@@ -507,9 +507,18 @@
       ]
     },
     "bloomberght": {
+<<<<<<< Updated upstream
       "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-dustu-3786603",
       "seen_keys": [
         "bloomberght:https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-dustu-3786603",
+=======
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-ticareti-acigi-mart-2025ten-beri-en-yuksek-seviyesinde-3786607",
+      "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/abd-de-ticareti-acigi-mart-2025ten-beri-en-yuksek-seviyesinde-3786607",
+        "bloomberght:https://www.bloomberght.com/chicago-fed-baskani-goolsbee-den-iyimser-enflasyon-yorumu-3786606",
+        "bloomberght:https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-dustu-3786603",
+        "bloomberght:https://www.bloomberght.com/karadeniz-de-yukselen-tansiyon-bugday-fiyatini-uc-yilin-zirvesine-tasidi-3786604",
+>>>>>>> Stashed changes
         "bloomberght:https://www.bloomberght.com/amb-yetkilileri-ilimli-kisitlayici-politika-ihtiyacini-gorustu-3786601",
         "bloomberght:https://www.bloomberght.com/tcmb-rezervlerinde-toparlanma-suruyor-3786599",
         "bloomberght:https://www.bloomberght.com/doviz-mevduatlarinda-guclu-toparlanma-3786598",
@@ -2001,10 +2010,31 @@
     },
     {
       "source": "bloomberght",
+<<<<<<< Updated upstream
+=======
+      "text": "abd ticareti ac g mart 2025 ten beri en yuksek seviyesinde abd nin temmuz ticareti ac g sermaye urunlerinin ithalat ndaki on y llard r gorulmemis art s n etkisiyle gecen y l n bas ndan yana en yuksek seviyeye ulast",
+      "link": "https://www.bloomberght.com/abd-de-ticareti-acigi-mart-2025ten-beri-en-yuksek-seviyesinde-3786607"
+    },
+    {
+      "source": "bloomberght",
+      "text": "chicago fed baskan goolsbee den iyimser enflasyon yorumu chicago fed baskan austan goolsbee verilerin enflasyon taraf nda tablonun kotu olmad g n belirterek enflasyonun 2 hedefine donmesi halinde gosterge faiz oran n n 3 seviyesine kadar gerileyebilecegini soyledi",
+      "link": "https://www.bloomberght.com/chicago-fed-baskani-goolsbee-den-iyimser-enflasyon-yorumu-3786606"
+    },
+    {
+      "source": "bloomberght",
+>>>>>>> Stashed changes
       "text": "abd issizlik maas basvurular dustu abd ilk kez issizlik maas na basvuranlar n say s 22 agustos biten haftada 203 bine duserek piyasa beklentilerinin alt nda gerceklesti",
       "link": "https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-dustu-3786603"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "source": "bloomberght",
+      "text": "karadeniz yukselen tansiyon bugday fiyat n uc y l n zirvesine tas d rusya ukrayna savas n n siddetlenebilecegi karadeniz den tah l sevkiyat n n daha fazla aksayabilecegi endisesi chicago bugday vadeli islemlerini temmuz 2023 ten yana en yuksek seviyeye c kard",
+      "link": "https://www.bloomberght.com/karadeniz-de-yukselen-tansiyon-bugday-fiyatini-uc-yilin-zirvesine-tasidi-3786604"
+    },
+    {
+>>>>>>> Stashed changes
       "source": "kap",
       "text": "kaplm ozel durum ac klamas genel bag ms z yonetim kurulu uye adaylar hk sirket kaplamin ambalaj sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1655390"
@@ -9398,6 +9428,7 @@
       "source": "tradingview",
       "text": "yeni zelanda dolar cekingen abd dolar kars s nda yeni zirvelere yukseliyor",
       "link": "https://tr.tradingview.com/news/fxstreet:37b5c0278d9e8:0"
+<<<<<<< Updated upstream
     },
     {
       "source": "investing",
@@ -9413,6 +9444,8 @@
       "source": "investing",
       "text": "d wave quantum markovich in emekliligiyle golkov u cfo vekili atad",
       "link": "https://tr.investing.com/news/company-news/dwave-quantum-markovichin-emekliligiyle-golkovu-cfo-vekili-atad-93CH-4043630"
+=======
+>>>>>>> Stashed changes
     }
   ]
 }
