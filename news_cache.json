@@ -145,8 +145,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/fidelity--guaranty-life-crescent-capital-bdc-hisselerini-satt-93CH-4048547",
+      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/abd-enerji-sondaj-kulesi-says-588-seviyesinde-sabit-kald-93CH-4048550",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/commodities-news/abd-enerji-sondaj-kulesi-says-588-seviyesinde-sabit-kald-93CH-4048550",
+        "investing:https://tr.investing.com/news/stock-market-news/kalshinin-bahis-platformuna-nevada-denetimini-engelleme-girisimi-reddedildi-93CH-4048549",
         "investing:https://tr.investing.com/news/insider-trading-news/fidelity--guaranty-life-crescent-capital-bdc-hisselerini-satt-93CH-4048547",
         "investing:https://tr.investing.com/news/economy-news/ecbden-kocher-avrupa-ekonomisi-ivme-kazanyor--bloomberg-93CH-4048546",
         "investing:https://tr.investing.com/news/stock-market-news/smj-international-hissesi-alslmadk-islemlerle-24-dustu-93CH-4048545",
@@ -155,8 +157,6 @@
         "investing:https://tr.investing.com/news/company-news/aroundtown-250-milyon-euroluk-geri-alm-programn-tamamlad-93CH-4048542",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-yonetim-kurulu-uyesi-5200-dolar-hisse-ald-93CH-4048541",
         "investing:https://tr.investing.com/news/stock-market-news/strategy-hissesi-bugun-neden-dusuyor-93CH-4048540",
-        "investing:https://tr.investing.com/news/company-news/juri-parse-biosciencesn-scale-patentlerini-ihlal-ettigine-karar-verdi-93CH-4048539",
-        "investing:https://tr.investing.com/news/company-news/aroundtown-gecen-hafta-75549-hisse-geri-ald-93CH-4048538",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -177,6 +177,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/company-news/juri-parse-biosciencesn-scale-patentlerini-ihlal-ettigine-karar-verdi-93CH-4048539",
+        "investing:https://tr.investing.com/news/company-news/aroundtown-gecen-hafta-75549-hisse-geri-ald-93CH-4048538",
         "investing:https://tr.investing.com/news/stock-market-news/amazon-hissesi-bugun-neden-yukseliste-93CH-4048537",
         "investing:https://tr.investing.com/news/company-news/blue-owl-iren-icin-24-milyar-dolarlk-yapay-zeka-altyap-finansmanna-onculuk-etti-93CH-4048534",
         "investing:https://tr.investing.com/news/stock-market-news/edison-international-hisseleri-neden-dusuyor-93CH-4048533",
@@ -281,9 +283,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:354fcf072d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:80e85c87fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:80e85c87fd9e8:0",
         "tradingview:fxstreet:354fcf072d9e8:0",
+        "tradingview:beincrypto:5fe4c8753d9e8:0",
         "tradingview:matriks:6704266:0",
         "tradingview:fxstreet:01e001d3cd9e8:0",
         "tradingview:fxstreet:3617faddbd9e8:0",
@@ -389,6 +393,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin yuan degerinin dusuk oldugu ihracat kazanclar sorgulan yor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:80e85c87fd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "abd enerji sondaj kulesi say s 588 seviyesinde sabit kald",
+      "link": "https://tr.investing.com/news/commodities-news/abd-enerji-sondaj-kulesi-says-588-seviyesinde-sabit-kald-93CH-4048550"
+    },
+    {
+      "source": "investing",
+      "text": "kalshi nin bahis platformuna nevada denetimini engelleme girisimi reddedildi",
+      "link": "https://tr.investing.com/news/stock-market-news/kalshinin-bahis-platformuna-nevada-denetimini-engelleme-girisimi-reddedildi-93CH-4048549"
+    },
     {
       "source": "investing",
       "text": "fidelity guaranty life crescent capital bdc hisselerini satt",
