@@ -2,9 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655958",
+      "last_seen_key": "kap:1655966",
       "seen_keys": [
-        "kap:1655958",
+        "kap:1655966",
+        "kap:1655965",
+        "kap:1655963",
+        "kap:1655962",
+        "kap:1655960",
         "kap:1655954",
         "kap:1655952",
         "kap:1655951",
@@ -82,6 +86,7 @@
         "kap:1655847",
         "kap:1655844",
         "kap:1655843",
+        "kap:1655958",
         "kap:1655837",
         "kap:1655835",
         "kap:1655834",
@@ -671,8 +676,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:0accc4368d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:de5527e38d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:de5527e38d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P1DB:0",
         "tradingview:fxstreet:0accc4368d9e8:0",
         "tradingview:fxstreet:1f5fad318d9e8:0",
         "tradingview:cointelegraph:e23c1fe4bd9e8:0",
@@ -1074,6 +1081,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar warsh n s k lasmac mesaj n n abd dolar n desteklemesiyle zirvelerden geri cekiliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:de5527e38d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turk alt n n canakkale deki maden projesine yonelik davada mahkeme ara karar olarak yurutmenin durdurulmas talebinin reddine karar verdi kap",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P1DB:0"
+    },
+    {
+      "source": "kap",
+      "text": "ecogr sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor halka arzdan elde edilen fonun kullan m yerlerine iliskin rapor 3 sirket ecogreen enerji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655966"
+    },
+    {
+      "source": "kap",
+      "text": "ecogr halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu 3 sirket ecogreen enerji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655965"
+    },
+    {
+      "source": "kap",
+      "text": "ekim paylar n geri al nmas na iliskin bildirim 28 agustos 2026 tarihli pay geri al m islemleri sirket ekim turizm ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655963"
+    },
+    {
+      "source": "kap",
+      "text": "hatsn kredi derecelendirmesi kredi derecelendirme notu hakkinda sirket hat san gemi insaa bakim onarim deniz nakliyat sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655962"
+    },
+    {
+      "source": "kap",
+      "text": "skp pay al m sat m bildirimi pay al m sat m bildirimi sirket tera portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655960"
+    },
     {
       "source": "tradingview",
       "text": "dow jones industrial average hicbir sey vaat etmeyen fed i gidip geliyor",
