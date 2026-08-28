@@ -116,8 +116,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/katar-lngde-mucbir-sebep-suresini-uzatti-3786683",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/turk-eximbanktan-ilk-yarida-ihracata-32-milyar-dolarlik-destek-3786686",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/turk-eximbanktan-ilk-yarida-ihracata-32-milyar-dolarlik-destek-3786686",
         "bloomberght:https://www.bloomberght.com/katar-lngde-mucbir-sebep-suresini-uzatti-3786683",
         "bloomberght:https://www.bloomberght.com/bloomberg-businessweek-turkiye-nin-145-sayisi-cikti-3786681",
         "bloomberght:https://www.bloomberght.com/turk-altinin-agri-mollakara-altin-madeni-acildi-3786671",
@@ -340,8 +341,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702889:0",
+      "last_seen_key": "tradingview:matriks:6702939:0",
       "seen_keys": [
+        "tradingview:matriks:6702939:0",
+        "tradingview:fxstreet:3b0afc173d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44P0HZ:0",
+        "tradingview:matriks:6702906:0",
+        "tradingview:fxstreet:d45cfedaad9e8:0",
+        "tradingview:matriks:6702901:0",
         "tradingview:matriks:6702889:0",
         "tradingview:matriks:6702867:0",
         "tradingview:matriks:6702866:0",
@@ -522,6 +529,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "akbank ihracatc lar tahsil vesaiki islemlerini dijitallestirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6702939:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro opsiyonlar abd politika belirsizliklerinden fayda sagl yor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:3b0afc173d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "intetra teknoloji nin halka arz tamamland arz buyuklugu 2 1 milyar lira oldu",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44P0HZ:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bakan kac r onumuzdeki donem turkiye nin sanayi ihracatta guclu ad mlar atacag donem olacak bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6702906:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar warsh konusmas aral klar s n rl tutuyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:d45cfedaad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bakan kac r kuresellesme ruzgar tersine dondu bolgesel ittifaklar one c kacak bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6702901:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "turk eximbank tan ilk yar ihracata 32 milyar dolarl k destek turk eximbank genel muduru ali guney turk eximbank 2026 n n ilk yar s nda ihracatc lara 15 8 milyar dolar kredi 16 2 milyar dolar sigorta garanti olmak uzere toplam 32 milyar dolarl k destek saglad bankan n toplam destek hacmi ge",
+      "link": "https://www.bloomberght.com/turk-eximbanktan-ilk-yarida-ihracata-32-milyar-dolarlik-destek-3786686"
+    },
     {
       "source": "tradingview",
       "text": "cin hizmet ticaret ac g temmuz 19 1 milyar dolar",
