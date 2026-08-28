@@ -2,11 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655549",
+      "last_seen_key": "kap:1655552",
       "seen_keys": [
+        "kap:1655552",
+        "kap:1655551",
+        "kap:1655550",
         "kap:1655549",
         "kap:1655548",
-        "kap:1655547",
         "kap:1655546",
         "kap:1655545",
         "kap:1655540",
@@ -91,6 +93,7 @@
         "kap:1655445",
         "kap:1655443",
         "kap:1655442",
+        "kap:1655547",
         "kap:1655437",
         "kap:1655435",
         "kap:1655434"
@@ -100,6 +103,7 @@
       "last_seen_key": "bloomberght:https://www.bloomberght.com/ekonomik-guven-endeksi-agustos-ta-esigin-uzerine-cikti-3786667",
       "seen_keys": [
         "bloomberght:https://www.bloomberght.com/ekonomik-guven-endeksi-agustos-ta-esigin-uzerine-cikti-3786667",
+        "bloomberght:https://www.bloomberght.com/dis-ticaret-3786659",
         "bloomberght:https://www.bloomberght.com/mahkemeden-trump-in-anthropic-kararina-fren-3786650",
         "bloomberght:https://www.bloomberght.com/beyaz-esya-uretim-ve-ihracatinda-dusus-3786649",
         "bloomberght:https://www.bloomberght.com/venezuela-opec-ten-ayrilmayi-degerlendiriyor-3786644",
@@ -150,18 +154,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/global-filings/prizma-pres-yonetim-kurulunda-iki-uye-degisikligi-gerceklestirdi-93CH-4047481",
+      "last_seen_key": "investing:https://tr.investing.com/news/economic-indicators/cek-ekonomisi-ikinci-ceyrekte-tuketim-harcamalaryla-04-buyudu-93CH-4047521",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/global-filings/prizma-pres-yonetim-kurulunda-iki-uye-degisikligi-gerceklestirdi-93CH-4047481",
-        "investing:https://tr.investing.com/news/global-filings/sarkuysan-sermayesini-bedelsiz-50-artrarak-15-milyar-tlye-ckaryor-93CH-4047480",
-        "investing:https://tr.investing.com/news/global-filings/ersu-konya-ereglide-110000-mlik-karma-proje-planlyor-93CH-4047479",
-        "investing:https://tr.investing.com/news/global-filings/marmaris-altnyunus-mares-oteli-kira-sozlesmesini-tbcye-devretti-93CH-4047463",
-        "investing:https://tr.investing.com/news/insider-trading-news/thrivent-financial-gloo-holdings-hisselerinden-26432-dolar-satt-93CH-4047462",
-        "investing:https://tr.investing.com/news/insider-trading-news/seer-baskan-ve-cfosu-david-horn-14809-dolar-degerinde-hisse-satt-93CH-4047461",
-        "investing:https://tr.investing.com/news/analyst-ratings/guggenheim-autodesk-icin-hisse-hedefini-guclu-ceyregin-ardndan-yukseltti-93CH-4047456",
-        "investing:https://tr.investing.com/news/analyst-ratings/baird-guclu-arr-buyumesi-sonras-sentinelone-hisse-notunu-korudu-93CH-4047455",
-        "investing:https://tr.investing.com/news/insider-trading-news/mara-holdings-ceosu-253321-dolarlk-hisse-satt-93CH-4047453",
-        "investing:https://tr.investing.com/news/analyst-ratings/ulta-beauty-hisseleri-raymond-jameste-guclu-al-konumunu-koruyor-93CH-4047452",
+        "investing:https://tr.investing.com/news/economic-indicators/cek-ekonomisi-ikinci-ceyrekte-tuketim-harcamalaryla-04-buyudu-93CH-4047521",
+        "investing:https://tr.investing.com/news/insider-trading-news/paypal-baskan-suzan-kereere-253722-dolar-degerinde-hisse-satt-93CH-4047520",
+        "investing:https://tr.investing.com/news/stock-market-news/watkin-jones-geciken-anlasmalar-nedeniyle-kar-beklentisini-dusurdu-93CH-4047516",
+        "investing:https://tr.investing.com/news/stock-market-news/ingiltere-hisseleri-sakin-haftay-degisimsiz-kapatmaya-hazrlanyor-4047512",
+        "investing:https://tr.investing.com/news/stock-market-news/spkdan-halka-arzda-oncelik-15-milyar-tl-esigi-ve-yabanc-yatrmc-sart-4047511",
+        "investing:https://tr.investing.com/news/global-filings/son-dakika-dunya-holding-sermaye-tavann-125-milyar-tlye-yukseltti-93CH-4047510",
+        "investing:https://tr.investing.com/news/global-filings/skyalp-takasbank-ile-188-milyon-usdlik-hizmet-sozlesmesi-imzalad-93CH-4047505",
+        "investing:https://tr.investing.com/news/global-filings/gelecek-varlk-yonetimi-405-milyon-tllik-portfoy-devrini-tamamlad-93CH-4047504",
+        "investing:https://tr.investing.com/news/company-news/glenstone-teklif-son-tarihinden-once-airedeki-payn-299a-ckard-93CH-4047503",
+        "investing:https://tr.investing.com/news/global-filings/barem-ambalaj-konya-eregli-kojenerasyon-tesisi-icin-49-yllk-uretim-lisans-ald-93CH-4047500",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -181,7 +185,17 @@
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
-        "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581"
+        "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/global-filings/prizma-pres-yonetim-kurulunda-iki-uye-degisikligi-gerceklestirdi-93CH-4047481",
+        "investing:https://tr.investing.com/news/global-filings/sarkuysan-sermayesini-bedelsiz-50-artrarak-15-milyar-tlye-ckaryor-93CH-4047480",
+        "investing:https://tr.investing.com/news/global-filings/ersu-konya-ereglide-110000-mlik-karma-proje-planlyor-93CH-4047479",
+        "investing:https://tr.investing.com/news/global-filings/marmaris-altnyunus-mares-oteli-kira-sozlesmesini-tbcye-devretti-93CH-4047463",
+        "investing:https://tr.investing.com/news/insider-trading-news/thrivent-financial-gloo-holdings-hisselerinden-26432-dolar-satt-93CH-4047462",
+        "investing:https://tr.investing.com/news/insider-trading-news/seer-baskan-ve-cfosu-david-horn-14809-dolar-degerinde-hisse-satt-93CH-4047461",
+        "investing:https://tr.investing.com/news/analyst-ratings/guggenheim-autodesk-icin-hisse-hedefini-guclu-ceyregin-ardndan-yukseltti-93CH-4047456",
+        "investing:https://tr.investing.com/news/analyst-ratings/baird-guclu-arr-buyumesi-sonras-sentinelone-hisse-notunu-korudu-93CH-4047455",
+        "investing:https://tr.investing.com/news/insider-trading-news/mara-holdings-ceosu-253321-dolarlk-hisse-satt-93CH-4047453",
+        "investing:https://tr.investing.com/news/analyst-ratings/ulta-beauty-hisseleri-raymond-jameste-guclu-al-konumunu-koruyor-93CH-4047452"
       ]
     },
     "ntvpara": {
@@ -210,8 +224,13 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-fed-baskani-holenin-aciklamalarina-odaklandi-955176.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/ekonomik-guven-endeksi-agustosta-1006-oldu-955191.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/ekonomik-guven-endeksi-agustosta-1006-oldu-955191.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/hizmet-uretici-fiyat-endeksi-temmuzda-artti-955190.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/2026-yili-sulama-tesisleri-ucret-tarifeleri-belirlendi-955188.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ihracati-temmuzda-256-milyar-dolar-oldu-955186.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-yukselis-suruyor-955183.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-fed-baskani-holenin-aciklamalarina-odaklandi-955176.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-1884-milyar-dolara-yukseldi-955118.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kkm-bakiyesi-sifirlandi-955115.html",
@@ -274,8 +293,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702469:0",
+      "last_seen_key": "tradingview:matriks:6702539:0",
       "seen_keys": [
+        "tradingview:matriks:6702539:0",
+        "tradingview:matriks:6702538:0",
+        "tradingview:matriks:6702533:0",
+        "tradingview:matriks:6702531:0",
+        "tradingview:matriks:6702523:0",
+        "tradingview:matriks:6702514:0",
+        "tradingview:fxstreet:00672422ad9e8:0",
         "tradingview:matriks:6702469:0",
         "tradingview:fxstreet:f705ff9d3d9e8:0",
         "tradingview:fxstreet:a15a1c5c7d9e8:0",
@@ -379,5 +405,131 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "indeks bilgisayar surek turkiye pazar nda toplam distrubutor ticareti 15 buyudu cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6702539:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "indeks bilgisayar surek y l 3 milyar dolar n uzerinde konsolide ciroya ulasmay hedefliyoruz cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6702538:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702533:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sirket raporu astor tera yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702531:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "madencilik sektoru kastamonu dan birlik mesaj verdi",
+      "link": "https://tr.tradingview.com/news/matriks:6702523:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tera yat r m astor 472 1 tl hedef fiyat belirledi endeks ustu getiri tavsiyesini korudu onceki hedef fiyat 457 27 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6702514:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "asya doviz piyasas merkez bankalar risk yoneticisi olarak hareket ediyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:00672422ad9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "ekonomik guven endeksi agustosta 100 6 oldu ekonomik guven endeksi agustosta ayl k bazda yuzde 0 8 art sla 100 6 degerini ald",
+      "link": "https://www.trthaber.com/haber/ekonomi/ekonomik-guven-endeksi-agustosta-1006-oldu-955191.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "hizmet uretici fiyat endeksi temmuzda artt hizmet uretici fiyat endeksi h ufe temmuzda ayl k bazda yuzde 3 94 y ll k bazda yuzde 32 77 art s gosterdi",
+      "link": "https://www.trthaber.com/haber/ekonomi/hizmet-uretici-fiyat-endeksi-temmuzda-artti-955190.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "2026 y l sulama tesisleri ucret tarifeleri belirlendi baz sulama tesislerinden faydalananlardan y l al nacak isletme bak m ucretleri belli oldu",
+      "link": "https://www.trthaber.com/haber/ekonomi/2026-yili-sulama-tesisleri-ucret-tarifeleri-belirlendi-955188.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "turkiye nin ihracat temmuzda 25 6 milyar dolar oldu turkiye nin ihracat temmuzda gecen y l n ayn ay na k yasla yuzde 2 9 artarak 25 milyar 623 milyon dolar ithalat yuzde 5 1 yukselisle 32 milyar 966 milyon dolar oldu",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-ihracati-temmuzda-256-milyar-dolar-oldu-955186.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "alt n fiyatlar nda yukselis suruyor gune yukselisle baslayan gram alt n 7 bin 139 liradan islem goruyor ceyrek alt n 11 bin 658 liradan cumhuriyet alt n 46 bin 428 liradan sat l yor",
+      "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-yukselis-suruyor-955183.html"
+    },
+    {
+      "source": "investing",
+      "text": "cek ekonomisi ikinci ceyrekte tuketim harcamalar yla 0 4 buyudu",
+      "link": "https://tr.investing.com/news/economic-indicators/cek-ekonomisi-ikinci-ceyrekte-tuketim-harcamalaryla-04-buyudu-93CH-4047521"
+    },
+    {
+      "source": "investing",
+      "text": "paypal baskan suzan kereere 253 722 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/paypal-baskan-suzan-kereere-253722-dolar-degerinde-hisse-satt-93CH-4047520"
+    },
+    {
+      "source": "investing",
+      "text": "watkin jones geciken anlasmalar nedeniyle kar beklentisini dusurdu",
+      "link": "https://tr.investing.com/news/stock-market-news/watkin-jones-geciken-anlasmalar-nedeniyle-kar-beklentisini-dusurdu-93CH-4047516"
+    },
+    {
+      "source": "investing",
+      "text": "ingiltere hisseleri sakin haftay degisimsiz kapatmaya haz rlan yor",
+      "link": "https://tr.investing.com/news/stock-market-news/ingiltere-hisseleri-sakin-haftay-degisimsiz-kapatmaya-hazrlanyor-4047512"
+    },
+    {
+      "source": "investing",
+      "text": "spk dan halka arzda oncelik 15 milyar tl esigi yabanc yat r mc sart",
+      "link": "https://tr.investing.com/news/stock-market-news/spkdan-halka-arzda-oncelik-15-milyar-tl-esigi-ve-yabanc-yatrmc-sart-4047511"
+    },
+    {
+      "source": "investing",
+      "text": "dunya holding sermaye tavan n 1 25 milyar tl ye yukseltti",
+      "link": "https://tr.investing.com/news/global-filings/son-dakika-dunya-holding-sermaye-tavann-125-milyar-tlye-yukseltti-93CH-4047510"
+    },
+    {
+      "source": "investing",
+      "text": "skyalp takasbank 1 88 milyon usd lik hizmet sozlesmesi imzalad",
+      "link": "https://tr.investing.com/news/global-filings/skyalp-takasbank-ile-188-milyon-usdlik-hizmet-sozlesmesi-imzalad-93CH-4047505"
+    },
+    {
+      "source": "investing",
+      "text": "gelecek varl k yonetimi 405 milyon tl lik portfoy devrini tamamlad",
+      "link": "https://tr.investing.com/news/global-filings/gelecek-varlk-yonetimi-405-milyon-tllik-portfoy-devrini-tamamlad-93CH-4047504"
+    },
+    {
+      "source": "investing",
+      "text": "glenstone teklif tarihinden once aire deki pay n 29 9 a c kard",
+      "link": "https://tr.investing.com/news/company-news/glenstone-teklif-son-tarihinden-once-airedeki-payn-299a-ckard-93CH-4047503"
+    },
+    {
+      "source": "investing",
+      "text": "barem ambalaj konya eregli kojenerasyon tesisi 49 y ll k uretim lisans ald",
+      "link": "https://tr.investing.com/news/global-filings/barem-ambalaj-konya-eregli-kojenerasyon-tesisi-icin-49-yllk-uretim-lisans-ald-93CH-4047500"
+    },
+    {
+      "source": "kap",
+      "text": "nurvk tertip ihrac belgesi tertip ihrac belgesi sirket nurol varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655552"
+    },
+    {
+      "source": "kap",
+      "text": "tby tebyt yat r m kurulusu varant sertifika senetlerine iliskin bildirim gunluk varant alim satim sirket teb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655551"
+    },
+    {
+      "source": "kap",
+      "text": "kpeks pay baz nda devre kesici bildirimi kpeks e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655550"
+    }
+  ]
 }
