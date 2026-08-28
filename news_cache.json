@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655516",
+      "last_seen_key": "kap:1655517",
       "seen_keys": [
+        "kap:1655517",
         "kap:1655516",
         "kap:1655515",
         "kap:1655510",
@@ -506,8 +507,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-153-yillik-demir-yolu-guzergahinda-leylekler-icin-ozel-onlemler-1739180",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-konkordato-ilan-etmisti-58-yillik-meyve-suyu-sirketi-icin-cagri-yapildi-1739226",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-konkordato-ilan-etmisti-58-yillik-meyve-suyu-sirketi-icin-cagri-yapildi-1739226",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-153-yillik-demir-yolu-guzergahinda-leylekler-icin-ozel-onlemler-1739180",
         "ntvpara:https://www.ntv.com.tr/ntvpara/kur-korumali-mevduat-sona-erdi-1739159",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bilisim-devinin-sevkiyatlarindaki-dusus-hisselerine-darbe-indirdi-1739128",
@@ -595,8 +597,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702070:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44P08O:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L6N44P08O:0",
+        "tradingview:fxstreet:5a7adb870d9e8:0",
+        "tradingview:matriks:6702071:0",
         "tradingview:matriks:6702070:0",
         "tradingview:fxstreet:7640d7781d9e8:0",
         "tradingview:matriks:6702068:0",
@@ -611,6 +616,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44P05T:0",
         "tradingview:matriks:6702058:0",
         "tradingview:matriks:6702052:0",
+        "tradingview:beincrypto:d5bdf845cd9e8:0",
         "tradingview:matriks:6702051:0",
         "tradingview:matriks:6702050:0",
         "tradingview:matriks:6702049:0",
@@ -907,6 +913,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44P08O:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi fed baskan warsh n konusmas oncesinde 99 00 seviyesinin uzerinde istikrar kazan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5a7adb870d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunun pusulas pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702071:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "konkordato ilan etmisti 58 y ll k meyve suyu sirketi cagr yap ld turkiye uzun y llard r meyve suyu uretimi yapan sirketin gorulmekte olan konkordato davas alacakl lara cagr yap ld",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-konkordato-ilan-etmisti-58-yillik-meyve-suyu-sirketi-icin-cagri-yapildi-1739226"
+    },
+    {
+      "source": "kap",
+      "text": "tezol paylar n geri al nmas na iliskin bildirim pay geri al m islemleri sirket europap tezol kagit sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655517"
+    },
     {
       "source": "tradingview",
       "text": "jackson hole gozler warsh ta boj amb faiz art s beklentileri gucleniyor ikon menkul",
