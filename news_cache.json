@@ -356,18 +356,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/tahmin-piyasalar-karar-sonras-draftkings-ve-flutter-yukseldi-93CH-4048505",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/trump-askeri-kullanm-icin-abd-uzay-akademisi-kurulmas-emrini-verdi-93CH-4048516",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/trump-askeri-kullanm-icin-abd-uzay-akademisi-kurulmas-emrini-verdi-93CH-4048516",
+        "investing:https://tr.investing.com/news/economy-news/brezilya-temmuzda-58568-is-ekledi-tahminlerin-gerisinde-kald-93CH-4048514",
+        "investing:https://tr.investing.com/news/stock-market-news/etu-energias-chevronun-angola-petrol-bloklarn-satn-alacak-93CH-4048513",
+        "investing:https://tr.investing.com/news/economy-news/bessent-yen-destegini-savundu-abd-borclanma-maliyeti-risklerine-dikkat-cekti-4048515",
+        "investing:https://tr.investing.com/news/insider-trading-news/flywire-yoneticisi-voss-capital-227-milyon-dolarlk-hisse-satt-93CH-4048510",
+        "investing:https://tr.investing.com/news/company-news/top-financial-group-hissesi-1675-dolarda-yln-zirvesinde-93CH-4048507",
         "investing:https://tr.investing.com/news/stock-market-news/tahmin-piyasalar-karar-sonras-draftkings-ve-flutter-yukseldi-93CH-4048505",
         "investing:https://tr.investing.com/news/stock-market-news/blue-owl-iren-veri-merkezi-icin-24-milyar-dolarlk-borc-anlasmasna-onculuk-etti-4048504",
         "investing:https://tr.investing.com/news/stock-market-news/klarna-hisseleri-neden-yukseliste-93CH-4048501",
         "investing:https://tr.investing.com/news/insider-trading-news/medifast-yoneticisi-kiai-parsa-529-bin-dolarlk-hisse-ald-93CH-4048499",
-        "investing:https://tr.investing.com/news/stock-market-news/boeing-muhendisler-sendikas-ile-pazartesi-gorusmelere-devam-edecek-93CH-4048498",
-        "investing:https://tr.investing.com/news/economy-news/brezilyann-2027-butcesinde-yuzde-01-fazla-ongoruluyor-93CH-4048497",
-        "investing:https://tr.investing.com/news/stock-market-news/pge-ve-edison-international-yangn-plan-sonras-dustu-93CH-4048496",
-        "investing:https://tr.investing.com/news/company-news/ehang-hong-kongda-ilk-halka-ack-evtol-ucusunu-tamamlad-93CH-4048495",
-        "investing:https://tr.investing.com/news/stock-market-news/sp-constellation-softwarein-gorunumunu-yukseltti-93CH-4048493",
-        "investing:https://tr.investing.com/news/stock-market-news/moodys-yapay-zeka-talebine-dayanarak-seagatein-notunu-yukseltti-93CH-4048491",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -388,6 +388,12 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/boeing-muhendisler-sendikas-ile-pazartesi-gorusmelere-devam-edecek-93CH-4048498",
+        "investing:https://tr.investing.com/news/economy-news/brezilyann-2027-butcesinde-yuzde-01-fazla-ongoruluyor-93CH-4048497",
+        "investing:https://tr.investing.com/news/stock-market-news/pge-ve-edison-international-yangn-plan-sonras-dustu-93CH-4048496",
+        "investing:https://tr.investing.com/news/company-news/ehang-hong-kongda-ilk-halka-ack-evtol-ucusunu-tamamlad-93CH-4048495",
+        "investing:https://tr.investing.com/news/stock-market-news/sp-constellation-softwarein-gorunumunu-yukseltti-93CH-4048493",
+        "investing:https://tr.investing.com/news/stock-market-news/moodys-yapay-zeka-talebine-dayanarak-seagatein-notunu-yukseltti-93CH-4048491",
         "investing:https://tr.investing.com/news/insider-trading-news/hni-corp-ceosu-jeffrey-lorenger-236-milyon-dolarlk-hisse-satt-93CH-4048487",
         "investing:https://tr.investing.com/news/analyst-ratings/baird-aecom-hissesi-icin-notr-notunu-ve-65-dolar-hedefini-korudu-93CH-4048485",
         "investing:https://tr.investing.com/news/company-news/macys-hisse-basna-1915-sent-temettu-acklad-93CH-4048482",
@@ -710,8 +716,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:ac43d72d5d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:443541edbd9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:443541edbd9e8:0",
         "tradingview:fxstreet:ac43d72d5d9e8:0",
         "tradingview:beincrypto:4406ffeadd9e8:0",
         "tradingview:cointelegraph:cdbc99305d9e8:0",
@@ -1118,6 +1125,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "chelsea fc birlesik krall k fca n n kuluplere yonelik uyar s n n ard ndan stablecoin sponsoru buldu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:443541edbd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "trump askeri kullan m abd uzay akademisi kurulmas emrini verdi",
+      "link": "https://tr.investing.com/news/economy-news/trump-askeri-kullanm-icin-abd-uzay-akademisi-kurulmas-emrini-verdi-93CH-4048516"
+    },
+    {
+      "source": "investing",
+      "text": "brezilya temmuz 58 568 is ekledi tahminlerin gerisinde kald",
+      "link": "https://tr.investing.com/news/economy-news/brezilya-temmuzda-58568-is-ekledi-tahminlerin-gerisinde-kald-93CH-4048514"
+    },
+    {
+      "source": "investing",
+      "text": "etu energias chevron un angola petrol bloklar n sat n alacak",
+      "link": "https://tr.investing.com/news/stock-market-news/etu-energias-chevronun-angola-petrol-bloklarn-satn-alacak-93CH-4048513"
+    },
+    {
+      "source": "investing",
+      "text": "bessent yen destegini savundu abd borclanma maliyeti risklerine dikkat cekti",
+      "link": "https://tr.investing.com/news/economy-news/bessent-yen-destegini-savundu-abd-borclanma-maliyeti-risklerine-dikkat-cekti-4048515"
+    },
+    {
+      "source": "investing",
+      "text": "flywire yoneticisi voss capital 2 27 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/flywire-yoneticisi-voss-capital-227-milyon-dolarlk-hisse-satt-93CH-4048510"
+    },
+    {
+      "source": "investing",
+      "text": "top financial group hissesi 16 75 dolarda y l n zirvesinde",
+      "link": "https://tr.investing.com/news/company-news/top-financial-group-hissesi-1675-dolarda-yln-zirvesinde-93CH-4048507"
+    },
     {
       "source": "investing",
       "text": "tahmin piyasalar karar sonras draftkings flutter yukseldi",
