@@ -625,8 +625,18 @@
       ]
     },
     "tradingview": {
+<<<<<<< Updated upstream
       "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44P0AH:0",
       "seen_keys": [
+=======
+      "last_seen_key": "tradingview:matriks:6702408:0",
+      "seen_keys": [
+        "tradingview:matriks:6702408:0",
+        "tradingview:matriks:6702405:0",
+        "tradingview:tag:reuters.com,2026:newsml_S8N43P0ID:0",
+        "tradingview:fxstreet:c61633abed9e8:0",
+        "tradingview:matriks:6702403:0",
+>>>>>>> Stashed changes
         "tradingview:tag:reuters.com,2026:newsml_L8N44P0AH:0",
         "tradingview:fxstreet:8264c873fd9e8:0",
         "tradingview:fxstreet:7da704a3dd9e8:0",
@@ -1051,6 +1061,34 @@
   "fingerprints": [
     {
       "source": "tradingview",
+<<<<<<< Updated upstream
+=======
+      "text": "teknik bulten is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702408:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar bulteni qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6702405:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "d s ticaret ac g temmuz 13 6 art sla 7 34 milyara yukseldi tuik",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_S8N43P0ID:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni boj un eylul faiz art r m na yak n oldugu goruluyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:c61633abed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702403:0"
+    },
+    {
+      "source": "tradingview",
+>>>>>>> Stashed changes
       "text": "abd bask n n ise yaramad g n kabul ederse diplomasi yeniden baslayabilir iran d sisleri bakan arakci",
       "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P0AH:0"
     },
