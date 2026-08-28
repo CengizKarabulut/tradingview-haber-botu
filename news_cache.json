@@ -309,9 +309,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:966b57d91d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:1ed24f03ed9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:1ed24f03ed9e8:0",
         "tradingview:fxstreet:966b57d91d9e8:0",
+        "tradingview:beincrypto:15cc76427d9e8:0",
         "tradingview:beincrypto:e620ecd30d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:8a40e848ad9e8:0",
@@ -425,6 +427,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "filipin pesosu enflasyon riskleri nedeniyle bsp nin s k last rma egilimi dbs",
+      "link": "https://tr.tradingview.com/news/fxstreet:1ed24f03ed9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "guney kore wonu daha yuksek faizler cip patlamas kazanclar destekliyor ing",
