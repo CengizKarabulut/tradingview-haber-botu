@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655981",
+      "last_seen_key": "kap:1655982",
       "seen_keys": [
+        "kap:1655982",
         "kap:1655981",
         "kap:1655980",
         "kap:1655979",
@@ -92,8 +93,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/bessent-duzensiz-yen-hareketleri-daha-yuksek-faiz-riskini-dogurur-3786778",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/imf-baskani-ndan-sabitcoinler-icin-kuresel-duzenleme-cagrisi-3786781",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/imf-baskani-ndan-sabitcoinler-icin-kuresel-duzenleme-cagrisi-3786781",
         "bloomberght:https://www.bloomberght.com/bessent-duzensiz-yen-hareketleri-daha-yuksek-faiz-riskini-dogurur-3786778",
         "bloomberght:https://www.bloomberght.com/trump-abd-uzay-akademisi-kuracaklarini-acikladi-3786777",
         "bloomberght:https://www.bloomberght.com/abd-tuketici-guvenine-yukari-yonlu-revizyon-3786776",
@@ -283,8 +285,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:80e85c87fd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:4a2dcc088d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:4a2dcc088d9e8:0",
         "tradingview:fxstreet:80e85c87fd9e8:0",
         "tradingview:fxstreet:354fcf072d9e8:0",
         "tradingview:beincrypto:5fe4c8753d9e8:0",
@@ -393,6 +396,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "meksika pesosu warsh enflasyonla mucadeleye girisirken sert dusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:4a2dcc088d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "imf baskan ndan sabitcoinler kuresel duzenleme cagr s uluslararas para fonu imf baskan kristalina georgieva tokenizasyon sabitcoinlerin kuresel finans sistemini daha ak skan hale getirme potansiyeli tas d g n ancak donusumun yeni riskleri beraberinde getirecegini belirterek a",
+      "link": "https://www.bloomberght.com/imf-baskani-ndan-sabitcoinler-icin-kuresel-duzenleme-cagrisi-3786781"
+    },
+    {
+      "source": "kap",
+      "text": "tezol paylar n geri al nmas na iliskin bildirim pay geri al m islemleri sirket europap tezol kagit sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655982"
+    },
     {
       "source": "tradingview",
       "text": "cin yuan degerinin dusuk oldugu ihracat kazanclar sorgulan yor commerzbank",
