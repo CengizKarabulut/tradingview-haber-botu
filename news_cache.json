@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655524",
+      "last_seen_key": "kap:1655527",
       "seen_keys": [
+        "kap:1655527",
         "kap:1655524",
         "kap:1655523",
         "kap:1655522",
@@ -190,8 +191,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-piyasalar-warsh-un-konusmasini-bekliyor-3786641",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/venezuela-opec-ten-ayrilmayi-degerlendiriyor-3786644",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/venezuela-opec-ten-ayrilmayi-degerlendiriyor-3786644",
+        "bloomberght:https://www.bloomberght.com/tokyo-enflasyonunda-faiz-artisini-destekleyen-hizlanma-3786643",
         "bloomberght:https://www.bloomberght.com/kuresel-piyasalar-warsh-un-konusmasini-bekliyor-3786641",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-28082026-3786640",
         "bloomberght:https://www.bloomberght.com/spk-belirli-sartlari-saglayan-halka-arzlara-oncelik-verebilecek-3786639",
@@ -972,6 +975,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "venezuela opec ten ayr lmay degerlendiriyor bloomberg e konusan konu hakk nda bilgi sahibi kaynaklara gore venezuela opec ten ayr l p ayr lmamay degerlendiriyor",
+      "link": "https://www.bloomberght.com/venezuela-opec-ten-ayrilmayi-degerlendiriyor-3786644"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tokyo enflasyonunda faiz art s n destekleyen h zlanma tokyo enflasyon h zlan rken japonya merkez bankas n n boj yak n vadede faiz art rma ihtimalini art rd",
+      "link": "https://www.bloomberght.com/tokyo-enflasyonunda-faiz-artisini-destekleyen-hizlanma-3786643"
+    },
+    {
+      "source": "kap",
+      "text": "info iyf bistech pay piyasas al m sat m sistemi duyurusu isleme ac lan varantlar sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655527"
+    },
     {
       "source": "tradingview",
       "text": "brent petrol varil bas na 88 dolara dogru geriledi",
