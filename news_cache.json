@@ -147,18 +147,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/abd-enerji-sondaj-kulesi-says-588-seviyesinde-sabit-kald-93CH-4048550",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/energy-fuels-australian-strategic-materials-satn-ald-93CH-4048563",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/energy-fuels-australian-strategic-materials-satn-ald-93CH-4048563",
+        "investing:https://tr.investing.com/news/company-news/zimmer-biomet-uc-aylk-024-dolar-temettu-acklad-93CH-4048562",
+        "investing:https://tr.investing.com/news/company-news/nxp-semiconductors-1014-dolar-3c-ara-temettu-acklad-93CH-4048558",
+        "investing:https://tr.investing.com/news/company-news/shuttle-pharmaceuticals-nasdaq-dosyalama-sartlarn-karslayamad-93CH-4048557",
+        "investing:https://tr.investing.com/news/world-news/berlinin-calnan-verileri-fidye-reddinden-sonra-ack-artrmada-93CH-4048556",
+        "investing:https://tr.investing.com/news/commodities-news/soya-vadeli-islemleri-cin-talebiyle-rekor-krd-93CH-4048554",
+        "investing:https://tr.investing.com/news/stock-market-news/jpmorgan-stratejisti-tahvil-getirisindeki-arts-yapay-zeka-ile-acklad-93CH-4048553",
         "investing:https://tr.investing.com/news/commodities-news/abd-enerji-sondaj-kulesi-says-588-seviyesinde-sabit-kald-93CH-4048550",
         "investing:https://tr.investing.com/news/stock-market-news/kalshinin-bahis-platformuna-nevada-denetimini-engelleme-girisimi-reddedildi-93CH-4048549",
         "investing:https://tr.investing.com/news/insider-trading-news/fidelity--guaranty-life-crescent-capital-bdc-hisselerini-satt-93CH-4048547",
-        "investing:https://tr.investing.com/news/economy-news/ecbden-kocher-avrupa-ekonomisi-ivme-kazanyor--bloomberg-93CH-4048546",
-        "investing:https://tr.investing.com/news/stock-market-news/smj-international-hissesi-alslmadk-islemlerle-24-dustu-93CH-4048545",
-        "investing:https://tr.investing.com/news/insider-trading-news/sensus-healthcare-yoneticisi-eric-sachetta-66682-dolar-hisse-ald-93CH-4048544",
-        "investing:https://tr.investing.com/news/insider-trading-news/northrim-bancorp-cfosu-90479-dolarlk-hisse-satt-93CH-4048543",
-        "investing:https://tr.investing.com/news/company-news/aroundtown-250-milyon-euroluk-geri-alm-programn-tamamlad-93CH-4048542",
-        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-yonetim-kurulu-uyesi-5200-dolar-hisse-ald-93CH-4048541",
-        "investing:https://tr.investing.com/news/stock-market-news/strategy-hissesi-bugun-neden-dusuyor-93CH-4048540",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -179,6 +179,13 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/ecbden-kocher-avrupa-ekonomisi-ivme-kazanyor--bloomberg-93CH-4048546",
+        "investing:https://tr.investing.com/news/stock-market-news/smj-international-hissesi-alslmadk-islemlerle-24-dustu-93CH-4048545",
+        "investing:https://tr.investing.com/news/insider-trading-news/sensus-healthcare-yoneticisi-eric-sachetta-66682-dolar-hisse-ald-93CH-4048544",
+        "investing:https://tr.investing.com/news/insider-trading-news/northrim-bancorp-cfosu-90479-dolarlk-hisse-satt-93CH-4048543",
+        "investing:https://tr.investing.com/news/company-news/aroundtown-250-milyon-euroluk-geri-alm-programn-tamamlad-93CH-4048542",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-yonetim-kurulu-uyesi-5200-dolar-hisse-ald-93CH-4048541",
+        "investing:https://tr.investing.com/news/stock-market-news/strategy-hissesi-bugun-neden-dusuyor-93CH-4048540",
         "investing:https://tr.investing.com/news/company-news/juri-parse-biosciencesn-scale-patentlerini-ihlal-ettigine-karar-verdi-93CH-4048539",
         "investing:https://tr.investing.com/news/company-news/aroundtown-gecen-hafta-75549-hisse-geri-ald-93CH-4048538",
         "investing:https://tr.investing.com/news/stock-market-news/amazon-hissesi-bugun-neden-yukseliste-93CH-4048537",
@@ -285,10 +292,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:4a2dcc088d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:8a40e848ad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:8a40e848ad9e8:0",
         "tradingview:fxstreet:4a2dcc088d9e8:0",
         "tradingview:fxstreet:80e85c87fd9e8:0",
+        "tradingview:beincrypto:96a0c7c95d9e8:0",
         "tradingview:fxstreet:354fcf072d9e8:0",
         "tradingview:beincrypto:5fe4c8753d9e8:0",
         "tradingview:matriks:6704266:0",
@@ -396,6 +405,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "malezya ringgiti bnm nin istikrarl politika patikas nda oldugu goruluyor dbs",
+      "link": "https://tr.tradingview.com/news/fxstreet:8a40e848ad9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "energy fuels australian strategic materials sat n ald",
+      "link": "https://tr.investing.com/news/company-news/energy-fuels-australian-strategic-materials-satn-ald-93CH-4048563"
+    },
+    {
+      "source": "investing",
+      "text": "zimmer biomet uc ayl k 0 24 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/zimmer-biomet-uc-aylk-024-dolar-temettu-acklad-93CH-4048562"
+    },
+    {
+      "source": "investing",
+      "text": "nxp semiconductors 1 014 dolar 3c ara temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/nxp-semiconductors-1014-dolar-3c-ara-temettu-acklad-93CH-4048558"
+    },
+    {
+      "source": "investing",
+      "text": "shuttle pharmaceuticals nasdaq dosyalama sartlar n kars layamad",
+      "link": "https://tr.investing.com/news/company-news/shuttle-pharmaceuticals-nasdaq-dosyalama-sartlarn-karslayamad-93CH-4048557"
+    },
+    {
+      "source": "investing",
+      "text": "berlin in cal nan verileri fidye reddinden sonra ac k art rmada",
+      "link": "https://tr.investing.com/news/world-news/berlinin-calnan-verileri-fidye-reddinden-sonra-ack-artrmada-93CH-4048556"
+    },
+    {
+      "source": "investing",
+      "text": "soya vadeli islemleri cin talebiyle rekor k rd",
+      "link": "https://tr.investing.com/news/commodities-news/soya-vadeli-islemleri-cin-talebiyle-rekor-krd-93CH-4048554"
+    },
+    {
+      "source": "investing",
+      "text": "jpmorgan stratejisti tahvil getirisindeki art s yapay zeka ac klad",
+      "link": "https://tr.investing.com/news/stock-market-news/jpmorgan-stratejisti-tahvil-getirisindeki-arts-yapay-zeka-ile-acklad-93CH-4048553"
+    },
     {
       "source": "tradingview",
       "text": "meksika pesosu warsh enflasyonla mucadeleye girisirken sert dusuyor",
