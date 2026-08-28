@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655605",
+      "last_seen_key": "kap:1655609",
       "seen_keys": [
+        "kap:1655609",
+        "kap:1655606",
         "kap:1655605",
         "kap:1655602",
         "kap:1655601",
@@ -126,8 +128,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-ekonomiye-guven-yukseldi-3786714",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/tarim-ilaclarinda-danisikli-fiyat-iddiasi-rekabet-kurumu-nun-radarinda-3786718",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/tarim-ilaclarinda-danisikli-fiyat-iddiasi-rekabet-kurumu-nun-radarinda-3786718",
+        "bloomberght:https://www.bloomberght.com/karadeniz-gerilimi-tahil-rotasini-baltik-ulkelerine-kaydirdi-3786717",
         "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-ekonomiye-guven-yukseldi-3786714",
         "bloomberght:https://www.bloomberght.com/imalat-sanayisine-250-milyar-liralik-pakete-basvurular-eylul-de-baslayacak-3786713",
         "bloomberght:https://www.bloomberght.com/kalibaf-bizim-petrol-satamadigimiz-bir-bolgede-kimse-petrol-satamayacak-3786712",
@@ -411,11 +415,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:4d3f3de73d9e8:0",
+      "last_seen_key": "tradingview:matriks:6703272:0",
       "seen_keys": [
+        "tradingview:matriks:6703272:0",
+        "tradingview:matriks:6703267:0",
+        "tradingview:fxstreet:5eef8e810d9e8:0",
+        "tradingview:matriks:6703260:0",
+        "tradingview:fxstreet:8fed5be48d9e8:0",
+        "tradingview:matriks:6703234:0",
+        "tradingview:matriks:6703228:0",
         "tradingview:fxstreet:4d3f3de73d9e8:0",
         "tradingview:matriks:6703219:0",
         "tradingview:fxstreet:ed4260d6bd9e8:0",
+        "tradingview:cointelegraph:d68b2c1a2d9e8:0",
         "tradingview:matriks:6703181:0",
         "tradingview:matriks:6703176:0",
         "tradingview:matriks:6703173:0",
@@ -674,6 +686,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "piyasalara makro bak s pusula yat r m mustafa kemal eski belirsizlikler azal rsa borsa istanbul 16 310 seviyesi gundeme gelebilir",
+      "link": "https://tr.tradingview.com/news/matriks:6703272:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan n doviz rezervleri 729 3 milyar dolarla rekor seviyeye yukseldi",
+      "link": "https://tr.tradingview.com/news/matriks:6703267:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "platin k r lma testi yaklas rken yukselis egilimi korunuyor ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:5eef8e810d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya n n 10 y ll k tahvil getirisi 3 2847 30 y ll k tahvil getirisi 3 7877 15 y l n en yuksek seviyesini gordu",
+      "link": "https://tr.tradingview.com/news/matriks:6703260:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n fiyat analizi xau usd 4 600 uzerinde kal yor gozler fed warsh n konusmas nda",
+      "link": "https://tr.tradingview.com/news/fxstreet:8fed5be48d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "g sektorunun geleceginefoodist istanbul yon verilecek",
+      "link": "https://tr.tradingview.com/news/matriks:6703234:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "europap tezol ihracatta 6 doviz donusum destegi bizim cok onemli oran bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6703228:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tar m ilaclar nda dan s kl fiyat iddias rekabet kurumu nun radar nda rekabet kurumu tar m sektorunde kullan lan bitki koruma bitki besleme urunlerinde rekabeti bozabilecek bilgi paylas mlar n incelemeye ald",
+      "link": "https://www.bloomberght.com/tarim-ilaclarinda-danisikli-fiyat-iddiasi-rekabet-kurumu-nun-radarinda-3786718"
+    },
+    {
+      "source": "bloomberght",
+      "text": "karadeniz gerilimi tah l rotas n balt k ulkelerine kayd rd karadeniz bolgesi nden tah l sevkiyat n n aksamas al c lar alternatif pazarlara yoneltti turkiye birlesik arap emirlikleri sudan n aralar nda bulundugu ulkeler balt k bugday na ilgi gosteriyor",
+      "link": "https://www.bloomberght.com/karadeniz-gerilimi-tahil-rotasini-baltik-ulkelerine-kaydirdi-3786717"
+    },
+    {
+      "source": "kap",
+      "text": "ict sirket genel bilgi formu sirket icbc turkey yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655609"
+    },
+    {
+      "source": "kap",
+      "text": "pbt pbtr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren pasha yat r m bankas a s eurobond kupon odemesi sirket pasha yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655606"
+    },
     {
       "source": "tradingview",
       "text": "euro amb nin tetikte olmas enflasyon riskleri bny",
