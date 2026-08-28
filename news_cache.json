@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655527",
+      "last_seen_key": "kap:1655533",
       "seen_keys": [
+        "kap:1655533",
+        "kap:1655532",
+        "kap:1655531",
+        "kap:1655530",
         "kap:1655527",
         "kap:1655524",
         "kap:1655523",
@@ -73,7 +77,6 @@
         "kap:1655447",
         "kap:1655446",
         "kap:1655445",
-        "kap:1655444",
         "kap:1655443",
         "kap:1655442",
         "kap:1655437",
@@ -81,7 +84,6 @@
         "kap:1655434",
         "kap:1655433",
         "kap:1655432",
-        "kap:1655431",
         "kap:1655428",
         "kap:1655427",
         "kap:1655426",
@@ -90,6 +92,8 @@
         "kap:1655423",
         "kap:1655422",
         "kap:1655420",
+        "kap:1655444",
+        "kap:1655431",
         "kap:1655418",
         "kap:1655417",
         "kap:1655416",
@@ -191,8 +195,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/venezuela-opec-ten-ayrilmayi-degerlendiriyor-3786644",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/beyaz-esya-uretim-ve-ihracatinda-dusus-3786649",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/beyaz-esya-uretim-ve-ihracatinda-dusus-3786649",
         "bloomberght:https://www.bloomberght.com/venezuela-opec-ten-ayrilmayi-degerlendiriyor-3786644",
         "bloomberght:https://www.bloomberght.com/tokyo-enflasyonunda-faiz-artisini-destekleyen-hizlanma-3786643",
         "bloomberght:https://www.bloomberght.com/kuresel-piyasalar-warsh-un-konusmasini-bekliyor-3786641",
@@ -544,8 +549,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-1884-milyar-dolara-yukseldi-955118.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-fed-baskani-holenin-aciklamalarina-odaklandi-955176.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-fed-baskani-holenin-aciklamalarina-odaklandi-955176.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-1884-milyar-dolara-yukseldi-955118.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kkm-bakiyesi-sifirlandi-955115.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-simsek-esnafimizin-finansmana-erisimini-kolaylastiriyoruz-955110.html",
@@ -608,8 +614,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702167:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44P098:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P098:0",
+        "tradingview:fxstreet:52c42a4b3d9e8:0",
+        "tradingview:matriks:6702210:0",
+        "tradingview:matriks:6702203:0",
+        "tradingview:matriks:6702202:0",
+        "tradingview:matriks:6702199:0",
+        "tradingview:matriks:6702198:0",
+        "tradingview:fxstreet:7b1bd8e1ed9e8:0",
+        "tradingview:fxstreet:59e2d6a31d9e8:0",
         "tradingview:matriks:6702167:0",
         "tradingview:matriks:6702166:0",
         "tradingview:matriks:6702163:0",
@@ -637,7 +652,6 @@
         "tradingview:matriks:6702118:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:matriks:6702116:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44P083:0",
         "tradingview:matriks:6702112:0",
         "tradingview:matriks:6702108:0",
         "tradingview:cointelegraph:01a861f6dd9e8:0",
@@ -645,6 +659,7 @@
         "tradingview:matriks:6702103:0",
         "tradingview:matriks:6702100:0",
         "tradingview:matriks:6702099:0",
+        "tradingview:beincrypto:00c419b03d9e8:0",
         "tradingview:matriks:6702082:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44P09Y:0",
         "tradingview:matriks:6702081:0",
@@ -701,6 +716,7 @@
         "tradingview:matriks:6701996:0",
         "tradingview:matriks:6701991:0",
         "tradingview:matriks:6701992:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P083:0",
         "tradingview:matriks:6701993:0",
         "tradingview:matriks:6701997:0",
         "tradingview:matriks:6701990:0",
@@ -975,6 +991,81 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 28 agustos cuma",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P098:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hisseler teknoloji kazanclar daha genis piyasa zay fl g n gizliyor deutsche bank",
+      "link": "https://tr.tradingview.com/news/fxstreet:52c42a4b3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin fabrika faaliyetlerinin agustos ta daralmas bekleniyor",
+      "link": "https://tr.tradingview.com/news/matriks:6702210:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten global menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6702203:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702202:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702199:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702198:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro jackson hole a odaklan lm sken 1 1650 nin alt na kay plar n genisletiyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:7b1bd8e1ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini abd dolar kars s nda dar koridor icinde s n rl asag yonlu hareket uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:59e2d6a31d9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "kuresel piyasalar fed baskan hole n n ac klamalar na odakland kuresel piyasalarda abd merkez bankas fed baskan kevin warsh un jackson hole ekonomi politikas sempozyumu nda yapacag ac klamalar oncesinde temkinli seyir izleniyor",
+      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-fed-baskani-holenin-aciklamalarina-odaklandi-955176.html"
+    },
+    {
+      "source": "bloomberght",
+      "text": "beyaz esya uretim ihracat nda dusus temmuz ay nda beyaz esya sektorunde ic sat slarda art s gorulurken uretim ihracatta gerileme izlendi",
+      "link": "https://www.bloomberght.com/beyaz-esya-uretim-ve-ihracatinda-dusus-3786649"
+    },
+    {
+      "source": "kap",
+      "text": "katvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdktlm82711 yurtici kira sertifikas ihrac n n sat s n n tamamlanmas sirket katilim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655533"
+    },
+    {
+      "source": "kap",
+      "text": "brlsm yeni is iliskisi sirket bagl ortakl g n n yeni is iliskisi sirket birlesim muhendislik isitma sogutma havalandirma sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655532"
+    },
+    {
+      "source": "kap",
+      "text": "zkbvk tertip ihrac belgesi tertip ihrac belgesi sirket ziraat katilim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655531"
+    },
+    {
+      "source": "kap",
+      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren tmks misyon bank ikinci varl k finansman fonu taraf ndan gerceklestirilen varl ga dayal menkul k ymet 2 ihrac 1 tertip bilgileri sirket birlesik ipotek finansmani a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655530"
+    },
     {
       "source": "bloomberght",
       "text": "venezuela opec ten ayr lmay degerlendiriyor bloomberg e konusan konu hakk nda bilgi sahibi kaynaklara gore venezuela opec ten ayr l p ayr lmamay degerlendiriyor",
