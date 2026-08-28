@@ -507,8 +507,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-konkordato-ilan-etmisti-58-yillik-meyve-suyu-sirketi-icin-cagri-yapildi-1739226",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-asgari-ucret-zammi-belli-oldu-komsuda-40-bin-liraya-yaklasiyor-1739234",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-asgari-ucret-zammi-belli-oldu-komsuda-40-bin-liraya-yaklasiyor-1739234",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-konkordato-ilan-etmisti-58-yillik-meyve-suyu-sirketi-icin-cagri-yapildi-1739226",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-153-yillik-demir-yolu-guzergahinda-leylekler-icin-ozel-onlemler-1739180",
         "ntvpara:https://www.ntv.com.tr/ntvpara/kur-korumali-mevduat-sona-erdi-1739159",
@@ -597,8 +598,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702080:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44P09Y:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L6N44P09Y:0",
+        "tradingview:fxstreet:178f0a86fd9e8:0",
         "tradingview:matriks:6702080:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44P06N:0",
         "tradingview:fxstreet:abca23558d9e8:0",
@@ -608,10 +611,13 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44P065:0",
         "tradingview:matriks:6702076:0",
         "tradingview:matriks:6702075:0",
+        "tradingview:beincrypto:e1b30861bd9e8:0",
+        "tradingview:beincrypto:4f82b765bd9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44P08O:0",
         "tradingview:fxstreet:5a7adb870d9e8:0",
         "tradingview:matriks:6702071:0",
         "tradingview:matriks:6702070:0",
+        "tradingview:beincrypto:461a24117d9e8:0",
         "tradingview:fxstreet:7640d7781d9e8:0",
         "tradingview:matriks:6702068:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44P05V:0",
@@ -638,7 +644,6 @@
         "tradingview:matriks:6702043:0",
         "tradingview:fxstreet:a668877fdd9e8:0",
         "tradingview:matriks:6702041:0",
-        "tradingview:fxstreet:178f0a86fd9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44O1AT:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44O1B6:0",
         "tradingview:matriks:6702001:0",
@@ -922,6 +927,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz tahvil petrol alt n",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44P09Y:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "asgari ucret zamm belli oldu komsuda 40 bin liraya yaklas yor bulgaristan asgari ucrete yuzde 6 5 oran nda zam yap ld",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-asgari-ucret-zammi-belli-oldu-komsuda-40-bin-liraya-yaklasiyor-1739234"
+    },
     {
       "source": "tradingview",
       "text": "petrolde kritik esik as ld korfez den sevkiyat yeniden h zland nbe",
