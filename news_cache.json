@@ -2,8 +2,22 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655812",
+      "last_seen_key": "kap:1655831",
       "seen_keys": [
+        "kap:1655831",
+        "kap:1655827",
+        "kap:1655826",
+        "kap:1655825",
+        "kap:1655824",
+        "kap:1655823",
+        "kap:1655821",
+        "kap:1655820",
+        "kap:1655819",
+        "kap:1655817",
+        "kap:1655816",
+        "kap:1655815",
+        "kap:1655814",
+        "kap:1655813",
         "kap:1655812",
         "kap:1655808",
         "kap:1655807",
@@ -164,8 +178,11 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/betam-kiralik-konutta-talep-artti-reel-kiralar-dustu-3786727",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-tan-ciftcilere-kendi-gidalarini-isleme-hakki-3786730",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/trump-tan-ciftcilere-kendi-gidalarini-isleme-hakki-3786730",
+        "bloomberght:https://www.bloomberght.com/seker-fiyatlari-17-ayin-zirvesine-yaklasti-3786729",
+        "bloomberght:https://www.bloomberght.com/iran-dan-abd-nin-tek-tarafli-yaptirimlarini-uygulamayin-cagrisi-3786728",
         "bloomberght:https://www.bloomberght.com/betam-kiralik-konutta-talep-artti-reel-kiralar-dustu-3786727",
         "bloomberght:https://www.bloomberght.com/abde-seker-uretimi-sert-dusecek-3786726",
         "bloomberght:https://www.bloomberght.com/sanayici-icin-tedbirler-ovpde-yer-alacak-3786725",
@@ -196,6 +213,7 @@
         "bloomberght:https://www.bloomberght.com/gram-altinda-son-durum-ne-28-agustos-2026-cuma-altin-fiyatlari-pkh1-3786661",
         "bloomberght:https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-28-agustos-2026-doviz-fiyatlari-pkh2-3786651",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-28082026-3786640",
+        "bloomberght:https://www.bloomberght.com/yorum/dr-soner-canko/3786732-sepetlere-veda-mi",
         "bloomberght:https://www.bloomberght.com/spk-belirli-sartlari-saglayan-halka-arzlara-oncelik-verebilecek-3786639",
         "bloomberght:https://www.bloomberght.com/trump-a-gore-rusya-natotopraklarina-saldirmayacak-3786638",
         "bloomberght:https://www.bloomberght.com/trump-iran-la-gorusmek-istemediklerini-soyledi-3786636",
@@ -516,12 +534,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6703674:0",
+      "last_seen_key": "tradingview:fxstreet:e7f2a7632d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:e7f2a7632d9e8:0",
+        "tradingview:matriks:6703676:0",
         "tradingview:matriks:6703674:0",
         "tradingview:matriks:6703668:0",
         "tradingview:fxstreet:186c86a33d9e8:0",
         "tradingview:matriks:6703667:0",
+        "tradingview:matriks:6703666:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44P0ZU:0",
         "tradingview:matriks:6703636:0",
         "tradingview:matriks:6703625:0",
@@ -543,6 +564,7 @@
         "tradingview:matriks:6703498:0",
         "tradingview:matriks:6703478:0",
         "tradingview:fxstreet:eeb414ebbd9e8:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:d65c6efffd9e8:0",
         "tradingview:fxstreet:42c0d3f6ad9e8:0",
         "tradingview:beincrypto:69c18463dd9e8:0",
@@ -848,6 +870,101 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro fed sahinleri warsh zemini haz rlarken geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:e7f2a7632d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s aksam teknik bulteni ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6703676:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "trump tan ciftcilere kendi g dalar n isleme hakk abd baskan donald trump ulkedeki buyuk g imalatc lar n n tekelini k rmak amac yla ciftci besicilere kendi g dalar n isleme hakk tan yacak yasal duzenleme talimat verdigini bildirdi",
+      "link": "https://www.bloomberght.com/trump-tan-ciftcilere-kendi-gidalarini-isleme-hakki-3786730"
+    },
+    {
+      "source": "bloomberght",
+      "text": "seker fiyatlar 17 ay n zirvesine yaklast avrupa uretim beklentilerinin zay flamas yla ham seker fiyatlar dort haftada yaklas k yuzde 25 yukseldi vadeli fiyatlar 17 ay n en yuksek seviyesine yaklast",
+      "link": "https://www.bloomberght.com/seker-fiyatlari-17-ayin-zirvesine-yaklasti-3786729"
+    },
+    {
+      "source": "bloomberght",
+      "text": "iran dan abd nin tek tarafl yapt r mlar n uygulamay n cagr s iran d sisleri bakanl g abd nin yeni yapt r mlar n yasa d s ekonomik terorizm seklinde niteleyerek dunyaya washington n tek tarafl yapt r mlar n uygulamama cagr s yapt",
+      "link": "https://www.bloomberght.com/iran-dan-abd-nin-tek-tarafli-yaptirimlarini-uygulamayin-cagrisi-3786728"
+    },
+    {
+      "source": "kap",
+      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren tmks tarfin ikinci varl k finansman fonu vdmk itfas sirket birlesik ipotek finansmani a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655831"
+    },
+    {
+      "source": "kap",
+      "text": "suwen hak kullan m sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655827"
+    },
+    {
+      "source": "kap",
+      "text": "nvg genel ac klama gayrimenkul semsiye fonu ictuzuk degisikligi duyuru metni sirket net varlik gayrimenkul girisim sermayesi portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655826"
+    },
+    {
+      "source": "kap",
+      "text": "atlfa ihrac tavan na iliskin bildirim spk onay sirket atilim faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655825"
+    },
+    {
+      "source": "kap",
+      "text": "dogub pay baz nda devre kesici bildirimi dogub e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655824"
+    },
+    {
+      "source": "kap",
+      "text": "dogvy pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfdgrv82617 isin kodlu finansman bonosu kupon oran bildirimi sirket dogru varlik yonetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655823"
+    },
+    {
+      "source": "kap",
+      "text": "sirket genel bilgi formu sirket titanyum bagimsiz denetim hizmetleri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655821"
+    },
+    {
+      "source": "kap",
+      "text": "brkt ihrac belgesi kira sertifikas ihrac tavan na iliskin spk onay hk sirket bereket varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655820"
+    },
+    {
+      "source": "kap",
+      "text": "ebp sirket genel bilgi formu sirket emaa blue portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655819"
+    },
+    {
+      "source": "kap",
+      "text": "brkt ihrac tavan na iliskin bildirim kira sertifikas ihrac tavan onay hk sirket bereket varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655817"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr kredi derecelendirmesi kredi derecelendirmesi sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655816"
+    },
+    {
+      "source": "kap",
+      "text": "ditas pay baz nda devre kesici bildirimi ditas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655815"
+    },
+    {
+      "source": "kap",
+      "text": "escom genel kurul islemlerine iliskin bildirim 2025 y l olagan genel kurul toplant s sirket escort teknoloji yatirim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655814"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr pay baz nda devre kesici bildirimi sdttr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655813"
+    },
     {
       "source": "tradingview",
       "text": "new york borsas kar s k seyirle ac ld",
