@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655966",
+      "last_seen_key": "kap:1655970",
       "seen_keys": [
+        "kap:1655970",
+        "kap:1655969",
+        "kap:1655968",
         "kap:1655966",
         "kap:1655965",
         "kap:1655963",
@@ -265,8 +268,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/jackson-hole-da-fed-baskani-warsh-tan-kritik-mesajlar-3786734",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/amb-yetkilisinden-jackson-hole-da-eylulde-faiz-artisi-yorumu-3786770",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/amb-yetkilisinden-jackson-hole-da-eylulde-faiz-artisi-yorumu-3786770",
         "bloomberght:https://www.bloomberght.com/jackson-hole-da-fed-baskani-warsh-tan-kritik-mesajlar-3786734",
         "bloomberght:https://www.bloomberght.com/trump-tan-ciftcilere-kendi-gidalarini-isleme-hakki-3786730",
         "bloomberght:https://www.bloomberght.com/seker-fiyatlari-17-ayin-zirvesine-yaklasti-3786729",
@@ -345,8 +349,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/celtic-plc-temettu-yeniden-yatrm-plan-kapsamnda-hisse-ihrac-etti-93CH-4048457",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/blackstone-mortgage-trust-hissesi-1372-dolarla-dip-yapt-93CH-4048473",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/blackstone-mortgage-trust-hissesi-1372-dolarla-dip-yapt-93CH-4048473",
+        "investing:https://tr.investing.com/news/stock-market-news/andreessen-horowitz-yapay-zeka-altyaps-icin-11-milyar-dolar-toplad-93CH-4048470",
+        "investing:https://tr.investing.com/news/company-news/inventus-mining-golden-rose-madenini-conquest-resourcestan-satn-alacak-93CH-4048462",
         "investing:https://tr.investing.com/news/company-news/celtic-plc-temettu-yeniden-yatrm-plan-kapsamnda-hisse-ihrac-etti-93CH-4048457",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-10-hissedar-texas-pacific-land-hissesi-ald-93CH-4048456",
         "investing:https://tr.investing.com/news/company-news/cvr-energy-hissesi-4170-dolarla-zirve-yapt-93CH-4048455",
@@ -354,9 +361,6 @@
         "investing:https://tr.investing.com/news/company-news/porvair-londra-borsasnda-hisse-alm-satmna-baslad-93CH-4048452",
         "investing:https://tr.investing.com/news/company-news/oppenheimer-holdings-hissesi-12345-dolarda-rekor-krd-93CH-4048447",
         "investing:https://tr.investing.com/news/stock-market-news/aecom-technology-hissesi-bugun-neden-yukseliyor-93CH-4048446",
-        "investing:https://tr.investing.com/news/insider-trading-news/saba-capital-management-ellsworth-growth-hissesinden-48711-dolar-ald-93CH-4048445",
-        "investing:https://tr.investing.com/news/insider-trading-news/saba-capital-gabelli-saglk-hissesinden-43617-dolar-ald-93CH-4048444",
-        "investing:https://tr.investing.com/news/company-news/esab-hissesi-7728-dolarla-52-haftalk-dibe-vurdu-93CH-4048442",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -377,6 +381,9 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/insider-trading-news/saba-capital-management-ellsworth-growth-hissesinden-48711-dolar-ald-93CH-4048445",
+        "investing:https://tr.investing.com/news/insider-trading-news/saba-capital-gabelli-saglk-hissesinden-43617-dolar-ald-93CH-4048444",
+        "investing:https://tr.investing.com/news/company-news/esab-hissesi-7728-dolarla-52-haftalk-dibe-vurdu-93CH-4048442",
         "investing:https://tr.investing.com/news/global-filings/celik-halat-zorunlu-pay-alm-teklifi-icin-spk-onay-ald-fiyat-1955-tl-93CH-4048439",
         "investing:https://tr.investing.com/news/insider-trading-news/napco-yonetim-kurulu-baskan-165-milyon-dolarlk-hisse-satt-93CH-4048438",
         "investing:https://tr.investing.com/news/company-news/red-violet-inc-hissesi-7451-dolarda-rekor-krd-93CH-4048437",
@@ -1081,6 +1088,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "blackstone mortgage trust hissesi 13 72 dolarla dip yapt",
+      "link": "https://tr.investing.com/news/company-news/blackstone-mortgage-trust-hissesi-1372-dolarla-dip-yapt-93CH-4048473"
+    },
+    {
+      "source": "investing",
+      "text": "andreessen horowitz yapay zeka altyap s 1 1 milyar dolar toplad",
+      "link": "https://tr.investing.com/news/stock-market-news/andreessen-horowitz-yapay-zeka-altyaps-icin-11-milyar-dolar-toplad-93CH-4048470"
+    },
+    {
+      "source": "investing",
+      "text": "inventus mining golden rose madenini conquest resources tan sat n alacak",
+      "link": "https://tr.investing.com/news/company-news/inventus-mining-golden-rose-madenini-conquest-resourcestan-satn-alacak-93CH-4048462"
+    },
+    {
+      "source": "bloomberght",
+      "text": "amb yetkilisinden jackson hole eylul faiz art s yorumu avrupa merkez bankas yonetim kurulu uyesi primoz dolenc gelecek ay faiz oranlar n art rmak guclu gerekceler bulundugunu soyledi",
+      "link": "https://www.bloomberght.com/amb-yetkilisinden-jackson-hole-da-eylulde-faiz-artisi-yorumu-3786770"
+    },
+    {
+      "source": "kap",
+      "text": "quick sirket genel bilgi formu sirket quick sigorta a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655970"
+    },
+    {
+      "source": "kap",
+      "text": "oyakc ozel durum ac klamas genel birlesmis milletler kuresel ilkeler sozlesmesi imzac s olunmas hakk nda sirket oyak cimento fabrikalari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655969"
+    },
+    {
+      "source": "kap",
+      "text": "hekts ozel durum ac klamas genel ferbis tar m ticaret sanayi a s nin halka arz sureci hakk nda sirket hektas ticaret t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655968"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar warsh n s k lasmac mesaj n n abd dolar n desteklemesiyle zirvelerden geri cekiliyor",
