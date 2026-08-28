@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655578",
+      "last_seen_key": "kap:1655582",
       "seen_keys": [
+        "kap:1655582",
+        "kap:1655581",
+        "kap:1655580",
         "kap:1655578",
         "kap:1655577",
         "kap:1655575",
@@ -358,8 +361,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6703024:0",
+      "last_seen_key": "tradingview:matriks:6703056:0",
       "seen_keys": [
+        "tradingview:matriks:6703056:0",
+        "tradingview:matriks:6703050:0",
+        "tradingview:fxstreet:484b690a3d9e8:0",
+        "tradingview:fxstreet:37d8c266cd9e8:0",
+        "tradingview:matriks:6703036:0",
+        "tradingview:matriks:6703035:0",
+        "tradingview:matriks:6703030:0",
+        "tradingview:matriks:6703029:0",
+        "tradingview:matriks:6703026:0",
         "tradingview:matriks:6703024:0",
         "tradingview:matriks:6703017:0",
         "tradingview:fxstreet:5ad3bcd19d9e8:0",
@@ -380,6 +392,10 @@
         "tradingview:matriks:6702906:0",
         "tradingview:fxstreet:d45cfedaad9e8:0",
         "tradingview:matriks:6702901:0",
+        "tradingview:matriks:6702893:0",
+        "tradingview:matriks:6702892:0",
+        "tradingview:matriks:6702891:0",
+        "tradingview:matriks:6702890:0",
         "tradingview:matriks:6702889:0",
         "tradingview:matriks:6702867:0",
         "tradingview:matriks:6702866:0",
@@ -394,8 +410,12 @@
         "tradingview:matriks:6702818:0",
         "tradingview:matriks:6702815:0",
         "tradingview:matriks:6702810:0",
+        "tradingview:matriks:6702801:0",
+        "tradingview:matriks:6702800:0",
         "tradingview:fxstreet:573465c68d9e8:0",
         "tradingview:fxstreet:d713d7a9cd9e8:0",
+        "tradingview:matriks:6702796:0",
+        "tradingview:matriks:6702787:0",
         "tradingview:fxstreet:9dd4ecea7d9e8:0",
         "tradingview:matriks:6702758:0",
         "tradingview:matriks:6702757:0",
@@ -411,9 +431,12 @@
         "tradingview:fxstreet:07eab670bd9e8:0",
         "tradingview:beincrypto:077d77511d9e8:0",
         "tradingview:matriks:6702653:0",
+        "tradingview:matriks:6702631:0",
         "tradingview:fxstreet:b99af0881d9e8:0",
+        "tradingview:matriks:6702629:0",
         "tradingview:fxstreet:ab18cac20d9e8:0",
         "tradingview:fxstreet:2d332324dd9e8:0",
+        "tradingview:matriks:6702626:0",
         "tradingview:fxstreet:382bd4b14d9e8:0",
         "tradingview:matriks:6702621:0",
         "tradingview:matriks:6702620:0",
@@ -562,6 +585,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kiral k konutta talep artarken reel fiyatlarda gerileme surdu sahibindex",
+      "link": "https://tr.tradingview.com/news/matriks:6703056:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya n n ayda doviz piyasas na mudahalesi rekor seviyeye ulasarak 15 4 trilyon yen oldu bn bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6703050:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "baska herhangi sey japon yeni uzerinde onemli bask yaratacakt r commerzbank boj nin neden faiz art rmas gerektigini ac kl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:484b690a3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar ticaret savas bulutlar 2 ceyrek gsyh toparlanmas n golgeliyor bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:37d8c266cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iran d sisleri bakanl g tahran abd israil ortak askeri ekonomik sald r s na kars ulkeyi savunmak tum kabiliyetlerini kullanmaya kararl",
+      "link": "https://tr.tradingview.com/news/matriks:6703036:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ced duyurusu anadolu efes",
+      "link": "https://tr.tradingview.com/news/matriks:6703035:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iran ulkeleri abd yapt r mlar n uygulamaktan kac nmaya cag r yor d sisleri bakanl g ac klamas",
+      "link": "https://tr.tradingview.com/news/matriks:6703030:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iran d sisleri bakanl g abd nin yeni politikas bm organlar dahil olmak uzere uluslararas toplumun hukukun ustunlugunu korumak harekete gecilmesini gerektiriyor",
+      "link": "https://tr.tradingview.com/news/matriks:6703029:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iran d sisleri bakanl g abd nin ekonomik onlemleri uluslararas suc insanl ga kars suctur",
+      "link": "https://tr.tradingview.com/news/matriks:6703026:0"
+    },
+    {
+      "source": "kap",
+      "text": "ikn yetki izin belgelerine iliskin bildirim arac l k yuklenimi suretiyle halka arza arac l k faaliyet izni basvurumuz hk sirket ikon menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655582"
+    },
+    {
+      "source": "kap",
+      "text": "srt sirket genel bilgi formu sirket sparta portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655581"
+    },
+    {
+      "source": "kap",
+      "text": "marka pay baz nda devre kesici bildirimi marka e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655580"
+    },
     {
       "source": "tradingview",
       "text": "iran d sisleri bakanl g abd yapt r mlar milyonlarca sivilin sagl g n gecim kaynaklar n ciddi risk alt nda b rakt",
