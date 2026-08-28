@@ -93,8 +93,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/imf-baskani-ndan-sabitcoinler-icin-kuresel-duzenleme-cagrisi-3786781",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-29082026-3786782",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-29082026-3786782",
         "bloomberght:https://www.bloomberght.com/imf-baskani-ndan-sabitcoinler-icin-kuresel-duzenleme-cagrisi-3786781",
         "bloomberght:https://www.bloomberght.com/bessent-duzensiz-yen-hareketleri-daha-yuksek-faiz-riskini-dogurur-3786778",
         "bloomberght:https://www.bloomberght.com/trump-abd-uzay-akademisi-kuracaklarini-acikladi-3786777",
@@ -308,8 +309,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:e620ecd30d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:966b57d91d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:966b57d91d9e8:0",
         "tradingview:beincrypto:e620ecd30d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:8a40e848ad9e8:0",
@@ -423,6 +425,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu daha yuksek faizler cip patlamas kazanclar destekliyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:966b57d91d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 29 08 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-29082026-3786782"
+    },
     {
       "source": "tradingview",
       "text": "justin sun sevgilisi 50 milyon dolar istedi yapay zeka hay r dedi",
