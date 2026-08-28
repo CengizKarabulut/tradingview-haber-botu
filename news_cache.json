@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655539",
+      "last_seen_key": "kap:1655542",
       "seen_keys": [
+        "kap:1655542",
+        "kap:1655541",
+        "kap:1655540",
         "kap:1655539",
         "kap:1655538",
         "kap:1655537",
@@ -201,12 +204,14 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/beyaz-esya-uretim-ve-ihracatinda-dusus-3786649",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/mahkemeden-trump-in-anthropic-kararina-fren-3786650",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/mahkemeden-trump-in-anthropic-kararina-fren-3786650",
         "bloomberght:https://www.bloomberght.com/beyaz-esya-uretim-ve-ihracatinda-dusus-3786649",
         "bloomberght:https://www.bloomberght.com/venezuela-opec-ten-ayrilmayi-degerlendiriyor-3786644",
         "bloomberght:https://www.bloomberght.com/tokyo-enflasyonunda-faiz-artisini-destekleyen-hizlanma-3786643",
         "bloomberght:https://www.bloomberght.com/kuresel-piyasalar-warsh-un-konusmasini-bekliyor-3786641",
+        "bloomberght:https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-28-agustos-2026-doviz-fiyatlari-pkh2-3786651",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-28082026-3786640",
         "bloomberght:https://www.bloomberght.com/spk-belirli-sartlari-saglayan-halka-arzlara-oncelik-verebilecek-3786639",
         "bloomberght:https://www.bloomberght.com/trump-a-gore-rusya-natotopraklarina-saldirmayacak-3786638",
@@ -620,8 +625,22 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702329:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44P0AH:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P0AH:0",
+        "tradingview:fxstreet:8264c873fd9e8:0",
+        "tradingview:fxstreet:7da704a3dd9e8:0",
+        "tradingview:matriks:6702354:0",
+        "tradingview:matriks:6702353:0",
+        "tradingview:fxstreet:710cf9b11d9e8:0",
+        "tradingview:matriks:6702351:0",
+        "tradingview:matriks:6702346:0",
+        "tradingview:matriks:6702344:0",
+        "tradingview:matriks:6702341:0",
+        "tradingview:matriks:6702337:0",
+        "tradingview:matriks:6702335:0",
+        "tradingview:matriks:6702334:0",
+        "tradingview:matriks:6702333:0",
         "tradingview:matriks:6702329:0",
         "tradingview:matriks:6702323:0",
         "tradingview:matriks:6702321:0",
@@ -655,7 +674,16 @@
         "tradingview:matriks:6702198:0",
         "tradingview:fxstreet:7b1bd8e1ed9e8:0",
         "tradingview:fxstreet:59e2d6a31d9e8:0",
+        "tradingview:matriks:6702186:0",
+        "tradingview:matriks:6702185:0",
+        "tradingview:matriks:6702184:0",
+        "tradingview:matriks:6702181:0",
+        "tradingview:matriks:6702180:0",
+        "tradingview:matriks:6702177:0",
+        "tradingview:matriks:6702174:0",
+        "tradingview:matriks:6702169:0",
         "tradingview:matriks:6702167:0",
+        "tradingview:beincrypto:5d7b19fd1d9e8:0",
         "tradingview:matriks:6702166:0",
         "tradingview:matriks:6702163:0",
         "tradingview:matriks:6702161:0",
@@ -1021,6 +1049,96 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd bask n n ise yaramad g n kabul ederse diplomasi yeniden baslayabilir iran d sisleri bakan arakci",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P0AH:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiye ekonomik guven endeksi agustos ay nda 0 8 art sla 100 6 degerine yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:8264c873fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "brent opec riskleri artarken fiyatlar guclu kal yor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:7da704a3dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt ici piyasalar gunluk bulten burgan yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702354:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borsa istanbul gune 31 81 puan 0 22 dususle baslad matriks haber anketi 19 01 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6702353:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nzd usd fiyat analizi 0 5950 nin uzerinde gucleniyor yukselis yonlu teknik arka planla",
+      "link": "https://tr.tradingview.com/news/fxstreet:710cf9b11d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "market watch seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702351:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk hisse senedi piyasas gorunumu akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702346:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "haftal k bulten alnus yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702344:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten bulls yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702341:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fransa ab uyumlu tufe agustos ta ayl k 0 8 onceki 0 6",
+      "link": "https://tr.tradingview.com/news/matriks:6702337:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "moka united enerji mobilite sektorundeki cozum setini vavien genisletiyor",
+      "link": "https://tr.tradingview.com/news/matriks:6702335:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx bulten seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702334:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tuik temmuz ay d s ticaret verilerini ac klayacak",
+      "link": "https://tr.tradingview.com/news/matriks:6702333:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "mahkemeden trump n anthropic karar na fren abd federal mahkeme donald trump yonetiminin yapay zeka sirketi anthropic i guvenlik riski ilan etmesini hukuka ayk r buldu",
+      "link": "https://www.bloomberght.com/mahkemeden-trump-in-anthropic-kararina-fren-3786650"
+    },
+    {
+      "source": "kap",
+      "text": "kpeks pay baz nda devre kesici bildirimi kpeks e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655542"
+    },
+    {
+      "source": "kap",
+      "text": "ensri pay baz nda devre kesici bildirimi ensri e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655541"
+    },
+    {
+      "source": "kap",
+      "text": "aksue sermaye art r m azalt m islemlerine iliskin bildirim tahsisli sermaye art r m hakk nda sirket aksu enerji ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655540"
+    },
     {
       "source": "tradingview",
       "text": "analist toplant notu astor bulten info yat r m",
