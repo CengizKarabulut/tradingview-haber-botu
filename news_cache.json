@@ -357,8 +357,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/xanadu-kanadadan-kuantum-uretimi-icin-195-milyon-c-ald-93CH-4048526",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/oppenheimer-yapay-zeka-buyume-gorunumuyle-marvell-hisse-hedefini-yukseltti-93CH-4048528",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/analyst-ratings/oppenheimer-yapay-zeka-buyume-gorunumuyle-marvell-hisse-hedefini-yukseltti-93CH-4048528",
         "investing:https://tr.investing.com/news/company-news/xanadu-kanadadan-kuantum-uretimi-icin-195-milyon-c-ald-93CH-4048526",
         "investing:https://tr.investing.com/news/analyst-ratings/stifel-donaldson-hissesi-icin-hedef-fiyat-95-dolara-yukseltti-93CH-4048522",
         "investing:https://tr.investing.com/news/stock-market-news/kanada-kuantum-bilgisayar-tesisi-icin-xanaduya-141-milyon-dolar-kredi-verdi-93CH-4048521",
@@ -368,7 +369,6 @@
         "investing:https://tr.investing.com/news/economy-news/brezilya-temmuzda-58568-is-ekledi-tahminlerin-gerisinde-kald-93CH-4048514",
         "investing:https://tr.investing.com/news/stock-market-news/etu-energias-chevronun-angola-petrol-bloklarn-satn-alacak-93CH-4048513",
         "investing:https://tr.investing.com/news/economy-news/bessent-yen-destegini-savundu-abd-borclanma-maliyeti-risklerine-dikkat-cekti-4048515",
-        "investing:https://tr.investing.com/news/insider-trading-news/flywire-yoneticisi-voss-capital-227-milyon-dolarlk-hisse-satt-93CH-4048510",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -389,6 +389,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/insider-trading-news/flywire-yoneticisi-voss-capital-227-milyon-dolarlk-hisse-satt-93CH-4048510",
         "investing:https://tr.investing.com/news/company-news/top-financial-group-hissesi-1675-dolarda-yln-zirvesinde-93CH-4048507",
         "investing:https://tr.investing.com/news/stock-market-news/tahmin-piyasalar-karar-sonras-draftkings-ve-flutter-yukseldi-93CH-4048505",
         "investing:https://tr.investing.com/news/stock-market-news/blue-owl-iren-veri-merkezi-icin-24-milyar-dolarlk-borc-anlasmasna-onculuk-etti-4048504",
@@ -728,6 +729,7 @@
         "tradingview:fxstreet:d39528a77d9e8:0",
         "tradingview:fxstreet:f0819ed93d9e8:0",
         "tradingview:cointelegraph:443541edbd9e8:0",
+        "tradingview:fxstreet:f89fd1fc7d9e8:0",
         "tradingview:fxstreet:ac43d72d5d9e8:0",
         "tradingview:beincrypto:4406ffeadd9e8:0",
         "tradingview:cointelegraph:cdbc99305d9e8:0",
@@ -1135,6 +1137,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "oppenheimer yapay zeka buyume gorunumuyle marvell hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/oppenheimer-yapay-zeka-buyume-gorunumuyle-marvell-hisse-hedefini-yukseltti-93CH-4048528"
+    },
     {
       "source": "tradingview",
       "text": "ecb kocher avrupa ekonomisinin momentum gosterdigini fiyat istikrar n tehdit ettigini soyluyor",
