@@ -276,8 +276,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6704266:0",
+      "last_seen_key": "tradingview:fxstreet:354fcf072d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:354fcf072d9e8:0",
         "tradingview:matriks:6704266:0",
         "tradingview:fxstreet:01e001d3cd9e8:0",
         "tradingview:fxstreet:3617faddbd9e8:0",
@@ -383,6 +384,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu guclu ihracat krw kospi yi destekliyor dbs",
+      "link": "https://tr.tradingview.com/news/fxstreet:354fcf072d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "balat balatac lar balatac l k sanayi tic konsolide bilanco 2026 6 ayl k net zarar 24 189 175 tl onceki 56 777 689 tl net zarar",
