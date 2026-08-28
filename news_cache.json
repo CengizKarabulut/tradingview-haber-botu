@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655602",
+      "last_seen_key": "kap:1655605",
       "seen_keys": [
+        "kap:1655605",
         "kap:1655602",
         "kap:1655601",
         "kap:1655597",
@@ -191,18 +192,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/kanada-vadeli-islemleri-jackson-hole-oncesi-yatay-seyrediyor-4047819",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/alnylam-pharmaceuticals-hisseleri-susturucu-ilac-endiseleriyle-dustu-93CH-4047911",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/stock-market-news/kanada-vadeli-islemleri-jackson-hole-oncesi-yatay-seyrediyor-4047819",
-        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-dollar-generaln-hisse-hedefini-yukseltti-93CH-4047817",
-        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-dollar-tree-icin-hisse-hedefini-yukseltti-93CH-4047815",
-        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-anlasma-iptali-sonras-element-solutions-hissesini-yukseltti-93CH-4047814",
-        "investing:https://tr.investing.com/news/stock-market-news/citi-bmw-ve-forvia-icin-yukar-yonlu-katalizor-izlemesi-baslatt-4047811",
-        "investing:https://tr.investing.com/news/analyst-ratings/william-blair-terawulf-hissesine-alm-tavsiyesi-verdi-93CH-4047806",
-        "investing:https://tr.investing.com/news/company-news/ge-healthcare-vivid-portfoyune-uc-ultrason-sistemi-ekledi-93CH-4047805",
-        "investing:https://tr.investing.com/news/company-news/dollar-generaln-genel-dansman-rhonda-taylor-emekli-oluyor-93CH-4047804",
-        "investing:https://tr.investing.com/news/company-news/caleres-eylulde-odenecek-007-dolar-temettu-acklad-93CH-4047801",
-        "investing:https://tr.investing.com/news/company-news/coforge-yapay-zeka-cozumleri-icin-pegasystems-ile-ortaklgn-genisletiyor-93CH-4047789",
+        "investing:https://tr.investing.com/news/stock-market-news/alnylam-pharmaceuticals-hisseleri-susturucu-ilac-endiseleriyle-dustu-93CH-4047911",
+        "investing:https://tr.investing.com/news/analyst-ratings/needham-workday-icin-hisse-hedefini-yukseltti-93CH-4047910",
+        "investing:https://tr.investing.com/news/analyst-ratings/needham-affirm-icin-hisse-hedefini-100-dolara-yukseltti-93CH-4047907",
+        "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-gap-hissesi-icin-hedef-fiyat-23-dolara-yukseltti-93CH-4047906",
+        "investing:https://tr.investing.com/news/stock-market-news/nepaldeki-sel-yeniden-insas-5-milyar-dolara-mal-olabilir-93CH-4047905",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-ultragenyx-pharma-icin-hedef-fiyat-yukseltti-93CH-4047891",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-gap-hisse-hedef-fiyatn-old-navy-direncine-dayanarak-23-dolara-yukseltti-93CH-4047890",
+        "investing:https://tr.investing.com/news/analyst-ratings/ubs-affirm-icin-hisse-hedefini-buyume-gorunumuyle-90-dolara-yukseltti-93CH-4047870",
+        "investing:https://tr.investing.com/news/analyst-ratings/william-blair-workday-hissesi-icin-outperform-tavsiyesini-korudu-93CH-4047869",
+        "investing:https://tr.investing.com/news/company-news/ibio-2026-mali-ylnda-33-milyon-dolar-zarar-bildirdi-93CH-4047868",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -223,6 +224,16 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/kanada-vadeli-islemleri-jackson-hole-oncesi-yatay-seyrediyor-4047819",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-dollar-generaln-hisse-hedefini-yukseltti-93CH-4047817",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-dollar-tree-icin-hisse-hedefini-yukseltti-93CH-4047815",
+        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-anlasma-iptali-sonras-element-solutions-hissesini-yukseltti-93CH-4047814",
+        "investing:https://tr.investing.com/news/stock-market-news/citi-bmw-ve-forvia-icin-yukar-yonlu-katalizor-izlemesi-baslatt-4047811",
+        "investing:https://tr.investing.com/news/analyst-ratings/william-blair-terawulf-hissesine-alm-tavsiyesi-verdi-93CH-4047806",
+        "investing:https://tr.investing.com/news/company-news/ge-healthcare-vivid-portfoyune-uc-ultrason-sistemi-ekledi-93CH-4047805",
+        "investing:https://tr.investing.com/news/company-news/dollar-generaln-genel-dansman-rhonda-taylor-emekli-oluyor-93CH-4047804",
+        "investing:https://tr.investing.com/news/company-news/caleres-eylulde-odenecek-007-dolar-temettu-acklad-93CH-4047801",
+        "investing:https://tr.investing.com/news/company-news/coforge-yapay-zeka-cozumleri-icin-pegasystems-ile-ortaklgn-genisletiyor-93CH-4047789",
         "investing:https://tr.investing.com/news/company-news/puma-aim-vct-londra-borsasna-89383-yeni-hisse-kaydetti-93CH-4047787",
         "investing:https://tr.investing.com/news/company-news/range-resources-uc-aylk-010-dolar-temettu-acklad-93CH-4047786",
         "investing:https://tr.investing.com/news/analyst-ratings/wolfe-research-guclu-rehberlik-sonras-marvell-hisse-hedefini-yukseltti-93CH-4047785",
@@ -297,8 +308,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-yeni-metro-hatti-mujdesi-16-duragi-olacak-26-dakikada-ulasacak-1739285",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-kredi-cekecekler-dikkat-faizler-pazartesi-dusecek-ilk-aciklamalar-geldi-1739308",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-kredi-cekecekler-dikkat-faizler-pazartesi-dusecek-ilk-aciklamalar-geldi-1739308",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-yeni-metro-hatti-mujdesi-16-duragi-olacak-26-dakikada-ulasacak-1739285",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-fiyatlarinda-son-durum-28-agustos-gram-ceyrek-yarim-ve-tam-altin-ne-kadar-1739280",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-asgari-ucret-zammi-belli-oldu-komsuda-40-bin-liraya-yaklasiyor-1739234",
@@ -324,8 +336,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/caykurda-ikinci-surgun-yas-cay-alimlari-bugun-tamamlanacak-955227.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kacir-istihdamini-koruyan-isletmelerin-kredi-maliyeti-dusecek-955228.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kacir-istihdamini-koruyan-isletmelerin-kredi-maliyeti-dusecek-955228.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/caykurda-ikinci-surgun-yas-cay-alimlari-bugun-tamamlanacak-955227.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/iskur-mobil-uygulamasiyla-15-milyon-is-basvurusu-yapildi-955215.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/gunesten-elektrik-uretimi-rekor-tazeledi-955213.html",
@@ -398,8 +411,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6703176:0",
+      "last_seen_key": "tradingview:fxstreet:4d3f3de73d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:4d3f3de73d9e8:0",
+        "tradingview:matriks:6703219:0",
+        "tradingview:fxstreet:ed4260d6bd9e8:0",
+        "tradingview:matriks:6703181:0",
         "tradingview:matriks:6703176:0",
         "tradingview:matriks:6703173:0",
         "tradingview:matriks:6703171:0",
@@ -657,6 +674,91 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro amb nin tetikte olmas enflasyon riskleri bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:4d3f3de73d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "europap tezol y l sat slarda ton baz nda gecen y l yakalayamayabiliriz bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6703219:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar jackson hole senaryolar fx riskini sekillendiriyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:ed4260d6bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rk tar m sektorunde kullan lan bitki koruma bitki besleme urunlerinde rekabeti bozabilecek bilgi paylas mlar incelemeye al nd",
+      "link": "https://tr.tradingview.com/news/matriks:6703181:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "bakan kac r istihdam n koruyan isletmelerin kredi maliyeti dusecek sanayi teknoloji bakan mehmet fatih kac r ocak haziran ortalama istihdam duzeylerini temmuz aral k doneminde korumalar kars l g nda isletmelerin kulland klar kredilerde finansman maliyetinin 12 puan n bakanl k olarak kars layacaklar",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-istihdamini-koruyan-isletmelerin-kredi-maliyeti-dusecek-955228.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "kredi cekecekler dikkat faizler pazartesi dusecek ilk ac klamalar geldi merkez bankas n n hafta vadeli repo ihalesine yeniden baslamas yla birlikte faiz oranlar 300 baz puan geriledi kamu bankalar n n genel mudurleri kredi faizlerini indireceklerini ac klad",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-kredi-cekecekler-dikkat-faizler-pazartesi-dusecek-ilk-aciklamalar-geldi-1739308"
+    },
+    {
+      "source": "investing",
+      "text": "alnylam pharmaceuticals hisseleri susturucu ilac endiseleriyle dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/alnylam-pharmaceuticals-hisseleri-susturucu-ilac-endiseleriyle-dustu-93CH-4047911"
+    },
+    {
+      "source": "investing",
+      "text": "needham workday hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/needham-workday-icin-hisse-hedefini-yukseltti-93CH-4047910"
+    },
+    {
+      "source": "investing",
+      "text": "needham affirm hisse hedefini 100 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/needham-affirm-icin-hisse-hedefini-100-dolara-yukseltti-93CH-4047907"
+    },
+    {
+      "source": "investing",
+      "text": "morgan stanley gap hissesi hedef fiyat 23 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-gap-hissesi-icin-hedef-fiyat-23-dolara-yukseltti-93CH-4047906"
+    },
+    {
+      "source": "investing",
+      "text": "nepal deki sel yeniden insas 5 milyar dolara mal olabilir",
+      "link": "https://tr.investing.com/news/stock-market-news/nepaldeki-sel-yeniden-insas-5-milyar-dolara-mal-olabilir-93CH-4047905"
+    },
+    {
+      "source": "investing",
+      "text": "wells fargo ultragenyx pharma hedef fiyat yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-ultragenyx-pharma-icin-hedef-fiyat-yukseltti-93CH-4047891"
+    },
+    {
+      "source": "investing",
+      "text": "wells fargo gap hisse hedef fiyat n old navy direncine dayanarak 23 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-gap-hisse-hedef-fiyatn-old-navy-direncine-dayanarak-23-dolara-yukseltti-93CH-4047890"
+    },
+    {
+      "source": "investing",
+      "text": "ubs affirm hisse hedefini buyume gorunumuyle 90 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/ubs-affirm-icin-hisse-hedefini-buyume-gorunumuyle-90-dolara-yukseltti-93CH-4047870"
+    },
+    {
+      "source": "investing",
+      "text": "william blair workday hissesi outperform tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/william-blair-workday-hissesi-icin-outperform-tavsiyesini-korudu-93CH-4047869"
+    },
+    {
+      "source": "investing",
+      "text": "ibio 2026 mali y l nda 33 milyon dolar zarar bildirdi",
+      "link": "https://tr.investing.com/news/company-news/ibio-2026-mali-ylnda-33-milyon-dolar-zarar-bildirdi-93CH-4047868"
+    },
+    {
+      "source": "kap",
+      "text": "hedef pay baz nda devre kesici bildirimi hedef e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655605"
+    },
     {
       "source": "tradingview",
       "text": "cin menkul k ymetler duzenleyicisi halka ac k gayrimenkul gelistirme sirketlerinin birlesme sat n almalar yeniden yap lanmas desteklenecek",
