@@ -2,12 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655560",
+      "last_seen_key": "kap:1655565",
       "seen_keys": [
+        "kap:1655565",
+        "kap:1655564",
+        "kap:1655563",
         "kap:1655560",
         "kap:1655554",
         "kap:1655553",
-        "kap:1655552",
         "kap:1655551",
         "kap:1655550",
         "kap:1655549",
@@ -93,6 +95,7 @@
         "kap:1655448",
         "kap:1655447",
         "kap:1655446",
+        "kap:1655552",
         "kap:1655445",
         "kap:1655443",
         "kap:1655442",
@@ -303,8 +306,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702615:0",
+      "last_seen_key": "tradingview:fxstreet:07eab670bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:07eab670bd9e8:0",
+        "tradingview:matriks:6702653:0",
+        "tradingview:fxstreet:b99af0881d9e8:0",
+        "tradingview:matriks:6702621:0",
+        "tradingview:matriks:6702620:0",
         "tradingview:matriks:6702615:0",
         "tradingview:matriks:6702614:0",
         "tradingview:fxstreet:6aa3fb50fd9e8:0",
@@ -431,6 +439,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar warsh konusmas asimetrik usd tepkisi riski tas yor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:07eab670bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boj baskan ueda kuzey karolina eyaleti asheville duzenlenecek g20 maliye bakanlar merkez bankas baskanlar toplant s na kat lacak",
+      "link": "https://tr.tradingview.com/news/matriks:6702653:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur gbp fiyat analizi azalan yukselis ivmesiyle 0 8500 civar nda yatay seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b99af0881d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb 31 agustos valorlu 1 hafta vadeli 500 milyon dolar tutar nda doviz kars l g tl swap ihalesi act",
+      "link": "https://tr.tradingview.com/news/matriks:6702621:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb 04 09 2026 vadeli 50 00 milyar tl tutarl repo ihalesi act",
+      "link": "https://tr.tradingview.com/news/matriks:6702620:0"
+    },
+    {
+      "source": "kap",
+      "text": "snica pay baz nda devre kesici bildirimi snica e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655565"
+    },
+    {
+      "source": "kap",
+      "text": "zry piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi 27 08 2026 tarihli piyasa yap c islemleri sirket ziraat yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655564"
+    },
+    {
+      "source": "kap",
+      "text": "nurvk tertip ihrac belgesi tertip ihrac belgesi sirket nurol varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655563"
+    },
     {
       "source": "tradingview",
       "text": "strateji raporu guncelleme kuveyt turk yat r m",
