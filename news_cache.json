@@ -582,11 +582,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:31b7f04e4d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:178f0a86fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:178f0a86fd9e8:0",
+        "tradingview:fxstreet:cf93c6827d9e8:0",
         "tradingview:fxstreet:31b7f04e4d9e8:0",
         "tradingview:matriks:6701936:0",
-        "tradingview:fxstreet:178f0a86fd9e8:0",
         "tradingview:fxstreet:b4a761c69d9e8:0",
         "tradingview:fxstreet:67b44d0b6d9e8:0",
         "tradingview:fxstreet:55057ac43d9e8:0",
@@ -842,6 +843,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar 0 5950 seviyesinin uzerine c karak deger kazand piyasalar jackson hole sempozyumu nu izliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:cf93c6827d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar rba faiz art r m ihtimalinin artmas yla yukseliyor",
