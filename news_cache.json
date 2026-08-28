@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655615",
+      "last_seen_key": "kap:1655630",
       "seen_keys": [
+        "kap:1655630",
+        "kap:1655628",
+        "kap:1655626",
+        "kap:1655625",
         "kap:1655615",
         "kap:1655613",
         "kap:1655609",
@@ -35,7 +39,6 @@
         "kap:1655554",
         "kap:1655553",
         "kap:1655551",
-        "kap:1655550",
         "kap:1655549",
         "kap:1655548",
         "kap:1655546",
@@ -90,6 +93,7 @@
         "kap:1655478",
         "kap:1655477",
         "kap:1655476",
+        "kap:1655550",
         "kap:1655475",
         "kap:1655474",
         "kap:1655472",
@@ -130,8 +134,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/citiden-dolar-ve-tahvil-yorumu-3786720",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/abdde-sirket-krlari-rekor-kirdi-calisanlarin-payi-tarihi-dipte-3786723",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/abdde-sirket-krlari-rekor-kirdi-calisanlarin-payi-tarihi-dipte-3786723",
+        "bloomberght:https://www.bloomberght.com/hindistan-in-doviz-rezervleri-rekor-seviyeye-cikti-3786722",
         "bloomberght:https://www.bloomberght.com/citiden-dolar-ve-tahvil-yorumu-3786720",
         "bloomberght:https://www.bloomberght.com/tarim-ilaclarinda-danisikli-fiyat-iddiasi-rekabet-kurumu-nun-radarinda-3786718",
         "bloomberght:https://www.bloomberght.com/karadeniz-gerilimi-tahil-rotasini-baltik-ulkelerine-kaydirdi-3786717",
@@ -199,18 +205,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/mizuho-kdemli-konut-sektorunde-en-iyi-gyolar-acklad-93CH-4047959",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/ubs-sentinelone-icin-hisse-hedefini-24-dolara-yukseltti-93CH-4048016",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/stock-market-news/mizuho-kdemli-konut-sektorunde-en-iyi-gyolar-acklad-93CH-4047959",
-        "investing:https://tr.investing.com/news/stock-market-news/alnylam-pharmaceuticals-hissesi-neden-dusuyor-93CH-4047958",
-        "investing:https://tr.investing.com/news/forex-news/hindistann-doviz-rezervleri-rekor-seviye-olan-72933-milyar-dolara-ulast-93CH-4047952",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-ata-turizmde-3-ayda-56-kazanc-yakalad-93CH-4047951",
-        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-iren-hissesi-icin-al-tavsiyesini-korudu-93CH-4047948",
-        "investing:https://tr.investing.com/news/analyst-ratings/northland-evolution-petroleum-hissesi-icin-tavsiyesini-yukseltti-93CH-4047946",
-        "investing:https://tr.investing.com/news/analyst-ratings/roivant-sciences-hissesi-icin-al-tavsiyesi-yinelendi-93CH-4047945",
-        "investing:https://tr.investing.com/news/commodities-news/avrupa-dogal-gaz-mart-zirvesinden-geri-cekilse-de-haftalk-kazancn-surduruyor-4047950",
-        "investing:https://tr.investing.com/news/company-news/asia-broadband-goldaxis-wallet-yeni-saglaycya-tasyor-93CH-4047942",
-        "investing:https://tr.investing.com/news/company-news/kazia-therapeutics-40-milyon-dolarlk-halka-arz-fiyatlad-93CH-4047941",
+        "investing:https://tr.investing.com/news/analyst-ratings/ubs-sentinelone-icin-hisse-hedefini-24-dolara-yukseltti-93CH-4048016",
+        "investing:https://tr.investing.com/news/company-news/barclays-central-asia-metalsdaki-payn-548e-dusurdu-93CH-4048010",
+        "investing:https://tr.investing.com/news/global-filings/ulusoy-un-toplam-ruzgar-enerjisi-kapasitesini-9760-kwme-ckard-93CH-4048001",
+        "investing:https://tr.investing.com/news/company-news/biolinerx-kaytl-dogrudan-arzda-375-milyon-dolar-toplad-93CH-4048000",
+        "investing:https://tr.investing.com/news/company-news/lyntris-marylanddeki-termal-yonetim-tesisini-tamamlad-93CH-4047998",
+        "investing:https://tr.investing.com/news/company-news/envue-medical-1e-12-hisse-birlestirme-acklad-93CH-4047999",
+        "investing:https://tr.investing.com/news/company-news/rezolve-ai-tech-mahindra-ile-ticaret-cozumleri-icin-ortaklk-kurdu-93CH-4047997",
+        "investing:https://tr.investing.com/news/company-news/black-rock-coffee-bar-tucsonda-yeni-sube-act-93CH-4047996",
+        "investing:https://tr.investing.com/news/company-news/kb-home-casey-darei-tampa-bolum-baskan-olarak-atad-93CH-4047995",
+        "investing:https://tr.investing.com/news/company-news/klarna-ceosu-99-milyon-dolarlk-hisse-satn-ald-93CH-4047994",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -231,6 +237,16 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/mizuho-kdemli-konut-sektorunde-en-iyi-gyolar-acklad-93CH-4047959",
+        "investing:https://tr.investing.com/news/stock-market-news/alnylam-pharmaceuticals-hissesi-neden-dusuyor-93CH-4047958",
+        "investing:https://tr.investing.com/news/forex-news/hindistann-doviz-rezervleri-rekor-seviye-olan-72933-milyar-dolara-ulast-93CH-4047952",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-ata-turizmde-3-ayda-56-kazanc-yakalad-93CH-4047951",
+        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-iren-hissesi-icin-al-tavsiyesini-korudu-93CH-4047948",
+        "investing:https://tr.investing.com/news/analyst-ratings/northland-evolution-petroleum-hissesi-icin-tavsiyesini-yukseltti-93CH-4047946",
+        "investing:https://tr.investing.com/news/analyst-ratings/roivant-sciences-hissesi-icin-al-tavsiyesi-yinelendi-93CH-4047945",
+        "investing:https://tr.investing.com/news/commodities-news/avrupa-dogal-gaz-mart-zirvesinden-geri-cekilse-de-haftalk-kazancn-surduruyor-4047950",
+        "investing:https://tr.investing.com/news/company-news/asia-broadband-goldaxis-wallet-yeni-saglaycya-tasyor-93CH-4047942",
+        "investing:https://tr.investing.com/news/company-news/kazia-therapeutics-40-milyon-dolarlk-halka-arz-fiyatlad-93CH-4047941",
         "investing:https://tr.investing.com/news/stock-market-news/alnylam-pharmaceuticals-hisseleri-susturucu-ilac-endiseleriyle-dustu-93CH-4047911",
         "investing:https://tr.investing.com/news/analyst-ratings/needham-workday-icin-hisse-hedefini-yukseltti-93CH-4047910",
         "investing:https://tr.investing.com/news/analyst-ratings/needham-affirm-icin-hisse-hedefini-100-dolara-yukseltti-93CH-4047907",
@@ -428,8 +444,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6703300:0",
+      "last_seen_key": "tradingview:matriks:6703345:0",
       "seen_keys": [
+        "tradingview:matriks:6703345:0",
+        "tradingview:matriks:6703344:0",
+        "tradingview:matriks:6703343:0",
+        "tradingview:matriks:6703341:0",
+        "tradingview:fxstreet:50053855fd9e8:0",
+        "tradingview:cointelegraph:b1c9ee4a8d9e8:0",
         "tradingview:matriks:6703300:0",
         "tradingview:matriks:6703294:0",
         "tradingview:matriks:6703293:0",
@@ -716,6 +738,116 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yurtd s gunluk bulten aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6703345:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd mega cap hisse radar aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6703344:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bak sta yurt d s garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6703343:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "intetra teknoloji halka arz surecini basar yla tamamlad",
+      "link": "https://tr.tradingview.com/news/matriks:6703341:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar fed in guvercin yeniden fiyatland rma riski art yor bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:50053855fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "california senatosu kamu gorevlilerinin memecoin c karmas n yasaklayan tasar y kabul etti",
+      "link": "https://tr.tradingview.com/news/cointelegraph:b1c9ee4a8d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "ubs sentinelone hisse hedefini 24 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/ubs-sentinelone-icin-hisse-hedefini-24-dolara-yukseltti-93CH-4048016"
+    },
+    {
+      "source": "investing",
+      "text": "barclays central asia metals daki pay n 5 48 e dusurdu",
+      "link": "https://tr.investing.com/news/company-news/barclays-central-asia-metalsdaki-payn-548e-dusurdu-93CH-4048010"
+    },
+    {
+      "source": "investing",
+      "text": "ulusoy un toplam ruzgar enerjisi kapasitesini 9 760 kwm e c kard",
+      "link": "https://tr.investing.com/news/global-filings/ulusoy-un-toplam-ruzgar-enerjisi-kapasitesini-9760-kwme-ckard-93CH-4048001"
+    },
+    {
+      "source": "investing",
+      "text": "biolinerx kay tl dogrudan arzda 3 75 milyon dolar toplad",
+      "link": "https://tr.investing.com/news/company-news/biolinerx-kaytl-dogrudan-arzda-375-milyon-dolar-toplad-93CH-4048000"
+    },
+    {
+      "source": "investing",
+      "text": "lyntris maryland deki termal yonetim tesisini tamamlad",
+      "link": "https://tr.investing.com/news/company-news/lyntris-marylanddeki-termal-yonetim-tesisini-tamamlad-93CH-4047998"
+    },
+    {
+      "source": "investing",
+      "text": "envue medical 1 e 12 hisse birlestirme ac klad",
+      "link": "https://tr.investing.com/news/company-news/envue-medical-1e-12-hisse-birlestirme-acklad-93CH-4047999"
+    },
+    {
+      "source": "investing",
+      "text": "rezolve ai tech mahindra ticaret cozumleri ortakl k kurdu",
+      "link": "https://tr.investing.com/news/company-news/rezolve-ai-tech-mahindra-ile-ticaret-cozumleri-icin-ortaklk-kurdu-93CH-4047997"
+    },
+    {
+      "source": "investing",
+      "text": "black rock coffee bar tucson yeni sube act",
+      "link": "https://tr.investing.com/news/company-news/black-rock-coffee-bar-tucsonda-yeni-sube-act-93CH-4047996"
+    },
+    {
+      "source": "investing",
+      "text": "kb home casey dare i tampa bolum baskan olarak atad",
+      "link": "https://tr.investing.com/news/company-news/kb-home-casey-darei-tampa-bolum-baskan-olarak-atad-93CH-4047995"
+    },
+    {
+      "source": "investing",
+      "text": "klarna ceo su 9 9 milyon dolarl k hisse sat n ald",
+      "link": "https://tr.investing.com/news/company-news/klarna-ceosu-99-milyon-dolarlk-hisse-satn-ald-93CH-4047994"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd sirket karlar rekor k rd cal sanlar n pay tarihi dipte financial times n haberine gore abd sirket karlar tum zamanlar n en yuksek seviyesine ulas rken cal sanlar n milli gelirden ald g pay 1950 lerden yana en dusuk seviyesine geriledi",
+      "link": "https://www.bloomberght.com/abdde-sirket-krlari-rekor-kirdi-calisanlarin-payi-tarihi-dipte-3786723"
+    },
+    {
+      "source": "bloomberght",
+      "text": "hindistan n doviz rezervleri rekor seviyeye c kt hindistan n doviz rezervleri merkez bankas n n sermaye cekmek amac yla ald g onlemlerin ard ndan dolar girislerinde yasanan art sla rekor seviyeye yukseldi",
+      "link": "https://www.bloomberght.com/hindistan-in-doviz-rezervleri-rekor-seviyeye-cikti-3786722"
+    },
+    {
+      "source": "kap",
+      "text": "col sirket genel bilgi formu sirket kuzey menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655630"
+    },
+    {
+      "source": "kap",
+      "text": "akfis pay baz nda devre kesici bildirimi akfis e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655628"
+    },
+    {
+      "source": "kap",
+      "text": "magen yeni is iliskisi jeotermal sondaj hizmetleri sozlesmesinin imzalanmas hk sirket margun enerji uretim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655626"
+    },
+    {
+      "source": "kap",
+      "text": "kpeks pay baz nda devre kesici bildirimi kpeks e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655625"
+    },
     {
       "source": "tradingview",
       "text": "matriks haber anketi ekonomistlerin eylul gelecek donem tcmb faiz beklentileri netlesti",
