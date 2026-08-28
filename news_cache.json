@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655869",
+      "last_seen_key": "kap:1655877",
       "seen_keys": [
+        "kap:1655877",
+        "kap:1655876",
+        "kap:1655875",
+        "kap:1655870",
         "kap:1655869",
         "kap:1655868",
         "kap:1655867",
@@ -76,7 +80,6 @@
         "kap:1655615",
         "kap:1655609",
         "kap:1655606",
-        "kap:1655605",
         "kap:1655602",
         "kap:1655601",
         "kap:1655597",
@@ -85,6 +88,7 @@
         "kap:1655584",
         "kap:1655582",
         "kap:1655581",
+        "kap:1655605",
         "kap:1655580",
         "kap:1655578",
         "kap:1655577",
@@ -281,18 +285,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/moderna-hisseleri-neden-dusuyor-93CH-4048419",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-arr-endiseleri-nedeniyle-sentinelone-hisse-notunu-korudu-93CH-4048433",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-arr-endiseleri-nedeniyle-sentinelone-hisse-notunu-korudu-93CH-4048433",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-yapay-zeka-ivmesiyle-workday-hisse-hedefini-yukseltti-93CH-4048432",
+        "investing:https://tr.investing.com/news/company-news/greenpower-yeni-meksika-okul-otobusu-pilotunun-ikinci-ylna-baslad-93CH-4048431",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-ulta-beautynin-hedef-fiyatn-yukseltti-93CH-4048429",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-elastic-hissesi-icin-fiyat-hedefini-100-dolara-yukseltti-93CH-4048426",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-autodesk-hissesi-icin-al-tavsiyesini-yineledi-93CH-4048425",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-zayf-yaz-satslar-nedeniyle-buildabear-hisse-hedefini-dusurdu-93CH-4048424",
+        "investing:https://tr.investing.com/news/company-news/crispr-therapeutics-gen-terapisi-ctx310-icin-bir-yllk-verileri-acklad-93CH-4048423",
+        "investing:https://tr.investing.com/news/company-news/dropbox-hissesi-3630-dolarlk-52-haftalk-zirvesine-ulast-93CH-4048422",
         "investing:https://tr.investing.com/news/stock-market-news/moderna-hisseleri-neden-dusuyor-93CH-4048419",
-        "investing:https://tr.investing.com/news/analyst-ratings/btig-gta-vinn-olumlu-karslanmas-sonras-taketwo-hissesi-icin-gorusunu-korudu-93CH-4048417",
-        "investing:https://tr.investing.com/news/insider-trading-news/aptargroup-yoneticisi-gael-touya-500-bin-dolarlk-hisse-satt-93CH-4048415",
-        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-dakota-gold-icin-hisse-hedefini-yukseltti-93CH-4048414",
-        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-best-buy-hisse-hedef-fiyatn-yukseltti-93CH-4048413",
-        "investing:https://tr.investing.com/news/stock-market-news/mizuho-2-eylul-oncesi-broadcom-icin-iyimser-30-ceyrek-seri-4048418",
-        "investing:https://tr.investing.com/news/stock-market-news/palo-alto-networks-hisseleri-neden-dusuyor-93CH-4048411",
-        "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-hissesi-bugun-neden-dusuyor-93CH-4048410",
-        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-nfl-veri-anlasmalar-sonras-genius-sports-hissesi-icin-hedefini-korudu-93CH-4048409",
-        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-guclu-sonuclar-sonras-malibu-boats-hissesi-icin-tavsiyesini-yineledi-93CH-4048408",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -313,6 +317,15 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/analyst-ratings/btig-gta-vinn-olumlu-karslanmas-sonras-taketwo-hissesi-icin-gorusunu-korudu-93CH-4048417",
+        "investing:https://tr.investing.com/news/insider-trading-news/aptargroup-yoneticisi-gael-touya-500-bin-dolarlk-hisse-satt-93CH-4048415",
+        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-dakota-gold-icin-hisse-hedefini-yukseltti-93CH-4048414",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-best-buy-hisse-hedef-fiyatn-yukseltti-93CH-4048413",
+        "investing:https://tr.investing.com/news/stock-market-news/mizuho-2-eylul-oncesi-broadcom-icin-iyimser-30-ceyrek-seri-4048418",
+        "investing:https://tr.investing.com/news/stock-market-news/palo-alto-networks-hisseleri-neden-dusuyor-93CH-4048411",
+        "investing:https://tr.investing.com/news/stock-market-news/crowdstrike-hissesi-bugun-neden-dusuyor-93CH-4048410",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-nfl-veri-anlasmalar-sonras-genius-sports-hissesi-icin-hedefini-korudu-93CH-4048409",
+        "investing:https://tr.investing.com/news/analyst-ratings/benchmark-guclu-sonuclar-sonras-malibu-boats-hissesi-icin-tavsiyesini-yineledi-93CH-4048408",
         "investing:https://tr.investing.com/news/stock-market-news/halliburton-hisseleri-bugun-neden-yukseliyor-93CH-4048392",
         "investing:https://tr.investing.com/news/stock-market-news/rubrik-hissesi-bugun-neden-dusuyor-93CH-4048391",
         "investing:https://tr.investing.com/news/company-news/agenus-kolorektal-kanser-tedavisine-iliskin-sagkalm-verilerini-acklad-93CH-4048390",
@@ -484,8 +497,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/rekabet-kurumundan-18-sirkete-sorusturma-1739321",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/fed-baskani-warshtan-faiz-mesaji-enflasyon-endise-verici-1739333",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/fed-baskani-warshtan-faiz-mesaji-enflasyon-endise-verici-1739333",
         "ntvpara:https://www.ntv.com.tr/ntvpara/rekabet-kurumundan-18-sirkete-sorusturma-1739321",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-kredi-cekecekler-dikkat-faizler-pazartesi-dusecek-ilk-aciklamalar-geldi-1739308",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-yeni-metro-hatti-mujdesi-16-duragi-olacak-26-dakikada-ulasacak-1739285",
@@ -589,8 +603,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:e5a57be11d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:3a91ebfa0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:3a91ebfa0d9e8:0",
+        "tradingview:fxstreet:c9d971ff9d9e8:0",
+        "tradingview:fxstreet:cca0dd5b6d9e8:0",
         "tradingview:fxstreet:e5a57be11d9e8:0",
         "tradingview:matriks:6703861:0",
         "tradingview:matriks:6703859:0",
@@ -625,7 +642,9 @@
         "tradingview:fxstreet:7c3545cf4d9e8:0",
         "tradingview:fxstreet:40ea4c651d9e8:0",
         "tradingview:fxstreet:f268eb639d9e8:0",
+        "tradingview:matriks:6703753:0",
         "tradingview:fxstreet:96fdbe009d9e8:0",
+        "tradingview:matriks:6703716:0",
         "tradingview:fxstreet:e7f2a7632d9e8:0",
         "tradingview:matriks:6703676:0",
         "tradingview:matriks:6703674:0",
@@ -969,6 +988,91 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "dogal gaz hurmuz riskleri katar lng kesintisi bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:3a91ebfa0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini warsh n fed faiz art r m beklentilerini yeniden canland rmas yla geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:c9d971ff9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro warsh fed faiz art r m ihtimalini yeniden gundeme getirmesiyle 1 1600 seviyesinin alt na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:cca0dd5b6d9e8:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "fed baskan warsh tan faiz mesaj enflasyon endise verici fed baskan warsh enflasyonun endise verici oldugunu belirterek mevcut faizlerin k s tlay c olmad g n soyledi ac klamalar fed in faiz art r m na gidebilebilecegi beklentisini guclendirdi",
+      "link": "https://www.ntv.com.tr/ntvpara/fed-baskani-warshtan-faiz-mesaji-enflasyon-endise-verici-1739333"
+    },
+    {
+      "source": "investing",
+      "text": "davidson arr endiseleri nedeniyle sentinelone hisse notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-arr-endiseleri-nedeniyle-sentinelone-hisse-notunu-korudu-93CH-4048433"
+    },
+    {
+      "source": "investing",
+      "text": "davidson yapay zeka ivmesiyle workday hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-yapay-zeka-ivmesiyle-workday-hisse-hedefini-yukseltti-93CH-4048432"
+    },
+    {
+      "source": "investing",
+      "text": "greenpower yeni meksika okul otobusu pilotunun ikinci y l na baslad",
+      "link": "https://tr.investing.com/news/company-news/greenpower-yeni-meksika-okul-otobusu-pilotunun-ikinci-ylna-baslad-93CH-4048431"
+    },
+    {
+      "source": "investing",
+      "text": "davidson ulta beauty nin hedef fiyat n yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-ulta-beautynin-hedef-fiyatn-yukseltti-93CH-4048429"
+    },
+    {
+      "source": "investing",
+      "text": "davidson elastic hissesi fiyat hedefini 100 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-elastic-hissesi-icin-fiyat-hedefini-100-dolara-yukseltti-93CH-4048426"
+    },
+    {
+      "source": "investing",
+      "text": "davidson autodesk hissesi al tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-autodesk-hissesi-icin-al-tavsiyesini-yineledi-93CH-4048425"
+    },
+    {
+      "source": "investing",
+      "text": "davidson zay f yaz sat slar nedeniyle build a bear hisse hedefini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-zayf-yaz-satslar-nedeniyle-buildabear-hisse-hedefini-dusurdu-93CH-4048424"
+    },
+    {
+      "source": "investing",
+      "text": "crispr therapeutics gen terapisi ctx310 y ll k verileri ac klad",
+      "link": "https://tr.investing.com/news/company-news/crispr-therapeutics-gen-terapisi-ctx310-icin-bir-yllk-verileri-acklad-93CH-4048423"
+    },
+    {
+      "source": "investing",
+      "text": "dropbox hissesi 36 30 dolarl k 52 haftal k zirvesine ulast",
+      "link": "https://tr.investing.com/news/company-news/dropbox-hissesi-3630-dolarlk-52-haftalk-zirvesine-ulast-93CH-4048422"
+    },
+    {
+      "source": "kap",
+      "text": "escom kar pay dag t m islemlerine iliskin bildirim 2025 y l kar pay dag t m hk sirket escort teknoloji yatirim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655877"
+    },
+    {
+      "source": "kap",
+      "text": "hedef pay baz nda devre kesici bildirimi hedef e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655876"
+    },
+    {
+      "source": "kap",
+      "text": "isfin pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsisfn32710 isin kodlu tahvilin kupon oran ac klamas sirket is finansal kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655875"
+    },
+    {
+      "source": "kap",
+      "text": "tun sirket genel bilgi formu sirket tuna portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655870"
+    },
     {
       "source": "tradingview",
       "text": "polonya buyume yat r m toparlanmas yla destekleniyor ing",
