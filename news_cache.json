@@ -116,8 +116,11 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/turk-eximbanktan-ilk-yarida-ihracata-32-milyar-dolarlik-destek-3786686",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/intetra-nin-halka-arz-buyuklugu-2-14-milyar-tl-oldu-3786695",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/intetra-nin-halka-arz-buyuklugu-2-14-milyar-tl-oldu-3786695",
+        "bloomberght:https://www.bloomberght.com/almanya-da-issiz-sayisi-3-milyonu-asti-3786694",
+        "bloomberght:https://www.bloomberght.com/morgan-dan-yeni-tcmb-tahmini-3786693",
         "bloomberght:https://www.bloomberght.com/turk-eximbanktan-ilk-yarida-ihracata-32-milyar-dolarlik-destek-3786686",
         "bloomberght:https://www.bloomberght.com/katar-lngde-mucbir-sebep-suresini-uzatti-3786683",
         "bloomberght:https://www.bloomberght.com/bloomberg-businessweek-turkiye-nin-145-sayisi-cikti-3786681",
@@ -271,8 +274,11 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kdkdan-kacak-yapi-yikimina-iliskin-idare-kurumlarina-tavsiye-karari-955206.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/iskur-mobil-uygulamasiyla-15-milyon-is-basvurusu-yapildi-955215.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/iskur-mobil-uygulamasiyla-15-milyon-is-basvurusu-yapildi-955215.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/gunesten-elektrik-uretimi-rekor-tazeledi-955213.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/imalat-sanayiinde-istihdam-destegine-yeni-duzenleme-955212.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kdkdan-kacak-yapi-yikimina-iliskin-idare-kurumlarina-tavsiye-karari-955206.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ekonomik-guven-endeksi-agustosta-1006-oldu-955191.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/hizmet-uretici-fiyat-endeksi-temmuzda-artti-955190.html",
@@ -341,9 +347,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702939:0",
+      "last_seen_key": "tradingview:fxstreet:65eddc68fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:65eddc68fd9e8:0",
+        "tradingview:fxstreet:7dc2ae1acd9e8:0",
+        "tradingview:fxstreet:7537c5a8cd9e8:0",
+        "tradingview:matriks:6702950:0",
+        "tradingview:matriks:6702949:0",
+        "tradingview:matriks:6702948:0",
         "tradingview:matriks:6702939:0",
+        "tradingview:cointelegraph:870a0e472d9e8:0",
         "tradingview:fxstreet:3b0afc173d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44P0HZ:0",
         "tradingview:matriks:6702906:0",
@@ -529,6 +542,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "tar m d s istihdam onemli k yaslama revizyonuyla gerceklik testiyle kars kars ya",
+      "link": "https://tr.tradingview.com/news/fxstreet:65eddc68fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat bugun fxstreet verilerine gore gumus fiyat yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:7dc2ae1acd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini enerji kaynakl enflasyon riskleri gbp yi abd dolar kars s nda destekliyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:7537c5a8cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin teslimat risklerini azaltmak duzenli sekilde tamamlanm s konut sat s na gecisi tesvik edecek xinhua",
+      "link": "https://tr.tradingview.com/news/matriks:6702950:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin on sat sa konu projelerde binalar n kaba insaat n n tamamlanm s olmas gerektigini bildirdi xinhua",
+      "link": "https://tr.tradingview.com/news/matriks:6702949:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin ticari konut sat slar n iyilestirmeye yonelik teblig yay mlad xinhua",
+      "link": "https://tr.tradingview.com/news/matriks:6702948:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "iskur mobil uygulamas yla 1 5 milyon is basvurusu yap ld cal sma sosyal guvenlik bakan vedat is khan iskur mobil uygulamas ndan y lda 250 milyon nitelikli is aramas 1 5 milyon is basvurusu yap ld g n duyurdu",
+      "link": "https://www.trthaber.com/haber/ekonomi/iskur-mobil-uygulamasiyla-15-milyon-is-basvurusu-yapildi-955215.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "gunesten elektrik uretimi rekor tazeledi turkiye gunes enerjisinden elektrik uretimi temmuzda 5 37 milyar kilovatsaatle ayl k bazda tum zamanlar n en yuksek seviyesine ulast",
+      "link": "https://www.trthaber.com/haber/ekonomi/gunesten-elektrik-uretimi-rekor-tazeledi-955213.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "imalat sanayiinde istihdam destegine yeni duzenleme turkiye imalat sanayii sektorlerinde istihdam n korunmas art r lmas na yonelik olarak cal san sigortal lar uygulanacak destek program na iliskin usul esaslarda degisiklige gidildi",
+      "link": "https://www.trthaber.com/haber/ekonomi/imalat-sanayiinde-istihdam-destegine-yeni-duzenleme-955212.html"
+    },
+    {
+      "source": "bloomberght",
+      "text": "intetra n n halka arz buyuklugu 2 14 milyar tl oldu intetra teknoloji bilisim hizmetleri a s nin 24 27 haziran tarihleri aras nda gerceklesen halka arz sonuclar ac kland",
+      "link": "https://www.bloomberght.com/intetra-nin-halka-arz-buyuklugu-2-14-milyar-tl-oldu-3786695"
+    },
+    {
+      "source": "bloomberght",
+      "text": "almanya issiz say s 3 milyonu ast almanya issiz say s donemdeki olumlu ekonomik sinyallere ragmen is gucu piyasas ndaki durgunlugun surmesiyle agustos ay nda 3 milyon s n r n n uzerinde kald",
+      "link": "https://www.bloomberght.com/almanya-da-issiz-sayisi-3-milyonu-asti-3786694"
+    },
+    {
+      "source": "bloomberght",
+      "text": "morgan dan yeni tcmb tahmini kuresel yat r m bankas morgan stanley turkiye cumhuriyet merkez bankas n n tcmb eylul ay toplant s nda politika faizini sabit tutmas n ilk faiz indirimlerinin ise ekim aral k aylar nda gerceklesmesini bekliyor",
+      "link": "https://www.bloomberght.com/morgan-dan-yeni-tcmb-tahmini-3786693"
+    },
     {
       "source": "tradingview",
       "text": "akbank ihracatc lar tahsil vesaiki islemlerini dijitallestirdi",
