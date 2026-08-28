@@ -597,8 +597,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44P08O:0",
+      "last_seen_key": "tradingview:matriks:6702080:0",
       "seen_keys": [
+        "tradingview:matriks:6702080:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P06N:0",
+        "tradingview:fxstreet:abca23558d9e8:0",
+        "tradingview:matriks:6702078:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44P09D:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P06L:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P065:0",
+        "tradingview:matriks:6702076:0",
+        "tradingview:matriks:6702075:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44P08O:0",
         "tradingview:fxstreet:5a7adb870d9e8:0",
         "tradingview:matriks:6702071:0",
@@ -913,6 +922,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "petrolde kritik esik as ld korfez den sevkiyat yeniden h zland nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6702080:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "resmi gazete bugun 28 agustos 2026",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P06N:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar yat r mc lar n jackson hole sempozyumu nu beklemeleriyle yatay seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:abca23558d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten tera yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702078:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44P09D:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiye maarif vakf na meb butcesinden 7 5 milyar tl kaynak aktar lacak",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P06L:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiye suudi arabistan yeka kapsam nda turkiye toplam 5 000 mw enerji projesi gerceklestirecek rg",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P065:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "foreks bulteni destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702076:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik analiz bulteni destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702075:0"
+    },
     {
       "source": "tradingview",
       "text": "global piyasalar borsa",
