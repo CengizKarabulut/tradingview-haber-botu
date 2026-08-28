@@ -250,8 +250,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/paypal-hisseleri-mesai-sonras-12-dustu-iste-nedeni-93CH-4047353",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/dualitybio-kanser-ilac-gelistirmek-icin-genentech-ile-ortaklk-kurdu-93CH-4047355",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/dualitybio-kanser-ilac-gelistirmek-icin-genentech-ile-ortaklk-kurdu-93CH-4047355",
         "investing:https://tr.investing.com/news/stock-market-news/paypal-hisseleri-mesai-sonras-12-dustu-iste-nedeni-93CH-4047353",
         "investing:https://tr.investing.com/news/stock-market-news/asya-borsalar-sakin-kospi-teknoloji-rallisinin-sogumasyla-dustu-4047351",
         "investing:https://tr.investing.com/news/commodities-news/altn-warshn-jackson-hole-konusmas-oncesi-dustu-4047349",
@@ -261,7 +262,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/advent-ve-stripe-paypal-icin-50-milyar-dolarlk-teklifi-geri-cekti-4047344",
         "investing:https://tr.investing.com/news/insider-trading-news/lumentum-holdings-baskan-wupen-yuen-479330-dolar-degerinde-hisse-satt-93CH-4047342",
         "investing:https://tr.investing.com/news/insider-trading-news/lumentum-ceosu-525345-dolarlk-hisse-satt-93CH-4047341",
-        "investing:https://tr.investing.com/news/insider-trading-news/gatx-baskan-yardmcs-eren-doygun-179518-dolar-degerinde-hisse-satt-93CH-4047340",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -282,6 +282,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/insider-trading-news/gatx-baskan-yardmcs-eren-doygun-179518-dolar-degerinde-hisse-satt-93CH-4047340",
         "investing:https://tr.investing.com/news/insider-trading-news/western-digitaln-cynthia-tregillisi-696279-dolar-degerinde-wdc-hissesi-satt-93CH-4047326",
         "investing:https://tr.investing.com/news/economy-news/venezuela-abd-ile-yaknlasrken-opecten-cks-degerlendiriyor-4047327",
         "investing:https://tr.investing.com/news/stock-market-news/sk-telecom-kakao-ve-kt-yapay-zeka-projesi-icin-secildi-93CH-4047324",
@@ -592,8 +593,26 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702000:0",
+      "last_seen_key": "tradingview:matriks:6702058:0",
       "seen_keys": [
+        "tradingview:matriks:6702058:0",
+        "tradingview:matriks:6702052:0",
+        "tradingview:matriks:6702051:0",
+        "tradingview:matriks:6702050:0",
+        "tradingview:matriks:6702049:0",
+        "tradingview:matriks:6702048:0",
+        "tradingview:matriks:6702047:0",
+        "tradingview:matriks:6702046:0",
+        "tradingview:matriks:6702045:0",
+        "tradingview:matriks:6702044:0",
+        "tradingview:matriks:6702043:0",
+        "tradingview:fxstreet:a668877fdd9e8:0",
+        "tradingview:matriks:6702041:0",
+        "tradingview:fxstreet:178f0a86fd9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44O1AT:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44O1B6:0",
+        "tradingview:matriks:6702001:0",
+        "tradingview:matriks:6701998:0",
         "tradingview:matriks:6702000:0",
         "tradingview:matriks:6701999:0",
         "tradingview:matriks:6701996:0",
@@ -615,7 +634,6 @@
         "tradingview:matriks:6701982:0",
         "tradingview:matriks:6701973:0",
         "tradingview:fxstreet:cb3cbc415d9e8:0",
-        "tradingview:fxstreet:178f0a86fd9e8:0",
         "tradingview:fxstreet:cf93c6827d9e8:0",
         "tradingview:fxstreet:31b7f04e4d9e8:0",
         "tradingview:matriks:6701936:0",
@@ -874,6 +892,96 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd venezuela petrol sahalar buyuk anlasmaya yak n bloomberg ht com",
+      "link": "https://tr.tradingview.com/news/matriks:6702058:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasalarda bugun unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6702052:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "spk ilk halka arza iliskin basvurular n sonucland r lmas nda oncelik tan nacak kriterleri belirledi nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6702051:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya temmuz ay ay issizlik oran 2 4 beklenti 2 5 onceki 2 5",
+      "link": "https://tr.tradingview.com/news/matriks:6702050:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "analitik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6702049:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vatandas dovizi unuttu alt n a s g nd nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6702048:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ced duyurusu smart ges enerji",
+      "link": "https://tr.tradingview.com/news/matriks:6702047:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ced duyurusu camis madencilik",
+      "link": "https://tr.tradingview.com/news/matriks:6702046:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop teknik gorunum a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6702045:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist100 teknik gorunum a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6702044:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6702043:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd fed baskan n n konusmas oncesinde 69 00 n alt na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:a668877fdd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turib gunluk bulteni tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6702041:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "spk halka arz basvurular nda oncelik kriterlerini belirledi",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44O1AT:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "spk midas menkul degerler e toplamda 24 9 milyon tl idari para cezas verdi",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44O1B6:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sarkuysan bedelsiz sermaye art r m karar ald",
+      "link": "https://tr.tradingview.com/news/matriks:6702001:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "barem ambalaj a konya eregli deki kojenerasyon tesisi uretim lisans verildi",
+      "link": "https://tr.tradingview.com/news/matriks:6701998:0"
+    },
+    {
+      "source": "investing",
+      "text": "dualitybio kanser ilac gelistirmek genentech ortakl k kurdu",
+      "link": "https://tr.investing.com/news/company-news/dualitybio-kanser-ilac-gelistirmek-icin-genentech-ile-ortaklk-kurdu-93CH-4047355"
+    },
     {
       "source": "tradingview",
       "text": "grainturk holding efkaftepe res projesi ced surecinin olumlu sonucland",
