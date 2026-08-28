@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655518",
+      "last_seen_key": "kap:1655524",
       "seen_keys": [
+        "kap:1655524",
+        "kap:1655523",
+        "kap:1655522",
+        "kap:1655521",
         "kap:1655518",
         "kap:1655517",
         "kap:1655516",
@@ -186,13 +190,14 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-28082026-3786640",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-piyasalar-warsh-un-konusmasini-bekliyor-3786641",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/kuresel-piyasalar-warsh-un-konusmasini-bekliyor-3786641",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-28082026-3786640",
         "bloomberght:https://www.bloomberght.com/spk-belirli-sartlari-saglayan-halka-arzlara-oncelik-verebilecek-3786639",
         "bloomberght:https://www.bloomberght.com/trump-a-gore-rusya-natotopraklarina-saldirmayacak-3786638",
         "bloomberght:https://www.bloomberght.com/trump-iran-la-gorusmek-istemediklerini-soyledi-3786636",
-        "bloomberght:https://www.bloomberght.com/halkbank-ikincil-halka-arz-icin-spk-ye-basvurdu-3786635",
+        "bloomberght:https://www.bloomberght.com/halkbank-tan-ikincil-halka-arz-basvurusu-3786635",
         "bloomberght:https://www.bloomberght.com/trump-ontario-golu-nun-adini-amerika-golu-olarak-degistirdi-3786634",
         "bloomberght:https://www.bloomberght.com/abd-venezuela-petrol-sahalari-icin-buyuk-bir-anlasmaya-yakin-3786628",
         "bloomberght:https://www.bloomberght.com/bakan-bolat-halepte-turk-ve-suriyeli-is-insanlariyla-bir-araya-geldi-3786627",
@@ -235,6 +240,7 @@
         "bloomberght:https://www.bloomberght.com/katar-basbakani-iranla-diplomatik-gorusmeleri-yeniden-baslatmak-icin-tahrana-gidiyor-3786548",
         "bloomberght:https://www.bloomberght.com/altin-yukselisini-surdurdu-gozler-fed-baskani-warshin-konusmasinda-3786547",
         "bloomberght:https://www.bloomberght.com/petrol-hurmuz-bogazi-umuduyla-dususunu-surdurdu-3786546",
+        "bloomberght:https://www.bloomberght.com/halkbank-ikincil-halka-arz-icin-spk-ye-basvurdu-3786635",
         "bloomberght:https://www.bloomberght.com/ukmto-hurmuz-bogazi-nda-bir-tankerin-vuruldugunu-duyurdu-3786545",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-27-agustos-2026-3786544",
         "bloomberght:https://www.bloomberght.com/trump-sigir-eti-kotasini-artirdi-3786543",
@@ -599,9 +605,23 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702108:0",
+      "last_seen_key": "tradingview:matriks:6702135:0",
       "seen_keys": [
+        "tradingview:matriks:6702135:0",
+        "tradingview:matriks:6702131:0",
+        "tradingview:matriks:6702128:0",
+        "tradingview:matriks:6702124:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P081:0",
+        "tradingview:matriks:6702120:0",
+        "tradingview:matriks:6702119:0",
+        "tradingview:fxstreet:5ed9ba320d9e8:0",
+        "tradingview:matriks:6702118:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:matriks:6702116:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P083:0",
+        "tradingview:matriks:6702112:0",
         "tradingview:matriks:6702108:0",
+        "tradingview:cointelegraph:01a861f6dd9e8:0",
         "tradingview:matriks:6702104:0",
         "tradingview:matriks:6702103:0",
         "tradingview:matriks:6702100:0",
@@ -936,6 +956,96 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "isvec te 2 ceyrekte gsyih y ll k 3 3 onceki 2 8",
+      "link": "https://tr.tradingview.com/news/matriks:6702135:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "norvec te issizlik oran agustos ta 2 1 onceki 2 1",
+      "link": "https://tr.tradingview.com/news/matriks:6702131:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist gunluk teknik analiz bulteni yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702128:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop gunluk bulten gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702124:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dolar tl 48 25 rekorunda jeopolitik gelismeler veriler izlenecek",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P081:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunun piyasa haritas trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6702120:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin politburosu uluslararas is birligiyle s n r bolgelerinde afet yonetiminin guclendirilmesi cagr s nda bulundu",
+      "link": "https://tr.tradingview.com/news/matriks:6702119:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur jpy fiyat analizi dokuz gunluk ema yak nlar nda 185 50 nin uzerinde tutunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5ed9ba320d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin politburosu tibet teki heyelan kurtarma cal smalar yla ilgili toplant duzenledi",
+      "link": "https://tr.tradingview.com/news/matriks:6702118:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bugun kriptoda neler oldu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:508550d3ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sabah bulteni tfg istanbul menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6702116:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 28 agustos cuma",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P083:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tekrar halkbank ikincil halka arza iliskin spk ya basvurdu",
+      "link": "https://tr.tradingview.com/news/matriks:6702112:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kuresel piyasalar warsh un konusmas n bekliyor finansal piyasalar fed baskan warsh n bugun verecegi mesajlar beklerken amerikan merkez bankas n n yetkilileri enflasyon gorunumu konusunda bolunmus durumda",
+      "link": "https://www.bloomberght.com/kuresel-piyasalar-warsh-un-konusmasini-bekliyor-3786641"
+    },
+    {
+      "source": "kap",
+      "text": "yeotk yeni is iliskisi yeni is iliskisi sirket yeo teknoloji enerji endustri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655524"
+    },
+    {
+      "source": "kap",
+      "text": "hpf info iyf ozsub paseu pnu pry sdttr kamuyu ayd nlatma platformu duyurusu ozel durumlar tebligi nin 12 4 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655523"
+    },
+    {
+      "source": "kap",
+      "text": "polho kurumsal yonetim ilkelerine uyum derecelendirmesi kurumsal yonetim ilkelerine uyum derecelendirmesi sirket polisan holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655522"
+    },
+    {
+      "source": "kap",
+      "text": "fny qnbin pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren nitelikli yat r mc ya borclanma arac ihrac sirket qnb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655521"
+    },
     {
       "source": "tradingview",
       "text": "analitik bulten a1 capital",
