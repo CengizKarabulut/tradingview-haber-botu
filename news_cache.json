@@ -250,8 +250,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/dualitybio-kanser-ilac-gelistirmek-icin-genentech-ile-ortaklk-kurdu-93CH-4047355",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/aylk-30-uzeri-5-hisse-yapay-zeka-secimleri-kazandrmaya-devam-etti-4047359",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/aylk-30-uzeri-5-hisse-yapay-zeka-secimleri-kazandrmaya-devam-etti-4047359",
+        "investing:https://tr.investing.com/news/insider-trading-news/regenxbio-yoneticisi-ciongoli-rgnx-hissesinden-949381-dolar-ald-93CH-4047357",
         "investing:https://tr.investing.com/news/company-news/dualitybio-kanser-ilac-gelistirmek-icin-genentech-ile-ortaklk-kurdu-93CH-4047355",
         "investing:https://tr.investing.com/news/stock-market-news/paypal-hisseleri-mesai-sonras-12-dustu-iste-nedeni-93CH-4047353",
         "investing:https://tr.investing.com/news/stock-market-news/asya-borsalar-sakin-kospi-teknoloji-rallisinin-sogumasyla-dustu-4047351",
@@ -260,8 +262,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/lumentumun-svpsi-ve-genel-dansman-102-milyon-dolarlk-hisse-satt-93CH-4047346",
         "investing:https://tr.investing.com/news/insider-trading-news/lumentum-evp-vincent-retort-33-milyon-dolarlk-hisse-satt-93CH-4047345",
         "investing:https://tr.investing.com/news/stock-market-news/advent-ve-stripe-paypal-icin-50-milyar-dolarlk-teklifi-geri-cekti-4047344",
-        "investing:https://tr.investing.com/news/insider-trading-news/lumentum-holdings-baskan-wupen-yuen-479330-dolar-degerinde-hisse-satt-93CH-4047342",
-        "investing:https://tr.investing.com/news/insider-trading-news/lumentum-ceosu-525345-dolarlk-hisse-satt-93CH-4047341",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -282,6 +282,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/insider-trading-news/lumentum-holdings-baskan-wupen-yuen-479330-dolar-degerinde-hisse-satt-93CH-4047342",
+        "investing:https://tr.investing.com/news/insider-trading-news/lumentum-ceosu-525345-dolarlk-hisse-satt-93CH-4047341",
         "investing:https://tr.investing.com/news/insider-trading-news/gatx-baskan-yardmcs-eren-doygun-179518-dolar-degerinde-hisse-satt-93CH-4047340",
         "investing:https://tr.investing.com/news/insider-trading-news/western-digitaln-cynthia-tregillisi-696279-dolar-degerinde-wdc-hissesi-satt-93CH-4047326",
         "investing:https://tr.investing.com/news/economy-news/venezuela-abd-ile-yaknlasrken-opecten-cks-degerlendiriyor-4047327",
@@ -593,13 +595,26 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6702058:0",
+      "last_seen_key": "tradingview:matriks:6702070:0",
       "seen_keys": [
+        "tradingview:matriks:6702070:0",
+        "tradingview:fxstreet:7640d7781d9e8:0",
+        "tradingview:matriks:6702068:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P05V:0",
+        "tradingview:matriks:6702067:0",
+        "tradingview:matriks:6702065:0",
+        "tradingview:matriks:6702064:0",
+        "tradingview:matriks:6702063:0",
+        "tradingview:matriks:6702062:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P05W:0",
+        "tradingview:matriks:6702060:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44P05T:0",
         "tradingview:matriks:6702058:0",
         "tradingview:matriks:6702052:0",
         "tradingview:matriks:6702051:0",
         "tradingview:matriks:6702050:0",
         "tradingview:matriks:6702049:0",
+        "tradingview:cointelegraph:84da290e6d9e8:0",
         "tradingview:matriks:6702048:0",
         "tradingview:matriks:6702047:0",
         "tradingview:matriks:6702046:0",
@@ -892,6 +907,76 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "jackson hole gozler warsh ta boj amb faiz art s beklentileri gucleniyor ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6702070:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan alt n fiyat bugun fxstreet taraf ndan derlenen verilere gore alt n fiyat dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:7640d7781d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702068:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "istihdam koruma destek program yenilendi istihdam maliyeti limitlerine gore kredi destegi saglanacak",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P05V:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten alnus yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6702067:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s sabah teknik bulteni ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6702065:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk piyasa bulteni bfrc",
+      "link": "https://tr.tradingview.com/news/matriks:6702064:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "aroma kola pazar na bursa dan girdi nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6702063:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "jackson hole sempozyumu oncesinde alt n fiyatlar nda geri cekilme yasand nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6702062:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "spk turker yenilenebilir enerji fibabanka peker gyo nun yurt d s nda tahvil ihrac na izin verdi",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P05W:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed yetkilisi hammack harekete gecme zaman geldi bloomberg ht com",
+      "link": "https://tr.tradingview.com/news/matriks:6702060:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "halkbank ikincil halka arz spk ya basvurdu elde edilecek kaynak kredi hizmetlere kaynak temininde kullan lacak",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44P05T:0"
+    },
+    {
+      "source": "investing",
+      "text": "ayl k 30 uzeri 5 hisse yapay zeka secimleri kazand rmaya devam etti",
+      "link": "https://tr.investing.com/news/stock-market-news/aylk-30-uzeri-5-hisse-yapay-zeka-secimleri-kazandrmaya-devam-etti-4047359"
+    },
+    {
+      "source": "investing",
+      "text": "regenxbio yoneticisi ciongoli rgnx hissesinden 949 381 dolar ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/regenxbio-yoneticisi-ciongoli-rgnx-hissesinden-949381-dolar-ald-93CH-4047357"
+    },
     {
       "source": "tradingview",
       "text": "abd venezuela petrol sahalar buyuk anlasmaya yak n bloomberg ht com",
