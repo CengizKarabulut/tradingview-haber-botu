@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655990",
+      "last_seen_key": "kap:1655991",
       "seen_keys": [
+        "kap:1655991",
         "kap:1655990",
         "kap:1655989",
         "kap:1655988",
@@ -167,8 +168,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/tenax-tnx103-icin-ek-faz-3-calsma-verilerini-sundu-93CH-4048718",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/goldman-abd-enflasyon-beklentileri-uzerine-3-ders-ckard-4048720",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/goldman-abd-enflasyon-beklentileri-uzerine-3-ders-ckard-4048720",
         "investing:https://tr.investing.com/news/company-news/tenax-tnx103-icin-ek-faz-3-calsma-verilerini-sundu-93CH-4048718",
         "investing:https://tr.investing.com/news/investment-ideas/turk-bankas-fair-value-uyars-sonras-47-getiri-saglad-93CH-4048716",
         "investing:https://tr.investing.com/news/investment-ideas/fair-value-hedef-holdingi-40lk-dusus-oncesi-nasl-isaretledi-93CH-4048714",
@@ -178,7 +180,6 @@
         "investing:https://tr.investing.com/news/economy-news/rusyann-kiev-yaknndaki-saldrsnda-27-kisi-oldu-4048707",
         "investing:https://tr.investing.com/news/cryptocurrency-news/eos-12-orannda-yukseldi-4048706",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-fiyat-78000-dolarn-altna-geriledi-dijital-altn-tezi-test-ediliyor-4048703",
-        "investing:https://tr.investing.com/news/stock-market-news/turkiye-manipulasyon-endiseleri-nedeniyle-hedge-fon-kurallarn-sklastrd-4048700",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -199,6 +200,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/turkiye-manipulasyon-endiseleri-nedeniyle-hedge-fon-kurallarn-sklastrd-4048700",
         "investing:https://tr.investing.com/news/company-news/niutech-enerji-devi-ile-atk-plastik-piroliz-anlasmas-imzalad-93CH-4048696",
         "investing:https://tr.investing.com/news/economy-news/cinin-devasa-petrol-rezervleri-iran-savasnda-pekine-koz-veriyor-4048694",
         "investing:https://tr.investing.com/news/insider-trading-news/freeportmcmoran-yoneticisi-lydia-kennard-300470-dolarlk-hisse-satt-93CH-4048689",
@@ -451,6 +453,13 @@
         "tradingview:fxstreet:4a2dcc088d9e8:0",
         "tradingview:fxstreet:80e85c87fd9e8:0",
         "tradingview:beincrypto:96a0c7c95d9e8:0",
+        "tradingview:fxstreet:d720594a4d9e8:0",
+        "tradingview:fxstreet:2501d360fd9e8:0",
+        "tradingview:fxstreet:07ac8b053d9e8:0",
+        "tradingview:fxstreet:1b86854d0d9e8:0",
+        "tradingview:fxstreet:0c56d72c9d9e8:0",
+        "tradingview:fxstreet:980434270d9e8:0",
+        "tradingview:fxstreet:9820b378fd9e8:0",
         "tradingview:fxstreet:354fcf072d9e8:0",
         "tradingview:beincrypto:5fe4c8753d9e8:0",
         "tradingview:matriks:6704266:0",
@@ -560,6 +569,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "goldman abd enflasyon beklentileri uzerine 3 ders c kard",
+      "link": "https://tr.investing.com/news/economy-news/goldman-abd-enflasyon-beklentileri-uzerine-3-ders-ckard-4048720"
+    },
+    {
+      "source": "kap",
+      "text": "umpas ozel durum ac klamas genel idari para cezas na iliskin ac klama sirket umpas holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655991"
+    },
     {
       "source": "tradingview",
       "text": "rekor fiyat art s sonras takip edilecek 3 altcoin hafta sonuna bak s",
