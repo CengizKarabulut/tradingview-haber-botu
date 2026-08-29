@@ -156,8 +156,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/cinin-devasa-petrol-rezervleri-iran-savasnda-pekine-koz-veriyor-4048694",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/turkiye-manipulasyon-endiseleri-nedeniyle-hedge-fon-kurallarn-sklastrd-4048700",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/turkiye-manipulasyon-endiseleri-nedeniyle-hedge-fon-kurallarn-sklastrd-4048700",
+        "investing:https://tr.investing.com/news/company-news/niutech-enerji-devi-ile-atk-plastik-piroliz-anlasmas-imzalad-93CH-4048696",
         "investing:https://tr.investing.com/news/economy-news/cinin-devasa-petrol-rezervleri-iran-savasnda-pekine-koz-veriyor-4048694",
         "investing:https://tr.investing.com/news/insider-trading-news/freeportmcmoran-yoneticisi-lydia-kennard-300470-dolarlk-hisse-satt-93CH-4048689",
         "investing:https://tr.investing.com/news/stock-market-news/ag-altyaps-yapay-zekann-kritik-katman-haline-geldi-4048691",
@@ -166,8 +168,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/royal-gold-baskan-yardmcs-131400-dolar-degerinde-hisse-satt-93CH-4048685",
         "investing:https://tr.investing.com/news/insider-trading-news/sezzle-yoneticisi-kyle-brehm-125920-dolar-degerinde-hisse-satt-93CH-4048684",
         "investing:https://tr.investing.com/news/insider-trading-news/energy-vault-yoneticisi-stephanie-unwin-426983-dolar-degerinde-hisse-satt-93CH-4048683",
-        "investing:https://tr.investing.com/news/stock-market-news/volksbank-brawonun-sorunlar-derinlesirken-alman-bolgesel-bankalar-bask-altnda-4048681",
-        "investing:https://tr.investing.com/news/insider-trading-news/gen-digital-yoneticisi-ondrej-vlcek-6000000-dolar-degerinde-hisse-satt-93CH-4048680",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -188,6 +188,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/volksbank-brawonun-sorunlar-derinlesirken-alman-bolgesel-bankalar-bask-altnda-4048681",
+        "investing:https://tr.investing.com/news/insider-trading-news/gen-digital-yoneticisi-ondrej-vlcek-6000000-dolar-degerinde-hisse-satt-93CH-4048680",
         "investing:https://tr.investing.com/news/economy-news/maliye-bakan-healey-mali-basklar-artarken-temkinli-butce-hazrlyor-4048677",
         "investing:https://tr.investing.com/news/economy-news/reform-uk-is-dunyas-ve-diplomatlar-cekerken-kripto-baglarn-azaltyor-4048675",
         "investing:https://tr.investing.com/news/insider-trading-news/airbnb-cso-nathan-blecharczyk-37-milyon-dolarlk-hisse-satt-93CH-4048674",
@@ -330,8 +332,10 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ham-celik-uretimi-temmuzda-yillik-yuzde-7-artti-955275.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/yapay-zeka-fabrikalari-kobi-ve-girisimcilere-seviye-atlatacak-955286.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/yapay-zeka-fabrikalari-kobi-ve-girisimcilere-seviye-atlatacak-955286.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/kvkkdan-veri-ihlalini-zamaninda-bildirmeyen-sirkete-1-milyon-lira-ceza-955285.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ham-celik-uretimi-temmuzda-yillik-yuzde-7-artti-955275.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/18-bitki-koruma-ve-besleme-sirketine-sorusturma-955234.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kacir-istihdamini-koruyan-isletmelerin-kredi-maliyeti-dusecek-955228.html",
@@ -522,6 +526,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "yapay zeka fabrikalar kobi girisimcilere seviye atlatacak turkiye yapay zeka alan nda yat r m uretim girisimcilik ekosistemini buyutmek amac yla yapay zeka buyume bolgeleri yapay zeka fabrikalar kuracak ayr ca temel arast rmadan sirketlerin olceklenmesine kadar uzanan iki asamal fo",
+      "link": "https://www.trthaber.com/haber/ekonomi/yapay-zeka-fabrikalari-kobi-ve-girisimcilere-seviye-atlatacak-955286.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "kvkk dan veri ihlalini zaman nda bildirmeyen sirkete 1 milyon lira ceza kvkk kuresel olcekte faaliyet gosteren sirkete sisteminde meydana gelen veri ihlalinin zaman nda bildirilmemesi veri guvenligine iliskin yukumluluklerin yerine getirilmemesi nedeniyle 1 milyon lira idari para cezas uygulanmas na k",
+      "link": "https://www.trthaber.com/haber/ekonomi/kvkkdan-veri-ihlalini-zamaninda-bildirmeyen-sirkete-1-milyon-lira-ceza-955285.html"
+    },
+    {
+      "source": "investing",
+      "text": "turkiye manipulasyon endiseleri nedeniyle hedge fon kurallar n s k last rd",
+      "link": "https://tr.investing.com/news/stock-market-news/turkiye-manipulasyon-endiseleri-nedeniyle-hedge-fon-kurallarn-sklastrd-4048700"
+    },
+    {
+      "source": "investing",
+      "text": "niutech enerji devi at k plastik piroliz anlasmas imzalad",
+      "link": "https://tr.investing.com/news/company-news/niutech-enerji-devi-ile-atk-plastik-piroliz-anlasmas-imzalad-93CH-4048696"
+    },
     {
       "source": "ntvpara",
       "text": "uc ilac daha geri odeme listesine al nd cal sma sosyal guvenlik bakan vedat is khan sosyal guvenlik kurumu sgk arac l g yla uc ilac n daha geri odeme listesine al nd g n ac klad",
