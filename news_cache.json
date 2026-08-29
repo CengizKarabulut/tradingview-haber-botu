@@ -171,8 +171,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/ingiltere-hane-halk-butceden-ne-bekliyor-4048730",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/glencore-radiant-world-riskine-480-milyon-dolarlk-karslk-ayrd-4048737",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/glencore-radiant-world-riskine-480-milyon-dolarlk-karslk-ayrd-4048737",
+        "investing:https://tr.investing.com/news/economy-news/abd-hazine-bakan-bessent-yendeki-dalgalanmann-risklerini-vurgulad-4048735",
         "investing:https://tr.investing.com/news/economy-news/ingiltere-hane-halk-butceden-ne-bekliyor-4048730",
         "investing:https://tr.investing.com/news/general-news/italyann-eni-abd-ve-venezuela-yetkilileriyle-petrol-sektorunu-canlandrmak-icin-gorusmelerde-4048725",
         "investing:https://tr.investing.com/news/economy-news/goldman-abd-enflasyon-beklentileri-uzerine-3-ders-ckard-4048720",
@@ -181,8 +183,6 @@
         "investing:https://tr.investing.com/news/investment-ideas/fair-value-hedef-holdingi-40lk-dusus-oncesi-nasl-isaretledi-93CH-4048714",
         "investing:https://tr.investing.com/news/investment-ideas/cbiz-investingpro-gercege-uygun-deger-sinyalinden-sonra-4-ayda-78-yukseldi-93CH-4048713",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-oustern-48lik-dususunu-nasl-tespit-etti-93CH-4048712",
-        "investing:https://tr.investing.com/news/stock-market-news/48-saatten-az-sure-kaldi-investingproyu-55-indirimle-aln-4048710",
-        "investing:https://tr.investing.com/news/economy-news/rusyann-kiev-yaknndaki-saldrsnda-27-kisi-oldu-4048707",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -203,6 +203,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/48-saatten-az-sure-kaldi-investingproyu-55-indirimle-aln-4048710",
+        "investing:https://tr.investing.com/news/economy-news/rusyann-kiev-yaknndaki-saldrsnda-27-kisi-oldu-4048707",
         "investing:https://tr.investing.com/news/cryptocurrency-news/eos-12-orannda-yukseldi-4048706",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-fiyat-78000-dolarn-altna-geriledi-dijital-altn-tezi-test-ediliyor-4048703",
         "investing:https://tr.investing.com/news/stock-market-news/turkiye-manipulasyon-endiseleri-nedeniyle-hedge-fon-kurallarn-sklastrd-4048700",
@@ -580,6 +582,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "glencore radiant world riskine 480 milyon dolarl k kars l k ay rd",
+      "link": "https://tr.investing.com/news/stock-market-news/glencore-radiant-world-riskine-480-milyon-dolarlk-karslk-ayrd-4048737"
+    },
+    {
+      "source": "investing",
+      "text": "abd hazine bakan bessent yen deki dalgalanman n risklerini vurgulad",
+      "link": "https://tr.investing.com/news/economy-news/abd-hazine-bakan-bessent-yendeki-dalgalanmann-risklerini-vurgulad-4048735"
+    },
     {
       "source": "tradingview",
       "text": "tokenlestirilmis hisse senedi transfer hacmi 30 gunde 415 artarak 29 5 milyar dolara ulast",
