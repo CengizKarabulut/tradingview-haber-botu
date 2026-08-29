@@ -150,8 +150,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/coreweave-gc-kristen-mcveety-184854-dolarlk-hisse-satt-93CH-4048660",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/virtra-inc-yoneticisi-grant-barber-10136-dolar-degerinde-hisse-ald-93CH-4048665",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/virtra-inc-yoneticisi-grant-barber-10136-dolar-degerinde-hisse-ald-93CH-4048665",
+        "investing:https://tr.investing.com/news/economy-news/irann-ticareti-abd-basksyla-yuzde-35-dustu-4048664",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-gc-kristen-mcveety-184854-dolarlk-hisse-satt-93CH-4048660",
         "investing:https://tr.investing.com/news/insider-trading-news/optimum-communications-yoneticisi-245-milyon-dolarlk-hisse-ald-93CH-4048659",
         "investing:https://tr.investing.com/news/insider-trading-news/natera-baskan-john-fesko-21-milyon-dolarlk-hisse-satt-93CH-4048658",
@@ -160,8 +162,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/terawulf-ceosu-paul-prager-23-milyon-dolarlk-hisse-satt-93CH-4048657",
         "investing:https://tr.investing.com/news/insider-trading-news/precigen-yoneticisi-jeffrey-kindler-138-milyon-dolarlk-hisse-satt-93CH-4048655",
         "investing:https://tr.investing.com/news/insider-trading-news/biovie-yonetim-kurulu-uyesi-amy-chappell-bivi-hissesi-ald-93CH-4048652",
-        "investing:https://tr.investing.com/news/insider-trading-news/biovie-cmo-joseph-palumbo-10460-dolarlk-hisse-satn-ald-93CH-4048651",
-        "investing:https://tr.investing.com/news/insider-trading-news/matson-ceosu-cox-22-milyon-dolarlk-hisse-satt-93CH-4048650",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -182,6 +182,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/insider-trading-news/biovie-cmo-joseph-palumbo-10460-dolarlk-hisse-satn-ald-93CH-4048651",
+        "investing:https://tr.investing.com/news/insider-trading-news/matson-ceosu-cox-22-milyon-dolarlk-hisse-satt-93CH-4048650",
         "investing:https://tr.investing.com/news/insider-trading-news/biovie-cfosu-joanne-kim-5450-dolar-degerinde-hisse-ald-93CH-4048649",
         "investing:https://tr.investing.com/news/insider-trading-news/biovie-inc-ceosu-cuong-v-do-31636-dolar-degerinde-hisse-ald-93CH-4048648",
         "investing:https://tr.investing.com/news/insider-trading-news/kinetik-holdings-yoneticisi-42-milyon-dolarlk-hisse-satt-93CH-4048647",
@@ -492,6 +494,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "virtra inc yoneticisi grant barber 10 136 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/virtra-inc-yoneticisi-grant-barber-10136-dolar-degerinde-hisse-ald-93CH-4048665"
+    },
+    {
+      "source": "investing",
+      "text": "iran n ticareti abd bask s yla yuzde 35 dustu",
+      "link": "https://tr.investing.com/news/economy-news/irann-ticareti-abd-basksyla-yuzde-35-dustu-4048664"
+    },
     {
       "source": "investing",
       "text": "coreweave gc kristen mcveety 184 854 dolarl k hisse satt",
