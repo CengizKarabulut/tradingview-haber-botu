@@ -94,8 +94,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/spk-yatirim-fonlarina-iliskin-rehber-yayimladi-3786783",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/venezuela-abd-ile-petrol-anlasmasini-dogruladi-3786784",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/venezuela-abd-ile-petrol-anlasmasini-dogruladi-3786784",
         "bloomberght:https://www.bloomberght.com/spk-yatirim-fonlarina-iliskin-rehber-yayimladi-3786783",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-29082026-3786782",
         "bloomberght:https://www.bloomberght.com/imf-baskani-ndan-sabitcoinler-icin-kuresel-duzenleme-cagrisi-3786781",
@@ -150,8 +151,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/maliye-bakan-healey-mali-basklar-artarken-temkinli-butce-hazrlyor-4048677",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/gen-digital-yoneticisi-ondrej-vlcek-6000000-dolar-degerinde-hisse-satt-93CH-4048680",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/gen-digital-yoneticisi-ondrej-vlcek-6000000-dolar-degerinde-hisse-satt-93CH-4048680",
         "investing:https://tr.investing.com/news/economy-news/maliye-bakan-healey-mali-basklar-artarken-temkinli-butce-hazrlyor-4048677",
         "investing:https://tr.investing.com/news/economy-news/reform-uk-is-dunyas-ve-diplomatlar-cekerken-kripto-baglarn-azaltyor-4048675",
         "investing:https://tr.investing.com/news/insider-trading-news/airbnb-cso-nathan-blecharczyk-37-milyon-dolarlk-hisse-satt-93CH-4048674",
@@ -161,7 +163,6 @@
         "investing:https://tr.investing.com/news/company-news/cinin-cxmtsi-lpddr6-uretimine-baslad-xiaomi-katlanabilir-telefon-anlasmas-imzalad-4048672",
         "investing:https://tr.investing.com/news/company-news/openai-spacexin-satn-almasnn-ardndan-cursor-ortaklgn-sonlandracak-4048668",
         "investing:https://tr.investing.com/news/insider-trading-news/virtra-inc-yoneticisi-grant-barber-10136-dolar-degerinde-hisse-ald-93CH-4048665",
-        "investing:https://tr.investing.com/news/economy-news/irann-ticareti-abd-basksyla-yuzde-35-dustu-4048664",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -182,6 +183,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/irann-ticareti-abd-basksyla-yuzde-35-dustu-4048664",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-gc-kristen-mcveety-184854-dolarlk-hisse-satt-93CH-4048660",
         "investing:https://tr.investing.com/news/insider-trading-news/optimum-communications-yoneticisi-245-milyon-dolarlk-hisse-ald-93CH-4048659",
         "investing:https://tr.investing.com/news/insider-trading-news/natera-baskan-john-fesko-21-milyon-dolarlk-hisse-satt-93CH-4048658",
@@ -502,6 +504,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "gen digital yoneticisi ondrej vlcek 6 000 000 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/gen-digital-yoneticisi-ondrej-vlcek-6000000-dolar-degerinde-hisse-satt-93CH-4048680"
+    },
+    {
+      "source": "bloomberght",
+      "text": "venezuela abd petrol anlasmas n dogrulad venezuela gecici devlet baskan delcy rodriguez abd petrol anlasmas yapt klar n dogrulayarak abd baskan donald trump d sisleri bakan marco rubio ya tesekkur etti",
+      "link": "https://www.bloomberght.com/venezuela-abd-ile-petrol-anlasmasini-dogruladi-3786784"
+    },
     {
       "source": "investing",
       "text": "maliye bakan healey mali bask lar artarken temkinli butce haz rl yor",
