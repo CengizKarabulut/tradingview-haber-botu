@@ -150,18 +150,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/ambiq-micro-ctosu-scott-hanson-328-milyon-dolarlk-hisse-satt-93CH-4048670",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/ptc-therapeutics-yoneticisi-18-milyon-dolarlk-hisse-satt-93CH-4048673",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/ptc-therapeutics-yoneticisi-18-milyon-dolarlk-hisse-satt-93CH-4048673",
         "investing:https://tr.investing.com/news/insider-trading-news/ambiq-micro-ctosu-scott-hanson-328-milyon-dolarlk-hisse-satt-93CH-4048670",
         "investing:https://tr.investing.com/news/insider-trading-news/ajb-investment-fund-ii-jewett-cameron-hissesine-7354-dolar-yatrd-93CH-4048669",
+        "investing:https://tr.investing.com/news/company-news/cinin-cxmtsi-lpddr6-uretimine-baslad-xiaomi-katlanabilir-telefon-anlasmas-imzalad-4048672",
         "investing:https://tr.investing.com/news/company-news/openai-spacexin-satn-almasnn-ardndan-cursor-ortaklgn-sonlandracak-4048668",
         "investing:https://tr.investing.com/news/insider-trading-news/virtra-inc-yoneticisi-grant-barber-10136-dolar-degerinde-hisse-ald-93CH-4048665",
         "investing:https://tr.investing.com/news/economy-news/irann-ticareti-abd-basksyla-yuzde-35-dustu-4048664",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-gc-kristen-mcveety-184854-dolarlk-hisse-satt-93CH-4048660",
         "investing:https://tr.investing.com/news/insider-trading-news/optimum-communications-yoneticisi-245-milyon-dolarlk-hisse-ald-93CH-4048659",
         "investing:https://tr.investing.com/news/insider-trading-news/natera-baskan-john-fesko-21-milyon-dolarlk-hisse-satt-93CH-4048658",
-        "investing:https://tr.investing.com/news/stock-market-news/hint-bankalarnn-hisseleri-borsalarda-onlarca-yln-en-buyuk-fiyat-farkn-gosterdi-4048662",
-        "investing:https://tr.investing.com/news/insider-trading-news/monopar-therapeutics-yoneticisi-455566-dolar-degerinde-hisse-satt-93CH-4048656",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -182,6 +182,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/hint-bankalarnn-hisseleri-borsalarda-onlarca-yln-en-buyuk-fiyat-farkn-gosterdi-4048662",
+        "investing:https://tr.investing.com/news/insider-trading-news/monopar-therapeutics-yoneticisi-455566-dolar-degerinde-hisse-satt-93CH-4048656",
         "investing:https://tr.investing.com/news/insider-trading-news/terawulf-ceosu-paul-prager-23-milyon-dolarlk-hisse-satt-93CH-4048657",
         "investing:https://tr.investing.com/news/insider-trading-news/precigen-yoneticisi-jeffrey-kindler-138-milyon-dolarlk-hisse-satt-93CH-4048655",
         "investing:https://tr.investing.com/news/insider-trading-news/biovie-yonetim-kurulu-uyesi-amy-chappell-bivi-hissesi-ald-93CH-4048652",
@@ -497,6 +499,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "ptc therapeutics yoneticisi 1 8 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/ptc-therapeutics-yoneticisi-18-milyon-dolarlk-hisse-satt-93CH-4048673"
+    },
     {
       "source": "investing",
       "text": "ambiq micro cto su scott hanson 3 28 milyon dolarl k hisse satt",
