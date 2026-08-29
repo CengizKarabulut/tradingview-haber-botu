@@ -151,8 +151,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/gen-digital-yoneticisi-ondrej-vlcek-6000000-dolar-degerinde-hisse-satt-93CH-4048680",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/sezzle-yoneticisi-kyle-brehm-125920-dolar-degerinde-hisse-satt-93CH-4048684",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/sezzle-yoneticisi-kyle-brehm-125920-dolar-degerinde-hisse-satt-93CH-4048684",
+        "investing:https://tr.investing.com/news/insider-trading-news/energy-vault-yoneticisi-stephanie-unwin-426983-dolar-degerinde-hisse-satt-93CH-4048683",
+        "investing:https://tr.investing.com/news/stock-market-news/volksbank-brawonun-sorunlar-derinlesirken-alman-bolgesel-bankalar-bask-altnda-4048681",
         "investing:https://tr.investing.com/news/insider-trading-news/gen-digital-yoneticisi-ondrej-vlcek-6000000-dolar-degerinde-hisse-satt-93CH-4048680",
         "investing:https://tr.investing.com/news/economy-news/maliye-bakan-healey-mali-basklar-artarken-temkinli-butce-hazrlyor-4048677",
         "investing:https://tr.investing.com/news/economy-news/reform-uk-is-dunyas-ve-diplomatlar-cekerken-kripto-baglarn-azaltyor-4048675",
@@ -160,9 +163,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/ptc-therapeutics-yoneticisi-18-milyon-dolarlk-hisse-satt-93CH-4048673",
         "investing:https://tr.investing.com/news/insider-trading-news/ambiq-micro-ctosu-scott-hanson-328-milyon-dolarlk-hisse-satt-93CH-4048670",
         "investing:https://tr.investing.com/news/insider-trading-news/ajb-investment-fund-ii-jewett-cameron-hissesine-7354-dolar-yatrd-93CH-4048669",
-        "investing:https://tr.investing.com/news/company-news/cinin-cxmtsi-lpddr6-uretimine-baslad-xiaomi-katlanabilir-telefon-anlasmas-imzalad-4048672",
-        "investing:https://tr.investing.com/news/company-news/openai-spacexin-satn-almasnn-ardndan-cursor-ortaklgn-sonlandracak-4048668",
-        "investing:https://tr.investing.com/news/insider-trading-news/virtra-inc-yoneticisi-grant-barber-10136-dolar-degerinde-hisse-ald-93CH-4048665",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -183,6 +183,9 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/company-news/cinin-cxmtsi-lpddr6-uretimine-baslad-xiaomi-katlanabilir-telefon-anlasmas-imzalad-4048672",
+        "investing:https://tr.investing.com/news/company-news/openai-spacexin-satn-almasnn-ardndan-cursor-ortaklgn-sonlandracak-4048668",
+        "investing:https://tr.investing.com/news/insider-trading-news/virtra-inc-yoneticisi-grant-barber-10136-dolar-degerinde-hisse-ald-93CH-4048665",
         "investing:https://tr.investing.com/news/economy-news/irann-ticareti-abd-basksyla-yuzde-35-dustu-4048664",
         "investing:https://tr.investing.com/news/insider-trading-news/coreweave-gc-kristen-mcveety-184854-dolarlk-hisse-satt-93CH-4048660",
         "investing:https://tr.investing.com/news/insider-trading-news/optimum-communications-yoneticisi-245-milyon-dolarlk-hisse-ald-93CH-4048659",
@@ -315,8 +318,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/18-bitki-koruma-ve-besleme-sirketine-sorusturma-955234.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ham-celik-uretimi-temmuzda-yillik-yuzde-7-artti-955275.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ham-celik-uretimi-temmuzda-yillik-yuzde-7-artti-955275.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/18-bitki-koruma-ve-besleme-sirketine-sorusturma-955234.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kacir-istihdamini-koruyan-isletmelerin-kredi-maliyeti-dusecek-955228.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/caykurda-ikinci-surgun-yas-cay-alimlari-bugun-tamamlanacak-955227.html",
@@ -504,6 +508,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "turkiye nin ham celik uretimi temmuzda y ll k yuzde 7 artt turkiye nin ham celik uretimi temmuzda gecen y l n ayn ay na gore yuzde 7 art sla 3 4 milyon tona yukseldi",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-ham-celik-uretimi-temmuzda-yillik-yuzde-7-artti-955275.html"
+    },
+    {
+      "source": "investing",
+      "text": "sezzle yoneticisi kyle brehm 125 920 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/sezzle-yoneticisi-kyle-brehm-125920-dolar-degerinde-hisse-satt-93CH-4048684"
+    },
+    {
+      "source": "investing",
+      "text": "energy vault yoneticisi stephanie unwin 426 983 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/energy-vault-yoneticisi-stephanie-unwin-426983-dolar-degerinde-hisse-satt-93CH-4048683"
+    },
+    {
+      "source": "investing",
+      "text": "volksbank brawo daki sorunlar almanya n n bolgesel bankalar n zorluyor",
+      "link": "https://tr.investing.com/news/stock-market-news/volksbank-brawonun-sorunlar-derinlesirken-alman-bolgesel-bankalar-bask-altnda-4048681"
+    },
     {
       "source": "investing",
       "text": "gen digital yoneticisi ondrej vlcek 6 000 000 dolar degerinde hisse satt",
