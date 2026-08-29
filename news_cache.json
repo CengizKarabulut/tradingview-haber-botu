@@ -357,8 +357,10 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kacir-son-23-yilda-534-yatirim-icin-tesvik-belgesi-duzenledik-955316.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-teknopark-sayisi-115e-yukseldi-955323.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-teknopark-sayisi-115e-yukseldi-955323.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kacir-teknoloji-girisimlerimizin-yaninda-olmaya-devam-edecegiz-955322.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kacir-son-23-yilda-534-yatirim-icin-tesvik-belgesi-duzenledik-955316.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/goc-idaresi-baskanligi-40-il-goc-uzman-yardimcisi-alacak-955309.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/elektrik-santrallerine-temmuzda-660-milyon-liralik-kapasite-mekanizmasi-destegi-955302.html",
@@ -431,8 +433,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:508550d3ad9e8:0",
+      "last_seen_key": "tradingview:beincrypto:e285334fbd9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:e285334fbd9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:beincrypto:606111bb5d9e8:0",
         "tradingview:beincrypto:3cd754254d9e8:0",
@@ -570,6 +573,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "xrp etf ler 2026 1 6 milyar dolar rekor k rd",
+      "link": "https://tr.tradingview.com/news/beincrypto:e285334fbd9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "turkiye nin teknopark say s 115 e yukseldi sanayi teknoloji bakan mehmet fatih kac r milli savunma universitesi teknoloji gelistirme bolgesi turkiye deki teknopark say s n n 115 e ulast g n bildirdi",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-teknopark-sayisi-115e-yukseldi-955323.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "bakan kac r teknoloji girisimlerimizin yan nda olmaya devam edecegiz sanayi teknoloji bakan mehmet fatih kac r turkiye nin yeni turcorn u hubx in izmir den c kt g na dikkati cekerek ar ge tesviklerimizle teknoloji girisimlerimizin yan nda olmaya devam edecegiz ifadesini kulland",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-teknoloji-girisimlerimizin-yaninda-olmaya-devam-edecegiz-955322.html"
+    },
     {
       "source": "bloomberght",
       "text": "rusya dizel ihracat na yonelik yasag uzatt rus hukumeti dizel gemi yak t gaz yag ihracat na yonelik yasag 30 eylul e kadar uzatt",
