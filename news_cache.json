@@ -100,8 +100,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/kocak-yatirim-ve-sermaye-turizme-geri-dondu-3786790",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/spkdan-serbest-fonlara-sert-fren-3786791",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/spkdan-serbest-fonlara-sert-fren-3786791",
         "bloomberght:https://www.bloomberght.com/kocak-yatirim-ve-sermaye-turizme-geri-dondu-3786790",
         "bloomberght:https://www.bloomberght.com/turkiye-nin-ham-celik-uretimi-yuzde-7-artti-3786789",
         "bloomberght:https://www.bloomberght.com/sanayiciden-ovpye-tam-saha-pres-3786788",
@@ -343,8 +344,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-turcorn-sayisi-8e-ulasti-955293.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/elektrik-santrallerine-temmuzda-660-milyon-liralik-kapasite-mekanizmasi-destegi-955302.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/elektrik-santrallerine-temmuzda-660-milyon-liralik-kapasite-mekanizmasi-destegi-955302.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-turcorn-sayisi-8e-ulasti-955293.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/spkdan-yatirim-fonlarina-yonelik-yeni-duzenleme-955292.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/doa-ile-130-milyon-icecek-ambalaji-geri-donusume-kazandirildi-955291.html",
@@ -541,6 +543,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "elektrik santrallerine temmuzda 660 milyon liral k kapasite mekanizmas destegi turkiye elektrik iletim as teias 16 elektrik uretim santraline temmuz ay 660 milyon lira kapasite odemesi yapacak",
+      "link": "https://www.trthaber.com/haber/ekonomi/elektrik-santrallerine-temmuzda-660-milyon-liralik-kapasite-mekanizmasi-destegi-955302.html"
+    },
+    {
+      "source": "bloomberght",
+      "text": "spk dan serbest fonlara sert fren halka ac kl k oran na gore hisse alma s n r geliyor serbest fon tek bas na dolas mdaki paylar n yuzde 2 ila 8 inden fazlas n alamayacak ayn yoneticinin yonettigi fonlarda toplam s n r yuzde 4 ila 16 aras nda olacak fonda yuzde 5 i",
+      "link": "https://www.bloomberght.com/spkdan-serbest-fonlara-sert-fren-3786791"
+    },
     {
       "source": "kap",
       "text": "gsray transfer gorusmeleri profesyonel futbolcu rafael alexandre conceicao leao hakk nda sirket galatasaray sportif sinai ticari yatirimlar a s",
