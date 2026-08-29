@@ -165,8 +165,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/rusyann-kiev-yaknndaki-saldrsnda-27-kisi-oldu-4048707",
+      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-oustern-48lik-dususunu-nasl-tespit-etti-93CH-4048712",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-oustern-48lik-dususunu-nasl-tespit-etti-93CH-4048712",
+        "investing:https://tr.investing.com/news/stock-market-news/48-saatten-az-sure-kaldi-investingproyu-55-indirimle-aln-4048710",
         "investing:https://tr.investing.com/news/economy-news/rusyann-kiev-yaknndaki-saldrsnda-27-kisi-oldu-4048707",
         "investing:https://tr.investing.com/news/cryptocurrency-news/eos-12-orannda-yukseldi-4048706",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-fiyat-78000-dolarn-altna-geriledi-dijital-altn-tezi-test-ediliyor-4048703",
@@ -175,8 +177,6 @@
         "investing:https://tr.investing.com/news/economy-news/cinin-devasa-petrol-rezervleri-iran-savasnda-pekine-koz-veriyor-4048694",
         "investing:https://tr.investing.com/news/insider-trading-news/freeportmcmoran-yoneticisi-lydia-kennard-300470-dolarlk-hisse-satt-93CH-4048689",
         "investing:https://tr.investing.com/news/stock-market-news/ag-altyaps-yapay-zekann-kritik-katman-haline-geldi-4048691",
-        "investing:https://tr.investing.com/news/insider-trading-news/globalstar-yoneticisi-benjamin-wolff-164-milyon-dolarlk-hisse-satt-93CH-4048687",
-        "investing:https://tr.investing.com/news/insider-trading-news/dst-global-advisors-chime-financial-hisselerini-satt-93CH-4048686",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -197,6 +197,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/insider-trading-news/globalstar-yoneticisi-benjamin-wolff-164-milyon-dolarlk-hisse-satt-93CH-4048687",
+        "investing:https://tr.investing.com/news/insider-trading-news/dst-global-advisors-chime-financial-hisselerini-satt-93CH-4048686",
         "investing:https://tr.investing.com/news/insider-trading-news/royal-gold-baskan-yardmcs-131400-dolar-degerinde-hisse-satt-93CH-4048685",
         "investing:https://tr.investing.com/news/insider-trading-news/sezzle-yoneticisi-kyle-brehm-125920-dolar-degerinde-hisse-satt-93CH-4048684",
         "investing:https://tr.investing.com/news/insider-trading-news/energy-vault-yoneticisi-stephanie-unwin-426983-dolar-degerinde-hisse-satt-93CH-4048683",
@@ -317,8 +319,10 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/uc-ilac-daha-geri-odeme-listesine-alindi-1739409",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/daskta-degisiklik-fonlara-ucte-biri-sarti-getirildi-1739442",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/daskta-degisiklik-fonlara-ucte-biri-sarti-getirildi-1739442",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/130-milyon-icecek-ambalaji-doa-sistemine-girdi-1739440",
         "ntvpara:https://www.ntv.com.tr/ntvpara/uc-ilac-daha-geri-odeme-listesine-alindi-1739409",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-ve-gumuste-sert-dusus-1739362",
         "ntvpara:https://www.ntv.com.tr/ntvpara/fed-baskani-warshtan-faiz-mesaji-enflasyon-endise-verici-1739333",
@@ -543,6 +547,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "dask ta degisiklik fonlara ucte biri sart getirildi dogal afet sigortalar kurumu nun dask fonlar n n yonetiminde yeni donem baslad duzenlemeyle yat r mlara yeni s n rlar getirildi",
+      "link": "https://www.ntv.com.tr/ntvpara/daskta-degisiklik-fonlara-ucte-biri-sarti-getirildi-1739442"
+    },
+    {
+      "source": "ntvpara",
+      "text": "130 milyon icecek ambalaj doa sistemine girdi depozitosu olan ambalajlar doa sistemiyle yaklas k iki ayda 130 milyon icecek ambalaj geri donusum surecine dahil edildi",
+      "link": "https://www.ntv.com.tr/ntvpara/130-milyon-icecek-ambalaji-doa-sistemine-girdi-1739440"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro nun gercege uygun degeri ouster n 48 lik dususunu nas l tespit etti",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-oustern-48lik-dususunu-nasl-tespit-etti-93CH-4048712"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro 55 indirim 48 saatten az sure kald",
+      "link": "https://tr.investing.com/news/stock-market-news/48-saatten-az-sure-kaldi-investingproyu-55-indirimle-aln-4048710"
+    },
     {
       "source": "trthaber",
       "text": "elektrik santrallerine temmuzda 660 milyon liral k kapasite mekanizmas destegi turkiye elektrik iletim as teias 16 elektrik uretim santraline temmuz ay 660 milyon lira kapasite odemesi yapacak",
