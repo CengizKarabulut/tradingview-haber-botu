@@ -150,18 +150,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/kinetik-holdings-yoneticisi-42-milyon-dolarlk-hisse-satt-93CH-4048647",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/biovie-yonetim-kurulu-uyesi-amy-chappell-bivi-hissesi-ald-93CH-4048652",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/biovie-yonetim-kurulu-uyesi-amy-chappell-bivi-hissesi-ald-93CH-4048652",
+        "investing:https://tr.investing.com/news/insider-trading-news/biovie-cmo-joseph-palumbo-10460-dolarlk-hisse-satn-ald-93CH-4048651",
+        "investing:https://tr.investing.com/news/insider-trading-news/matson-ceosu-cox-22-milyon-dolarlk-hisse-satt-93CH-4048650",
+        "investing:https://tr.investing.com/news/insider-trading-news/biovie-cfosu-joanne-kim-5450-dolar-degerinde-hisse-ald-93CH-4048649",
+        "investing:https://tr.investing.com/news/insider-trading-news/biovie-inc-ceosu-cuong-v-do-31636-dolar-degerinde-hisse-ald-93CH-4048648",
         "investing:https://tr.investing.com/news/insider-trading-news/kinetik-holdings-yoneticisi-42-milyon-dolarlk-hisse-satt-93CH-4048647",
         "investing:https://tr.investing.com/news/insider-trading-news/micron-technology-yonetim-kurulu-uyesi-28308-dolar-degerinde-hisse-satt-93CH-4048646",
         "investing:https://tr.investing.com/news/economy-news/beyaz-saray-telepromter-operatoru-bahis-sorusturmasn-sonuclandrd-4048644",
         "investing:https://tr.investing.com/news/insider-trading-news/green-ltf-holdings-ii-lp-life-time-group-hisselerini-satt-93CH-4048643",
         "investing:https://tr.investing.com/news/insider-trading-news/life-time-group-yoneticisi-galashan-1261-milyon-dolarlk-hisse-satt-93CH-4048642",
-        "investing:https://tr.investing.com/news/insider-trading-news/global-ship-lease-cfosu-225-milyon-dolarlk-hisse-satt-93CH-4048641",
-        "investing:https://tr.investing.com/news/insider-trading-news/hamilton-beach-brands-cfosu-97500-dolar-degerinde-hisse-satt-93CH-4048640",
-        "investing:https://tr.investing.com/news/company-news/protagonist-therapeutics-polisitemi-vera-ilac-icin-fda-onay-ald-93CH-4048638",
-        "investing:https://tr.investing.com/news/insider-trading-news/pulse-biosciences-coo-liane-teplitsky-99965-dolarlk-hisse-ald-93CH-4048637",
-        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-strateji-degistirdi-amd-satt-nvidia-ve-broadcom-ald-93CH-4048636",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -182,6 +182,11 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/insider-trading-news/global-ship-lease-cfosu-225-milyon-dolarlk-hisse-satt-93CH-4048641",
+        "investing:https://tr.investing.com/news/insider-trading-news/hamilton-beach-brands-cfosu-97500-dolar-degerinde-hisse-satt-93CH-4048640",
+        "investing:https://tr.investing.com/news/company-news/protagonist-therapeutics-polisitemi-vera-ilac-icin-fda-onay-ald-93CH-4048638",
+        "investing:https://tr.investing.com/news/insider-trading-news/pulse-biosciences-coo-liane-teplitsky-99965-dolarlk-hisse-ald-93CH-4048637",
+        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-strateji-degistirdi-amd-satt-nvidia-ve-broadcom-ald-93CH-4048636",
         "investing:https://tr.investing.com/news/stock-market-news/truist-ve-fifth-third-sorusturma-nedeniyle-mark-walter-sirketine-bagl-urunleri-durdurdu-4048634",
         "investing:https://tr.investing.com/news/insider-trading-news/monopar-therapeutics-yoneticisi-raymond-anderson-351835-dolar-degerinde-hisse-satt-93CH-4048633",
         "investing:https://tr.investing.com/news/insider-trading-news/10x-genomics-ceosu-serge-saxonov-667900-dolarlk-hisse-satt-93CH-4048632",
@@ -480,6 +485,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "biovie yonetim kurulu uyesi amy chappell bivi hissesi ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/biovie-yonetim-kurulu-uyesi-amy-chappell-bivi-hissesi-ald-93CH-4048652"
+    },
+    {
+      "source": "investing",
+      "text": "biovie cmo joseph palumbo 10 460 dolarl k hisse sat n ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/biovie-cmo-joseph-palumbo-10460-dolarlk-hisse-satn-ald-93CH-4048651"
+    },
+    {
+      "source": "investing",
+      "text": "matson ceo su cox 2 2 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/matson-ceosu-cox-22-milyon-dolarlk-hisse-satt-93CH-4048650"
+    },
+    {
+      "source": "investing",
+      "text": "biovie cfo su joanne kim 5 450 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/biovie-cfosu-joanne-kim-5450-dolar-degerinde-hisse-ald-93CH-4048649"
+    },
+    {
+      "source": "investing",
+      "text": "biovie inc ceo su cuong v do 31 636 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/biovie-inc-ceosu-cuong-v-do-31636-dolar-degerinde-hisse-ald-93CH-4048648"
+    },
     {
       "source": "investing",
       "text": "kinetik holdings yoneticisi 4 2 milyon dolarl k hisse satt",
