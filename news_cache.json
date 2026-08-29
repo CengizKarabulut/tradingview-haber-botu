@@ -96,8 +96,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-65-milyar-varillik-rezervin-buyuk-bolumunun-kontrolunu-sagladik-3786786",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/epdk-dan-dogalgaz-akaryakit-ve-lpg-tarifelerine-duzenleme-3786787",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/epdk-dan-dogalgaz-akaryakit-ve-lpg-tarifelerine-duzenleme-3786787",
         "bloomberght:https://www.bloomberght.com/trump-65-milyar-varillik-rezervin-buyuk-bolumunun-kontrolunu-sagladik-3786786",
         "bloomberght:https://www.bloomberght.com/wali-petrol-e-erzincan-da-petrol-arama-ruhsati-3786785",
         "bloomberght:https://www.bloomberght.com/venezuela-abd-ile-petrol-anlasmasini-dogruladi-3786784",
@@ -302,8 +303,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-ve-gumuste-sert-dusus-1739362",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/uc-ilac-daha-geri-odeme-listesine-alindi-1739409",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/uc-ilac-daha-geri-odeme-listesine-alindi-1739409",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-ve-gumuste-sert-dusus-1739362",
         "ntvpara:https://www.ntv.com.tr/ntvpara/fed-baskani-warshtan-faiz-mesaji-enflasyon-endise-verici-1739333",
         "ntvpara:https://www.ntv.com.tr/ntvpara/rekabet-kurumundan-18-sirkete-sorusturma-1739321",
@@ -520,6 +522,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "uc ilac daha geri odeme listesine al nd cal sma sosyal guvenlik bakan vedat is khan sosyal guvenlik kurumu sgk arac l g yla uc ilac n daha geri odeme listesine al nd g n ac klad",
+      "link": "https://www.ntv.com.tr/ntvpara/uc-ilac-daha-geri-odeme-listesine-alindi-1739409"
+    },
+    {
+      "source": "bloomberght",
+      "text": "epdk dan dogalgaz akaryak t lpg tarifelerine duzenleme enerji piyasas duzenleme kurumu epdk baz dogalgaz dag t m sirketlerinin yat r m tavanlar baz akaryak t s v last r lm s petrol gaz lpg tesislerinin hizmet tarifelerini revize etti",
+      "link": "https://www.bloomberght.com/epdk-dan-dogalgaz-akaryakit-ve-lpg-tarifelerine-duzenleme-3786787"
+    },
     {
       "source": "investing",
       "text": "cin in devasa petrol rezervleri iran savas nda pekin e koz veriyor",
