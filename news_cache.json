@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655983",
+      "last_seen_key": "kap:1655984",
       "seen_keys": [
+        "kap:1655984",
         "kap:1655983",
         "kap:1655982",
         "kap:1655981",
@@ -94,8 +95,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/venezuela-abd-ile-petrol-anlasmasini-dogruladi-3786784",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/wali-petrol-e-erzincan-da-petrol-arama-ruhsati-3786785",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/wali-petrol-e-erzincan-da-petrol-arama-ruhsati-3786785",
         "bloomberght:https://www.bloomberght.com/venezuela-abd-ile-petrol-anlasmasini-dogruladi-3786784",
         "bloomberght:https://www.bloomberght.com/spk-yatirim-fonlarina-iliskin-rehber-yayimladi-3786783",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-29082026-3786782",
@@ -512,6 +514,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "wali petrol e erzincan petrol arama ruhsat enerji tabii kaynaklar bakanl g maden petrol isleri genel mudurlugu mapeg wali petrol limited sirketi erzincan daki sahalarda petrol arama ruhsat verdi",
+      "link": "https://www.bloomberght.com/wali-petrol-e-erzincan-da-petrol-arama-ruhsati-3786785"
+    },
+    {
+      "source": "kap",
+      "text": "usak surdurulebilirlik raporu tsrs uyumlu 2025 y l surdurulebilirlik raporu hk sirket usak seramik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655984"
+    },
     {
       "source": "tradingview",
       "text": "trump digital gold buyuk sok 330 000 dolar l k rug pull sonras 98 dusus",
