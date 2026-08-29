@@ -155,8 +155,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/freeportmcmoran-yoneticisi-lydia-kennard-300470-dolarlk-hisse-satt-93CH-4048689",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/cinin-devasa-petrol-rezervleri-iran-savasnda-pekine-koz-veriyor-4048694",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/cinin-devasa-petrol-rezervleri-iran-savasnda-pekine-koz-veriyor-4048694",
         "investing:https://tr.investing.com/news/insider-trading-news/freeportmcmoran-yoneticisi-lydia-kennard-300470-dolarlk-hisse-satt-93CH-4048689",
         "investing:https://tr.investing.com/news/stock-market-news/ag-altyaps-yapay-zekann-kritik-katman-haline-geldi-4048691",
         "investing:https://tr.investing.com/news/insider-trading-news/globalstar-yoneticisi-benjamin-wolff-164-milyon-dolarlk-hisse-satt-93CH-4048687",
@@ -166,7 +167,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/energy-vault-yoneticisi-stephanie-unwin-426983-dolar-degerinde-hisse-satt-93CH-4048683",
         "investing:https://tr.investing.com/news/stock-market-news/volksbank-brawonun-sorunlar-derinlesirken-alman-bolgesel-bankalar-bask-altnda-4048681",
         "investing:https://tr.investing.com/news/insider-trading-news/gen-digital-yoneticisi-ondrej-vlcek-6000000-dolar-degerinde-hisse-satt-93CH-4048680",
-        "investing:https://tr.investing.com/news/economy-news/maliye-bakan-healey-mali-basklar-artarken-temkinli-butce-hazrlyor-4048677",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -187,6 +187,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/maliye-bakan-healey-mali-basklar-artarken-temkinli-butce-hazrlyor-4048677",
         "investing:https://tr.investing.com/news/economy-news/reform-uk-is-dunyas-ve-diplomatlar-cekerken-kripto-baglarn-azaltyor-4048675",
         "investing:https://tr.investing.com/news/insider-trading-news/airbnb-cso-nathan-blecharczyk-37-milyon-dolarlk-hisse-satt-93CH-4048674",
         "investing:https://tr.investing.com/news/insider-trading-news/ptc-therapeutics-yoneticisi-18-milyon-dolarlk-hisse-satt-93CH-4048673",
@@ -519,6 +520,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "cin in devasa petrol rezervleri iran savas nda pekin e koz veriyor",
+      "link": "https://tr.investing.com/news/economy-news/cinin-devasa-petrol-rezervleri-iran-savasnda-pekine-koz-veriyor-4048694"
+    },
     {
       "source": "tradingview",
       "text": "bitcoin etf lerinde 9 gunluk giris serisi sona erdi btc 78 bin dolar n alt na geriledi",
