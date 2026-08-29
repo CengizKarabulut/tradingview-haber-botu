@@ -162,8 +162,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/cryptocurrency-news/eos-12-orannda-yukseldi-4048706",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/rusyann-kiev-yaknndaki-saldrsnda-27-kisi-oldu-4048707",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/rusyann-kiev-yaknndaki-saldrsnda-27-kisi-oldu-4048707",
         "investing:https://tr.investing.com/news/cryptocurrency-news/eos-12-orannda-yukseldi-4048706",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-fiyat-78000-dolarn-altna-geriledi-dijital-altn-tezi-test-ediliyor-4048703",
         "investing:https://tr.investing.com/news/stock-market-news/turkiye-manipulasyon-endiseleri-nedeniyle-hedge-fon-kurallarn-sklastrd-4048700",
@@ -173,7 +174,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/ag-altyaps-yapay-zekann-kritik-katman-haline-geldi-4048691",
         "investing:https://tr.investing.com/news/insider-trading-news/globalstar-yoneticisi-benjamin-wolff-164-milyon-dolarlk-hisse-satt-93CH-4048687",
         "investing:https://tr.investing.com/news/insider-trading-news/dst-global-advisors-chime-financial-hisselerini-satt-93CH-4048686",
-        "investing:https://tr.investing.com/news/insider-trading-news/royal-gold-baskan-yardmcs-131400-dolar-degerinde-hisse-satt-93CH-4048685",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +194,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/insider-trading-news/royal-gold-baskan-yardmcs-131400-dolar-degerinde-hisse-satt-93CH-4048685",
         "investing:https://tr.investing.com/news/insider-trading-news/sezzle-yoneticisi-kyle-brehm-125920-dolar-degerinde-hisse-satt-93CH-4048684",
         "investing:https://tr.investing.com/news/insider-trading-news/energy-vault-yoneticisi-stephanie-unwin-426983-dolar-degerinde-hisse-satt-93CH-4048683",
         "investing:https://tr.investing.com/news/stock-market-news/volksbank-brawonun-sorunlar-derinlesirken-alman-bolgesel-bankalar-bask-altnda-4048681",
@@ -538,6 +539,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "rusya n n kiev yak n ndaki sald r s nda 27 kisi oldu",
+      "link": "https://tr.investing.com/news/economy-news/rusyann-kiev-yaknndaki-saldrsnda-27-kisi-oldu-4048707"
+    },
     {
       "source": "investing",
       "text": "eos 12 oran nda yukseldi",
