@@ -172,8 +172,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/onumuzdeki-hafta-neler-var-4048741",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/jackson-holeda-warsh-8-onemli-ckarm-4048744",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/jackson-holeda-warsh-8-onemli-ckarm-4048744",
+        "investing:https://tr.investing.com/news/economy-news/bae-abdnin-dolar-takasn-engellemesinin-ardndan-banque-misri-sorusturuyor-4048743",
         "investing:https://tr.investing.com/news/economy-news/onumuzdeki-hafta-neler-var-4048741",
         "investing:https://tr.investing.com/news/stock-market-news/glencore-radiant-world-riskine-480-milyon-dolarlk-karslk-ayrd-4048737",
         "investing:https://tr.investing.com/news/economy-news/abd-hazine-bakan-bessent-yendeki-dalgalanmann-risklerini-vurgulad-4048735",
@@ -182,8 +184,6 @@
         "investing:https://tr.investing.com/news/economy-news/goldman-abd-enflasyon-beklentileri-uzerine-3-ders-ckard-4048720",
         "investing:https://tr.investing.com/news/company-news/tenax-tnx103-icin-ek-faz-3-calsma-verilerini-sundu-93CH-4048718",
         "investing:https://tr.investing.com/news/investment-ideas/turk-bankas-fair-value-uyars-sonras-47-getiri-saglad-93CH-4048716",
-        "investing:https://tr.investing.com/news/investment-ideas/fair-value-hedef-holdingi-40lk-dusus-oncesi-nasl-isaretledi-93CH-4048714",
-        "investing:https://tr.investing.com/news/investment-ideas/cbiz-investingpro-gercege-uygun-deger-sinyalinden-sonra-4-ayda-78-yukseldi-93CH-4048713",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -204,6 +204,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/investment-ideas/fair-value-hedef-holdingi-40lk-dusus-oncesi-nasl-isaretledi-93CH-4048714",
+        "investing:https://tr.investing.com/news/investment-ideas/cbiz-investingpro-gercege-uygun-deger-sinyalinden-sonra-4-ayda-78-yukseldi-93CH-4048713",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-oustern-48lik-dususunu-nasl-tespit-etti-93CH-4048712",
         "investing:https://tr.investing.com/news/stock-market-news/48-saatten-az-sure-kaldi-investingproyu-55-indirimle-aln-4048710",
         "investing:https://tr.investing.com/news/economy-news/rusyann-kiev-yaknndaki-saldrsnda-27-kisi-oldu-4048707",
@@ -441,8 +443,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:becdf4afbd9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:83981cd86d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:83981cd86d9e8:0",
         "tradingview:cointelegraph:becdf4afbd9e8:0",
         "tradingview:cointelegraph:dbfdefe95d9e8:0",
         "tradingview:beincrypto:a95c61efdd9e8:0",
@@ -585,6 +588,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "polygon hard fork larda duzeltilen guvenlik ac klar n ac klad",
+      "link": "https://tr.tradingview.com/news/cointelegraph:83981cd86d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "jackson hole warsh 8 onemli c kar m",
+      "link": "https://tr.investing.com/news/economy-news/jackson-holeda-warsh-8-onemli-ckarm-4048744"
+    },
+    {
+      "source": "investing",
+      "text": "bae abd nin dolar takas n engellemesinin ard ndan banque misr i sorusturuyor",
+      "link": "https://tr.investing.com/news/economy-news/bae-abdnin-dolar-takasn-engellemesinin-ardndan-banque-misri-sorusturuyor-4048743"
+    },
     {
       "source": "investing",
       "text": "onumuzdeki hafta neler var",
