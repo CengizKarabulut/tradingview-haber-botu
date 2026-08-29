@@ -96,13 +96,14 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/epdk-dan-dogalgaz-akaryakit-ve-lpg-tarifelerine-duzenleme-3786787",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/sanayiciden-ovpye-tam-saha-pres-3786788",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/sanayiciden-ovpye-tam-saha-pres-3786788",
         "bloomberght:https://www.bloomberght.com/epdk-dan-dogalgaz-akaryakit-ve-lpg-tarifelerine-duzenleme-3786787",
         "bloomberght:https://www.bloomberght.com/trump-65-milyar-varillik-rezervin-buyuk-bolumunun-kontrolunu-sagladik-3786786",
         "bloomberght:https://www.bloomberght.com/wali-petrol-e-erzincan-da-petrol-arama-ruhsati-3786785",
         "bloomberght:https://www.bloomberght.com/venezuela-abd-ile-petrol-anlasmasini-dogruladi-3786784",
-        "bloomberght:https://www.bloomberght.com/spk-yatirim-fonlarina-iliskin-rehber-yayimladi-3786783",
+        "bloomberght:https://www.bloomberght.com/spk-dan-yatirim-fonlarina-yonelik-yeni-duzenleme-3786783",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-29082026-3786782",
         "bloomberght:https://www.bloomberght.com/imf-baskani-ndan-sabitcoinler-icin-kuresel-duzenleme-cagrisi-3786781",
         "bloomberght:https://www.bloomberght.com/bessent-duzensiz-yen-hareketleri-daha-yuksek-faiz-riskini-dogurur-3786778",
@@ -145,6 +146,7 @@
         "bloomberght:https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-28-agustos-2026-doviz-fiyatlari-pkh2-3786651",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-28082026-3786640",
         "bloomberght:https://www.bloomberght.com/yorum/dr-soner-canko/3786732-sepetlere-veda-mi",
+        "bloomberght:https://www.bloomberght.com/spk-yatirim-fonlarina-iliskin-rehber-yayimladi-3786783",
         "bloomberght:https://www.bloomberght.com/spk-belirli-sartlari-saglayan-halka-arzlara-oncelik-verebilecek-3786639",
         "bloomberght:https://www.bloomberght.com/trump-a-gore-rusya-natotopraklarina-saldirmayacak-3786638",
         "bloomberght:https://www.bloomberght.com/trump-iran-la-gorusmek-istemediklerini-soyledi-3786636",
@@ -332,8 +334,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/yapay-zeka-fabrikalari-kobi-ve-girisimcilere-seviye-atlatacak-955286.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/doa-ile-130-milyon-icecek-ambalaji-geri-donusume-kazandirildi-955291.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/doa-ile-130-milyon-icecek-ambalaji-geri-donusume-kazandirildi-955291.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/yapay-zeka-fabrikalari-kobi-ve-girisimcilere-seviye-atlatacak-955286.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kvkkdan-veri-ihlalini-zamaninda-bildirmeyen-sirkete-1-milyon-lira-ceza-955285.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ham-celik-uretimi-temmuzda-yillik-yuzde-7-artti-955275.html",
@@ -527,6 +530,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "doa 130 milyon icecek ambalaj geri donusume kazand r ld turkiye genelinde depozitosu olan ambalajlar doa sistemi kapsam nda 1 temmuz dan yana 130 milyon icecek ambalaj geri donusum surecine dahil edildi",
+      "link": "https://www.trthaber.com/haber/ekonomi/doa-ile-130-milyon-icecek-ambalaji-geri-donusume-kazandirildi-955291.html"
+    },
+    {
+      "source": "bloomberght",
+      "text": "sanayiciden ovp ye tam saha pres dezenflasyondan taviz vermeden uretim kas n koruyabilmek mumkun mu yuksek belirsizlik ortam nda uzun vadeli plan yapmak gelecegi ongormek veya tercihlerimiz konusunda net olmak orta vadeli program sunar getirir goturur reel",
+      "link": "https://www.bloomberght.com/sanayiciden-ovpye-tam-saha-pres-3786788"
+    },
     {
       "source": "tradingview",
       "text": "bis baskan stablecoin lerin buyuk olcekli odemeler guvenilir olmad g n soyledi",
