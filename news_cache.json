@@ -172,8 +172,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/trumpn-venezuela-petrol-anlasmas-elestiri-ald-4048755",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757",
         "investing:https://tr.investing.com/news/economy-news/trumpn-venezuela-petrol-anlasmas-elestiri-ald-4048755",
         "investing:https://tr.investing.com/news/stock-market-news/mark-waltern-sigortaclar-bagl-sirketlere-verilen-krediler-nedeniyle-skntda--wsj-4048752",
         "investing:https://tr.investing.com/news/stock-market-news/guney-koreli-yatrmclar-kaldracl-cip-etflerinden-kacyor-4048750",
@@ -183,7 +184,6 @@
         "investing:https://tr.investing.com/news/economy-news/bae-abdnin-dolar-takasn-engellemesinin-ardndan-banque-misri-sorusturuyor-4048743",
         "investing:https://tr.investing.com/news/economy-news/onumuzdeki-hafta-neler-var-4048741",
         "investing:https://tr.investing.com/news/stock-market-news/glencore-radiant-world-riskine-480-milyon-dolarlk-karslk-ayrd-4048737",
-        "investing:https://tr.investing.com/news/economy-news/abd-hazine-bakan-bessent-yendeki-dalgalanmann-risklerini-vurgulad-4048735",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -204,6 +204,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/abd-hazine-bakan-bessent-yendeki-dalgalanmann-risklerini-vurgulad-4048735",
         "investing:https://tr.investing.com/news/economy-news/ingiltere-hane-halk-butceden-ne-bekliyor-4048730",
         "investing:https://tr.investing.com/news/general-news/italyann-eni-abd-ve-venezuela-yetkilileriyle-petrol-sektorunu-canlandrmak-icin-gorusmelerde-4048725",
         "investing:https://tr.investing.com/news/economy-news/goldman-abd-enflasyon-beklentileri-uzerine-3-ders-ckard-4048720",
@@ -596,6 +597,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "softline hisselerinde uzun vadeli f rsatlar nerede",
+      "link": "https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757"
+    },
     {
       "source": "investing",
       "text": "trump n venezuela petrol anlasmas elestiri ald",
