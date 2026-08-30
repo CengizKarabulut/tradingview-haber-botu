@@ -192,8 +192,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/avrupayi-sert-bir-kis-bekliyor-dogalgaz-stoklari-son-13-yilin-en-dusuk-seviyesinde-1739514",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-acikladi-samsun-carsamba-havalimaninda-yillik-yolcu-kapasitesi-3-milyona-cikacak-1739565",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-acikladi-samsun-carsamba-havalimaninda-yillik-yolcu-kapasitesi-3-milyona-cikacak-1739565",
         "ntvpara:https://www.ntv.com.tr/ntvpara/avrupayi-sert-bir-kis-bekliyor-dogalgaz-stoklari-son-13-yilin-en-dusuk-seviyesinde-1739514",
         "ntvpara:https://www.ntv.com.tr/ntvpara/spkdan-yatirim-fonlarina-yonelik-yeni-duzenleme-1739505",
         "ntvpara:https://www.ntv.com.tr/ntvpara/daskta-degisiklik-fonlara-ucte-biri-sarti-getirildi-1739442",
@@ -223,8 +224,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-teknopark-sayisi-115e-yukseldi-955323.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/emeklilikte-dev-tasarruf-bes-ve-oksde-26-trilyon-lira-birikti-955353.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/emeklilikte-dev-tasarruf-bes-ve-oksde-26-trilyon-lira-birikti-955353.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-teknopark-sayisi-115e-yukseldi-955323.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kacir-teknoloji-girisimlerimizin-yaninda-olmaya-devam-edecegiz-955322.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kacir-son-23-yilda-534-yatirim-icin-tesvik-belgesi-duzenledik-955316.html",
@@ -446,6 +448,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "emeklilikte dev tasarruf bes oks 2 6 trilyon lira birikti bireysel emeklilik sistemi nden emekli olanlar n say s 500 bini asarak 501 bin 81 e ulast bes otomatik kat l m sistemi nde toplam fon buyuklugu ise 2 trilyon 637 9 milyar liraya kat l mc say s 18 2 milyona c kt",
+      "link": "https://www.trthaber.com/haber/ekonomi/emeklilikte-dev-tasarruf-bes-ve-oksde-26-trilyon-lira-birikti-955353.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "bakan uraloglu ac klad samsun carsamba havaliman nda y ll k yolcu kapasitesi 3 milyona c kacak ulast rma altyap bakan abdulkadir uraloglu samsun carsamba havaliman yeni ic d s hatlar terminal binas n n temelini 3 eylul persembe gunu atacaklar n belirtti",
+      "link": "https://www.ntv.com.tr/ntvpara/bakan-uraloglu-acikladi-samsun-carsamba-havalimaninda-yillik-yolcu-kapasitesi-3-milyona-cikacak-1739565"
+    },
     {
       "source": "tradingview",
       "text": "token cokusunun ard ndan real trump coins gold u baslatt g n reddetti",
