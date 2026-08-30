@@ -103,8 +103,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/rusya-ukrayna-nin-enerji-tesislerine-saldiri-hazirliklarina-basladik-3786800",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/izlanda-dan-ab-muzakerelerine-ret-3786801",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/izlanda-dan-ab-muzakerelerine-ret-3786801",
         "bloomberght:https://www.bloomberght.com/rusya-ukrayna-nin-enerji-tesislerine-saldiri-hazirliklarina-basladik-3786800",
         "bloomberght:https://www.bloomberght.com/venezuela-abd-ile-petrol-anlasmasi-25-yil-surecek-3786799",
         "bloomberght:https://www.bloomberght.com/indirim-sonrasi-doviz-mi-para-piyasasi-fonu-mu-3786798",
@@ -158,8 +159,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775",
+      "last_seen_key": "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787",
         "investing:https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775",
         "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
         "investing:https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770",
@@ -169,7 +171,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764",
         "investing:https://tr.investing.com/news/economy-news/rusya-nato-gerilimleri-trmanrken-avrupada-gri-bolge-saldrlarn-artryor-4048761",
         "investing:https://tr.investing.com/news/economy-news/pentagon-venezuela-petrol-girisiminde-35-hisse-alacak-4048759",
-        "investing:https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -189,12 +190,14 @@
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
-        "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581"
+        "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757"
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-acikladi-samsun-carsamba-havalimaninda-yillik-yolcu-kapasitesi-3-milyona-cikacak-1739565",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/iran-savasi-g7-ulkelerinin-borclarini-on-milyarlarca-dolar-artirdi-1739569",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/iran-savasi-g7-ulkelerinin-borclarini-on-milyarlarca-dolar-artirdi-1739569",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-acikladi-samsun-carsamba-havalimaninda-yillik-yolcu-kapasitesi-3-milyona-cikacak-1739565",
         "ntvpara:https://www.ntv.com.tr/ntvpara/avrupayi-sert-bir-kis-bekliyor-dogalgaz-stoklari-son-13-yilin-en-dusuk-seviyesinde-1739514",
         "ntvpara:https://www.ntv.com.tr/ntvpara/spkdan-yatirim-fonlarina-yonelik-yeni-duzenleme-1739505",
@@ -449,6 +452,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "iran savas g7 ulkelerinin borclar n on milyarlarca dolar art rd dunyan n en buyuk gelismis ekonomileri abd iran savas n n baslamas ndan yana artan finansman maliyetleriyle kars kars ya kal yor durum kamu maliyesini olumsuz etkiliyor",
+      "link": "https://www.ntv.com.tr/ntvpara/iran-savasi-g7-ulkelerinin-borclarini-on-milyarlarca-dolar-artirdi-1739569"
+    },
+    {
+      "source": "investing",
+      "text": "bitcoin kuresel etf erisimi yeni benimseme dalgas n sekillendirirken 78 000 dolar civar nda",
+      "link": "https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787"
+    },
+    {
+      "source": "bloomberght",
+      "text": "izlanda dan ab muzakerelerine ret izlanda halk n yuzde 50 den fazlas avrupa birligi ab muzakereleri yeniden baslat ls n m sorusunun yoneltildigi referandumda hay r cevab n verdi",
+      "link": "https://www.bloomberght.com/izlanda-dan-ab-muzakerelerine-ret-3786801"
+    },
     {
       "source": "bloomberght",
       "text": "rusya ukrayna n n enerji tesislerine sald r haz rl klar na baslad k rusya savunma bakanl g ukrayna n n enerji tesislerine yonelik yogun sald r duzenleme haz rl klar na baslad klar n bildirdi",
