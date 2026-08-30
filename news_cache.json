@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655994",
+      "last_seen_key": "kap:1655995",
       "seen_keys": [
+        "kap:1655995",
         "kap:1655994",
         "kap:1655993",
         "kap:1655992",
@@ -159,8 +160,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/arrowhead-plozasiran-icin-duzenleyici-basvuru-planlyor-93CH-4048816",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/aon-kkr-destekli-usi-insurance-17-milyar-dolara-alyor-4048819",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/aon-kkr-destekli-usi-insurance-17-milyar-dolara-alyor-4048819",
         "investing:https://tr.investing.com/news/company-news/arrowhead-plozasiran-icin-duzenleyici-basvuru-planlyor-93CH-4048816",
         "investing:https://tr.investing.com/news/commodities-news/venezuela-petrolu-abdnin-bosalan-rezervlerini-dolduracak-4048814",
         "investing:https://tr.investing.com/news/stock-market-news/son-sansiniz-investingproda-55-indirim-icin-sadece-birkac-saat-kald-4048813",
@@ -170,7 +172,6 @@
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-deger-uyars-yatrmclar-segyodaki-41lik-dususten-korudu-93CH-4048799",
         "investing:https://tr.investing.com/news/investment-ideas/taskus-investingpronun-frsat-tespitinin-ardndan-61-yukseldi-93CH-4048797",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-ceva-hissesini-45-dususten-once-isaretledi-93CH-4048796",
-        "investing:https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -191,6 +192,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794",
         "investing:https://tr.investing.com/news/economy-news/spacex-nasann-43-milyar-dolarlk-roman-teleskopunu-frlatacak-4048793",
         "investing:https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787",
@@ -322,8 +324,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:64f60d274d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:a95eff186d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:a95eff186d9e8:0",
         "tradingview:beincrypto:64f60d274d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:beincrypto:04267daabd9e8:0",
@@ -475,6 +478,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cronos blockchain iddia 75 milyon dolar l k hack girisimi sonras ag durdu",
+      "link": "https://tr.tradingview.com/news/beincrypto:a95eff186d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "aon kkr destekli usi insurance yaklas k 17 milyar dolara sat n almak uzere",
+      "link": "https://tr.investing.com/news/stock-market-news/aon-kkr-destekli-usi-insurance-17-milyar-dolara-alyor-4048819"
+    },
+    {
+      "source": "kap",
+      "text": "bjkas sozlesme feshi profesyonel futbolcumuz amir hadziahmetovic in sozlesme feshi hakk nda sirket besiktas futbol yatirimlari sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655995"
+    },
     {
       "source": "tradingview",
       "text": "anthropic tan claude a egitim torrent ten muzik hamlesi telif krizi gundemde",
