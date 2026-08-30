@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655992",
+      "last_seen_key": "kap:1655994",
       "seen_keys": [
+        "kap:1655994",
+        "kap:1655993",
         "kap:1655992",
         "kap:1655991",
         "kap:1655990",
@@ -159,8 +161,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787",
         "investing:https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775",
         "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
@@ -170,7 +173,6 @@
         "investing:https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765",
         "investing:https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764",
         "investing:https://tr.investing.com/news/economy-news/rusya-nato-gerilimleri-trmanrken-avrupada-gri-bolge-saldrlarn-artryor-4048761",
-        "investing:https://tr.investing.com/news/economy-news/pentagon-venezuela-petrol-girisiminde-35-hisse-alacak-4048759",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -191,6 +193,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/pentagon-venezuela-petrol-girisiminde-35-hisse-alacak-4048759",
         "investing:https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757"
       ]
     },
@@ -307,8 +310,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:e00da2372d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:77344bf79d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:77344bf79d9e8:0",
         "tradingview:cointelegraph:e00da2372d9e8:0",
         "tradingview:beincrypto:06ecbbc71d9e8:0",
         "tradingview:cointelegraph:83981cd86d9e8:0",
@@ -454,6 +458,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "rusya n n sber i usdt kredilerini hedefliyor dijital ruble talebini sorguluyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:77344bf79d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "longi green energy nin ilk yar net zarar gunes sektoru durgunluguyla artt",
+      "link": "https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791"
+    },
+    {
+      "source": "kap",
+      "text": "gsray transfer gorusmelerinin sonuclanmas veya sona ermesi profesyonel futbolcu rafael alexandre conceicao leao transferi hakk nda sirket galatasaray sportif sinai ticari yatirimlar a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655994"
+    },
+    {
+      "source": "kap",
+      "text": "ktlev ozel durum ac klamas genel tuzel kisi ortag m z pusula finans holding a s nin pay al m karar hakk nda sirket katilimevim tasarruf finansman a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1655993"
+    },
     {
       "source": "trthaber",
       "text": "yat r m tesviklerinde imalat zirvede 1770 belge verildi turkiye y l n ilk 6 ay nda 2 bin 410 yat r m tesvik belgesi duzenlendi imalat sektoru 1770 belgeyle ilk s rada yer ald sektorde 189 6 milyar liral k yat r m 41 bin 914 kisilik istihdam ongoruldu",
