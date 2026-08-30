@@ -330,8 +330,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:0fabd3582d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:dd65dce7bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:dd65dce7bd9e8:0",
+        "tradingview:fxstreet:daec72522d9e8:0",
+        "tradingview:fxstreet:ce0775cdbd9e8:0",
         "tradingview:fxstreet:0fabd3582d9e8:0",
         "tradingview:beincrypto:1c898c4a7d9e8:0",
         "tradingview:beincrypto:c1b55d70bd9e8:0",
@@ -493,6 +496,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "south korea industrial output yoy temmuz 5 8 seviyesinden 3 6 seviyesine gerileme gosterdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:dd65dce7bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "south korea industrial output growth temmuz 6 4 seviyesinden 0 2 seviyesine dusus gosterdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:daec72522d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "south korea service sector output temmuz 0 7 seviyesinden 1 3 seviyesine gerileme gosterdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:ce0775cdbd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "abd ordusu haftadaki ilk sald r iran roketatarlar n vurdu",
