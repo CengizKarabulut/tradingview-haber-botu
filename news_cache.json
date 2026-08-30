@@ -162,8 +162,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/taskus-investingpronun-frsat-tespitinin-ardndan-61-yukseldi-93CH-4048797",
+      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpronun-modelleri-turk-hissesinde-46-kazanc-yakalad-93CH-4048801",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-modelleri-turk-hissesinde-46-kazanc-yakalad-93CH-4048801",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-deger-uyars-yatrmclar-segyodaki-41lik-dususten-korudu-93CH-4048799",
         "investing:https://tr.investing.com/news/investment-ideas/taskus-investingpronun-frsat-tespitinin-ardndan-61-yukseldi-93CH-4048797",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-ceva-hissesini-45-dususten-once-isaretledi-93CH-4048796",
         "investing:https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794",
@@ -172,8 +174,6 @@
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787",
         "investing:https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775",
         "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
-        "investing:https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770",
-        "investing:https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zeka-hamlesi-sap-ve-intuit-dustu-amd-guclu-ala-yukseltildi-4048769",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +194,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770",
+        "investing:https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zeka-hamlesi-sap-ve-intuit-dustu-amd-guclu-ala-yukseltildi-4048769",
         "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
         "investing:https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765",
         "investing:https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764",
@@ -236,8 +238,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/yatirim-tesviklerinde-imalat-zirvede-1770-belge-verildi-955360.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kira-sozlesmelerinde-yeni-donem-e-devlet-zorunlu-hale-geliyor-955369.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/kira-sozlesmelerinde-yeni-donem-e-devlet-zorunlu-hale-geliyor-955369.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/yatirim-tesviklerinde-imalat-zirvede-1770-belge-verildi-955360.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-buyume-rakamlari-yarin-aciklanacak-955358.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/emeklilikte-dev-tasarruf-bes-ve-oksde-26-trilyon-lira-birikti-955353.html",
@@ -315,8 +318,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:62b77c3a8d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:c669c2d12d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:c669c2d12d9e8:0",
         "tradingview:beincrypto:62b77c3a8d9e8:0",
         "tradingview:cointelegraph:77344bf79d9e8:0",
         "tradingview:cointelegraph:e00da2372d9e8:0",
@@ -464,6 +468,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "telegram 20 000 dolar a gift nft sat ld durov dan genc kod gelistiricilere destek",
+      "link": "https://tr.tradingview.com/news/beincrypto:c669c2d12d9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "kira sozlesmelerinde yeni donem edevlet zorunlu hale geliyor kira sozlesmelerinin e devlet uzerinden haz rlanmas na yonelik uygulamada bugune kadar 72 bin 581 sozlesme onayland hazine maliye bakanl g sistemi tum kira sozlesmeleri zorunlu hale getirmeye haz rlan yor",
+      "link": "https://www.trthaber.com/haber/ekonomi/kira-sozlesmelerinde-yeni-donem-e-devlet-zorunlu-hale-geliyor-955369.html"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro nun modelleri turk hissesinde 46 kazanc yakalad",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpronun-modelleri-turk-hissesinde-46-kazanc-yakalad-93CH-4048801"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro nun gercege uygun deger uyar s yat r mc lar segyo daki 41 lik dususten korudu",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-deger-uyars-yatrmclar-segyodaki-41lik-dususten-korudu-93CH-4048799"
+    },
     {
       "source": "investing",
       "text": "taskus investingpro nun f rsat tespitinin ard ndan 61 yukseldi",
