@@ -161,8 +161,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794",
+        "investing:https://tr.investing.com/news/economy-news/spacex-nasann-43-milyar-dolarlk-roman-teleskopunu-frlatacak-4048793",
         "investing:https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787",
         "investing:https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775",
@@ -171,8 +173,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zeka-hamlesi-sap-ve-intuit-dustu-amd-guclu-ala-yukseltildi-4048769",
         "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
         "investing:https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765",
-        "investing:https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764",
-        "investing:https://tr.investing.com/news/economy-news/rusya-nato-gerilimleri-trmanrken-avrupada-gri-bolge-saldrlarn-artryor-4048761",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -193,6 +193,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764",
+        "investing:https://tr.investing.com/news/economy-news/rusya-nato-gerilimleri-trmanrken-avrupada-gri-bolge-saldrlarn-artryor-4048761",
         "investing:https://tr.investing.com/news/economy-news/pentagon-venezuela-petrol-girisiminde-35-hisse-alacak-4048759",
         "investing:https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757"
       ]
@@ -458,6 +460,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "haftan n onemli analist tavsiyeleri",
+      "link": "https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794"
+    },
+    {
+      "source": "investing",
+      "text": "spacex nasa n n 4 3 milyar dolarl k roman teleskopunu f rlatacak",
+      "link": "https://tr.investing.com/news/economy-news/spacex-nasann-43-milyar-dolarlk-roman-teleskopunu-frlatacak-4048793"
+    },
     {
       "source": "tradingview",
       "text": "rusya n n sber i usdt kredilerini hedefliyor dijital ruble talebini sorguluyor",
