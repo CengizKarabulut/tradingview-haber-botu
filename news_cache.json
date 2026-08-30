@@ -162,8 +162,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/faraday-future-orta-doguda-robotik-atlmn-genisletiyor-4048825",
+      "last_seen_key": "investing:https://tr.investing.com/news/forex-news/kuresel-doviz-politikasnda-bessent-doktrini-mi-sekilleniyor-4048829",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/forex-news/kuresel-doviz-politikasnda-bessent-doktrini-mi-sekilleniyor-4048829",
         "investing:https://tr.investing.com/news/stock-market-news/faraday-future-orta-doguda-robotik-atlmn-genisletiyor-4048825",
         "investing:https://tr.investing.com/news/company-news/oneok-permian-havzas-varlklarn-443-milyar-dolara-satn-alyor-93CH-4048824",
         "investing:https://tr.investing.com/news/stock-market-news/ukrayna-savunma-teknolojisi-fonu-icin-abd-yatrm-aryor-4048822",
@@ -173,7 +174,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/son-sansiniz-investingproda-55-indirim-icin-sadece-birkac-saat-kald-4048813",
         "investing:https://tr.investing.com/news/stock-market-news/temmuzdan-bu-yana-57-yukselen-bu-yapay-zeka-secimi-devam-ediyor-4048811",
         "investing:https://tr.investing.com/news/economy-news/abdiran-catsmas-dunyay-nasl-yeniden-sekillendirecek-4048809",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-modelleri-turk-hissesinde-46-kazanc-yakalad-93CH-4048801",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +194,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-modelleri-turk-hissesinde-46-kazanc-yakalad-93CH-4048801",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-deger-uyars-yatrmclar-segyodaki-41lik-dususten-korudu-93CH-4048799",
         "investing:https://tr.investing.com/news/investment-ideas/taskus-investingpronun-frsat-tespitinin-ardndan-61-yukseldi-93CH-4048797",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-ceva-hissesini-45-dususten-once-isaretledi-93CH-4048796",
@@ -329,8 +330,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:c1b55d70bd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:0fabd3582d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:0fabd3582d9e8:0",
         "tradingview:beincrypto:c1b55d70bd9e8:0",
         "tradingview:beincrypto:6ff2e9dcad9e8:0",
         "tradingview:beincrypto:10daa0300d9e8:0",
@@ -490,6 +492,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd ordusu haftadaki ilk sald r iran roketatarlar n vurdu",
+      "link": "https://tr.tradingview.com/news/fxstreet:0fabd3582d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "kuresel doviz politikas nda bessent doktrini sekilleniyor",
+      "link": "https://tr.investing.com/news/forex-news/kuresel-doviz-politikasnda-bessent-doktrini-mi-sekilleniyor-4048829"
+    },
     {
       "source": "tradingview",
       "text": "japon yeni yine geriledi 97 milyar dolar destek bitcoin risk",
