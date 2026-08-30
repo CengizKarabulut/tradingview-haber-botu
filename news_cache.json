@@ -162,8 +162,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-ceva-hissesini-45-dususten-once-isaretledi-93CH-4048796",
+      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/taskus-investingpronun-frsat-tespitinin-ardndan-61-yukseldi-93CH-4048797",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/investment-ideas/taskus-investingpronun-frsat-tespitinin-ardndan-61-yukseldi-93CH-4048797",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-ceva-hissesini-45-dususten-once-isaretledi-93CH-4048796",
         "investing:https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794",
         "investing:https://tr.investing.com/news/economy-news/spacex-nasann-43-milyar-dolarlk-roman-teleskopunu-frlatacak-4048793",
@@ -173,7 +174,6 @@
         "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
         "investing:https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zeka-hamlesi-sap-ve-intuit-dustu-amd-guclu-ala-yukseltildi-4048769",
-        "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +194,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
         "investing:https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765",
         "investing:https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764",
         "investing:https://tr.investing.com/news/economy-news/rusya-nato-gerilimleri-trmanrken-avrupada-gri-bolge-saldrlarn-artryor-4048761",
@@ -463,6 +464,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "taskus investingpro nun f rsat tespitinin ard ndan 61 yukseldi",
+      "link": "https://tr.investing.com/news/investment-ideas/taskus-investingpronun-frsat-tespitinin-ardndan-61-yukseldi-93CH-4048797"
+    },
     {
       "source": "tradingview",
       "text": "meme coin savas m geliyor trader lar hisseleri hareket ettirecek token lar pesinde",
