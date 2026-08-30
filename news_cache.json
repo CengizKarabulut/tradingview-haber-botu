@@ -162,8 +162,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794",
+      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-ceva-hissesini-45-dususten-once-isaretledi-93CH-4048796",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-ceva-hissesini-45-dususten-once-isaretledi-93CH-4048796",
         "investing:https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794",
         "investing:https://tr.investing.com/news/economy-news/spacex-nasann-43-milyar-dolarlk-roman-teleskopunu-frlatacak-4048793",
         "investing:https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791",
@@ -173,7 +174,6 @@
         "investing:https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zeka-hamlesi-sap-ve-intuit-dustu-amd-guclu-ala-yukseltildi-4048769",
         "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
-        "investing:https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +194,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765",
         "investing:https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764",
         "investing:https://tr.investing.com/news/economy-news/rusya-nato-gerilimleri-trmanrken-avrupada-gri-bolge-saldrlarn-artryor-4048761",
         "investing:https://tr.investing.com/news/economy-news/pentagon-venezuela-petrol-girisiminde-35-hisse-alacak-4048759",
@@ -313,8 +314,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:77344bf79d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:62b77c3a8d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:62b77c3a8d9e8:0",
         "tradingview:cointelegraph:77344bf79d9e8:0",
         "tradingview:cointelegraph:e00da2372d9e8:0",
         "tradingview:beincrypto:06ecbbc71d9e8:0",
@@ -461,6 +463,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "meme coin savas m geliyor trader lar hisseleri hareket ettirecek token lar pesinde",
+      "link": "https://tr.tradingview.com/news/beincrypto:62b77c3a8d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro gercege uygun deger ceva hissesini 45 dususten once isaretledi",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-ceva-hissesini-45-dususten-once-isaretledi-93CH-4048796"
+    },
     {
       "source": "bloomberght",
       "text": "kira sozlesmeleri e devlet uzerinden zorunlu olacak hazine maliye bakanl g nca kira sozlesmelerinin e devlet kap s uzerinden haz rlanmas n zorunlu hale getirmeye yonelik cal sma yap l yor",
