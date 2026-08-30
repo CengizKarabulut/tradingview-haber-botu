@@ -159,8 +159,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/son-sansiniz-investingproda-55-indirim-icin-sadece-birkac-saat-kald-4048813",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/arrowhead-plozasiran-icin-duzenleyici-basvuru-planlyor-93CH-4048816",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/arrowhead-plozasiran-icin-duzenleyici-basvuru-planlyor-93CH-4048816",
+        "investing:https://tr.investing.com/news/commodities-news/venezuela-petrolu-abdnin-bosalan-rezervlerini-dolduracak-4048814",
         "investing:https://tr.investing.com/news/stock-market-news/son-sansiniz-investingproda-55-indirim-icin-sadece-birkac-saat-kald-4048813",
         "investing:https://tr.investing.com/news/stock-market-news/temmuzdan-bu-yana-57-yukselen-bu-yapay-zeka-secimi-devam-ediyor-4048811",
         "investing:https://tr.investing.com/news/economy-news/abdiran-catsmas-dunyay-nasl-yeniden-sekillendirecek-4048809",
@@ -169,8 +171,6 @@
         "investing:https://tr.investing.com/news/investment-ideas/taskus-investingpronun-frsat-tespitinin-ardndan-61-yukseldi-93CH-4048797",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-ceva-hissesini-45-dususten-once-isaretledi-93CH-4048796",
         "investing:https://tr.investing.com/news/stock-market-news/haftann-onemli-analist-tavsiyeleri-4048794",
-        "investing:https://tr.investing.com/news/economy-news/spacex-nasann-43-milyar-dolarlk-roman-teleskopunu-frlatacak-4048793",
-        "investing:https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -191,6 +191,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/spacex-nasann-43-milyar-dolarlk-roman-teleskopunu-frlatacak-4048793",
+        "investing:https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787",
         "investing:https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775",
         "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
@@ -472,6 +474,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "arrowhead plozasiran duzenleyici basvuru planl yor",
+      "link": "https://tr.investing.com/news/company-news/arrowhead-plozasiran-icin-duzenleyici-basvuru-planlyor-93CH-4048816"
+    },
+    {
+      "source": "investing",
+      "text": "trump venezuela petrolu neredeyse bosalt lm s abd rezervlerini dolduracak",
+      "link": "https://tr.investing.com/news/commodities-news/venezuela-petrolu-abdnin-bosalan-rezervlerini-dolduracak-4048814"
+    },
     {
       "source": "bloomberght",
       "text": "trump venezuela petroluyle abd nin stratejik rezervlerini dolduracag z abd baskan donald trump venezuela petroluyle ulkesinin stratejik petrol rezervlerini yeniden dolduracag n bunun cok yak nda baslayacag n bildirdi",
