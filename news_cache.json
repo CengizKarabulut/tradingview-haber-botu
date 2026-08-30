@@ -172,8 +172,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
         "investing:https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765",
         "investing:https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764",
         "investing:https://tr.investing.com/news/economy-news/rusya-nato-gerilimleri-trmanrken-avrupada-gri-bolge-saldrlarn-artryor-4048761",
@@ -183,7 +184,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/mark-waltern-sigortaclar-bagl-sirketlere-verilen-krediler-nedeniyle-skntda--wsj-4048752",
         "investing:https://tr.investing.com/news/stock-market-news/guney-koreli-yatrmclar-kaldracl-cip-etflerinden-kacyor-4048750",
         "investing:https://tr.investing.com/news/company-news/gm-abd-tarife-basks-artarken-kanadaya-11-milyar-c-yatrm-planlyor-4048749",
-        "investing:https://tr.investing.com/news/stock-market-news/yapay-zekann-hafza-ygn-yatrmclarn-bilmesi-gerekenler-4048746",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -204,6 +204,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/yapay-zekann-hafza-ygn-yatrmclarn-bilmesi-gerekenler-4048746",
         "investing:https://tr.investing.com/news/economy-news/jackson-holeda-warsh-8-onemli-ckarm-4048744",
         "investing:https://tr.investing.com/news/economy-news/bae-abdnin-dolar-takasn-engellemesinin-ardndan-banque-misri-sorusturuyor-4048743",
         "investing:https://tr.investing.com/news/economy-news/onumuzdeki-hafta-neler-var-4048741",
@@ -601,6 +602,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "avrupa orta olcekli sirketlerde jefferies in yukselis bekledigi isimler",
+      "link": "https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767"
+    },
     {
       "source": "investing",
       "text": "iran hurmuz bogaz n n kapal kalacag nda srarl",
