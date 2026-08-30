@@ -172,8 +172,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/gm-abd-tarife-basks-artarken-kanadaya-11-milyar-c-yatrm-planlyor-4048749",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/guney-koreli-yatrmclar-kaldracl-cip-etflerinden-kacyor-4048750",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/guney-koreli-yatrmclar-kaldracl-cip-etflerinden-kacyor-4048750",
         "investing:https://tr.investing.com/news/company-news/gm-abd-tarife-basks-artarken-kanadaya-11-milyar-c-yatrm-planlyor-4048749",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zekann-hafza-ygn-yatrmclarn-bilmesi-gerekenler-4048746",
         "investing:https://tr.investing.com/news/economy-news/jackson-holeda-warsh-8-onemli-ckarm-4048744",
@@ -183,7 +184,6 @@
         "investing:https://tr.investing.com/news/economy-news/abd-hazine-bakan-bessent-yendeki-dalgalanmann-risklerini-vurgulad-4048735",
         "investing:https://tr.investing.com/news/economy-news/ingiltere-hane-halk-butceden-ne-bekliyor-4048730",
         "investing:https://tr.investing.com/news/general-news/italyann-eni-abd-ve-venezuela-yetkilileriyle-petrol-sektorunu-canlandrmak-icin-gorusmelerde-4048725",
-        "investing:https://tr.investing.com/news/economy-news/goldman-abd-enflasyon-beklentileri-uzerine-3-ders-ckard-4048720",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -204,6 +204,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/goldman-abd-enflasyon-beklentileri-uzerine-3-ders-ckard-4048720",
         "investing:https://tr.investing.com/news/company-news/tenax-tnx103-icin-ek-faz-3-calsma-verilerini-sundu-93CH-4048718",
         "investing:https://tr.investing.com/news/investment-ideas/turk-bankas-fair-value-uyars-sonras-47-getiri-saglad-93CH-4048716",
         "investing:https://tr.investing.com/news/investment-ideas/fair-value-hedef-holdingi-40lk-dusus-oncesi-nasl-isaretledi-93CH-4048714",
@@ -593,6 +594,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "guney koreli yat r mc lar kald racl cip etf lerinden kac yor",
+      "link": "https://tr.investing.com/news/stock-market-news/guney-koreli-yatrmclar-kaldracl-cip-etflerinden-kacyor-4048750"
+    },
     {
       "source": "ntvpara",
       "text": "avrupa y sert k s bekliyor dogalgaz stoklar 13 y l n en dusuk seviyesinde dunyada enerji arz ndaki dusus nedeniyle dogalgaz stoklar 13 y l n en dusuk seviyesine geriledi",
