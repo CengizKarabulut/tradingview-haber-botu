@@ -103,8 +103,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/30-agustos-zafer-bayrami-nin-104-uncu-yili-kutlu-olsun-3786797",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/indirim-sonrasi-doviz-mi-para-piyasasi-fonu-mu-3786798",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/indirim-sonrasi-doviz-mi-para-piyasasi-fonu-mu-3786798",
         "bloomberght:https://www.bloomberght.com/30-agustos-zafer-bayrami-nin-104-uncu-yili-kutlu-olsun-3786797",
         "bloomberght:https://www.bloomberght.com/kalibaf-bolge-ulkeleri-arasindaki-anlasmalar-yeni-bir-donemin-mujdecisi-3786796",
         "bloomberght:https://www.bloomberght.com/hubx-mobil-uygulama-alaninda-turkiye-nin-ilk-unicornu-oldu-3786795",
@@ -174,8 +175,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
         "investing:https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zeka-hamlesi-sap-ve-intuit-dustu-amd-guclu-ala-yukseltildi-4048769",
         "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
@@ -185,7 +187,6 @@
         "investing:https://tr.investing.com/news/economy-news/pentagon-venezuela-petrol-girisiminde-35-hisse-alacak-4048759",
         "investing:https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757",
         "investing:https://tr.investing.com/news/economy-news/trumpn-venezuela-petrol-anlasmas-elestiri-ald-4048755",
-        "investing:https://tr.investing.com/news/stock-market-news/mark-waltern-sigortaclar-bagl-sirketlere-verilen-krediler-nedeniyle-skntda--wsj-4048752",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -206,6 +207,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/mark-waltern-sigortaclar-bagl-sirketlere-verilen-krediler-nedeniyle-skntda--wsj-4048752",
         "investing:https://tr.investing.com/news/stock-market-news/guney-koreli-yatrmclar-kaldracl-cip-etflerinden-kacyor-4048750",
         "investing:https://tr.investing.com/news/company-news/gm-abd-tarife-basks-artarken-kanadaya-11-milyar-c-yatrm-planlyor-4048749",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zekann-hafza-ygn-yatrmclarn-bilmesi-gerekenler-4048746",
@@ -606,6 +608,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "burnham ingiltere nin s g nmac sistemini kamu kontrolune almakta zorlan yor",
+      "link": "https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772"
+    },
+    {
+      "source": "bloomberght",
+      "text": "indirim sonras doviz para piyasas fonu mu tcmb nin haftal k repo ihalelerini tekrar acmas faizlerdeki dusus dolar kurunun gorece ayl k yukselisindeki art s iki enstruman n y l sonuna kadar beklenen getirilerinin yeniden gundeme gelmesine neden oldu",
+      "link": "https://www.bloomberght.com/indirim-sonrasi-doviz-mi-para-piyasasi-fonu-mu-3786798"
+    },
     {
       "source": "investing",
       "text": "avrupal merkez bankac lar abd politikas nda daha fazla calkant dan endiseli",
