@@ -157,8 +157,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775",
+        "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
+        "investing:https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770",
+        "investing:https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zeka-hamlesi-sap-ve-intuit-dustu-amd-guclu-ala-yukseltildi-4048769",
+        "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
+        "investing:https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765",
+        "investing:https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764",
+        "investing:https://tr.investing.com/news/economy-news/rusya-nato-gerilimleri-trmanrken-avrupada-gri-bolge-saldrlarn-artryor-4048761",
+        "investing:https://tr.investing.com/news/economy-news/pentagon-venezuela-petrol-girisiminde-35-hisse-alacak-4048759",
+        "investing:https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -289,8 +299,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:06ecbbc71d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:e00da2372d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:e00da2372d9e8:0",
         "tradingview:beincrypto:06ecbbc71d9e8:0",
         "tradingview:cointelegraph:83981cd86d9e8:0",
         "tradingview:cointelegraph:becdf4afbd9e8:0",
@@ -435,6 +446,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "token cokusunun ard ndan real trump coins gold u baslatt g n reddetti",
+      "link": "https://tr.tradingview.com/news/cointelegraph:e00da2372d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "ukrayna n n iha sald r s buyuk rus rafinerisinde yang n c kard",
+      "link": "https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775"
+    },
+    {
+      "source": "investing",
+      "text": "burnham ingiltere nin s g nmac sistemini kamu kontrolune almakta zorlan yor",
+      "link": "https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772"
+    },
+    {
+      "source": "investing",
+      "text": "avrupal merkez bankac lar abd politikas nda daha fazla calkant dan endiseli",
+      "link": "https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770"
+    },
+    {
+      "source": "investing",
+      "text": "analistlerden yapay zeka hamlesi sap intuit dustu amd guclu al a yukseltildi",
+      "link": "https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zeka-hamlesi-sap-ve-intuit-dustu-amd-guclu-ala-yukseltildi-4048769"
+    },
+    {
+      "source": "investing",
+      "text": "jefferies in avrupa orta olcekli hisselerinde one c kard g f rsatlar",
+      "link": "https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767"
+    },
+    {
+      "source": "investing",
+      "text": "iran hurmuz bogaz n n kapal kalacag nda srarl",
+      "link": "https://tr.investing.com/news/economy-news/iran-hurmuz-bogaznn-kapal-kalacagnda-srarl-4048765"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro 55 indirim 24 saatten az sure kald",
+      "link": "https://tr.investing.com/news/stock-market-news/sadece-24-saat-kaldi-investingproyu-55-indirimle-kilitleyin-4048764"
+    },
+    {
+      "source": "investing",
+      "text": "rusya nato gerilimleri t rman rken avrupa gri bolge sald r lar n art r yor",
+      "link": "https://tr.investing.com/news/economy-news/rusya-nato-gerilimleri-trmanrken-avrupada-gri-bolge-saldrlarn-artryor-4048761"
+    },
+    {
+      "source": "investing",
+      "text": "pentagon venezuela petrol girisiminde 35 hisse alacak",
+      "link": "https://tr.investing.com/news/economy-news/pentagon-venezuela-petrol-girisiminde-35-hisse-alacak-4048759"
+    },
+    {
+      "source": "investing",
+      "text": "softline hisselerinde uzun vadeli f rsatlar nerede",
+      "link": "https://tr.investing.com/news/stock-market-news/uzun-vadeli-para-tekstilde-nerede-4048757"
+    },
     {
       "source": "bloomberght",
       "text": "venezuela abd petrol anlasmas 25 y l surecek venezuela gecici devlet baskan delcy rodriguez abd var lan petrol anlasmas n n 25 y l surecegini gunluk petrol uretiminde 1 5 milyon varilin uzerine c k lmas n n hedeflendigini bildirdi",
