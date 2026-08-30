@@ -163,8 +163,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpronun-modelleri-turk-hissesinde-46-kazanc-yakalad-93CH-4048801",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/abdiran-catsmas-dunyay-nasl-yeniden-sekillendirecek-4048809",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/abdiran-catsmas-dunyay-nasl-yeniden-sekillendirecek-4048809",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-modelleri-turk-hissesinde-46-kazanc-yakalad-93CH-4048801",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-deger-uyars-yatrmclar-segyodaki-41lik-dususten-korudu-93CH-4048799",
         "investing:https://tr.investing.com/news/investment-ideas/taskus-investingpronun-frsat-tespitinin-ardndan-61-yukseldi-93CH-4048797",
@@ -174,7 +175,6 @@
         "investing:https://tr.investing.com/news/company-news/longi-green-energynin-ilk-yar-net-zarar-gunes-sektoru-durgunluguyla-artt-4048791",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-kuresel-etf-erisimi-yeni-benimseme-dalgasn-sekillendirirken-78000-dolar-civarnda-4048787",
         "investing:https://tr.investing.com/news/economy-news/ukraynann-iha-saldrs-buyuk-rus-rafinerisinde-yangn-ckard-4048775",
-        "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -195,6 +195,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/economy-news/burnhamn-ingiltere-iltica-sistemini-kamulastrma-plan-zorluklarla-kars-karsya--bloomberg-4048772",
         "investing:https://tr.investing.com/news/economy-news/avrupal-merkez-bankaclar-abd-politikasnda-daha-fazla-calkant-korkusu-yasyor-4048770",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zeka-hamlesi-sap-ve-intuit-dustu-amd-guclu-ala-yukseltildi-4048769",
         "investing:https://tr.investing.com/news/stock-market-news/avrupa-orta-olcekli-sirketlerde-jefferiesin-yukselis-bekledigi-isimler-4048767",
@@ -206,8 +207,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-kira-sozlesmelerinde-yeni-donem-yolda-zorunlu-hale-geliyor-1739607",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-avrupa-merkez-bankacilari-endiseli-abd-ile-gerilim-artabilir-1739612",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-avrupa-merkez-bankacilari-endiseli-abd-ile-gerilim-artabilir-1739612",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-kira-sozlesmelerinde-yeni-donem-yolda-zorunlu-hale-geliyor-1739607",
         "ntvpara:https://www.ntv.com.tr/ntvpara/iran-savasi-g7-ulkelerinin-borclarini-on-milyarlarca-dolar-artirdi-1739569",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-uraloglu-acikladi-samsun-carsamba-havalimaninda-yillik-yolcu-kapasitesi-3-milyona-cikacak-1739565",
@@ -472,6 +474,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "avrupa merkez bankac lar endiseli abd gerilim artabilir fed yetkilileri yedek mekanizmalar n n mudahalesinden rahats z olan avrupal bankac lara guven as lamaya cal ssa gelecekteki politika degisikliklerine kars garanti veremeyeceklerini belirtti",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-avrupa-merkez-bankacilari-endiseli-abd-ile-gerilim-artabilir-1739612"
+    },
+    {
+      "source": "investing",
+      "text": "abd iran cat smas dunyay nas l yeniden sekillendirecek",
+      "link": "https://tr.investing.com/news/economy-news/abdiran-catsmas-dunyay-nasl-yeniden-sekillendirecek-4048809"
+    },
     {
       "source": "tradingview",
       "text": "amerikal sigortac lar dan surpriz hamle emeklilik fonlar ndan 16 milyar dolar ozel kredilere gitti",
