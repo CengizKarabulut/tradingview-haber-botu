@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656504",
+      "last_seen_key": "kap:1656505",
       "seen_keys": [
+        "kap:1656505",
         "kap:1656504",
         "kap:1656503",
         "kap:1656502",
@@ -179,8 +180,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-waters-cinin-yeni-kurallarndan-en-iyi-sekilde-yararlanacak-93CH-4049770",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/artesian-resources-yonetim-kurulu-uyesi-71000-dolar-degerinde-hisse-satt-93CH-4049780",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/artesian-resources-yonetim-kurulu-uyesi-71000-dolar-degerinde-hisse-satt-93CH-4049780",
+        "investing:https://tr.investing.com/news/company-news/weibo-hissesi-688-dolara-duserek-52-haftann-dibini-gordu-93CH-4049779",
         "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-waters-cinin-yeni-kurallarndan-en-iyi-sekilde-yararlanacak-93CH-4049770",
         "investing:https://tr.investing.com/news/economy-news/sec-hissedar-vekalet-onerisi-kurallarnda-degisiklik-planlyor-93CH-4049767",
         "investing:https://tr.investing.com/news/company-news/tenon-medical-3-milyon-dolarlk-ozel-yerlestirme-turunu-kapatt-93CH-4049766",
@@ -189,8 +192,6 @@
         "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-biomarin-icin-hisse-tavsiyesini-yineledi-93CH-4049763",
         "investing:https://tr.investing.com/news/analyst-ratings/uydu-lansman-sonras-raymond-james-viasat-hissesi-icin-outperform-notunu-korudu-93CH-4049762",
         "investing:https://tr.investing.com/news/analyst-ratings/stifele-gore-tecentriq-hissesi-relaxin-hipotezinin-en-iyi-testi-93CH-4049761",
-        "investing:https://tr.investing.com/news/analyst-ratings/wolfe-research-protagonist-therapeutics-hissesi-icin-gorusunu-korudu-93CH-4049760",
-        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-land-hissesi-icin-364-dolar-odedi-93CH-4049758",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -211,6 +212,8 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/analyst-ratings/wolfe-research-protagonist-therapeutics-hissesi-icin-gorusunu-korudu-93CH-4049760",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-land-hissesi-icin-364-dolar-odedi-93CH-4049758",
         "investing:https://tr.investing.com/news/stock-market-news/herbalife-hissesi-bugun-neden-dusuyor-93CH-4049757",
         "investing:https://tr.investing.com/news/stock-market-news/herbalife-hisseleri-dustu-ceo-gratziani-2026da-gorevden-ayrlacak-93CH-4049754",
         "investing:https://tr.investing.com/news/world-news/silide-bakr-uretimi-frtnalar-nedeniyle-2011den-bu-yana-en-dusuk-temmuz-seviyesine-geriledi-93CH-4049753",
@@ -320,7 +323,9 @@
         "tradingview:fxstreet:343d0e96cd9e8:0",
         "tradingview:fxstreet:95b3e4e8ed9e8:0",
         "tradingview:fxstreet:4c981aa3bd9e8:0",
+        "tradingview:beincrypto:41a753ec0d9e8:0",
         "tradingview:fxstreet:1aede82dbd9e8:0",
+        "tradingview:beincrypto:d6f974e88d9e8:0",
         "tradingview:fxstreet:ef49a2eb0d9e8:0",
         "tradingview:cointelegraph:c47ef657ed9e8:0",
         "tradingview:matriks:6708313:0",
@@ -332,7 +337,9 @@
         "tradingview:matriks:6708303:0",
         "tradingview:matriks:6708295:0",
         "tradingview:matriks:6708290:0",
+        "tradingview:matriks:6708287:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44S1EN:0",
+        "tradingview:matriks:6708281:0",
         "tradingview:matriks:6708271:0",
         "tradingview:matriks:6708267:0",
         "tradingview:matriks:6708257:0",
@@ -449,6 +456,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "artesian resources yonetim kurulu uyesi 71 000 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/artesian-resources-yonetim-kurulu-uyesi-71000-dolar-degerinde-hisse-satt-93CH-4049780"
+    },
+    {
+      "source": "investing",
+      "text": "weibo hissesi 6 88 dolara duserek 52 haftan n dibini gordu",
+      "link": "https://tr.investing.com/news/company-news/weibo-hissesi-688-dolara-duserek-52-haftann-dibini-gordu-93CH-4049779"
+    },
+    {
+      "source": "kap",
+      "text": "dagi paylar n geri al nmas na iliskin bildirim 31 agustos 2026 tarihli pay geri al m islemleri sirket dagi giyim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656505"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini abd istihdam verileri oncesinde dolar n zay flamas yla hafif yukseliyor",
