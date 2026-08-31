@@ -162,8 +162,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/sk-hynix-hbm4e-icin-inteli-degerlendiriyor-4048849",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/miniso-hissesi-bugun-neden-dusuyor-93CH-4048852",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/miniso-hissesi-bugun-neden-dusuyor-93CH-4048852",
         "investing:https://tr.investing.com/news/stock-market-news/sk-hynix-hbm4e-icin-inteli-degerlendiriyor-4048849",
         "investing:https://tr.investing.com/news/economic-indicators/cinde-fabrika-faaliyeti-agustosta-ikinci-ayda-da-darald-4048846",
         "investing:https://tr.investing.com/news/stock-market-news/sk-innovation-hisseleri-neden-yukseliste-93CH-4048845",
@@ -173,7 +174,6 @@
         "investing:https://tr.investing.com/news/commodities-news/warshn-acklamalar-sonras-altn-keskin-dususun-ardndan-toparland-4048841",
         "investing:https://tr.investing.com/news/stock-market-news/liontown-resources-lityum-kazanclaryla-ilk-yllk-karn-acklad-93CH-4048839",
         "investing:https://tr.investing.com/news/stock-market-news/bessent-yen-hareketleri-kontrol-altnda-boja-faiz-basks-yok-93CH-4048838",
-        "investing:https://tr.investing.com/news/stock-market-news/abdiran-gerilimi-yeniden-trmand-hisse-senedi-vadeli-islemleri-dustu-4048834",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +194,7 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/abdiran-gerilimi-yeniden-trmand-hisse-senedi-vadeli-islemleri-dustu-4048834",
         "investing:https://tr.investing.com/news/commodities-news/abdnin-irana-saldrs-sonras-petrol-fiyatlar-yukseldi-4048833",
         "investing:https://tr.investing.com/news/economic-indicators/japonyada-sanayi-uretimi-temmuzda-beklenmedik-sekilde-artt-perakende-satslar-yukseldi-4048830",
         "investing:https://tr.investing.com/news/forex-news/kuresel-doviz-politikasnda-bessent-doktrini-mi-sekilleniyor-4048829",
@@ -342,8 +343,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:df66ec189d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:399e2d1b4d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:399e2d1b4d9e8:0",
         "tradingview:fxstreet:df66ec189d9e8:0",
         "tradingview:fxstreet:65135d28ad9e8:0",
         "tradingview:beincrypto:8cd6662dfd9e8:0",
@@ -540,6 +542,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd fed baskan warsh n s k lasmac tonu amid 66 00 civar na dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:399e2d1b4d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "miniso hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/miniso-hissesi-bugun-neden-dusuyor-93CH-4048852"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar yeni zelanda dolar kars s nda 9 temmuz daki en yuksek seviyesinden gevsedi avustralya gsyh si rbnz yi bekliyor",
