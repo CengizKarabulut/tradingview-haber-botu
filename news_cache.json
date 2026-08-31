@@ -2,8 +2,16 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656200",
+      "last_seen_key": "kap:1656208",
       "seen_keys": [
+        "kap:1656208",
+        "kap:1656207",
+        "kap:1656206",
+        "kap:1656205",
+        "kap:1656204",
+        "kap:1656203",
+        "kap:1656202",
+        "kap:1656201",
         "kap:1656200",
         "kap:1656199",
         "kap:1656198",
@@ -56,7 +64,6 @@
         "kap:1656134",
         "kap:1656133",
         "kap:1656132",
-        "kap:1656130",
         "kap:1656129",
         "kap:1656126",
         "kap:1656124",
@@ -90,6 +97,7 @@
         "kap:1656082",
         "kap:1656081",
         "kap:1656080",
+        "kap:1656130",
         "kap:1656078",
         "kap:1656077",
         "kap:1656072",
@@ -169,8 +177,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/israil-ile-yunanistan-arasinda-3-milyar-euroluk-savunma-anlasmasi-3786873",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/bankacilik-sektorunun-7-aylik-krinda-yuzde-24-5-lik-artis-3786877",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/bankacilik-sektorunun-7-aylik-krinda-yuzde-24-5-lik-artis-3786877",
         "bloomberght:https://www.bloomberght.com/israil-ile-yunanistan-arasinda-3-milyar-euroluk-savunma-anlasmasi-3786873",
         "bloomberght:https://www.bloomberght.com/bakan-simsek-ten-buyume-degerlendirmesi-3786868",
         "bloomberght:https://www.bloomberght.com/reel-sektorun-205-milyar-dolarlik-riski-3786861",
@@ -227,18 +236,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/global-filings/trabzonspor-goktan-gurpuzu-200000-euroya-coruma-kiraladi-93CH-4049303",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/polar-power-sistemi-msin-drone-karst-platformuna-entegre-edildi-93CH-4049347",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/global-filings/trabzonspor-goktan-gurpuzu-200000-euroya-coruma-kiraladi-93CH-4049303",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-amscnin-46lk-dususunu-3-ay-once-nasl-tespit-etti-93CH-4049299",
-        "investing:https://tr.investing.com/news/stock-market-news/citi-3-ceyrek-oncesi-kamu-hizmeti-hisselerini-inceledi-93CH-4049298",
-        "investing:https://tr.investing.com/news/stock-market-news/biomarin-hisseleri-ascendis-patent-anlasmas-sonras-yukseldi-93CH-4049295",
-        "investing:https://tr.investing.com/news/global-filings/trabzonspor-400-bin-euroluk-sort-arkas-sponsorluk-anlasmas-imzalad-93CH-4049293",
-        "investing:https://tr.investing.com/news/company-news/aecom-yeni-zelanda-otoyol-projesinde-tasarm-ortag-oldu-93CH-4049286",
-        "investing:https://tr.investing.com/news/economy-news/piyasalarn-beklemedigi-warsh-donusu-4049292",
-        "investing:https://tr.investing.com/news/stock-market-news/edison-international-hisseleri-neden-dusuyor-93CH-4049283",
-        "investing:https://tr.investing.com/news/economic-indicators/hindistan-ekonomisi-nisanhaziran-ceyreginde-78-buyudu-93CH-4049280",
-        "investing:https://tr.investing.com/news/company-news/slb-kelvionu-apollo-fonlarndan-34-milyar-dolara-satn-alyor-93CH-4049278",
+        "investing:https://tr.investing.com/news/company-news/polar-power-sistemi-msin-drone-karst-platformuna-entegre-edildi-93CH-4049347",
+        "investing:https://tr.investing.com/news/company-news/gdev-20-milyon-dolarlk-hisse-geri-alm-teklifi-baslatt-93CH-4049338",
+        "investing:https://tr.investing.com/news/company-news/umh-properties-fannie-maeden-102-milyon-dolarlk-kredi-ald-93CH-4049337",
+        "investing:https://tr.investing.com/news/company-news/netsol-technologies-amerika-ve-avrupada-liderlik-degisiklikleri-acklad-93CH-4049336",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-liberty-latin-america-hissesinde-61-kazanc-nasl-tespit-etti-93CH-4049327",
+        "investing:https://tr.investing.com/news/stock-market-news/gamestop-hisseleri-neden-bugun-yukseliyor-93CH-4049322",
+        "investing:https://tr.investing.com/news/stock-market-news/piyasa-oncesi-hareketler-tenax-snap-yukseldi-miniso-dustu-4049320",
+        "investing:https://tr.investing.com/news/company-news/perpetua-resources-stibnite-projesinde-insaat-ilerletiyor-93CH-4049313",
+        "investing:https://tr.investing.com/news/company-news/origin-agritech-guizhouda-biyoteknoloji-arastrma-merkezi-act-93CH-4049311",
+        "investing:https://tr.investing.com/news/company-news/lillynin-taltz-ve-zepbound-kombinasyonu-bir-ylda-kalc-sonuclar-gosterdi-93CH-4049312",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -259,6 +268,16 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/global-filings/trabzonspor-goktan-gurpuzu-200000-euroya-coruma-kiraladi-93CH-4049303",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-amscnin-46lk-dususunu-3-ay-once-nasl-tespit-etti-93CH-4049299",
+        "investing:https://tr.investing.com/news/stock-market-news/citi-3-ceyrek-oncesi-kamu-hizmeti-hisselerini-inceledi-93CH-4049298",
+        "investing:https://tr.investing.com/news/stock-market-news/biomarin-hisseleri-ascendis-patent-anlasmas-sonras-yukseldi-93CH-4049295",
+        "investing:https://tr.investing.com/news/global-filings/trabzonspor-400-bin-euroluk-sort-arkas-sponsorluk-anlasmas-imzalad-93CH-4049293",
+        "investing:https://tr.investing.com/news/company-news/aecom-yeni-zelanda-otoyol-projesinde-tasarm-ortag-oldu-93CH-4049286",
+        "investing:https://tr.investing.com/news/economy-news/piyasalarn-beklemedigi-warsh-donusu-4049292",
+        "investing:https://tr.investing.com/news/stock-market-news/edison-international-hisseleri-neden-dusuyor-93CH-4049283",
+        "investing:https://tr.investing.com/news/economic-indicators/hindistan-ekonomisi-nisanhaziran-ceyreginde-78-buyudu-93CH-4049280",
+        "investing:https://tr.investing.com/news/company-news/slb-kelvionu-apollo-fonlarndan-34-milyar-dolara-satn-alyor-93CH-4049278",
         "investing:https://tr.investing.com/news/economy-news/katar-ekonomisi-enerji-dususuyle-ilk-ceyrekte-yuzde-7-darald-93CH-4049249",
         "investing:https://tr.investing.com/news/stock-market-news/volkswagen-cfosu-dort-tesiste-ekonomik-uretim-plan-yok-dedi-93CH-4049248",
         "investing:https://tr.investing.com/news/company-news/aon-orta-olcekli-pazar-erisimini-genisletmek-icin-usi-17-milyar-dolara-satn-alyor-93CH-4049240",
@@ -420,8 +439,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6707413:0",
+      "last_seen_key": "tradingview:matriks:6707478:0",
       "seen_keys": [
+        "tradingview:matriks:6707478:0",
+        "tradingview:matriks:6707477:0",
+        "tradingview:fxstreet:b596df2c3d9e8:0",
+        "tradingview:fxstreet:c59509965d9e8:0",
+        "tradingview:matriks:6707444:0",
+        "tradingview:matriks:6707439:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44S0KT:0",
+        "tradingview:matriks:6707429:0",
+        "tradingview:matriks:6707418:0",
+        "tradingview:matriks:6707415:0",
+        "tradingview:matriks:6707414:0",
         "tradingview:matriks:6707413:0",
         "tradingview:matriks:6707412:0",
         "tradingview:matriks:6707411:0",
@@ -620,6 +650,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "m3 para arz temmuz ay nda y ll k 30 5 onceki ay 29 9",
+      "link": "https://tr.tradingview.com/news/matriks:6707478:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "m1 para arz temmuz ay nda y ll k 37 3 onceki ay 34 6",
+      "link": "https://tr.tradingview.com/news/matriks:6707477:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar traderlar rbnz karar n beklerken 0 5900 un uzerinde kal yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b596df2c3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar istihdam verileri s k lasmac fed yeniden fiyatland rmas n test edecek bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:c59509965d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ons alt nda warsh bask s suruyor trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6707444:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ulusoy un un uretimi gerekli bugday hammadde temini icinde yurtici tarafta y l uretimin yuksek seviyelerde gerceklesmis olmas n n etkisiyle herhangi tedarik sorunu yasanmamaktad r",
+      "link": "https://tr.tradingview.com/news/matriks:6707439:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "girne ac klar nda batan feribotta cocuklar n kaybeden ac l anne yasananlar anlatt",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44S0KT:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rusya merkez bankas n n yeni yuksek riskli senaryosu 2027 petrol fiyat n n ortalama varil bas na 35 dolara gerilemesini gsyh nin 3 4 daralmas n enflasyonun 11 13 e yukselmesini ongoruyor",
+      "link": "https://tr.tradingview.com/news/matriks:6707429:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yenileme bankac l k sektorunun net kar temmuz sonunda 596 milyar tl oldu bddk",
+      "link": "https://tr.tradingview.com/news/matriks:6707418:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rusya merkez bankas yak t s k nt lar n n normallesmesini bekliyoruz bunun enflasyon uzerindeki etkisinin s n rl kalacak",
+      "link": "https://tr.tradingview.com/news/matriks:6707415:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankac l k sektoru sermaye yeterliligi standart rasyosu ocak temmuz doneminde 16 61 onceki 16 59 bddk",
+      "link": "https://tr.tradingview.com/news/matriks:6707414:0"
+    },
+    {
+      "source": "investing",
+      "text": "polar power sistemi msi n drone kars t platformuna entegre edildi",
+      "link": "https://tr.investing.com/news/company-news/polar-power-sistemi-msin-drone-karst-platformuna-entegre-edildi-93CH-4049347"
+    },
+    {
+      "source": "investing",
+      "text": "gdev 20 milyon dolarl k hisse geri al m teklifi baslatt",
+      "link": "https://tr.investing.com/news/company-news/gdev-20-milyon-dolarlk-hisse-geri-alm-teklifi-baslatt-93CH-4049338"
+    },
+    {
+      "source": "investing",
+      "text": "umh properties fannie mae den 10 2 milyon dolarl k kredi ald",
+      "link": "https://tr.investing.com/news/company-news/umh-properties-fannie-maeden-102-milyon-dolarlk-kredi-ald-93CH-4049337"
+    },
+    {
+      "source": "investing",
+      "text": "netsol technologies amerika avrupa liderlik degisiklikleri ac klad",
+      "link": "https://tr.investing.com/news/company-news/netsol-technologies-amerika-ve-avrupada-liderlik-degisiklikleri-acklad-93CH-4049336"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro liberty latin america hissesinde 61 kazanc nas l tespit etti",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpro-liberty-latin-america-hissesinde-61-kazanc-nasl-tespit-etti-93CH-4049327"
+    },
+    {
+      "source": "investing",
+      "text": "gamestop hisseleri neden bugun yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/gamestop-hisseleri-neden-bugun-yukseliyor-93CH-4049322"
+    },
+    {
+      "source": "investing",
+      "text": "piyasa oncesi hareketler tenax snap yukseldi miniso dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/piyasa-oncesi-hareketler-tenax-snap-yukseldi-miniso-dustu-4049320"
+    },
+    {
+      "source": "investing",
+      "text": "perpetua resources stibnite projesinde insaat ilerletiyor",
+      "link": "https://tr.investing.com/news/company-news/perpetua-resources-stibnite-projesinde-insaat-ilerletiyor-93CH-4049313"
+    },
+    {
+      "source": "investing",
+      "text": "origin agritech guizhou biyoteknoloji arast rma merkezi act",
+      "link": "https://tr.investing.com/news/company-news/origin-agritech-guizhouda-biyoteknoloji-arastrma-merkezi-act-93CH-4049311"
+    },
+    {
+      "source": "investing",
+      "text": "lilly nin taltz zepbound kombinasyonu y lda kal c sonuclar gosterdi",
+      "link": "https://tr.investing.com/news/company-news/lillynin-taltz-ve-zepbound-kombinasyonu-bir-ylda-kalc-sonuclar-gosterdi-93CH-4049312"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bankac l k sektorunun 7 ayl k kar nda yuzde 24 5 lik art s bankac l k duzenleme denetleme kurumu bddk verilerine gore bankac l k sektorunun ilk yedi ayl k net kar yuzde 24 5 yukselisle 596 4 milyar tl oldu",
+      "link": "https://www.bloomberght.com/bankacilik-sektorunun-7-aylik-krinda-yuzde-24-5-lik-artis-3786877"
+    },
+    {
+      "source": "kap",
+      "text": "tavhl pay baz nda devre kesici bildirimi tavhl e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656208"
+    },
+    {
+      "source": "kap",
+      "text": "edata pay baz nda devre kesici bildirimi edata e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656207"
+    },
+    {
+      "source": "kap",
+      "text": "binho pay baz nda devre kesici bildirimi binho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656206"
+    },
+    {
+      "source": "kap",
+      "text": "arena pay baz nda devre kesici bildirimi arena e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656205"
+    },
+    {
+      "source": "kap",
+      "text": "adel pay baz nda devre kesici bildirimi adel e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656204"
+    },
+    {
+      "source": "kap",
+      "text": "brlsm pay baz nda devre kesici bildirimi brlsm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656203"
+    },
+    {
+      "source": "kap",
+      "text": "tcell pay baz nda devre kesici bildirimi tcell e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656202"
+    },
+    {
+      "source": "kap",
+      "text": "adb adbnk ozel durum ac klamas genel yurticinde halka arz edilmeksizin borclanma arac ihrac hakk nda sirket anadolubank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656201"
+    },
     {
       "source": "tradingview",
       "text": "bankac l k sektoru ozkaynaklar ocak temmuz doneminde 4 trilyon 650 milyar tl onceki 4 trilyon 612 milyar tl bddk",
