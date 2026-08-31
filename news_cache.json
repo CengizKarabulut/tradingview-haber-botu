@@ -162,8 +162,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/abdiran-gerilimi-yeniden-trmand-hisse-senedi-vadeli-islemleri-dustu-4048834",
+      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/warshn-acklamalar-sonras-altn-keskin-dususun-ardndan-toparland-4048841",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/commodities-news/warshn-acklamalar-sonras-altn-keskin-dususun-ardndan-toparland-4048841",
+        "investing:https://tr.investing.com/news/stock-market-news/liontown-resources-lityum-kazanclaryla-ilk-yllk-karn-acklad-93CH-4048839",
+        "investing:https://tr.investing.com/news/stock-market-news/bessent-yen-hareketleri-kontrol-altnda-boja-faiz-basks-yok-93CH-4048838",
         "investing:https://tr.investing.com/news/stock-market-news/abdiran-gerilimi-yeniden-trmand-hisse-senedi-vadeli-islemleri-dustu-4048834",
         "investing:https://tr.investing.com/news/commodities-news/abdnin-irana-saldrs-sonras-petrol-fiyatlar-yukseldi-4048833",
         "investing:https://tr.investing.com/news/economic-indicators/japonyada-sanayi-uretimi-temmuzda-beklenmedik-sekilde-artt-perakende-satslar-yukseldi-4048830",
@@ -171,9 +174,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/faraday-future-orta-doguda-robotik-atlmn-genisletiyor-4048825",
         "investing:https://tr.investing.com/news/company-news/oneok-permian-havzas-varlklarn-443-milyar-dolara-satn-alyor-93CH-4048824",
         "investing:https://tr.investing.com/news/stock-market-news/ukrayna-savunma-teknolojisi-fonu-icin-abd-yatrm-aryor-4048822",
-        "investing:https://tr.investing.com/news/stock-market-news/aon-kkr-destekli-usi-insurance-17-milyar-dolara-alyor-4048819",
-        "investing:https://tr.investing.com/news/company-news/arrowhead-plozasiran-icin-duzenleyici-basvuru-planlyor-93CH-4048816",
-        "investing:https://tr.investing.com/news/commodities-news/venezuela-petrolu-abdnin-bosalan-rezervlerini-dolduracak-4048814",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +194,9 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/aon-kkr-destekli-usi-insurance-17-milyar-dolara-alyor-4048819",
+        "investing:https://tr.investing.com/news/company-news/arrowhead-plozasiran-icin-duzenleyici-basvuru-planlyor-93CH-4048816",
+        "investing:https://tr.investing.com/news/commodities-news/venezuela-petrolu-abdnin-bosalan-rezervlerini-dolduracak-4048814",
         "investing:https://tr.investing.com/news/stock-market-news/son-sansiniz-investingproda-55-indirim-icin-sadece-birkac-saat-kald-4048813",
         "investing:https://tr.investing.com/news/stock-market-news/temmuzdan-bu-yana-57-yukselen-bu-yapay-zeka-secimi-devam-ediyor-4048811",
         "investing:https://tr.investing.com/news/economy-news/abdiran-catsmas-dunyay-nasl-yeniden-sekillendirecek-4048809",
@@ -333,8 +336,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f68399008d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:e1f55cdd2d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:e1f55cdd2d9e8:0",
+        "tradingview:fxstreet:c83cce1e3d9e8:0",
         "tradingview:fxstreet:f68399008d9e8:0",
         "tradingview:fxstreet:cfa9e4580d9e8:0",
         "tradingview:fxstreet:765e45284d9e8:0",
@@ -504,6 +509,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni abd japonya faiz fark iran riskleri aras nda abd dolar kars s nda ayl k en dusuk seviye yak nlar nda k r lgan gorunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e1f55cdd2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7811 seviyesine k yasla 6 7828 olarak belirledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:c83cce1e3d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "warsh n ac klamalar sonras alt n keskin dususun ard ndan toparland",
+      "link": "https://tr.investing.com/news/commodities-news/warshn-acklamalar-sonras-altn-keskin-dususun-ardndan-toparland-4048841"
+    },
+    {
+      "source": "investing",
+      "text": "liontown resources lityum kazanclar yla ilk y ll k kar n ac klad",
+      "link": "https://tr.investing.com/news/stock-market-news/liontown-resources-lityum-kazanclaryla-ilk-yllk-karn-acklad-93CH-4048839"
+    },
+    {
+      "source": "investing",
+      "text": "bessent yen hareketleri kontrol alt nda boj a faiz bask s yok",
+      "link": "https://tr.investing.com/news/stock-market-news/bessent-yen-hareketleri-kontrol-altnda-boja-faiz-basks-yok-93CH-4048838"
+    },
     {
       "source": "tradingview",
       "text": "wti ham petrol fiyat abd sald r lar n n ard ndan iran n fuze f rlatmas yla 83 50 n uzerinde seyrediyor",
