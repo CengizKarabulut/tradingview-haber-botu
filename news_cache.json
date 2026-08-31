@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656500",
+      "last_seen_key": "kap:1656504",
       "seen_keys": [
+        "kap:1656504",
+        "kap:1656503",
+        "kap:1656502",
+        "kap:1656501",
         "kap:1656500",
         "kap:1656499",
         "kap:1656490",
@@ -311,8 +315,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:4c981aa3bd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:343d0e96cd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:343d0e96cd9e8:0",
+        "tradingview:fxstreet:95b3e4e8ed9e8:0",
         "tradingview:fxstreet:4c981aa3bd9e8:0",
         "tradingview:fxstreet:1aede82dbd9e8:0",
         "tradingview:fxstreet:ef49a2eb0d9e8:0",
@@ -346,7 +352,10 @@
         "tradingview:fxstreet:db7f9bc8fd9e8:0",
         "tradingview:cointelegraph:5c867312cd9e8:0",
         "tradingview:beincrypto:a11ed251cd9e8:0",
+        "tradingview:matriks:6708149:0",
         "tradingview:fxstreet:5fbb64233d9e8:0",
+        "tradingview:matriks:6708145:0",
+        "tradingview:matriks:6708144:0",
         "tradingview:matriks:6708119:0",
         "tradingview:matriks:6708115:0",
         "tradingview:matriks:6708099:0",
@@ -440,6 +449,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini abd istihdam verileri oncesinde dolar n zay flamas yla hafif yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:343d0e96cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dolar endeksi savas s k lasmac yeniden fiyatland rma nedeniyle dusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:95b3e4e8ed9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "paseu kredi derecelendirmesi kredi derecelendirme bildirimi sirket pasifik eurasia lojistik dis ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656504"
+    },
+    {
+      "source": "kap",
+      "text": "grm gryat yat r m kurulusu varant sertifika senetlerine iliskin bildirim garanti yat r m arac kurulus varantlar n n itfa bildirimi sirket garanti yatirim menkul kiymetler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656503"
+    },
+    {
+      "source": "kap",
+      "text": "meysu ozel durum ac klamas genel istinaf mahkemesine cevap kars beyan dilekcesi hk sirket meysu gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656502"
+    },
+    {
+      "source": "kap",
+      "text": "skp genel ac klama yat r m fonlar na iliskin rehber degisikliklerine uyum hk sirket tera portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656501"
+    },
     {
       "source": "investing",
       "text": "morgan stanley waters cin in yeni kurallar ndan en iyi sekilde yararlanacak",
