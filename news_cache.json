@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656365",
+      "last_seen_key": "kap:1656368",
       "seen_keys": [
+        "kap:1656368",
+        "kap:1656367",
+        "kap:1656366",
         "kap:1656365",
         "kap:1656364",
         "kap:1656363",
@@ -624,8 +627,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:6dfff2043d9e8:0",
+      "last_seen_key": "tradingview:matriks:6708038:0",
       "seen_keys": [
+        "tradingview:matriks:6708038:0",
+        "tradingview:fxstreet:311685968d9e8:0",
+        "tradingview:matriks:6708030:0",
+        "tradingview:matriks:6708026:0",
+        "tradingview:matriks:6708025:0",
+        "tradingview:matriks:6708024:0",
+        "tradingview:matriks:6708015:0",
         "tradingview:fxstreet:6dfff2043d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44S16H:0",
         "tradingview:matriks:6707970:0",
@@ -638,10 +648,12 @@
         "tradingview:matriks:6707941:0",
         "tradingview:matriks:6707936:0",
         "tradingview:matriks:6707930:0",
+        "tradingview:cointelegraph:45d6c7be8d9e8:0",
         "tradingview:matriks:6707909:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44S0QJ:0",
         "tradingview:matriks:6707886:0",
         "tradingview:fxstreet:0ed6d1ce1d9e8:0",
+        "tradingview:cointelegraph:e38e5b76ed9e8:0",
         "tradingview:fxstreet:b2cfc6b06d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44S0PQ:0",
         "tradingview:matriks:6707851:0",
@@ -650,6 +662,8 @@
         "tradingview:matriks:6707817:0",
         "tradingview:fxstreet:d5dedc5aed9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44S0OU:0",
+        "tradingview:beincrypto:a734d20d1d9e8:0",
+        "tradingview:fxstreet:04f251990d9e8:0",
         "tradingview:fxstreet:ac237a838d9e8:0",
         "tradingview:matriks:6707801:0",
         "tradingview:matriks:6707796:0",
@@ -658,6 +672,7 @@
         "tradingview:fxstreet:fc0f27cf8d9e8:0",
         "tradingview:cointelegraph:9a466e5dbd9e8:0",
         "tradingview:fxstreet:199b3e303d9e8:0",
+        "tradingview:beincrypto:a6e50ba8ed9e8:0",
         "tradingview:matriks:6707736:0",
         "tradingview:matriks:6707729:0",
         "tradingview:matriks:6707716:0",
@@ -671,6 +686,11 @@
         "tradingview:beincrypto:a8977a1a2d9e8:0",
         "tradingview:matriks:6707584:0",
         "tradingview:fxstreet:5a1b3e3abd9e8:0",
+        "tradingview:fxstreet:3c21bb735d9e8:0",
+        "tradingview:fxstreet:1b7f0d1bad9e8:0",
+        "tradingview:fxstreet:57eadd06cd9e8:0",
+        "tradingview:fxstreet:ba180b0b2d9e8:0",
+        "tradingview:fxstreet:b649a17ecd9e8:0",
         "tradingview:matriks:6707564:0",
         "tradingview:beincrypto:db2a6e5edd9e8:0",
         "tradingview:matriks:6707535:0",
@@ -913,6 +933,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hazine maliye bakanl g eylul ay nda 5 borclanma ihalesi gerceklestirmeyi planl yor",
+      "link": "https://tr.tradingview.com/news/matriks:6708038:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "singapur dolar abd dolar kars s nda sert dususun ard ndan aral k icinde konsolidasyon uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:311685968d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine maliye bakanl g kas m ay nda 122 7 milyar tl lik ic borc servisi 110 4 milyar tl ic borclanma planl yor",
+      "link": "https://tr.tradingview.com/news/matriks:6708030:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine maliye bakanl g ekim ay nda 409 1 milyar tl lik ic borc servisi 409 1 milyar tl ic borclanma planl yor",
+      "link": "https://tr.tradingview.com/news/matriks:6708026:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine maliye bakanl g eylul ay nda 296 7 milyar tl lik ic borc servisi 281 9 milyar tl ic borclanma planl yor",
+      "link": "https://tr.tradingview.com/news/matriks:6708025:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "merkez bankas n n sonraki is gunu ac klad g gecici rezerv 715194 1 milyon tl",
+      "link": "https://tr.tradingview.com/news/matriks:6708024:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd nin 5 y ll k tahvil faizi yuzde 4 5 ocak 2025 ten yana en yuksek seviyesine ulast bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6708015:0"
+    },
+    {
+      "source": "kap",
+      "text": "ssaat pay baz nda devre kesici bildirimi ssaat e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656368"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr pay baz nda devre kesici bildirimi sdttr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656367"
+    },
+    {
+      "source": "kap",
+      "text": "akbnk ihrac belgesi yurt d s borclanma arac senelik izin yenilemesine iliskin spk onayl ihrac belgesi sirket akbank t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656366"
+    },
     {
       "source": "tradingview",
       "text": "euro abd dolar n n momentumdan yoksun kalmas yla mutevaz kazanclar n koruyor euro bolgesi enflasyonu odakta",
