@@ -359,12 +359,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6706233:0",
+      "last_seen_key": "tradingview:matriks:6706252:0",
       "seen_keys": [
+        "tradingview:matriks:6706252:0",
+        "tradingview:fxstreet:e5acdc5d3d9e8:0",
+        "tradingview:matriks:6706238:0",
+        "tradingview:fxstreet:e341e6765d9e8:0",
+        "tradingview:matriks:6706236:0",
+        "tradingview:matriks:6706235:0",
         "tradingview:matriks:6706233:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44S0AZ:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44S08M:0",
-        "tradingview:fxstreet:e341e6765d9e8:0",
         "tradingview:fxstreet:b1072aa33d9e8:0",
         "tradingview:matriks:6706215:0",
         "tradingview:matriks:6706213:0",
@@ -377,6 +382,7 @@
         "tradingview:fxstreet:d12a958b0d9e8:0",
         "tradingview:matriks:6706189:0",
         "tradingview:matriks:6706185:0",
+        "tradingview:beincrypto:3bc3d9ef9d9e8:0",
         "tradingview:matriks:6706180:0",
         "tradingview:matriks:6706176:0",
         "tradingview:matriks:6706174:0",
@@ -437,6 +443,7 @@
         "tradingview:fxstreet:0e5d684b8d9e8:0",
         "tradingview:fxstreet:234ccc026d9e8:0",
         "tradingview:fxstreet:360d6f654d9e8:0",
+        "tradingview:cointelegraph:2c7c22df1d9e8:0",
         "tradingview:beincrypto:5e53f1b08d9e8:0",
         "tradingview:fxstreet:399e2d1b4d9e8:0",
         "tradingview:beincrypto:3250eca67d9e8:0",
@@ -637,6 +644,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "teknik bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6706252:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "usd jpy fiyat analizi yukselis egilimi 160 00 nin alt nda devam ederken ayl k zirveden geri cekiliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e5acdc5d3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "glokal barometre garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6706238:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "motorin grubunda otv kaynakl fiyat art s bekleniyor",
+      "link": "https://tr.tradingview.com/news/matriks:6706236:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ocak temmuz doneminde turkiye nin tdt uyesi ulkelerle d s ticaret hacmi gecen y l n ayn donemine gore yuzde 6 6 artt",
+      "link": "https://tr.tradingview.com/news/matriks:6706235:0"
+    },
     {
       "source": "tradingview",
       "text": "haftaya makro bak s veriden gorunume",
