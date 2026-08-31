@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656130",
+      "last_seen_key": "kap:1656136",
       "seen_keys": [
+        "kap:1656136",
+        "kap:1656134",
+        "kap:1656133",
+        "kap:1656132",
         "kap:1656130",
         "kap:1656129",
         "kap:1656127",
@@ -70,7 +74,6 @@
         "kap:1656045",
         "kap:1656044",
         "kap:1656043",
-        "kap:1656042",
         "kap:1656041",
         "kap:1656039",
         "kap:1656038",
@@ -91,6 +94,7 @@
         "kap:1656021",
         "kap:1656020",
         "kap:1656018",
+        "kap:1656042",
         "kap:1656017",
         "kap:1656016",
         "kap:1656015",
@@ -325,8 +329,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:011ebfe20d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:8a7aa14b0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:8a7aa14b0d9e8:0",
+        "tradingview:fxstreet:c357cf5c6d9e8:0",
+        "tradingview:fxstreet:189ca005fd9e8:0",
+        "tradingview:fxstreet:3c9ab85a1d9e8:0",
         "tradingview:fxstreet:011ebfe20d9e8:0",
         "tradingview:fxstreet:99be70ae3d9e8:0",
         "tradingview:matriks:6707069:0",
@@ -493,6 +501,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "asya dovizleri fed in yeniden fiyatlanmas bolgesel para birimleri uzerinde bask olusturuyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:8a7aa14b0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat bugun fxstreet verilerine gore gumus fiyat yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:c357cf5c6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur jpy fiyat analizi 185 50 civar ndaki dokuz gunluk ema n n alt nda kalmay surduruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:189ca005fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar ticaret riskleri getirilerde mutevaz asag yonlu seyir hsbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:3c9ab85a1d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "binbn pay baz nda devre kesici bildirimi binbn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656136"
+    },
+    {
+      "source": "kap",
+      "text": "akm akmen piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi 24 08 2026 28 08 2026 tarih aral g nda gerceklesen borsa yat r m fonlar piyasa yap c islemleri sirket ak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656134"
+    },
+    {
+      "source": "kap",
+      "text": "akm akmen yat r m kurulusu varant sertifika senetlerine iliskin bildirim varant sertifika py al m sat m bildirimi sirket ak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656133"
+    },
+    {
+      "source": "kap",
+      "text": "akm akmen likidite saglay c l k kapsam ndaki islemler klsyn paylar nda likidite saglay c l g kapsam nda gerceklestirilen islemler 17 08 2026 28 08 2026 sirket ak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656132"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar s k lasmac fed fiyatlamas dolar istihdam verileri oncesinde destekliyor bbh",
