@@ -2,8 +2,32 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656401",
+      "last_seen_key": "kap:1656452",
       "seen_keys": [
+        "kap:1656452",
+        "kap:1656451",
+        "kap:1656450",
+        "kap:1656449",
+        "kap:1656446",
+        "kap:1656445",
+        "kap:1656444",
+        "kap:1656443",
+        "kap:1656440",
+        "kap:1656435",
+        "kap:1656433",
+        "kap:1656430",
+        "kap:1656427",
+        "kap:1656426",
+        "kap:1656424",
+        "kap:1656421",
+        "kap:1656420",
+        "kap:1656418",
+        "kap:1656417",
+        "kap:1656413",
+        "kap:1656411",
+        "kap:1656409",
+        "kap:1656407",
+        "kap:1656402",
         "kap:1656401",
         "kap:1656400",
         "kap:1656399",
@@ -25,7 +49,6 @@
         "kap:1656372",
         "kap:1656371",
         "kap:1656370",
-        "kap:1656369",
         "kap:1656368",
         "kap:1656367",
         "kap:1656366",
@@ -76,6 +99,7 @@
         "kap:1656320",
         "kap:1656319",
         "kap:1656318",
+        "kap:1656369",
         "kap:1656317",
         "kap:1656315",
         "kap:1656313",
@@ -377,8 +401,14 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/bessent-iran-yaptrmlar-muzakereye-cekmek-icin-93CH-4049722",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/nuo-therapeutics-ceocfo-jorden-9538-dolarlk-hisse-ald-93CH-4049742",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/nuo-therapeutics-ceocfo-jorden-9538-dolarlk-hisse-ald-93CH-4049742",
+        "investing:https://tr.investing.com/news/insider-trading-news/muncy-columbiann-finans-direktoru-tompkins-3672-dolarlk-hisse-satt-93CH-4049741",
+        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-fiserv-hissesi-icin-tavsiyesini-korudu-93CH-4049740",
+        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-kripto-momentumunda-coinbase-hisse-hedefini-yukseltti-93CH-4049739",
+        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-elastic-hissesi-icin-100-dolarlk-notr-notunu-korudu-93CH-4049738",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-brc-hisse-hedef-fiyatn-ters-bolunme-sonras-25-dolara-yukseltti-93CH-4049737",
         "investing:https://tr.investing.com/news/economy-news/bessent-iran-yaptrmlar-muzakereye-cekmek-icin-93CH-4049722",
         "investing:https://tr.investing.com/news/stock-market-news/muskn-gunes-enerjisi-plan-howmet-ge-vernova-ve-siemens-hisselerini-dusurdu-93CH-4049721",
         "investing:https://tr.investing.com/news/company-news/mayo-lake-minerals-finansman-ve-hisse-birlestirmeyi-iptal-etti-93CH-4049720",
@@ -985,6 +1015,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "nuo therapeutics ceo cfo jorden 9 538 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/nuo-therapeutics-ceocfo-jorden-9538-dolarlk-hisse-ald-93CH-4049742"
+    },
+    {
+      "source": "investing",
+      "text": "muncy columbia n n finans direktoru tompkins 3 672 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/muncy-columbiann-finans-direktoru-tompkins-3672-dolarlk-hisse-satt-93CH-4049741"
+    },
+    {
+      "source": "investing",
+      "text": "cantor fitzgerald fiserv hissesi tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-fiserv-hissesi-icin-tavsiyesini-korudu-93CH-4049740"
+    },
+    {
+      "source": "investing",
+      "text": "cantor fitzgerald kripto momentumunda coinbase hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-kripto-momentumunda-coinbase-hisse-hedefini-yukseltti-93CH-4049739"
+    },
+    {
+      "source": "investing",
+      "text": "cantor fitzgerald elastic hissesi 100 dolarl k notr notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-elastic-hissesi-icin-100-dolarlk-notr-notunu-korudu-93CH-4049738"
+    },
+    {
+      "source": "investing",
+      "text": "davidson brc hisse hedef fiyat n ters bolunme sonras 25 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/da-davidson-brc-hisse-hedef-fiyatn-ters-bolunme-sonras-25-dolara-yukseltti-93CH-4049737"
+    },
+    {
+      "source": "kap",
+      "text": "ucaym halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu sirket ucay muhendislik enerji iklimlendirme teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656452"
+    },
+    {
+      "source": "kap",
+      "text": "ucaym sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sirket ucay muhendislik enerji iklimlendirme teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656451"
+    },
+    {
+      "source": "kap",
+      "text": "hlvks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz yurtici kira sertifikas ihrac nitelikli yat r mc ya sat s n tamamlanmas hk sirket halk varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656450"
+    },
+    {
+      "source": "kap",
+      "text": "jcrav kredi derecelendirmesi kredi derecelendirme bildirimi sirket jcr avrasya derecelendirme a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656449"
+    },
+    {
+      "source": "kap",
+      "text": "fny qnbin piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi 31 08 2026 tarihli piyasa yap c islemler sirket qnb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656446"
+    },
+    {
+      "source": "kap",
+      "text": "blume pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656445"
+    },
+    {
+      "source": "kap",
+      "text": "vpy pay al m sat m bildirimi pay al m sat m islemlerine iliskin ozel durum ac klamas sirket vega portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656444"
+    },
+    {
+      "source": "kap",
+      "text": "mercn paylar n geri al nmas na iliskin bildirim 31 08 2026 tarihli pay geri al m islemleri sirket mercan kimya sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656443"
+    },
+    {
+      "source": "kap",
+      "text": "akfgy genel kurul islemlerine iliskin bildirim olaganustu genel kurul toplant s sonucu sirket akfen gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656440"
+    },
+    {
+      "source": "kap",
+      "text": "dirit sermaye art r m azalt m islemlerine iliskin bildirim tahsisli sermaye art r m spk on onay hakk nda sirket diriteks dirilis tekstil sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656435"
+    },
+    {
+      "source": "kap",
+      "text": "endae ortakl k aleyhine dava ac lmas veya davaya iliskin gelismeler dava sonucu hakk nda sirket enda enerji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656433"
+    },
+    {
+      "source": "kap",
+      "text": "info iyf likidite saglay c l k kapsam ndaki islemler taten paylar nda likidite saglay c l k faaliyetleri kapsam nda gerceklestirilen islemler sirket info yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656430"
+    },
+    {
+      "source": "kap",
+      "text": "hlgyo sirket genel bilgi formu sirket halk gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656427"
+    },
+    {
+      "source": "kap",
+      "text": "bagfs ozel durum ac klamas genel bag ms z yonetim kurulu uyeligi aday n n uygunluguna iliskin spk onay sirket bagfas bandirma gubre fabrikalari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656426"
+    },
+    {
+      "source": "kap",
+      "text": "hlgyo ozel durum ac klamas genel adi ortakl k kurulmas sirket halk gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656424"
+    },
+    {
+      "source": "kap",
+      "text": "gedik ihrac tavan na iliskin bildirim borclanma arac ihrac tavan na iliskin yonetim kurulu karar al nmas spk basvurusu hakk nda sirket gedik yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656421"
+    },
+    {
+      "source": "kap",
+      "text": "garan tgb sirket genel bilgi formu sirket turkiye garanti bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656420"
+    },
+    {
+      "source": "kap",
+      "text": "garan tgb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren mtn ihrac itfas sirket turkiye garanti bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656418"
+    },
+    {
+      "source": "kap",
+      "text": "a1cap acp genel kurul islemlerine iliskin bildirim olaganustu genel kurulu daveti sirket a1 capital yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656417"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi borsa yat r m fonu piyasa yap c l g islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656413"
+    },
+    {
+      "source": "kap",
+      "text": "krgyo sirket genel bilgi formu sirket korfez gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656411"
+    },
+    {
+      "source": "kap",
+      "text": "krgyo ozel durum ac klamas genel bag ms z yonetim kurulu uyesinin istifas hk sirket korfez gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656409"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym yat r m kurulusu varant sertifika senetlerine iliskin bildirim is yat r m sertifika varant al m sat m islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656407"
+    },
+    {
+      "source": "kap",
+      "text": "bls blsmd pay al m teklifi yoluyla pay toplanmas na iliskin bildirim tgs d s ticaret a s paylar na yonelik zorunlu pay al m teklifi sirket bulls yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656402"
+    },
     {
       "source": "tradingview",
       "text": "warsh sonras faiz bask s artt petrol wall street i zorluyor ikon menkul",
