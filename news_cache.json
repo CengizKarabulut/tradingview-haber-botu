@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656473",
+      "last_seen_key": "kap:1656477",
       "seen_keys": [
+        "kap:1656477",
+        "kap:1656476",
+        "kap:1656475",
+        "kap:1656474",
         "kap:1656473",
         "kap:1656472",
         "kap:1656471",
@@ -129,6 +133,7 @@
         "bloomberght:https://www.bloomberght.com/yende-yeni-mudahale-beklentisi-3786818",
         "bloomberght:https://www.bloomberght.com/tahvil-yatirimcilari-fedin-faiz-artiracagina-supheyle-yaklasiyor-3786817",
         "bloomberght:https://www.bloomberght.com/altinda-sahin-fed-etkisi-3786816",
+        "bloomberght:https://www.bloomberght.com/piyasa-ozeti-31-agustos-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3786923",
         "bloomberght:https://www.bloomberght.com/guncel-altin-fiyatlari-31-agustos-2026-pazartesi-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3786831",
         "bloomberght:https://www.bloomberght.com/dolartlde-son-durum-ne-31-agustos-2026-euro-ve-doviz-fiyatlari-pkh2-3786823",
         "bloomberght:https://www.bloomberght.com/petrolde-yeniden-jeopolitik-gerilim-3786815",
@@ -280,8 +285,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6708303:0",
+      "last_seen_key": "tradingview:matriks:6708313:0",
       "seen_keys": [
+        "tradingview:matriks:6708313:0",
+        "tradingview:matriks:6708310:0",
+        "tradingview:matriks:6708309:0",
+        "tradingview:matriks:6708305:0",
+        "tradingview:matriks:6708304:0",
         "tradingview:matriks:6708303:0",
         "tradingview:matriks:6708295:0",
         "tradingview:matriks:6708290:0",
@@ -385,5 +395,51 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gap turkiye yeni magaza konseptli magazalar n n yenisini koru florya avm act",
+      "link": "https://tr.tradingview.com/news/matriks:6708313:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hisense pazar arast rma sirketi omdia n n 2026 verilerine gore 100 inc uzeri kuresel tv sevkiyat nda 55 lik pazar pay 1 inci s raya yerlesti",
+      "link": "https://tr.tradingview.com/news/matriks:6708310:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rockwell automation beypilic in yeni isleme tesisinde cal san operasyonel guvenligi guclendirecek onemli projeye imza att",
+      "link": "https://tr.tradingview.com/news/matriks:6708309:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ulusoy un kuresel g devleriyle foodist istanbul bulusuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6708305:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkce seslendirmeli once alive playstation 5 xbox series x s c kt",
+      "link": "https://tr.tradingview.com/news/matriks:6708304:0"
+    },
+    {
+      "source": "kap",
+      "text": "glyho paylar n geri al nmas na iliskin bildirim 31 08 2026 tarihli pay geri al m islemleri sirket global yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656477"
+    },
+    {
+      "source": "kap",
+      "text": "akfgy bolunme islemlerine iliskin bildirim sirketimizin kolaylast r lm s usulde istirak modeliyle k smi bolunme islemine iliskin genel kurul onay hk sirket akfen gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656476"
+    },
+    {
+      "source": "kap",
+      "text": "oya oyyat piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi 31 08 2026 tarihli oyayo piyasa yapiciligi islemleri sirket oyak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656475"
+    },
+    {
+      "source": "kap",
+      "text": "magen paylar n geri al nmas na iliskin bildirim 31 08 2026 tarihli pay geri al m islemleri sirket margun enerji uretim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656474"
+    }
+  ]
 }
