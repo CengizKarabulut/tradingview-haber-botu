@@ -237,8 +237,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/petrolde-saldiri-yukselisi-1739653",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-saat-basi-otobus-kaldiriyor-29-yillik-sirkete-konkordato-karari-1739655",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-saat-basi-otobus-kaldiriyor-29-yillik-sirkete-konkordato-karari-1739655",
         "ntvpara:https://www.ntv.com.tr/ntvpara/petrolde-saldiri-yukselisi-1739653",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artiyor-fark-5-bin-400-liraya-ulasacak-1739654",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-avrupa-merkez-bankacilari-endiseli-abd-ile-gerilim-artabilir-1739612",
@@ -355,8 +356,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6706185:0",
+      "last_seen_key": "tradingview:matriks:6706198:0",
       "seen_keys": [
+        "tradingview:matriks:6706198:0",
+        "tradingview:matriks:6706195:0",
+        "tradingview:matriks:6706194:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44S0AG:0",
+        "tradingview:matriks:6706191:0",
+        "tradingview:fxstreet:dfe74e540d9e8:0",
+        "tradingview:fxstreet:d12a958b0d9e8:0",
+        "tradingview:matriks:6706189:0",
         "tradingview:matriks:6706185:0",
         "tradingview:matriks:6706180:0",
         "tradingview:matriks:6706176:0",
@@ -618,6 +627,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "carrefoursa wellness a ag rl k verecek nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6706198:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s sabah bulteni ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6706195:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk piyasa bulteni qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6706194:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44S0AG:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya temmuz ay konut baslang clar y ll k 8 2 beklenti 7 8 onceki 18 6",
+      "link": "https://tr.tradingview.com/news/matriks:6706191:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti ham petrol fiyat irgc nin hurmuz supertankerin may nlarla vuruldugunu iddia etmesiyle 84 50 dolar civar na yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:dfe74e540d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "aud usd fiyat analizi zay f usd kars s nda 0 7150 nin uzerinde kal yor fed iran riskleri yukselisi s n rl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d12a958b0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya temmuz ay insaat siparisleri y ll k 13 4 onceki 2 3",
+      "link": "https://tr.tradingview.com/news/matriks:6706189:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "saat bas otobus kald r yor 29 y ll k sirkete konkordato karar karayolu yolcu tas mac l g n n 29 y ll k koklu markas mahkemeden kritik karar c kt",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-saat-basi-otobus-kaldiriyor-29-yillik-sirkete-konkordato-karari-1739655"
+    },
     {
       "source": "tradingview",
       "text": "ced duyurusu anadolu efes",
