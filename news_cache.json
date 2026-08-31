@@ -2,8 +2,34 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656016",
+      "last_seen_key": "kap:1656044",
       "seen_keys": [
+        "kap:1656044",
+        "kap:1656043",
+        "kap:1656042",
+        "kap:1656041",
+        "kap:1656040",
+        "kap:1656039",
+        "kap:1656038",
+        "kap:1656037",
+        "kap:1656036",
+        "kap:1656035",
+        "kap:1656034",
+        "kap:1656033",
+        "kap:1656032",
+        "kap:1656031",
+        "kap:1656030",
+        "kap:1656029",
+        "kap:1656028",
+        "kap:1656027",
+        "kap:1656026",
+        "kap:1656025",
+        "kap:1656024",
+        "kap:1656023",
+        "kap:1656021",
+        "kap:1656020",
+        "kap:1656018",
+        "kap:1656017",
         "kap:1656016",
         "kap:1656015",
         "kap:1656014",
@@ -125,14 +151,17 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-ben-dahil-herkes-iran-in-karsilik-vermesine-sasirdi-3786824",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/issizlik-orani-temmuz-da-artti-3786835",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/issizlik-orani-temmuz-da-artti-3786835",
+        "bloomberght:https://www.bloomberght.com/turkiye-ekonomisinin-ikinci-ceyrek-buyume-performansi-3786826",
         "bloomberght:https://www.bloomberght.com/trump-ben-dahil-herkes-iran-in-karsilik-vermesine-sasirdi-3786824",
         "bloomberght:https://www.bloomberght.com/kuresel-piyasalar-jackson-hole-mesajlariyla-tedirgin-3786821",
         "bloomberght:https://www.bloomberght.com/iran-dan-savasta-diger-taraflara-uyari-3786820",
         "bloomberght:https://www.bloomberght.com/yende-yeni-mudahale-beklentisi-3786818",
         "bloomberght:https://www.bloomberght.com/tahvil-yatirimcilari-fedin-faiz-artiracagina-supheyle-yaklasiyor-3786817",
         "bloomberght:https://www.bloomberght.com/altinda-sahin-fed-etkisi-3786816",
+        "bloomberght:https://www.bloomberght.com/guncel-altin-fiyatlari-31-agustos-2026-pazartesi-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3786831",
         "bloomberght:https://www.bloomberght.com/dolartlde-son-durum-ne-31-agustos-2026-euro-ve-doviz-fiyatlari-pkh2-3786823",
         "bloomberght:https://www.bloomberght.com/petrolde-yeniden-jeopolitik-gerilim-3786815",
         "bloomberght:https://www.bloomberght.com/yorum/dr-ali-cinar/3786827-universitelerde-ai-devrimi-mitnin-raporundan-cikan-10-carpici-mesaj",
@@ -190,8 +219,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-78-bin-dolarn-altna-geriledi-4048918",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/hsbc-hdfc-bank-hissesi-icin-tavsiyeyi-dusurdu-93CH-4048949",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/analyst-ratings/hsbc-hdfc-bank-hissesi-icin-tavsiyeyi-dusurdu-93CH-4048949",
+        "investing:https://tr.investing.com/news/economic-indicators/turkiye-ekonomisi-ikinci-ceyrekte-beklentilerin-altnda-buyudu-4048948",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-78-bin-dolarn-altna-geriledi-4048918",
         "investing:https://tr.investing.com/news/stock-market-news/sb-energy-openaiye-veri-merkezi-anlasmas-icin-55-milyar-dolar-degerinde-varant-teklif-etti-4048906",
         "investing:https://tr.investing.com/news/stock-market-news/asya-altn-hisseleri-fed-faiz-endiseleriyle-dustu-4048901",
@@ -765,6 +796,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "hsbc hdfc bank hissesi tavsiyeyi dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/hsbc-hdfc-bank-hissesi-icin-tavsiyeyi-dusurdu-93CH-4048949"
+    },
+    {
+      "source": "investing",
+      "text": "turkiye ekonomisi ikinci ceyrekte beklentilerin alt nda buyudu",
+      "link": "https://tr.investing.com/news/economic-indicators/turkiye-ekonomisi-ikinci-ceyrekte-beklentilerin-altnda-buyudu-4048948"
+    },
+    {
+      "source": "bloomberght",
+      "text": "issizlik oran temmuz artt tuik verilerine gore issizlik oran temmuz 0 5 puan artarak yuzde 8 1 seviyesinde gerceklesti genc nufusta issizlik oran onceki aya gore 1 5 puan artarak yuzde 14 5 oldu",
+      "link": "https://www.bloomberght.com/issizlik-orani-temmuz-da-artti-3786835"
+    },
+    {
+      "source": "bloomberght",
+      "text": "turkiye ikinci ceyrekte yuzde 2 3 buyudu turkiye istatistik kurumu tuik ikinci ceyrege iliskin donemsel gayri safi yurt ici has la verilerini yay mlad",
+      "link": "https://www.bloomberght.com/turkiye-ekonomisinin-ikinci-ceyrek-buyume-performansi-3786826"
+    },
+    {
+      "source": "kap",
+      "text": "verus pay baz nda devre kesici bildirimi verus e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656044"
+    },
+    {
+      "source": "kap",
+      "text": "hedef pay baz nda devre kesici bildirimi hedef e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656043"
+    },
+    {
+      "source": "kap",
+      "text": "binbn pay baz nda devre kesici bildirimi binbn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656042"
+    },
+    {
+      "source": "kap",
+      "text": "sanfm pay baz nda devre kesici bildirimi sanfm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656041"
+    },
+    {
+      "source": "kap",
+      "text": "hktm pay baz nda devre kesici bildirimi hktm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656040"
+    },
+    {
+      "source": "kap",
+      "text": "tnztp pay baz nda devre kesici bildirimi tnztp e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656039"
+    },
+    {
+      "source": "kap",
+      "text": "skbnk pay baz nda devre kesici bildirimi skbnk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656038"
+    },
+    {
+      "source": "kap",
+      "text": "bsoke pay baz nda devre kesici bildirimi bsoke e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656037"
+    },
+    {
+      "source": "kap",
+      "text": "dagi pay baz nda devre kesici bildirimi dagi e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656036"
+    },
+    {
+      "source": "kap",
+      "text": "pnlsn pay baz nda devre kesici bildirimi pnlsn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656035"
+    },
+    {
+      "source": "kap",
+      "text": "alves pay baz nda devre kesici bildirimi alves e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656034"
+    },
+    {
+      "source": "kap",
+      "text": "sanel pay baz nda devre kesici bildirimi sanel e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656033"
+    },
+    {
+      "source": "kap",
+      "text": "soke pay baz nda devre kesici bildirimi soke e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656032"
+    },
+    {
+      "source": "kap",
+      "text": "gundg pay baz nda devre kesici bildirimi gundg e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656031"
+    },
+    {
+      "source": "kap",
+      "text": "anele pay baz nda devre kesici bildirimi anele e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656030"
+    },
+    {
+      "source": "kap",
+      "text": "mcard pay baz nda devre kesici bildirimi mcard e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656029"
+    },
+    {
+      "source": "kap",
+      "text": "hatsn pay baz nda devre kesici bildirimi hatsn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656028"
+    },
+    {
+      "source": "kap",
+      "text": "sohoe pay baz nda devre kesici bildirimi sohoe e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656027"
+    },
+    {
+      "source": "kap",
+      "text": "oncsm pay baz nda devre kesici bildirimi oncsm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656026"
+    },
+    {
+      "source": "kap",
+      "text": "grtho pay baz nda devre kesici bildirimi grtho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656025"
+    },
+    {
+      "source": "kap",
+      "text": "albtn pay baz nda devre kesici bildirimi albtn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656024"
+    },
+    {
+      "source": "kap",
+      "text": "inves pay baz nda devre kesici bildirimi inves e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656023"
+    },
+    {
+      "source": "kap",
+      "text": "tknsa pay baz nda devre kesici bildirimi tknsa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656021"
+    },
+    {
+      "source": "kap",
+      "text": "ihaas pay baz nda devre kesici bildirimi ihaas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656020"
+    },
+    {
+      "source": "kap",
+      "text": "paseu pay baz nda devre kesici bildirimi paseu e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656018"
+    },
+    {
+      "source": "kap",
+      "text": "tckrc pay baz nda devre kesici bildirimi tckrc e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656017"
+    },
     {
       "source": "tradingview",
       "text": "borsa istanbul gune 37 30 puan 0 25 dususle baslad matriks haber anketi 37 87 puan",
