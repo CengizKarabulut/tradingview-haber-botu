@@ -233,8 +233,10 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-avrupa-merkez-bankacilari-endiseli-abd-ile-gerilim-artabilir-1739612",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/petrolde-saldiri-yukselisi-1739653",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/petrolde-saldiri-yukselisi-1739653",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artiyor-fark-5-bin-400-liraya-ulasacak-1739654",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-avrupa-merkez-bankacilari-endiseli-abd-ile-gerilim-artabilir-1739612",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-kira-sozlesmelerinde-yeni-donem-yolda-zorunlu-hale-geliyor-1739607",
         "ntvpara:https://www.ntv.com.tr/ntvpara/iran-savasi-g7-ulkelerinin-borclarini-on-milyarlarca-dolar-artirdi-1739569",
@@ -348,11 +350,26 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44S052:0",
+      "last_seen_key": "tradingview:matriks:6706174:0",
       "seen_keys": [
+        "tradingview:matriks:6706174:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44S09X:0",
+        "tradingview:fxstreet:dbe7e15f5d9e8:0",
+        "tradingview:matriks:6706170:0",
+        "tradingview:matriks:6706169:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44S069:0",
+        "tradingview:fxstreet:d87b51bdbd9e8:0",
+        "tradingview:matriks:6706164:0",
+        "tradingview:matriks:6706163:0",
+        "tradingview:matriks:6706158:0",
+        "tradingview:fxstreet:e6d324e51d9e8:0",
+        "tradingview:matriks:6706157:0",
+        "tradingview:matriks:6706156:0",
+        "tradingview:matriks:6706151:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44S052:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44S05B:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44S060:0",
+        "tradingview:matriks:6706147:0",
         "tradingview:matriks:6706146:0",
         "tradingview:matriks:6706143:0",
         "tradingview:matriks:6706140:0",
@@ -592,6 +609,86 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "analitik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6706174:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44S09X:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ons alt n petrol kaynakl enflasyon korkular aras nda s k lasmac fed beklentileri artarken yaklas k iki haftan n en dusuk seviyesine geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:dbe7e15f5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop bist 30 teknik analiz yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6706170:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6706169:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "resmi gazete hafta sonu bugun 29 31 agustos 2026",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44S069:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan alt n fiyat bugun fxstreet taraf ndan derlenen verilere gore alt n fiyat dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:d87b51bdbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global teknik analiz stratejisi yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6706164:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "haftal k bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6706163:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasalar bulteni unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6706158:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "aud jpy fiyat analizi 114 50 civar na geriledi ancak 100 gunluk sma n n uzerinde yukselis tonunu koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e6d324e51d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten yap kredi bankas",
+      "link": "https://tr.tradingview.com/news/matriks:6706157:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist100 teknik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6706156:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunun pusulas pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6706151:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "petrolde sald r yukselisi abd nin iran roketatarlar na duzenledigi sald r lar sonucu petrol fiyatlar yukseldi",
+      "link": "https://www.ntv.com.tr/ntvpara/petrolde-saldiri-yukselisi-1739653"
+    },
+    {
+      "source": "ntvpara",
+      "text": "motorin fiyatlar art yor fark 5 bin 400 liraya ulasacak motorinde s f rlanan ozel tuketim vergisi yeniden fiyatlara yans t l yor ag r vas talarda depoda 5 bin 400 liral k fark olusacak",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artiyor-fark-5-bin-400-liraya-ulasacak-1739654"
+    },
     {
       "source": "tradingview",
       "text": "kultur turizm bakan yard mc l g dhmi genel mudurlugune atamalar yap ld",
