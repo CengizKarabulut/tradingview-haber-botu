@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656107",
+      "last_seen_key": "kap:1656117",
       "seen_keys": [
+        "kap:1656117",
+        "kap:1656115",
         "kap:1656107",
         "kap:1656106",
         "kap:1656105",
@@ -30,7 +32,6 @@
         "kap:1656080",
         "kap:1656078",
         "kap:1656077",
-        "kap:1656076",
         "kap:1656073",
         "kap:1656072",
         "kap:1656071",
@@ -95,6 +96,7 @@
         "kap:1656005",
         "kap:1656004",
         "kap:1656003",
+        "kap:1656076",
         "kap:1656002",
         "kap:1655998",
         "kap:1655997",
@@ -307,8 +309,18 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6706950:0",
+      "last_seen_key": "tradingview:matriks:6706990:0",
       "seen_keys": [
+        "tradingview:matriks:6706990:0",
+        "tradingview:matriks:6706982:0",
+        "tradingview:matriks:6706981:0",
+        "tradingview:matriks:6706980:0",
+        "tradingview:matriks:6706979:0",
+        "tradingview:matriks:6706977:0",
+        "tradingview:matriks:6706973:0",
+        "tradingview:fxstreet:2f1535605d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44S0FW:0",
+        "tradingview:matriks:6706964:0",
         "tradingview:matriks:6706950:0",
         "tradingview:fxstreet:b6d272733d9e8:0",
         "tradingview:matriks:6706933:0",
@@ -341,6 +353,7 @@
         "tradingview:matriks:6706798:0",
         "tradingview:fxstreet:d76a08829d9e8:0",
         "tradingview:matriks:6706792:0",
+        "tradingview:beincrypto:1184c8539d9e8:0",
         "tradingview:fxstreet:e8b682113d9e8:0",
         "tradingview:fxstreet:3aedce242d9e8:0",
         "tradingview:fxstreet:b832cf7f8d9e8:0",
@@ -450,6 +463,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin kamu firmalar n n ocak temmuz donemindeki karlar y ll k 0 6 artt maliye bakanl g",
+      "link": "https://tr.tradingview.com/news/matriks:6706990:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "isvec merkez bankas jansson ileride yukselmis enflasyona dair baz riskler olsa bile para politikam z ayarlamadan once bekleme alan m z var",
+      "link": "https://tr.tradingview.com/news/matriks:6706982:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "isvec merkez bankas jansson yine talep kaynakl biraz daha yuksek enflasyon riskinin miktar artt g na hala inan yorum",
+      "link": "https://tr.tradingview.com/news/matriks:6706981:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "isvec merkez bankas jansson su an isaretleri ekonominin yak nda as r s nabilecegi seklinde yorumlam yorum",
+      "link": "https://tr.tradingview.com/news/matriks:6706980:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "isvec merkez bankas jansson yukselisin daha kal c olmas mumkun",
+      "link": "https://tr.tradingview.com/news/matriks:6706979:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "isvec merkez bankas jansson isvec enflasyonunun baslang c konumu olumlu ancak yaz mevsimindeki beklenmedik derecede yuksek enflasyon rakamlar tabloyu bulan klast r yor",
+      "link": "https://tr.tradingview.com/news/matriks:6706977:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "isvec merkez bankas jansson enflasyon riskleri yuksek seyrediyor ancak bekleyip gorme imkan",
+      "link": "https://tr.tradingview.com/news/matriks:6706973:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar rbnz ikinci faiz art r m haz r bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:2f1535605d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiye ekonomisi q2 beklentilerin alt nda 2 3 buyudu ic talep belirgin yavaslad",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44S0FW:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "makro analiz gsyh info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6706964:0"
+    },
+    {
+      "source": "kap",
+      "text": "ayces pay baz nda devre kesici bildirimi ayces e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656117"
+    },
+    {
+      "source": "kap",
+      "text": "btcim pay baz nda devre kesici bildirimi btcim e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656115"
+    },
     {
       "source": "tradingview",
       "text": "28 agustos 2026 itibar yla tum yat r mc lar risk egilim endeksi degeri 48 41 mkk",
