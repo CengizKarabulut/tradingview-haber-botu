@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656147",
+      "last_seen_key": "kap:1656154",
       "seen_keys": [
+        "kap:1656154",
+        "kap:1656153",
+        "kap:1656152",
+        "kap:1656151",
+        "kap:1656150",
+        "kap:1656149",
+        "kap:1656148",
         "kap:1656147",
         "kap:1656145",
         "kap:1656144",
@@ -15,7 +22,6 @@
         "kap:1656132",
         "kap:1656130",
         "kap:1656129",
-        "kap:1656127",
         "kap:1656126",
         "kap:1656124",
         "kap:1656122",
@@ -88,6 +94,7 @@
         "kap:1656032",
         "kap:1656031",
         "kap:1656030",
+        "kap:1656127",
         "kap:1656029",
         "kap:1656028",
         "kap:1656027",
@@ -182,18 +189,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-yangn-sorumlulugu-endiseleriyle-pge-hissesini-dusurdu-93CH-4049134",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/citizens-global-net-lease-hissesi-icin-gorusunu-korudu-93CH-4049158",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-global-net-lease-hissesi-icin-gorusunu-korudu-93CH-4049158",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-yapay-zeka-urun-gucu-nedeniyle-cloudflare-hisse-derecelendirmesini-yineledi-93CH-4049157",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-gen-terapisi-verileri-sonras-crispr-hisse-notunu-korudu-93CH-4049153",
+        "investing:https://tr.investing.com/news/stock-market-news/goldman-sachs-insans-robot-tahminini-yukseltti-otomotiv-rolu-goruyor-93CH-4049138",
+        "investing:https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-kanada-merkez-bankas-karar-oncesi-yukseldi-4049136",
         "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-yangn-sorumlulugu-endiseleriyle-pge-hissesini-dusurdu-93CH-4049134",
         "investing:https://tr.investing.com/news/stock-market-news/pinterest-hisseleri-neden-dusuyor-93CH-4049122",
         "investing:https://tr.investing.com/news/stock-market-news/abdiran-catsmas-petrol-fiyatlarn-yukseltti-enerji-hisseleri-ralli-yapt-4049108",
         "investing:https://tr.investing.com/news/stock-market-news/bakkafrost-hissesi-bugun-neden-dusuyor-93CH-4049101",
         "investing:https://tr.investing.com/news/stock-market-news/shandong-gold-mining-hisseleri-neden-yukseliste-93CH-4049094",
-        "investing:https://tr.investing.com/news/analyst-ratings/ubs-kaiser-aluminum-hissesi-icin-tavsiyesini-yukseltti-93CH-4049093",
-        "investing:https://tr.investing.com/news/economy-news/fsb-baskan-bailey-yeni-yapay-zeka-modelleri-finansal-istikrara-risk-4049069",
-        "investing:https://tr.investing.com/news/economic-indicators/ucuz-pirinc-yuksek-faizler-japonyann-enflasyon-bilmecesi-karmasklasyor-4049063",
-        "investing:https://tr.investing.com/news/global-filings/cw-enerji-abd-ortaklg-48-milyon-dolarlk-gunes-paneli-loi-imzalad-93CH-4049048",
-        "investing:https://tr.investing.com/news/stock-market-news/ohb-hissesi-bugun-neden-yukseliste-93CH-4049047",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -214,6 +221,11 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/analyst-ratings/ubs-kaiser-aluminum-hissesi-icin-tavsiyesini-yukseltti-93CH-4049093",
+        "investing:https://tr.investing.com/news/economy-news/fsb-baskan-bailey-yeni-yapay-zeka-modelleri-finansal-istikrara-risk-4049069",
+        "investing:https://tr.investing.com/news/economic-indicators/ucuz-pirinc-yuksek-faizler-japonyann-enflasyon-bilmecesi-karmasklasyor-4049063",
+        "investing:https://tr.investing.com/news/global-filings/cw-enerji-abd-ortaklg-48-milyon-dolarlk-gunes-paneli-loi-imzalad-93CH-4049048",
+        "investing:https://tr.investing.com/news/stock-market-news/ohb-hissesi-bugun-neden-yukseliste-93CH-4049047",
         "investing:https://tr.investing.com/news/economy-news/warshn-sahin-tavr-fedden-iki-faiz-artrm-daha-isaret-ediyor-4049064",
         "investing:https://tr.investing.com/news/global-filings/1000-yatrmlar-holding-uber-ile-elektrikli-arac-icin-mou-imzalad-93CH-4049044",
         "investing:https://tr.investing.com/news/global-filings/vanet-gda-dr-nar-gdann-tum-paylarn-devrald-93CH-4049043",
@@ -339,15 +351,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:d89c78d4ad9e8:0",
+      "last_seen_key": "tradingview:fxstreet:6266b2a63d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:6266b2a63d9e8:0",
+        "tradingview:matriks:6707229:0",
         "tradingview:fxstreet:d89c78d4ad9e8:0",
         "tradingview:fxstreet:9d9b56e7ed9e8:0",
         "tradingview:matriks:6707167:0",
         "tradingview:matriks:6707166:0",
         "tradingview:fxstreet:8a7aa14b0d9e8:0",
         "tradingview:fxstreet:c357cf5c6d9e8:0",
+        "tradingview:matriks:6707124:0",
         "tradingview:fxstreet:189ca005fd9e8:0",
+        "tradingview:matriks:6707122:0",
         "tradingview:fxstreet:3c9ab85a1d9e8:0",
         "tradingview:fxstreet:011ebfe20d9e8:0",
         "tradingview:fxstreet:99be70ae3d9e8:0",
@@ -515,6 +531,76 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar warsh konusmas faiz art r m tart smas n ac k tutuyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:6266b2a63d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tmb eren insaat sektoru 14 ceyregin ard ndan kuculdu",
+      "link": "https://tr.tradingview.com/news/matriks:6707229:0"
+    },
+    {
+      "source": "investing",
+      "text": "citizens global net lease hissesi gorusunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-global-net-lease-hissesi-icin-gorusunu-korudu-93CH-4049158"
+    },
+    {
+      "source": "investing",
+      "text": "citizens yapay zeka urun gucu nedeniyle cloudflare hisse derecelendirmesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-yapay-zeka-urun-gucu-nedeniyle-cloudflare-hisse-derecelendirmesini-yineledi-93CH-4049157"
+    },
+    {
+      "source": "investing",
+      "text": "citizens gen terapisi verileri sonras crispr hisse notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-gen-terapisi-verileri-sonras-crispr-hisse-notunu-korudu-93CH-4049153"
+    },
+    {
+      "source": "investing",
+      "text": "goldman sachs insans robot tahminini yukseltti otomotiv rolu goruyor",
+      "link": "https://tr.investing.com/news/stock-market-news/goldman-sachs-insans-robot-tahminini-yukseltti-otomotiv-rolu-goruyor-93CH-4049138"
+    },
+    {
+      "source": "investing",
+      "text": "tsx vadeli islemleri kanada merkez bankas karar oncesi yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-kanada-merkez-bankas-karar-oncesi-yukseldi-4049136"
+    },
+    {
+      "source": "kap",
+      "text": "avtur pay baz nda devre kesici bildirimi avtur e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656154"
+    },
+    {
+      "source": "kap",
+      "text": "escar pay baz nda devre kesici bildirimi escar e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656153"
+    },
+    {
+      "source": "kap",
+      "text": "meten pay baz nda devre kesici bildirimi meten e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656152"
+    },
+    {
+      "source": "kap",
+      "text": "kboru pay baz nda devre kesici bildirimi kboru e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656151"
+    },
+    {
+      "source": "kap",
+      "text": "dofrb pay baz nda devre kesici bildirimi dofrb e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656150"
+    },
+    {
+      "source": "kap",
+      "text": "denge pay baz nda devre kesici bildirimi denge e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656149"
+    },
+    {
+      "source": "kap",
+      "text": "bigtk pay baz nda devre kesici bildirimi bigtk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656148"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar kar s k cin pmi verilerinin etkileyici olmamas yla geriledi",
