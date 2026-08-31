@@ -162,8 +162,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economic-indicators/japonyada-sanayi-uretimi-temmuzda-beklenmedik-sekilde-artt-perakende-satslar-yukseldi-4048830",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/abdiran-gerilimi-yeniden-trmand-hisse-senedi-vadeli-islemleri-dustu-4048834",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/abdiran-gerilimi-yeniden-trmand-hisse-senedi-vadeli-islemleri-dustu-4048834",
+        "investing:https://tr.investing.com/news/commodities-news/abdnin-irana-saldrs-sonras-petrol-fiyatlar-yukseldi-4048833",
         "investing:https://tr.investing.com/news/economic-indicators/japonyada-sanayi-uretimi-temmuzda-beklenmedik-sekilde-artt-perakende-satslar-yukseldi-4048830",
         "investing:https://tr.investing.com/news/forex-news/kuresel-doviz-politikasnda-bessent-doktrini-mi-sekilleniyor-4048829",
         "investing:https://tr.investing.com/news/stock-market-news/faraday-future-orta-doguda-robotik-atlmn-genisletiyor-4048825",
@@ -172,8 +174,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/aon-kkr-destekli-usi-insurance-17-milyar-dolara-alyor-4048819",
         "investing:https://tr.investing.com/news/company-news/arrowhead-plozasiran-icin-duzenleyici-basvuru-planlyor-93CH-4048816",
         "investing:https://tr.investing.com/news/commodities-news/venezuela-petrolu-abdnin-bosalan-rezervlerini-dolduracak-4048814",
-        "investing:https://tr.investing.com/news/stock-market-news/son-sansiniz-investingproda-55-indirim-icin-sadece-birkac-saat-kald-4048813",
-        "investing:https://tr.investing.com/news/stock-market-news/temmuzdan-bu-yana-57-yukselen-bu-yapay-zeka-secimi-devam-ediyor-4048811",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +194,8 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/stock-market-news/son-sansiniz-investingproda-55-indirim-icin-sadece-birkac-saat-kald-4048813",
+        "investing:https://tr.investing.com/news/stock-market-news/temmuzdan-bu-yana-57-yukselen-bu-yapay-zeka-secimi-devam-ediyor-4048811",
         "investing:https://tr.investing.com/news/economy-news/abdiran-catsmas-dunyay-nasl-yeniden-sekillendirecek-4048809",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-modelleri-turk-hissesinde-46-kazanc-yakalad-93CH-4048801",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-deger-uyars-yatrmclar-segyodaki-41lik-dususten-korudu-93CH-4048799",
@@ -500,6 +502,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "abd iran gerilimi yeniden t rmand hisse senedi vadeli islemleri dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/abdiran-gerilimi-yeniden-trmand-hisse-senedi-vadeli-islemleri-dustu-4048834"
+    },
+    {
+      "source": "investing",
+      "text": "abd nin iran a sald r s sonras petrol fiyatlar yukseldi",
+      "link": "https://tr.investing.com/news/commodities-news/abdnin-irana-saldrs-sonras-petrol-fiyatlar-yukseldi-4048833"
+    },
     {
       "source": "investing",
       "text": "japonya sanayi uretimi temmuz beklenmedik sekilde artt perakende sat slar yukseldi",
