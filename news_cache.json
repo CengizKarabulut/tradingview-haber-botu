@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656513",
+      "last_seen_key": "kap:1656514",
       "seen_keys": [
+        "kap:1656514",
         "kap:1656513",
         "kap:1656512",
         "kap:1656511",
@@ -133,8 +134,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/honda-ve-nissan-yazilim-guclerini-birlestiriyor-3786935",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/tvf-surdurulebilir-finansman-cercevesi-ni-yayimladi-3786936",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/tvf-surdurulebilir-finansman-cercevesi-ni-yayimladi-3786936",
         "bloomberght:https://www.bloomberght.com/honda-ve-nissan-yazilim-guclerini-birlestiriyor-3786935",
         "bloomberght:https://www.bloomberght.com/mekke-anlasmasi-nda-yeni-adim-isbirligi-kurumsallastirilacak-3786934",
         "bloomberght:https://www.bloomberght.com/bessent-g20-de-onceligimiz-ekonomik-buyume-3786924",
@@ -256,8 +258,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-ekonomi-gundeminin-nabzi-g20-zirvesinde-tutuluyor-1739746",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/avrupa-borsalari-dususle-kapandi-1739776",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/avrupa-borsalari-dususle-kapandi-1739776",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-ekonomi-gundeminin-nabzi-g20-zirvesinde-tutuluyor-1739746",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-enflasyon-verileri-ne-zaman-aciklanacak-beklenti-ne-yonde-2026-tuik-agustos-ayi-tufe-karari-1739748",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-japon-otomobil-devleri-kanadaya-uygulanan-gumruk-vergilerinin-bedelini-agir-bir-sekilde-odeyebilir-1739714",
@@ -281,8 +284,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/altin-deger-kaybetti-955471.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/rusya-ve-abd-finans-alanindaki-is-birligini-gorustu-955491.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/rusya-ve-abd-finans-alanindaki-is-birligini-gorustu-955491.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-deger-kaybetti-955471.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-enerji-gelecegine-dev-yatirim-hamlesi-955454.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-simsek-kalici-refah-artisi-icin-yol-haritamizi-ortaya-koyacagiz-955449.html",
@@ -346,8 +350,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:27bd796d0d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:eb22994abd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:eb22994abd9e8:0",
         "tradingview:fxstreet:27bd796d0d9e8:0",
         "tradingview:fxstreet:1586eefe9d9e8:0",
         "tradingview:fxstreet:28ebaaeedd9e8:0",
@@ -491,6 +496,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd momentum zay flarken 100 gunluk sma n n alt nda konsolide oluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:eb22994abd9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "rusya abd finans alan ndaki is birligini gorustu rusya maliye bakan anton siluanov abd hazine bakan scott bessent in iki ulke aras nda finans alan ndaki is birligini gorustugu duyuruldu",
+      "link": "https://www.trthaber.com/haber/ekonomi/rusya-ve-abd-finans-alanindaki-is-birligini-gorustu-955491.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "avrupa borsalar dususle kapand avrupa borsalar tahvil piyasalar ndaki faiz art s iran kaynakl jeopolitik gerilimlerin enflasyon endiselerini tetiklemesiyle haftan n ilk islem gununu dususle kapatt",
+      "link": "https://www.ntv.com.tr/ntvpara/avrupa-borsalari-dususle-kapandi-1739776"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tvf surdurulebilir finansman cercevesi ni yay mlad turkiye varl k fonu yesil mavi sosyal surdurulebilir finansman islemlerine iliskin esaslar belirleyen surdurulebilir finansman cercevesi ni yay mlarken cerceve sustainable fitch taraf ndan en yuksek seviye olan excellent derecesiy",
+      "link": "https://www.bloomberght.com/tvf-surdurulebilir-finansman-cercevesi-ni-yayimladi-3786936"
+    },
+    {
+      "source": "kap",
+      "text": "tezol paylar n geri al nmas na iliskin bildirim pay geri al m islemleri sirket europap tezol kagit sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656514"
+    },
     {
       "source": "investing",
       "text": "japan post holdings aflac taki paylar ndan 1 48 milyon dolar satt",
