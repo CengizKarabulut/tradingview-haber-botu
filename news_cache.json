@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
+<<<<<<< Updated upstream
       "last_seen_key": "kap:1656452",
       "seen_keys": [
+=======
+      "last_seen_key": "kap:1656454",
+      "seen_keys": [
+        "kap:1656454",
+>>>>>>> Stashed changes
         "kap:1656452",
         "kap:1656451",
         "kap:1656450",
@@ -98,6 +104,7 @@
         "kap:1656321",
         "kap:1656320",
         "kap:1656319",
+        "kap:1656369",
         "kap:1656318",
         "kap:1656369",
         "kap:1656317",
@@ -401,9 +408,14 @@
       ]
     },
     "investing": {
+<<<<<<< Updated upstream
       "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/nuo-therapeutics-ceocfo-jorden-9538-dolarlk-hisse-ald-93CH-4049742",
       "seen_keys": [
         "investing:https://tr.investing.com/news/insider-trading-news/nuo-therapeutics-ceocfo-jorden-9538-dolarlk-hisse-ald-93CH-4049742",
+=======
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/muncy-columbiann-finans-direktoru-tompkins-3672-dolarlk-hisse-satt-93CH-4049741",
+      "seen_keys": [
+>>>>>>> Stashed changes
         "investing:https://tr.investing.com/news/insider-trading-news/muncy-columbiann-finans-direktoru-tompkins-3672-dolarlk-hisse-satt-93CH-4049741",
         "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-fiserv-hissesi-icin-tavsiyesini-korudu-93CH-4049740",
         "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-kripto-momentumunda-coinbase-hisse-hedefini-yukseltti-93CH-4049739",
@@ -1017,11 +1029,14 @@
   "fingerprints": [
     {
       "source": "investing",
+<<<<<<< Updated upstream
       "text": "nuo therapeutics ceo cfo jorden 9 538 dolarl k hisse ald",
       "link": "https://tr.investing.com/news/insider-trading-news/nuo-therapeutics-ceocfo-jorden-9538-dolarlk-hisse-ald-93CH-4049742"
     },
     {
       "source": "investing",
+=======
+>>>>>>> Stashed changes
       "text": "muncy columbia n n finans direktoru tompkins 3 672 dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/muncy-columbiann-finans-direktoru-tompkins-3672-dolarlk-hisse-satt-93CH-4049741"
     },
@@ -1047,6 +1062,14 @@
     },
     {
       "source": "kap",
+<<<<<<< Updated upstream
+=======
+      "text": "ekim paylar n geri al nmas na iliskin bildirim 31 agustos 2026 tarihli pay geri al m islemleri sirket ekim turizm ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656454"
+    },
+    {
+      "source": "kap",
+>>>>>>> Stashed changes
       "text": "ucaym halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu sirket ucay muhendislik enerji iklimlendirme teknolojileri a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1656452"
     },
