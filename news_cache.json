@@ -214,18 +214,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/sec-ve-cftc-form-pf-incelemesi-nedeniyle-son-tarihi-erteledi-93CH-4049946",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/bird-construction-yerli-ortaklk-kapsamn-genisletiyor-93CH-4049954",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/bird-construction-yerli-ortaklk-kapsamn-genisletiyor-93CH-4049954",
+        "investing:https://tr.investing.com/news/insider-trading-news/alphabet-yoneticisi-frances-arnold-27692-dolarlk-hisse-satt-93CH-4049952",
+        "investing:https://tr.investing.com/news/insider-trading-news/blacksky-cfosu-95120-dolarlk-hisse-satt-93CH-4049951",
+        "investing:https://tr.investing.com/news/insider-trading-news/ftc-solar-yoneticisi-shaker-sadasivam-93020-dolarlk-hisse-ald-93CH-4049950",
+        "investing:https://tr.investing.com/news/insider-trading-news/edwards-lifesciences-svp-49533-dolarlk-hisse-satt-93CH-4049948",
         "investing:https://tr.investing.com/news/stock-market-news/sec-ve-cftc-form-pf-incelemesi-nedeniyle-son-tarihi-erteledi-93CH-4049946",
         "investing:https://tr.investing.com/news/insider-trading-news/qualcommun-svpsi-patricia-grech-35360-dolar-degerinde-hisse-satt-93CH-4049945",
         "investing:https://tr.investing.com/news/stock-market-news/metallus-hissesi-bugun-neden-dusuyor-93CH-4049944",
         "investing:https://tr.investing.com/news/stock-market-news/metallus-hissesi-ceonun-emeklilik-acklamasyla-dustu-93CH-4049943",
         "investing:https://tr.investing.com/news/company-news/innsuites-3-milyon-dolarlk-borcu-oz-sermayeye-cevirdi-93CH-4049942",
-        "investing:https://tr.investing.com/news/company-news/defi-development-20-milyon-dolarlk-imtiyazl-hisse-arz-planlyor-93CH-4049941",
-        "investing:https://tr.investing.com/news/insider-trading-news/cogent-biosciences-yoneticisi-169-milyon-dolarlk-hisse-satt-93CH-4049940",
-        "investing:https://tr.investing.com/news/stock-market-news/general-dynamics-it-donanmadan-439-milyon-dolarlk-sozlesme-degisikligi-ald-93CH-4049938",
-        "investing:https://tr.investing.com/news/company-news/graftech-meksika-tesisini-kapatyor-uretim-kapasitesini-dusuruyor-93CH-4049937",
-        "investing:https://tr.investing.com/news/company-news/kohls-ryan-waymire-bas-ticaret-muduru-olarak-atad-93CH-4049936",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -246,6 +246,11 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/company-news/defi-development-20-milyon-dolarlk-imtiyazl-hisse-arz-planlyor-93CH-4049941",
+        "investing:https://tr.investing.com/news/insider-trading-news/cogent-biosciences-yoneticisi-169-milyon-dolarlk-hisse-satt-93CH-4049940",
+        "investing:https://tr.investing.com/news/stock-market-news/general-dynamics-it-donanmadan-439-milyon-dolarlk-sozlesme-degisikligi-ald-93CH-4049938",
+        "investing:https://tr.investing.com/news/company-news/graftech-meksika-tesisini-kapatyor-uretim-kapasitesini-dusuruyor-93CH-4049937",
+        "investing:https://tr.investing.com/news/company-news/kohls-ryan-waymire-bas-ticaret-muduru-olarak-atad-93CH-4049936",
         "investing:https://tr.investing.com/news/stock-market-news/northrop-grumman-hava-kuvvetlerinden-86-milyon-dolarlk-sozlesme-ald-93CH-4049934",
         "investing:https://tr.investing.com/news/stock-market-news/brookfieldn-homeserveu-600-milyon-dolarlk-temettu-icin-18-milyar-dolarlk-tahvil-plannda-93CH-4049933",
         "investing:https://tr.investing.com/news/company-news/invesco-asya-pasifik-operasyonlarn-marty-franca-emanet-etti-93CH-4049929",
@@ -447,8 +452,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:4ade1fb8bd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:33e21160bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:33e21160bd9e8:0",
+        "tradingview:fxstreet:5429299bfd9e8:0",
         "tradingview:fxstreet:4ade1fb8bd9e8:0",
         "tradingview:beincrypto:c314b83bed9e8:0",
         "tradingview:beincrypto:056dffdc6d9e8:0",
@@ -621,6 +628,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guclu tuketim verisi japon yeni hicbir sey kazand rm yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:33e21160bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar n n kazanacak hicbir seyi kalmad",
+      "link": "https://tr.tradingview.com/news/fxstreet:5429299bfd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "bird construction yerli ortakl k kapsam n genisletiyor",
+      "link": "https://tr.investing.com/news/company-news/bird-construction-yerli-ortaklk-kapsamn-genisletiyor-93CH-4049954"
+    },
+    {
+      "source": "investing",
+      "text": "alphabet yoneticisi frances arnold 27 692 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/alphabet-yoneticisi-frances-arnold-27692-dolarlk-hisse-satt-93CH-4049952"
+    },
+    {
+      "source": "investing",
+      "text": "blacksky cfo su 95 120 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/blacksky-cfosu-95120-dolarlk-hisse-satt-93CH-4049951"
+    },
+    {
+      "source": "investing",
+      "text": "ftc solar yoneticisi shaker sadasivam 93 020 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/ftc-solar-yoneticisi-shaker-sadasivam-93020-dolarlk-hisse-ald-93CH-4049950"
+    },
+    {
+      "source": "investing",
+      "text": "edwards lifesciences svp 49 533 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/edwards-lifesciences-svp-49533-dolarlk-hisse-satt-93CH-4049948"
+    },
     {
       "source": "tradingview",
       "text": "gbp jpy fiyat analizi 217 00 al c lar s n rland r yor rsi zay fl yor",
