@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656477",
+      "last_seen_key": "kap:1656481",
       "seen_keys": [
+        "kap:1656481",
+        "kap:1656480",
+        "kap:1656479",
+        "kap:1656478",
         "kap:1656477",
         "kap:1656476",
         "kap:1656475",
@@ -285,9 +289,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6708313:0",
+      "last_seen_key": "tradingview:fxstreet:ef49a2eb0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:ef49a2eb0d9e8:0",
         "tradingview:matriks:6708313:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44S1G0:0",
         "tradingview:matriks:6708310:0",
         "tradingview:matriks:6708309:0",
         "tradingview:matriks:6708305:0",
@@ -362,6 +368,7 @@
         "tradingview:fxstreet:fc0f27cf8d9e8:0",
         "tradingview:cointelegraph:9a466e5dbd9e8:0",
         "tradingview:fxstreet:199b3e303d9e8:0",
+        "tradingview:matriks:6707753:0",
         "tradingview:beincrypto:a6e50ba8ed9e8:0",
         "tradingview:matriks:6707736:0",
         "tradingview:matriks:6707729:0",
@@ -396,6 +403,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni bessent in daha fazla guclenme beklemesiyle yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ef49a2eb0d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "albtn yeni is iliskisi yeni is iliskisi hakk nda sirket albayrak hazir beton sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656481"
+    },
+    {
+      "source": "kap",
+      "text": "avgyo kat l m finans ilkeleri bilgi formu sirket avrasya gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656480"
+    },
+    {
+      "source": "kap",
+      "text": "sek skbnk sirket genel bilgi formu sirket sekerbank t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656479"
+    },
+    {
+      "source": "kap",
+      "text": "akfgy yat r mc raporu ayl k yat r mc raporu sirket akfen gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656478"
+    },
     {
       "source": "tradingview",
       "text": "gap turkiye yeni magaza konseptli magazalar n n yenisini koru florya avm act",
