@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656071",
+      "last_seen_key": "kap:1656076",
       "seen_keys": [
+        "kap:1656076",
+        "kap:1656073",
+        "kap:1656072",
         "kap:1656071",
         "kap:1656070",
         "kap:1656069",
@@ -90,6 +93,7 @@
         "bloomberght:https://www.bloomberght.com/guncel-altin-fiyatlari-31-agustos-2026-pazartesi-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3786831",
         "bloomberght:https://www.bloomberght.com/dolartlde-son-durum-ne-31-agustos-2026-euro-ve-doviz-fiyatlari-pkh2-3786823",
         "bloomberght:https://www.bloomberght.com/petrolde-yeniden-jeopolitik-gerilim-3786815",
+        "bloomberght:https://www.bloomberght.com/yorum/dr-soner-canko/3786860-paranin-yeni-dunyasinda-yer-kapma-yarisi",
         "bloomberght:https://www.bloomberght.com/yorum/dr-ali-cinar/3786827-universitelerde-ai-devrimi-mitnin-raporundan-cikan-10-carpici-mesaj",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-31082026-3786807",
         "bloomberght:https://www.bloomberght.com/abd-den-iran-a-yeni-saldiri-3786806",
@@ -253,8 +257,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:b832cf7f8d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:e8b682113d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:e8b682113d9e8:0",
+        "tradingview:fxstreet:3aedce242d9e8:0",
         "tradingview:fxstreet:b832cf7f8d9e8:0",
         "tradingview:fxstreet:464ee67b0d9e8:0",
         "tradingview:fxstreet:b5186f7e0d9e8:0",
@@ -358,5 +364,31 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "foreks piyasas nda bugun orta dogu gerilim yeniden t rman yor abd dolar fed kaynakl ralliyi konsolide ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e8b682113d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n fed in s k lasmac durusu yukselisi s n rl yor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:3aedce242d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "btcim pay baz nda devre kesici bildirimi btcim e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656076"
+    },
+    {
+      "source": "kap",
+      "text": "trffa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfaren82714 isin kodlu bono ihraci sirket tera finans faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656073"
+    },
+    {
+      "source": "kap",
+      "text": "bioen pay baz nda devre kesici bildirimi bioen e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656072"
+    }
+  ]
 }
