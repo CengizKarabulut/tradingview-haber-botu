@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656208",
+      "last_seen_key": "kap:1656212",
       "seen_keys": [
+        "kap:1656212",
+        "kap:1656211",
+        "kap:1656210",
+        "kap:1656209",
         "kap:1656208",
         "kap:1656207",
         "kap:1656206",
@@ -177,8 +181,11 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/bankacilik-sektorunun-7-aylik-krinda-yuzde-24-5-lik-artis-3786877",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/avdagic-ten-bankalara-kredi-faizi-cagrisi-3786882",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/avdagic-ten-bankalara-kredi-faizi-cagrisi-3786882",
+        "bloomberght:https://www.bloomberght.com/blokzincirin-mirasi-akilli-kontratlar-3786881",
+        "bloomberght:https://www.bloomberght.com/cevdet-yilmaz-2026-da-buyume-ovp-hedefinin-bir-miktar-altinda-gerceklesebilir-3786880",
         "bloomberght:https://www.bloomberght.com/bankacilik-sektorunun-7-aylik-krinda-yuzde-24-5-lik-artis-3786877",
         "bloomberght:https://www.bloomberght.com/israil-ile-yunanistan-arasinda-3-milyar-euroluk-savunma-anlasmasi-3786873",
         "bloomberght:https://www.bloomberght.com/bakan-simsek-ten-buyume-degerlendirmesi-3786868",
@@ -236,18 +243,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/polar-power-sistemi-msin-drone-karst-platformuna-entegre-edildi-93CH-4049347",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-crispr-therapeutics-hissesi-icin-al-onerisini-yineledi-93CH-4049391",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/polar-power-sistemi-msin-drone-karst-platformuna-entegre-edildi-93CH-4049347",
-        "investing:https://tr.investing.com/news/company-news/gdev-20-milyon-dolarlk-hisse-geri-alm-teklifi-baslatt-93CH-4049338",
-        "investing:https://tr.investing.com/news/company-news/umh-properties-fannie-maeden-102-milyon-dolarlk-kredi-ald-93CH-4049337",
-        "investing:https://tr.investing.com/news/company-news/netsol-technologies-amerika-ve-avrupada-liderlik-degisiklikleri-acklad-93CH-4049336",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpro-liberty-latin-america-hissesinde-61-kazanc-nasl-tespit-etti-93CH-4049327",
-        "investing:https://tr.investing.com/news/stock-market-news/gamestop-hisseleri-neden-bugun-yukseliyor-93CH-4049322",
-        "investing:https://tr.investing.com/news/stock-market-news/piyasa-oncesi-hareketler-tenax-snap-yukseldi-miniso-dustu-4049320",
-        "investing:https://tr.investing.com/news/company-news/perpetua-resources-stibnite-projesinde-insaat-ilerletiyor-93CH-4049313",
-        "investing:https://tr.investing.com/news/company-news/origin-agritech-guizhouda-biyoteknoloji-arastrma-merkezi-act-93CH-4049311",
-        "investing:https://tr.investing.com/news/company-news/lillynin-taltz-ve-zepbound-kombinasyonu-bir-ylda-kalc-sonuclar-gosterdi-93CH-4049312",
+        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-crispr-therapeutics-hissesi-icin-al-onerisini-yineledi-93CH-4049391",
+        "investing:https://tr.investing.com/news/analyst-ratings/gap-hissesi-icin-ubsden-al-tavsiyesi-yinelendi-93CH-4049390",
+        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-gain-therapeutics-hissesi-icin-al-onerisini-yineledi-93CH-4049388",
+        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-brainsway-hissesi-icin-hedef-fiyat-yukseltti-93CH-4049387",
+        "investing:https://tr.investing.com/news/investment-ideas/arase-gercege-uygun-deger-sinyalinden-sonra-70-getiri-saglad-93CH-4049383",
+        "investing:https://tr.investing.com/news/stock-market-news/babcock--wilcox-hissesi-bugun-neden-yukseliyor-93CH-4049381",
+        "investing:https://tr.investing.com/news/stock-market-news/nvidiann-hugging-facei-satn-aldg-bildiriliyor-93CH-4049379",
+        "investing:https://tr.investing.com/news/stock-market-news/adobe-suudi-arabistan-ortaklgn-4-milyar-dolarlk-yapay-zeka-erisim-planyla-genisletiyor-93CH-4049378",
+        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-ionis-hissesi-icin-tavsiyesini-korudu-93CH-4049377",
+        "investing:https://tr.investing.com/news/analyst-ratings/hc-wainwright-ascendis-pharma-hissesi-icin-al-tavsiyesini-korudu-93CH-4049375",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -268,6 +275,16 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/company-news/polar-power-sistemi-msin-drone-karst-platformuna-entegre-edildi-93CH-4049347",
+        "investing:https://tr.investing.com/news/company-news/gdev-20-milyon-dolarlk-hisse-geri-alm-teklifi-baslatt-93CH-4049338",
+        "investing:https://tr.investing.com/news/company-news/umh-properties-fannie-maeden-102-milyon-dolarlk-kredi-ald-93CH-4049337",
+        "investing:https://tr.investing.com/news/company-news/netsol-technologies-amerika-ve-avrupada-liderlik-degisiklikleri-acklad-93CH-4049336",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-liberty-latin-america-hissesinde-61-kazanc-nasl-tespit-etti-93CH-4049327",
+        "investing:https://tr.investing.com/news/stock-market-news/gamestop-hisseleri-neden-bugun-yukseliyor-93CH-4049322",
+        "investing:https://tr.investing.com/news/stock-market-news/piyasa-oncesi-hareketler-tenax-snap-yukseldi-miniso-dustu-4049320",
+        "investing:https://tr.investing.com/news/company-news/perpetua-resources-stibnite-projesinde-insaat-ilerletiyor-93CH-4049313",
+        "investing:https://tr.investing.com/news/company-news/origin-agritech-guizhouda-biyoteknoloji-arastrma-merkezi-act-93CH-4049311",
+        "investing:https://tr.investing.com/news/company-news/lillynin-taltz-ve-zepbound-kombinasyonu-bir-ylda-kalc-sonuclar-gosterdi-93CH-4049312",
         "investing:https://tr.investing.com/news/global-filings/trabzonspor-goktan-gurpuzu-200000-euroya-coruma-kiraladi-93CH-4049303",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-amscnin-46lk-dususunu-3-ay-once-nasl-tespit-etti-93CH-4049299",
         "investing:https://tr.investing.com/news/stock-market-news/citi-3-ceyrek-oncesi-kamu-hizmeti-hisselerini-inceledi-93CH-4049298",
@@ -439,10 +456,21 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6707478:0",
+      "last_seen_key": "tradingview:fxstreet:2372d1f62d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:2372d1f62d9e8:0",
+        "tradingview:fxstreet:91bcded5ad9e8:0",
+        "tradingview:matriks:6707516:0",
+        "tradingview:matriks:6707507:0",
+        "tradingview:matriks:6707497:0",
+        "tradingview:fxstreet:57f46c788d9e8:0",
+        "tradingview:matriks:6707492:0",
+        "tradingview:matriks:6707486:0",
+        "tradingview:fxstreet:ac237a838d9e8:0",
+        "tradingview:fxstreet:dc3d3971fd9e8:0",
         "tradingview:matriks:6707478:0",
         "tradingview:matriks:6707477:0",
+        "tradingview:cointelegraph:084ab627ed9e8:0",
         "tradingview:fxstreet:b596df2c3d9e8:0",
         "tradingview:fxstreet:c59509965d9e8:0",
         "tradingview:matriks:6707444:0",
@@ -459,12 +487,14 @@
         "tradingview:matriks:6707408:0",
         "tradingview:matriks:6707406:0",
         "tradingview:fxstreet:b16ad3410d9e8:0",
+        "tradingview:fxstreet:b1072aa33d9e8:0",
         "tradingview:matriks:6707382:0",
         "tradingview:matriks:6707379:0",
         "tradingview:matriks:6707369:0",
         "tradingview:matriks:6707366:0",
         "tradingview:matriks:6707365:0",
         "tradingview:matriks:6707357:0",
+        "tradingview:beincrypto:5d2fc39d0d9e8:0",
         "tradingview:fxstreet:40e6701e9d9e8:0",
         "tradingview:matriks:6707269:0",
         "tradingview:matriks:6707263:0",
@@ -491,7 +521,6 @@
         "tradingview:matriks:6707063:0",
         "tradingview:fxstreet:aef67d134d9e8:0",
         "tradingview:matriks:6707058:0",
-        "tradingview:fxstreet:b1072aa33d9e8:0",
         "tradingview:cointelegraph:a3377ac7ad9e8:0",
         "tradingview:fxstreet:915a0d6a9d9e8:0",
         "tradingview:matriks:6707036:0",
@@ -650,6 +679,141 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro ecb s k lasma beklentileri pariteyi destekliyor bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:2372d1f62d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "usd jpy fiyat analizi 160 00 seviyesinin uzerinde sat s bask s yla kars las yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:91bcded5ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nissan honda yeni nesil yaz l m tabanl araclar elektronik kontrol uniteleri yaz l mlar n standardizasyonuna yonelik drtak gelistirme anlasmas imzalad",
+      "link": "https://tr.tradingview.com/news/matriks:6707516:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ozel haber tcmb rezervlerinin gecen hafta 0 8 milyar dolar artt g hesapland",
+      "link": "https://tr.tradingview.com/news/matriks:6707507:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "link bilgisayar geyik risklerden daha az etkilenmek ad na su anda tum faaliyet alanlar nda etkili sekilde faaliyet gosteriyoruz bloomberght",
+      "link": "https://tr.tradingview.com/news/matriks:6707497:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro fed in faiz art r m beklentileri iran daki yeni gerilimler aras nda 1 1600 civar nda seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:57f46c788d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gun ortas notlar garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6707492:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "m3 temmuz doneminde y ll k 30 5 artt tcmb ayl k parasal gelismeler raporu",
+      "link": "https://tr.tradingview.com/news/matriks:6707486:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n fed in faiz art r m beklentilerinin al c lar temkinli tutmas yla 4 450 dolar seviyesi yak nlar nda seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ac237a838d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar boc nin guvercin tonu tarife riskleri td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:dc3d3971fd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "h c wainwright crispr therapeutics hissesi al onerisini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-crispr-therapeutics-hissesi-icin-al-onerisini-yineledi-93CH-4049391"
+    },
+    {
+      "source": "investing",
+      "text": "gap hissesi ubs den al tavsiyesi yinelendi",
+      "link": "https://tr.investing.com/news/analyst-ratings/gap-hissesi-icin-ubsden-al-tavsiyesi-yinelendi-93CH-4049390"
+    },
+    {
+      "source": "investing",
+      "text": "h c wainwright gain therapeutics hissesi al onerisini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-gain-therapeutics-hissesi-icin-al-onerisini-yineledi-93CH-4049388"
+    },
+    {
+      "source": "investing",
+      "text": "h c wainwright brainsway hissesi hedef fiyat yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-brainsway-hissesi-icin-hedef-fiyat-yukseltti-93CH-4049387"
+    },
+    {
+      "source": "investing",
+      "text": "arase gercege uygun deger sinyalinden sonra 70 getiri saglad",
+      "link": "https://tr.investing.com/news/investment-ideas/arase-gercege-uygun-deger-sinyalinden-sonra-70-getiri-saglad-93CH-4049383"
+    },
+    {
+      "source": "investing",
+      "text": "babcock wilcox hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/babcock--wilcox-hissesi-bugun-neden-yukseliyor-93CH-4049381"
+    },
+    {
+      "source": "investing",
+      "text": "nvidia n n hugging face i sat n ald g bildiriliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/nvidiann-hugging-facei-satn-aldg-bildiriliyor-93CH-4049379"
+    },
+    {
+      "source": "investing",
+      "text": "adobe suudi arabistan ortakl g n 4 milyar dolarl k yapay zeka erisim plan yla genisletiyor",
+      "link": "https://tr.investing.com/news/stock-market-news/adobe-suudi-arabistan-ortaklgn-4-milyar-dolarlk-yapay-zeka-erisim-planyla-genisletiyor-93CH-4049378"
+    },
+    {
+      "source": "investing",
+      "text": "h c wainwright ionis hissesi tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-ionis-hissesi-icin-tavsiyesini-korudu-93CH-4049377"
+    },
+    {
+      "source": "investing",
+      "text": "h c wainwright ascendis pharma hissesi al tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-ascendis-pharma-hissesi-icin-al-tavsiyesini-korudu-93CH-4049375"
+    },
+    {
+      "source": "bloomberght",
+      "text": "avdagic ten bankalara kredi faizi cagr s istanbul ticaret odas ito baskan sekib avdagic bankalar n kredi faizlerini turkiye cumhuriyet merkez bankas n n tcmb 300 baz puanl k indirimine paralel olarak hafta asag cekecegi ac klamalar n n h zla gerceklesmesini bekliyoru",
+      "link": "https://www.bloomberght.com/avdagic-ten-bankalara-kredi-faizi-cagrisi-3786882"
+    },
+    {
+      "source": "bloomberght",
+      "text": "blokzincirin miras ak ll kontratlar spekulatif kripto paralar n golgesinde kalan blokzincir teknolojisine olan on yarg gercek dunya adaptasyonu h zland kca k r l yor on yarg lar asan kuruluslar ak ll kontratlar n degerinin fark na var yor",
+      "link": "https://www.bloomberght.com/blokzincirin-mirasi-akilli-kontratlar-3786881"
+    },
+    {
+      "source": "bloomberght",
+      "text": "cevdet y lmaz 2026 buyume ovp hedefinin miktar alt nda gerceklesebilir ikinci ceyrek buyume verisini degerlendiren cumhurbaskan yard mc s cevdet y lmaz 2026 genelinde buyumenin orta vadeli program hedefinin miktar alt nda gerceklesecegini belirtti",
+      "link": "https://www.bloomberght.com/cevdet-yilmaz-2026-da-buyume-ovp-hedefinin-bir-miktar-altinda-gerceklesebilir-3786880"
+    },
+    {
+      "source": "kap",
+      "text": "bulgs pay baz nda devre kesici bildirimi bulgs e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656212"
+    },
+    {
+      "source": "kap",
+      "text": "icugs pay baz nda devre kesici bildirimi icugs e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656211"
+    },
+    {
+      "source": "kap",
+      "text": "gznmi pay baz nda devre kesici bildirimi gznmi e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656210"
+    },
+    {
+      "source": "kap",
+      "text": "beste pay baz nda devre kesici bildirimi beste e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656209"
+    },
     {
       "source": "tradingview",
       "text": "m3 para arz temmuz ay nda y ll k 30 5 onceki ay 29 9",
