@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656117",
+      "last_seen_key": "kap:1656122",
       "seen_keys": [
+        "kap:1656122",
+        "kap:1656121",
+        "kap:1656120",
+        "kap:1656119",
         "kap:1656117",
         "kap:1656115",
         "kap:1656107",
@@ -162,8 +166,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economic-indicators/ucuz-pirinc-yuksek-faizler-japonyann-enflasyon-bilmecesi-karmasklasyor-4049063",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/fsb-baskan-bailey-yeni-yapay-zeka-modelleri-finansal-istikrara-risk-4049069",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/fsb-baskan-bailey-yeni-yapay-zeka-modelleri-finansal-istikrara-risk-4049069",
         "investing:https://tr.investing.com/news/economic-indicators/ucuz-pirinc-yuksek-faizler-japonyann-enflasyon-bilmecesi-karmasklasyor-4049063",
         "investing:https://tr.investing.com/news/global-filings/cw-enerji-abd-ortaklg-48-milyon-dolarlk-gunes-paneli-loi-imzalad-93CH-4049048",
         "investing:https://tr.investing.com/news/stock-market-news/ohb-hissesi-bugun-neden-yukseliste-93CH-4049047",
@@ -173,7 +178,6 @@
         "investing:https://tr.investing.com/news/global-filings/aksu-enerji-spkdan-sermaye-artrm-icin-ret-karar-ald-93CH-4049042",
         "investing:https://tr.investing.com/news/global-filings/kent-finans-faktoring-150-milyon-tllik-bono-ihracn-tamamlad-93CH-4049040",
         "investing:https://tr.investing.com/news/global-filings/tugcelik-yatrmc-iliskileri-yoneticisi-osman-gunun-ayrldgn-duyurdu-93CH-4049039",
-        "investing:https://tr.investing.com/news/global-filings/tera-finans-faktoring-100-milyon-tllik-finansman-bonosu-satt-93CH-4049038",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +198,7 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/global-filings/tera-finans-faktoring-100-milyon-tllik-finansman-bonosu-satt-93CH-4049038",
         "investing:https://tr.investing.com/news/global-filings/ziraat-gyo-43898-mlik-arsa-icin-gelir-paylasm-sozlesmesi-imzalad-93CH-4049027",
         "investing:https://tr.investing.com/news/global-filings/yap-kredi-tolga-ozdemiri-gmyye-atamak-icin-bddkya-basvuracak-93CH-4049026",
         "investing:https://tr.investing.com/news/analyst-ratings/baird-stag-industrial-hissesini-degerleme-cazibesiyle-yukseltti-93CH-4049024",
@@ -217,8 +222,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-ortadogudaki-catismalar-getirileri-zirveye-cikardi-yatirimcilar-bu-sektore-yoneliyor-1739698",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/bulgaristanda-emekli-maasi-sorunu-turklerin-bulundugu-kircaalide-dip-seviyede-1739711",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/bulgaristanda-emekli-maasi-sorunu-turklerin-bulundugu-kircaalide-dip-seviyede-1739711",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-ortadogudaki-catismalar-getirileri-zirveye-cikardi-yatirimcilar-bu-sektore-yoneliyor-1739698",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-fiyatlarinda-son-durum-31-agustos-gram-ceyrek-yarim-ve-tam-altin-fiyatlari-ne-kadar-1739694",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-arac-sahipleri-dikkat-yarin-devreye-aliniyor-iste-yeni-duzenleme-1739692",
@@ -309,8 +315,20 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6706990:0",
+      "last_seen_key": "tradingview:matriks:6707067:0",
       "seen_keys": [
+        "tradingview:matriks:6707067:0",
+        "tradingview:matriks:6707063:0",
+        "tradingview:fxstreet:aef67d134d9e8:0",
+        "tradingview:matriks:6707058:0",
+        "tradingview:fxstreet:b1072aa33d9e8:0",
+        "tradingview:fxstreet:915a0d6a9d9e8:0",
+        "tradingview:matriks:6707036:0",
+        "tradingview:fxstreet:5d93cce10d9e8:0",
+        "tradingview:fxstreet:05f0b330dd9e8:0",
+        "tradingview:matriks:6707018:0",
+        "tradingview:fxstreet:6c408434cd9e8:0",
+        "tradingview:fxstreet:dbe7e15f5d9e8:0",
         "tradingview:matriks:6706990:0",
         "tradingview:matriks:6706982:0",
         "tradingview:matriks:6706981:0",
@@ -372,7 +390,6 @@
         "tradingview:fxstreet:9e9f47451d9e8:0",
         "tradingview:matriks:6706609:0",
         "tradingview:matriks:6706604:0",
-        "tradingview:fxstreet:dbe7e15f5d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_S8N43T0G4:0",
         "tradingview:matriks:6706593:0",
         "tradingview:matriks:6706591:0",
@@ -398,7 +415,6 @@
         "tradingview:matriks:6706541:0",
         "tradingview:matriks:6706542:0",
         "tradingview:fxstreet:cd5c1666ed9e8:0",
-        "tradingview:fxstreet:b1072aa33d9e8:0",
         "tradingview:matriks:6706533:0",
         "tradingview:beincrypto:294322ae3d9e8:0",
         "tradingview:matriks:6706530:0",
@@ -463,6 +479,86 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yunanistan perakende sat slar haziran y ll k 1 9 onceki 6 8",
+      "link": "https://tr.tradingview.com/news/matriks:6707067:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "07 09 2026 vadeli repo ihalesine gelen tekliflerin toplam 169 73 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6707063:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "usd jpy fiyat analizi abd dolar kritik 160 00 bolgesine dogru ilerlemeye devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:aef67d134d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "makro analiz gsyh kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6707058:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro abd dolar kars s nda asag yonlu risk odakta kalmaya devam ediyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:915a0d6a9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "brent petrol vadelileri 3 dolardan fazla yukselisle 91 38 dolara c kt",
+      "link": "https://tr.tradingview.com/news/matriks:6707036:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dow jones vadeli islemleri ham petrol fiyatlar ndaki yukselisin etkisiyle yat r mc lar n temkinli davranmas yla geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:5d93cce10d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro abd dolar kars s nda toparlan yor almanya tufe h zlan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:05f0b330dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "makro analiz gsyih tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6707018:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar rba faiz art r m riskleri suruyor ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:6c408434cd9e8:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "bulgaristan emekli maas sorunu turklerin bulundugu k rcaali dip seviyede bulgaristan 810 bin kisi 322 euro yaklas k 18 bin lira veya daha az emekli maas yla geciniyor",
+      "link": "https://www.ntv.com.tr/ntvpara/bulgaristanda-emekli-maasi-sorunu-turklerin-bulundugu-kircaalide-dip-seviyede-1739711"
+    },
+    {
+      "source": "investing",
+      "text": "fsb baskan bailey yeni yapay zeka modelleri finansal istikrara risk",
+      "link": "https://tr.investing.com/news/economy-news/fsb-baskan-bailey-yeni-yapay-zeka-modelleri-finansal-istikrara-risk-4049069"
+    },
+    {
+      "source": "kap",
+      "text": "oyayo haftal k rapor 28 08 2026 tarihli haftal k rapor sirket oyak yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656122"
+    },
+    {
+      "source": "kap",
+      "text": "lydho pay baz nda devre kesici bildirimi lydho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656121"
+    },
+    {
+      "source": "kap",
+      "text": "byr sirket genel bilgi formu sirket birlesik fon bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656120"
+    },
+    {
+      "source": "kap",
+      "text": "rnpol pay baz nda devre kesici bildirimi rnpol e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656119"
+    },
     {
       "source": "tradingview",
       "text": "cin kamu firmalar n n ocak temmuz donemindeki karlar y ll k 0 6 artt maliye bakanl g",
