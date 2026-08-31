@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656527",
+      "last_seen_key": "kap:1656528",
       "seen_keys": [
+        "kap:1656528",
         "kap:1656527",
         "kap:1656526",
         "kap:1656525",
@@ -204,18 +205,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/key-tronic-evp-philip-hochberg-6904-dolarlk-hisse-satt-93CH-4049845",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/greenbrier-tekoriusun-emekliligi-oncesi-comstocku-ceo-secti-93CH-4049870",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/insider-trading-news/key-tronic-evp-philip-hochberg-6904-dolarlk-hisse-satt-93CH-4049845",
-        "investing:https://tr.investing.com/news/insider-trading-news/cvb-financial-yoneticisi-mike-maddox-220300-dolar-degerinde-hisse-ald-93CH-4049844",
-        "investing:https://tr.investing.com/news/commodities-news/soya-vadeli-islemleri-kar-satslaryla-zirveden-geri-cekildi-93CH-4049842",
-        "investing:https://tr.investing.com/news/commodities-news/turkiyenin-karadeniz-plan-sonras-bugday-vadeli-islemleri-dustu-93CH-4049841",
-        "investing:https://tr.investing.com/news/insider-trading-news/key-tronic-baskan-yardmcs-rsu-sonras-3297-dolarlk-hisse-satt-93CH-4049840",
-        "investing:https://tr.investing.com/news/insider-trading-news/commerce-bancshares-svp-douglas-neff-38724-dolarlk-hisse-satt-93CH-4049839",
-        "investing:https://tr.investing.com/news/economy-news/fed-baskan-warsh-g20de-kuresel-yatrm-patlamasndan-bahsetti-93CH-4049837",
-        "investing:https://tr.investing.com/news/stock-market-news/wolfe-researchten-medya-hisseleri-disney-ve-fox-one-ckyor-93CH-4049835",
-        "investing:https://tr.investing.com/news/stock-market-news/sp-global-aonun-gorunumunu-usi-anlasmas-nedeniyle-negatife-cevirdi-93CH-4049834",
-        "investing:https://tr.investing.com/news/stock-market-news/victory-capitaln-notu-satn-alma-sonras-sp-tarafndan-bbde-teyit-edildi-93CH-4049833",
+        "investing:https://tr.investing.com/news/company-news/greenbrier-tekoriusun-emekliligi-oncesi-comstocku-ceo-secti-93CH-4049870",
+        "investing:https://tr.investing.com/news/company-news/array-technologies-affordable-wire-management-satn-almasn-tamamlad-93CH-4049868",
+        "investing:https://tr.investing.com/news/company-news/myers-industries-lastik-tedarik-birimini-30-milyon-dolara-satt-93CH-4049869",
+        "investing:https://tr.investing.com/news/company-news/neurothera-otizm-tedavisi-denemesine-26-cocuk-kaydetti-93CH-4049867",
+        "investing:https://tr.investing.com/news/company-news/aar-sanjay-soodu-dijital-ve-teknoloji-direktoru-atad-93CH-4049866",
+        "investing:https://tr.investing.com/news/company-news/radiant-logistics-coo-olarak-david-buss-atad-93CH-4049865",
+        "investing:https://tr.investing.com/news/company-news/planet-labs-uydular-spacex-frlatmas-oncesi-kaliforniyaya-gonderdi-93CH-4049864",
+        "investing:https://tr.investing.com/news/company-news/stryker-zurimedi-ve-rotator-manset-onarm-sistemini-satn-alacak-93CH-4049863",
+        "investing:https://tr.investing.com/news/company-news/txnm-energy-400-milyon-dolarlk-hisse-arz-acklad-93CH-4049861",
+        "investing:https://tr.investing.com/news/company-news/bitdeer-ai-malezya-veri-merkezi-kapasitesini-satt-93CH-4049853",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -236,6 +237,16 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/insider-trading-news/key-tronic-evp-philip-hochberg-6904-dolarlk-hisse-satt-93CH-4049845",
+        "investing:https://tr.investing.com/news/insider-trading-news/cvb-financial-yoneticisi-mike-maddox-220300-dolar-degerinde-hisse-ald-93CH-4049844",
+        "investing:https://tr.investing.com/news/commodities-news/soya-vadeli-islemleri-kar-satslaryla-zirveden-geri-cekildi-93CH-4049842",
+        "investing:https://tr.investing.com/news/commodities-news/turkiyenin-karadeniz-plan-sonras-bugday-vadeli-islemleri-dustu-93CH-4049841",
+        "investing:https://tr.investing.com/news/insider-trading-news/key-tronic-baskan-yardmcs-rsu-sonras-3297-dolarlk-hisse-satt-93CH-4049840",
+        "investing:https://tr.investing.com/news/insider-trading-news/commerce-bancshares-svp-douglas-neff-38724-dolarlk-hisse-satt-93CH-4049839",
+        "investing:https://tr.investing.com/news/economy-news/fed-baskan-warsh-g20de-kuresel-yatrm-patlamasndan-bahsetti-93CH-4049837",
+        "investing:https://tr.investing.com/news/stock-market-news/wolfe-researchten-medya-hisseleri-disney-ve-fox-one-ckyor-93CH-4049835",
+        "investing:https://tr.investing.com/news/stock-market-news/sp-global-aonun-gorunumunu-usi-anlasmas-nedeniyle-negatife-cevirdi-93CH-4049834",
+        "investing:https://tr.investing.com/news/stock-market-news/victory-capitaln-notu-satn-alma-sonras-sp-tarafndan-bbde-teyit-edildi-93CH-4049833",
         "investing:https://tr.investing.com/news/insider-trading-news/key-tronic-evp-adam-agress-6654-dolarlk-hisse-satt-93CH-4049832",
         "investing:https://tr.investing.com/news/stock-market-news/fitch-vestann-notunu-guclu-finansallara-dayanarak-bbbye-yukseltti-93CH-4049831",
         "investing:https://tr.investing.com/news/world-news/moodys-meksikann-yen-tahvillerine-baa3-notu-verdi-93CH-4049830",
@@ -386,12 +397,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:92be817c8d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:b8a139eecd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:b8a139eecd9e8:0",
         "tradingview:fxstreet:92be817c8d9e8:0",
         "tradingview:fxstreet:33581273ed9e8:0",
         "tradingview:fxstreet:03777a74dd9e8:0",
         "tradingview:fxstreet:5ad85dc2ad9e8:0",
+        "tradingview:beincrypto:d3ce9fc60d9e8:0",
         "tradingview:fxstreet:788ebada3d9e8:0",
         "tradingview:fxstreet:4a2de96b5d9e8:0",
         "tradingview:beincrypto:ea6b4a6a4d9e8:0",
@@ -448,6 +461,10 @@
         "tradingview:fxstreet:5fbb64233d9e8:0",
         "tradingview:matriks:6708145:0",
         "tradingview:matriks:6708144:0",
+        "tradingview:matriks:6708142:0",
+        "tradingview:matriks:6708135:0",
+        "tradingview:matriks:6708127:0",
+        "tradingview:matriks:6708121:0",
         "tradingview:matriks:6708119:0",
         "tradingview:matriks:6708115:0",
         "tradingview:matriks:6708099:0",
@@ -460,6 +477,7 @@
         "tradingview:matriks:6708061:0",
         "tradingview:matriks:6708057:0",
         "tradingview:matriks:6708038:0",
+        "tradingview:matriks:6708034:0",
         "tradingview:fxstreet:311685968d9e8:0",
         "tradingview:matriks:6708030:0",
         "tradingview:matriks:6708026:0",
@@ -542,6 +560,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni abd dolar kars s nda 160 seviyesinin alt nda destekleniyor scotiabank",
+      "link": "https://tr.tradingview.com/news/fxstreet:b8a139eecd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "greenbrier tekorius un emekliligi oncesi comstock u ceo secti",
+      "link": "https://tr.investing.com/news/company-news/greenbrier-tekoriusun-emekliligi-oncesi-comstocku-ceo-secti-93CH-4049870"
+    },
+    {
+      "source": "investing",
+      "text": "array technologies affordable wire management sat n almas n tamamlad",
+      "link": "https://tr.investing.com/news/company-news/array-technologies-affordable-wire-management-satn-almasn-tamamlad-93CH-4049868"
+    },
+    {
+      "source": "investing",
+      "text": "myers industries lastik tedarik birimini 30 milyon dolara satt",
+      "link": "https://tr.investing.com/news/company-news/myers-industries-lastik-tedarik-birimini-30-milyon-dolara-satt-93CH-4049869"
+    },
+    {
+      "source": "investing",
+      "text": "neurothera otizm tedavisi denemesine 26 cocuk kaydetti",
+      "link": "https://tr.investing.com/news/company-news/neurothera-otizm-tedavisi-denemesine-26-cocuk-kaydetti-93CH-4049867"
+    },
+    {
+      "source": "investing",
+      "text": "aar sanjay sood u dijital teknoloji direktoru atad",
+      "link": "https://tr.investing.com/news/company-news/aar-sanjay-soodu-dijital-ve-teknoloji-direktoru-atad-93CH-4049866"
+    },
+    {
+      "source": "investing",
+      "text": "radiant logistics coo olarak david buss atad",
+      "link": "https://tr.investing.com/news/company-news/radiant-logistics-coo-olarak-david-buss-atad-93CH-4049865"
+    },
+    {
+      "source": "investing",
+      "text": "planet labs uydular spacex f rlatmas oncesi kaliforniya ya gonderdi",
+      "link": "https://tr.investing.com/news/company-news/planet-labs-uydular-spacex-frlatmas-oncesi-kaliforniyaya-gonderdi-93CH-4049864"
+    },
+    {
+      "source": "investing",
+      "text": "stryker zurimed i rotator manset onar m sistemini sat n alacak",
+      "link": "https://tr.investing.com/news/company-news/stryker-zurimedi-ve-rotator-manset-onarm-sistemini-satn-alacak-93CH-4049863"
+    },
+    {
+      "source": "investing",
+      "text": "txnm energy 400 milyon dolarl k hisse arz ac klad",
+      "link": "https://tr.investing.com/news/company-news/txnm-energy-400-milyon-dolarlk-hisse-arz-acklad-93CH-4049861"
+    },
+    {
+      "source": "investing",
+      "text": "bitdeer ai malezya veri merkezi kapasitesini satt",
+      "link": "https://tr.investing.com/news/company-news/bitdeer-ai-malezya-veri-merkezi-kapasitesini-satt-93CH-4049853"
+    },
+    {
+      "source": "kap",
+      "text": "spk bulteni spk bulteni sirket sermaye piyasasi kurulu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656528"
+    },
     {
       "source": "tradingview",
       "text": "abd baskan trump iran sald r lar n n s n rl olacag n soylerken hurmuz petrol ak slar devam ediyor",
