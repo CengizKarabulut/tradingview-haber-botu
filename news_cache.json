@@ -333,8 +333,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:765e45284d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:f68399008d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:f68399008d9e8:0",
+        "tradingview:fxstreet:cfa9e4580d9e8:0",
         "tradingview:fxstreet:765e45284d9e8:0",
         "tradingview:fxstreet:d5cfcb07dd9e8:0",
         "tradingview:fxstreet:dd65dce7bd9e8:0",
@@ -502,6 +504,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "wti ham petrol fiyat abd sald r lar n n ard ndan iran n fuze f rlatmas yla 83 50 n uzerinde seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f68399008d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro almanya tufe enflasyonu ac klamas oncesinde 1 1600 seviyesine yak n yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:cfa9e4580d9e8:0"
+    },
     {
       "source": "investing",
       "text": "abd iran gerilimi yeniden t rmand hisse senedi vadeli islemleri dustu",
