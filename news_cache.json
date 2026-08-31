@@ -2,8 +2,19 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656212",
+      "last_seen_key": "kap:1656224",
       "seen_keys": [
+        "kap:1656224",
+        "kap:1656223",
+        "kap:1656222",
+        "kap:1656221",
+        "kap:1656220",
+        "kap:1656218",
+        "kap:1656217",
+        "kap:1656216",
+        "kap:1656215",
+        "kap:1656214",
+        "kap:1656213",
         "kap:1656212",
         "kap:1656211",
         "kap:1656210",
@@ -456,8 +467,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:2372d1f62d9e8:0",
+      "last_seen_key": "tradingview:matriks:6707584:0",
       "seen_keys": [
+        "tradingview:matriks:6707584:0",
+        "tradingview:fxstreet:5a1b3e3abd9e8:0",
+        "tradingview:matriks:6707564:0",
+        "tradingview:matriks:6707535:0",
         "tradingview:fxstreet:2372d1f62d9e8:0",
         "tradingview:fxstreet:91bcded5ad9e8:0",
         "tradingview:matriks:6707516:0",
@@ -465,6 +480,8 @@
         "tradingview:matriks:6707497:0",
         "tradingview:fxstreet:57f46c788d9e8:0",
         "tradingview:matriks:6707492:0",
+        "tradingview:fxstreet:1c1c6d2e1d9e8:0",
+        "tradingview:fxstreet:6caf51d6ed9e8:0",
         "tradingview:matriks:6707486:0",
         "tradingview:fxstreet:ac237a838d9e8:0",
         "tradingview:fxstreet:dc3d3971fd9e8:0",
@@ -487,6 +504,7 @@
         "tradingview:matriks:6707408:0",
         "tradingview:matriks:6707406:0",
         "tradingview:fxstreet:b16ad3410d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44S0PT:0",
         "tradingview:fxstreet:b1072aa33d9e8:0",
         "tradingview:matriks:6707382:0",
         "tradingview:matriks:6707379:0",
@@ -496,12 +514,18 @@
         "tradingview:matriks:6707357:0",
         "tradingview:beincrypto:5d2fc39d0d9e8:0",
         "tradingview:fxstreet:40e6701e9d9e8:0",
+        "tradingview:fxstreet:55b970081d9e8:0",
         "tradingview:matriks:6707269:0",
         "tradingview:matriks:6707263:0",
+        "tradingview:matriks:6707247:0",
         "tradingview:fxstreet:60e43e792d9e8:0",
         "tradingview:beincrypto:13c23dcbed9e8:0",
         "tradingview:fxstreet:6266b2a63d9e8:0",
         "tradingview:matriks:6707229:0",
+        "tradingview:fxstreet:240184038d9e8:0",
+        "tradingview:fxstreet:7c0550d16d9e8:0",
+        "tradingview:fxstreet:303d86e72d9e8:0",
+        "tradingview:fxstreet:690eed2e4d9e8:0",
         "tradingview:fxstreet:d89c78d4ad9e8:0",
         "tradingview:fxstreet:9d9b56e7ed9e8:0",
         "tradingview:matriks:6707167:0",
@@ -518,7 +542,10 @@
         "tradingview:fxstreet:99be70ae3d9e8:0",
         "tradingview:matriks:6707069:0",
         "tradingview:matriks:6707067:0",
+        "tradingview:fxstreet:be9b29ea7d9e8:0",
+        "tradingview:fxstreet:bbdc5ac38d9e8:0",
         "tradingview:matriks:6707063:0",
+        "tradingview:fxstreet:4be977a0dd9e8:0",
         "tradingview:fxstreet:aef67d134d9e8:0",
         "tradingview:matriks:6707058:0",
         "tradingview:cointelegraph:a3377ac7ad9e8:0",
@@ -679,6 +706,81 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hurmuz dinmeyen gerilim petrolde denge aray s trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6707584:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya flas tufe uyum buyumesi agustos ta 2 9 beklenenden daha yavas kalmaya devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5a1b3e3abd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiye ekonomi gundemi 1 eylul",
+      "link": "https://tr.tradingview.com/news/matriks:6707564:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "makro analiz gsyh albaraka turk",
+      "link": "https://tr.tradingview.com/news/matriks:6707535:0"
+    },
+    {
+      "source": "kap",
+      "text": "tkfen herhangi otoriteye mali tablo verilmesi 2026 y l 2 donem gecici vergi beyannamesi ekinde sunulan gelir tablosu sirket tekfen holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656224"
+    },
+    {
+      "source": "kap",
+      "text": "bmsch pay baz nda devre kesici bildirimi bmsch e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656223"
+    },
+    {
+      "source": "kap",
+      "text": "eksun pay baz nda devre kesici bildirimi eksun e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656222"
+    },
+    {
+      "source": "kap",
+      "text": "genkm pay baz nda devre kesici bildirimi genkm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656221"
+    },
+    {
+      "source": "kap",
+      "text": "alnus anc pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfsrmde2633 isin kodlu sabit faizli finansman bonosunun sat s n n tamamlanmas sirket alnus yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656220"
+    },
+    {
+      "source": "kap",
+      "text": "dapgm pay baz nda devre kesici bildirimi dapgm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656218"
+    },
+    {
+      "source": "kap",
+      "text": "izmdc pay baz nda devre kesici bildirimi izmdc e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656217"
+    },
+    {
+      "source": "kap",
+      "text": "taten pay baz nda devre kesici bildirimi taten e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656216"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr esas sozlesme esas sozlesme sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656215"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr sermaye art r m azalt m islemlerine iliskin bildirim bedelsiz sermaye art r m tescil ilan sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656214"
+    },
+    {
+      "source": "kap",
+      "text": "inalr ihrac belgesi borclanma araclar na iliskin ihrac belgesinin spk taraf ndan onaylanmas sirket inallar otomotiv sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656213"
+    },
     {
       "source": "tradingview",
       "text": "euro ecb s k lasma beklentileri pariteyi destekliyor bbh",
