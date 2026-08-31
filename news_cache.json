@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656511",
+      "last_seen_key": "kap:1656512",
       "seen_keys": [
+        "kap:1656512",
         "kap:1656511",
         "kap:1656510",
         "kap:1656509",
@@ -186,18 +187,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/kaltura-yoneticisi-eyal-manor-34515-dolar-degerinde-hisse-satt-93CH-4049785",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/jefferies-protagonist-therapeutics-hissesi-icin-tavsiyesini-korudu-93CH-4049793",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-protagonist-therapeutics-hissesi-icin-tavsiyesini-korudu-93CH-4049793",
+        "investing:https://tr.investing.com/news/insider-trading-news/ascent-solar-yoneticisi-forrest-reynolds-t-28096-dolarlk-hisse-satt-93CH-4049792",
+        "investing:https://tr.investing.com/news/insider-trading-news/advanced-energy-industries-yoneticisi-263075-dolar-degerinde-hisse-satt-93CH-4049791",
+        "investing:https://tr.investing.com/news/company-news/medical-properties-trust-hissesi-396-dolara-dustu-93CH-4049789",
         "investing:https://tr.investing.com/news/insider-trading-news/kaltura-yoneticisi-eyal-manor-34515-dolar-degerinde-hisse-satt-93CH-4049785",
         "investing:https://tr.investing.com/news/stock-market-news/hyperliquidin-abdye-giris-soylentisi-ice-ve-nasdaq-hisselerini-dusurdu-4049787",
         "investing:https://tr.investing.com/news/world-news/kolombiya-11-milyar-dolar-borclanma-ve-takas-planlyor-93CH-4049784",
         "investing:https://tr.investing.com/news/stock-market-news/applen-deneyimli-ismi-schiller-app-store-gorevini-brakt-4049783",
         "investing:https://tr.investing.com/news/insider-trading-news/artesian-resources-yonetim-kurulu-uyesi-71000-dolar-degerinde-hisse-satt-93CH-4049780",
         "investing:https://tr.investing.com/news/company-news/weibo-hissesi-688-dolara-duserek-52-haftann-dibini-gordu-93CH-4049779",
-        "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-waters-cinin-yeni-kurallarndan-en-iyi-sekilde-yararlanacak-93CH-4049770",
-        "investing:https://tr.investing.com/news/economy-news/sec-hissedar-vekalet-onerisi-kurallarnda-degisiklik-planlyor-93CH-4049767",
-        "investing:https://tr.investing.com/news/company-news/tenon-medical-3-milyon-dolarlk-ozel-yerlestirme-turunu-kapatt-93CH-4049766",
-        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-ascendis-anlasmas-sonras-biomarin-hedefini-yukseltti-93CH-4049764",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -218,6 +219,10 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-waters-cinin-yeni-kurallarndan-en-iyi-sekilde-yararlanacak-93CH-4049770",
+        "investing:https://tr.investing.com/news/economy-news/sec-hissedar-vekalet-onerisi-kurallarnda-degisiklik-planlyor-93CH-4049767",
+        "investing:https://tr.investing.com/news/company-news/tenon-medical-3-milyon-dolarlk-ozel-yerlestirme-turunu-kapatt-93CH-4049766",
+        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-ascendis-anlasmas-sonras-biomarin-hedefini-yukseltti-93CH-4049764",
         "investing:https://tr.investing.com/news/economy-news/euro-faiz-oranlar-ve-enflasyon-uyumsuz--bofa-frsat-goruyor-4049765",
         "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-biomarin-icin-hisse-tavsiyesini-yineledi-93CH-4049763",
         "investing:https://tr.investing.com/news/analyst-ratings/uydu-lansman-sonras-raymond-james-viasat-hissesi-icin-outperform-notunu-korudu-93CH-4049762",
@@ -328,8 +333,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:f6802e031d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:62c52f0aed9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:62c52f0aed9e8:0",
         "tradingview:cointelegraph:f6802e031d9e8:0",
         "tradingview:cointelegraph:12c7213f6d9e8:0",
         "tradingview:fxstreet:343d0e96cd9e8:0",
@@ -468,6 +474,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bitcoin 26 l k agustos rallisi fed den warsh bitti sinyali verdi",
+      "link": "https://tr.tradingview.com/news/beincrypto:62c52f0aed9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "jefferies protagonist therapeutics hissesi tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/jefferies-protagonist-therapeutics-hissesi-icin-tavsiyesini-korudu-93CH-4049793"
+    },
+    {
+      "source": "investing",
+      "text": "ascent solar yoneticisi forrest reynolds t 28 096 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/ascent-solar-yoneticisi-forrest-reynolds-t-28096-dolarlk-hisse-satt-93CH-4049792"
+    },
+    {
+      "source": "investing",
+      "text": "advanced energy industries yoneticisi 263 075 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/advanced-energy-industries-yoneticisi-263075-dolar-degerinde-hisse-satt-93CH-4049791"
+    },
+    {
+      "source": "investing",
+      "text": "medical properties trust hissesi 3 96 dolara dustu",
+      "link": "https://tr.investing.com/news/company-news/medical-properties-trust-hissesi-396-dolara-dustu-93CH-4049789"
+    },
+    {
+      "source": "kap",
+      "text": "akm akmen yat r m kurulusu varant sertifika senetlerine iliskin bildirim 31 08 2026 vadeli ons alt n ons gumus bist30 endeksi bist spot alt n endeksi usdtry doviz kuru pay senedi dayanak varl kl varantlar n itfas sirket ak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656512"
+    },
     {
       "source": "tradingview",
       "text": "bitcoin abd tahvil getirileri 20 y l n yeni zirvesini hedeflerken dalgal ayl k kapan sa basl yor",
