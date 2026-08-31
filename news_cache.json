@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
+<<<<<<< Updated upstream
       "last_seen_key": "kap:1656058",
       "seen_keys": [
+=======
+      "last_seen_key": "kap:1656059",
+      "seen_keys": [
+        "kap:1656059",
+>>>>>>> Stashed changes
         "kap:1656058",
         "kap:1656057",
         "kap:1656055",
@@ -163,8 +169,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/issizlik-orani-temmuz-da-artti-3786835",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/agustos-ta-aclik-sinir-37-bin-lirayi-asti-3786849",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/agustos-ta-aclik-sinir-37-bin-lirayi-asti-3786849",
         "bloomberght:https://www.bloomberght.com/issizlik-orani-temmuz-da-artti-3786835",
         "bloomberght:https://www.bloomberght.com/turkiye-ekonomisinin-ikinci-ceyrek-buyume-performansi-3786826",
         "bloomberght:https://www.bloomberght.com/trump-ben-dahil-herkes-iran-in-karsilik-vermesine-sasirdi-3786824",
@@ -460,10 +467,15 @@
       ]
     },
     "tradingview": {
+<<<<<<< Updated upstream
       "last_seen_key": "tradingview:matriks:6706550:0",
       "seen_keys": [
         "tradingview:matriks:6706550:0",
         "tradingview:matriks:6706549:0",
+=======
+      "last_seen_key": "tradingview:matriks:6706547:0",
+      "seen_keys": [
+>>>>>>> Stashed changes
         "tradingview:matriks:6706547:0",
         "tradingview:matriks:6706541:0",
         "tradingview:matriks:6706542:0",
@@ -832,6 +844,7 @@
   "fingerprints": [
     {
       "source": "tradingview",
+<<<<<<< Updated upstream
       "text": "mevsim etkisinden ar nd r lm s isgucune kat lma oran temmuz ay nda 52 5 tuik",
       "link": "https://tr.tradingview.com/news/matriks:6706550:0"
     },
@@ -842,6 +855,8 @@
     },
     {
       "source": "tradingview",
+=======
+>>>>>>> Stashed changes
       "text": "mevsim etkisinden ar nd r lm s issizlik oran temmuz ay nda 8 1 onceki 7 6 tuik",
       "link": "https://tr.tradingview.com/news/matriks:6706547:0"
     },
@@ -921,6 +936,19 @@
       "link": "https://tr.investing.com/news/analyst-ratings/hdfc-bank-hisse-hedef-fiyat-ceo-cks-nedeniyle-880-rupiye-dusuruldu-93CH-4048950"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "source": "bloomberght",
+      "text": "agustos ta acl k s n r 37 bin liray ast turk is arast rmas na gore agustos ay nda dort kisilik ailenin sagl kl dengeli yeterli beslenebilmesi yap lmas gereken ayl k g harcamas tutar acl k s n r 37 bin 388 tl ye yukseldi",
+      "link": "https://www.bloomberght.com/agustos-ta-aclik-sinir-37-bin-lirayi-asti-3786849"
+    },
+    {
+      "source": "kap",
+      "text": "halkb pay baz nda devre kesici bildirimi halkb e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656059"
+    },
+    {
+>>>>>>> Stashed changes
       "source": "kap",
       "text": "hfp genel ac klama fon portfoyumuzde kira sertifikas bulunan kt sukuk varl k kiralama a s taraf ndan ihrac edilen trdktske26a6 isin kodlu kira sertifikas na trfalvs92610 bonosuna kars l k ayr lmas sirket hedef portfoy yonetimi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1656058"
