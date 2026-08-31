@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656122",
+      "last_seen_key": "kap:1656130",
       "seen_keys": [
+        "kap:1656130",
+        "kap:1656129",
+        "kap:1656127",
+        "kap:1656126",
+        "kap:1656125",
+        "kap:1656124",
         "kap:1656122",
         "kap:1656121",
         "kap:1656120",
@@ -127,6 +133,7 @@
         "bloomberght:https://www.bloomberght.com/guncel-altin-fiyatlari-31-agustos-2026-pazartesi-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3786831",
         "bloomberght:https://www.bloomberght.com/dolartlde-son-durum-ne-31-agustos-2026-euro-ve-doviz-fiyatlari-pkh2-3786823",
         "bloomberght:https://www.bloomberght.com/petrolde-yeniden-jeopolitik-gerilim-3786815",
+        "bloomberght:https://www.bloomberght.com/yorum/koray-gultekin-bahar/3786869-yapay-zek-ajanlari-odeme-yaparken-guveni-kim-saglayacak",
         "bloomberght:https://www.bloomberght.com/yorum/dr-soner-canko/3786860-paranin-yeni-dunyasinda-yer-kapma-yarisi",
         "bloomberght:https://www.bloomberght.com/yorum/dr-ali-cinar/3786827-universitelerde-ai-devrimi-mitnin-raporundan-cikan-10-carpici-mesaj",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-31082026-3786807",
@@ -166,8 +173,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/fsb-baskan-bailey-yeni-yapay-zeka-modelleri-finansal-istikrara-risk-4049069",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/bakkafrost-hissesi-bugun-neden-dusuyor-93CH-4049101",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/bakkafrost-hissesi-bugun-neden-dusuyor-93CH-4049101",
+        "investing:https://tr.investing.com/news/stock-market-news/shandong-gold-mining-hisseleri-neden-yukseliste-93CH-4049094",
+        "investing:https://tr.investing.com/news/analyst-ratings/ubs-kaiser-aluminum-hissesi-icin-tavsiyesini-yukseltti-93CH-4049093",
         "investing:https://tr.investing.com/news/economy-news/fsb-baskan-bailey-yeni-yapay-zeka-modelleri-finansal-istikrara-risk-4049069",
         "investing:https://tr.investing.com/news/economic-indicators/ucuz-pirinc-yuksek-faizler-japonyann-enflasyon-bilmecesi-karmasklasyor-4049063",
         "investing:https://tr.investing.com/news/global-filings/cw-enerji-abd-ortaklg-48-milyon-dolarlk-gunes-paneli-loi-imzalad-93CH-4049048",
@@ -175,9 +185,6 @@
         "investing:https://tr.investing.com/news/economy-news/warshn-sahin-tavr-fedden-iki-faiz-artrm-daha-isaret-ediyor-4049064",
         "investing:https://tr.investing.com/news/global-filings/1000-yatrmlar-holding-uber-ile-elektrikli-arac-icin-mou-imzalad-93CH-4049044",
         "investing:https://tr.investing.com/news/global-filings/vanet-gda-dr-nar-gdann-tum-paylarn-devrald-93CH-4049043",
-        "investing:https://tr.investing.com/news/global-filings/aksu-enerji-spkdan-sermaye-artrm-icin-ret-karar-ald-93CH-4049042",
-        "investing:https://tr.investing.com/news/global-filings/kent-finans-faktoring-150-milyon-tllik-bono-ihracn-tamamlad-93CH-4049040",
-        "investing:https://tr.investing.com/news/global-filings/tugcelik-yatrmc-iliskileri-yoneticisi-osman-gunun-ayrldgn-duyurdu-93CH-4049039",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -198,6 +205,9 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/global-filings/aksu-enerji-spkdan-sermaye-artrm-icin-ret-karar-ald-93CH-4049042",
+        "investing:https://tr.investing.com/news/global-filings/kent-finans-faktoring-150-milyon-tllik-bono-ihracn-tamamlad-93CH-4049040",
+        "investing:https://tr.investing.com/news/global-filings/tugcelik-yatrmc-iliskileri-yoneticisi-osman-gunun-ayrldgn-duyurdu-93CH-4049039",
         "investing:https://tr.investing.com/news/global-filings/tera-finans-faktoring-100-milyon-tllik-finansman-bonosu-satt-93CH-4049038",
         "investing:https://tr.investing.com/news/global-filings/ziraat-gyo-43898-mlik-arsa-icin-gelir-paylasm-sozlesmesi-imzalad-93CH-4049027",
         "investing:https://tr.investing.com/news/global-filings/yap-kredi-tolga-ozdemiri-gmyye-atamak-icin-bddkya-basvuracak-93CH-4049026",
@@ -315,13 +325,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6707067:0",
+      "last_seen_key": "tradingview:fxstreet:011ebfe20d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:011ebfe20d9e8:0",
+        "tradingview:fxstreet:99be70ae3d9e8:0",
+        "tradingview:matriks:6707069:0",
         "tradingview:matriks:6707067:0",
         "tradingview:matriks:6707063:0",
         "tradingview:fxstreet:aef67d134d9e8:0",
         "tradingview:matriks:6707058:0",
         "tradingview:fxstreet:b1072aa33d9e8:0",
+        "tradingview:cointelegraph:a3377ac7ad9e8:0",
         "tradingview:fxstreet:915a0d6a9d9e8:0",
         "tradingview:matriks:6707036:0",
         "tradingview:fxstreet:5d93cce10d9e8:0",
@@ -479,6 +493,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar s k lasmac fed fiyatlamas dolar istihdam verileri oncesinde destekliyor bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:011ebfe20d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi fiyat analizi dxy 99 75 civar ndaki 100 sma 38 2 fibo kavusumu yak nlar nda basar s z oluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:99be70ae3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yunanistan issizlik oran temmuz 7 9 onceki 8 0",
+      "link": "https://tr.tradingview.com/news/matriks:6707069:0"
+    },
+    {
+      "source": "investing",
+      "text": "bakkafrost hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/bakkafrost-hissesi-bugun-neden-dusuyor-93CH-4049101"
+    },
+    {
+      "source": "investing",
+      "text": "shandong gold mining hisseleri neden yukseliste",
+      "link": "https://tr.investing.com/news/stock-market-news/shandong-gold-mining-hisseleri-neden-yukseliste-93CH-4049094"
+    },
+    {
+      "source": "investing",
+      "text": "ubs kaiser aluminum hissesi tavsiyesini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/ubs-kaiser-aluminum-hissesi-icin-tavsiyesini-yukseltti-93CH-4049093"
+    },
+    {
+      "source": "kap",
+      "text": "binho pay baz nda devre kesici bildirimi binho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656130"
+    },
+    {
+      "source": "kap",
+      "text": "osmen pay baz nda devre kesici bildirimi osmen e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656129"
+    },
+    {
+      "source": "kap",
+      "text": "dofrb pay baz nda devre kesici bildirimi dofrb e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656127"
+    },
+    {
+      "source": "kap",
+      "text": "blcyt pay baz nda devre kesici bildirimi blcyt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656126"
+    },
+    {
+      "source": "kap",
+      "text": "info pay baz nda devre kesici bildirimi info e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656125"
+    },
+    {
+      "source": "kap",
+      "text": "marka kod degisikligi islem kodu degisen pay sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656124"
+    },
     {
       "source": "tradingview",
       "text": "yunanistan perakende sat slar haziran y ll k 1 9 onceki 6 8",
