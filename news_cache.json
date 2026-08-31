@@ -162,18 +162,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/warshn-acklamalar-sonras-altn-keskin-dususun-ardndan-toparland-4048841",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/sk-innovation-hisseleri-neden-yukseliste-93CH-4048845",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/sk-innovation-hisseleri-neden-yukseliste-93CH-4048845",
+        "investing:https://tr.investing.com/news/stock-market-news/sk-on-neovolta-powera-2031e-kadar-batarya-hucresi-tedarik-edecek-93CH-4048844",
+        "investing:https://tr.investing.com/news/stock-market-news/star-entertainment-hisseleri-neden-dusuyor-93CH-4048843",
+        "investing:https://tr.investing.com/news/stock-market-news/liontown-resources-hisseleri-neden-yukseliste-93CH-4048842",
         "investing:https://tr.investing.com/news/commodities-news/warshn-acklamalar-sonras-altn-keskin-dususun-ardndan-toparland-4048841",
         "investing:https://tr.investing.com/news/stock-market-news/liontown-resources-lityum-kazanclaryla-ilk-yllk-karn-acklad-93CH-4048839",
         "investing:https://tr.investing.com/news/stock-market-news/bessent-yen-hareketleri-kontrol-altnda-boja-faiz-basks-yok-93CH-4048838",
         "investing:https://tr.investing.com/news/stock-market-news/abdiran-gerilimi-yeniden-trmand-hisse-senedi-vadeli-islemleri-dustu-4048834",
         "investing:https://tr.investing.com/news/commodities-news/abdnin-irana-saldrs-sonras-petrol-fiyatlar-yukseldi-4048833",
         "investing:https://tr.investing.com/news/economic-indicators/japonyada-sanayi-uretimi-temmuzda-beklenmedik-sekilde-artt-perakende-satslar-yukseldi-4048830",
-        "investing:https://tr.investing.com/news/forex-news/kuresel-doviz-politikasnda-bessent-doktrini-mi-sekilleniyor-4048829",
-        "investing:https://tr.investing.com/news/stock-market-news/faraday-future-orta-doguda-robotik-atlmn-genisletiyor-4048825",
-        "investing:https://tr.investing.com/news/company-news/oneok-permian-havzas-varlklarn-443-milyar-dolara-satn-alyor-93CH-4048824",
-        "investing:https://tr.investing.com/news/stock-market-news/ukrayna-savunma-teknolojisi-fonu-icin-abd-yatrm-aryor-4048822",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -194,6 +194,10 @@
         "investing:https://tr.investing.com/analysis/1-ayda-50-getiren-yapay-zekann-agustos-portfoyu-investing-pro-200505611",
         "investing:https://tr.investing.com/analysis/tupras-2026-2-ceyrek-bilanco-analizi-200505598",
         "investing:https://tr.investing.com/analysis/koc-holding-kchol-2026-2-ceyrek-bilanco-analizi-200505581",
+        "investing:https://tr.investing.com/news/forex-news/kuresel-doviz-politikasnda-bessent-doktrini-mi-sekilleniyor-4048829",
+        "investing:https://tr.investing.com/news/stock-market-news/faraday-future-orta-doguda-robotik-atlmn-genisletiyor-4048825",
+        "investing:https://tr.investing.com/news/company-news/oneok-permian-havzas-varlklarn-443-milyar-dolara-satn-alyor-93CH-4048824",
+        "investing:https://tr.investing.com/news/stock-market-news/ukrayna-savunma-teknolojisi-fonu-icin-abd-yatrm-aryor-4048822",
         "investing:https://tr.investing.com/news/stock-market-news/aon-kkr-destekli-usi-insurance-17-milyar-dolara-alyor-4048819",
         "investing:https://tr.investing.com/news/company-news/arrowhead-plozasiran-icin-duzenleyici-basvuru-planlyor-93CH-4048816",
         "investing:https://tr.investing.com/news/commodities-news/venezuela-petrolu-abdnin-bosalan-rezervlerini-dolduracak-4048814",
@@ -509,6 +513,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "sk innovation hisseleri neden yukseliste",
+      "link": "https://tr.investing.com/news/stock-market-news/sk-innovation-hisseleri-neden-yukseliste-93CH-4048845"
+    },
+    {
+      "source": "investing",
+      "text": "sk on neovolta power a 2031 e kadar batarya hucresi tedarik edecek",
+      "link": "https://tr.investing.com/news/stock-market-news/sk-on-neovolta-powera-2031e-kadar-batarya-hucresi-tedarik-edecek-93CH-4048844"
+    },
+    {
+      "source": "investing",
+      "text": "star entertainment hisseleri neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/star-entertainment-hisseleri-neden-dusuyor-93CH-4048843"
+    },
+    {
+      "source": "investing",
+      "text": "liontown resources hisseleri neden yukseliste",
+      "link": "https://tr.investing.com/news/stock-market-news/liontown-resources-hisseleri-neden-yukseliste-93CH-4048842"
+    },
     {
       "source": "tradingview",
       "text": "japon yeni abd japonya faiz fark iran riskleri aras nda abd dolar kars s nda ayl k en dusuk seviye yak nlar nda k r lgan gorunuyor",
