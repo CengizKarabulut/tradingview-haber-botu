@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656373",
+      "last_seen_key": "kap:1656390",
       "seen_keys": [
+        "kap:1656390",
+        "kap:1656385",
+        "kap:1656381",
+        "kap:1656380",
+        "kap:1656378",
+        "kap:1656376",
+        "kap:1656375",
         "kap:1656373",
         "kap:1656372",
         "kap:1656371",
@@ -289,8 +296,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/warsh-dunya-buyumeyi-destekleyen-kuresel-yatirim-dalgasi-yasiyor-3786918",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/koc-holding-cop31-iklim-degisikligi-zirvesinin-kuresel-is-ortagi-oldu-3786919",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/koc-holding-cop31-iklim-degisikligi-zirvesinin-kuresel-is-ortagi-oldu-3786919",
         "bloomberght:https://www.bloomberght.com/warsh-dunya-buyumeyi-destekleyen-kuresel-yatirim-dalgasi-yasiyor-3786918",
         "bloomberght:https://www.bloomberght.com/putin-cin-le-isbirligi-ekonomi-dahil-tum-alanlarda-gelisti-3786895",
         "bloomberght:https://www.bloomberght.com/trump-iran-a-sert-bir-darbe-indirecegiz-3786892",
@@ -643,8 +651,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f280e8d07d9e8:0",
+      "last_seen_key": "tradingview:matriks:6708119:0",
       "seen_keys": [
+        "tradingview:matriks:6708119:0",
+        "tradingview:matriks:6708115:0",
+        "tradingview:matriks:6708099:0",
+        "tradingview:matriks:6708098:0",
         "tradingview:fxstreet:f280e8d07d9e8:0",
         "tradingview:fxstreet:ac237a838d9e8:0",
         "tradingview:matriks:6708038:0",
@@ -950,6 +962,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bessent iran konusunda cin anlasamad g m z noktalardan daha fazla ortak goruse sahibiz",
+      "link": "https://tr.tradingview.com/news/matriks:6708119:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bessent iran hakk nda amac onlar n muzakere masas na gelmek istemelerini saglayacak ortam kosul olusturmak",
+      "link": "https://tr.tradingview.com/news/matriks:6708115:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dallas fed imalat sektoru endeksi agustos ta 11 6 onceki 1 30",
+      "link": "https://tr.tradingview.com/news/matriks:6708099:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dallas fed imalat sektoru uretimi agustos ta 16 1",
+      "link": "https://tr.tradingview.com/news/matriks:6708098:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "koc holding cop31 iklim degisikligi zirvesi nin kuresel is ortag oldu koc holding turkiye nin ilk kez ev sahipligi yapacag 9 20 kas m 2026 tarihlerinde antalya gerceklestirilecek birlesmis milletler iklim degisikligi konferans n n cop31 kuresel is ortag olmak uzere anlasma imzalad",
+      "link": "https://www.bloomberght.com/koc-holding-cop31-iklim-degisikligi-zirvesinin-kuresel-is-ortagi-oldu-3786919"
+    },
+    {
+      "source": "kap",
+      "text": "islem iptali bap islem iptali sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656390"
+    },
+    {
+      "source": "kap",
+      "text": "dogvy pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfdgrv82617 isin kodlu finansman bono kupon odemesi sirket dogru varlik yonetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656385"
+    },
+    {
+      "source": "kap",
+      "text": "alnus kntfa trffa borclanma araclar n n kira sertifikalar n n islem gormeye baslamas borclanma araclar n n kira sertifikalar n n islem gormeye baslamas sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656381"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank odunc pay piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656380"
+    },
+    {
+      "source": "kap",
+      "text": "alnus anc pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfsrmda2611 isin kodlu degisken faizli finansman bonosunun 1 kupon oran n n belirlenmesi sirket alnus yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656378"
+    },
+    {
+      "source": "kap",
+      "text": "isyat haftal k rapor 28 08 2026 tarihli haftal k rapor sirket is yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656376"
+    },
+    {
+      "source": "kap",
+      "text": "ruzye pay baz nda devre kesici bildirimi ruzye e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656375"
+    },
     {
       "source": "tradingview",
       "text": "kanada dolar abd dolar kars s nda adil degere yak n yatay seyrediyor scotiabank",
