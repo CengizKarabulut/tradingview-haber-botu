@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1655998",
+      "last_seen_key": "kap:1656003",
       "seen_keys": [
+        "kap:1656003",
+        "kap:1656002",
+        "kap:1656001",
         "kap:1655998",
         "kap:1655997",
         "kap:1655996",
@@ -109,8 +112,11 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/petrolde-yeniden-jeopolitik-gerilim-3786815",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/yende-yeni-mudahale-beklentisi-3786818",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/yende-yeni-mudahale-beklentisi-3786818",
+        "bloomberght:https://www.bloomberght.com/tahvil-yatirimcilari-fedin-faiz-artiracagina-supheyle-yaklasiyor-3786817",
+        "bloomberght:https://www.bloomberght.com/altinda-sahin-fed-etkisi-3786816",
         "bloomberght:https://www.bloomberght.com/petrolde-yeniden-jeopolitik-gerilim-3786815",
         "bloomberght:https://www.bloomberght.com/abd-den-iran-a-yeni-saldiri-3786806",
         "bloomberght:https://www.bloomberght.com/ukmto-hurmuz-bogazi-ndan-gecen-bir-tanker-vuruldu-3786805",
@@ -363,8 +369,21 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6706252:0",
+      "last_seen_key": "tradingview:matriks:6706340:0",
       "seen_keys": [
+        "tradingview:matriks:6706340:0",
+        "tradingview:fxstreet:ced7a47b2d9e8:0",
+        "tradingview:matriks:6706326:0",
+        "tradingview:fxstreet:3e0bf2064d9e8:0",
+        "tradingview:fxstreet:e3808e812d9e8:0",
+        "tradingview:fxstreet:12a70ac23d9e8:0",
+        "tradingview:matriks:6706314:0",
+        "tradingview:matriks:6706302:0",
+        "tradingview:fxstreet:abdfc12b5d9e8:0",
+        "tradingview:fxstreet:dbe7e15f5d9e8:0",
+        "tradingview:matriks:6706287:0",
+        "tradingview:matriks:6706285:0",
+        "tradingview:matriks:6706281:0",
         "tradingview:matriks:6706252:0",
         "tradingview:fxstreet:e5acdc5d3d9e8:0",
         "tradingview:matriks:6706238:0",
@@ -379,19 +398,22 @@
         "tradingview:matriks:6706213:0",
         "tradingview:matriks:6706198:0",
         "tradingview:matriks:6706195:0",
+        "tradingview:fxstreet:7cfcbc0cbd9e8:0",
         "tradingview:matriks:6706194:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44S0AG:0",
+        "tradingview:fxstreet:b017c117ed9e8:0",
         "tradingview:matriks:6706191:0",
         "tradingview:fxstreet:dfe74e540d9e8:0",
         "tradingview:fxstreet:d12a958b0d9e8:0",
         "tradingview:matriks:6706189:0",
+        "tradingview:fxstreet:7f624057dd9e8:0",
+        "tradingview:fxstreet:fa1c7ce61d9e8:0",
         "tradingview:matriks:6706185:0",
         "tradingview:beincrypto:3bc3d9ef9d9e8:0",
         "tradingview:matriks:6706180:0",
         "tradingview:matriks:6706176:0",
         "tradingview:matriks:6706174:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44S09X:0",
-        "tradingview:fxstreet:dbe7e15f5d9e8:0",
         "tradingview:matriks:6706170:0",
         "tradingview:matriks:6706169:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44S069:0",
@@ -648,6 +670,96 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten phillipcapital",
+      "link": "https://tr.tradingview.com/news/matriks:6706340:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro alman enflasyon verileri oncesinde japon yeni kars s nda dusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ced7a47b2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6706326:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "south africa private sector credit 7 41 temmuz beklenti 7 8",
+      "link": "https://tr.tradingview.com/news/fxstreet:3e0bf2064d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney afrika m3 para arzi yillik temmuz 9 31 seviyesinden 8 57 seviyesine dusus gosterdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:e3808e812d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "denmark unemployment rate temmuz 2 7 seviyesinde degisim gostermedi",
+      "link": "https://tr.tradingview.com/news/fxstreet:12a70ac23d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hat rlatma matriks haber anketi ekonomistlerin 2 ceyrek gelecek donem gsyh beklentileri netlesti",
+      "link": "https://tr.tradingview.com/news/matriks:6706314:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunun piyasa haritas trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6706302:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur usd fiyat analizi 1 1600 civar na dogru zemin kazan yor 100 gunluk sma n n uzerinde yukselis egilimi devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:abdfc12b5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cw enerji niyet mektubu kapsam nda ongorulen toplam is hacmi yaklas k 48 045 195 usd olup sevkiyat n 4 aral k 2026 tarihinden once tamamlanmas planlanlanmaktad r",
+      "link": "https://tr.tradingview.com/news/matriks:6706287:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cw energy usa inc abd yerlesik musteri aras nda fotovoltaik gunes paneli sat s na iliskin niyet mektubu imzaland",
+      "link": "https://tr.tradingview.com/news/matriks:6706285:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6706281:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "yende yeni mudahale beklentisi japon yeninin dolar kars s nda 160 seviyesini asmas tokyo nun piyasaya yeniden mudahale edebilecegi beklentilerini art rd",
+      "link": "https://www.bloomberght.com/yende-yeni-mudahale-beklentisi-3786818"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tahvil yat r mc lar fed in faiz art racag na supheyle yaklas yor abn amro investment solutions brandywine global investment management gibi sirketlerdeki tahvil yat r mc lar fed baskan kevin warsh n faiz art rmaya haz rland g yonunde artan beklentilere supheyle yaklas yor",
+      "link": "https://www.bloomberght.com/tahvil-yatirimcilari-fedin-faiz-artiracagina-supheyle-yaklasiyor-3786817"
+    },
+    {
+      "source": "bloomberght",
+      "text": "alt nda sahin fed etkisi alt n fed baskan kevin warsh un jackson hole enflasyonla mucadele vurgusu yapmas faiz art s beklentilerini guclendirmesiyle dususunu surdurdu",
+      "link": "https://www.bloomberght.com/altinda-sahin-fed-etkisi-3786816"
+    },
+    {
+      "source": "kap",
+      "text": "alklc doh manas ozrdn paseu pnu pry thf kamuyu ayd nlatma platformu duyurusu ozel durumlar tebligi nin 12 4 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656003"
+    },
+    {
+      "source": "kap",
+      "text": "binho ozel durum ac klamas genel kars l kl mutabakat metni mou memorandum of understanding imzalamas hk sirket 1000 yatirimlar holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656002"
+    },
+    {
+      "source": "kap",
+      "text": "tby tebyt yat r m kurulusu varant sertifika senetlerine iliskin bildirim bnp paribas issuance b v 28 08 2026 vadeli yat r m kurulusu varantlar itfa fiyatlar sirket teb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656001"
+    },
     {
       "source": "investing",
       "text": "jyske bank 35 haftada 53 588 hisse geri ald",
