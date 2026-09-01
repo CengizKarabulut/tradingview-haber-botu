@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656536",
+      "last_seen_key": "kap:1656542",
       "seen_keys": [
+        "kap:1656542",
+        "kap:1656541",
+        "kap:1656539",
+        "kap:1656538",
+        "kap:1656537",
         "kap:1656536",
         "kap:1656535",
         "kap:1656534",
@@ -41,7 +46,6 @@
         "kap:1656489",
         "kap:1656488",
         "kap:1656486",
-        "kap:1656485",
         "kap:1656484",
         "kap:1656483",
         "kap:1656482",
@@ -94,6 +98,7 @@
         "kap:1656398",
         "kap:1656397",
         "kap:1656396",
+        "kap:1656485",
         "kap:1656395",
         "kap:1656394",
         "kap:1656393",
@@ -152,8 +157,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-tahvil-getirileri-20-yilin-zirvesinde-3786948",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-li-bakan-japonya-ya-faiz-artisi-cagrisi-yapti-3786950",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/abd-li-bakan-japonya-ya-faiz-artisi-cagrisi-yapti-3786950",
+        "bloomberght:https://www.bloomberght.com/jpmorgan-abd-hisselerinde-temkinli-gorunume-gecti-3786949",
         "bloomberght:https://www.bloomberght.com/kuresel-tahvil-getirileri-20-yilin-zirvesinde-3786948",
         "bloomberght:https://www.bloomberght.com/petrol-tirmanan-catisma-ortamiyla-sicradi-3786946",
         "bloomberght:https://www.bloomberght.com/spk-dan-borsa-disi-pay-satislarina-yeni-sinirlama-3786945",
@@ -220,18 +227,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/china-cinda-asset-management-hisseleri-neden-dusuyor-93CH-4050063",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/valeura-taylandda-wassana-sahasnn-yeniden-gelistirilmesini-hzlandryor-93CH-4050070",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/valeura-taylandda-wassana-sahasnn-yeniden-gelistirilmesini-hzlandryor-93CH-4050070",
+        "investing:https://tr.investing.com/news/stock-market-news/aedifica-cofinimmo-anlasmas-sonras-kira-gelirinde-62-arts-bildirdi-93CH-4050068",
+        "investing:https://tr.investing.com/news/stock-market-news/guney-kore-duzenleyicisi-tpgnin-lotte-rental-almn-onaylad-93CH-4050067",
+        "investing:https://tr.investing.com/news/stock-market-news/pekinin-tuketimi-artrma-onlemleri-cin-perakende-hisselerini-yukseltti-4050066",
+        "investing:https://tr.investing.com/news/insider-trading-news/red-oak-partners-motorsport-games-hissesine-47629-dolar-yatrd-93CH-4050064",
         "investing:https://tr.investing.com/news/stock-market-news/china-cinda-asset-management-hisseleri-neden-dusuyor-93CH-4050063",
         "investing:https://tr.investing.com/news/stock-market-news/bofaya-gore-avrupann-en-iyi-bt-hizmetleri-ve-odeme-hisseleri-93CH-4050062",
         "investing:https://tr.investing.com/news/stock-market-news/byd-hisseleri-bugun-neden-yukseliyor-93CH-4050059",
         "investing:https://tr.investing.com/news/stock-market-news/zai-hissesi-bugun-neden-yukseliyor-93CH-4050058",
         "investing:https://tr.investing.com/news/company-news/serabi-gold-cfo-ayrlg-sonras-gecici-mali-direktor-atad-93CH-4050056",
-        "investing:https://tr.investing.com/news/insider-trading-news/slb-ceosu-olivier-le-peuch-300000-dolarlk-hisse-satt-93CH-4050055",
-        "investing:https://tr.investing.com/news/insider-trading-news/soundhound-ai-yoneticisi-diana-sroka-9602-dolar-degerinde-hisse-satt-93CH-4050054",
-        "investing:https://tr.investing.com/news/stock-market-news/zai-hisseleri-ilk-yar-geliri-yuzde-400e-yakn-artnca-yukseldi-4050053",
-        "investing:https://tr.investing.com/news/economy-news/japonyada-10-yllk-tahvil-faizi-30-yln-zirvesinde-4050051",
-        "investing:https://tr.investing.com/news/insider-trading-news/raymond-james-finans-yoneticisi-133-milyon-dolarlk-hisse-satt-93CH-4050049",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -252,6 +259,11 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/insider-trading-news/slb-ceosu-olivier-le-peuch-300000-dolarlk-hisse-satt-93CH-4050055",
+        "investing:https://tr.investing.com/news/insider-trading-news/soundhound-ai-yoneticisi-diana-sroka-9602-dolar-degerinde-hisse-satt-93CH-4050054",
+        "investing:https://tr.investing.com/news/stock-market-news/zai-hisseleri-ilk-yar-geliri-yuzde-400e-yakn-artnca-yukseldi-4050053",
+        "investing:https://tr.investing.com/news/economy-news/japonyada-10-yllk-tahvil-faizi-30-yln-zirvesinde-4050051",
+        "investing:https://tr.investing.com/news/insider-trading-news/raymond-james-finans-yoneticisi-133-milyon-dolarlk-hisse-satt-93CH-4050049",
         "investing:https://tr.investing.com/news/company-news/xpeng-agustosta-39107-arac-teslim-etti-yllk-4-arts-93CH-4050048",
         "investing:https://tr.investing.com/news/forex-news/asya-para-birimleri-sakin-yen-160-seviyesinde-4050046",
         "investing:https://tr.investing.com/news/stock-market-news/wpp-yapay-zeka-odakl-maliyet-kesintisi-ile-yl-sonuna-kadar-1000-kisiyi-isten-ckaracak-93CH-4050044",
@@ -442,8 +454,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-herkesin-evinde-olan-cihazlari-uretiyordu-36-yillik-sirket-konkordato-ilan-etti-1739817",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/amazon-abd-federal-ticaret-komisyonu-tarafindan-dava-edildi-1739822",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/amazon-abd-federal-ticaret-komisyonu-tarafindan-dava-edildi-1739822",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-herkesin-evinde-olan-cihazlari-uretiyordu-36-yillik-sirket-konkordato-ilan-etti-1739817",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-35-milyon-arac-sahibini-ilgilendiriyor-bugun-devreye-girdi-tek-numarayla-cozulecek-1739807",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artti-otv-ve-kdv-eklendi-1739806",
@@ -541,8 +554,25 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44T09B:0",
+      "last_seen_key": "tradingview:matriks:6709003:0",
       "seen_keys": [
+        "tradingview:matriks:6709003:0",
+        "tradingview:matriks:6708993:0",
+        "tradingview:fxstreet:0fafe73dad9e8:0",
+        "tradingview:fxstreet:530cc8cc1d9e8:0",
+        "tradingview:fxstreet:351c49e72d9e8:0",
+        "tradingview:matriks:6708977:0",
+        "tradingview:matriks:6708970:0",
+        "tradingview:matriks:6708969:0",
+        "tradingview:matriks:6708968:0",
+        "tradingview:fxstreet:083ed0432d9e8:0",
+        "tradingview:fxstreet:7107f2beed9e8:0",
+        "tradingview:fxstreet:7e1c70950d9e8:0",
+        "tradingview:matriks:6708967:0",
+        "tradingview:matriks:6708961:0",
+        "tradingview:matriks:6708956:0",
+        "tradingview:matriks:6708951:0",
+        "tradingview:matriks:6708950:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44T09B:0",
         "tradingview:fxstreet:542fedff4d9e8:0",
         "tradingview:matriks:6708937:0",
@@ -862,6 +892,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6709003:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ced duyurusu enerjisa musteri cozumleri",
+      "link": "https://tr.tradingview.com/news/matriks:6708993:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya perakende sat slar ayl k temmuz 0 4 beklentisinin alt nda kald temmuz gerceklesen 3 4",
+      "link": "https://tr.tradingview.com/news/fxstreet:0fafe73dad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya perakende sat slar temmuz ay nda ayl k bazda 0 4 beklentisi kars s nda 3 4 dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:530cc8cc1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya perakende sat slar y ll k temmuz 0 2 seviyesinden 2 5 seviyesine geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:351c49e72d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rusya agustos ay sp global imalat pmi 48 8 onceki 50 7",
+      "link": "https://tr.tradingview.com/news/matriks:6708977:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiltere temmuz ay nationwide konut fiyat endeksi y ll k 1 6 beklenti 2 0 onceki 1 8",
+      "link": "https://tr.tradingview.com/news/matriks:6708970:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiltere temmuz ay nationwide konut fiyat endeksi ayl k 0 2 beklenti 0 1 onceki 0 1",
+      "link": "https://tr.tradingview.com/news/matriks:6708969:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya temmuz ay reel perakende sat slar y ll k 1 6 beklenti 0 0 onceki 0 0",
+      "link": "https://tr.tradingview.com/news/matriks:6708968:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "united kingdom nationwide housing prices n s a yoy agustos 2 beklentisi alt nda 1 6 seviyesinde ac kland",
+      "link": "https://tr.tradingview.com/news/fxstreet:083ed0432d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "united kingdom nationwide housing prices s a mom agustos 0 2 seviyesinde ac klanarak 0 1 beklentisinin uzerinde kald",
+      "link": "https://tr.tradingview.com/news/fxstreet:7107f2beed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rusya s p global imalat pmi 48 8 agustos beklenti 50 7",
+      "link": "https://tr.tradingview.com/news/fxstreet:7e1c70950d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya temmuz ay reel perakende sat slar ayl k 3 4 beklenti 0 4 onceki 0 7",
+      "link": "https://tr.tradingview.com/news/matriks:6708967:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6708961:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eylul ay teknik analiz onerileri info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6708956:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist gunluk teknik analiz yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6708951:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunun piyasa haritas trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6708950:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "amazon abd federal ticaret komisyonu taraf ndan dava edildi abd nin 22 eyaleti federal ticaret komisyonu sponsorlu urun reklamlar nedeniyle amazon a dava act",
+      "link": "https://www.ntv.com.tr/ntvpara/amazon-abd-federal-ticaret-komisyonu-tarafindan-dava-edildi-1739822"
+    },
+    {
+      "source": "investing",
+      "text": "valeura tayland wassana sahas n n yeniden gelistirilmesini h zland r yor",
+      "link": "https://tr.investing.com/news/company-news/valeura-taylandda-wassana-sahasnn-yeniden-gelistirilmesini-hzlandryor-93CH-4050070"
+    },
+    {
+      "source": "investing",
+      "text": "aedifica cofinimmo anlasmas sonras kira gelirinde 62 art s bildirdi",
+      "link": "https://tr.investing.com/news/stock-market-news/aedifica-cofinimmo-anlasmas-sonras-kira-gelirinde-62-arts-bildirdi-93CH-4050068"
+    },
+    {
+      "source": "investing",
+      "text": "guney kore duzenleyicisi tpg nin lotte rental al m n onaylad",
+      "link": "https://tr.investing.com/news/stock-market-news/guney-kore-duzenleyicisi-tpgnin-lotte-rental-almn-onaylad-93CH-4050067"
+    },
+    {
+      "source": "investing",
+      "text": "pekin in tuketimi art rma onlemleri cin perakende hisselerini yukseltti",
+      "link": "https://tr.investing.com/news/stock-market-news/pekinin-tuketimi-artrma-onlemleri-cin-perakende-hisselerini-yukseltti-4050066"
+    },
+    {
+      "source": "investing",
+      "text": "red oak partners motorsport games hissesine 47 629 dolar yat rd",
+      "link": "https://tr.investing.com/news/insider-trading-news/red-oak-partners-motorsport-games-hissesine-47629-dolar-yatrd-93CH-4050064"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd li bakan japonya ya faiz art s cagr s yapt nhk n n haberine gore abd hazine bakan scott bessent japon mevkidas boj baskan na faiz art rmalar gerektigini soyledi",
+      "link": "https://www.bloomberght.com/abd-li-bakan-japonya-ya-faiz-artisi-cagrisi-yapti-3786950"
+    },
+    {
+      "source": "bloomberght",
+      "text": "jpmorgan abd hisselerinde temkinli gorunume gecti jpmorgan fed baskan kevin warsh n sahin ac klamalar n n piyasalarda y l faiz art s beklentilerini guclendirmesinin ard ndan abd hisselerine iliskin onumuzdeki birkac haftal k gorunumunu taktiksel olarak temkinli seviyeye cekti",
+      "link": "https://www.bloomberght.com/jpmorgan-abd-hisselerinde-temkinli-gorunume-gecti-3786949"
+    },
+    {
+      "source": "kap",
+      "text": "blcyt bistech pay piyasas al m sat m sistemi duyurusu hak kullan m sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656542"
+    },
+    {
+      "source": "kap",
+      "text": "tby tebyt yat r m kurulusu varant sertifika senetlerine iliskin bildirim bnp paribas issuance b v 31 08 2026 vadeli yat r m kurulusu varantlar itfa fiyatlar sirket teb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656541"
+    },
+    {
+      "source": "kap",
+      "text": "info iyf yat r m kurulusu varant sertifika senetlerine iliskin bildirim 31 08 2026 vadeli varantlar n itfas sirket info yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656539"
+    },
+    {
+      "source": "kap",
+      "text": "zkbvr tertip ihrac belgesi tertip ihrac belgesi sirket zkb varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656538"
+    },
+    {
+      "source": "kap",
+      "text": "lidfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfldfk92622 isin kodlu bono itfa odemesi sirket lider faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656537"
+    },
     {
       "source": "tradingview",
       "text": "dolar tl 48 28 rekorunda veriler jeopolitik gelismeler izleniyor",
