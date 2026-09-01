@@ -179,9 +179,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/transcripts/dell-2c27-tahminlerini-ast-hisseler-seansta-toparland-93CH-4051054",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/roblox-yoneticisi-andrea-wong-22979-dolar-degerinde-hisse-satt-93CH-4051056",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/roblox-yoneticisi-andrea-wong-22979-dolar-degerinde-hisse-satt-93CH-4051056",
         "investing:https://tr.investing.com/news/transcripts/dell-2c27-tahminlerini-ast-hisseler-seansta-toparland-93CH-4051054",
+        "investing:https://tr.investing.com/news/stock-market-news/89-46-bu-hisseler-eylul-icin-yapay-zeka-secimlerimizden-ckt-4051055",
         "investing:https://tr.investing.com/news/company-news/adecoagro-caarapo-tesisini-136-milyon-dolara-satn-ald-93CH-4051053",
         "investing:https://tr.investing.com/news/insider-trading-news/guidewire-ceosu-michael-rosenbaum-245328-dolar-degerinde-hisse-satt-93CH-4051050",
         "investing:https://tr.investing.com/news/insider-trading-news/slb-ceosu-le-peuch-21-milyon-dolarlk-hisse-satt-93CH-4051051",
@@ -189,8 +191,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/medalist-diversified-cfosu-winn-sirket-hissesi-satn-ald-93CH-4051048",
         "investing:https://tr.investing.com/news/company-news/everus-epsilon-industriesi-295-milyon-dolara-satn-ald-93CH-4051047",
         "investing:https://tr.investing.com/news/company-news/manulife-2041-vadeli-750-milyon-dolarlk-tahvil-ihrac-yapt-93CH-4051044",
-        "investing:https://tr.investing.com/news/insider-trading-news/bill-holdings-cposu-528384-dolarlk-hisse-satt-93CH-4051043",
-        "investing:https://tr.investing.com/news/insider-trading-news/box-inc-baskan-yardmcs-138561-dolar-degerinde-hisse-satt-93CH-4051042",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -211,6 +211,8 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/insider-trading-news/bill-holdings-cposu-528384-dolarlk-hisse-satt-93CH-4051043",
+        "investing:https://tr.investing.com/news/insider-trading-news/box-inc-baskan-yardmcs-138561-dolar-degerinde-hisse-satt-93CH-4051042",
         "investing:https://tr.investing.com/news/stock-market-news/dropbox-hisseleri-neden-dusuyor-93CH-4051041",
         "investing:https://tr.investing.com/news/insider-trading-news/bill-holdings-cfosu-16-milyon-dolarlk-hisse-satt-93CH-4051040",
         "investing:https://tr.investing.com/news/stock-market-news/blue-origin-guclu-altyap-planyla-mars-ag-sozlesmesi-ald-93CH-4051039",
@@ -520,6 +522,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "roblox yoneticisi andrea wong 22 979 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/roblox-yoneticisi-andrea-wong-22979-dolar-degerinde-hisse-satt-93CH-4051056"
+    },
     {
       "source": "investing",
       "text": "dell 2c27 tahminlerini ast hisseler seansta toparland",
