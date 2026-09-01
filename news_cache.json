@@ -2,8 +2,27 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656906",
+      "last_seen_key": "kap:1656933",
       "seen_keys": [
+        "kap:1656933",
+        "kap:1656932",
+        "kap:1656926",
+        "kap:1656925",
+        "kap:1656924",
+        "kap:1656923",
+        "kap:1656922",
+        "kap:1656921",
+        "kap:1656920",
+        "kap:1656919",
+        "kap:1656918",
+        "kap:1656917",
+        "kap:1656916",
+        "kap:1656914",
+        "kap:1656913",
+        "kap:1656910",
+        "kap:1656909",
+        "kap:1656908",
+        "kap:1656907",
         "kap:1656906",
         "kap:1656905",
         "kap:1656903",
@@ -561,8 +580,10 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/sgk-borclarinda-1833-milyar-lira-taksitlendirildi-955566.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/veri-merkezlerinin-elektrik-tuketimi-5-yilda-yaklasik-4-katina-cikti-955583.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/veri-merkezlerinin-elektrik-tuketimi-5-yilda-yaklasik-4-katina-cikti-955583.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/ombudsmanlar-istanbulda-bulusacak-955581.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/sgk-borclarinda-1833-milyar-lira-taksitlendirildi-955566.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kosgebden-kobilere-6-ayda-27-milyar-liralik-destek-955538.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-fiyatlari-gune-dususle-basladi-955525.html",
@@ -628,8 +649,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6710900:0",
+      "last_seen_key": "tradingview:matriks:6710936:0",
       "seen_keys": [
+        "tradingview:matriks:6710936:0",
+        "tradingview:matriks:6710925:0",
+        "tradingview:matriks:6710924:0",
+        "tradingview:matriks:6710920:0",
+        "tradingview:matriks:6710918:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44T1KT:0",
+        "tradingview:matriks:6710914:0",
+        "tradingview:matriks:6710907:0",
+        "tradingview:matriks:6710904:0",
         "tradingview:matriks:6710900:0",
         "tradingview:matriks:6710876:0",
         "tradingview:matriks:6710869:0",
@@ -941,6 +971,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "turkiye sigorta n n dijital asistan bilge 2 yas nda",
+      "link": "https://tr.tradingview.com/news/matriks:6710936:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tp turkiye ust yonetimini iki yeni atamayla guclendirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6710925:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ck enerji mobil uygulamas online islem merkezini modern ara yuzu guclu teknolojik altyap s yla yeniledi",
+      "link": "https://tr.tradingview.com/news/matriks:6710924:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kaspersky turkiye nin aralar nda bulundugu bircok ulkeyi etkileyen hedefli siber sald r kampanyas n tespit etti",
+      "link": "https://tr.tradingview.com/news/matriks:6710920:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tenmak lisans basar bursu basvurular baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6710918:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sasa polyester in agustos ta sat slar 155 milyon dolar oldu kap",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44T1KT:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "paytr n kad n girisimcilere sanal pos desteginden 1 500 isletme yararland",
+      "link": "https://tr.tradingview.com/news/matriks:6710914:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "aws ogrencilerin bulut yapay zeka egitimine 500 milyon dolardan fazla kaynak ay r yor",
+      "link": "https://tr.tradingview.com/news/matriks:6710907:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eti tubitak tagem is birligi gelistirilen kanatl bugday n n ilk tohumluk hasad tamamland",
+      "link": "https://tr.tradingview.com/news/matriks:6710904:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "veri merkezlerinin elektrik tuketimi 5 y lda yaklas k 4 kat na c kt kuresel veri merkezlerinin elektrik tuketimi 5 y lda yaklas k 4 kat na c karak gecen y l 557 teravatsaate yukseldi",
+      "link": "https://www.trthaber.com/haber/ekonomi/veri-merkezlerinin-elektrik-tuketimi-5-yilda-yaklasik-4-katina-cikti-955583.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "ombudsmanlar istanbul bulusacak tbmm kamu denetciligi kurumunun ombudsmanl k ev sahipliginde turk isbirligi koordinasyon ajans baskanl g n n tika katk lar yla 3 4 eylul istanbul balkanlar komsu ulke ombudsmanlar deneyim paylas m forumu duzenlenecek",
+      "link": "https://www.trthaber.com/haber/ekonomi/ombudsmanlar-istanbulda-bulusacak-955581.html"
+    },
+    {
+      "source": "kap",
+      "text": "suwen paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket suwen tekstil sanayi pazarlama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656933"
+    },
+    {
+      "source": "kap",
+      "text": "alves ozel durum ac klamas genel trdktsk82660 isin kodlu kira sertifikas n n itfa donemsel getiri odemesi hakk nda sirket alves kablo sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656932"
+    },
+    {
+      "source": "kap",
+      "text": "cgcam ozel durum ac klamas genel bilgi guvenligi sorumlusu gorevlendirilmesi hakk nda sirket cagdas cam sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656926"
+    },
+    {
+      "source": "kap",
+      "text": "froto kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 kurumsal yonetim bilgi formunun guncellenmesi sirket ford otomotiv sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656925"
+    },
+    {
+      "source": "kap",
+      "text": "karel hak kullan m surec iptal bildirimi tahsisli sermaye art r m basvurusu surec iptali hk sirket karel elektronik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656924"
+    },
+    {
+      "source": "kap",
+      "text": "froto ozel durum ac klamas genel yonetim kurulu uye degisiklikleri sirket ford otomotiv sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656923"
+    },
+    {
+      "source": "kap",
+      "text": "vkfyo ozel durum ac klamas genel sirketimizin bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sebebiyle yap lan ac klamad r sirket vakif menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656922"
+    },
+    {
+      "source": "kap",
+      "text": "endae halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin gerceklesme degerlendirme raporu 7 sirket enda enerji holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656921"
+    },
+    {
+      "source": "kap",
+      "text": "dogub esas sozlesme tadili esas sozlesme tadil tasar m z n revize edilmesi hk sirket dogusan boru sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656920"
+    },
+    {
+      "source": "kap",
+      "text": "mepet kat l m finans ilkeleri bilgi formu sirket mepet metro petrol tesisleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656919"
+    },
+    {
+      "source": "kap",
+      "text": "magen paylar n geri al nmas na iliskin bildirim 01 09 2026 tarihli pay geri al m islemleri sirket margun enerji uretim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656918"
+    },
+    {
+      "source": "kap",
+      "text": "kuvva faaliyet raporu konsolide 30 06 2026 yonetim kurulu faaliyet raporu sirket kuvva gida ticaret sanayi yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656917"
+    },
+    {
+      "source": "kap",
+      "text": "kuvva sorumluluk beyan konsolide 30 06 2026 sorumluluk beyan sirket kuvva gida ticaret sanayi yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656916"
+    },
+    {
+      "source": "kap",
+      "text": "sek skbnk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsskbka0017 isin kodlu sermaye benzeri borclanma arac kupon oran hk sirket sekerbank t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656914"
+    },
+    {
+      "source": "kap",
+      "text": "kuvva finansal rapor sirket kuvva gida ticaret sanayi yatirimlari a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656913"
+    },
+    {
+      "source": "kap",
+      "text": "blp pay al m sat m bildirimi pay al m sat m bildirimi hk sirket bulls portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656910"
+    },
+    {
+      "source": "kap",
+      "text": "bakab kat l m finans ilkeleri bilgi formu sirket bak ambalaj sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656909"
+    },
+    {
+      "source": "kap",
+      "text": "aygaz sirket genel bilgi formu sirket aygaz a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656908"
+    },
+    {
+      "source": "kap",
+      "text": "vakfa sirket genel bilgi formu sirket vakif faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656907"
+    },
     {
       "source": "bloomberght",
       "text": "rusya nakit doviz cekimi k s tlamalar 6 ay daha uzat ld rusya merkez bankas bat l ulkelerin rus bankalar n n nakit dolar euro edinmesine yonelik yapt r mlar n n devam etmesi nedeniyle nakit doviz cekimine iliskin k s tlamalar 9 mart 2027 ye kadar uzatt",
