@@ -214,8 +214,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/strategx-ozel-yerlestirme-son-tarihini-30-eylule-uzatt-93CH-4050021",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/mitsui-nutrinovadaki-payn-152-milyon-dolara-artryor-93CH-4050024",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/mitsui-nutrinovadaki-payn-152-milyon-dolara-artryor-93CH-4050024",
+        "investing:https://tr.investing.com/news/insider-trading-news/bjs-restaurants-yoneticisi-47627-dolarlk-hisse-ald-93CH-4050023",
         "investing:https://tr.investing.com/news/company-news/strategx-ozel-yerlestirme-son-tarihini-30-eylule-uzatt-93CH-4050021",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-28-agustosta-45167-dolar-degerinde-hisse-satt-93CH-4050020",
         "investing:https://tr.investing.com/news/economic-indicators/cinde-ozel-sektor-imalat-buyumesi-agustosta-guclendi-4050017",
@@ -224,8 +226,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/nvidiann-35-milyar-dolarlk-yatrm-sonras-mediatek-hisseleri-scrad-4050013",
         "investing:https://tr.investing.com/news/insider-trading-news/grocery-outlet-yoneticisi-carey-jaros-175500-dolar-hisse-ald-93CH-4050011",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-436-milyon-dolarlk-hisse-satt-93CH-4050010",
-        "investing:https://tr.investing.com/news/insider-trading-news/bridgford-foods-corp-baskan-sirket-hisselerinden-2908-dolar-ald-93CH-4050009",
-        "investing:https://tr.investing.com/news/commodities-news/iran-saldrlar-sonras-altn-iki-gunluk-dususun-ardndan-sabit-4050008",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -246,6 +246,8 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/insider-trading-news/bridgford-foods-corp-baskan-sirket-hisselerinden-2908-dolar-ald-93CH-4050009",
+        "investing:https://tr.investing.com/news/commodities-news/iran-saldrlar-sonras-altn-iki-gunluk-dususun-ardndan-sabit-4050008",
         "investing:https://tr.investing.com/news/insider-trading-news/lyft-yoneticisi-david-lawee-79950-dolarlk-hisse-satt-93CH-4050006",
         "investing:https://tr.investing.com/news/insider-trading-news/hyperscale-data-yonetim-kurulu-baskan-288-dolar-satt-86545-dolar-ald-93CH-4050005",
         "investing:https://tr.investing.com/news/insider-trading-news/schwab-es-baskan-walter-bettinger-825-milyon-dolarlk-hisse-satt-93CH-4050004",
@@ -509,7 +511,9 @@
         "tradingview:fxstreet:64b1b9936d9e8:0",
         "tradingview:matriks:6708700:0",
         "tradingview:fxstreet:2d3616a86d9e8:0",
+        "tradingview:beincrypto:714bfdf5ad9e8:0",
         "tradingview:fxstreet:188aa9eb9d9e8:0",
+        "tradingview:beincrypto:d04780955d9e8:0",
         "tradingview:fxstreet:074f5738dd9e8:0",
         "tradingview:fxstreet:32e8a3a4fd9e8:0",
         "tradingview:fxstreet:f3da42813d9e8:0",
@@ -705,6 +709,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "mitsui nutrinova daki pay n 152 milyon dolara art r yor",
+      "link": "https://tr.investing.com/news/stock-market-news/mitsui-nutrinovadaki-payn-152-milyon-dolara-artryor-93CH-4050024"
+    },
+    {
+      "source": "investing",
+      "text": "bj s restaurants yoneticisi 47 627 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/bjs-restaurants-yoneticisi-47627-dolarlk-hisse-ald-93CH-4050023"
+    },
     {
       "source": "tradingview",
       "text": "japonya dan katayama bessent fx te koordineli surekli eylemin gerekli oldugunu teyit etti",
