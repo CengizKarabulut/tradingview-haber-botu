@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656555",
+      "last_seen_key": "kap:1656571",
       "seen_keys": [
+        "kap:1656571",
+        "kap:1656560",
         "kap:1656555",
         "kap:1656554",
         "kap:1656553",
@@ -82,7 +84,6 @@
         "kap:1656450",
         "kap:1656449",
         "kap:1656446",
-        "kap:1656445",
         "kap:1656444",
         "kap:1656443",
         "kap:1656440",
@@ -94,6 +95,7 @@
         "kap:1656421",
         "kap:1656420",
         "kap:1656418",
+        "kap:1656445",
         "kap:1656417",
         "kap:1656413",
         "kap:1656537",
@@ -509,8 +511,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-yumakli-balikcilik-sektorunde-gecen-yil-1-milyon-37-bin-tonluk-uretimle-rekor-kirdik-955495.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/milli-elektrikli-hizli-tren-saatte-250-kilometreye-ulasarak-rekorunu-gelistirdi-955522.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/milli-elektrikli-hizli-tren-saatte-250-kilometreye-ulasarak-rekorunu-gelistirdi-955522.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-yumakli-balikcilik-sektorunde-gecen-yil-1-milyon-37-bin-tonluk-uretimle-rekor-kirdik-955495.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/rusya-ve-abd-finans-alanindaki-is-birligini-gorustu-955491.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-deger-kaybetti-955471.html",
@@ -576,8 +579,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:821101381d9e8:0",
+      "last_seen_key": "tradingview:matriks:6709149:0",
       "seen_keys": [
+        "tradingview:matriks:6709149:0",
+        "tradingview:matriks:6709148:0",
+        "tradingview:matriks:6709142:0",
         "tradingview:fxstreet:821101381d9e8:0",
         "tradingview:matriks:6709140:0",
         "tradingview:matriks:6709137:0",
@@ -632,6 +638,7 @@
         "tradingview:fxstreet:7e1c70950d9e8:0",
         "tradingview:matriks:6708967:0",
         "tradingview:matriks:6708961:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:matriks:6708956:0",
         "tradingview:matriks:6708951:0",
         "tradingview:matriks:6708950:0",
@@ -640,7 +647,9 @@
         "tradingview:matriks:6708937:0",
         "tradingview:fxstreet:9df06ddccd9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44T096:0",
+        "tradingview:matriks:6708926:0",
         "tradingview:matriks:6708923:0",
+        "tradingview:beincrypto:dc971758ad9e8:0",
         "tradingview:matriks:6708917:0",
         "tradingview:matriks:6708913:0",
         "tradingview:matriks:6708907:0",
@@ -787,7 +796,6 @@
         "tradingview:beincrypto:2161ae322d9e8:0",
         "tradingview:fxstreet:268a1ec2dd9e8:0",
         "tradingview:beincrypto:b8bd2322ed9e8:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:cointelegraph:5260acc73d9e8:0",
         "tradingview:fxstreet:b8a139eecd9e8:0",
         "tradingview:fxstreet:92be817c8d9e8:0",
@@ -954,6 +962,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gedik yat r m ulker 150 8 tl hedef fiyat endeks ustu getiri tavsiyesi verdi onceki hedef fiyat 126 tl onceki tavsiye endekse paralel getiri",
+      "link": "https://tr.tradingview.com/news/matriks:6709149:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasa dan k sa notlar baskent menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6709148:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk oneri destek direnc tablosu gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709142:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "milli elektrikli h zl tren saatte 250 kilometreye ulasarak rekorunu gelistirdi ulast rma altyap bakan abdulkadir uraloglu test surecleri basar yla devam eden turkiye nin ilk milli elektrikli h zl tren inin saatte 250 kilometre h za ulast g n ac klad",
+      "link": "https://www.trthaber.com/haber/ekonomi/milli-elektrikli-hizli-tren-saatte-250-kilometreye-ulasarak-rekorunu-gelistirdi-955522.html"
+    },
+    {
+      "source": "kap",
+      "text": "ditas kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 kurumsal yonetim bilgi formu guncelleme yk ii sirket ditas bdy yedek parca imalat teknik a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656571"
+    },
+    {
+      "source": "kap",
+      "text": "blume pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656560"
+    },
     {
       "source": "tradingview",
       "text": "isvicre frang reel perakende sat slar verilerinin ard ndan fazla degismedi",
