@@ -269,8 +269,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-trump-ile-venezuela-arasindaki-anlasma-buyuk-ureticiler-arasinda-endiselere-yol-acti-1739914",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/21-kuresel-finans-kurulusu-sabitcoin-ihraci-icin-ortak-sirket-kuracak-1739939",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/21-kuresel-finans-kurulusu-sabitcoin-ihraci-icin-ortak-sirket-kuracak-1739939",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-trump-ile-venezuela-arasindaki-anlasma-buyuk-ureticiler-arasinda-endiselere-yol-acti-1739914",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-kira-sozlesmelerinde-yeni-sayfa-artik-e-devlet-uzerinden-zorunlu-olacak-1739893",
         "ntvpara:https://www.ntv.com.tr/ntvpara/ikea-yaklasik-bin-500-urunun-fiyatini-dusurecek-1739868",
@@ -359,8 +360,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:118af0c6ad9e8:0",
+      "last_seen_key": "tradingview:fxstreet:eb110c233d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:eb110c233d9e8:0",
+        "tradingview:cointelegraph:fe5254281d9e8:0",
         "tradingview:fxstreet:118af0c6ad9e8:0",
         "tradingview:cointelegraph:cb4c157f7d9e8:0",
         "tradingview:beincrypto:2531cd736d9e8:0",
@@ -487,6 +490,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hindistan buyume enflasyon tahminleri yukar yonlu revize edildi uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:eb110c233d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kripto destekli pac massachusetts on seciminde reklam harcamalar n azaltt",
+      "link": "https://tr.tradingview.com/news/cointelegraph:fe5254281d9e8:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "21 kuresel finans kurulusu sabitcoin ihrac ortak sirket kuracak aralar nda bank of america wells fargo deutsche bank ubs nin bulundugu dunyan n onde gelen 21 finans kurulusu sabitcoin ihrac n desteklemek amac yla ortak sirket kuracaklar n bildirdi",
+      "link": "https://www.ntv.com.tr/ntvpara/21-kuresel-finans-kurulusu-sabitcoin-ihraci-icin-ortak-sirket-kuracak-1739939"
+    },
     {
       "source": "investing",
       "text": "general electric savunma bakanl g ndan 2 9 milyar dolarl k sozlesme ald",
