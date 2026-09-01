@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656959",
+      "last_seen_key": "kap:1656967",
       "seen_keys": [
+        "kap:1656967",
+        "kap:1656966",
+        "kap:1656965",
+        "kap:1656964",
         "kap:1656959",
         "kap:1656958",
         "kap:1656957",
@@ -701,14 +705,18 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f3f27a4a9d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:107fe95d7d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:107fe95d7d9e8:0",
         "tradingview:fxstreet:f3f27a4a9d9e8:0",
+        "tradingview:cointelegraph:a68d6256cd9e8:0",
         "tradingview:fxstreet:2444f4ef5d9e8:0",
         "tradingview:fxstreet:fc791dec0d9e8:0",
+        "tradingview:beincrypto:f682b337cd9e8:0",
         "tradingview:cointelegraph:32e49b39fd9e8:0",
         "tradingview:fxstreet:134a9549dd9e8:0",
         "tradingview:fxstreet:81836ba9fd9e8:0",
+        "tradingview:beincrypto:bcbea77f8d9e8:0",
         "tradingview:fxstreet:afc08bd25d9e8:0",
         "tradingview:fxstreet:b0b27b65dd9e8:0",
         "tradingview:fxstreet:2ed18b144d9e8:0",
@@ -1044,6 +1052,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "guney iran daki yeni patlamalarla ham petrol dikey yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:107fe95d7d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "lider paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket ldr turizm a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656967"
+    },
+    {
+      "source": "kap",
+      "text": "sirket genel bilgi formu sirket gucbir bagimsiz denetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656966"
+    },
+    {
+      "source": "kap",
+      "text": "mrbas mrs sirket genel bilgi formu sirket marbas menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656965"
+    },
+    {
+      "source": "kap",
+      "text": "mrbas mrs ozel durum ac klamas genel yonetim kurulu uyesi istifas sirket marbas menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656964"
+    },
     {
       "source": "tradingview",
       "text": "iran daki patlamalar hurmuz savas korkular n yeniden alevlendirdi iran international",
