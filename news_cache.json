@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656660",
+      "last_seen_key": "kap:1656666",
       "seen_keys": [
+        "kap:1656666",
+        "kap:1656665",
+        "kap:1656664",
+        "kap:1656663",
+        "kap:1656662",
+        "kap:1656661",
         "kap:1656660",
         "kap:1656659",
         "kap:1656658",
@@ -13,7 +19,6 @@
         "kap:1656643",
         "kap:1656642",
         "kap:1656641",
-        "kap:1656635",
         "kap:1656634",
         "kap:1656633",
         "kap:1656632",
@@ -86,6 +91,7 @@
         "kap:1656521",
         "kap:1656519",
         "kap:1656518",
+        "kap:1656635",
         "kap:1656517",
         "kap:1656516",
         "kap:1656514",
@@ -115,8 +121,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/hurmuz-de-iki-super-tanker-vuruldu-3786978",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-enflasyon-yaklasik-uc-yilin-zirvesinde-3786990",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-enflasyon-yaklasik-uc-yilin-zirvesinde-3786990",
+        "bloomberght:https://www.bloomberght.com/istanbul-da-enflasyon-agustos-ta-yavasladi-3786989",
         "bloomberght:https://www.bloomberght.com/hurmuz-de-iki-super-tanker-vuruldu-3786978",
         "bloomberght:https://www.bloomberght.com/mobbing-sikayeti-artti-ispati-zorlasti-3786977",
         "bloomberght:https://www.bloomberght.com/borsada-gong-intetra-teknoloji-icin-caldi-3786975",
@@ -170,18 +178,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/partners-group-hisseleri-neden-dusuyor-93CH-4050200",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-servicetitan-hissesi-icin-al-tavsiyesini-yineledi-93CH-4050220",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/stock-market-news/partners-group-hisseleri-neden-dusuyor-93CH-4050200",
-        "investing:https://tr.investing.com/news/stock-market-news/novartis-hissesi-bugun-neden-yukseldi-93CH-4050199",
-        "investing:https://tr.investing.com/news/analyst-ratings/rosenblatt-expedia-hissesi-icin-notr-tavsiye-verdi-93CH-4050198",
-        "investing:https://tr.investing.com/news/analyst-ratings/rosenblatt-airbnb-hissesi-icin-al-onerisiyle-kapsama-baslad-93CH-4050197",
-        "investing:https://tr.investing.com/news/stock-market-news/bodycote-hissesi-bugun-neden-yukseliyor-93CH-4050195",
-        "investing:https://tr.investing.com/news/analyst-ratings/guggenheim-latigo-biotherapeutics-hissesine-alm-onerisiyle-baslad-93CH-4050192",
-        "investing:https://tr.investing.com/news/analyst-ratings/evercore-isi-duolingo-hissesi-icin-tavsiyesini-yukseltti-93CH-4050190",
-        "investing:https://tr.investing.com/news/stock-market-news/goldman-sachs-rafineri-muafiyetlerinin-dk-nakit-aksn-artracagn-goruyor-93CH-4050189",
-        "investing:https://tr.investing.com/news/stock-market-news/technip-energies-spacex-ile-10-milyar-dolarlk-anlasma-haberinde-scrad-4050193",
-        "investing:https://tr.investing.com/news/stock-market-news/goldman-sachs-yapay-zeka-hakknda-saha-calsmas-sonuclarn-paylast-93CH-4050188",
+        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-servicetitan-hissesi-icin-al-tavsiyesini-yineledi-93CH-4050220",
+        "investing:https://tr.investing.com/news/analyst-ratings/citi-adobe-icin-hisse-hedefini-yazlm-carpanlar-nedeniyle-yukseltti-93CH-4050219",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-incyte-hissesi-icin-hedef-fiyatn-korudu-93CH-4050218",
+        "investing:https://tr.investing.com/news/company-news/talisman-metals-fastaki-fougnar-lisanslarn-yeniledi-93CH-4050217",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-dehb-verisi-oncesi-alkermes-hissesi-icin-notunu-korudu-93CH-4050216",
+        "investing:https://tr.investing.com/news/analyst-ratings/oppenheimer-kyntra-bio-hissesi-icin-tavsiyesini-korudu-93CH-4050215",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-cytokinetics-icin-al-tavsiyesini-yineledi-hedef-112-dolar-93CH-4050214",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-organik-buyume-ile-science-applications-hisse-hedefini-yukseltti-93CH-4050212",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-cousins-properties-hissesi-icin-hedef-fiyat-korudu-93CH-4050213",
+        "investing:https://tr.investing.com/news/analyst-ratings/stifel-science-applicationsn-hedef-fiyatn-marjlar-nedeniyle-154-dolara-yukseltti-93CH-4050211",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -202,6 +210,16 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/stock-market-news/partners-group-hisseleri-neden-dusuyor-93CH-4050200",
+        "investing:https://tr.investing.com/news/stock-market-news/novartis-hissesi-bugun-neden-yukseldi-93CH-4050199",
+        "investing:https://tr.investing.com/news/analyst-ratings/rosenblatt-expedia-hissesi-icin-notr-tavsiye-verdi-93CH-4050198",
+        "investing:https://tr.investing.com/news/analyst-ratings/rosenblatt-airbnb-hissesi-icin-al-onerisiyle-kapsama-baslad-93CH-4050197",
+        "investing:https://tr.investing.com/news/stock-market-news/bodycote-hissesi-bugun-neden-yukseliyor-93CH-4050195",
+        "investing:https://tr.investing.com/news/analyst-ratings/guggenheim-latigo-biotherapeutics-hissesine-alm-onerisiyle-baslad-93CH-4050192",
+        "investing:https://tr.investing.com/news/analyst-ratings/evercore-isi-duolingo-hissesi-icin-tavsiyesini-yukseltti-93CH-4050190",
+        "investing:https://tr.investing.com/news/stock-market-news/goldman-sachs-rafineri-muafiyetlerinin-dk-nakit-aksn-artracagn-goruyor-93CH-4050189",
+        "investing:https://tr.investing.com/news/stock-market-news/technip-energies-spacex-ile-10-milyar-dolarlk-anlasma-haberinde-scrad-4050193",
+        "investing:https://tr.investing.com/news/stock-market-news/goldman-sachs-yapay-zeka-hakknda-saha-calsmas-sonuclarn-paylast-93CH-4050188",
         "investing:https://tr.investing.com/news/economic-indicators/fransada-fabrika-uretimi-nisandan-bu-yana-ilk-kez-artt-93CH-4050179",
         "investing:https://tr.investing.com/news/global-filings/dogu-aras-enerji-106-milyar-tllik-enerji-sats-anlasmas-93CH-4050178",
         "investing:https://tr.investing.com/news/economic-indicators/italya-imalat-sektoru-agustosta-daralmaya-gecti-93CH-4050177",
@@ -316,12 +334,33 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:de594711ad9e8:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_ZRN00EJ7K:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_ZRN00EJ7K:0",
+        "tradingview:fxstreet:9df06ddccd9e8:0",
+        "tradingview:matriks:6709804:0",
+        "tradingview:fxstreet:d82770be9d9e8:0",
+        "tradingview:fxstreet:7c3844e66d9e8:0",
+        "tradingview:fxstreet:0d3ffc2fcd9e8:0",
+        "tradingview:fxstreet:a664e901fd9e8:0",
+        "tradingview:matriks:6709791:0",
+        "tradingview:matriks:6709781:0",
+        "tradingview:fxstreet:9b66948aed9e8:0",
+        "tradingview:matriks:6709776:0",
+        "tradingview:matriks:6709773:0",
+        "tradingview:matriks:6709764:0",
         "tradingview:fxstreet:de594711ad9e8:0",
+        "tradingview:matriks:6709757:0",
         "tradingview:fxstreet:941f634a6d9e8:0",
+        "tradingview:matriks:6709752:0",
         "tradingview:fxstreet:67bf28001d9e8:0",
         "tradingview:fxstreet:776b8bd0bd9e8:0",
+        "tradingview:matriks:6709750:0",
+        "tradingview:matriks:6709749:0",
+        "tradingview:matriks:6709745:0",
+        "tradingview:matriks:6709746:0",
+        "tradingview:matriks:6709744:0",
+        "tradingview:matriks:6709743:0",
         "tradingview:matriks:6709741:0",
         "tradingview:matriks:6709739:0",
         "tradingview:matriks:6709737:0",
@@ -329,11 +368,14 @@
         "tradingview:matriks:6709733:0",
         "tradingview:fxstreet:cf877a61fd9e8:0",
         "tradingview:matriks:6709709:0",
+        "tradingview:matriks:6709679:0",
+        "tradingview:matriks:6709678:0",
         "tradingview:matriks:6709662:0",
         "tradingview:matriks:6709652:0",
         "tradingview:fxstreet:a43b697abd9e8:0",
         "tradingview:matriks:6709647:0",
         "tradingview:fxstreet:849bef6ddd9e8:0",
+        "tradingview:matriks:6709623:0",
         "tradingview:fxstreet:991f49e63d9e8:0",
         "tradingview:fxstreet:715a2ada8d9e8:0",
         "tradingview:matriks:6709589:0",
@@ -387,7 +429,6 @@
         "tradingview:beincrypto:470d783d7d9e8:0",
         "tradingview:matriks:6709340:0",
         "tradingview:matriks:6709335:0",
-        "tradingview:fxstreet:9df06ddccd9e8:0",
         "tradingview:matriks:6709325:0",
         "tradingview:matriks:6709324:0",
         "tradingview:matriks:6709321:0",
@@ -450,6 +491,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro bolgesi oncu enflasyonu agustos ta y ll k bazda beklentilere paralel olarak 3 3 e yukseldi",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_ZRN00EJ7K:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sektor raporu bankac l k is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709804:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cee fx s k lasmac yeniden fiyatlama bolgesel para birimlerini destekliyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:d82770be9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dow jones vadeli islemleri yukselen petrol fiyatlar n n enflasyon endiselerini art rmas yla dusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:7c3844e66d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "usd jpy fiyat analizi 20 gunluk ema art k dinamik destek haline geliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:0d3ffc2fcd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro euro bolgesi hicp verilerinin ard ndan kanada dolar kars s ndaki kay plar n koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:a664e901fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "makro analiz enflasyon on degerlendirmesi gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709791:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tupras n portfoydeki ag rl g n 7 ye indirirken akbnk garan enjsa ag rl g n art r yoruz is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709781:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni abd dolar kars s nda 160 55 e olas yukselis oncesi konsolidasyon uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:9b66948aed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "orge enerji ykb gunduz 15 y ld r oldugu gibi buyume faaliyet karl l g n muhafaza etme konular odag m zda olacak",
+      "link": "https://tr.tradingview.com/news/matriks:6709776:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "andre santiago silva bayer ilac turkiye iran ulke grubu baskan olarak atand",
+      "link": "https://tr.tradingview.com/news/matriks:6709773:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iso turkiye pmi phillipcapital",
+      "link": "https://tr.tradingview.com/news/matriks:6709764:0"
+    },
+    {
+      "source": "investing",
+      "text": "td cowen servicetitan hissesi al tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/td-cowen-servicetitan-hissesi-icin-al-tavsiyesini-yineledi-93CH-4050220"
+    },
+    {
+      "source": "investing",
+      "text": "citi adobe hisse hedefini yaz l m carpanlar nedeniyle yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/citi-adobe-icin-hisse-hedefini-yazlm-carpanlar-nedeniyle-yukseltti-93CH-4050219"
+    },
+    {
+      "source": "investing",
+      "text": "bmo incyte hissesi hedef fiyat n korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/bmo-incyte-hissesi-icin-hedef-fiyatn-korudu-93CH-4050218"
+    },
+    {
+      "source": "investing",
+      "text": "talisman metals fas taki fougnar lisanslar n yeniledi",
+      "link": "https://tr.investing.com/news/company-news/talisman-metals-fastaki-fougnar-lisanslarn-yeniledi-93CH-4050217"
+    },
+    {
+      "source": "investing",
+      "text": "mizuho dehb verisi oncesi alkermes hissesi notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-dehb-verisi-oncesi-alkermes-hissesi-icin-notunu-korudu-93CH-4050216"
+    },
+    {
+      "source": "investing",
+      "text": "oppenheimer kyntra bio hissesi tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/oppenheimer-kyntra-bio-hissesi-icin-tavsiyesini-korudu-93CH-4050215"
+    },
+    {
+      "source": "investing",
+      "text": "truist cytokinetics al tavsiyesini yineledi hedef 112 dolar",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-cytokinetics-icin-al-tavsiyesini-yineledi-hedef-112-dolar-93CH-4050214"
+    },
+    {
+      "source": "investing",
+      "text": "truist organik buyume science applications hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-organik-buyume-ile-science-applications-hisse-hedefini-yukseltti-93CH-4050212"
+    },
+    {
+      "source": "investing",
+      "text": "truist cousins properties hissesi hedef fiyat korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-cousins-properties-hissesi-icin-hedef-fiyat-korudu-93CH-4050213"
+    },
+    {
+      "source": "investing",
+      "text": "stifel science applications n hedef fiyat n marjlar nedeniyle 154 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/stifel-science-applicationsn-hedef-fiyatn-marjlar-nedeniyle-154-dolara-yukseltti-93CH-4050211"
+    },
+    {
+      "source": "bloomberght",
+      "text": "euro bolgesi nde enflasyon yaklas k uc y l n zirvesinde euro bolgesi ndeki enflasyon yaklas k uc y l n en yuksek seviyesine c karak avrupa merkez bankas n n amb onumuzdeki hafta faiz art r m na gitmesi yonundeki beklentileri pekistirdi",
+      "link": "https://www.bloomberght.com/euro-bolgesi-nde-enflasyon-yaklasik-uc-yilin-zirvesinde-3786990"
+    },
+    {
+      "source": "bloomberght",
+      "text": "istanbul enflasyon agustos ta yavaslad istanbul ticaret odas ito verilerine gore agustos ta ayl k enflasyon yuzde 1 66 y ll k enflasyon 34 96 ya geriledi",
+      "link": "https://www.bloomberght.com/istanbul-da-enflasyon-agustos-ta-yavasladi-3786989"
+    },
+    {
+      "source": "kap",
+      "text": "isvea pay baz nda devre kesici bildirimi isvea e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656666"
+    },
+    {
+      "source": "kap",
+      "text": "tralt pay baz nda devre kesici bildirimi tralt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656665"
+    },
+    {
+      "source": "kap",
+      "text": "akyho pay baz nda devre kesici bildirimi akyho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656664"
+    },
+    {
+      "source": "kap",
+      "text": "lider pay baz nda devre kesici bildirimi lider e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656663"
+    },
+    {
+      "source": "kap",
+      "text": "albtn pay baz nda devre kesici bildirimi albtn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656662"
+    },
+    {
+      "source": "kap",
+      "text": "lydho pay baz nda devre kesici bildirimi lydho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656661"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar endeksi fiyat analizi dxy fed beklentileri iran riskleri aras nda 99 75 birlesme engeline goz dikti",
