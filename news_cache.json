@@ -214,8 +214,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/oomann-svpsi-jenny-yeh-504320-dolar-degerinde-hisse-satt-93CH-4050027",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/shein-hisseleri-hong-kongda-10-dustu-4050031",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/shein-hisseleri-hong-kongda-10-dustu-4050031",
+        "investing:https://tr.investing.com/news/stock-market-news/hsbc-nuvama-wealth-icin-ozel-sermaye-sirketleriyle-yarsyor-4050030",
         "investing:https://tr.investing.com/news/insider-trading-news/oomann-svpsi-jenny-yeh-504320-dolar-degerinde-hisse-satt-93CH-4050027",
         "investing:https://tr.investing.com/news/stock-market-news/e2e-networks-haziran-2029a-kadar-105-milyon-dolarlk-ai-anlasmas-imzalad-93CH-4050026",
         "investing:https://tr.investing.com/news/insider-trading-news/oomann-hukuk-muduru-jenny-yeh-504320-dolar-degerinde-hisse-satt-93CH-4050025",
@@ -224,8 +226,6 @@
         "investing:https://tr.investing.com/news/company-news/strategx-ozel-yerlestirme-son-tarihini-30-eylule-uzatt-93CH-4050021",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-28-agustosta-45167-dolar-degerinde-hisse-satt-93CH-4050020",
         "investing:https://tr.investing.com/news/economic-indicators/cinde-ozel-sektor-imalat-buyumesi-agustosta-guclendi-4050017",
-        "investing:https://tr.investing.com/news/economic-indicators/avustralyada-cari-ack-2-ceyrekte-beklentinin-altnda-artt-4050016",
-        "investing:https://tr.investing.com/news/insider-trading-news/bridgford-foods-dansman-allan-bridgford-jr-6200-dolar-hisse-ald-93CH-4050014",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -246,6 +246,8 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/economic-indicators/avustralyada-cari-ack-2-ceyrekte-beklentinin-altnda-artt-4050016",
+        "investing:https://tr.investing.com/news/insider-trading-news/bridgford-foods-dansman-allan-bridgford-jr-6200-dolar-hisse-ald-93CH-4050014",
         "investing:https://tr.investing.com/news/stock-market-news/nvidiann-35-milyar-dolarlk-yatrm-sonras-mediatek-hisseleri-scrad-4050013",
         "investing:https://tr.investing.com/news/insider-trading-news/grocery-outlet-yoneticisi-carey-jaros-175500-dolar-hisse-ald-93CH-4050011",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-436-milyon-dolarlk-hisse-satt-93CH-4050010",
@@ -508,8 +510,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:afbed9c08d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:6c4bb8277d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:6c4bb8277d9e8:0",
+        "tradingview:fxstreet:25736006bd9e8:0",
         "tradingview:fxstreet:afbed9c08d9e8:0",
         "tradingview:fxstreet:ea987fe0fd9e8:0",
         "tradingview:fxstreet:64b1b9936d9e8:0",
@@ -713,6 +717,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japonya n n mof yetkilisi boj un politikay abd den etkilenmeden ekonomiyle uyumlu sekilde yonlendirmesini bekledigini soyluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:6c4bb8277d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd abd verileri oncesinde 66 60 civar nda yatay islem goruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:25736006bd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "shein hisseleri hong kong 10 dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/shein-hisseleri-hong-kongda-10-dustu-4050031"
+    },
+    {
+      "source": "investing",
+      "text": "hsbc nuvama wealth ozel sermaye sirketleriyle yar s yor",
+      "link": "https://tr.investing.com/news/stock-market-news/hsbc-nuvama-wealth-icin-ozel-sermaye-sirketleriyle-yarsyor-4050030"
+    },
     {
       "source": "tradingview",
       "text": "yeni zelanda dolar daha guclu cin pmi verilerine ragmen bask alt nda kald",
