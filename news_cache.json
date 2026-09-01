@@ -2,12 +2,17 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656643",
+      "last_seen_key": "kap:1656660",
       "seen_keys": [
+        "kap:1656660",
+        "kap:1656659",
+        "kap:1656658",
+        "kap:1656650",
+        "kap:1656645",
+        "kap:1656644",
         "kap:1656643",
         "kap:1656642",
         "kap:1656641",
-        "kap:1656640",
         "kap:1656635",
         "kap:1656634",
         "kap:1656633",
@@ -86,6 +91,7 @@
         "kap:1656514",
         "kap:1656512",
         "kap:1656511",
+        "kap:1656640",
         "kap:1656510",
         "kap:1656509",
         "kap:1656508",
@@ -109,8 +115,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/borsada-gong-intetra-teknoloji-icin-caldi-3786975",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/hurmuz-de-iki-super-tanker-vuruldu-3786978",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/hurmuz-de-iki-super-tanker-vuruldu-3786978",
+        "bloomberght:https://www.bloomberght.com/mobbing-sikayeti-artti-ispati-zorlasti-3786977",
         "bloomberght:https://www.bloomberght.com/borsada-gong-intetra-teknoloji-icin-caldi-3786975",
         "bloomberght:https://www.bloomberght.com/defence-news-top-100-de-aselsan-uc-sira-yukseldi-3786972",
         "bloomberght:https://www.bloomberght.com/modi-den-altin-almayin-cagrisi-3786970",
@@ -308,8 +316,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6709662:0",
+      "last_seen_key": "tradingview:fxstreet:de594711ad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:de594711ad9e8:0",
+        "tradingview:fxstreet:941f634a6d9e8:0",
+        "tradingview:fxstreet:67bf28001d9e8:0",
+        "tradingview:fxstreet:776b8bd0bd9e8:0",
+        "tradingview:matriks:6709741:0",
+        "tradingview:matriks:6709739:0",
+        "tradingview:matriks:6709737:0",
+        "tradingview:matriks:6709736:0",
+        "tradingview:matriks:6709733:0",
+        "tradingview:fxstreet:cf877a61fd9e8:0",
+        "tradingview:matriks:6709709:0",
         "tradingview:matriks:6709662:0",
         "tradingview:matriks:6709652:0",
         "tradingview:fxstreet:a43b697abd9e8:0",
@@ -323,6 +342,7 @@
         "tradingview:fxstreet:4a9a870c5d9e8:0",
         "tradingview:matriks:6709545:0",
         "tradingview:fxstreet:2a30a9147d9e8:0",
+        "tradingview:beincrypto:299c6ba46d9e8:0",
         "tradingview:matriks:6709498:0",
         "tradingview:matriks:6709496:0",
         "tradingview:matriks:6709489:0",
@@ -430,6 +450,101 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi fiyat analizi dxy fed beklentileri iran riskleri aras nda 99 75 birlesme engeline goz dikti",
+      "link": "https://tr.tradingview.com/news/fxstreet:de594711ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro bolgesi oncu hicp agustos ay nda beklendigi gibi y ll k bazda 3 3 artt",
+      "link": "https://tr.tradingview.com/news/fxstreet:941f634a6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan rupisi rbi s k last rma patikas n n s g oldugu goruluyor standard chartered",
+      "link": "https://tr.tradingview.com/news/fxstreet:67bf28001d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ism imalat pmi abd fabrika faaliyetlerinde istikrarl genislemeye isaret etmeye haz rlan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:776b8bd0bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro bolgesinde issizlik oran temmuz 6 4 beklenti 6 3 onceki 6 3",
+      "link": "https://tr.tradingview.com/news/matriks:6709741:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ito istanbul tuketici fiyat endeksi agustos ay nda y ll k 34 96 onceki 35 20",
+      "link": "https://tr.tradingview.com/news/matriks:6709739:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro bolgesinde g enerji tutun haric tufe agustos ta y ll k 2 4 beklenti 2 5 onceki 2 5",
+      "link": "https://tr.tradingview.com/news/matriks:6709737:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ito istanbul tuketici fiyat endeksi agustos ay nda onceki aya gore 1 66 onceki 2 06",
+      "link": "https://tr.tradingview.com/news/matriks:6709736:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "08 09 2026 vadeli repo ihalesine gelen tekliflerin toplam 371 38 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6709733:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar fed in temkinli durusu rakipleri kars s nda kazanclar destekliyor ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:cf877a61fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "veritas capital ingiliz bodycote sirketini 2 2 milyar dolara sat n al yor",
+      "link": "https://tr.tradingview.com/news/matriks:6709709:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "hurmuz iki super tanker vuruldu deniz guvenligi dan smanl k sirketi marisks iki dev petrol tankerinin hurmuz bogaz ndan gecerken k sa aral klarla kimden geldigi belli olmayan cisimler taraf ndan vuruldugunu bildirdi",
+      "link": "https://www.bloomberght.com/hurmuz-de-iki-super-tanker-vuruldu-3786978"
+    },
+    {
+      "source": "bloomberght",
+      "text": "mobbing sikayeti artt ispat zorlast yoneticiye mail atarak manen y prand g n mobbinge ugrad g n belirten cal sana mahkemenin tazminat karar yarg tay dan dondu",
+      "link": "https://www.bloomberght.com/mobbing-sikayeti-artti-ispati-zorlasti-3786977"
+    },
+    {
+      "source": "kap",
+      "text": "bjkas cwene dgnmo efor gipta gundg ozatd paseu tmpol endekslerde kullan lan fiili dolas mdaki pay oran degisiklikleri sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656660"
+    },
+    {
+      "source": "kap",
+      "text": "ucaym pay baz nda devre kesici bildirimi ucaym e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656659"
+    },
+    {
+      "source": "kap",
+      "text": "trmet pay baz nda devre kesici bildirimi trmet e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656658"
+    },
+    {
+      "source": "kap",
+      "text": "hlvks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz yurtici kira sertifikas itfa getiri odemesi sirket halk varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656650"
+    },
+    {
+      "source": "kap",
+      "text": "katvk ihrac tavan na iliskin bildirim kira sertifikas ihrac tavan spk basvurusu sirket katilim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656645"
+    },
+    {
+      "source": "kap",
+      "text": "cante pay baz nda devre kesici bildirimi cante e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656644"
+    },
     {
       "source": "tradingview",
       "text": "tupras urun marjlar tacirler yat r m",
