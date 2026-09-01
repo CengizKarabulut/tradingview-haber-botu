@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656668",
+      "last_seen_key": "kap:1656670",
       "seen_keys": [
+        "kap:1656670",
+        "kap:1656669",
         "kap:1656668",
         "kap:1656667",
         "kap:1656666",
@@ -346,8 +348,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:fe5bde68fd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:ca06018c7d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:ca06018c7d9e8:0",
+        "tradingview:matriks:6709878:0",
+        "tradingview:tag:reuters.com,2026:newsml_S8N43W08B:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44T0KA:0",
         "tradingview:fxstreet:fe5bde68fd9e8:0",
         "tradingview:fxstreet:0a873d625d9e8:0",
         "tradingview:matriks:6709831:0",
@@ -509,6 +515,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd dolar jackson hole faiz art r m riskini canl tutuyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:ca06018c7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cumhurbaskan erdogan turkiye olarak etraf m zda yasanan cat smalar n diyalog diploamsi yoluyla cozume kavusturulmas sorumluluk al yor bolgemizde tum dunyada bar s huzur istikrar cal smaya devam ediyoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6709878:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "istanbul tuketici fiyat indeksi agustos ta onceki aya gore 1 66 y ll k bazda 34 96 artt ito",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_S8N43W08B:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nepal sel felaketinde hayat n kaybedenlerin say s 1 000 i ast",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44T0KA:0"
+    },
+    {
+      "source": "kap",
+      "text": "tvb vakbn pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren nitelikli yat r mc lara finansman bonosu ihrac n n tamamlanmas sirket turkiye vakiflar bankasi t a o",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656670"
+    },
+    {
+      "source": "kap",
+      "text": "arzum kurumsal yonetim ilkelerine uyum derecelendirmesi kurumsal yonetim derecelendirme sozlesmesinin yenilenmesi sirket arzum elektrikli ev aletleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656669"
+    },
     {
       "source": "tradingview",
       "text": "brezilya reali mali riskler para birimi uzerinde bask olusturuyor commerzbank",
