@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656617",
+      "last_seen_key": "kap:1656630",
       "seen_keys": [
+        "kap:1656630",
+        "kap:1656629",
+        "kap:1656628",
+        "kap:1656627",
+        "kap:1656619",
+        "kap:1656618",
         "kap:1656617",
         "kap:1656614",
         "kap:1656613",
@@ -23,7 +29,6 @@
         "kap:1656597",
         "kap:1656596",
         "kap:1656595",
-        "kap:1656594",
         "kap:1656593",
         "kap:1656592",
         "kap:1656591",
@@ -88,6 +93,7 @@
         "kap:1656500",
         "kap:1656499",
         "kap:1656490",
+        "kap:1656594",
         "kap:1656486",
         "kap:1656484",
         "kap:1656483",
@@ -273,8 +279,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6709489:0",
+      "last_seen_key": "tradingview:fxstreet:715a2ada8d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:715a2ada8d9e8:0",
+        "tradingview:matriks:6709589:0",
+        "tradingview:matriks:6709583:0",
+        "tradingview:matriks:6709575:0",
+        "tradingview:fxstreet:4a9a870c5d9e8:0",
+        "tradingview:matriks:6709545:0",
+        "tradingview:fxstreet:2a30a9147d9e8:0",
+        "tradingview:matriks:6709498:0",
+        "tradingview:matriks:6709496:0",
         "tradingview:matriks:6709489:0",
         "tradingview:matriks:6709488:0",
         "tradingview:matriks:6709487:0",
@@ -378,5 +393,81 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro euro bolgesi hicp verileri oncesinde japon yeni kars s nda hafif geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:715a2ada8d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hurmuz bogaz ndaki petrol supertankerine fuze isabet etti bloomberg ht",
+      "link": "https://tr.tradingview.com/news/matriks:6709589:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "agustos ay nda ibraz edilen cek say s degismezken kars l ks z cek say s artt",
+      "link": "https://tr.tradingview.com/news/matriks:6709583:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "makro analiz turkiye pmi tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709575:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar rbnz faiz art r m az s k lasmac risklerle goruluyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:4a9a870c5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tuprs ayl k marj degerlendirmesi ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709545:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "foreks piyasas nda bugun odak euro bolgesi enflasyonuna orta duzey abd veri ac klamalar na kay yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2a30a9147d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "italya 2 ceyrekte gsyih ceyreklik 0 2 beklenti 0 2 onceki 0 2",
+      "link": "https://tr.tradingview.com/news/matriks:6709498:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "italya 2 ceyrekte gsyih y ll k 1 0 beklenti 1 0 onceki 1 0",
+      "link": "https://tr.tradingview.com/news/matriks:6709496:0"
+    },
+    {
+      "source": "kap",
+      "text": "iep sirket genel bilgi formu sirket astra portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656630"
+    },
+    {
+      "source": "kap",
+      "text": "edip pay baz nda devre kesici bildirimi edip e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656629"
+    },
+    {
+      "source": "kap",
+      "text": "gznmi pay baz nda devre kesici bildirimi gznmi e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656628"
+    },
+    {
+      "source": "kap",
+      "text": "kboru pay baz nda devre kesici bildirimi kboru e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656627"
+    },
+    {
+      "source": "kap",
+      "text": "citas pay baz nda devre kesici bildirimi citas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656619"
+    },
+    {
+      "source": "kap",
+      "text": "izmdc pay baz nda devre kesici bildirimi izmdc e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656618"
+    }
+  ]
 }
