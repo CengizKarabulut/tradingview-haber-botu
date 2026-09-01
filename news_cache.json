@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656746",
+      "last_seen_key": "kap:1656780",
       "seen_keys": [
+        "kap:1656780",
+        "kap:1656779",
+        "kap:1656778",
+        "kap:1656775",
+        "kap:1656749",
+        "kap:1656748",
+        "kap:1656747",
         "kap:1656746",
         "kap:1656745",
         "kap:1656744",
@@ -467,8 +474,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:26846c1fed9e8:0",
+      "last_seen_key": "tradingview:matriks:6710442:0",
       "seen_keys": [
+        "tradingview:matriks:6710442:0",
+        "tradingview:matriks:6710438:0",
+        "tradingview:matriks:6710437:0",
+        "tradingview:fxstreet:1f220e2b9d9e8:0",
+        "tradingview:matriks:6710434:0",
+        "tradingview:fxstreet:776b8bd0bd9e8:0",
+        "tradingview:fxstreet:b04983c30d9e8:0",
         "tradingview:fxstreet:26846c1fed9e8:0",
         "tradingview:matriks:6710327:0",
         "tradingview:matriks:6710326:0",
@@ -540,7 +554,6 @@
         "tradingview:fxstreet:941f634a6d9e8:0",
         "tradingview:matriks:6709752:0",
         "tradingview:fxstreet:67bf28001d9e8:0",
-        "tradingview:fxstreet:776b8bd0bd9e8:0",
         "tradingview:matriks:6709750:0",
         "tradingview:matriks:6709749:0",
         "tradingview:matriks:6709745:0",
@@ -680,6 +693,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ecb nagel cekirdek hizmetler enflasyonundaki yumusama iyi haber enflasyonda ikinci tur etkiler gormuyorum",
+      "link": "https://tr.tradingview.com/news/matriks:6710442:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n anal z ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6710438:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ecb nagel global ekonomi orta dogu krizine ragmen buyume yolunda",
+      "link": "https://tr.tradingview.com/news/matriks:6710437:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar abd dolar n n fed faiz art r m beklentilerinden faydalanmas yla geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:1f220e2b9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "takasbank para piyasas nda bugun 71 milyar 174 milyon tl islem hacmi gerceklesti",
+      "link": "https://tr.tradingview.com/news/matriks:6710434:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar warsh destegi fed fiyatlamas surerken sonuyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:b04983c30d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "svgyo pay baz nda devre kesici bildirimi svgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656780"
+    },
+    {
+      "source": "kap",
+      "text": "kocfn ihrac tavan na iliskin bildirim borclanma arac ihrac na iliskin al nan yonetim kurulu karar sirket koc finansman a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656779"
+    },
+    {
+      "source": "kap",
+      "text": "maktk pay baz nda devre kesici bildirimi maktk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656778"
+    },
+    {
+      "source": "kap",
+      "text": "metro pay baz nda devre kesici bildirimi metro e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656775"
+    },
+    {
+      "source": "kap",
+      "text": "krdmb pay baz nda devre kesici bildirimi krdmb e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656749"
+    },
+    {
+      "source": "kap",
+      "text": "fzlgy pay baz nda devre kesici bildirimi fzlgy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656748"
+    },
+    {
+      "source": "kap",
+      "text": "bigtk pay baz nda devre kesici bildirimi bigtk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656747"
+    },
     {
       "source": "tradingview",
       "text": "euro amb s k lasmas n n asag yonu s n rlad g goruluyor bbh",
