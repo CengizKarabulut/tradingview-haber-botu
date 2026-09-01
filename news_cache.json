@@ -149,8 +149,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/spk-dan-borsa-disi-pay-satislarina-yeni-sinirlama-3786945",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/petrol-tirmanan-catisma-ortamiyla-sicradi-3786946",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/petrol-tirmanan-catisma-ortamiyla-sicradi-3786946",
         "bloomberght:https://www.bloomberght.com/spk-dan-borsa-disi-pay-satislarina-yeni-sinirlama-3786945",
         "bloomberght:https://www.bloomberght.com/trump-hurmuz-cok-iyi-durumda-gunde-30-tanker-geciyor-3786944",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-01092026-3786943",
@@ -533,9 +534,18 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44T08D:0",
+      "last_seen_key": "tradingview:matriks:6708923:0",
       "seen_keys": [
+        "tradingview:matriks:6708923:0",
+        "tradingview:matriks:6708917:0",
+        "tradingview:matriks:6708913:0",
+        "tradingview:matriks:6708907:0",
+        "tradingview:matriks:6708905:0",
+        "tradingview:matriks:6708904:0",
+        "tradingview:fxstreet:038d14995d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44T09R:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44T08D:0",
+        "tradingview:matriks:6708893:0",
         "tradingview:fxstreet:849bef6ddd9e8:0",
         "tradingview:matriks:6708890:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44T07T:0",
@@ -558,6 +568,8 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44T075:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44T08S:0",
         "tradingview:cointelegraph:6c11257bad9e8:0",
+        "tradingview:matriks:6708855:0",
+        "tradingview:matriks:6708846:0",
         "tradingview:fxstreet:1bad74a9fd9e8:0",
         "tradingview:fxstreet:6d29b557ad9e8:0",
         "tradingview:matriks:6708842:0",
@@ -838,6 +850,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "teknik bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6708923:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avrupa ruzgar enerji kapasitesi y l n ilk yar s nda 8 8 gigavat artt",
+      "link": "https://tr.tradingview.com/news/matriks:6708917:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten fibayat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6708913:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "agustos ay nda uretici market aras ndaki fiyat fark en fazla yuzde 748 4 limonda goruldu tzob",
+      "link": "https://tr.tradingview.com/news/matriks:6708907:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar bulteni qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6708905:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitmine ethereum arz n n 5 ine yaklast",
+      "link": "https://tr.tradingview.com/news/matriks:6708904:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gbp usd fiyat analizi 100 gunluk sma n n uzerinde yukselis egilimini korurken 1 3550 nin alt na geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:038d14995d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz tahvil petrol alt n",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44T09R:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "petrol t rmanan cat sma ortam yla s crad abd iran aras nda kars l kl askeri misillemelerin yeniden baslamas hurmuz bogaz ndaki sevkiyat risklerinin t rmanmas yla petrol fiyatlar ust uste ikinci gunde yukselisini surdurdu",
+      "link": "https://www.bloomberght.com/petrol-tirmanan-catisma-ortamiyla-sicradi-3786946"
+    },
     {
       "source": "investing",
       "text": "byd hisseleri bugun neden yukseliyor",
