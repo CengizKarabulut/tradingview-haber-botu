@@ -214,8 +214,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/kyowa-kirin-hissesi-bugun-neden-yukseliyor-93CH-4050036",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/li-auto-agustosta-37679-arac-teslim-etti-93CH-4050041",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/li-auto-agustosta-37679-arac-teslim-etti-93CH-4050041",
+        "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-fed-belirsizligi-ile-geriledi-4050038",
         "investing:https://tr.investing.com/news/stock-market-news/kyowa-kirin-hissesi-bugun-neden-yukseliyor-93CH-4050036",
         "investing:https://tr.investing.com/news/stock-market-news/astellas-pharma-hisseleri-neden-yukseliyor-93CH-4050035",
         "investing:https://tr.investing.com/news/stock-market-news/square-enix-hisseleri-neden-yukseliste-93CH-4050034",
@@ -224,8 +226,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/hsbc-nuvama-wealth-icin-ozel-sermaye-sirketleriyle-yarsyor-4050030",
         "investing:https://tr.investing.com/news/insider-trading-news/oomann-svpsi-jenny-yeh-504320-dolar-degerinde-hisse-satt-93CH-4050027",
         "investing:https://tr.investing.com/news/stock-market-news/e2e-networks-haziran-2029a-kadar-105-milyon-dolarlk-ai-anlasmas-imzalad-93CH-4050026",
-        "investing:https://tr.investing.com/news/insider-trading-news/oomann-hukuk-muduru-jenny-yeh-504320-dolar-degerinde-hisse-satt-93CH-4050025",
-        "investing:https://tr.investing.com/news/stock-market-news/mitsui-nutrinovadaki-payn-152-milyon-dolara-artryor-93CH-4050024",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -246,6 +246,8 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/insider-trading-news/oomann-hukuk-muduru-jenny-yeh-504320-dolar-degerinde-hisse-satt-93CH-4050025",
+        "investing:https://tr.investing.com/news/stock-market-news/mitsui-nutrinovadaki-payn-152-milyon-dolara-artryor-93CH-4050024",
         "investing:https://tr.investing.com/news/insider-trading-news/bjs-restaurants-yoneticisi-47627-dolarlk-hisse-ald-93CH-4050023",
         "investing:https://tr.investing.com/news/company-news/strategx-ozel-yerlestirme-son-tarihini-30-eylule-uzatt-93CH-4050021",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-28-agustosta-45167-dolar-degerinde-hisse-satt-93CH-4050020",
@@ -514,8 +516,34 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6708769:0",
+      "last_seen_key": "tradingview:fxstreet:996f5696bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:996f5696bd9e8:0",
+        "tradingview:matriks:6708811:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44T05J:0",
+        "tradingview:matriks:6708803:0",
+        "tradingview:matriks:6708796:0",
+        "tradingview:matriks:6708798:0",
+        "tradingview:matriks:6708797:0",
+        "tradingview:matriks:6708795:0",
+        "tradingview:matriks:6708799:0",
+        "tradingview:matriks:6708788:0",
+        "tradingview:matriks:6708790:0",
+        "tradingview:matriks:6708789:0",
+        "tradingview:matriks:6708791:0",
+        "tradingview:matriks:6708794:0",
+        "tradingview:matriks:6708784:0",
+        "tradingview:matriks:6708785:0",
+        "tradingview:matriks:6708787:0",
+        "tradingview:matriks:6708781:0",
+        "tradingview:matriks:6708780:0",
+        "tradingview:matriks:6708786:0",
+        "tradingview:matriks:6708782:0",
+        "tradingview:matriks:6708783:0",
+        "tradingview:fxstreet:9c11369f0d9e8:0",
+        "tradingview:matriks:6708761:0",
+        "tradingview:matriks:6708770:0",
+        "tradingview:matriks:6708768:0",
         "tradingview:matriks:6708769:0",
         "tradingview:matriks:6708767:0",
         "tradingview:matriks:6708777:0",
@@ -749,6 +777,146 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro guclu usd kars s nda 1 1600 yak nlar nda zorlan yor miktar ivme euro bolgesi hicp verilerine bak yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:996f5696bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "pamukta ithalat bag ml l g sezon daha artacak nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6708811:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "resmi gazete bugun 1 eylul 2026",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44T05J:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bbva research turkiye 2026 y l 3 0 buyume tahminini korudu",
+      "link": "https://tr.tradingview.com/news/matriks:6708803:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya agustos ay nihai s p global imalat pmi 52 0 onceki 52 0",
+      "link": "https://tr.tradingview.com/news/matriks:6708796:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya agustos ay nihai s p global imalat pmi 54 9 onceki 55 1",
+      "link": "https://tr.tradingview.com/news/matriks:6708798:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya 2 ceyrek ozel sektor sermaye harcamalar y ll k 1 6 onceki 0 0",
+      "link": "https://tr.tradingview.com/news/matriks:6708797:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar kapan s raporu is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6708795:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin agustos ay nihai ratingdog pmi md 51 5 beklenti 51 0 onceki 50 9",
+      "link": "https://tr.tradingview.com/news/matriks:6708799:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ag anadolu grubu holding togg ilgili haberler habere konu paylar ilgili muhtelif gorusmeler devam etmekte olup asamada islemi kesinlestiren baglay c sozlesme bulunmamaktad r",
+      "link": "https://tr.tradingview.com/news/matriks:6708788:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "halk gyo adana gelistirilecek kentsel donusum projesi kapsam nda sts grup adi ortakl k kurulmas na karar verdi",
+      "link": "https://tr.tradingview.com/news/matriks:6708790:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tera portfoy yonetimi yat r m fonlar na iliskin rehber degisiklikleri kapsam nda kurucusu yoneticisi oldugu fonlarda uyum cal smalar n n ivedilikle gerceklestirildigini duyurdu",
+      "link": "https://tr.tradingview.com/news/matriks:6708789:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vestel elektronik togg ilgili haberler habere konu paylar ilgili muhtelif gorusmeler devam etmekte olup asamada islemi kesinlestiren al nm s yonetim kurulu karar bulunmamaktad r",
+      "link": "https://tr.tradingview.com/news/matriks:6708791:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yat r m ortakl klar portfoy degerleri tablosu",
+      "link": "https://tr.tradingview.com/news/matriks:6708794:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "akfen gyo n n konsolide kira gelirleri ocak temmuz euro baz nda gecen y l n ayn donemine k yasla 15 art s gosterdi",
+      "link": "https://tr.tradingview.com/news/matriks:6708784:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "albayrak haz r beton celikler fernas guryap ortakl g rayl sistem hatlar projesinin haz r beton tedarigi kapsam nda nihai sozlesme imzalad",
+      "link": "https://tr.tradingview.com/news/matriks:6708785:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "astor enerji abd yerlesik firma guc transformatoru tedarigine iliskin 3 ayr sozlesme imzalad",
+      "link": "https://tr.tradingview.com/news/matriks:6708787:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "coca cola icecek turkiye genel mudurlugunu 1 ocak 2027 tarihi itibar yla doga erzi ustlenecek",
+      "link": "https://tr.tradingview.com/news/matriks:6708781:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "koleksiyon mobilya doruk malhan ceo olarak atand",
+      "link": "https://tr.tradingview.com/news/matriks:6708780:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkcell togg ilgili haberler asamada haberlere konu olan islemle ilgili olarak gorusmeler devam etmektedir",
+      "link": "https://tr.tradingview.com/news/matriks:6708786:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vbts kapsam nda hatsn e paylar seans bas ndan 30 eylul seans sonuna kadar ac ga sat sa kredili islemlere konu edilemeyecek",
+      "link": "https://tr.tradingview.com/news/matriks:6708782:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sise cam rekabet kurulu taraf ndan teblig edilen idari para cezas n 25 oran ndaki pesin odeme indiriminden yararlan lmak suretiyle odedi",
+      "link": "https://tr.tradingview.com/news/matriks:6708783:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "aud jpy fiyat analizi yukselis yonlu teknik gorunum korunurken 114 50 nin uzerinde gucleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:9c11369f0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankalar serbest mevduat gun bas toplam likidite",
+      "link": "https://tr.tradingview.com/news/matriks:6708761:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankalarca 1 y la kadar vadeli tl mevduatlara uygulanan ag rl kl ortalama faiz oranlar",
+      "link": "https://tr.tradingview.com/news/matriks:6708770:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankalarca ac lan ihtiyac kredilerine uygulanan ag rl kl ortalama faiz oranlar",
+      "link": "https://tr.tradingview.com/news/matriks:6708768:0"
+    },
+    {
+      "source": "investing",
+      "text": "li auto agustos ta 37 679 arac teslim etti",
+      "link": "https://tr.investing.com/news/company-news/li-auto-agustosta-37679-arac-teslim-etti-93CH-4050041"
+    },
+    {
+      "source": "investing",
+      "text": "asya hisseleri fed belirsizligi geriledi",
+      "link": "https://tr.investing.com/news/stock-market-news/asya-hisseleri-fed-belirsizligi-ile-geriledi-4050038"
+    },
     {
       "source": "tradingview",
       "text": "bankalarca ac lan ticari kredilere uygulanan ag rl kl ortalama faiz oranlar",
