@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656980",
+      "last_seen_key": "kap:1656981",
       "seen_keys": [
+        "kap:1656981",
         "kap:1656980",
         "kap:1656979",
         "kap:1656978",
@@ -106,8 +107,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-den-iran-a-yeni-saldiri-3787040",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/iran-abd-ye-misilleme-yapilacagini-duyurdu-3787046",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/iran-abd-ye-misilleme-yapilacagini-duyurdu-3787046",
+        "bloomberght:https://www.bloomberght.com/trump-iran-misilleme-yaparsa-yeniden-vurulacak-3787045",
         "bloomberght:https://www.bloomberght.com/abd-den-iran-a-yeni-saldiri-3787040",
         "bloomberght:https://www.bloomberght.com/japonya-ile-v4-ulkeleri-teknoloji-isbirligini-guclendiriyor-3787039",
         "bloomberght:https://www.bloomberght.com/bofa-baskan-yardimcisi-erin-piacenti-times-meydani-ndaki-saldirida-hayatini-kaybetti-3787038",
@@ -409,6 +412,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "iran abd ye misilleme yapacag n duyurdu iran genelkurmay baskanl g abd nin ulkenin guneyindeki baz noktalara duzenledigi hava sald r lar na ezici y prat c darbelerle kars l k verilecegini belirterek washington a ag r bedel odeteceklerini ac klad",
+      "link": "https://www.bloomberght.com/iran-abd-ye-misilleme-yapilacagini-duyurdu-3787046"
+    },
+    {
+      "source": "bloomberght",
+      "text": "trump iran misilleme yaparsa yeniden vurulacak abd baskan donald trump hurmuz bogaz yak nlar ndaki iran hedeflerine genis capl sald r lar duzenlendigini ac klayarak iran n kars l k vermesi halinde cok daha ag r sald r lar gerceklestirilecegi tehdidinde bulundu",
+      "link": "https://www.bloomberght.com/trump-iran-misilleme-yaparsa-yeniden-vurulacak-3787045"
+    },
+    {
+      "source": "kap",
+      "text": "ebebk ozel durum ac klamas genel agustos 2026 magaza say s sirket ebebek magazacilik a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656981"
+    },
     {
       "source": "tradingview",
       "text": "abd hazine getirileri iran sald r lar n enflasyon olarak okuyor",
