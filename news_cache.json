@@ -433,8 +433,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artti-otv-ve-kdv-eklendi-1739806",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-35-milyon-arac-sahibini-ilgilendiriyor-bugun-devreye-girdi-tek-numarayla-cozulecek-1739807",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-35-milyon-arac-sahibini-ilgilendiriyor-bugun-devreye-girdi-tek-numarayla-cozulecek-1739807",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-motorin-fiyatlari-artti-otv-ve-kdv-eklendi-1739806",
         "ntvpara:https://www.ntv.com.tr/ntvpara/petrol-fiyatlarinda-deprem-brent-91-dolari-asti-tanker-alev-aldi-1739804",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-dolar-alacaklar-dikkat-fedden-gelen-sinyal-dengeleri-degistirdi-1739802",
@@ -530,8 +531,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6708885:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44T08D:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44T08D:0",
+        "tradingview:fxstreet:849bef6ddd9e8:0",
+        "tradingview:matriks:6708890:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44T07T:0",
         "tradingview:matriks:6708885:0",
         "tradingview:fxstreet:955c8c0a2d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44T07K:0",
@@ -619,7 +624,6 @@
         "tradingview:matriks:6708746:0",
         "tradingview:matriks:6708745:0",
         "tradingview:matriks:6708741:0",
-        "tradingview:fxstreet:849bef6ddd9e8:0",
         "tradingview:cointelegraph:3e5edbce7d9e8:0",
         "tradingview:fxstreet:588938a88d9e8:0",
         "tradingview:beincrypto:62744c572d9e8:0",
@@ -832,6 +836,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "spk sirketlerin borsa d s nda pay sat slar na k s tlama getirdi",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44T08D:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sektorel gostergeler info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6708890:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "astor enerji ukrayna guc transformatoru tedarikine yonelik abd merkezli sirketle 98 milyon degerinde anlasmalar imzalad kap",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44T07T:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "35 milyon arac sahibini ilgilendiriyor bugun devreye girdi tek numarayla cozulecek trafikteki 34 7 milyon arac sahibini ilgilendiren duzenleme bugun devreye al nd arac sahipleri bundan sonra islemlerini tek numara uzerinden yurutecek",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-35-milyon-arac-sahibini-ilgilendiriyor-bugun-devreye-girdi-tek-numarayla-cozulecek-1739807"
+    },
     {
       "source": "tradingview",
       "text": "yurt ici teknik bulten burgan yat r m",
