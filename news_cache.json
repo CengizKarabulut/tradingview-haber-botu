@@ -369,8 +369,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:eb110c233d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:baf620f8dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:baf620f8dd9e8:0",
+        "tradingview:fxstreet:f4d4be2dfd9e8:0",
         "tradingview:fxstreet:eb110c233d9e8:0",
         "tradingview:cointelegraph:fe5254281d9e8:0",
         "tradingview:beincrypto:424526673d9e8:0",
@@ -501,6 +503,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "eur usd fiyat analizi 200 gunluk sma dolar guclenirken euro yu s n rl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:baf620f8dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rbnz faiz oran n 2 75 e yukseltmeye haz rlan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f4d4be2dfd9e8:0"
+    },
     {
       "source": "investing",
       "text": "google yapay zeka kodlama ac g n kapatmak gemini 3 8 flash haz rl yor",
