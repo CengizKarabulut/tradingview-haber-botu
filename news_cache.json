@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656981",
+      "last_seen_key": "kap:1656982",
       "seen_keys": [
+        "kap:1656982",
         "kap:1656981",
         "kap:1656980",
         "kap:1656979",
@@ -298,8 +299,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:cbad4f86fd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:f93534e2fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:f93534e2fd9e8:0",
         "tradingview:fxstreet:cbad4f86fd9e8:0",
         "tradingview:fxstreet:02d89ba9ed9e8:0",
         "tradingview:fxstreet:e8c39283fd9e8:0",
@@ -412,6 +414,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hisseler enerji getiri riskleri alt nda k r lgan yukselis nbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:f93534e2fd9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "merko kat l m finans ilkeleri bilgi formu sirket merko gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656982"
+    },
     {
       "source": "bloomberght",
       "text": "iran abd ye misilleme yapacag n duyurdu iran genelkurmay baskanl g abd nin ulkenin guneyindeki baz noktalara duzenledigi hava sald r lar na ezici y prat c darbelerle kars l k verilecegini belirterek washington a ag r bedel odeteceklerini ac klad",
