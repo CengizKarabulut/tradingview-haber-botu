@@ -2,8 +2,18 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656571",
+      "last_seen_key": "kap:1656586",
       "seen_keys": [
+        "kap:1656586",
+        "kap:1656585",
+        "kap:1656584",
+        "kap:1656583",
+        "kap:1656582",
+        "kap:1656581",
+        "kap:1656580",
+        "kap:1656579",
+        "kap:1656578",
+        "kap:1656577",
         "kap:1656571",
         "kap:1656560",
         "kap:1656555",
@@ -242,18 +252,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economic-indicators/almanyada-perakende-satslar-temmuzda-yuzde-34-dustu-93CH-4050085",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/hafnia-yeni-ceo-atad-hissedar-toplants-planlad-93CH-4050101",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/hafnia-yeni-ceo-atad-hissedar-toplants-planlad-93CH-4050101",
+        "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-miami-international-holdings-hissesini-dusurdu-93CH-4050100",
+        "investing:https://tr.investing.com/news/insider-trading-news/arm-holdings-cfosu-265-milyon-dolarlk-hisse-satt-93CH-4050098",
+        "investing:https://tr.investing.com/news/company-news/headlam-group-yonetim-atanmas-icin-basvurdu-93CH-4050094",
+        "investing:https://tr.investing.com/news/company-news/enhertu-her2pozitif-meme-kanserinde-ab-onay-ald-93CH-4050093",
+        "investing:https://tr.investing.com/news/company-news/anemoinin-id4-ag-birimi-isvicre-emeklilik-sozlesmesi-kazand-93CH-4050090",
+        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-strategynin-almlaryla-79-bin-dolara-yukseldi-4050092",
+        "investing:https://tr.investing.com/news/insider-trading-news/camp4-therapeutics-yoneticisi-16-milyon-dolarlk-hisse-satt-93CH-4050089",
         "investing:https://tr.investing.com/news/economic-indicators/almanyada-perakende-satslar-temmuzda-yuzde-34-dustu-93CH-4050085",
         "investing:https://tr.investing.com/news/stock-market-news/lotte-rental-hisseleri-neden-yukseliste-93CH-4050083",
-        "investing:https://tr.investing.com/news/stock-market-news/kuaishou-technology-hisseleri-neden-yukseliyor-93CH-4050082",
-        "investing:https://tr.investing.com/news/company-news/astrazeneca-akciger-kanseri-ilac-zegfrovy-icin-lisans-anlasmasn-tamamlad-93CH-4050080",
-        "investing:https://tr.investing.com/news/company-news/blencowe-grafiti-mach-55-hzndaki-hipersonik-roket-ucusunda-test-edildi-93CH-4050077",
-        "investing:https://tr.investing.com/news/company-news/astrazeneca-yonetim-kuruluna-wan-ling-martelloyu-atad-93CH-4050075",
-        "investing:https://tr.investing.com/news/company-news/bunzl-500-milyon-sterlinlik-geri-alm-program-baslatt-93CH-4050074",
-        "investing:https://tr.investing.com/news/company-news/valeura-taylandda-wassana-sahasnn-yeniden-gelistirilmesini-hzlandryor-93CH-4050070",
-        "investing:https://tr.investing.com/news/stock-market-news/aedifica-cofinimmo-anlasmas-sonras-kira-gelirinde-62-arts-bildirdi-93CH-4050068",
-        "investing:https://tr.investing.com/news/stock-market-news/guney-kore-duzenleyicisi-tpgnin-lotte-rental-almn-onaylad-93CH-4050067",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -274,6 +284,14 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/stock-market-news/kuaishou-technology-hisseleri-neden-yukseliyor-93CH-4050082",
+        "investing:https://tr.investing.com/news/company-news/astrazeneca-akciger-kanseri-ilac-zegfrovy-icin-lisans-anlasmasn-tamamlad-93CH-4050080",
+        "investing:https://tr.investing.com/news/company-news/blencowe-grafiti-mach-55-hzndaki-hipersonik-roket-ucusunda-test-edildi-93CH-4050077",
+        "investing:https://tr.investing.com/news/company-news/astrazeneca-yonetim-kuruluna-wan-ling-martelloyu-atad-93CH-4050075",
+        "investing:https://tr.investing.com/news/company-news/bunzl-500-milyon-sterlinlik-geri-alm-program-baslatt-93CH-4050074",
+        "investing:https://tr.investing.com/news/company-news/valeura-taylandda-wassana-sahasnn-yeniden-gelistirilmesini-hzlandryor-93CH-4050070",
+        "investing:https://tr.investing.com/news/stock-market-news/aedifica-cofinimmo-anlasmas-sonras-kira-gelirinde-62-arts-bildirdi-93CH-4050068",
+        "investing:https://tr.investing.com/news/stock-market-news/guney-kore-duzenleyicisi-tpgnin-lotte-rental-almn-onaylad-93CH-4050067",
         "investing:https://tr.investing.com/news/stock-market-news/pekinin-tuketimi-artrma-onlemleri-cin-perakende-hisselerini-yukseltti-4050066",
         "investing:https://tr.investing.com/news/insider-trading-news/red-oak-partners-motorsport-games-hissesine-47629-dolar-yatrd-93CH-4050064",
         "investing:https://tr.investing.com/news/stock-market-news/china-cinda-asset-management-hisseleri-neden-dusuyor-93CH-4050063",
@@ -511,8 +529,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/milli-elektrikli-hizli-tren-saatte-250-kilometreye-ulasarak-rekorunu-gelistirdi-955522.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/altin-fiyatlari-gune-dususle-basladi-955525.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/altin-fiyatlari-gune-dususle-basladi-955525.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/milli-elektrikli-hizli-tren-saatte-250-kilometreye-ulasarak-rekorunu-gelistirdi-955522.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-yumakli-balikcilik-sektorunde-gecen-yil-1-milyon-37-bin-tonluk-uretimle-rekor-kirdik-955495.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/rusya-ve-abd-finans-alanindaki-is-birligini-gorustu-955491.html",
@@ -579,8 +598,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6709149:0",
+      "last_seen_key": "tradingview:matriks:6709222:0",
       "seen_keys": [
+        "tradingview:matriks:6709222:0",
+        "tradingview:matriks:6709223:0",
+        "tradingview:matriks:6709220:0",
+        "tradingview:matriks:6709216:0",
+        "tradingview:matriks:6709207:0",
+        "tradingview:matriks:6709203:0",
+        "tradingview:fxstreet:8cf819ed5d9e8:0",
+        "tradingview:matriks:6709202:0",
+        "tradingview:matriks:6709187:0",
+        "tradingview:fxstreet:7e2013aa2d9e8:0",
+        "tradingview:matriks:6709155:0",
         "tradingview:matriks:6709149:0",
         "tradingview:matriks:6709148:0",
         "tradingview:matriks:6709142:0",
@@ -962,6 +992,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bloomberg ht tuketici egilimi endeksi agustos ay nda 76 55 on endeks 79 92 temmuz 71 57",
+      "link": "https://tr.tradingview.com/news/matriks:6709222:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bloomberg ht tuketici guven endeksi agustos ay nda onceki aya gore 4 46 dustu",
+      "link": "https://tr.tradingview.com/news/matriks:6709223:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bloomberg ht tuketici guven endeksi agustos ay nda 74 3 on endeks 79 0 temmuz 78 22",
+      "link": "https://tr.tradingview.com/news/matriks:6709220:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ayl k strateji raporu gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709216:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ayl k teknik analiz bulteni gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709207:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx bulteni qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6709203:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hisse senetleri jeopolitik getiriler hisseler uzerinde bask olusturuyor deutsche bank",
+      "link": "https://tr.tradingview.com/news/fxstreet:8cf819ed5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk hisse senedi piyasas gorunumu akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709202:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "info yat r m oyakc yi model portfoyunden c kar rken astor u model portfoyune tekrar ekledi info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709187:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini asag yonlu risk 1 3480 seviyesine odaklan yor abd dolar kars s nda uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:7e2013aa2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "deniz yat r m petkm 21 tl hedef fiyat belirledi tut tavsiyesini korudu onceki hedef fiyat 21 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6709155:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "alt n fiyatlar gune dususle baslad gram alt n gune deger kayb yla baslamas n n ard ndan 6 bin 881 liradan islem goruyor ceyrek alt n 11 bin 237 liradan cumhuriyet alt n 44 bin 754 liradan sat l yor",
+      "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlari-gune-dususle-basladi-955525.html"
+    },
+    {
+      "source": "investing",
+      "text": "hafnia yeni ceo atad hissedar toplant s planlad",
+      "link": "https://tr.investing.com/news/company-news/hafnia-yeni-ceo-atad-hissedar-toplants-planlad-93CH-4050101"
+    },
+    {
+      "source": "investing",
+      "text": "morgan stanley miami international holdings hissesini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-miami-international-holdings-hissesini-dusurdu-93CH-4050100"
+    },
+    {
+      "source": "investing",
+      "text": "arm holdings cfo su 2 65 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/arm-holdings-cfosu-265-milyon-dolarlk-hisse-satt-93CH-4050098"
+    },
+    {
+      "source": "investing",
+      "text": "headlam group yonetim atanmas basvurdu",
+      "link": "https://tr.investing.com/news/company-news/headlam-group-yonetim-atanmas-icin-basvurdu-93CH-4050094"
+    },
+    {
+      "source": "investing",
+      "text": "enhertu her2 pozitif meme kanserinde ab onay ald",
+      "link": "https://tr.investing.com/news/company-news/enhertu-her2pozitif-meme-kanserinde-ab-onay-ald-93CH-4050093"
+    },
+    {
+      "source": "investing",
+      "text": "anemoi nin id4 ag birimi isvicre emeklilik sozlesmesi kazand",
+      "link": "https://tr.investing.com/news/company-news/anemoinin-id4-ag-birimi-isvicre-emeklilik-sozlesmesi-kazand-93CH-4050090"
+    },
+    {
+      "source": "investing",
+      "text": "bitcoin strategy nin al mlar yla 79 bin dolara yukseldi",
+      "link": "https://tr.investing.com/news/cryptocurrency-news/bitcoin-strategynin-almlaryla-79-bin-dolara-yukseldi-4050092"
+    },
+    {
+      "source": "investing",
+      "text": "camp4 therapeutics yoneticisi 1 6 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/camp4-therapeutics-yoneticisi-16-milyon-dolarlk-hisse-satt-93CH-4050089"
+    },
+    {
+      "source": "kap",
+      "text": "alnus anc pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfsrmda2611 isin kodlu degisken faizli finansman bonosunun 1 kupon odemesi sirket alnus yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656586"
+    },
+    {
+      "source": "kap",
+      "text": "glyho pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656585"
+    },
+    {
+      "source": "kap",
+      "text": "btcim pay baz nda devre kesici bildirimi btcim e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656584"
+    },
+    {
+      "source": "kap",
+      "text": "karcl pay baz nda devre kesici bildirimi karcl e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656583"
+    },
+    {
+      "source": "kap",
+      "text": "kboru ihale sureci sonucu ihale sureci bildirimi sirket kuzey boru a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656582"
+    },
+    {
+      "source": "kap",
+      "text": "egegy pay baz nda devre kesici bildirimi egegy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656581"
+    },
+    {
+      "source": "kap",
+      "text": "ktlev ozel durum ac klamas genel agustos 2026 ayl k gerceklesen sozlesme buyuklugu sirket katilimevim tasarruf finansman a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656580"
+    },
+    {
+      "source": "kap",
+      "text": "blcyt pay baz nda devre kesici bildirimi blcyt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656579"
+    },
+    {
+      "source": "kap",
+      "text": "atatr halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu sirket ata turizm isletmecilik tasimacilik madencilik kuyumculuk sanayi dis ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656578"
+    },
+    {
+      "source": "kap",
+      "text": "grnyo ozel durum ac klamas genel paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket garanti yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656577"
+    },
     {
       "source": "tradingview",
       "text": "gedik yat r m ulker 150 8 tl hedef fiyat endeks ustu getiri tavsiyesi verdi onceki hedef fiyat 126 tl onceki tavsiye endekse paralel getiri",
