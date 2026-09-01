@@ -179,18 +179,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/google-yapay-zeka-kodlama-acgn-kapatmak-icin-gemini-38-flash-hazrlyor-4051036",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/dropbox-hisseleri-neden-dusuyor-93CH-4051041",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/dropbox-hisseleri-neden-dusuyor-93CH-4051041",
+        "investing:https://tr.investing.com/news/insider-trading-news/bill-holdings-cfosu-16-milyon-dolarlk-hisse-satt-93CH-4051040",
+        "investing:https://tr.investing.com/news/stock-market-news/blue-origin-guclu-altyap-planyla-mars-ag-sozlesmesi-ald-93CH-4051039",
+        "investing:https://tr.investing.com/news/company-news/cascadero-copper-yan-kurulusunu-19-milyon-dolara-satyor-93CH-4051038",
+        "investing:https://tr.investing.com/news/stock-market-news/dropbox-hisseleri-veri-ihlali-haberiyle-dustu-93CH-4051037",
         "investing:https://tr.investing.com/news/stock-market-news/google-yapay-zeka-kodlama-acgn-kapatmak-icin-gemini-38-flash-hazrlyor-4051036",
         "investing:https://tr.investing.com/news/insider-trading-news/abercrombie--fitch-evp-44-milyon-dolarlk-hisse-satt-93CH-4051034",
         "investing:https://tr.investing.com/news/insider-trading-news/abercrombie--fitch-yoneticisi-robinson-119752-dolarlk-hisse-satt-93CH-4051033",
         "investing:https://tr.investing.com/news/insider-trading-news/abercrombie--fitch-coo-lipesky-745000-dolarlk-hisse-satt-93CH-4051032",
         "investing:https://tr.investing.com/news/insider-trading-news/abercrombie--fitch-evp-jay-rust-737500-dolarlk-hisse-satt-93CH-4051031",
-        "investing:https://tr.investing.com/news/insider-trading-news/kingsway-corp-ceosu-sirket-hissesi-satn-ald-93CH-4051030",
-        "investing:https://tr.investing.com/news/stock-market-news/raytheon-donanmadan-425-milyon-dolarlk-sozlesme-ald-93CH-4051028",
-        "investing:https://tr.investing.com/news/stock-market-news/general-electric-savunma-bakanlgndan-29-milyar-dolarlk-sozlesme-ald-93CH-4051026",
-        "investing:https://tr.investing.com/news/company-news/biosenta-dynamic-facility-services-ile-pilot-anlasma-imzalad-93CH-4051025",
-        "investing:https://tr.investing.com/news/stock-market-news/chegg-hissesi-borc-odemesiyle-yukseldi-borcsuz-statuye-ulast-93CH-4051024",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -211,6 +211,11 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/insider-trading-news/kingsway-corp-ceosu-sirket-hissesi-satn-ald-93CH-4051030",
+        "investing:https://tr.investing.com/news/stock-market-news/raytheon-donanmadan-425-milyon-dolarlk-sozlesme-ald-93CH-4051028",
+        "investing:https://tr.investing.com/news/stock-market-news/general-electric-savunma-bakanlgndan-29-milyar-dolarlk-sozlesme-ald-93CH-4051026",
+        "investing:https://tr.investing.com/news/company-news/biosenta-dynamic-facility-services-ile-pilot-anlasma-imzalad-93CH-4051025",
+        "investing:https://tr.investing.com/news/stock-market-news/chegg-hissesi-borc-odemesiyle-yukseldi-borcsuz-statuye-ulast-93CH-4051024",
         "investing:https://tr.investing.com/news/stock-market-news/wolfe-research-2026-icin-en-iyi-medya-ve-eglence-hisselerini-acklad-93CH-4051022",
         "investing:https://tr.investing.com/news/stock-market-news/sp-ana-sirketin-nakit-aks-nedeniyle-viper-energy-gorunumunu-yukseltti-93CH-4051021",
         "investing:https://tr.investing.com/news/insider-trading-news/corecivic-yoneticisi-405500-dolarlk-hisse-satt-93CH-4051019",
@@ -503,6 +508,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "dropbox hisseleri neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/dropbox-hisseleri-neden-dusuyor-93CH-4051041"
+    },
+    {
+      "source": "investing",
+      "text": "bill holdings cfo su 1 6 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/bill-holdings-cfosu-16-milyon-dolarlk-hisse-satt-93CH-4051040"
+    },
+    {
+      "source": "investing",
+      "text": "blue origin guclu altyap plan yla mars ag sozlesmesi ald",
+      "link": "https://tr.investing.com/news/stock-market-news/blue-origin-guclu-altyap-planyla-mars-ag-sozlesmesi-ald-93CH-4051039"
+    },
+    {
+      "source": "investing",
+      "text": "cascadero copper yan kurulusunu 19 milyon dolara sat yor",
+      "link": "https://tr.investing.com/news/company-news/cascadero-copper-yan-kurulusunu-19-milyon-dolara-satyor-93CH-4051038"
+    },
+    {
+      "source": "investing",
+      "text": "dropbox hisseleri veri ihlali haberiyle dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/dropbox-hisseleri-veri-ihlali-haberiyle-dustu-93CH-4051037"
+    },
     {
       "source": "tradingview",
       "text": "eur usd fiyat analizi 200 gunluk sma dolar guclenirken euro yu s n rl yor",
