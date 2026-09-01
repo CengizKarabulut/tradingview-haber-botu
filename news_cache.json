@@ -2,14 +2,16 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656605",
+      "last_seen_key": "kap:1656608",
       "seen_keys": [
+        "kap:1656608",
+        "kap:1656607",
+        "kap:1656606",
         "kap:1656605",
         "kap:1656604",
         "kap:1656603",
         "kap:1656602",
         "kap:1656601",
-        "kap:1656600",
         "kap:1656599",
         "kap:1656598",
         "kap:1656597",
@@ -93,6 +95,7 @@
         "kap:1656476",
         "kap:1656475",
         "kap:1656474",
+        "kap:1656600",
         "kap:1656473",
         "kap:1656472",
         "kap:1656471",
@@ -198,8 +201,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/motorine-otv-zammi-3786968",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/modi-den-altin-almayin-cagrisi-3786970",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/modi-den-altin-almayin-cagrisi-3786970",
         "bloomberght:https://www.bloomberght.com/motorine-otv-zammi-3786968",
         "bloomberght:https://www.bloomberght.com/iso-turkiye-imalat-pmi-3-ayin-en-yuksek-seviyesinde-3786969",
         "bloomberght:https://www.bloomberght.com/bloomberg-ht-tuketici-guven-endeksi-agustos-ta-geriledi-3786960",
@@ -275,26 +279,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/global-filings/turkcell-toggda-pay-satn-alm-icin-gorusmelerde-93CH-4050120",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/harvest-minerals-scanty-mineracao-satn-almn-tamamlad-93CH-4050137",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/global-filings/turkcell-toggda-pay-satn-alm-icin-gorusmelerde-93CH-4050120",
-        "investing:https://tr.investing.com/news/company-news/nano-one-kurumsal-gelisim-direktoru-olarak-aleem-ladak-atad-93CH-4050118",
-        "investing:https://tr.investing.com/news/global-filings/son-dakika-ag-anadolu-grubu-togg-paylar-icin-gorusme-surduruyor-93CH-4050117",
-        "investing:https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-tahvil-satslar-ve-ortadogu-gerilimiyle-yatay-4050121",
-        "investing:https://tr.investing.com/news/global-filings/son-dakika-vestel-elektronik-togg-paylar-icin-gorusmeleri-surduruyor-93CH-4050116",
-        "investing:https://tr.investing.com/news/global-filings/hatsne-paylar-130-eylul-aras-acga-satsa-kapatld-93CH-4050115",
-        "investing:https://tr.investing.com/news/company-news/inturai-ventures-domecommand-satn-almn-6-milyon-dolara-tamamlad-93CH-4050114",
-        "investing:https://tr.investing.com/news/stock-market-news/morgan-stanleyden-2026-icin-uc-asya-teknoloji-hissesi-onerisi-93CH-4050113",
-        "investing:https://tr.investing.com/news/company-news/hafnia-yeni-ceo-atad-hissedar-toplants-planlad-93CH-4050101",
-        "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-miami-international-holdings-hissesini-dusurdu-93CH-4050100",
-        "investing:https://tr.investing.com/news/insider-trading-news/arm-holdings-cfosu-265-milyon-dolarlk-hisse-satt-93CH-4050098",
-        "investing:https://tr.investing.com/news/company-news/headlam-group-yonetim-atanmas-icin-basvurdu-93CH-4050094",
-        "investing:https://tr.investing.com/news/company-news/enhertu-her2pozitif-meme-kanserinde-ab-onay-ald-93CH-4050093",
-        "investing:https://tr.investing.com/news/company-news/anemoinin-id4-ag-birimi-isvicre-emeklilik-sozlesmesi-kazand-93CH-4050090",
-        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-strategynin-almlaryla-79-bin-dolara-yukseldi-4050092",
-        "investing:https://tr.investing.com/news/insider-trading-news/camp4-therapeutics-yoneticisi-16-milyon-dolarlk-hisse-satt-93CH-4050089",
-        "investing:https://tr.investing.com/news/economic-indicators/almanyada-perakende-satslar-temmuzda-yuzde-34-dustu-93CH-4050085",
-        "investing:https://tr.investing.com/news/stock-market-news/lotte-rental-hisseleri-neden-yukseliste-93CH-4050083",
+        "investing:https://tr.investing.com/news/company-news/harvest-minerals-scanty-mineracao-satn-almn-tamamlad-93CH-4050137",
+        "investing:https://tr.investing.com/news/global-filings/halk-varlk-kiralama-38-milyar-tl-kira-sertifikas-ihrac-etti-93CH-4050136",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-revvity-hissesi-icin-kapsama-baslatt-93CH-4050135",
+        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-blossomhill-therapeutics-hissesine-agrlkl-al-onerisi-verdi-93CH-4050134",
+        "investing:https://tr.investing.com/news/global-filings/koleksiyon-mobilyada-ceo-degisikligi-malhan-atand-93CH-4050132",
+        "investing:https://tr.investing.com/news/stock-market-news/londra-borsas-tatil-sonras-dustu-kuresel-tahvil-satslar-ve-orta-dogu-saldrlar-bask-yapt-4050133",
+        "investing:https://tr.investing.com/news/global-filings/cocacola-icecek-turkiye-gmi-degisiyor-doga-erzi-atand-93CH-4050131",
+        "investing:https://tr.investing.com/news/global-filings/sisecam-rekabet-kurulu-cezasn-237-milyar-tl-olarak-odedi-93CH-4050130",
+        "investing:https://tr.investing.com/news/global-filings/albayrak-hazr-beton-3-milyar-tllik-hazr-beton-sozlesmesi-imzalad-93CH-4050129",
+        "investing:https://tr.investing.com/news/global-filings/vakf-menkul-kymet-yo-hisse-fiyat-net-aktif-degerin-2-katn-ast-93CH-4050126",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -315,6 +311,24 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/global-filings/turkcell-toggda-pay-satn-alm-icin-gorusmelerde-93CH-4050120",
+        "investing:https://tr.investing.com/news/company-news/nano-one-kurumsal-gelisim-direktoru-olarak-aleem-ladak-atad-93CH-4050118",
+        "investing:https://tr.investing.com/news/global-filings/son-dakika-ag-anadolu-grubu-togg-paylar-icin-gorusme-surduruyor-93CH-4050117",
+        "investing:https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-tahvil-satslar-ve-ortadogu-gerilimiyle-yatay-4050121",
+        "investing:https://tr.investing.com/news/global-filings/son-dakika-vestel-elektronik-togg-paylar-icin-gorusmeleri-surduruyor-93CH-4050116",
+        "investing:https://tr.investing.com/news/global-filings/hatsne-paylar-130-eylul-aras-acga-satsa-kapatld-93CH-4050115",
+        "investing:https://tr.investing.com/news/company-news/inturai-ventures-domecommand-satn-almn-6-milyon-dolara-tamamlad-93CH-4050114",
+        "investing:https://tr.investing.com/news/stock-market-news/morgan-stanleyden-2026-icin-uc-asya-teknoloji-hissesi-onerisi-93CH-4050113",
+        "investing:https://tr.investing.com/news/company-news/hafnia-yeni-ceo-atad-hissedar-toplants-planlad-93CH-4050101",
+        "investing:https://tr.investing.com/news/analyst-ratings/morgan-stanley-miami-international-holdings-hissesini-dusurdu-93CH-4050100",
+        "investing:https://tr.investing.com/news/insider-trading-news/arm-holdings-cfosu-265-milyon-dolarlk-hisse-satt-93CH-4050098",
+        "investing:https://tr.investing.com/news/company-news/headlam-group-yonetim-atanmas-icin-basvurdu-93CH-4050094",
+        "investing:https://tr.investing.com/news/company-news/enhertu-her2pozitif-meme-kanserinde-ab-onay-ald-93CH-4050093",
+        "investing:https://tr.investing.com/news/company-news/anemoinin-id4-ag-birimi-isvicre-emeklilik-sozlesmesi-kazand-93CH-4050090",
+        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-strategynin-almlaryla-79-bin-dolara-yukseldi-4050092",
+        "investing:https://tr.investing.com/news/insider-trading-news/camp4-therapeutics-yoneticisi-16-milyon-dolarlk-hisse-satt-93CH-4050089",
+        "investing:https://tr.investing.com/news/economic-indicators/almanyada-perakende-satslar-temmuzda-yuzde-34-dustu-93CH-4050085",
+        "investing:https://tr.investing.com/news/stock-market-news/lotte-rental-hisseleri-neden-yukseliste-93CH-4050083",
         "investing:https://tr.investing.com/news/stock-market-news/kuaishou-technology-hisseleri-neden-yukseliyor-93CH-4050082",
         "investing:https://tr.investing.com/news/company-news/astrazeneca-akciger-kanseri-ilac-zegfrovy-icin-lisans-anlasmasn-tamamlad-93CH-4050080",
         "investing:https://tr.investing.com/news/company-news/blencowe-grafiti-mach-55-hzndaki-hipersonik-roket-ucusunda-test-edildi-93CH-4050077",
@@ -629,8 +643,24 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6709222:0",
+      "last_seen_key": "tradingview:fxstreet:acbff9b49d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:acbff9b49d9e8:0",
+        "tradingview:matriks:6709276:0",
+        "tradingview:matriks:6709272:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44T0D2:0",
+        "tradingview:matriks:6709251:0",
+        "tradingview:matriks:6709246:0",
+        "tradingview:matriks:6709240:0",
+        "tradingview:matriks:6709241:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44S0PD:0",
+        "tradingview:matriks:6709234:0",
+        "tradingview:matriks:6709230:0",
+        "tradingview:matriks:6709229:0",
+        "tradingview:matriks:6709226:0",
+        "tradingview:matriks:6709224:0",
+        "tradingview:fxstreet:c24c61a10d9e8:0",
+        "tradingview:matriks:6709221:0",
         "tradingview:matriks:6709222:0",
         "tradingview:matriks:6709223:0",
         "tradingview:matriks:6709220:0",
@@ -1023,6 +1053,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat tahminleri xag usd 65 50 bolgesindeki kritik destegin uzerinde yon ar yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:acbff9b49d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasa gunlugu is bankas",
+      "link": "https://tr.tradingview.com/news/matriks:6709276:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "forex bulteni integral yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6709272:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd li petrol sirketi daha once cinli rus sirketlerin islettigi baz venezuela petrol sahalar n n kontrolunu devralacak yetkililer",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44T0D2:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yenileme iso turkiye imalat pmi agustosta 48 1 e yukseldi",
+      "link": "https://tr.tradingview.com/news/matriks:6709251:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "istanbul sanayi odas turkiye imalat pmi agustos ay nda 48 1 onceki ay 47 7",
+      "link": "https://tr.tradingview.com/news/matriks:6709246:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "merkez bankas nca ac klanan rezerv verilerine gore bugun piyasa 2464764 9 milyon tl art",
+      "link": "https://tr.tradingview.com/news/matriks:6709240:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "merkez bankas nca ac klanan verilere gore bankalar n serbest depolar toplam 1880969 6 milyon tl",
+      "link": "https://tr.tradingview.com/news/matriks:6709241:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "imalat pmi agustos ta 48 1 e yukselerek uc ay n zirvesini gorse sektorde daralman n surdugune isaret etti",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44S0PD:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "haftal k kat l m fon bulteni bizim menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6709234:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yat r m fikirleri garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709230:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasalara analitik bak s bizim menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6709229:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borsa istanbul gune 9 31 puan 0 06 dususle baslad matriks haber anketi 10 00 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6709226:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709224:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro almanya n n temmuz ay perakende sat slar verisinin beklenenden daha fazla dusmesiyle ingiliz sterlini kars s nda dususe gecti",
+      "link": "https://tr.tradingview.com/news/fxstreet:c24c61a10d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bloomberg ht tuketici beklenti endeksi agustos ay nda 74 47 on endeks 78 15 temmuz 80 20",
+      "link": "https://tr.tradingview.com/news/matriks:6709221:0"
+    },
+    {
+      "source": "investing",
+      "text": "harvest minerals scanty mineracao sat n al m n tamamlad",
+      "link": "https://tr.investing.com/news/company-news/harvest-minerals-scanty-mineracao-satn-almn-tamamlad-93CH-4050137"
+    },
+    {
+      "source": "investing",
+      "text": "halk varl k kiralama 3 8 milyar tl kira sertifikas ihrac etti",
+      "link": "https://tr.investing.com/news/global-filings/halk-varlk-kiralama-38-milyar-tl-kira-sertifikas-ihrac-etti-93CH-4050136"
+    },
+    {
+      "source": "investing",
+      "text": "rbc capital revvity hissesi kapsama baslatt",
+      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-revvity-hissesi-icin-kapsama-baslatt-93CH-4050135"
+    },
+    {
+      "source": "investing",
+      "text": "jpmorgan blossomhill therapeutics hissesine ag rl kl al onerisi verdi",
+      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-blossomhill-therapeutics-hissesine-agrlkl-al-onerisi-verdi-93CH-4050134"
+    },
+    {
+      "source": "investing",
+      "text": "koleksiyon mobilya ceo degisikligi malhan atand",
+      "link": "https://tr.investing.com/news/global-filings/koleksiyon-mobilyada-ceo-degisikligi-malhan-atand-93CH-4050132"
+    },
+    {
+      "source": "investing",
+      "text": "londra borsas tatil sonras dustu kuresel tahvil sat slar orta dogu sald r lar bask yapt",
+      "link": "https://tr.investing.com/news/stock-market-news/londra-borsas-tatil-sonras-dustu-kuresel-tahvil-satslar-ve-orta-dogu-saldrlar-bask-yapt-4050133"
+    },
+    {
+      "source": "investing",
+      "text": "coca cola icecek turkiye gm i degisiyor doga erzi atand",
+      "link": "https://tr.investing.com/news/global-filings/cocacola-icecek-turkiye-gmi-degisiyor-doga-erzi-atand-93CH-4050131"
+    },
+    {
+      "source": "investing",
+      "text": "sisecam rekabet kurulu cezas n 2 37 milyar tl olarak odedi",
+      "link": "https://tr.investing.com/news/global-filings/sisecam-rekabet-kurulu-cezasn-237-milyar-tl-olarak-odedi-93CH-4050130"
+    },
+    {
+      "source": "investing",
+      "text": "albayrak haz r beton 3 milyar tl lik haz r beton sozlesmesi imzalad",
+      "link": "https://tr.investing.com/news/global-filings/albayrak-hazr-beton-3-milyar-tllik-hazr-beton-sozlesmesi-imzalad-93CH-4050129"
+    },
+    {
+      "source": "investing",
+      "text": "vak f menkul k ymet yo hisse fiyat net aktif degerin 2 kat n ast",
+      "link": "https://tr.investing.com/news/global-filings/vakf-menkul-kymet-yo-hisse-fiyat-net-aktif-degerin-2-katn-ast-93CH-4050126"
+    },
+    {
+      "source": "bloomberght",
+      "text": "modi den alt n almay n cagr s hindistan basbakan narendra modi genisleyen ticaret ac g zay flayan rupinin ekonomiye bask yapmas nedeniyle alt n talebini azaltma cagr s n yineleyerek hintlilerin gerekli olmad kca alt n almaktan kac nmalar gerektigini soyledi",
+      "link": "https://www.bloomberght.com/modi-den-altin-almayin-cagrisi-3786970"
+    },
+    {
+      "source": "kap",
+      "text": "gundg pay baz nda devre kesici bildirimi gundg e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656608"
+    },
+    {
+      "source": "kap",
+      "text": "brlsm pay baz nda devre kesici bildirimi brlsm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656607"
+    },
+    {
+      "source": "kap",
+      "text": "dmrgd pay baz nda devre kesici bildirimi dmrgd e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656606"
+    },
     {
       "source": "investing",
       "text": "turkcell togg pay sat n al m gorusmelerde",
