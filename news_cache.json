@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656666",
+      "last_seen_key": "kap:1656668",
       "seen_keys": [
+        "kap:1656668",
+        "kap:1656667",
         "kap:1656666",
         "kap:1656665",
         "kap:1656664",
@@ -178,18 +180,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-servicetitan-hissesi-icin-al-tavsiyesini-yineledi-93CH-4050220",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/zopann-ilk-yar-kar-sabit-musteri-taban-26-buyudu-93CH-4050242",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-servicetitan-hissesi-icin-al-tavsiyesini-yineledi-93CH-4050220",
-        "investing:https://tr.investing.com/news/analyst-ratings/citi-adobe-icin-hisse-hedefini-yazlm-carpanlar-nedeniyle-yukseltti-93CH-4050219",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-incyte-hissesi-icin-hedef-fiyatn-korudu-93CH-4050218",
-        "investing:https://tr.investing.com/news/company-news/talisman-metals-fastaki-fougnar-lisanslarn-yeniledi-93CH-4050217",
-        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-dehb-verisi-oncesi-alkermes-hissesi-icin-notunu-korudu-93CH-4050216",
-        "investing:https://tr.investing.com/news/analyst-ratings/oppenheimer-kyntra-bio-hissesi-icin-tavsiyesini-korudu-93CH-4050215",
-        "investing:https://tr.investing.com/news/analyst-ratings/truist-cytokinetics-icin-al-tavsiyesini-yineledi-hedef-112-dolar-93CH-4050214",
-        "investing:https://tr.investing.com/news/analyst-ratings/truist-organik-buyume-ile-science-applications-hisse-hedefini-yukseltti-93CH-4050212",
-        "investing:https://tr.investing.com/news/analyst-ratings/truist-cousins-properties-hissesi-icin-hedef-fiyat-korudu-93CH-4050213",
-        "investing:https://tr.investing.com/news/analyst-ratings/stifel-science-applicationsn-hedef-fiyatn-marjlar-nedeniyle-154-dolara-yukseltti-93CH-4050211",
+        "investing:https://tr.investing.com/news/company-news/zopann-ilk-yar-kar-sabit-musteri-taban-26-buyudu-93CH-4050242",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-ipotek-teknolojisi-gucuyle-ice-hissesi-icin-guclu-al-tavsiyesini-yineledi-93CH-4050241",
+        "investing:https://tr.investing.com/news/company-news/tower-bridge-funding-20243-bonolar-21-eylulde-itfa-edilecek-93CH-4050237",
+        "investing:https://tr.investing.com/news/economic-indicators/euro-bolgesi-enflasyonu-agustosta-yuzde-33e-yukseldi-4050238",
+        "investing:https://tr.investing.com/news/analyst-ratings/goldman-sachs-kingsoft-cloud-icin-hisse-tavsiyesini-yineledi-93CH-4050236",
+        "investing:https://tr.investing.com/news/company-news/tower-bridge-funding-20243-notlar-itfa-edecek-22-eylulde-listeden-ckacak-93CH-4050235",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-chipotle-hissesi-icin-tavsiyesini-yineledi-93CH-4050234",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-2c-sonuclar-sonras-sevn-hissesi-notunu-korudu-93CH-4050233",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-sphere-entertainment-hissesi-icin-hedef-fiyat-korudu-93CH-4050232",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-ide849daki-ilerleme-ile-ideaya-hissesini-yukseltti-93CH-4050231",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -210,6 +212,16 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-servicetitan-hissesi-icin-al-tavsiyesini-yineledi-93CH-4050220",
+        "investing:https://tr.investing.com/news/analyst-ratings/citi-adobe-icin-hisse-hedefini-yazlm-carpanlar-nedeniyle-yukseltti-93CH-4050219",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-incyte-hissesi-icin-hedef-fiyatn-korudu-93CH-4050218",
+        "investing:https://tr.investing.com/news/company-news/talisman-metals-fastaki-fougnar-lisanslarn-yeniledi-93CH-4050217",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-dehb-verisi-oncesi-alkermes-hissesi-icin-notunu-korudu-93CH-4050216",
+        "investing:https://tr.investing.com/news/analyst-ratings/oppenheimer-kyntra-bio-hissesi-icin-tavsiyesini-korudu-93CH-4050215",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-cytokinetics-icin-al-tavsiyesini-yineledi-hedef-112-dolar-93CH-4050214",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-organik-buyume-ile-science-applications-hisse-hedefini-yukseltti-93CH-4050212",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-cousins-properties-hissesi-icin-hedef-fiyat-korudu-93CH-4050213",
+        "investing:https://tr.investing.com/news/analyst-ratings/stifel-science-applicationsn-hedef-fiyatn-marjlar-nedeniyle-154-dolara-yukseltti-93CH-4050211",
         "investing:https://tr.investing.com/news/stock-market-news/partners-group-hisseleri-neden-dusuyor-93CH-4050200",
         "investing:https://tr.investing.com/news/stock-market-news/novartis-hissesi-bugun-neden-yukseldi-93CH-4050199",
         "investing:https://tr.investing.com/news/analyst-ratings/rosenblatt-expedia-hissesi-icin-notr-tavsiye-verdi-93CH-4050198",
@@ -334,8 +346,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_ZRN00EJ7K:0",
+      "last_seen_key": "tradingview:fxstreet:fe5bde68fd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:fe5bde68fd9e8:0",
+        "tradingview:fxstreet:0a873d625d9e8:0",
+        "tradingview:matriks:6709831:0",
+        "tradingview:fxstreet:83de2f17dd9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_ZRN00EJ7K:0",
         "tradingview:fxstreet:9df06ddccd9e8:0",
         "tradingview:matriks:6709804:0",
@@ -344,6 +360,7 @@
         "tradingview:fxstreet:0d3ffc2fcd9e8:0",
         "tradingview:fxstreet:a664e901fd9e8:0",
         "tradingview:matriks:6709791:0",
+        "tradingview:beincrypto:bc03c64c6d9e8:0",
         "tradingview:matriks:6709781:0",
         "tradingview:fxstreet:9b66948aed9e8:0",
         "tradingview:matriks:6709776:0",
@@ -366,6 +383,7 @@
         "tradingview:matriks:6709737:0",
         "tradingview:matriks:6709736:0",
         "tradingview:matriks:6709733:0",
+        "tradingview:beincrypto:7b217b5ebd9e8:0",
         "tradingview:fxstreet:cf877a61fd9e8:0",
         "tradingview:matriks:6709709:0",
         "tradingview:matriks:6709679:0",
@@ -491,6 +509,86 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "brezilya reali mali riskler para birimi uzerinde bask olusturuyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:fe5bde68fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat bugun fxstreet verilerine gore gumus fiyat dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:0a873d625d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine finansman program gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6709831:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "polonya zlotisi mali riskler euro kars s ndaki kazanclar s n rl yor societe generale",
+      "link": "https://tr.tradingview.com/news/fxstreet:83de2f17dd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "zopa n n ilk yar kar sabit musteri taban 26 buyudu",
+      "link": "https://tr.investing.com/news/company-news/zopann-ilk-yar-kar-sabit-musteri-taban-26-buyudu-93CH-4050242"
+    },
+    {
+      "source": "investing",
+      "text": "raymond james ipotek teknolojisi gucuyle ice hissesi guclu al tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/raymond-james-ipotek-teknolojisi-gucuyle-ice-hissesi-icin-guclu-al-tavsiyesini-yineledi-93CH-4050241"
+    },
+    {
+      "source": "investing",
+      "text": "tower bridge funding 2024 3 bonolar 21 eylul itfa edilecek",
+      "link": "https://tr.investing.com/news/company-news/tower-bridge-funding-20243-bonolar-21-eylulde-itfa-edilecek-93CH-4050237"
+    },
+    {
+      "source": "investing",
+      "text": "euro bolgesi enflasyonu agustos ta yuzde 3 3 e yukseldi",
+      "link": "https://tr.investing.com/news/economic-indicators/euro-bolgesi-enflasyonu-agustosta-yuzde-33e-yukseldi-4050238"
+    },
+    {
+      "source": "investing",
+      "text": "goldman sachs kingsoft cloud hisse tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/goldman-sachs-kingsoft-cloud-icin-hisse-tavsiyesini-yineledi-93CH-4050236"
+    },
+    {
+      "source": "investing",
+      "text": "tower bridge funding 2024 3 notlar itfa edecek 22 eylul listeden c kacak",
+      "link": "https://tr.investing.com/news/company-news/tower-bridge-funding-20243-notlar-itfa-edecek-22-eylulde-listeden-ckacak-93CH-4050235"
+    },
+    {
+      "source": "investing",
+      "text": "mizuho chipotle hissesi tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/mizuho-chipotle-hissesi-icin-tavsiyesini-yineledi-93CH-4050234"
+    },
+    {
+      "source": "investing",
+      "text": "citizens 2c sonuclar sonras sevn hissesi notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-2c-sonuclar-sonras-sevn-hissesi-notunu-korudu-93CH-4050233"
+    },
+    {
+      "source": "investing",
+      "text": "citizens sphere entertainment hissesi hedef fiyat korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-sphere-entertainment-hissesi-icin-hedef-fiyat-korudu-93CH-4050232"
+    },
+    {
+      "source": "investing",
+      "text": "citizens ide849 daki ilerleme ideaya hissesini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-ide849daki-ilerleme-ile-ideaya-hissesini-yukseltti-93CH-4050231"
+    },
+    {
+      "source": "kap",
+      "text": "oyayo ozel durum ac klamas genel ortakl k paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket oyak yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656668"
+    },
+    {
+      "source": "kap",
+      "text": "gsray transfer gorusmeleri profesyonel futbolcu deniz daniel gul hakk nda sirket galatasaray sportif sinai ticari yatirimlar a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656667"
+    },
     {
       "source": "tradingview",
       "text": "euro bolgesi oncu enflasyonu agustos ta y ll k bazda beklentilere paralel olarak 3 3 e yukseldi",
