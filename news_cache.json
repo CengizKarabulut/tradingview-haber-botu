@@ -214,8 +214,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/shein-hisseleri-hong-kongda-10-dustu-4050031",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/square-enix-hisseleri-ozellesme-haberiyle-11-yukseldi-93CH-4050033",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/square-enix-hisseleri-ozellesme-haberiyle-11-yukseldi-93CH-4050033",
         "investing:https://tr.investing.com/news/stock-market-news/shein-hisseleri-hong-kongda-10-dustu-4050031",
         "investing:https://tr.investing.com/news/stock-market-news/hsbc-nuvama-wealth-icin-ozel-sermaye-sirketleriyle-yarsyor-4050030",
         "investing:https://tr.investing.com/news/insider-trading-news/oomann-svpsi-jenny-yeh-504320-dolar-degerinde-hisse-satt-93CH-4050027",
@@ -225,7 +226,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/bjs-restaurants-yoneticisi-47627-dolarlk-hisse-ald-93CH-4050023",
         "investing:https://tr.investing.com/news/company-news/strategx-ozel-yerlestirme-son-tarihini-30-eylule-uzatt-93CH-4050021",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-28-agustosta-45167-dolar-degerinde-hisse-satt-93CH-4050020",
-        "investing:https://tr.investing.com/news/economic-indicators/cinde-ozel-sektor-imalat-buyumesi-agustosta-guclendi-4050017",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -246,6 +246,7 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/economic-indicators/cinde-ozel-sektor-imalat-buyumesi-agustosta-guclendi-4050017",
         "investing:https://tr.investing.com/news/economic-indicators/avustralyada-cari-ack-2-ceyrekte-beklentinin-altnda-artt-4050016",
         "investing:https://tr.investing.com/news/insider-trading-news/bridgford-foods-dansman-allan-bridgford-jr-6200-dolar-hisse-ald-93CH-4050014",
         "investing:https://tr.investing.com/news/stock-market-news/nvidiann-35-milyar-dolarlk-yatrm-sonras-mediatek-hisseleri-scrad-4050013",
@@ -510,8 +511,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:6c4bb8277d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:588938a88d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:588938a88d9e8:0",
         "tradingview:fxstreet:6c4bb8277d9e8:0",
         "tradingview:fxstreet:25736006bd9e8:0",
         "tradingview:fxstreet:afbed9c08d9e8:0",
@@ -717,6 +719,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "eur jpy fiyat analizi dokuz gunluk ema destegi yak n nda 185 50 civar nda dalgalan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:588938a88d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "square enix hisseleri ozellesme haberiyle 11 yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/square-enix-hisseleri-ozellesme-haberiyle-11-yukseldi-93CH-4050033"
+    },
     {
       "source": "tradingview",
       "text": "japonya n n mof yetkilisi boj un politikay abd den etkilenmeden ekonomiyle uyumlu sekilde yonlendirmesini bekledigini soyluyor",
