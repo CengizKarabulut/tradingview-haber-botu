@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656869",
+      "last_seen_key": "kap:1656877",
       "seen_keys": [
+        "kap:1656877",
+        "kap:1656876",
+        "kap:1656875",
+        "kap:1656874",
+        "kap:1656873",
+        "kap:1656870",
         "kap:1656869",
         "kap:1656868",
         "kap:1656867",
@@ -257,8 +263,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-acik-is-sayisi-temmuz-da-artti-3787028",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/cumhurbaskani-erdogan-rusya-devlet-baskani-putin-ile-gorustu-3787029",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/cumhurbaskani-erdogan-rusya-devlet-baskani-putin-ile-gorustu-3787029",
         "bloomberght:https://www.bloomberght.com/abd-de-acik-is-sayisi-temmuz-da-artti-3787028",
         "bloomberght:https://www.bloomberght.com/abd-de-imalat-aktivitesi-dort-yilin-zirvesine-yakin-3787027",
         "bloomberght:https://www.bloomberght.com/bessent-yakinda-hurmuz-bogazi-bypass-edilecek-3787026",
@@ -599,8 +606,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:db0173c49d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:e7831494dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:e7831494dd9e8:0",
         "tradingview:fxstreet:db0173c49d9e8:0",
         "tradingview:matriks:6710814:0",
         "tradingview:matriks:6710813:0",
@@ -610,6 +618,7 @@
         "tradingview:matriks:6710757:0",
         "tradingview:fxstreet:d4df759e8d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44T0TM:0",
+        "tradingview:fxstreet:adc70f5aad9e8:0",
         "tradingview:fxstreet:81836ba9fd9e8:0",
         "tradingview:fxstreet:776b8bd0bd9e8:0",
         "tradingview:fxstreet:37df0dea8d9e8:0",
@@ -901,6 +910,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro beklenenden daha zay f abd ekonomik verilerinin pek az rahatlama saglamas yla zorlan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e7831494dd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "cumhurbaskan erdogan rusya devlet baskan putin gorustu cumhurbaskan erdogan rusya devlet baskan putin sanghay zirvesi kapsam nda araya geldi gorusme oncesinde konusan erdogan akkuyu nukleer santrali nin bitimini beklediklerini yeni santraller ad m atmak istediklerini soyl",
+      "link": "https://www.bloomberght.com/cumhurbaskani-erdogan-rusya-devlet-baskani-putin-ile-gorustu-3787029"
+    },
+    {
+      "source": "kap",
+      "text": "tarfn ozel durum ac klamas genel yurt icinde borclanma arac ihrac na iliskin yonetim kurulu karar sirket tarfin tarim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656877"
+    },
+    {
+      "source": "kap",
+      "text": "eksun pay baz nda devre kesici bildirimi eksun e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656876"
+    },
+    {
+      "source": "kap",
+      "text": "obams pay baz nda devre kesici bildirimi obams e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656875"
+    },
+    {
+      "source": "kap",
+      "text": "enjsa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsensa32710 isin kodlu tahvilin 6 kupon faiz oran n n belirlenmesi sirket enerjisa enerji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656874"
+    },
+    {
+      "source": "kap",
+      "text": "manas pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656873"
+    },
+    {
+      "source": "kap",
+      "text": "ebebk kurumsal yonetim bilgi formu guncelleme pay sahipleri sirket genel bilgi formu sirket ebebek magazacilik a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656870"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar fed riskleri secim senaryolar td securities",
