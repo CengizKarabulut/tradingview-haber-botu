@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
+<<<<<<< Updated upstream
       "last_seen_key": "kap:1656608",
       "seen_keys": [
+=======
+      "last_seen_key": "kap:1656609",
+      "seen_keys": [
+        "kap:1656609",
+>>>>>>> Stashed changes
         "kap:1656608",
         "kap:1656607",
         "kap:1656606",
@@ -94,6 +100,7 @@
         "kap:1656477",
         "kap:1656476",
         "kap:1656475",
+        "kap:1656600",
         "kap:1656474",
         "kap:1656600",
         "kap:1656473",
@@ -643,9 +650,14 @@
       ]
     },
     "tradingview": {
+<<<<<<< Updated upstream
       "last_seen_key": "tradingview:fxstreet:acbff9b49d9e8:0",
       "seen_keys": [
         "tradingview:fxstreet:acbff9b49d9e8:0",
+=======
+      "last_seen_key": "tradingview:matriks:6709276:0",
+      "seen_keys": [
+>>>>>>> Stashed changes
         "tradingview:matriks:6709276:0",
         "tradingview:matriks:6709272:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44T0D2:0",
@@ -1055,11 +1067,14 @@
   "fingerprints": [
     {
       "source": "tradingview",
+<<<<<<< Updated upstream
       "text": "gumus fiyat tahminleri xag usd 65 50 bolgesindeki kritik destegin uzerinde yon ar yor",
       "link": "https://tr.tradingview.com/news/fxstreet:acbff9b49d9e8:0"
     },
     {
       "source": "tradingview",
+=======
+>>>>>>> Stashed changes
       "text": "piyasa gunlugu is bankas",
       "link": "https://tr.tradingview.com/news/matriks:6709276:0"
     },
@@ -1190,6 +1205,14 @@
     },
     {
       "source": "kap",
+<<<<<<< Updated upstream
+=======
+      "text": "sarae pay baz nda devre kesici bildirimi sarae e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656609"
+    },
+    {
+      "source": "kap",
+>>>>>>> Stashed changes
       "text": "gundg pay baz nda devre kesici bildirimi gundg e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
       "link": "https://www.kap.org.tr/tr/Bildirim/1656608"
     },
