@@ -498,8 +498,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:074f5738dd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:64b1b9936d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:64b1b9936d9e8:0",
+        "tradingview:matriks:6708700:0",
+        "tradingview:fxstreet:2d3616a86d9e8:0",
+        "tradingview:fxstreet:188aa9eb9d9e8:0",
         "tradingview:fxstreet:074f5738dd9e8:0",
         "tradingview:fxstreet:32e8a3a4fd9e8:0",
         "tradingview:fxstreet:f3da42813d9e8:0",
@@ -695,6 +699,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar guclu cin pmi verileriyle guclu kalmaya devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:64b1b9936d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "emisyon hacmi 31 08 2026 itibariyle 1006 41 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6708700:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini jeopolitik gerilimler s k lasmac fed beklentileriyle 1 3550 seviyesine yak n zay fl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2d3616a86d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni al c lar mali s k nt lar genis abd japonya faiz fark aras nda tereddutlu gorunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:188aa9eb9d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "51 5 cin in ratingdog imalat pmi agustos ta yukseldi",
