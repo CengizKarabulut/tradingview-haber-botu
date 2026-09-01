@@ -215,8 +215,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/serabi-gold-cfo-ayrlg-sonras-gecici-mali-direktor-atad-93CH-4050056",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/byd-hisseleri-bugun-neden-yukseliyor-93CH-4050059",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/byd-hisseleri-bugun-neden-yukseliyor-93CH-4050059",
+        "investing:https://tr.investing.com/news/stock-market-news/zai-hissesi-bugun-neden-yukseliyor-93CH-4050058",
         "investing:https://tr.investing.com/news/company-news/serabi-gold-cfo-ayrlg-sonras-gecici-mali-direktor-atad-93CH-4050056",
         "investing:https://tr.investing.com/news/insider-trading-news/slb-ceosu-olivier-le-peuch-300000-dolarlk-hisse-satt-93CH-4050055",
         "investing:https://tr.investing.com/news/insider-trading-news/soundhound-ai-yoneticisi-diana-sroka-9602-dolar-degerinde-hisse-satt-93CH-4050054",
@@ -225,8 +227,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/raymond-james-finans-yoneticisi-133-milyon-dolarlk-hisse-satt-93CH-4050049",
         "investing:https://tr.investing.com/news/company-news/xpeng-agustosta-39107-arac-teslim-etti-yllk-4-arts-93CH-4050048",
         "investing:https://tr.investing.com/news/forex-news/asya-para-birimleri-sakin-yen-160-seviyesinde-4050046",
-        "investing:https://tr.investing.com/news/stock-market-news/wpp-yapay-zeka-odakl-maliyet-kesintisi-ile-yl-sonuna-kadar-1000-kisiyi-isten-ckaracak-93CH-4050044",
-        "investing:https://tr.investing.com/news/company-news/nio-agustosta-35836-arac-teslimat-gerceklestirdi-93CH-4050043",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -247,6 +247,8 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/stock-market-news/wpp-yapay-zeka-odakl-maliyet-kesintisi-ile-yl-sonuna-kadar-1000-kisiyi-isten-ckaracak-93CH-4050044",
+        "investing:https://tr.investing.com/news/company-news/nio-agustosta-35836-arac-teslimat-gerceklestirdi-93CH-4050043",
         "investing:https://tr.investing.com/news/company-news/li-auto-agustosta-37679-arac-teslim-etti-93CH-4050041",
         "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-fed-belirsizligi-ile-geriledi-4050038",
         "investing:https://tr.investing.com/news/stock-market-news/kyowa-kirin-hissesi-bugun-neden-yukseliyor-93CH-4050036",
@@ -836,6 +838,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "byd hisseleri bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/byd-hisseleri-bugun-neden-yukseliyor-93CH-4050059"
+    },
+    {
+      "source": "investing",
+      "text": "zai hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/zai-hissesi-bugun-neden-yukseliyor-93CH-4050058"
+    },
     {
       "source": "tradingview",
       "text": "spk sirketlerin borsa d s nda pay sat slar na k s tlama getirdi",
