@@ -214,18 +214,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/traeger-sats-direktoru-cole-vandenakker-152069-dolar-degerinde-hisse-satt-93CH-4050000",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/lyft-yoneticisi-david-lawee-79950-dolarlk-hisse-satt-93CH-4050006",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/lyft-yoneticisi-david-lawee-79950-dolarlk-hisse-satt-93CH-4050006",
+        "investing:https://tr.investing.com/news/insider-trading-news/hyperscale-data-yonetim-kurulu-baskan-288-dolar-satt-86545-dolar-ald-93CH-4050005",
+        "investing:https://tr.investing.com/news/insider-trading-news/schwab-es-baskan-walter-bettinger-825-milyon-dolarlk-hisse-satt-93CH-4050004",
+        "investing:https://tr.investing.com/news/insider-trading-news/lyft-yonetim-kurulu-uyesi-beggs-40004-dolar-hisse-satt-93CH-4050003",
+        "investing:https://tr.investing.com/news/insider-trading-news/lyftin-muhasebe-direktoru-hope-103723-dolar-degerinde-hisse-satt-93CH-4050002",
+        "investing:https://tr.investing.com/news/insider-trading-news/global-industrial-svp-hughes-255-bin-dolarlk-gic-hissesi-satt-93CH-4050001",
         "investing:https://tr.investing.com/news/insider-trading-news/traeger-sats-direktoru-cole-vandenakker-152069-dolar-degerinde-hisse-satt-93CH-4050000",
         "investing:https://tr.investing.com/news/commodities-news/petrol-trumpn-irana-yeni-saldr-tehdidiyle-yukseldi-4049999",
         "investing:https://tr.investing.com/news/stock-market-news/western-union-avustralyada-yuksek-riskli-odeme-kanallar-nedeniyle-sorusturma-altnda-93CH-4049997",
         "investing:https://tr.investing.com/news/insider-trading-news/grail-cfo-671579-dolarlk-hisse-satt-93CH-4049994",
-        "investing:https://tr.investing.com/news/company-news/txnm-energy-400-milyon-dolarlk-hisse-arzn-5650-dolardan-fiyatlad-93CH-4049991",
-        "investing:https://tr.investing.com/news/stock-market-news/bessent-japonyadan-mali-surdurulebilirlik-ve-faiz-arts-yolu-istiyor-4049996",
-        "investing:https://tr.investing.com/news/insider-trading-news/universal-safety-products-yoneticisi-milton-ault-iii-101429-dolar-degerinde-hisse-ald-93CH-4049989",
-        "investing:https://tr.investing.com/news/insider-trading-news/grail-ceosu-joshua-ofman-425098-dolar-degerinde-hisse-satt-93CH-4049988",
-        "investing:https://tr.investing.com/news/insider-trading-news/universal-technical-institute-yoneticisi-21800-dolar-degerinde-hisse-ald-93CH-4049987",
-        "investing:https://tr.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceosu-wirth-8026-milyon-dolarlk-hisse-satt-93CH-4049986",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -246,6 +246,12 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/company-news/txnm-energy-400-milyon-dolarlk-hisse-arzn-5650-dolardan-fiyatlad-93CH-4049991",
+        "investing:https://tr.investing.com/news/stock-market-news/bessent-japonyadan-mali-surdurulebilirlik-ve-faiz-arts-yolu-istiyor-4049996",
+        "investing:https://tr.investing.com/news/insider-trading-news/universal-safety-products-yoneticisi-milton-ault-iii-101429-dolar-degerinde-hisse-ald-93CH-4049989",
+        "investing:https://tr.investing.com/news/insider-trading-news/grail-ceosu-joshua-ofman-425098-dolar-degerinde-hisse-satt-93CH-4049988",
+        "investing:https://tr.investing.com/news/insider-trading-news/universal-technical-institute-yoneticisi-21800-dolar-degerinde-hisse-ald-93CH-4049987",
+        "investing:https://tr.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceosu-wirth-8026-milyon-dolarlk-hisse-satt-93CH-4049986",
         "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-palantir-hissesi-satt-rocket-lab-ve-block-ald-93CH-4049985",
         "investing:https://tr.investing.com/news/insider-trading-news/mpm-bioventures-2018-entrada-therapeutics-hissesi-satt-93CH-4049982",
         "investing:https://tr.investing.com/news/economic-indicators/guney-korenin-ihracat-agustosta-guclu-cip-talebiyle-beklentileri-ast-4049984",
@@ -682,6 +688,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "lyft yoneticisi david lawee 79 950 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/lyft-yoneticisi-david-lawee-79950-dolarlk-hisse-satt-93CH-4050006"
+    },
+    {
+      "source": "investing",
+      "text": "hyperscale data yonetim kurulu baskan 288 dolar satt 86 545 dolar ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/hyperscale-data-yonetim-kurulu-baskan-288-dolar-satt-86545-dolar-ald-93CH-4050005"
+    },
+    {
+      "source": "investing",
+      "text": "schwab es baskan walter bettinger 8 25 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/schwab-es-baskan-walter-bettinger-825-milyon-dolarlk-hisse-satt-93CH-4050004"
+    },
+    {
+      "source": "investing",
+      "text": "lyft yonetim kurulu uyesi beggs 40 004 dolar hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/lyft-yonetim-kurulu-uyesi-beggs-40004-dolar-hisse-satt-93CH-4050003"
+    },
+    {
+      "source": "investing",
+      "text": "lyft in muhasebe direktoru hope 103 723 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/lyftin-muhasebe-direktoru-hope-103723-dolar-degerinde-hisse-satt-93CH-4050002"
+    },
+    {
+      "source": "investing",
+      "text": "global industrial svp hughes 255 bin dolarl k gic hissesi satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/global-industrial-svp-hughes-255-bin-dolarlk-gic-hissesi-satt-93CH-4050001"
+    },
     {
       "source": "tradingview",
       "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7828 seviyesine k yasla 6 7809 olarak belirledi",
