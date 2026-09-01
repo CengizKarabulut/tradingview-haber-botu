@@ -214,18 +214,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/anthropic-nvidia-destekli-lambda-ile-35-milyar-dolarlk-anlasma-imzalad-93CH-4049974",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-palantir-hissesi-satt-rocket-lab-ve-block-ald-93CH-4049985",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-palantir-hissesi-satt-rocket-lab-ve-block-ald-93CH-4049985",
+        "investing:https://tr.investing.com/news/insider-trading-news/mpm-bioventures-2018-entrada-therapeutics-hissesi-satt-93CH-4049982",
+        "investing:https://tr.investing.com/news/economic-indicators/guney-korenin-ihracat-agustosta-guclu-cip-talebiyle-beklentileri-ast-4049984",
+        "investing:https://tr.investing.com/news/insider-trading-news/remitly-cbo-pankaj-sharma-554-bin-dolarlk-hisse-satt-93CH-4049980",
+        "investing:https://tr.investing.com/news/insider-trading-news/trinet-group-yoneticisi-paul-chamberlain-167280-dolar-degerinde-hisse-satt-93CH-4049979",
+        "investing:https://tr.investing.com/news/insider-trading-news/yonetim-kurulu-uyesi-aguirre-7049-dolarlk-hisse-ald-93CH-4049978",
+        "investing:https://tr.investing.com/news/insider-trading-news/northrim-bancorp-yoneticisi-anthony-drabek-30624-dolar-degerinde-hisse-satt-93CH-4049977",
         "investing:https://tr.investing.com/news/stock-market-news/anthropic-nvidia-destekli-lambda-ile-35-milyar-dolarlk-anlasma-imzalad-93CH-4049974",
         "investing:https://tr.investing.com/news/company-news/verizon-edouard-frtnas-icin-ag-altyapsn-hazrlad-93CH-4049973",
         "investing:https://tr.investing.com/news/insider-trading-news/artiva-biotherapeutics-cmosu-98735-dolar-degerinde-hisse-satt-93CH-4049970",
-        "investing:https://tr.investing.com/news/insider-trading-news/cabot-corp-ceosu-114-milyon-dolarlk-hisse-satt-93CH-4049969",
-        "investing:https://tr.investing.com/news/insider-trading-news/brinker-international-yoneticisi-depinto-576-milyon-dolarlk-hisse-satt-93CH-4049968",
-        "investing:https://tr.investing.com/news/insider-trading-news/carpartscom-coosu-michael-huffaker-85788-dolar-hisse-ald-93CH-4049967",
-        "investing:https://tr.investing.com/news/insider-trading-news/carpartscom-ceosu-david-meniane-85802-dolar-degerinde-hisse-ald-93CH-4049966",
-        "investing:https://tr.investing.com/news/insider-trading-news/arista-networks-yoneticisi-6078-milyon-dolarlk-hisse-satt-93CH-4049965",
-        "investing:https://tr.investing.com/news/insider-trading-news/apptech-payments-yoneticisi-albert-lord-21266-dolar-degerinde-hisse-ald-93CH-4049964",
-        "investing:https://tr.investing.com/news/insider-trading-news/apptech-payments-gecici-ceosu-4560-dolar-degerinde-hisse-ald-93CH-4049963",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -246,6 +246,13 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
         "investing:https://tr.investing.com/analysis/44-kazandran-hisseyi-investing-pro--ile-nasl-buldum-200505699",
+        "investing:https://tr.investing.com/news/insider-trading-news/cabot-corp-ceosu-114-milyon-dolarlk-hisse-satt-93CH-4049969",
+        "investing:https://tr.investing.com/news/insider-trading-news/brinker-international-yoneticisi-depinto-576-milyon-dolarlk-hisse-satt-93CH-4049968",
+        "investing:https://tr.investing.com/news/insider-trading-news/carpartscom-coosu-michael-huffaker-85788-dolar-hisse-ald-93CH-4049967",
+        "investing:https://tr.investing.com/news/insider-trading-news/carpartscom-ceosu-david-meniane-85802-dolar-degerinde-hisse-ald-93CH-4049966",
+        "investing:https://tr.investing.com/news/insider-trading-news/arista-networks-yoneticisi-6078-milyon-dolarlk-hisse-satt-93CH-4049965",
+        "investing:https://tr.investing.com/news/insider-trading-news/apptech-payments-yoneticisi-albert-lord-21266-dolar-degerinde-hisse-ald-93CH-4049964",
+        "investing:https://tr.investing.com/news/insider-trading-news/apptech-payments-gecici-ceosu-4560-dolar-degerinde-hisse-ald-93CH-4049963",
         "investing:https://tr.investing.com/news/company-news/solidion-yonetim-kuruluna-uc-bagmsz-direktor-atad-93CH-4049962",
         "investing:https://tr.investing.com/news/insider-trading-news/mpm-bioventures-2014-lp-entrada-therapeutics-hissesi-satt-93CH-4049961",
         "investing:https://tr.investing.com/news/insider-trading-news/charles-schwabn-yoneticisi-343497-dolar-degerinde-hisse-satt-93CH-4049960",
@@ -651,6 +658,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "cathie wood un ark palantir hissesi satt rocket lab block ald",
+      "link": "https://tr.investing.com/news/company-news/cathie-woodun-ark-palantir-hissesi-satt-rocket-lab-ve-block-ald-93CH-4049985"
+    },
+    {
+      "source": "investing",
+      "text": "mpm bioventures 2018 entrada therapeutics hissesi satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/mpm-bioventures-2018-entrada-therapeutics-hissesi-satt-93CH-4049982"
+    },
+    {
+      "source": "investing",
+      "text": "guney kore nin ihracat agustos ta guclu cip talebiyle beklentileri ast",
+      "link": "https://tr.investing.com/news/economic-indicators/guney-korenin-ihracat-agustosta-guclu-cip-talebiyle-beklentileri-ast-4049984"
+    },
+    {
+      "source": "investing",
+      "text": "remitly cbo pankaj sharma 554 bin dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/remitly-cbo-pankaj-sharma-554-bin-dolarlk-hisse-satt-93CH-4049980"
+    },
+    {
+      "source": "investing",
+      "text": "trinet group yoneticisi paul chamberlain 167 280 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/trinet-group-yoneticisi-paul-chamberlain-167280-dolar-degerinde-hisse-satt-93CH-4049979"
+    },
+    {
+      "source": "investing",
+      "text": "yonetim kurulu uyesi aguirre 7 049 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/yonetim-kurulu-uyesi-aguirre-7049-dolarlk-hisse-ald-93CH-4049978"
+    },
+    {
+      "source": "investing",
+      "text": "northrim bancorp yoneticisi anthony drabek 30 624 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/northrim-bancorp-yoneticisi-anthony-drabek-30624-dolar-degerinde-hisse-satt-93CH-4049977"
+    },
     {
       "source": "tradingview",
       "text": "ukmto hurmuz bogaz ndan c k s gecisi s ras nda tankerin uc mermiyle vuruldugunu bildirdi",
