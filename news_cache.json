@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1656673",
+      "last_seen_key": "kap:1656677",
       "seen_keys": [
+        "kap:1656677",
+        "kap:1656675",
+        "kap:1656674",
         "kap:1656673",
         "kap:1656672",
         "kap:1656671",
@@ -128,9 +131,8 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/zuckerberg-irlanda-da-tarihi-kale-satin-aldi-3786998",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-enflasyon-yaklasik-uc-yilin-zirvesinde-3786990",
       "seen_keys": [
-        "bloomberght:https://www.bloomberght.com/zuckerberg-irlanda-da-tarihi-kale-satin-aldi-3786998",
         "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-enflasyon-yaklasik-uc-yilin-zirvesinde-3786990",
         "bloomberght:https://www.bloomberght.com/istanbul-da-enflasyon-agustos-ta-yavasladi-3786989",
         "bloomberght:https://www.bloomberght.com/hurmuz-de-iki-super-tanker-vuruldu-3786978",
@@ -178,11 +180,7 @@
         "bloomberght:https://www.bloomberght.com/reel-sektorun-205-milyar-dolarlik-riski-3786861",
         "bloomberght:https://www.bloomberght.com/togg-un-yeni-modelinin-cikis-tarihi-belli-oldu-3786859",
         "bloomberght:https://www.bloomberght.com/agustos-ta-aclik-sinir-37-bin-lirayi-asti-3786849",
-        "bloomberght:https://www.bloomberght.com/issizlik-orani-temmuz-da-artti-3786835",
-        "bloomberght:https://www.bloomberght.com/turkiye-ekonomisinin-ikinci-ceyrek-buyume-performansi-3786826",
-        "bloomberght:https://www.bloomberght.com/trump-ben-dahil-herkes-iran-in-karsilik-vermesine-sasirdi-3786824",
-        "bloomberght:https://www.bloomberght.com/kuresel-piyasalar-jackson-hole-mesajlariyla-tedirgin-3786821",
-        "bloomberght:https://www.bloomberght.com/iran-dan-savasta-diger-taraflara-uyari-3786820"
+        "bloomberght:https://www.bloomberght.com/issizlik-orani-temmuz-da-artti-3786835"
       ]
     },
     "investing": {
@@ -526,6 +524,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "dofer ozel durum ac klamas genel personelin isten ayr lmas yerine atama yap lmas hk sirket dofer yapi malzemeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656677"
+    },
+    {
+      "source": "kap",
+      "text": "krdma pay baz nda devre kesici bildirimi krdma e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656675"
+    },
+    {
+      "source": "kap",
+      "text": "cimsa sirket genel bilgi formu sirket cimsa cimento sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1656674"
+    },
     {
       "source": "tradingview",
       "text": "tera portfoy kurucusu yoneticisi oldugu fonlar yap lan degisikliklere 2 ay onceden uyumlu hale getirdi",
