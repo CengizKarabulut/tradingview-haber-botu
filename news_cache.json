@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657179",
+      "last_seen_key": "kap:1657205",
       "seen_keys": [
+        "kap:1657205",
+        "kap:1657204",
+        "kap:1657203",
+        "kap:1657199",
+        "kap:1657198",
         "kap:1657179",
         "kap:1657177",
         "kap:1657176",
@@ -286,11 +291,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6712757:0",
+      "last_seen_key": "tradingview:matriks:6712812:0",
       "seen_keys": [
+        "tradingview:matriks:6712812:0",
+        "tradingview:matriks:6712804:0",
+        "tradingview:matriks:6712781:0",
+        "tradingview:matriks:6712768:0",
         "tradingview:matriks:6712757:0",
         "tradingview:matriks:6712751:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44U0VM:0",
         "tradingview:matriks:6712731:0",
+        "tradingview:beincrypto:8ca49d7d8d9e8:0",
         "tradingview:matriks:6712713:0",
         "tradingview:fxstreet:1262f0a58d9e8:0",
         "tradingview:matriks:6712674:0",
@@ -396,6 +407,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "odmd tiftik onumuzdeki donemde fiyatlar n artacag n soyleyebiliriz cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6712812:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iga ceo su bilgen yolcu say m z gecen y la gore 2 artt apara",
+      "link": "https://tr.tradingview.com/news/matriks:6712804:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "zelenskiy ukrayna kara kuvvetleri komutan n gorevden ald",
+      "link": "https://tr.tradingview.com/news/matriks:6712781:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "chevron venezuela 7 milyar dolarl k yat r mla uretimini iki kat ndan fazla art racak",
+      "link": "https://tr.tradingview.com/news/matriks:6712768:0"
+    },
+    {
+      "source": "kap",
+      "text": "kgyo pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren finansman bonosu itfas sirket koray gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657205"
+    },
+    {
+      "source": "kap",
+      "text": "osvks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdosmv92614 isin kodlu kira sertifikas ihrac n ikinci donem donemsel getiri itfa odemesi sirket osmanli varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657204"
+    },
+    {
+      "source": "kap",
+      "text": "sirket genel bilgi formu sirket koker yeminli mali musavirlik bagimsiz denetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657203"
+    },
+    {
+      "source": "kap",
+      "text": "alka sirket genel bilgi formu sirket alkim kagit sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657199"
+    },
+    {
+      "source": "kap",
+      "text": "alka ozel durum ac klamas genel yonetim kurulu uyesi atamas hakk nda sirket alkim kagit sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657198"
+    },
     {
       "source": "tradingview",
       "text": "uluslararas piyasalar gunluk bulten gedik yat r m",
