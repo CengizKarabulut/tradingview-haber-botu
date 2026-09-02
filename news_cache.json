@@ -153,18 +153,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/virtus-fonu-imtiyazl-hisse-dagtm-acklad-93CH-4053133",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/agilysys-cco-joe-abdelrahman-vergi-icin-114869-dolar-degerinde-hisse-satt-93CH-4053140",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/agilysys-cco-joe-abdelrahman-vergi-icin-114869-dolar-degerinde-hisse-satt-93CH-4053140",
+        "investing:https://tr.investing.com/news/company-news/ic-group-yonetim-kuruluna-william-ollerheadi-atad-93CH-4053137",
+        "investing:https://tr.investing.com/news/stock-market-news/nscale-anthropic-anlasmasyla-sozlesmeli-geliri-103-milyar-dolara-ckard-4053138",
+        "investing:https://tr.investing.com/news/stock-market-news/jpmorgan-tahvil-piyasasnda-artan-rekabetle-jane-street-finansmann-kst-4053135",
         "investing:https://tr.investing.com/news/company-news/virtus-fonu-imtiyazl-hisse-dagtm-acklad-93CH-4053133",
         "investing:https://tr.investing.com/news/transcripts/c3ai-ilk-ceyrek-tahminlerini-ast-hisseler-dustu-93CH-4053131",
         "investing:https://tr.investing.com/news/insider-trading-news/jetblue-dijital-ve-teknoloji-direktoru-9420-dolar-degerinde-hisse-satt-93CH-4053130",
         "investing:https://tr.investing.com/news/insider-trading-news/harleydavidson-cfosu-42672-dolarlk-hisse-satt-93CH-4053129",
         "investing:https://tr.investing.com/news/insider-trading-news/marqeta-cao-sumner-crystal-20337-dolarlk-hisse-satt-93CH-4053128",
         "investing:https://tr.investing.com/news/company-news/freedom-gold-ceoluga-john-shurkoyu-atad-800-bin-dolarlk-arz-planlad-93CH-4053126",
-        "investing:https://tr.investing.com/news/company-news/capital-southwest-kredi-limitini-artrd-buyukluk-595-milyon-dolara-ckt-93CH-4053124",
-        "investing:https://tr.investing.com/news/analyst-ratings/guggenheim-deneme-basarszlg-sonras-alumis-hissesini-dusurdu-93CH-4053123",
-        "investing:https://tr.investing.com/news/insider-trading-news/crane-co-yoneticisi-james-tullis-82150-dolar-degerinde-hisse-satt-93CH-4053119",
-        "investing:https://tr.investing.com/news/company-news/sempra-hisse-basna-06575-dolar-temettu-acklad-93CH-4053118",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -185,6 +185,10 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/company-news/capital-southwest-kredi-limitini-artrd-buyukluk-595-milyon-dolara-ckt-93CH-4053124",
+        "investing:https://tr.investing.com/news/analyst-ratings/guggenheim-deneme-basarszlg-sonras-alumis-hissesini-dusurdu-93CH-4053123",
+        "investing:https://tr.investing.com/news/insider-trading-news/crane-co-yoneticisi-james-tullis-82150-dolar-degerinde-hisse-satt-93CH-4053119",
+        "investing:https://tr.investing.com/news/company-news/sempra-hisse-basna-06575-dolar-temettu-acklad-93CH-4053118",
         "investing:https://tr.investing.com/news/insider-trading-news/peoples-bancorp-yoneticisi-robert-abernethy-305270-dolar-degerinde-hisse-satt-93CH-4053117",
         "investing:https://tr.investing.com/news/stock-market-news/microsoft-azureun-ceyreklik-satslarn-acklayacak-4053116",
         "investing:https://tr.investing.com/news/stock-market-news/snowflake-hissesi-bugun-neden-yukseliyor-93CH-4053114",
@@ -283,8 +287,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:b4f1b6d89d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:8f4943fb9d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:8f4943fb9d9e8:0",
         "tradingview:fxstreet:b4f1b6d89d9e8:0",
         "tradingview:cointelegraph:95706d05ed9e8:0",
         "tradingview:beincrypto:3e2a9c7e5d9e8:0",
@@ -391,6 +396,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "mudahale japon yeni her seferinde daha az zemin kazand r yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:8f4943fb9d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "agilysys cco joe abdelrahman vergi 114 869 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/agilysys-cco-joe-abdelrahman-vergi-icin-114869-dolar-degerinde-hisse-satt-93CH-4053140"
+    },
+    {
+      "source": "investing",
+      "text": "ic group yonetim kuruluna william ollerhead i atad",
+      "link": "https://tr.investing.com/news/company-news/ic-group-yonetim-kuruluna-william-ollerheadi-atad-93CH-4053137"
+    },
+    {
+      "source": "investing",
+      "text": "nscale anthropic anlasmas yla sozlesmeli geliri 103 milyar dolara c kard",
+      "link": "https://tr.investing.com/news/stock-market-news/nscale-anthropic-anlasmasyla-sozlesmeli-geliri-103-milyar-dolara-ckard-4053138"
+    },
+    {
+      "source": "investing",
+      "text": "jpmorgan tahvil piyasas nda artan rekabetle jane street finansman n k st",
+      "link": "https://tr.investing.com/news/stock-market-news/jpmorgan-tahvil-piyasasnda-artan-rekabetle-jane-street-finansmann-kst-4053135"
+    },
     {
       "source": "tradingview",
       "text": "yukselen gilt getirileri ingiliz sterlini ni kurtarm yor",
