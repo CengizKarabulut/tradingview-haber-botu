@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657310",
+      "last_seen_key": "kap:1657334",
       "seen_keys": [
+        "kap:1657334",
+        "kap:1657332",
+        "kap:1657330",
+        "kap:1657328",
+        "kap:1657313",
+        "kap:1657312",
+        "kap:1657311",
         "kap:1657310",
         "kap:1657309",
         "kap:1657308",
@@ -77,7 +84,6 @@
         "kap:1657153",
         "kap:1657152",
         "kap:1657151",
-        "kap:1657150",
         "kap:1657149",
         "kap:1657133",
         "kap:1657128",
@@ -90,6 +96,7 @@
         "kap:1657094",
         "kap:1657093",
         "kap:1657092",
+        "kap:1657150",
         "kap:1657091",
         "kap:1657080",
         "kap:1657079",
@@ -155,8 +162,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/new-york-fed-baskani-ndan-iyimser-enflasyon-yorumu-3787128",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/teknoloji-liderlerinden-g20-ulkelerine-yapa-zeka-cagrisi-3787136",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/teknoloji-liderlerinden-g20-ulkelerine-yapa-zeka-cagrisi-3787136",
+        "bloomberght:https://www.bloomberght.com/alman-sendikasi-ig-metall-den-volkswagen-yonetimine-uzlasi-cagrisi-3787134",
         "bloomberght:https://www.bloomberght.com/new-york-fed-baskani-ndan-iyimser-enflasyon-yorumu-3787128",
         "bloomberght:https://www.bloomberght.com/chevron-dan-venezuela-ya-7-milyar-dolar-yatirim-3787127",
         "bloomberght:https://www.bloomberght.com/hollanda-altinlarini-abd-den-londra-ya-tasiyor-3787125",
@@ -215,18 +224,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/stifel-definium-therapeutics-icin-al-tavsiyesini-yineledi-hedef-60-dolar-93CH-4052703",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/bernstein-gitlab-hissesi-icin-guclu-ceyrek-sonras-notunu-korudu-93CH-4052748",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/stifel-definium-therapeutics-icin-al-tavsiyesini-yineledi-hedef-60-dolar-93CH-4052703",
-        "investing:https://tr.investing.com/news/company-news/vertex-pharmaceuticals-hissesi-55584-dolarla-rekor-krd-93CH-4052699",
-        "investing:https://tr.investing.com/news/company-news/johnson--johnson-hissesi-2765-dolarda-rekor-krd-93CH-4052694",
-        "investing:https://tr.investing.com/news/company-news/lifestance-health-group-hissesi-1297-dolarla-zirve-yapt-93CH-4052691",
-        "investing:https://tr.investing.com/news/company-news/exelixis-hissesi-5768-dolarda-tum-zamanlarn-zirvesinde-93CH-4052688",
-        "investing:https://tr.investing.com/news/company-news/atricure-hissesi-5000-dolarla-52-haftalk-zirveye-ulast-93CH-4052686",
-        "investing:https://tr.investing.com/news/company-news/shuka-minerals-796439-sterlinlik-krediyi-hisseye-cevirdi-93CH-4052685",
-        "investing:https://tr.investing.com/news/company-news/gitlab-hissesi-548-dolarla-52-haftann-zirvesinde-93CH-4052684",
-        "investing:https://tr.investing.com/news/insider-trading-news/pinnacle-financial-ceosu-kevin-blair-sirket-hissesinden-250-bin-dolar-ald-93CH-4052682",
-        "investing:https://tr.investing.com/news/stock-market-news/eos-energy-hissesi-bugun-neden-yukseliyor-93CH-4052678",
+        "investing:https://tr.investing.com/news/analyst-ratings/bernstein-gitlab-hissesi-icin-guclu-ceyrek-sonras-notunu-korudu-93CH-4052748",
+        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-f35-maliyetleri-nedeniyle-lockheed-martin-hissesi-icin-tut-tavsiyesini-yineledi-93CH-4052747",
+        "investing:https://tr.investing.com/news/analyst-ratings/bernstein-socgen-spacex-icin-hedef-fiyat-korudu-93CH-4052746",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-palo-alto-networks-icin-hedef-fiyat-yukseltti-93CH-4052745",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-atlas-buyumesi-endiseleriyle-mongodb-hisse-hedefini-dusurdu-93CH-4052743",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-adobe-hisse-hedef-fiyatn-degerlemeye-gore-315-dolara-yukseltti-93CH-4052744",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-gitlab-icin-hisse-fiyat-hedefini-60-dolara-yukseltti-93CH-4052742",
+        "investing:https://tr.investing.com/news/stock-market-news/tscan-therapeutics-hissesi-neden-cokuyor-93CH-4052738",
+        "investing:https://tr.investing.com/news/economy-news/kanada-merkez-bankas-faiz-orann-sabit-tuttu-4052741",
+        "investing:https://tr.investing.com/news/stock-market-news/aevex-hissesi-bugun-neden-dusuyor-93CH-4052734",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -247,6 +256,16 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/analyst-ratings/stifel-definium-therapeutics-icin-al-tavsiyesini-yineledi-hedef-60-dolar-93CH-4052703",
+        "investing:https://tr.investing.com/news/company-news/vertex-pharmaceuticals-hissesi-55584-dolarla-rekor-krd-93CH-4052699",
+        "investing:https://tr.investing.com/news/company-news/johnson--johnson-hissesi-2765-dolarda-rekor-krd-93CH-4052694",
+        "investing:https://tr.investing.com/news/company-news/lifestance-health-group-hissesi-1297-dolarla-zirve-yapt-93CH-4052691",
+        "investing:https://tr.investing.com/news/company-news/exelixis-hissesi-5768-dolarda-tum-zamanlarn-zirvesinde-93CH-4052688",
+        "investing:https://tr.investing.com/news/company-news/atricure-hissesi-5000-dolarla-52-haftalk-zirveye-ulast-93CH-4052686",
+        "investing:https://tr.investing.com/news/company-news/shuka-minerals-796439-sterlinlik-krediyi-hisseye-cevirdi-93CH-4052685",
+        "investing:https://tr.investing.com/news/company-news/gitlab-hissesi-548-dolarla-52-haftann-zirvesinde-93CH-4052684",
+        "investing:https://tr.investing.com/news/insider-trading-news/pinnacle-financial-ceosu-kevin-blair-sirket-hissesinden-250-bin-dolar-ald-93CH-4052682",
+        "investing:https://tr.investing.com/news/stock-market-news/eos-energy-hissesi-bugun-neden-yukseliyor-93CH-4052678",
         "investing:https://tr.investing.com/news/analyst-ratings/stifel-medtronicin-hisse-hedefini-guclu-ceyrege-dayanarak-95-dolara-yukseltti-93CH-4052621",
         "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-gitlab-hissesi-icin-50-dolar-hedefle-notr-gorusunu-yineledi-93CH-4052620",
         "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-palo-alto-networks-icin-overweight-tavsiyesini-yineledi-93CH-4052618",
@@ -341,8 +360,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/uber-3-bin-300-kisiyi-isten-cikaracak-1740050",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-hollandadan-kitalar-arasi-86-tonluk-altin-tasima-operasyonu-1740062",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-hollandadan-kitalar-arasi-86-tonluk-altin-tasima-operasyonu-1740062",
         "ntvpara:https://www.ntv.com.tr/ntvpara/uber-3-bin-300-kisiyi-isten-cikaracak-1740050",
         "ntvpara:https://www.ntv.com.tr/ntvpara/otogaza-artis-yapilacak-1740017",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-denizcilik-sektoru-yakit-tasarrufu-icin-geleneksel-gemicilik-yontemlerine-geri-donuyor-1740010",
@@ -438,6 +458,12 @@
       "last_seen_key": "tradingview:fxstreet:89df425c3d9e8:0",
       "seen_keys": [
         "tradingview:fxstreet:89df425c3d9e8:0",
+        "tradingview:matriks:6713504:0",
+        "tradingview:fxstreet:5819f96c8d9e8:0",
+        "tradingview:matriks:6713493:0",
+        "tradingview:matriks:6713469:0",
+        "tradingview:matriks:6713468:0",
+        "tradingview:matriks:6713467:0",
         "tradingview:matriks:6713449:0",
         "tradingview:matriks:6713450:0",
         "tradingview:fxstreet:1a319251bd9e8:0",
@@ -684,6 +710,106 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "hollanda dan k talar aras 86 tonluk alt n tas ma operasyonu hollandal lar abd kanada dan ingiltere ye 86 ton alt n sevkiyat gerceklestirdi",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-hollandadan-kitalar-arasi-86-tonluk-altin-tasima-operasyonu-1740062"
+    },
+    {
+      "source": "investing",
+      "text": "bernstein gitlab hissesi guclu ceyrek sonras notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/bernstein-gitlab-hissesi-icin-guclu-ceyrek-sonras-notunu-korudu-93CH-4052748"
+    },
+    {
+      "source": "investing",
+      "text": "jefferies f 35 maliyetleri nedeniyle lockheed martin hissesi tut tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/jefferies-f35-maliyetleri-nedeniyle-lockheed-martin-hissesi-icin-tut-tavsiyesini-yineledi-93CH-4052747"
+    },
+    {
+      "source": "investing",
+      "text": "bernstein socgen spacex hedef fiyat korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/bernstein-socgen-spacex-icin-hedef-fiyat-korudu-93CH-4052746"
+    },
+    {
+      "source": "investing",
+      "text": "rbc capital palo alto networks hedef fiyat yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-palo-alto-networks-icin-hedef-fiyat-yukseltti-93CH-4052745"
+    },
+    {
+      "source": "investing",
+      "text": "rbc capital atlas buyumesi endiseleriyle mongodb hisse hedefini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-atlas-buyumesi-endiseleriyle-mongodb-hisse-hedefini-dusurdu-93CH-4052743"
+    },
+    {
+      "source": "investing",
+      "text": "rbc capital adobe hisse hedef fiyat n degerlemeye gore 315 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-adobe-hisse-hedef-fiyatn-degerlemeye-gore-315-dolara-yukseltti-93CH-4052744"
+    },
+    {
+      "source": "investing",
+      "text": "rbc capital gitlab hisse fiyat hedefini 60 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-gitlab-icin-hisse-fiyat-hedefini-60-dolara-yukseltti-93CH-4052742"
+    },
+    {
+      "source": "investing",
+      "text": "tscan therapeutics hissesi neden cokuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/tscan-therapeutics-hissesi-neden-cokuyor-93CH-4052738"
+    },
+    {
+      "source": "investing",
+      "text": "kanada merkez bankas faiz oran n sabit tuttu",
+      "link": "https://tr.investing.com/news/economy-news/kanada-merkez-bankas-faiz-orann-sabit-tuttu-4052741"
+    },
+    {
+      "source": "investing",
+      "text": "aevex hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/aevex-hissesi-bugun-neden-dusuyor-93CH-4052734"
+    },
+    {
+      "source": "bloomberght",
+      "text": "teknoloji liderlerinden g20 ulkelerine yapa zeka cagr s nvidia ceo su jensen huang g20 ulkelerine buyumeyi art rman n yolu olarak yapay zekan n benimsenmesini h zland rma cagr s nda bulundu huang dunyan n en buyuk ekonomileriden yeni teknolojiyi desteklemek veri merkezlerini di",
+      "link": "https://www.bloomberght.com/teknoloji-liderlerinden-g20-ulkelerine-yapa-zeka-cagrisi-3787136"
+    },
+    {
+      "source": "bloomberght",
+      "text": "alman sendikas ig metall den volkswagen yonetimine uzlas cagr s almanya n n en buyuk sendikas ig metall alman otomobil ureticisi volkswagen yonetimini kas tl olarak cat sma ortam olusturmakla suclayarak uzlas cagr s nda bulundu",
+      "link": "https://www.bloomberght.com/alman-sendikasi-ig-metall-den-volkswagen-yonetimine-uzlasi-cagrisi-3787134"
+    },
+    {
+      "source": "kap",
+      "text": "akmen bnppi dnfin enjsa hdffl huzfa kgyo lidfa mekmd osvks pnsut skbnk skymd tamfa tknsa tmks vakvk zkbvr zoren borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri sirket merkezi kayit kurulusu a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657334"
+    },
+    {
+      "source": "kap",
+      "text": "dmrgd pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657332"
+    },
+    {
+      "source": "kap",
+      "text": "istfk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfifas92619 isin kodlu finansman bonosunun 2 kupon oran na iliskin ac klama sirket istanbul faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657330"
+    },
+    {
+      "source": "kap",
+      "text": "zoren pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trszorna2613 isin kodlu tahvilin 4 kupon donemine iliskin faiz oran hakk nda sirket zorlu enerji elektrik uretim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657328"
+    },
+    {
+      "source": "kap",
+      "text": "dgrvk ihrac tavan na iliskin bildirim ihrac tavan na iliskin spk basvurusu hk sirket deger varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657313"
+    },
+    {
+      "source": "kap",
+      "text": "bsoke pay baz nda devre kesici bildirimi bsoke e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657312"
+    },
+    {
+      "source": "kap",
+      "text": "pnsut pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfpnsta2622 isin kodlu finansman bonosunun 1 kupon odemesi sirket pinar sut mamulleri sanayii a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657311"
+    },
     {
       "source": "tradingview",
       "text": "macklem gumruk tarifeleri yururlukte kalmaya devam ederse hedef al nan sektorleri ciddi sekilde etkileyecektir ancak tarifelerin genel ekonomik faaliyet duzeyi uzerinde dogrudan buyuk etki yaratmas n beklemiyoruz",
