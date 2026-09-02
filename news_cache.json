@@ -403,13 +403,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:cfc638e90d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:609ee0af4d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:609ee0af4d9e8:0",
+        "tradingview:fxstreet:af4ebfa2cd9e8:0",
         "tradingview:fxstreet:cfc638e90d9e8:0",
         "tradingview:beincrypto:69215ee03d9e8:0",
         "tradingview:fxstreet:762b931ffd9e8:0",
         "tradingview:fxstreet:f4d4be2dfd9e8:0",
         "tradingview:beincrypto:77fe0d585d9e8:0",
+        "tradingview:beincrypto:8d20df57fd9e8:0",
         "tradingview:beincrypto:7c7a98a93d9e8:0",
         "tradingview:fxstreet:90f7e6d1ed9e8:0",
         "tradingview:fxstreet:b45dbfbd9d9e8:0",
@@ -542,9 +545,30 @@
         "tradingview:matriks:6710544:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44T1A1:0"
       ]
+    },
+    "forexfactory": {
+      "last_seen_key": "forexfactory:upcoming:AUD:2026-09-01T21:30:00-04:00:gdp q/q",
+      "seen_keys": [
+        "forexfactory:upcoming:AUD:2026-09-01T21:30:00-04:00:gdp q/q"
+      ]
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "boj baskan ueda gunluk hareketler hakk nda yorum yapm yor piyasalar eylul ay nda faiz art s olas l g n yuksek fiyatl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:609ee0af4d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya n n katayama s borc genislemesi kuresel trend buyume surdurulebilirligi hedefleyen maliye politikas",
+      "link": "https://tr.tradingview.com/news/fxstreet:af4ebfa2cd9e8:0"
+    },
+    {
+      "source": "forexfactory",
+      "text": "aud gdp q q yaklas k 70 sonra etki yuksek beklenti 0 3 onceki 0 3",
+      "link": "https://www.forexfactory.com/calendar"
+    },
     {
       "source": "tradingview",
       "text": "abd ordusu iran hava savunma deniz tesislerini vurdugunu dogrulad",
