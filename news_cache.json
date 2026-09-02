@@ -2,15 +2,23 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657080",
+      "last_seen_key": "kap:1657108",
       "seen_keys": [
+        "kap:1657108",
+        "kap:1657098",
+        "kap:1657097",
+        "kap:1657096",
+        "kap:1657095",
+        "kap:1657094",
+        "kap:1657093",
+        "kap:1657092",
+        "kap:1657091",
+        "kap:1657090",
         "kap:1657080",
         "kap:1657079",
         "kap:1657078",
         "kap:1657077",
         "kap:1657076",
-        "kap:1657075",
-        "kap:1657074",
         "kap:1657073",
         "kap:1657071",
         "kap:1657070",
@@ -89,6 +97,8 @@
         "kap:1656964",
         "kap:1656959",
         "kap:1656958",
+        "kap:1657075",
+        "kap:1657074",
         "kap:1656957",
         "kap:1656955",
         "kap:1656954",
@@ -178,8 +188,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/tedarik-riskleri-avrupa-da-dogalgaz-fiyatlarini-yukseltmeye-devam-ediyor-3787078",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/borsada-gong-bakirci-gyo-icin-caldi-3787079",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/borsada-gong-bakirci-gyo-icin-caldi-3787079",
         "bloomberght:https://www.bloomberght.com/tedarik-riskleri-avrupa-da-dogalgaz-fiyatlarini-yukseltmeye-devam-ediyor-3787078",
         "bloomberght:https://www.bloomberght.com/ticaret-bakanligi-ndan-indirimli-satis-reklamlarina-denetim-3787074",
         "bloomberght:https://www.bloomberght.com/veri-merkezleri-icin-trilyonlarca-dolar-harcama-tahmini-3787073",
@@ -584,8 +595,27 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6711925:0",
+      "last_seen_key": "tradingview:matriks:6712069:0",
       "seen_keys": [
+        "tradingview:matriks:6712069:0",
+        "tradingview:matriks:6712057:0",
+        "tradingview:matriks:6712054:0",
+        "tradingview:matriks:6712045:0",
+        "tradingview:matriks:6712040:0",
+        "tradingview:matriks:6712039:0",
+        "tradingview:fxstreet:55f1ed762d9e8:0",
+        "tradingview:matriks:6712036:0",
+        "tradingview:matriks:6712028:0",
+        "tradingview:fxstreet:d245bce3ed9e8:0",
+        "tradingview:matriks:6712011:0",
+        "tradingview:matriks:6712006:0",
+        "tradingview:matriks:6711993:0",
+        "tradingview:fxstreet:722bff51fd9e8:0",
+        "tradingview:matriks:6711990:0",
+        "tradingview:fxstreet:9d6c68546d9e8:0",
+        "tradingview:matriks:6711960:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44U0FM:0",
+        "tradingview:matriks:6711935:0",
         "tradingview:matriks:6711925:0",
         "tradingview:matriks:6711923:0",
         "tradingview:matriks:6711917:0",
@@ -950,6 +980,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "almanya d sisleri bakan rusya gerilimi t rmand rd sonuclar na katlanmak zorunda",
+      "link": "https://tr.tradingview.com/news/matriks:6712069:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya d sisleri bakan rusya ya kars onlemler dikkatle haz rland",
+      "link": "https://tr.tradingview.com/news/matriks:6712057:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boj sahinler az nl kta kalmaya devam ediyor ing rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6712054:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar bulteni deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6712045:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vak f yat r m tuprs hedef fiyat 510 tl tavsiye al",
+      "link": "https://tr.tradingview.com/news/matriks:6712040:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "armis yatak icra kurulu baskan batall hurmuz gerilimi yatak sektorunde maliyet bask s n art r yor",
+      "link": "https://tr.tradingview.com/news/matriks:6712039:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "foreks piyasas nda bugun orta dogu daki gerilimler daha t rman rken riskten kac s piyasalar sar yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:55f1ed762d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avrupa birligi ticaret komiseri sefcovic cin e ticaret konusunda kars daha sert onlemler alabilecekleri uyar s yapt euronews",
+      "link": "https://tr.tradingview.com/news/matriks:6712036:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sirket raporu tupras vak f yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6712028:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar abd dolar kars s nda 0 7120 ye dogru geri cekilme tercih ediliyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:d245bce3ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "forex bulteni integral yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6712011:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yuksek enerji fiyatlar sahin fed euro uzerindeki bask y art r yor ing rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6712006:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "elus gunluk bulteni is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711993:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro baska abd japonya ortak mudahalesi korkular aras nda japon yeni kars s nda sert dusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:722bff51fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "copilot said unep kuresel s cakl k art s birkac y l icinde 1 5 derece esigini asacak",
+      "link": "https://tr.tradingview.com/news/matriks:6711990:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni mudahale riski taktiksel uzun pozisyonlar yeniden canland rabilir bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:9d6c68546d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hsbc sise 44 tl hedef fiyat belirledi tut tavsiyesini korudu onceki hedef fiyat 40 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6711960:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kuresel tahvil piyasalar nda sat slar h zland enflasyon riskleri petrol fiyatlar tedirginlik yarat yor",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44U0FM:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rusya tah l ihracat vergisini 31 aral k tarihine kadar ask ya ald ifx bn",
+      "link": "https://tr.tradingview.com/news/matriks:6711935:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "borsada gong bak rc gyo cald bak rc gyo yonetim kurulu baskan vekili genel muduru fatih saglam halka arz n detaylar n bloomberg ht ye anlatt",
+      "link": "https://www.bloomberght.com/borsada-gong-bakirci-gyo-icin-caldi-3787079"
+    },
+    {
+      "source": "kap",
+      "text": "soke pay baz nda devre kesici bildirimi soke e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657108"
+    },
+    {
+      "source": "kap",
+      "text": "brlsm pay baz nda devre kesici bildirimi brlsm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657098"
+    },
+    {
+      "source": "kap",
+      "text": "btcim pay baz nda devre kesici bildirimi btcim e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657097"
+    },
+    {
+      "source": "kap",
+      "text": "abo sirket genel bilgi formu sirket allbatross portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657096"
+    },
+    {
+      "source": "kap",
+      "text": "kaplm pay baz nda devre kesici bildirimi kaplm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657095"
+    },
+    {
+      "source": "kap",
+      "text": "bistech pay piyasas al m sat m sistemi duyurusu pay piyasas nda yukar ad m kural sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657094"
+    },
+    {
+      "source": "kap",
+      "text": "krdmb pay baz nda devre kesici bildirimi krdmb e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657093"
+    },
+    {
+      "source": "kap",
+      "text": "karsn pay baz nda devre kesici bildirimi karsn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657092"
+    },
+    {
+      "source": "kap",
+      "text": "kuvva pay baz nda devre kesici bildirimi kuvva e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657091"
+    },
+    {
+      "source": "kap",
+      "text": "mlb toptan al s sat s islemi bildirimi bofayb toptan sat s islemleri tuprs sirket bank of america yatirim bank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657090"
+    },
     {
       "source": "tradingview",
       "text": "forex gunluk bulten gedik yat r m",
