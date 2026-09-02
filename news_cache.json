@@ -297,8 +297,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:48e1eb0a2d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:89ceffc9ad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:89ceffc9ad9e8:0",
+        "tradingview:fxstreet:b8764f643d9e8:0",
+        "tradingview:fxstreet:7d860df71d9e8:0",
         "tradingview:fxstreet:48e1eb0a2d9e8:0",
         "tradingview:fxstreet:8f4943fb9d9e8:0",
         "tradingview:fxstreet:b4f1b6d89d9e8:0",
@@ -407,6 +410,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gbp jpy fiyat analizi sat c lar sma k r l m n n ard ndan 214 00 seviyesini hedefliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:89ceffc9ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar istedigi faiz art r m n sat yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b8764f643d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "new zealand terms of trade index 2q 2 2 beklentisi alt nda kald 2q gerceklesen 9",
+      "link": "https://tr.tradingview.com/news/fxstreet:7d860df71d9e8:0"
+    },
     {
       "source": "investing",
       "text": "crowdstrike fal con yat r mc toplant s yapay zeka buyume gorunumunu destekliyor",
