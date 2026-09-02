@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657657",
+      "last_seen_key": "kap:1657660",
       "seen_keys": [
+        "kap:1657660",
+        "kap:1657659",
+        "kap:1657658",
         "kap:1657657",
         "kap:1657656",
         "kap:1657655",
@@ -224,18 +227,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/helfie-ai-mali-isler-muduru-olarak-john-regoyu-atad-93CH-4052913",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/nwpx-altyap-direktoru-larson-128966-dolar-degerinde-hisse-satt-93CH-4052930",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/nwpx-altyap-direktoru-larson-128966-dolar-degerinde-hisse-satt-93CH-4052930",
+        "investing:https://tr.investing.com/news/company-news/wise-2c-ve-i1-fy27-sonuclarnn-tarihlerini-acklad-93CH-4052929",
+        "investing:https://tr.investing.com/news/economy-news/almanya-ve-fransa-guney-afrikaya-300-milyon-euro-taahhut-etti-93CH-4052928",
+        "investing:https://tr.investing.com/news/company-news/wilton-resources-ozel-satsta-565000-dolar-toplad-93CH-4052927",
+        "investing:https://tr.investing.com/news/stock-market-news/google-savunma-yapay-zekasna-girdi-palantir-hisseleri-dustu-4052926",
         "investing:https://tr.investing.com/news/company-news/helfie-ai-mali-isler-muduru-olarak-john-regoyu-atad-93CH-4052913",
+        "investing:https://tr.investing.com/news/stock-market-news/google-devlet-guvenligi-icin-gemini-38-flash-cyber-piyasaya-surdu-4052921",
         "investing:https://tr.investing.com/news/stock-market-news/eylul-hisselere-ac-cektirebilir-ama-alm-frsat-sunabilir-4052911",
         "investing:https://tr.investing.com/news/stock-market-news/minimed-group-hisseleri-analist-yukseltmeleriyle-scrad-93CH-4052908",
         "investing:https://tr.investing.com/news/company-news/cnh-hissesi-1332-dolarda-52-haftalk-zirve-yapt-93CH-4052906",
-        "investing:https://tr.investing.com/news/stock-market-news/tds-hissesi-array-anlasmasn-iptal-ettikten-sonra-yukseldi-93CH-4052905",
-        "investing:https://tr.investing.com/news/stock-market-news/sirius-xm-hisseleri-deutsche-bankn-yukseltmesiyle-scrad-93CH-4052904",
-        "investing:https://tr.investing.com/news/stock-market-news/g42-milyarlarca-dolarlk-fon-artrm-gorusmesi-yapyor-93CH-4052902",
-        "investing:https://tr.investing.com/news/stock-market-news/wonderful-yapay-zeka-isletim-sistemi-icin-5-milyar-dolar-degerlemede-550-milyon-dolar-toplad-93CH-4052900",
-        "investing:https://tr.investing.com/news/economy-news/kanada-iran-savas-enerji-maliyetleri-nedeniyle-akaryakt-vergisi-indirimini-uzatacak--bloomberg-93CH-4052899",
-        "investing:https://tr.investing.com/news/company-news/biogen-hissesi-22286-dolarda-52-haftann-zirvesine-ulast-93CH-4052897",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -256,6 +259,12 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/stock-market-news/tds-hissesi-array-anlasmasn-iptal-ettikten-sonra-yukseldi-93CH-4052905",
+        "investing:https://tr.investing.com/news/stock-market-news/sirius-xm-hisseleri-deutsche-bankn-yukseltmesiyle-scrad-93CH-4052904",
+        "investing:https://tr.investing.com/news/stock-market-news/g42-milyarlarca-dolarlk-fon-artrm-gorusmesi-yapyor-93CH-4052902",
+        "investing:https://tr.investing.com/news/stock-market-news/wonderful-yapay-zeka-isletim-sistemi-icin-5-milyar-dolar-degerlemede-550-milyon-dolar-toplad-93CH-4052900",
+        "investing:https://tr.investing.com/news/economy-news/kanada-iran-savas-enerji-maliyetleri-nedeniyle-akaryakt-vergisi-indirimini-uzatacak--bloomberg-93CH-4052899",
+        "investing:https://tr.investing.com/news/company-news/biogen-hissesi-22286-dolarda-52-haftann-zirvesine-ulast-93CH-4052897",
         "investing:https://tr.investing.com/news/stock-market-news/redburn-mettlertoledo-icin-sat-tavsiyesi-verdi-4052895",
         "investing:https://tr.investing.com/news/company-news/dorchester-minerals-lp-hissesi-2928-dolarda-zirve-yapt-93CH-4052892",
         "investing:https://tr.investing.com/news/company-news/cqs-new-city-high-yield-fund-505-peniden-125-milyon-hisse-ihrac-etti-93CH-4052891",
@@ -382,8 +391,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:35a138cf1d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:11ce65c49d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:11ce65c49d9e8:0",
         "tradingview:fxstreet:35a138cf1d9e8:0",
         "tradingview:fxstreet:2406fef2dd9e8:0",
         "tradingview:fxstreet:ecaa72307d9e8:0",
@@ -557,6 +567,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bitcoin in gorunur talebi fiyat 77 bin dolar seviyesini asmakta zorlan rken negatife dondu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:11ce65c49d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "nwpx altyap direktoru larson 128 966 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/nwpx-altyap-direktoru-larson-128966-dolar-degerinde-hisse-satt-93CH-4052930"
+    },
+    {
+      "source": "investing",
+      "text": "wise 2c i1 fy27 sonuclar n n tarihlerini ac klad",
+      "link": "https://tr.investing.com/news/company-news/wise-2c-ve-i1-fy27-sonuclarnn-tarihlerini-acklad-93CH-4052929"
+    },
+    {
+      "source": "investing",
+      "text": "almanya fransa guney afrika ya 300 milyon euro taahhut etti",
+      "link": "https://tr.investing.com/news/economy-news/almanya-ve-fransa-guney-afrikaya-300-milyon-euro-taahhut-etti-93CH-4052928"
+    },
+    {
+      "source": "investing",
+      "text": "wilton resources ozel sat sta 565 000 dolar toplad",
+      "link": "https://tr.investing.com/news/company-news/wilton-resources-ozel-satsta-565000-dolar-toplad-93CH-4052927"
+    },
+    {
+      "source": "investing",
+      "text": "google savunma yapay zekas na girdi palantir hisseleri dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/google-savunma-yapay-zekasna-girdi-palantir-hisseleri-dustu-4052926"
+    },
+    {
+      "source": "kap",
+      "text": "papil sirket genel bilgi formu sirket papilon savunma teknoloji ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657660"
+    },
+    {
+      "source": "kap",
+      "text": "papil ozel durum ac klamas genel yonetim kurulu uye istifa kabulu yonetim kurulu uye secimi sirket papilon savunma teknoloji ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657659"
+    },
+    {
+      "source": "kap",
+      "text": "ihlas sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m nda elde edilen fonun kullan m yerleri hk sirket ihlas holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657658"
+    },
     {
       "source": "kap",
       "text": "mzhld kar pay dag t m islemlerine iliskin bildirim mzhld 2025 yili kar payi dagitimi hakkinda sirket mazhar zorlu holding a s",
