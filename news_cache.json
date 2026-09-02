@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657214",
+      "last_seen_key": "kap:1657221",
       "seen_keys": [
+        "kap:1657221",
+        "kap:1657216",
+        "kap:1657215",
         "kap:1657214",
         "kap:1657213",
         "kap:1657212",
@@ -165,18 +168,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/ubs-dominos-pizza-icin-hisse-hedefini-yukseltti-93CH-4052207",
+      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/antero-midstream-gercege-uygun-deger-sinyali-sonras-79-getiri-saglad-93CH-4052263",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/ubs-dominos-pizza-icin-hisse-hedefini-yukseltti-93CH-4052207",
-        "investing:https://tr.investing.com/news/stock-market-news/ubs-getinge-icin-notr-tavsiyeyle-kapsama-baslad-4052183",
-        "investing:https://tr.investing.com/news/analyst-ratings/needham-alpr-pazar-endiselerine-ragmen-axon-hissesi-icin-tavsiyesini-korudu-93CH-4052180",
-        "investing:https://tr.investing.com/news/transcripts/acer-ifa-2026da-50-yln-ardndan-yapay-zekaya-odaklanyor-93CH-4052179",
-        "investing:https://tr.investing.com/news/company-news/hyperscale-data-yapay-zeka-icin-bitcoin-madenciligini-durdurdu-93CH-4052178",
-        "investing:https://tr.investing.com/news/company-news/vertiv-mikro-sebeke-sirketi-uigyi-26-milyar-dolara-satn-alyor-93CH-4052176",
-        "investing:https://tr.investing.com/news/company-news/nextdoor-yerel-isletme-kesfi-icin-platform-guncellemesi-yapt-93CH-4052177",
-        "investing:https://tr.investing.com/news/company-news/cresco-labs-pharmacann-pennsylvaniada-50-milyon-dolara-ald-93CH-4052174",
-        "investing:https://tr.investing.com/news/company-news/humana-hisse-basna-0885-dolar-temettu-acklad-93CH-4052168",
-        "investing:https://tr.investing.com/news/analyst-ratings/needham-optik-gelir-artsna-isaret-ederek-credo-tech-hissesi-icin-tavsiyesini-korudu-93CH-4052144",
+        "investing:https://tr.investing.com/news/investment-ideas/antero-midstream-gercege-uygun-deger-sinyali-sonras-79-getiri-saglad-93CH-4052263",
+        "investing:https://tr.investing.com/news/company-news/ridgeview-destekli-bidconun-pinewoodai-anlasmasnda-destek-azald-93CH-4052262",
+        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-palo-alto-networks-icin-hisse-tavsiyesini-korudu-93CH-4052261",
+        "investing:https://tr.investing.com/news/analyst-ratings/baird-reddit-hissesi-icin-tavsiyesini-korudu-93CH-4052259",
+        "investing:https://tr.investing.com/news/analyst-ratings/baird-palo-alto-networks-icin-hisse-tavsiyesini-yineledi-93CH-4052257",
+        "investing:https://tr.investing.com/news/analyst-ratings/evercore-isi-palo-alto-networks-hissesi-icin-outperform-notunu-korudu-93CH-4052256",
+        "investing:https://tr.investing.com/news/company-news/aurora-cannabis-hissedarlarna-curaleaf-teklifini-reddetme-cagrs-93CH-4052255",
+        "investing:https://tr.investing.com/news/analyst-ratings/baird-sp-global-icin-hisse-tavsiyesini-yineledi-93CH-4052254",
+        "investing:https://tr.investing.com/news/company-news/lightning-resource-4-milyon-c-finansman-ve-varlk-almn-tamamlad-93CH-4052253",
+        "investing:https://tr.investing.com/news/company-news/fortrea-worldwiden-erken-faz-birimini-45-milyon-dolara-alyor-93CH-4052252",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -197,6 +200,16 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/analyst-ratings/ubs-dominos-pizza-icin-hisse-hedefini-yukseltti-93CH-4052207",
+        "investing:https://tr.investing.com/news/stock-market-news/ubs-getinge-icin-notr-tavsiyeyle-kapsama-baslad-4052183",
+        "investing:https://tr.investing.com/news/analyst-ratings/needham-alpr-pazar-endiselerine-ragmen-axon-hissesi-icin-tavsiyesini-korudu-93CH-4052180",
+        "investing:https://tr.investing.com/news/transcripts/acer-ifa-2026da-50-yln-ardndan-yapay-zekaya-odaklanyor-93CH-4052179",
+        "investing:https://tr.investing.com/news/company-news/hyperscale-data-yapay-zeka-icin-bitcoin-madenciligini-durdurdu-93CH-4052178",
+        "investing:https://tr.investing.com/news/company-news/vertiv-mikro-sebeke-sirketi-uigyi-26-milyar-dolara-satn-alyor-93CH-4052176",
+        "investing:https://tr.investing.com/news/company-news/nextdoor-yerel-isletme-kesfi-icin-platform-guncellemesi-yapt-93CH-4052177",
+        "investing:https://tr.investing.com/news/company-news/cresco-labs-pharmacann-pennsylvaniada-50-milyon-dolara-ald-93CH-4052174",
+        "investing:https://tr.investing.com/news/company-news/humana-hisse-basna-0885-dolar-temettu-acklad-93CH-4052168",
+        "investing:https://tr.investing.com/news/analyst-ratings/needham-optik-gelir-artsna-isaret-ederek-credo-tech-hissesi-icin-tavsiyesini-korudu-93CH-4052144",
         "investing:https://tr.investing.com/news/company-news/glenstoneun-alternative-income-reit-teklifine-yuzde-225-kabul-93CH-4052095",
         "investing:https://tr.investing.com/news/company-news/martnn-guclu-ikinci-ceyrek-sonuclarnn-ardndan--iki-kurum-hedef-fiyatn-yukseltti-4052094",
         "investing:https://tr.investing.com/news/stock-market-news/universe-pharmaceuticals-hissesi-bugun-neden-22-yukseldi-93CH-4052088",
@@ -310,8 +323,15 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6712874:0",
+      "last_seen_key": "tradingview:matriks:6712939:0",
       "seen_keys": [
+        "tradingview:matriks:6712939:0",
+        "tradingview:fxstreet:ff08557cbd9e8:0",
+        "tradingview:fxstreet:f4daacd48d9e8:0",
+        "tradingview:fxstreet:2406fef2dd9e8:0",
+        "tradingview:fxstreet:71bc0a8c6d9e8:0",
+        "tradingview:matriks:6712875:0",
+        "tradingview:fxstreet:a327f00ddd9e8:0",
         "tradingview:matriks:6712874:0",
         "tradingview:matriks:6712873:0",
         "tradingview:matriks:6712872:0",
@@ -320,6 +340,7 @@
         "tradingview:matriks:6712864:0",
         "tradingview:matriks:6712862:0",
         "tradingview:fxstreet:ad5d1c26dd9e8:0",
+        "tradingview:cointelegraph:17fe315f2d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44U0PN:0",
         "tradingview:fxstreet:308b0e468d9e8:0",
         "tradingview:matriks:6712823:0",
@@ -379,7 +400,6 @@
         "tradingview:fxstreet:ef35276f8d9e8:0",
         "tradingview:matriks:6712275:0",
         "tradingview:fxstreet:8f96cb4b5d9e8:0",
-        "tradingview:fxstreet:a327f00ddd9e8:0",
         "tradingview:matriks:6712249:0",
         "tradingview:fxstreet:f245eacc8d9e8:0",
         "tradingview:matriks:6712205:0",
@@ -437,6 +457,101 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "y lmaz 2027 2029 donemi orta vadeli program m z n detaylar n 6 eylul pazar gunu kamuoyuyla paylasmay planl yoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6712939:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n petrol kaynakl faiz yeniden fiyatlamas kulce alt n bask l yor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:ff08557cbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi abd adp istihdam verileri oncesinde 99 85 civar na yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:f4daacd48d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n abd iran geriliminin petrol fiyatlar n kuresel tahvil getirilerini yukseltmesiyle dususe gecti",
+      "link": "https://tr.tradingview.com/news/fxstreet:2406fef2dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar boc nin para politikas karar oncesinde kay plar n genisletiyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:71bc0a8c6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd mba sat n alma endeksi degisimi 2 2",
+      "link": "https://tr.tradingview.com/news/matriks:6712875:0"
+    },
+    {
+      "source": "investing",
+      "text": "antero midstream gercege uygun deger sinyali sonras 79 getiri saglad",
+      "link": "https://tr.investing.com/news/investment-ideas/antero-midstream-gercege-uygun-deger-sinyali-sonras-79-getiri-saglad-93CH-4052263"
+    },
+    {
+      "source": "investing",
+      "text": "ridgeview destekli bidco nun pinewood ai anlasmas nda destek azald",
+      "link": "https://tr.investing.com/news/company-news/ridgeview-destekli-bidconun-pinewoodai-anlasmasnda-destek-azald-93CH-4052262"
+    },
+    {
+      "source": "investing",
+      "text": "td cowen palo alto networks hisse tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/td-cowen-palo-alto-networks-icin-hisse-tavsiyesini-korudu-93CH-4052261"
+    },
+    {
+      "source": "investing",
+      "text": "baird reddit hissesi tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/baird-reddit-hissesi-icin-tavsiyesini-korudu-93CH-4052259"
+    },
+    {
+      "source": "investing",
+      "text": "baird palo alto networks hisse tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/baird-palo-alto-networks-icin-hisse-tavsiyesini-yineledi-93CH-4052257"
+    },
+    {
+      "source": "investing",
+      "text": "evercore isi palo alto networks hissesi outperform notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/evercore-isi-palo-alto-networks-hissesi-icin-outperform-notunu-korudu-93CH-4052256"
+    },
+    {
+      "source": "investing",
+      "text": "aurora cannabis hissedarlar na curaleaf teklifini reddetme cagr s",
+      "link": "https://tr.investing.com/news/company-news/aurora-cannabis-hissedarlarna-curaleaf-teklifini-reddetme-cagrs-93CH-4052255"
+    },
+    {
+      "source": "investing",
+      "text": "baird s p global hisse tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/baird-sp-global-icin-hisse-tavsiyesini-yineledi-93CH-4052254"
+    },
+    {
+      "source": "investing",
+      "text": "lightning resource 4 milyon c finansman varl k al m n tamamlad",
+      "link": "https://tr.investing.com/news/company-news/lightning-resource-4-milyon-c-finansman-ve-varlk-almn-tamamlad-93CH-4052253"
+    },
+    {
+      "source": "investing",
+      "text": "fortrea worldwide n erken faz birimini 45 milyon dolara al yor",
+      "link": "https://tr.investing.com/news/company-news/fortrea-worldwiden-erken-faz-birimini-45-milyon-dolara-alyor-93CH-4052252"
+    },
+    {
+      "source": "kap",
+      "text": "isyat ic yonerge sirketin yeni ic yonergesinin tescili hakk nda sirket is yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657221"
+    },
+    {
+      "source": "kap",
+      "text": "dggyo pay baz nda devre kesici bildirimi dggyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657216"
+    },
+    {
+      "source": "kap",
+      "text": "tgsas pay baz nda devre kesici bildirimi tgsas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657215"
+    },
     {
       "source": "tradingview",
       "text": "abd mba refinansman endeksi 732 6 onceki 740 8",
