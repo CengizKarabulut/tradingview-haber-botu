@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657002",
+      "last_seen_key": "kap:1657003",
       "seen_keys": [
+        "kap:1657003",
         "kap:1657002",
         "kap:1657001",
         "kap:1657000",
@@ -118,8 +119,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-den-turkiye-ye-artemis-anlasmalari-tebrigi-3787053",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/otomotiv-pazarinda-sert-daralma-3787062",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/otomotiv-pazarinda-sert-daralma-3787062",
+        "bloomberght:https://www.bloomberght.com/abdnin-uzun-vadeli-tahvil-faizleri-yeniden-yukseliste-3787059",
         "bloomberght:https://www.bloomberght.com/abd-den-turkiye-ye-artemis-anlasmalari-tebrigi-3787053",
         "bloomberght:https://www.bloomberght.com/bolat-turkiye-dunyanin-7-nci-buyuk-tarimsal-ureticisi-3787052",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-02092026-3787051",
@@ -462,8 +465,21 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6711559:0",
+      "last_seen_key": "tradingview:matriks:6711574:0",
       "seen_keys": [
+        "tradingview:matriks:6711574:0",
+        "tradingview:matriks:6711572:0",
+        "tradingview:matriks:6711571:0",
+        "tradingview:matriks:6711570:0",
+        "tradingview:matriks:6711569:0",
+        "tradingview:matriks:6711568:0",
+        "tradingview:matriks:6711567:0",
+        "tradingview:fxstreet:75830c3d0d9e8:0",
+        "tradingview:matriks:6711566:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44U0B7:0",
+        "tradingview:matriks:6711564:0",
+        "tradingview:matriks:6711561:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44U08A:0",
         "tradingview:matriks:6711559:0",
         "tradingview:fxstreet:f245eacc8d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44U07V:0",
@@ -711,6 +727,86 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "fx bulteni qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6711574:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s sabah teknik bulteni ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6711572:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iran devrim muhaf zlar kuveyt bahreyn urdun irak n erbil kentindeki abd unsurlar na sald rd klar n ac klad",
+      "link": "https://tr.tradingview.com/news/matriks:6711571:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boj takata notr faiz oranlar geleneksel analizlere dayan larak hesaplanan seviyelerden farkl olabilir",
+      "link": "https://tr.tradingview.com/news/matriks:6711570:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boj takata 2026 rejim degisikligine isaret ediyor ekonomik buyumenin yan s ra yapay zeka baglant l yat r mlar n etkisiyle faiz art slar kuresel egilim haline gelirken farkl tepkiye ihtiyac var",
+      "link": "https://tr.tradingview.com/news/matriks:6711569:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boj takata boj nin geleneksel alt ayl k faiz art s temposundan farkl tepkiye ihtiyac var",
+      "link": "https://tr.tradingview.com/news/matriks:6711568:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boj takata boj nin her seferinde yaln zca 0 25 lik faiz art s n degil genis secenek yelpazesini degerlendirmesi gerekiyor",
+      "link": "https://tr.tradingview.com/news/matriks:6711567:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "isvicre frang fed faiz art r m korkular n n abd dolar n desteklemesiyle zay fl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:75830c3d0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "soya fasulyesi fiyatlar biyoyak t politikalar hava kosullar n n etkisiyle y llar n zirvesine c kt",
+      "link": "https://tr.tradingview.com/news/matriks:6711566:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz tahvil petrol alt n",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44U0B7:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711564:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "stoxx endeks kompozisyonlar nda degisiklikleri ac klad",
+      "link": "https://tr.tradingview.com/news/matriks:6711561:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tskb istifa eden hakan aran yerine adnan bali yonetim kurulu baskan olarak secildi kap",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44U08A:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "otomotiv pazar nda sert daralma otomotiv distributorleri mobilite dernegi odmd verilerine gore otomobil hafif ticari arac pazar 2026 agustos ay nda yuzde 20 28 darald",
+      "link": "https://www.bloomberght.com/otomotiv-pazarinda-sert-daralma-3787062"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd nin uzun vadeli tahvil faizleri yeniden yukseliste abd 30 y ll k tahvil getirisi hazine bakan scott bessent n geri al m program n genisletecegini ac klamas ndan hemen onceki seviyelere geri donerken kuresel tahvil piyasalar ndaki sat s bask s surdu",
+      "link": "https://www.bloomberght.com/abdnin-uzun-vadeli-tahvil-faizleri-yeniden-yukseliste-3787059"
+    },
+    {
+      "source": "kap",
+      "text": "luksk kat l m finans ilkeleri bilgi formu sirket luks kadife ticaret sanayii a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657003"
+    },
     {
       "source": "investing",
       "text": "avustralya 10 y ll k tahvil getirisi 15 y l n zirvesinde",
