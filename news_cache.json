@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657022",
+      "last_seen_key": "kap:1657025",
       "seen_keys": [
+        "kap:1657025",
+        "kap:1657024",
+        "kap:1657023",
         "kap:1657022",
         "kap:1657021",
         "kap:1657019",
@@ -490,9 +493,18 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:1c1c423d8d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:f245eacc8d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:f245eacc8d9e8:0",
+        "tradingview:matriks:6711716:0",
+        "tradingview:matriks:6711714:0",
+        "tradingview:matriks:6711708:0",
+        "tradingview:matriks:6711705:0",
+        "tradingview:matriks:6711704:0",
+        "tradingview:matriks:6711699:0",
+        "tradingview:matriks:6711697:0",
         "tradingview:fxstreet:1c1c423d8d9e8:0",
+        "tradingview:matriks:6711695:0",
         "tradingview:matriks:6711686:0",
         "tradingview:matriks:6711683:0",
         "tradingview:matriks:6711682:0",
@@ -511,6 +523,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44U0AO:0",
         "tradingview:matriks:6711644:0",
         "tradingview:matriks:6711639:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:matriks:6711636:0",
         "tradingview:tag:reuters.com,2026:newsml_S8N43P0IK:0",
         "tradingview:fxstreet:ab6cc01ead9e8:0",
@@ -549,7 +562,6 @@
         "tradingview:matriks:6711561:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44U08A:0",
         "tradingview:matriks:6711559:0",
-        "tradingview:fxstreet:f245eacc8d9e8:0",
         "tradingview:beincrypto:925273f93d9e8:0",
         "tradingview:matriks:6711554:0",
         "tradingview:matriks:6711553:0",
@@ -666,7 +678,6 @@
         "tradingview:beincrypto:2531cd736d9e8:0",
         "tradingview:fxstreet:0d22dcc1ed9e8:0",
         "tradingview:fxstreet:a92b18a74d9e8:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:beincrypto:e1e20a96ed9e8:0",
         "tradingview:fxstreet:995286dbdd9e8:0",
         "tradingview:beincrypto:54ec72297d9e8:0",
@@ -797,6 +808,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten global menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6711716:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711714:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "anket matriks haber bist sentiment anketi borsa ac l s beklentisi 19 22 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6711708:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten kuzey menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6711705:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711704:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bp ian tyler yonetim kurulu baskanl g na getirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6711699:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "k s yuruyusu ziraat yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711697:0"
+    },
+    {
+      "source": "kap",
+      "text": "zkbvr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdzkbv12725 isin kodlu yurtici kira sertifikas ihrac n n sat s n n tamamlanmas hk sirket zkb varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657025"
+    },
+    {
+      "source": "kap",
+      "text": "kzbgy ozel durum ac klamas genel marmaris sinpas k z lbuk thermal wellness resort projemize ait guncel sat s bilgisi hk sirket kizilbuk gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657024"
+    },
+    {
+      "source": "kap",
+      "text": "bkrgy blcyt citas dtp kartn ktlev manas odine ozatd paseu pcs phb pnu pry tehol tera thf tly tra kamuyu ayd nlatma platformu duyurusu ozel durumlar tebligi nin 12 4 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657023"
+    },
     {
       "source": "tradingview",
       "text": "euro amb faiz art r m yaklas rken bask alt nda danske bank",
