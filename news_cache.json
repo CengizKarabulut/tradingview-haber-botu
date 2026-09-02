@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657175",
+      "last_seen_key": "kap:1657177",
       "seen_keys": [
+        "kap:1657177",
+        "kap:1657176",
         "kap:1657175",
         "kap:1657174",
         "kap:1657173",
@@ -16,7 +18,6 @@
         "kap:1657160",
         "kap:1657159",
         "kap:1657158",
-        "kap:1657157",
         "kap:1657153",
         "kap:1657152",
         "kap:1657151",
@@ -93,12 +94,14 @@
         "kap:1657003",
         "kap:1657002",
         "kap:1657001",
+        "kap:1657157",
         "kap:1656999"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-motorin-fiyati-yeniden-kritik-seviyeye-cikti-3787092",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/nane-bulundugumuz-noktada-turkiye-onemli-bir-gecis-noktasi-3787098",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/nane-bulundugumuz-noktada-turkiye-onemli-bir-gecis-noktasi-3787098",
         "bloomberght:https://www.bloomberght.com/abd-de-motorin-fiyati-yeniden-kritik-seviyeye-cikti-3787092",
         "bloomberght:https://www.bloomberght.com/enerjisa-enerji-ebrd-den-207-milyon-dolarlik-kredi-sagladi-3787087",
         "bloomberght:https://www.bloomberght.com/hurmuz-bogazi-ni-gecmeye-calisan-2-tanker-mayina-carpti-3787086",
@@ -150,18 +153,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/citizens-navlun-gorunumune-dayanarak-knight-hisse-notunu-korudu-93CH-4051999",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/us-antimony-yoneticisi-joseph-carrabba-100536-dolarlk-hisse-ald-93CH-4052042",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-navlun-gorunumune-dayanarak-knight-hisse-notunu-korudu-93CH-4051999",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-progyny-icin-31-dolarlk-hedef-fiyat-korudu-93CH-4051998",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-robotik-satn-alma-nedeniyle-enovis-hisse-hedefini-dusurdu-93CH-4051964",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-midamerica-apartment-hissesi-icin-gorusunu-yineledi-93CH-4051963",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-palo-alto-networks-icin-415-dolar-hedefini-korudu-93CH-4051962",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-mongodb-hissesi-icin-tavsiyesini-yineledi-93CH-4051961",
-        "investing:https://tr.investing.com/news/analyst-ratings/citizens-iren-hissesi-icin-hedef-fiyat-korudu-93CH-4051960",
-        "investing:https://tr.investing.com/news/company-news/orient-telecoms-genel-kurul-toplantsn-30-eylule-ald-93CH-4051950",
-        "investing:https://tr.investing.com/news/analyst-ratings/jmp-securities-salesforce-hissesi-icin-notunu-korudu-93CH-4051943",
-        "investing:https://tr.investing.com/news/analyst-ratings/bnp-paribas-exane-rekabet-endiseleriyle-toast-hissesini-dusurdu-93CH-4051926",
+        "investing:https://tr.investing.com/news/insider-trading-news/us-antimony-yoneticisi-joseph-carrabba-100536-dolarlk-hisse-ald-93CH-4052042",
+        "investing:https://tr.investing.com/news/insider-trading-news/mueller-water-products-yoneticisi-ortiz-13161-dolar-hisse-satt-93CH-4052041",
+        "investing:https://tr.investing.com/news/analyst-ratings/stifel-palo-alto-networks-hissesi-icin-al-tavsiyesini-korudu-93CH-4052040",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-satn-almalar-sonras-whitehawk-hisse-hedefini-yukseltti-93CH-4052039",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-apa-hissesi-icin-hedef-fiyat-54-dolara-yukseltti-93CH-4052037",
+        "investing:https://tr.investing.com/news/analyst-ratings/stifel-credo-tech-hissesi-icin-al-tavsiyesini-korudu-93CH-4052038",
+        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-palo-alto-networks-hissesi-icin-tavsiyesini-korudu-93CH-4052035",
+        "investing:https://tr.investing.com/news/stock-market-news/lottomatica-hissesi-bugun-neden-dusuyor-93CH-4052034",
+        "investing:https://tr.investing.com/news/stock-market-news/gea-hissesi-neden-dusuyor-93CH-4052033",
+        "investing:https://tr.investing.com/news/analyst-ratings/barclays-gfl-environmental-hissesini-agrlkl-al-olarak-derecelendirdi-93CH-4052030",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -181,7 +184,17 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
-        "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743"
+        "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-navlun-gorunumune-dayanarak-knight-hisse-notunu-korudu-93CH-4051999",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-progyny-icin-31-dolarlk-hedef-fiyat-korudu-93CH-4051998",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-robotik-satn-alma-nedeniyle-enovis-hisse-hedefini-dusurdu-93CH-4051964",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-midamerica-apartment-hissesi-icin-gorusunu-yineledi-93CH-4051963",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-palo-alto-networks-icin-415-dolar-hedefini-korudu-93CH-4051962",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-mongodb-hissesi-icin-tavsiyesini-yineledi-93CH-4051961",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-iren-hissesi-icin-hedef-fiyat-korudu-93CH-4051960",
+        "investing:https://tr.investing.com/news/company-news/orient-telecoms-genel-kurul-toplantsn-30-eylule-ald-93CH-4051950",
+        "investing:https://tr.investing.com/news/analyst-ratings/jmp-securities-salesforce-hissesi-icin-notunu-korudu-93CH-4051943",
+        "investing:https://tr.investing.com/news/analyst-ratings/bnp-paribas-exane-rekabet-endiseleriyle-toast-hissesini-dusurdu-93CH-4051926"
       ]
     },
     "ntvpara": {
@@ -275,8 +288,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6712566:0",
+      "last_seen_key": "tradingview:fxstreet:27d89dda7d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:27d89dda7d9e8:0",
+        "tradingview:fxstreet:89df425c3d9e8:0",
         "tradingview:matriks:6712566:0",
         "tradingview:fxstreet:d228b0f6ad9e8:0",
         "tradingview:matriks:6712542:0",
@@ -298,6 +313,8 @@
         "tradingview:matriks:6712441:0",
         "tradingview:matriks:6712430:0",
         "tradingview:matriks:6712428:0",
+        "tradingview:matriks:6712411:0",
+        "tradingview:matriks:6712407:0",
         "tradingview:fxstreet:7755646eed9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44U0K3:0",
         "tradingview:fxstreet:373c07cbed9e8:0",
@@ -306,6 +323,7 @@
         "tradingview:fxstreet:e9da80148d9e8:0",
         "tradingview:fxstreet:db7ff83a8d9e8:0",
         "tradingview:fxstreet:c75e7ca27d9e8:0",
+        "tradingview:matriks:6712313:0",
         "tradingview:matriks:6712296:0",
         "tradingview:matriks:6712294:0",
         "tradingview:matriks:6712293:0",
@@ -380,5 +398,81 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar kademeli rbnz patikas kiwi uzerinde bask olusturuyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:27d89dda7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boc yap skan enflasyona ragmen faiz oranlar n sabit tutacak",
+      "link": "https://tr.tradingview.com/news/fxstreet:89df425c3d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "u s antimony yoneticisi joseph carrabba 100 536 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/us-antimony-yoneticisi-joseph-carrabba-100536-dolarlk-hisse-ald-93CH-4052042"
+    },
+    {
+      "source": "investing",
+      "text": "mueller water products yoneticisi ortiz 13 161 dolar hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/mueller-water-products-yoneticisi-ortiz-13161-dolar-hisse-satt-93CH-4052041"
+    },
+    {
+      "source": "investing",
+      "text": "stifel palo alto networks hissesi al tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/stifel-palo-alto-networks-hissesi-icin-al-tavsiyesini-korudu-93CH-4052040"
+    },
+    {
+      "source": "investing",
+      "text": "raymond james sat n almalar sonras whitehawk hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/raymond-james-satn-almalar-sonras-whitehawk-hisse-hedefini-yukseltti-93CH-4052039"
+    },
+    {
+      "source": "investing",
+      "text": "raymond james apa hissesi hedef fiyat 54 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/raymond-james-apa-hissesi-icin-hedef-fiyat-54-dolara-yukseltti-93CH-4052037"
+    },
+    {
+      "source": "investing",
+      "text": "stifel credo tech hissesi al tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/stifel-credo-tech-hissesi-icin-al-tavsiyesini-korudu-93CH-4052038"
+    },
+    {
+      "source": "investing",
+      "text": "jefferies palo alto networks hissesi tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/jefferies-palo-alto-networks-hissesi-icin-tavsiyesini-korudu-93CH-4052035"
+    },
+    {
+      "source": "investing",
+      "text": "lottomatica hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/lottomatica-hissesi-bugun-neden-dusuyor-93CH-4052034"
+    },
+    {
+      "source": "investing",
+      "text": "gea hissesi neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/gea-hissesi-neden-dusuyor-93CH-4052033"
+    },
+    {
+      "source": "investing",
+      "text": "barclays gfl environmental hissesini ag rl kl al olarak derecelendirdi",
+      "link": "https://tr.investing.com/news/analyst-ratings/barclays-gfl-environmental-hissesini-agrlkl-al-olarak-derecelendirdi-93CH-4052030"
+    },
+    {
+      "source": "bloomberght",
+      "text": "nane bulundugumuz noktada turkiye onemli gecis noktas pegasus yonetim kurulu baskan mehmet nane orta dogu daki savas nedeniyle havac l k sektoru ilgili yapt g degerlendirmede bizim bulundugumnz noktada turkiye cok onemli gecis noktas nda gecis noktas turizmimizi etkiliyor tic",
+      "link": "https://www.bloomberght.com/nane-bulundugumuz-noktada-turkiye-onemli-bir-gecis-noktasi-3787098"
+    },
+    {
+      "source": "kap",
+      "text": "mlb toptan al s sat s islemi bildirimi bofayb toptan sat s islemleri tuprs kchol sirket bank of america yatirim bank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657177"
+    },
+    {
+      "source": "kap",
+      "text": "trffa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfaren92713 isin kodlu bono ihraci sirket tera finans faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657176"
+    }
+  ]
 }
