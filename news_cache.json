@@ -179,8 +179,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/reconnaissance-energy-africa-15-milyon-c-degerinde-anlasma-acklad-93CH-4051077",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/abd-vadeli-islemleri-faiz-endiseleri-ve-irana-yeni-saldrlar-ile-sakin-4051541",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/abd-vadeli-islemleri-faiz-endiseleri-ve-irana-yeni-saldrlar-ile-sakin-4051541",
+        "investing:https://tr.investing.com/news/insider-trading-news/chicago-atlantic-bdc-yoneticisi-1369-dolarlk-hisse-ald-93CH-4051078",
         "investing:https://tr.investing.com/news/company-news/reconnaissance-energy-africa-15-milyon-c-degerinde-anlasma-acklad-93CH-4051077",
         "investing:https://tr.investing.com/news/company-news/tds-array-satn-alma-teklifini-geri-cekti-93CH-4051076",
         "investing:https://tr.investing.com/news/insider-trading-news/advent-international-ncs-multistage-hisselerini-elden-ckard-93CH-4051075",
@@ -189,8 +191,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/servicenow-baskan-paul-fipps-300777-dolar-degerinde-hisse-satt-93CH-4051073",
         "investing:https://tr.investing.com/news/insider-trading-news/xeris-biopharma-coosu-127308-dolarlk-hisse-satt-93CH-4051070",
         "investing:https://tr.investing.com/news/economic-indicators/guney-kore-tufesi-agustosta-beklentinin-altnda-artt-4051069",
-        "investing:https://tr.investing.com/news/insider-trading-news/xeris-biopharmann-beth-hechti-141434-dolar-hisse-satt-93CH-4051066",
-        "investing:https://tr.investing.com/news/insider-trading-news/xeris-biopharma-cfosu-steven-pieper-42500-dolarlk-hisse-satt-93CH-4051067",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -211,6 +211,8 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/insider-trading-news/xeris-biopharmann-beth-hechti-141434-dolar-hisse-satt-93CH-4051066",
+        "investing:https://tr.investing.com/news/insider-trading-news/xeris-biopharma-cfosu-steven-pieper-42500-dolarlk-hisse-satt-93CH-4051067",
         "investing:https://tr.investing.com/news/insider-trading-news/ani-pharmaceuticals-cfosu-207480-dolar-degerinde-hisse-satt-93CH-4051065",
         "investing:https://tr.investing.com/news/insider-trading-news/crexendo-ctosu-david-wang-162500-dolar-degerinde-hisse-satt-93CH-4051064",
         "investing:https://tr.investing.com/news/insider-trading-news/indie-semiconductor-coo-wittmann-63400-dolarlk-hisse-satt-93CH-4051063",
@@ -554,6 +556,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "abd vadeli islemleri faiz endiseleri iran a yeni sald r lar sakin",
+      "link": "https://tr.investing.com/news/stock-market-news/abd-vadeli-islemleri-faiz-endiseleri-ve-irana-yeni-saldrlar-ile-sakin-4051541"
+    },
+    {
+      "source": "investing",
+      "text": "chicago atlantic bdc yoneticisi 1 369 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/chicago-atlantic-bdc-yoneticisi-1369-dolarlk-hisse-ald-93CH-4051078"
+    },
     {
       "source": "tradingview",
       "text": "boj baskan ueda gunluk hareketler hakk nda yorum yapm yor piyasalar eylul ay nda faiz art s olas l g n yuksek fiyatl yor",
