@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657160",
+      "last_seen_key": "kap:1657161",
       "seen_keys": [
+        "kap:1657161",
         "kap:1657160",
         "kap:1657159",
         "kap:1657158",
@@ -201,8 +202,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/hurmuz-bogazi-ni-gecmeye-calisan-2-tanker-mayina-carpti-3787086",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/enerjisa-enerji-ebrd-den-207-milyon-dolarlik-kredi-sagladi-3787087",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/enerjisa-enerji-ebrd-den-207-milyon-dolarlik-kredi-sagladi-3787087",
         "bloomberght:https://www.bloomberght.com/hurmuz-bogazi-ni-gecmeye-calisan-2-tanker-mayina-carpti-3787086",
         "bloomberght:https://www.bloomberght.com/turib-de-vadeli-islemler-basliyor-3787083",
         "bloomberght:https://www.bloomberght.com/rusya-tahil-ihracat-vergisini-askiya-aldi-3787081",
@@ -543,8 +545,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-denizcilik-sektoru-yakit-tasarrufu-icin-geleneksel-gemicilik-yontemlerine-geri-donuyor-1740010",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/otogaza-artis-yapilacak-1740017",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/otogaza-artis-yapilacak-1740017",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-denizcilik-sektoru-yakit-tasarrufu-icin-geleneksel-gemicilik-yontemlerine-geri-donuyor-1740010",
         "ntvpara:https://www.ntv.com.tr/ntvpara/arac-satislari-azaldi-1739963",
         "ntvpara:https://www.ntv.com.tr/ntvpara/petrol-fiyatlarinda-hurmuz-yangini-brent-96-dolari-zorluyor-1739954",
@@ -573,8 +576,10 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bilgi-ve-iletisim-sektoru-buyume-serisini-10uncu-ceyrege-tasidi-955645.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/otomobil-pazarinin-lideri-togg-oldu-955654.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/otomobil-pazarinin-lideri-togg-oldu-955654.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/yeniden-imar-sureciyle-artan-konut-arzi-kira-fiyatlarini-dusuruyor-955652.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bilgi-ve-iletisim-sektoru-buyume-serisini-10uncu-ceyrege-tasidi-955645.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altinda-dusus-suruyor-955643.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/petrol-fiyatlari-yukselisini-surduruyor-955636.html",
@@ -643,8 +648,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:7755646eed9e8:0",
+      "last_seen_key": "tradingview:fxstreet:2d95fdfe1d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:2d95fdfe1d9e8:0",
+        "tradingview:matriks:6712441:0",
+        "tradingview:matriks:6712430:0",
+        "tradingview:matriks:6712428:0",
         "tradingview:fxstreet:7755646eed9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44U0K3:0",
         "tradingview:fxstreet:373c07cbed9e8:0",
@@ -1067,6 +1076,51 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "usd cad fiyat analizi 1 3900 civar ndaki birlesmeyi yukar yonlu k rd ktan sonra 50 gunluk ema ya odaklan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2d95fdfe1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "brent analizi trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6712441:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "09 09 2026 vadeli repo ihalesine gelen tekliflerin toplam 204 03 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6712430:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ing ecb den gelecek hafta 25 baz puanl k faiz art s bekliyor rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6712428:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "otomobil pazar n n lideri togg oldu turkiye nin yerli otomobili togg un t10x modeli gecen ay 2 bin 939 adetlik sat sla otomobil pazar nda en cok tercih edilen arac oldu",
+      "link": "https://www.trthaber.com/haber/ekonomi/otomobil-pazarinin-lideri-togg-oldu-955654.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "yeniden imar sureciyle artan konut arz kira fiyatlar n dusuruyor tcmb nin analizlerine gore kamu onculugundeki yeniden imar faaliyetleriyle konut arz n n h zla artmas deprem illerinde kira enflasyonunu belirgin bicimde yavaslatt etki 2026 depremden dolayl etkilenen illere yay ld konut arz",
+      "link": "https://www.trthaber.com/haber/ekonomi/yeniden-imar-sureciyle-artan-konut-arzi-kira-fiyatlarini-dusuruyor-955652.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "otogaza art s yap lacak petroldeki yukselis nedeniyle otogaz fiyatlar na art s yap lacak",
+      "link": "https://www.ntv.com.tr/ntvpara/otogaza-artis-yapilacak-1740017"
+    },
+    {
+      "source": "bloomberght",
+      "text": "enerjisa enerji ebrd den 207 milyon dolarl k kredi saglad enerjisa enerji avrupa imar kalk nma bankas ebrd 207 milyon dolar kars l g turk liras tutar nda 7 y l vadeli olarak kredi anlasmas yapt",
+      "link": "https://www.bloomberght.com/enerjisa-enerji-ebrd-den-207-milyon-dolarlik-kredi-sagladi-3787087"
+    },
+    {
+      "source": "kap",
+      "text": "cates pay baz nda devre kesici bildirimi cates e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657161"
+    },
     {
       "source": "tradingview",
       "text": "kanada dolar boc nin faizi sabit tutmas abd dolar kars s nda daha fazla kay p riskini b rak yor ing",
