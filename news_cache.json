@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657334",
+      "last_seen_key": "kap:1657384",
       "seen_keys": [
+        "kap:1657384",
+        "kap:1657383",
+        "kap:1657379",
+        "kap:1657377",
+        "kap:1657340",
         "kap:1657334",
         "kap:1657332",
         "kap:1657330",
@@ -162,8 +167,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/teknoloji-liderlerinden-g20-ulkelerine-yapa-zeka-cagrisi-3787136",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/kanada-merkez-bankasi-faizleri-sabit-tuttu-3787143",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/kanada-merkez-bankasi-faizleri-sabit-tuttu-3787143",
+        "bloomberght:https://www.bloomberght.com/yendeki-yukselis-mudahale-beklentisini-tetikledi-3787141",
         "bloomberght:https://www.bloomberght.com/teknoloji-liderlerinden-g20-ulkelerine-yapa-zeka-cagrisi-3787136",
         "bloomberght:https://www.bloomberght.com/alman-sendikasi-ig-metall-den-volkswagen-yonetimine-uzlasi-cagrisi-3787134",
         "bloomberght:https://www.bloomberght.com/new-york-fed-baskani-ndan-iyimser-enflasyon-yorumu-3787128",
@@ -224,18 +231,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/bernstein-gitlab-hissesi-icin-guclu-ceyrek-sonras-notunu-korudu-93CH-4052748",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/stonex-anthropic-halka-arz-potansiyeli-ile-zoom-hissesi-icin-tavsiyesini-tekrarlad-93CH-4052838",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/bernstein-gitlab-hissesi-icin-guclu-ceyrek-sonras-notunu-korudu-93CH-4052748",
-        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-f35-maliyetleri-nedeniyle-lockheed-martin-hissesi-icin-tut-tavsiyesini-yineledi-93CH-4052747",
-        "investing:https://tr.investing.com/news/analyst-ratings/bernstein-socgen-spacex-icin-hedef-fiyat-korudu-93CH-4052746",
-        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-palo-alto-networks-icin-hedef-fiyat-yukseltti-93CH-4052745",
-        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-atlas-buyumesi-endiseleriyle-mongodb-hisse-hedefini-dusurdu-93CH-4052743",
-        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-adobe-hisse-hedef-fiyatn-degerlemeye-gore-315-dolara-yukseltti-93CH-4052744",
-        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-gitlab-icin-hisse-fiyat-hedefini-60-dolara-yukseltti-93CH-4052742",
-        "investing:https://tr.investing.com/news/stock-market-news/tscan-therapeutics-hissesi-neden-cokuyor-93CH-4052738",
-        "investing:https://tr.investing.com/news/economy-news/kanada-merkez-bankas-faiz-orann-sabit-tuttu-4052741",
-        "investing:https://tr.investing.com/news/stock-market-news/aevex-hissesi-bugun-neden-dusuyor-93CH-4052734",
+        "investing:https://tr.investing.com/news/analyst-ratings/stonex-anthropic-halka-arz-potansiyeli-ile-zoom-hissesi-icin-tavsiyesini-tekrarlad-93CH-4052838",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-national-health-investors-icin-hisse-hedefini-dusurdu-93CH-4052839",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-florida-anlasmas-sonras-pacs-group-hissesi-icin-al-tavsiyesini-yineledi-93CH-4052836",
+        "investing:https://tr.investing.com/news/analyst-ratings/draftkings-hissesi-mahkeme-karar-sonras-stonexte-alda-tutuldu-93CH-4052837",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-dell-hisse-hedef-fiyatn-yapay-zeka-sunucu-siparisleriyle-505-dolara-yukseltti-93CH-4052835",
+        "investing:https://tr.investing.com/news/analyst-ratings/stonex-minimed-group-icin-hisse-hedefini-27-dolara-yukseltti-93CH-4052834",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-brazos-midland-anlasmas-sonras-oneok-hisse-hedefini-yukseltti-93CH-4052833",
+        "investing:https://tr.investing.com/news/analyst-ratings/stonex-palo-alto-networks-hissesi-icin-400-dolarlk-alm-tavsiyesini-yineledi-93CH-4052832",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-brown--brown-hissesi-icin-alm-tavsiyesini-korudu-93CH-4052831",
+        "investing:https://tr.investing.com/news/stock-market-news/american-eagle-hisseleri-kazanc-raporuyla-13-hareket-edebilir-93CH-4052830",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -256,6 +263,16 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/analyst-ratings/bernstein-gitlab-hissesi-icin-guclu-ceyrek-sonras-notunu-korudu-93CH-4052748",
+        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-f35-maliyetleri-nedeniyle-lockheed-martin-hissesi-icin-tut-tavsiyesini-yineledi-93CH-4052747",
+        "investing:https://tr.investing.com/news/analyst-ratings/bernstein-socgen-spacex-icin-hedef-fiyat-korudu-93CH-4052746",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-palo-alto-networks-icin-hedef-fiyat-yukseltti-93CH-4052745",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-atlas-buyumesi-endiseleriyle-mongodb-hisse-hedefini-dusurdu-93CH-4052743",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-adobe-hisse-hedef-fiyatn-degerlemeye-gore-315-dolara-yukseltti-93CH-4052744",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-gitlab-icin-hisse-fiyat-hedefini-60-dolara-yukseltti-93CH-4052742",
+        "investing:https://tr.investing.com/news/stock-market-news/tscan-therapeutics-hissesi-neden-cokuyor-93CH-4052738",
+        "investing:https://tr.investing.com/news/economy-news/kanada-merkez-bankas-faiz-orann-sabit-tuttu-4052741",
+        "investing:https://tr.investing.com/news/stock-market-news/aevex-hissesi-bugun-neden-dusuyor-93CH-4052734",
         "investing:https://tr.investing.com/news/analyst-ratings/stifel-definium-therapeutics-icin-al-tavsiyesini-yineledi-hedef-60-dolar-93CH-4052703",
         "investing:https://tr.investing.com/news/company-news/vertex-pharmaceuticals-hissesi-55584-dolarla-rekor-krd-93CH-4052699",
         "investing:https://tr.investing.com/news/company-news/johnson--johnson-hissesi-2765-dolarda-rekor-krd-93CH-4052694",
@@ -455,8 +472,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:89df425c3d9e8:0",
+      "last_seen_key": "tradingview:matriks:6713629:0",
       "seen_keys": [
+        "tradingview:matriks:6713629:0",
+        "tradingview:fxstreet:ac9874f95d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44U0Y3:0",
+        "tradingview:fxstreet:cabe6ddc6d9e8:0",
+        "tradingview:matriks:6713536:0",
+        "tradingview:fxstreet:2406fef2dd9e8:0",
         "tradingview:fxstreet:89df425c3d9e8:0",
         "tradingview:matriks:6713504:0",
         "tradingview:fxstreet:5819f96c8d9e8:0",
@@ -493,7 +516,6 @@
         "tradingview:matriks:6713263:0",
         "tradingview:matriks:6713257:0",
         "tradingview:fxstreet:399c72f92d9e8:0",
-        "tradingview:fxstreet:2406fef2dd9e8:0",
         "tradingview:matriks:6713217:0",
         "tradingview:matriks:6713210:0",
         "tradingview:fxstreet:0e37be8b3d9e8:0",
@@ -710,6 +732,111 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hsbc tahvil getirilerindeki volatilitenin hisse senedi piyasalar n olumsuz etkilemesi beklenmiyor rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6713629:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n veri riskleri cta sat slar td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:ac9874f95d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "opec ekim ay petrol uretim politikas n sabit tutmaya haz rlan yor kaynaklar",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44U0Y3:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar kanada merkez bankas n n faiz oranlar n degistirmemesi sonras deger kazand",
+      "link": "https://tr.tradingview.com/news/fxstreet:cabe6ddc6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "piyasalara makro bakis fonturkey kurucusu onur duygu spk duzenlemesi sonras bist30 tahvillere ilgi artabilir",
+      "link": "https://tr.tradingview.com/news/matriks:6713536:0"
+    },
+    {
+      "source": "investing",
+      "text": "stonex anthropic halka arz potansiyeli zoom hissesi tavsiyesini tekrarlad",
+      "link": "https://tr.investing.com/news/analyst-ratings/stonex-anthropic-halka-arz-potansiyeli-ile-zoom-hissesi-icin-tavsiyesini-tekrarlad-93CH-4052838"
+    },
+    {
+      "source": "investing",
+      "text": "truist national health investors hisse hedefini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-national-health-investors-icin-hisse-hedefini-dusurdu-93CH-4052839"
+    },
+    {
+      "source": "investing",
+      "text": "truist florida anlasmas sonras pacs group hissesi al tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-florida-anlasmas-sonras-pacs-group-hissesi-icin-al-tavsiyesini-yineledi-93CH-4052836"
+    },
+    {
+      "source": "investing",
+      "text": "draftkings hissesi mahkeme karar sonras stonex te al tutuldu",
+      "link": "https://tr.investing.com/news/analyst-ratings/draftkings-hissesi-mahkeme-karar-sonras-stonexte-alda-tutuldu-93CH-4052837"
+    },
+    {
+      "source": "investing",
+      "text": "truist dell hisse hedef fiyat n yapay zeka sunucu siparisleriyle 505 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-dell-hisse-hedef-fiyatn-yapay-zeka-sunucu-siparisleriyle-505-dolara-yukseltti-93CH-4052835"
+    },
+    {
+      "source": "investing",
+      "text": "stonex minimed group hisse hedefini 27 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/stonex-minimed-group-icin-hisse-hedefini-27-dolara-yukseltti-93CH-4052834"
+    },
+    {
+      "source": "investing",
+      "text": "truist brazos midland anlasmas sonras oneok hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-brazos-midland-anlasmas-sonras-oneok-hisse-hedefini-yukseltti-93CH-4052833"
+    },
+    {
+      "source": "investing",
+      "text": "stonex palo alto networks hissesi 400 dolarl k al m tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/stonex-palo-alto-networks-hissesi-icin-400-dolarlk-alm-tavsiyesini-yineledi-93CH-4052832"
+    },
+    {
+      "source": "investing",
+      "text": "truist brown brown hissesi al m tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-brown--brown-hissesi-icin-alm-tavsiyesini-korudu-93CH-4052831"
+    },
+    {
+      "source": "investing",
+      "text": "american eagle hisseleri kazanc raporuyla 13 hareket edebilir",
+      "link": "https://tr.investing.com/news/stock-market-news/american-eagle-hisseleri-kazanc-raporuyla-13-hareket-edebilir-93CH-4052830"
+    },
+    {
+      "source": "bloomberght",
+      "text": "yendeki yukselis mudahale beklentisini tetikledi japon yeni abd dolar kars s nda sert bicimde deger kazand art s yetkililerin doviz piyasas na yeniden mudahale edebilecegi ihtimaline kars yat r mc lar teyakkuza gecirdi",
+      "link": "https://www.bloomberght.com/yendeki-yukselis-mudahale-beklentisini-tetikledi-3787141"
+    },
+    {
+      "source": "kap",
+      "text": "akbnk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren xs3087215581 isin kodlu tahvilin itfas sirket akbank t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657384"
+    },
+    {
+      "source": "kap",
+      "text": "fzlgy pay baz nda devre kesici bildirimi fzlgy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657383"
+    },
+    {
+      "source": "kap",
+      "text": "ozsub pay baz nda devre kesici bildirimi ozsub e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657379"
+    },
+    {
+      "source": "kap",
+      "text": "ofsym paylar n geri al nmas na iliskin bildirim 02 09 2026 tarihli pay geri al m islemleri sirket ofis yem gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657377"
+    },
+    {
+      "source": "kap",
+      "text": "esen pay baz nda devre kesici bildirimi esen e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657340"
+    },
     {
       "source": "ntvpara",
       "text": "hollanda dan k talar aras 86 tonluk alt n tas ma operasyonu hollandal lar abd kanada dan ingiltere ye 86 ton alt n sevkiyat gerceklestirdi",
