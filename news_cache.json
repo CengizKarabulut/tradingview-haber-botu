@@ -230,18 +230,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/dorian-lpg-hissesi-5211-dolarla-rekor-krd-93CH-4052980",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/harmony-biosciences-hissesi-4270-dolarla-zirve-yapt-93CH-4052990",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/harmony-biosciences-hissesi-4270-dolarla-zirve-yapt-93CH-4052990",
+        "investing:https://tr.investing.com/news/commodities-news/karadeniz-endiseleri-euronext-bugdayn-rekor-seviyeye-tasd-93CH-4052989",
+        "investing:https://tr.investing.com/news/company-news/lemonade-missouride-tesla-indirimi-ile-otomobil-sigortas-baslatt-93CH-4052988",
+        "investing:https://tr.investing.com/news/company-news/iqvia-hissesi-26529-dolarda-52-haftalk-zirve-yapt-93CH-4052987",
+        "investing:https://tr.investing.com/news/stock-market-news/tfg-cevrimici-satslar-artarken-uc-ylda-180-magaza-kapatacak-93CH-4052986",
+        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-sprinklr-hissesi-icin-hedef-fiyat-yukseltti-93CH-4052982",
         "investing:https://tr.investing.com/news/company-news/dorian-lpg-hissesi-5211-dolarla-rekor-krd-93CH-4052980",
         "investing:https://tr.investing.com/news/company-news/scorpio-goldda-hatal-islem-durdurma-alm-satm-yeniden-baslad-93CH-4052979",
         "investing:https://tr.investing.com/news/company-news/star-bulk-carriers-hissesi-3182-dolarla-zirve-yapt-93CH-4052978",
         "investing:https://tr.investing.com/news/stock-market-news/bp-brezilya-ve-amerika-korfezi-varlklarn-shelle-satyor-93CH-4052976",
-        "investing:https://tr.investing.com/news/stock-market-news/sentinelone-hissesi-neden-dusuyor-93CH-4052974",
-        "investing:https://tr.investing.com/news/stock-market-news/waymo-borc-piyasalarna-aclyor-pimco-ve-blackstone-ile-3-milyar-dolarlk-anlasma-4052972",
-        "investing:https://tr.investing.com/news/transcripts/crowdstrike-falcon-2-gun-yapay-zeka-guvenligi-merkeze-alnd-93CH-4052967",
-        "investing:https://tr.investing.com/news/stock-market-news/adalet-bakanlg-amazon-ve-walmart-dahil-buyuk-perakendecilerden-sgr-eti-fiyat-verisi-istedi-4052968",
-        "investing:https://tr.investing.com/news/stock-market-news/raymond-jamesten-en-iyi-bankaclk-hisseleri-93CH-4052964",
-        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landde-369-dolar-degerinde-hisse-ald-93CH-4052962",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -262,6 +262,12 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/stock-market-news/sentinelone-hissesi-neden-dusuyor-93CH-4052974",
+        "investing:https://tr.investing.com/news/stock-market-news/waymo-borc-piyasalarna-aclyor-pimco-ve-blackstone-ile-3-milyar-dolarlk-anlasma-4052972",
+        "investing:https://tr.investing.com/news/transcripts/crowdstrike-falcon-2-gun-yapay-zeka-guvenligi-merkeze-alnd-93CH-4052967",
+        "investing:https://tr.investing.com/news/stock-market-news/adalet-bakanlg-amazon-ve-walmart-dahil-buyuk-perakendecilerden-sgr-eti-fiyat-verisi-istedi-4052968",
+        "investing:https://tr.investing.com/news/stock-market-news/raymond-jamesten-en-iyi-bankaclk-hisseleri-93CH-4052964",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landde-369-dolar-degerinde-hisse-ald-93CH-4052962",
         "investing:https://tr.investing.com/news/stock-market-news/abdnin-buyuk-bankalar-artan-gsib-tamponlar-ile-kars-karsya-4052963",
         "investing:https://tr.investing.com/news/commodities-news/kuzeybat-avrupa-benzin-marjlar-2022-zirvelerine-yaklast-93CH-4052959",
         "investing:https://tr.investing.com/news/stock-market-news/moodys-pgnin-gorunumunu-nakit-aks-nedeniyle-pozitife-yukseltti-93CH-4052958",
@@ -613,6 +619,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "harmony biosciences hissesi 42 70 dolarla zirve yapt",
+      "link": "https://tr.investing.com/news/company-news/harmony-biosciences-hissesi-4270-dolarla-zirve-yapt-93CH-4052990"
+    },
+    {
+      "source": "investing",
+      "text": "karadeniz endiseleri euronext bugday n rekor seviyeye tas d",
+      "link": "https://tr.investing.com/news/commodities-news/karadeniz-endiseleri-euronext-bugdayn-rekor-seviyeye-tasd-93CH-4052989"
+    },
+    {
+      "source": "investing",
+      "text": "lemonade missouri tesla indirimi otomobil sigortas baslatt",
+      "link": "https://tr.investing.com/news/company-news/lemonade-missouride-tesla-indirimi-ile-otomobil-sigortas-baslatt-93CH-4052988"
+    },
+    {
+      "source": "investing",
+      "text": "iqvia hissesi 265 29 dolarda 52 haftal k zirve yapt",
+      "link": "https://tr.investing.com/news/company-news/iqvia-hissesi-26529-dolarda-52-haftalk-zirve-yapt-93CH-4052987"
+    },
+    {
+      "source": "investing",
+      "text": "tfg cevrimici sat slar artarken uc y lda 180 magaza kapatacak",
+      "link": "https://tr.investing.com/news/stock-market-news/tfg-cevrimici-satslar-artarken-uc-ylda-180-magaza-kapatacak-93CH-4052986"
+    },
+    {
+      "source": "investing",
+      "text": "cantor fitzgerald sprinklr hissesi hedef fiyat yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-sprinklr-hissesi-icin-hedef-fiyat-yukseltti-93CH-4052982"
+    },
     {
       "source": "tradingview",
       "text": "abd baskan trump iran kampanyas n n uzun surmeyecegini soyledi daha fazla sald r konusunda uyard",
