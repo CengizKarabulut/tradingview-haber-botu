@@ -472,8 +472,14 @@
       ]
     },
     "tradingview": {
+<<<<<<< Updated upstream
       "last_seen_key": "tradingview:matriks:6713629:0",
       "seen_keys": [
+=======
+      "last_seen_key": "tradingview:matriks:6713643:0",
+      "seen_keys": [
+        "tradingview:matriks:6713643:0",
+>>>>>>> Stashed changes
         "tradingview:matriks:6713629:0",
         "tradingview:fxstreet:ac9874f95d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44U0Y3:0",
@@ -734,6 +740,14 @@
   "fingerprints": [
     {
       "source": "tradingview",
+<<<<<<< Updated upstream
+=======
+      "text": "matriks youtube neslihan koroglu arast rma 360 n konugu baki at lal oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6713643:0"
+    },
+    {
+      "source": "tradingview",
+>>>>>>> Stashed changes
       "text": "hsbc tahvil getirilerindeki volatilitenin hisse senedi piyasalar n olumsuz etkilemesi beklenmiyor rapor",
       "link": "https://tr.tradingview.com/news/matriks:6713629:0"
     },
