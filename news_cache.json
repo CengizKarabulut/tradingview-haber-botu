@@ -180,8 +180,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/american-healthcare-reit-evp-foster-110780-dolarlk-hisse-satt-93CH-4051598",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/softbank-group-hisseleri-neden-dusuyor-93CH-4051603",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/softbank-group-hisseleri-neden-dusuyor-93CH-4051603",
+        "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-eylulde-nintendo-direct-bekliyor-4051604",
         "investing:https://tr.investing.com/news/insider-trading-news/american-healthcare-reit-evp-foster-110780-dolarlk-hisse-satt-93CH-4051598",
         "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-petrol-ve-tahvil-getirileriyle-dustu-4051599",
         "investing:https://tr.investing.com/news/insider-trading-news/lumentum-baskan-yuen-137-milyon-dolarlk-hisse-satt-93CH-4051596",
@@ -190,8 +192,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-ceosu-michael-myers-99991-dolar-degerinde-ads-satn-ald-93CH-4051593",
         "investing:https://tr.investing.com/news/insider-trading-news/aviat-networks-hukuk-baskan-yardmcs-26526-dolarlk-hisse-satt-93CH-4051592",
         "investing:https://tr.investing.com/news/insider-trading-news/aviat-networks-ceosu-pete-smith-280900-dolar-degerinde-hisse-satt-93CH-4051591",
-        "investing:https://tr.investing.com/news/company-news/simply-solventless-2c-mali-tablolarn-sundu-mcto-iptali-bekleniyor-93CH-4051590",
-        "investing:https://tr.investing.com/news/stock-market-news/sumitomo-metal-mining-hissesi-bugun-neden-dusuyor-93CH-4051589",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -212,6 +212,8 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/company-news/simply-solventless-2c-mali-tablolarn-sundu-mcto-iptali-bekleniyor-93CH-4051590",
+        "investing:https://tr.investing.com/news/stock-market-news/sumitomo-metal-mining-hissesi-bugun-neden-dusuyor-93CH-4051589",
         "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-cfosu-lawlor-49990-dolar-degerinde-hisse-ald-93CH-4051588",
         "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-yoneticisi-culverwell-29992-dolar-degerinde-ads-ald-93CH-4051587",
         "investing:https://tr.investing.com/news/stock-market-news/kyowa-kirin-hissesi-bugun-neden-dusuyor-93CH-4051586",
@@ -451,8 +453,36 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f4d4be2dfd9e8:0",
+      "last_seen_key": "tradingview:matriks:6711469:0",
       "seen_keys": [
+        "tradingview:matriks:6711469:0",
+        "tradingview:matriks:6711472:0",
+        "tradingview:matriks:6711470:0",
+        "tradingview:matriks:6711471:0",
+        "tradingview:matriks:6711465:0",
+        "tradingview:matriks:6711466:0",
+        "tradingview:matriks:6711464:0",
+        "tradingview:matriks:6711460:0",
+        "tradingview:matriks:6711445:0",
+        "tradingview:matriks:6711448:0",
+        "tradingview:matriks:6711462:0",
+        "tradingview:matriks:6711451:0",
+        "tradingview:matriks:6711450:0",
+        "tradingview:matriks:6711453:0",
+        "tradingview:matriks:6711455:0",
+        "tradingview:matriks:6711456:0",
+        "tradingview:matriks:6711454:0",
+        "tradingview:matriks:6711459:0",
+        "tradingview:matriks:6711447:0",
+        "tradingview:matriks:6711461:0",
+        "tradingview:matriks:6711463:0",
+        "tradingview:matriks:6711444:0",
+        "tradingview:matriks:6711442:0",
+        "tradingview:matriks:6711443:0",
+        "tradingview:matriks:6711438:0",
+        "tradingview:matriks:6711439:0",
+        "tradingview:matriks:6711435:0",
+        "tradingview:fxstreet:2c4c59248d9e8:0",
         "tradingview:fxstreet:f4d4be2dfd9e8:0",
         "tradingview:fxstreet:f824258d2d9e8:0",
         "tradingview:fxstreet:f43ded6c2d9e8:0",
@@ -623,6 +653,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "a1 yenilenebilir enerji genel muduru sertan karg n gorevinden istifa etti",
+      "link": "https://tr.tradingview.com/news/matriks:6711469:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "koc holding tupras taki dogrudan sahip oldugu a grubu paylar n bolumunu merrill lynch international a satma karar ald islem in kapan s n takiben tupras n halka ac kl k oran ise 49 7 ye yukselecek",
+      "link": "https://tr.tradingview.com/news/matriks:6711472:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vbts kapsam nda dstkf e pekgy e paylar seans bas ndan 1 ekim seans sonuna kadar ac ga sat sa kredili islemlere konu edilemeyecek",
+      "link": "https://tr.tradingview.com/news/matriks:6711470:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ozata denizcilik asfat aras nda 1 adet yuzer havuzun tamir bak m onar m kapsam nda sozlesme imzaland",
+      "link": "https://tr.tradingview.com/news/matriks:6711471:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borclanma senetleri kira sertifikalar n n tip vadeler itibariyla gosterge niteligindeki gunluk degerleri",
+      "link": "https://tr.tradingview.com/news/matriks:6711465:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "para piyasalar nakit ak s tablosu",
+      "link": "https://tr.tradingview.com/news/matriks:6711466:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turib gunluk bulteni",
+      "link": "https://tr.tradingview.com/news/matriks:6711464:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankalar serbest mevduat gun bas toplam likidite",
+      "link": "https://tr.tradingview.com/news/matriks:6711460:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borsa istanbul borclanma araclar piyasas para piyasas swap piyasas tatil gunleri tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711445:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist sirketlerinin 2026 y l finansal raporlar n n kap ta ilan tarihleri",
+      "link": "https://tr.tradingview.com/news/matriks:6711448:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist islem goren sirketlerin genel kurul tarihleri tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711462:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine finansman program tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711451:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine ic borc odemeleri tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711450:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine maliye bakanl g n n uluslararas sermaye piyasalar nda gerceklestirdigi tahvil sukuk ihraclar tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711453:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "merkezi yonetim d s borc odeme projeksiyonlar 12 ayl k tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711455:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "merkezi yonetim d s borc odeme projeksiyonlar 2026 2029",
+      "link": "https://tr.tradingview.com/news/matriks:6711456:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "merkezi yonetim ic borc odeme projeksiyonlar 12 ayl k tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711454:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb ag rl kl ortalama fonlama maliyeti tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711459:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb hafta vadeli repo ihale faiz oranlar degisimi tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711447:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb net fonlamas verileri",
+      "link": "https://tr.tradingview.com/news/matriks:6711461:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiyenin ekonomik gostergeleri",
+      "link": "https://tr.tradingview.com/news/matriks:6711463:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borsa istanbul k ymetli madenler k ymetli taslar piyasas tatil gunleri tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711444:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borsa istanbul pay piyasas tatil gunleri tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711442:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borsa istanbul vadeli islem opsiyon piyasas tatil gunleri tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6711443:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global siyasi ekonomik takvim",
+      "link": "https://tr.tradingview.com/news/matriks:6711438:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiye ac klanacak veriler eylul kas m",
+      "link": "https://tr.tradingview.com/news/matriks:6711439:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd bugun bilanco ac klayacak sirketler",
+      "link": "https://tr.tradingview.com/news/matriks:6711435:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini abd iran geriliminin artmas yla 1 3500 seviyesi yak nlar na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:2c4c59248d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "softbank group hisseleri neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/softbank-group-hisseleri-neden-dusuyor-93CH-4051603"
+    },
+    {
+      "source": "investing",
+      "text": "morgan stanley eylul nintendo direct bekliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/morgan-stanley-eylulde-nintendo-direct-bekliyor-4051604"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar endeksi hazine getirileri cok y ll k zirvelere ulas rken 99 50 nin uzerinde kazanclar n koruyor",
