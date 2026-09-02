@@ -2,8 +2,17 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657271",
+      "last_seen_key": "kap:1657291",
       "seen_keys": [
+        "kap:1657291",
+        "kap:1657289",
+        "kap:1657282",
+        "kap:1657280",
+        "kap:1657279",
+        "kap:1657275",
+        "kap:1657274",
+        "kap:1657273",
+        "kap:1657272",
         "kap:1657271",
         "kap:1657270",
         "kap:1657269",
@@ -81,12 +90,12 @@
         "kap:1657078",
         "kap:1657077",
         "kap:1657076",
-        "kap:1657073",
         "kap:1657071",
         "kap:1657070",
         "kap:1657061",
         "kap:1657060",
         "kap:1657059",
+        "kap:1657073",
         "kap:1657058",
         "kap:1657057",
         "kap:1657056",
@@ -139,8 +148,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/chevron-dan-venezuela-ya-7-milyar-dolar-yatirim-3787127",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/new-york-fed-baskani-ndan-iyimser-enflasyon-yorumu-3787128",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/new-york-fed-baskani-ndan-iyimser-enflasyon-yorumu-3787128",
         "bloomberght:https://www.bloomberght.com/chevron-dan-venezuela-ya-7-milyar-dolar-yatirim-3787127",
         "bloomberght:https://www.bloomberght.com/hollanda-altinlarini-abd-den-londra-ya-tasiyor-3787125",
         "bloomberght:https://www.bloomberght.com/abd-de-ocak-ayindan-beri-en-dusuk-ozel-sektor-istihdami-3787124",
@@ -407,11 +417,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6713325:0",
+      "last_seen_key": "tradingview:matriks:6713384:0",
       "seen_keys": [
+        "tradingview:matriks:6713384:0",
+        "tradingview:matriks:6713382:0",
+        "tradingview:matriks:6713371:0",
+        "tradingview:matriks:6713363:0",
+        "tradingview:cointelegraph:c5273678cd9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44U0VH:0",
+        "tradingview:fxstreet:c3b7ba337d9e8:0",
         "tradingview:matriks:6713325:0",
         "tradingview:fxstreet:9ca96c979d9e8:0",
         "tradingview:fxstreet:c4f7dfd38d9e8:0",
+        "tradingview:cointelegraph:31e77e3b1d9e8:0",
         "tradingview:fxstreet:6a66d1586d9e8:0",
         "tradingview:matriks:6713281:0",
         "tradingview:fxstreet:817dcb3bad9e8:0",
@@ -424,6 +442,7 @@
         "tradingview:matriks:6713217:0",
         "tradingview:matriks:6713210:0",
         "tradingview:fxstreet:0e37be8b3d9e8:0",
+        "tradingview:beincrypto:c69c9270ed9e8:0",
         "tradingview:matriks:6713204:0",
         "tradingview:matriks:6713203:0",
         "tradingview:matriks:6713196:0",
@@ -637,6 +656,91 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yukselen tahvil faizleri avrupa sirketlerini zorluyor scope ratings",
+      "link": "https://tr.tradingview.com/news/matriks:6713384:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "lpg fiyatlar na zam geldi",
+      "link": "https://tr.tradingview.com/news/matriks:6713382:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "new york borsas kar s k seyirle ac ld",
+      "link": "https://tr.tradingview.com/news/matriks:6713371:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rosatom iran a kucuk nukleer santraller anlasma taslag sundu",
+      "link": "https://tr.tradingview.com/news/matriks:6713363:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "btc 2030 a kadar 1 milyon dolara ulasacak ama arthur hayes bunun yerine eth al yor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:c5273678cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "s p 500 dow suregelen iran gerilimine ragmen yapay zeka baglant l hisselerin yukselisiyle hafif art ac lmaya haz rlan yor",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44U0VH:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar fed faiz art r m riski getiriler yeniden odakta mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:c3b7ba337d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "new york fed baskan ndan iyimser enflasyon yorumu new york fed baskan john williams gumruk vergilerinin etkisinin zay flamas yuksek enerji fiyatlar n n diger hizmet sektorlerine yay lmamas sayesinde abd enflasyonun yavaslamaya devam ettigini belirtti",
+      "link": "https://www.bloomberght.com/new-york-fed-baskani-ndan-iyimser-enflasyon-yorumu-3787128"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank para piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657291"
+    },
+    {
+      "source": "kap",
+      "text": "tamfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trftamf92619 isin kodlu finansman bonosunun 4 kupon oran n n belirlenmesi sirket tam finans faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657289"
+    },
+    {
+      "source": "kap",
+      "text": "vkfyo ozel durum ac klamas genel sirketimizin bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sebebiyle yap lan ac klamad r sirket vakif menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657282"
+    },
+    {
+      "source": "kap",
+      "text": "idgyo pay baz nda devre kesici bildirimi idgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657280"
+    },
+    {
+      "source": "kap",
+      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren tmks fair finansman ikinci varl k finansman fonu vdmk itfas sirket birlesik ipotek finansmani a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657279"
+    },
+    {
+      "source": "kap",
+      "text": "nibas pay baz nda devre kesici bildirimi nibas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657275"
+    },
+    {
+      "source": "kap",
+      "text": "enjsa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsensa32710 isin kodlu tahvilin 6 kupon faiz odemesi sirket enerjisa enerji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657274"
+    },
+    {
+      "source": "kap",
+      "text": "goody kay tl sermaye tavan islemlerine iliskin bildirim kay tl sermaye tavan n n art r lmas gecerlilik suresinin uzat lmas na iliskin spk onay sirket goodyear lastikleri t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657273"
+    },
+    {
+      "source": "kap",
+      "text": "bls blsmd ihrac tavan na iliskin bildirim ihrac tavan al nmas na iliskin yonetim kurulu karar sirket bulls yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657272"
+    },
     {
       "source": "tradingview",
       "text": "tahvil getirileri tarife riskleri k skac nda nasdaq100 trive yat r m menkul degerler",
