@@ -180,8 +180,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/softbank-group-hisseleri-neden-dusuyor-93CH-4051603",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/lenovo-hisseleri-dropbox-saldrs-sonras-dustu-4051605",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/lenovo-hisseleri-dropbox-saldrs-sonras-dustu-4051605",
         "investing:https://tr.investing.com/news/stock-market-news/softbank-group-hisseleri-neden-dusuyor-93CH-4051603",
         "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-eylulde-nintendo-direct-bekliyor-4051604",
         "investing:https://tr.investing.com/news/insider-trading-news/american-healthcare-reit-evp-foster-110780-dolarlk-hisse-satt-93CH-4051598",
@@ -191,7 +192,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-coo-denise-carter-99991-dolarlk-ads-satn-ald-93CH-4051594",
         "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-ceosu-michael-myers-99991-dolar-degerinde-ads-satn-ald-93CH-4051593",
         "investing:https://tr.investing.com/news/insider-trading-news/aviat-networks-hukuk-baskan-yardmcs-26526-dolarlk-hisse-satt-93CH-4051592",
-        "investing:https://tr.investing.com/news/insider-trading-news/aviat-networks-ceosu-pete-smith-280900-dolar-degerinde-hisse-satt-93CH-4051591",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -212,6 +212,7 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/insider-trading-news/aviat-networks-ceosu-pete-smith-280900-dolar-degerinde-hisse-satt-93CH-4051591",
         "investing:https://tr.investing.com/news/company-news/simply-solventless-2c-mali-tablolarn-sundu-mcto-iptali-bekleniyor-93CH-4051590",
         "investing:https://tr.investing.com/news/stock-market-news/sumitomo-metal-mining-hissesi-bugun-neden-dusuyor-93CH-4051589",
         "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-cfosu-lawlor-49990-dolar-degerinde-hisse-ald-93CH-4051588",
@@ -453,8 +454,20 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6711469:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44U06T:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44U06T:0",
+        "tradingview:fxstreet:f245eacc8d9e8:0",
+        "tradingview:matriks:6711484:0",
+        "tradingview:matriks:6711483:0",
+        "tradingview:matriks:6711482:0",
+        "tradingview:matriks:6711480:0",
+        "tradingview:matriks:6711481:0",
+        "tradingview:matriks:6711479:0",
+        "tradingview:matriks:6711475:0",
+        "tradingview:matriks:6711473:0",
+        "tradingview:matriks:6711476:0",
+        "tradingview:matriks:6711474:0",
         "tradingview:matriks:6711469:0",
         "tradingview:matriks:6711472:0",
         "tradingview:matriks:6711470:0",
@@ -653,6 +666,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "resmi gazete bugun 2 eylul 2026",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44U06T:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n fed faiz art r m beklentileri iran riskleri aras nda guclenen usd nin etkisiyle 4 300 dolar n alt na dort haftan n en dusuk seviyesine geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:f245eacc8d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya 1 ceyrek reel gsyh md y ll k 2 1 beklenti 1 8 onceki 2 5",
+      "link": "https://tr.tradingview.com/news/matriks:6711484:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya 1 ceyrek reel gsyh md ceyreklik 0 4 beklenti 0 3 onceki 0 3",
+      "link": "https://tr.tradingview.com/news/matriks:6711483:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya agustos ay parasal taban y ll k 15 73 onceki 13 87",
+      "link": "https://tr.tradingview.com/news/matriks:6711482:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd haftal k benzin stoklar 0 35 milyon varil api",
+      "link": "https://tr.tradingview.com/news/matriks:6711480:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd haftal k dam t lm s urun stoklar 0 27 milyon varil api",
+      "link": "https://tr.tradingview.com/news/matriks:6711481:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd haftal k ham petrol stoklar 2 milyon varil onceki 4 20 milyon varil api",
+      "link": "https://tr.tradingview.com/news/matriks:6711479:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alves kablo fon kullan c s oldugu kira sertifikas na iliskin anapara donemsel getiri odemeleri odeme yukumluluklerinin gerceklestirilemedigini bildirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6711475:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ebebek in turkiye deki magaza say s agustos ay nda degismedi",
+      "link": "https://tr.tradingview.com/news/matriks:6711473:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "empa elektronik tedarik sureclerini guclendirmek abd sirket kurdu",
+      "link": "https://tr.tradingview.com/news/matriks:6711476:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sasa agustos ay nda 2025 y l n n ayn donemine gore ciroda 30 2 art s kaydedildigini bildirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6711474:0"
+    },
+    {
+      "source": "investing",
+      "text": "lenovo hisseleri dropbox sald r s sonras dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/lenovo-hisseleri-dropbox-saldrs-sonras-dustu-4051605"
+    },
     {
       "source": "tradingview",
       "text": "a1 yenilenebilir enerji genel muduru sertan karg n gorevinden istifa etti",
