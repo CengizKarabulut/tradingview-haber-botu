@@ -432,11 +432,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:ff6fbba92d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:f43ded6c2d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:f43ded6c2d9e8:0",
+        "tradingview:fxstreet:f4d4be2dfd9e8:0",
         "tradingview:fxstreet:ff6fbba92d9e8:0",
         "tradingview:fxstreet:eb6589ef3d9e8:0",
-        "tradingview:fxstreet:f4d4be2dfd9e8:0",
         "tradingview:matriks:6711386:0",
         "tradingview:matriks:6711385:0",
         "tradingview:fxstreet:df2e1055ad9e8:0",
@@ -602,6 +603,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd enflasyon endiseleri artarken 64 00 n alt na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:f43ded6c2d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar avustralya gsyh si rbnz sonras yeni zelanda dolar kars s nda 8 temmuz zirvesine yukseldi",
