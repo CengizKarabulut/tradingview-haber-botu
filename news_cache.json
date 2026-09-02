@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657702",
+      "last_seen_key": "kap:1657705",
       "seen_keys": [
+        "kap:1657705",
+        "kap:1657704",
+        "kap:1657703",
         "kap:1657702",
         "kap:1657701",
         "kap:1657700",
@@ -305,6 +308,8 @@
       "last_seen_key": "tradingview:fxstreet:15ae7c27ad9e8:0",
       "seen_keys": [
         "tradingview:fxstreet:15ae7c27ad9e8:0",
+        "tradingview:beincrypto:ed5a4ce1ad9e8:0",
+        "tradingview:beincrypto:5efa1d9c0d9e8:0",
         "tradingview:fxstreet:3478305edd9e8:0",
         "tradingview:fxstreet:a3c697aefd9e8:0",
         "tradingview:beincrypto:875203db5d9e8:0",
@@ -409,6 +414,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "dunyh kay tl sermaye tavan islemlerine iliskin bildirim kay tl sermaye tavan art r m sure uzat m na iliskin genel kurul onay n n tescili hk sirket dunya holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657705"
+    },
+    {
+      "source": "kap",
+      "text": "tspor sozlesme imzalanmas franculino gludo dju sozlesme imzalanmas hakk nda sirket trabzonspor sportif yatirim futbol isletmeciligi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657704"
+    },
+    {
+      "source": "kap",
+      "text": "tspor transfer gorusmelerinin sonuclanmas veya sona ermesi franculino gludo dju transferi hakk nda sirket trabzonspor sportif yatirim futbol isletmeciligi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657703"
+    },
     {
       "source": "tradingview",
       "text": "usd chf fiyat analizi rsi yukselise gecerken bogalar 0 8200 seviyesini hedefliyor",
