@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657225",
+      "last_seen_key": "kap:1657228",
       "seen_keys": [
+        "kap:1657228",
+        "kap:1657227",
+        "kap:1657226",
         "kap:1657225",
         "kap:1657223",
         "kap:1657221",
@@ -116,10 +119,12 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/otomotivdeki-kredi-sikisikligi-ticari-arac-satislarina-yansidi-3787117",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/jpmorgan-dan-borsa-yatirimcilarina-uyari-3787120",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/jpmorgan-dan-borsa-yatirimcilarina-uyari-3787120",
+        "bloomberght:https://www.bloomberght.com/uber-3-bin-300-kisiyi-isten-cikaracak-3787119",
         "bloomberght:https://www.bloomberght.com/otomotivdeki-kredi-sikisikligi-ticari-arac-satislarina-yansidi-3787117",
-        "bloomberght:https://www.bloomberght.com/yilmaz-dan-ovp-toplantisi-3787114",
+        "bloomberght:https://www.bloomberght.com/yilmaz-dan-ovp-hazirliklari-toplantisi-3787114",
         "bloomberght:https://www.bloomberght.com/erdogan-putinle-gundemimizdeki-her-konuyu-ele-aldik-3787108",
         "bloomberght:https://www.bloomberght.com/nane-bulundugumuz-noktada-turkiye-onemli-bir-gecis-noktasi-3787098",
         "bloomberght:https://www.bloomberght.com/abd-de-motorin-fiyati-yeniden-kritik-seviyeye-cikti-3787092",
@@ -164,6 +169,7 @@
         "bloomberght:https://www.bloomberght.com/bbvada-garanti-kredileri-icin-risk-transferi-hazirligi-3787010",
         "bloomberght:https://www.bloomberght.com/fed-yetkilisi-barr-enflasyon-dusmezse-faizlerin-artirilmasi-gerekecek-3787008",
         "bloomberght:https://www.bloomberght.com/erdogan-tum-dunyada-baris-icin-calismaya-devam-ediyoruz-3787006",
+        "bloomberght:https://www.bloomberght.com/yilmaz-dan-ovp-toplantisi-3787114",
         "bloomberght:https://www.bloomberght.com/okula-donusun-buyuyen-maliyet-haritasi-3787003",
         "bloomberght:https://www.bloomberght.com/zeytinyaginda-ureticiye-litre-basina-en-az-50-lira-destek-verilmeli-3787002",
         "bloomberght:https://www.bloomberght.com/youtube-ile-amazon-arasinda-e-ticaret-ortakligi-3787001",
@@ -339,8 +345,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6713040:0",
+      "last_seen_key": "tradingview:matriks:6713087:0",
       "seen_keys": [
+        "tradingview:matriks:6713087:0",
+        "tradingview:fxstreet:7d32af352d9e8:0",
+        "tradingview:matriks:6713077:0",
+        "tradingview:matriks:6713076:0",
+        "tradingview:matriks:6713065:0",
+        "tradingview:matriks:6713061:0",
+        "tradingview:matriks:6713060:0",
+        "tradingview:matriks:6713058:0",
+        "tradingview:cointelegraph:57fb05181d9e8:0",
+        "tradingview:matriks:6713053:0",
+        "tradingview:fxstreet:f439ac8ffd9e8:0",
         "tradingview:matriks:6713040:0",
         "tradingview:matriks:6713039:0",
         "tradingview:fxstreet:1d24efa1ad9e8:0",
@@ -352,6 +369,7 @@
         "tradingview:matriks:6713018:0",
         "tradingview:fxstreet:a66bd8b4fd9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44U0RJ:0",
+        "tradingview:beincrypto:680c7b160d9e8:0",
         "tradingview:matriks:6713000:0",
         "tradingview:matriks:6712988:0",
         "tradingview:matriks:6712972:0",
@@ -364,6 +382,7 @@
         "tradingview:matriks:6712947:0",
         "tradingview:matriks:6712939:0",
         "tradingview:fxstreet:ff08557cbd9e8:0",
+        "tradingview:beincrypto:f6e73b9ccd9e8:0",
         "tradingview:fxstreet:f4daacd48d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44U10W:0",
         "tradingview:fxstreet:2406fef2dd9e8:0",
@@ -495,6 +514,86 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "sektor raporu otomotiv halk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6713087:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "federal rezerv secim y l faiz art r mlar uzun vadeli faiz oranlar riskleri td securities",
+      "link": "https://tr.tradingview.com/news/fxstreet:7d32af352d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd adp ozel sektor istihdam verileri ac klanacak",
+      "link": "https://tr.tradingview.com/news/matriks:6713077:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya ekonomi bakan gaz depolama durumu onceki y llara k yasla daha s k s k ancak k s n gaz s k nt s riski bulunmuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6713076:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sisecam otomotiv servis endustrisinin en onemli ticaret fuarlar ndan biri olan automechanika 2026 ya kat lacak",
+      "link": "https://tr.tradingview.com/news/matriks:6713065:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurtd s gunluk bulten aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6713061:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd mega cap hisse radar aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6713060:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiye ekonomi gundemi 3 eylul",
+      "link": "https://tr.tradingview.com/news/matriks:6713058:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya merkezli remixpoint altcoinlerini satt tek kripto yat r m olarak 1 506 btc b rakt",
+      "link": "https://tr.tradingview.com/news/cointelegraph:57fb05181d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd ticaret bakan lutnick beyaz saray yar iletkenlere gumruk vergilerini degerlendiriyor",
+      "link": "https://tr.tradingview.com/news/matriks:6713053:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro nagel eylul faiz art r m yolunu destekliyor bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:f439ac8ffd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "jpmorgan dan borsa yat r mc lar na uyar jpmorgan chase private bank n kuresel yat r m stratejisi baskan grace peters yukselen tahvil getirilerinin eylul ay nda kuresel hisse senedi piyasalar ana risk kaynag olusturdugunu belirtti",
+      "link": "https://www.bloomberght.com/jpmorgan-dan-borsa-yatirimcilarina-uyari-3787120"
+    },
+    {
+      "source": "bloomberght",
+      "text": "uber 3 bin 300 kisiyi isten c karacak uber technologies yeniden yap land rma kapsam nda dunya cap ndaki personelinin yaklas k yuzde 10 unu olusturan 3 bin 300 kisiyi isten c kar yor",
+      "link": "https://www.bloomberght.com/uber-3-bin-300-kisiyi-isten-cikaracak-3787119"
+    },
+    {
+      "source": "kap",
+      "text": "tnztp pay baz nda devre kesici bildirimi tnztp e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657228"
+    },
+    {
+      "source": "kap",
+      "text": "atavk ihrac tavan na iliskin bildirim t o m kat l m bankas a s ihrac na iliskin yonetim kurulu karar al nmas sirket ata varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657227"
+    },
+    {
+      "source": "kap",
+      "text": "alark surdurulebilirlik raporu alarko holding a s nin 2025 gri uyumlu surdurulebilirlik raporu sirket alarko holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657226"
+    },
     {
       "source": "tradingview",
       "text": "abd enerji bakan wright pazartesi gunu hurmuz bogaz ndan 17 milyon varilin uzerinde petrol gecti",
