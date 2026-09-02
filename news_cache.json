@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657221",
+      "last_seen_key": "kap:1657223",
       "seen_keys": [
+        "kap:1657223",
         "kap:1657221",
         "kap:1657216",
         "kap:1657215",
@@ -114,8 +115,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/erdogan-putinle-gundemimizdeki-her-konuyu-ele-aldik-3787108",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/yilmaz-dan-ovp-toplantisi-3787114",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/yilmaz-dan-ovp-toplantisi-3787114",
         "bloomberght:https://www.bloomberght.com/erdogan-putinle-gundemimizdeki-her-konuyu-ele-aldik-3787108",
         "bloomberght:https://www.bloomberght.com/nane-bulundugumuz-noktada-turkiye-onemli-bir-gecis-noktasi-3787098",
         "bloomberght:https://www.bloomberght.com/abd-de-motorin-fiyati-yeniden-kritik-seviyeye-cikti-3787092",
@@ -258,8 +260,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/balikcilar-gemi-demirleme-sahalarinda-da-avcilik-yapabilecek-955660.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/orta-vadeli-program-pazar-gunu-aciklanacak-955675.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/orta-vadeli-program-pazar-gunu-aciklanacak-955675.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/balikcilar-gemi-demirleme-sahalarinda-da-avcilik-yapabilecek-955660.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/otomobil-pazarinin-lideri-togg-oldu-955654.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/yeniden-imar-sureciyle-artan-konut-arzi-kira-fiyatlarini-dusuruyor-955652.html",
@@ -323,11 +326,21 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6712939:0",
+      "last_seen_key": "tradingview:matriks:6712988:0",
       "seen_keys": [
+        "tradingview:matriks:6712988:0",
+        "tradingview:matriks:6712972:0",
+        "tradingview:matriks:6712970:0",
+        "tradingview:matriks:6712967:0",
+        "tradingview:fxstreet:4bb5e59c8d9e8:0",
+        "tradingview:matriks:6712964:0",
+        "tradingview:fxstreet:df1f05a83d9e8:0",
+        "tradingview:matriks:6712950:0",
+        "tradingview:matriks:6712947:0",
         "tradingview:matriks:6712939:0",
         "tradingview:fxstreet:ff08557cbd9e8:0",
         "tradingview:fxstreet:f4daacd48d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44U10W:0",
         "tradingview:fxstreet:2406fef2dd9e8:0",
         "tradingview:fxstreet:71bc0a8c6d9e8:0",
         "tradingview:matriks:6712875:0",
@@ -366,7 +379,6 @@
         "tradingview:matriks:6712542:0",
         "tradingview:fxstreet:61ffb6c09d9e8:0",
         "tradingview:fxstreet:c0055a2aad9e8:0",
-        "tradingview:fxstreet:df1f05a83d9e8:0",
         "tradingview:beincrypto:80d9f2e12d9e8:0",
         "tradingview:fxstreet:141e17ee3d9e8:0",
         "tradingview:matriks:6712511:0",
@@ -457,6 +469,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "rusya alt n rezervlerinde dunya ucuncusu uretiminde ise ikinci s rada yer al yor",
+      "link": "https://tr.tradingview.com/news/matriks:6712988:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nurol kemahl ama esas etkisi onumuzdeki sene bloomberght",
+      "link": "https://tr.tradingview.com/news/matriks:6712972:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nurol kemahl ucuncu dorduncu ceyrekte urla 77 nin gelir tablosuna bilancoya etkisini yavas yavas gormeye baslar z tamam n degil bloomberght",
+      "link": "https://tr.tradingview.com/news/matriks:6712970:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nurol kemahl urla buyukcekmece projeleri gyo nun cirosunu bilancosunu buyuk oranda hareketlendirecek bloomberght",
+      "link": "https://tr.tradingview.com/news/matriks:6712967:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd ticaret bakan lutnick kanada abd ye sayg s zca davrand",
+      "link": "https://tr.tradingview.com/news/fxstreet:4bb5e59c8d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bmd arast rma portfoyu bizim menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6712964:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uber yonetim katmanlar n azaltmak kapsaml firma revizyonunda 3300 kisiyi isten c karacak bloomberg news",
+      "link": "https://tr.tradingview.com/news/matriks:6712950:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tesla nn cin sat slar agustos ay nda gecen y la gore 3 6 artt",
+      "link": "https://tr.tradingview.com/news/matriks:6712947:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "orta vadeli program pazar gunu ac klanacak cumhurbaskan yard mc s cevdet y lmaz kat l mc istisareye dayal anlay sla haz rlad g m z 2027 2029 donemi ovp detaylar n 6 eylul pazar gunu kamuoyuyla paylasmay planl yoruz dedi",
+      "link": "https://www.trthaber.com/haber/ekonomi/orta-vadeli-program-pazar-gunu-aciklanacak-955675.html"
+    },
+    {
+      "source": "bloomberght",
+      "text": "y lmaz dan ovp toplant s cumhurbaskan yard mc s cevdet y lmaz 2027 2029 donemini kapsayan orta vadeli program ovp haz rl klar kapsam nda is dunyas n n cat kuruluslar sivil toplum kuruluslar sanayiciler cumhurbaskanl g kulliyesi nde araya geld",
+      "link": "https://www.bloomberght.com/yilmaz-dan-ovp-toplantisi-3787114"
+    },
+    {
+      "source": "kap",
+      "text": "akbnk ozel durum ac klamas genel ak finansal kiralama a s sermaye art r m sirket akbank t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657223"
+    },
     {
       "source": "tradingview",
       "text": "y lmaz 2027 2029 donemi orta vadeli program m z n detaylar n 6 eylul pazar gunu kamuoyuyla paylasmay planl yoruz",
