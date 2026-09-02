@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657028",
+      "last_seen_key": "kap:1657032",
       "seen_keys": [
+        "kap:1657032",
+        "kap:1657031",
+        "kap:1657030",
+        "kap:1657029",
         "kap:1657028",
         "kap:1657027",
         "kap:1657026",
@@ -149,6 +153,7 @@
         "bloomberght:https://www.bloomberght.com/abdnin-uzun-vadeli-tahvil-faizleri-yeniden-yukseliste-3787059",
         "bloomberght:https://www.bloomberght.com/abd-den-turkiye-ye-artemis-anlasmalari-tebrigi-3787053",
         "bloomberght:https://www.bloomberght.com/bolat-turkiye-dunyanin-7-nci-buyuk-tarimsal-ureticisi-3787052",
+        "bloomberght:https://www.bloomberght.com/dolar-ne-kadar-oldu-2-eylul-2026-dolar-kurunda-son-durum-ne-pkh2-3787071",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-02092026-3787051",
         "bloomberght:https://www.bloomberght.com/iran-abd-saldirilari-hurmuz-un-kilidini-daha-da-sikilastirdi-3787050",
         "bloomberght:https://www.bloomberght.com/abd-den-g20-ye-yapay-zekada-ortak-ilke-cagrisi-3787049",
@@ -441,8 +446,10 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/veri-merkezlerinin-elektrik-tuketimi-5-yilda-yaklasik-4-katina-cikti-955583.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-satis-baskisi-derinlesiyor-955634.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-satis-baskisi-derinlesiyor-955634.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/indirimli-satis-reklamlarina-inceleme-955633.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/veri-merkezlerinin-elektrik-tuketimi-5-yilda-yaklasik-4-katina-cikti-955583.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ombudsmanlar-istanbulda-bulusacak-955581.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/sgk-borclarinda-1833-milyar-lira-taksitlendirildi-955566.html",
@@ -506,8 +513,31 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6711772:0",
+      "last_seen_key": "tradingview:matriks:6711832:0",
       "seen_keys": [
+        "tradingview:matriks:6711832:0",
+        "tradingview:matriks:6711825:0",
+        "tradingview:matriks:6711824:0",
+        "tradingview:matriks:6711823:0",
+        "tradingview:matriks:6711822:0",
+        "tradingview:matriks:6711818:0",
+        "tradingview:matriks:6711816:0",
+        "tradingview:matriks:6711815:0",
+        "tradingview:matriks:6711813:0",
+        "tradingview:matriks:6711812:0",
+        "tradingview:matriks:6711810:0",
+        "tradingview:fxstreet:eaff17ec4d9e8:0",
+        "tradingview:matriks:6711806:0",
+        "tradingview:matriks:6711801:0",
+        "tradingview:matriks:6711800:0",
+        "tradingview:matriks:6711795:0",
+        "tradingview:matriks:6711793:0",
+        "tradingview:matriks:6711792:0",
+        "tradingview:matriks:6711787:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44U0E2:0",
+        "tradingview:matriks:6711784:0",
+        "tradingview:matriks:6711782:0",
+        "tradingview:matriks:6711776:0",
         "tradingview:matriks:6711772:0",
         "tradingview:fxstreet:de53187b0d9e8:0",
         "tradingview:matriks:6711768:0",
@@ -829,6 +859,151 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711832:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk hisse senedi piyasas gorunumu akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711825:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten bulls yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711824:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fransa butce dengesi temmuz 145 92 milyar euro onceki 106 77 milyar",
+      "link": "https://tr.tradingview.com/news/matriks:6711823:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ryanair yuksek yak t maliyetleri nedeniyle k s yolcu kapasitesini azalt yor",
+      "link": "https://tr.tradingview.com/news/matriks:6711822:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711818:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "otogaza persembe gunu zam bekleniyor",
+      "link": "https://tr.tradingview.com/news/matriks:6711816:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711815:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ecb yonetim konseyi uyesi nagel faiz art s sinyali verdi le monde",
+      "link": "https://tr.tradingview.com/news/matriks:6711813:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hazine bulteni alnus yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711812:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten tskb ekonomik arast rmalar",
+      "link": "https://tr.tradingview.com/news/matriks:6711810:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "brent jeopolitik risk crack spreadleri yuksek tutuyor ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:eaff17ec4d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya n n 10 y ll k tahvil getirisi 3 377 nisan 2011 den yana en yuksek seviyeye c kt gunluk art s 3 9 baz puan",
+      "link": "https://tr.tradingview.com/news/matriks:6711806:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hitit bilgisayar cabo verde yurt ici havayolu sirketi cvsky linhas aereas cabo verde isimli havayolu sirketimizin teknoloji cozumleri 2 eylul 2026 itibar yla operasyonlar na baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6711801:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar gunluk bulten burgan yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711800:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711795:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney kore kospi endeksi 3 99 dususle 6562 72 puandan kapand",
+      "link": "https://tr.tradingview.com/news/matriks:6711793:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten bulls yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711792:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711787:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bofa baskan yard mc s times meydan ndaki b cakl sald r hayat n kaybetti",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44U0E2:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya nikkei 225 endeksi 2 85 dususle 64325 64 puandan kapand",
+      "link": "https://tr.tradingview.com/news/matriks:6711784:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "market watch seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711782:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx fikirleri tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711776:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "kuresel piyasalarda sat s bask s derinlesiyor kuresel piyasalarda abd nin iran a yonelik sald r lar n yogunlast rmas nedeniyle yukselen petrol fiyatlar artan tahvil faizlerinin etkileriyle sat s bask s derinlesiyor",
+      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-satis-baskisi-derinlesiyor-955634.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "indirimli sat s reklamlar na inceleme ticaret bakanl g tuketicilerin ekonomik menfaatlerinin korunmas amac yla indirimli sat s reklamlar na yonelik denetimlerini surdururken 1 agustos ta yururluge giren yeni duzenlemeyle indirim oncesi fiyatlar n belirlenmesine iliskin oneml",
+      "link": "https://www.trthaber.com/haber/ekonomi/indirimli-satis-reklamlarina-inceleme-955633.html"
+    },
+    {
+      "source": "kap",
+      "text": "adb adbnk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren sat s n tamamlanmas hakk nda sirket anadolubank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657032"
+    },
+    {
+      "source": "kap",
+      "text": "atakp brc brr bs1 bv2 bvg cp1 cvk cvl dgf dnp fs5 ggi gkh gng gok gop hai hfo hkg hml hp3 hpc iv8 lat lkt nvk oir omd osmen pa2 pbr pkp pkt ptp rel rg4 rk8 rkv tlk vpa ycp yzt zdz ztv kamuyu ayd nlatma platformu duyurusu yat r m fonlar na iliskin rehber in 9 8 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657031"
+    },
+    {
+      "source": "kap",
+      "text": "httbt yeni is iliskisi cvsky n hitit bilgisayar hizmetleri a s nin yaz l m cozumlerini kullanmaya baslamas sirket hitit bilgisayar hizmetleri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657030"
+    },
+    {
+      "source": "kap",
+      "text": "lidfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfldfk32719 isin kodlu bono kupon odemesi sirket lider faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657029"
+    },
     {
       "source": "tradingview",
       "text": "gunluk piyasa ozeti garanti bbva yat r m",
