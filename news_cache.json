@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657660",
+      "last_seen_key": "kap:1657664",
       "seen_keys": [
+        "kap:1657664",
         "kap:1657660",
         "kap:1657659",
         "kap:1657658",
@@ -225,18 +226,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/hp-hissesi-52-haftalk-zirvede-3219-dolara-ulast-93CH-4052937",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/amer-sports-hissesi-2892-dolarda-52-haftalk-dibe-vurdu-93CH-4052953",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/hp-hissesi-52-haftalk-zirvede-3219-dolara-ulast-93CH-4052937",
-        "investing:https://tr.investing.com/news/company-news/regeneron-pharmaceuticals-hissesi-84760-dolarla-zirve-yapt-93CH-4052935",
-        "investing:https://tr.investing.com/news/stock-market-news/goldman-sachs-gec-donem-riskleri-artarken-hisseleri-tercih-ediyor-4052936",
-        "investing:https://tr.investing.com/news/company-news/pattersonuti-energy-hissesi-1308-dolarda-zirve-yapt-93CH-4052932",
-        "investing:https://tr.investing.com/news/insider-trading-news/rgc-resources-kdemli-baskan-yardmcs-199-dolarlk-hisse-ald-93CH-4052931",
-        "investing:https://tr.investing.com/news/insider-trading-news/nwpx-altyap-direktoru-larson-128966-dolar-degerinde-hisse-satt-93CH-4052930",
-        "investing:https://tr.investing.com/news/company-news/wise-2c-ve-i1-fy27-sonuclarnn-tarihlerini-acklad-93CH-4052929",
-        "investing:https://tr.investing.com/news/economy-news/almanya-ve-fransa-guney-afrikaya-300-milyon-euro-taahhut-etti-93CH-4052928",
-        "investing:https://tr.investing.com/news/company-news/wilton-resources-ozel-satsta-565000-dolar-toplad-93CH-4052927",
-        "investing:https://tr.investing.com/news/stock-market-news/google-savunma-yapay-zekasna-girdi-palantir-hisseleri-dustu-4052926",
+        "investing:https://tr.investing.com/news/company-news/amer-sports-hissesi-2892-dolarda-52-haftalk-dibe-vurdu-93CH-4052953",
+        "investing:https://tr.investing.com/news/company-news/stria-lithium-12-milyon-dolarlk-finansman-tamamlad-93CH-4052950",
+        "investing:https://tr.investing.com/news/company-news/marriott-vacations-080-dolar-temettu-acklad-93CH-4052949",
+        "investing:https://tr.investing.com/news/stock-market-news/barrick-miningin-amerikan-altn-isinin-halka-arzn-2027ye-erteledigi-bildiriliyor-4052952",
+        "investing:https://tr.investing.com/news/stock-market-news/tsxte-madencilik-rallisi-degerli-metal-hisseleri-zirvede-4052948",
+        "investing:https://tr.investing.com/news/economy-news/fed-denetcisi-bilgi-paylasmnda-daha-guclu-kontroller-istedi-93CH-4052946",
+        "investing:https://tr.investing.com/news/stock-market-news/palantir-hissesi-bugun-neden-dusuyor-93CH-4052945",
+        "investing:https://tr.investing.com/news/economy-news/hindistan-istatistik-baskan-gsyih-revizyonlarn-savundu-93CH-4052944",
+        "investing:https://tr.investing.com/news/stock-market-news/nyse-siber-guvenlik-acklarn-bulmak-icin-anthropicin-mythosunu-kulland-4052943",
+        "investing:https://tr.investing.com/news/insider-trading-news/deere-yoneticisi-ryan-campbell-316-milyon-dolarlk-hisse-satt-93CH-4052941",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -257,6 +258,16 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/company-news/hp-hissesi-52-haftalk-zirvede-3219-dolara-ulast-93CH-4052937",
+        "investing:https://tr.investing.com/news/company-news/regeneron-pharmaceuticals-hissesi-84760-dolarla-zirve-yapt-93CH-4052935",
+        "investing:https://tr.investing.com/news/stock-market-news/goldman-sachs-gec-donem-riskleri-artarken-hisseleri-tercih-ediyor-4052936",
+        "investing:https://tr.investing.com/news/company-news/pattersonuti-energy-hissesi-1308-dolarda-zirve-yapt-93CH-4052932",
+        "investing:https://tr.investing.com/news/insider-trading-news/rgc-resources-kdemli-baskan-yardmcs-199-dolarlk-hisse-ald-93CH-4052931",
+        "investing:https://tr.investing.com/news/insider-trading-news/nwpx-altyap-direktoru-larson-128966-dolar-degerinde-hisse-satt-93CH-4052930",
+        "investing:https://tr.investing.com/news/company-news/wise-2c-ve-i1-fy27-sonuclarnn-tarihlerini-acklad-93CH-4052929",
+        "investing:https://tr.investing.com/news/economy-news/almanya-ve-fransa-guney-afrikaya-300-milyon-euro-taahhut-etti-93CH-4052928",
+        "investing:https://tr.investing.com/news/company-news/wilton-resources-ozel-satsta-565000-dolar-toplad-93CH-4052927",
+        "investing:https://tr.investing.com/news/stock-market-news/google-savunma-yapay-zekasna-girdi-palantir-hisseleri-dustu-4052926",
         "investing:https://tr.investing.com/news/company-news/helfie-ai-mali-isler-muduru-olarak-john-regoyu-atad-93CH-4052913",
         "investing:https://tr.investing.com/news/stock-market-news/google-devlet-guvenligi-icin-gemini-38-flash-cyber-piyasaya-surdu-4052921",
         "investing:https://tr.investing.com/news/stock-market-news/eylul-hisselere-ac-cektirebilir-ama-alm-frsat-sunabilir-4052911",
@@ -394,18 +405,21 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:355babff3d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:35a138cf1d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:35a138cf1d9e8:0",
         "tradingview:fxstreet:355babff3d9e8:0",
         "tradingview:fxstreet:46c95a2e2d9e8:0",
         "tradingview:fxstreet:bfd6258f8d9e8:0",
         "tradingview:cointelegraph:f855e0ca7d9e8:0",
         "tradingview:cointelegraph:11ce65c49d9e8:0",
-        "tradingview:fxstreet:35a138cf1d9e8:0",
+        "tradingview:beincrypto:8af3f7ccbd9e8:0",
         "tradingview:fxstreet:2406fef2dd9e8:0",
         "tradingview:fxstreet:ecaa72307d9e8:0",
         "tradingview:fxstreet:c5d9fbf40d9e8:0",
         "tradingview:fxstreet:1254e5088d9e8:0",
+        "tradingview:matriks:6713987:0",
+        "tradingview:matriks:6713986:0",
         "tradingview:matriks:6713978:0",
         "tradingview:matriks:6713976:0",
         "tradingview:matriks:6713975:0",
@@ -574,6 +588,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "amer sports hissesi 28 92 dolarda 52 haftal k dibe vurdu",
+      "link": "https://tr.investing.com/news/company-news/amer-sports-hissesi-2892-dolarda-52-haftalk-dibe-vurdu-93CH-4052953"
+    },
+    {
+      "source": "investing",
+      "text": "stria lithium 12 milyon dolarl k finansman tamamlad",
+      "link": "https://tr.investing.com/news/company-news/stria-lithium-12-milyon-dolarlk-finansman-tamamlad-93CH-4052950"
+    },
+    {
+      "source": "investing",
+      "text": "marriott vacations 0 80 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/marriott-vacations-080-dolar-temettu-acklad-93CH-4052949"
+    },
+    {
+      "source": "investing",
+      "text": "barrick mining in amerikan alt n isinin halka arz n 2027 ye erteledigi bildiriliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/barrick-miningin-amerikan-altn-isinin-halka-arzn-2027ye-erteledigi-bildiriliyor-4052952"
+    },
+    {
+      "source": "investing",
+      "text": "tsx te madencilik rallisi degerli metal hisseleri zirvede",
+      "link": "https://tr.investing.com/news/stock-market-news/tsxte-madencilik-rallisi-degerli-metal-hisseleri-zirvede-4052948"
+    },
+    {
+      "source": "investing",
+      "text": "fed denetcisi bilgi paylas m nda daha guclu kontroller istedi",
+      "link": "https://tr.investing.com/news/economy-news/fed-denetcisi-bilgi-paylasmnda-daha-guclu-kontroller-istedi-93CH-4052946"
+    },
+    {
+      "source": "investing",
+      "text": "palantir hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/palantir-hissesi-bugun-neden-dusuyor-93CH-4052945"
+    },
+    {
+      "source": "investing",
+      "text": "hindistan istatistik baskan gsyih revizyonlar n savundu",
+      "link": "https://tr.investing.com/news/economy-news/hindistan-istatistik-baskan-gsyih-revizyonlarn-savundu-93CH-4052944"
+    },
+    {
+      "source": "investing",
+      "text": "nyse siber guvenlik ac klar n bulmak anthropic in mythos unu kulland",
+      "link": "https://tr.investing.com/news/stock-market-news/nyse-siber-guvenlik-acklarn-bulmak-icin-anthropicin-mythosunu-kulland-4052943"
+    },
+    {
+      "source": "investing",
+      "text": "deere yoneticisi ryan campbell 3 16 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/deere-yoneticisi-ryan-campbell-316-milyon-dolarlk-hisse-satt-93CH-4052941"
+    },
+    {
+      "source": "kap",
+      "text": "orzax halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu halka arz fiyat n n belirlenmesinde esas al nan varsay mlara iliskin degerlendirme raporu sirket orzaks ilac kimya sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657664"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini 1 35 in alt na k r lma odag abd dolar kars s nda asag ya kayd r yor scotiabank",
