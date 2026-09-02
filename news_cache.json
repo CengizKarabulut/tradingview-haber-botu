@@ -459,8 +459,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6711532:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44U0A6:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L6N44U0A6:0",
+        "tradingview:fxstreet:d4b9744e3d9e8:0",
         "tradingview:matriks:6711532:0",
         "tradingview:matriks:6711529:0",
         "tradingview:fxstreet:b0daac89ad9e8:0",
@@ -691,6 +693,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44U0A6:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur usd fiyat analizi 1 1600 un alt nda zay fl yor daha fazla konsolidasyon goz ard edilemez",
+      "link": "https://tr.tradingview.com/news/fxstreet:d4b9744e3d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "teknik bulten info yat r m",
