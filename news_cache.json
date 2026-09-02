@@ -180,8 +180,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/lenovo-hisseleri-dropbox-saldrs-sonras-dustu-4051605",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/ito-en-hissesi-bugun-neden-yukseliyor-93CH-4051610",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/ito-en-hissesi-bugun-neden-yukseliyor-93CH-4051610",
+        "investing:https://tr.investing.com/news/company-news/imetal-yonetim-kuruluna-michel-dufresnei-atad-93CH-4051609",
+        "investing:https://tr.investing.com/news/economy-news/abd-ve-iran-arasnda-hurmuz-gerginligi-trmanyor-4051608",
         "investing:https://tr.investing.com/news/stock-market-news/lenovo-hisseleri-dropbox-saldrs-sonras-dustu-4051605",
         "investing:https://tr.investing.com/news/stock-market-news/softbank-group-hisseleri-neden-dusuyor-93CH-4051603",
         "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-eylulde-nintendo-direct-bekliyor-4051604",
@@ -189,9 +192,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-petrol-ve-tahvil-getirileriyle-dustu-4051599",
         "investing:https://tr.investing.com/news/insider-trading-news/lumentum-baskan-yuen-137-milyon-dolarlk-hisse-satt-93CH-4051596",
         "investing:https://tr.investing.com/news/insider-trading-news/aviat-networks-svp-gary-croke-12386-dolarlk-hisse-satt-93CH-4051595",
-        "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-coo-denise-carter-99991-dolarlk-ads-satn-ald-93CH-4051594",
-        "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-ceosu-michael-myers-99991-dolar-degerinde-ads-satn-ald-93CH-4051593",
-        "investing:https://tr.investing.com/news/insider-trading-news/aviat-networks-hukuk-baskan-yardmcs-26526-dolarlk-hisse-satt-93CH-4051592",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -212,6 +212,9 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
         "investing:https://tr.investing.com/analysis/eregli-demir-celik-2026-2-ceyrek-bilanco-degerlendirmesi-200505743",
+        "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-coo-denise-carter-99991-dolarlk-ads-satn-ald-93CH-4051594",
+        "investing:https://tr.investing.com/news/insider-trading-news/quoin-pharmaceuticals-ceosu-michael-myers-99991-dolar-degerinde-ads-satn-ald-93CH-4051593",
+        "investing:https://tr.investing.com/news/insider-trading-news/aviat-networks-hukuk-baskan-yardmcs-26526-dolarlk-hisse-satt-93CH-4051592",
         "investing:https://tr.investing.com/news/insider-trading-news/aviat-networks-ceosu-pete-smith-280900-dolar-degerinde-hisse-satt-93CH-4051591",
         "investing:https://tr.investing.com/news/company-news/simply-solventless-2c-mali-tablolarn-sundu-mcto-iptali-bekleniyor-93CH-4051590",
         "investing:https://tr.investing.com/news/stock-market-news/sumitomo-metal-mining-hissesi-bugun-neden-dusuyor-93CH-4051589",
@@ -454,8 +457,18 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44U06T:0",
+      "last_seen_key": "tradingview:matriks:6711529:0",
       "seen_keys": [
+        "tradingview:matriks:6711529:0",
+        "tradingview:fxstreet:b0daac89ad9e8:0",
+        "tradingview:matriks:6711528:0",
+        "tradingview:matriks:6711525:0",
+        "tradingview:matriks:6711524:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44U09L:0",
+        "tradingview:matriks:6711523:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44U07H:0",
+        "tradingview:matriks:6711517:0",
+        "tradingview:fxstreet:3a2d7afbfd9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44U06T:0",
         "tradingview:fxstreet:f245eacc8d9e8:0",
         "tradingview:matriks:6711484:0",
@@ -668,6 +681,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yurt ici piyasa bulteni unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6711529:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nzd usd fiyat analizi yeni zelanda dolar rbnz den breman n ac klamalar n n ard ndan fazla degismedi",
+      "link": "https://tr.tradingview.com/news/fxstreet:b0daac89ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "analitik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6711528:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "destekler direncler info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6711525:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasalar bulteni unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6711524:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44U09L:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist100 teknik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6711523:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "koc holding alt ay aran n ard ndan tupras ta tekrar hisse sat s yapacak",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44U07H:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ecb makhlouf ecb faizleri daha fazla art rmaya haz r olmal ft",
+      "link": "https://tr.tradingview.com/news/matriks:6711517:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "usd jpy fiyat analizi temmuz sonu zirvesi yak nlar nda seyrediyor al c lar 160 00 seviyesinin uzerinde kontrolu koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:3a2d7afbfd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "ito en hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/ito-en-hissesi-bugun-neden-yukseliyor-93CH-4051610"
+    },
+    {
+      "source": "investing",
+      "text": "imetal yonetim kuruluna michel dufresne i atad",
+      "link": "https://tr.investing.com/news/company-news/imetal-yonetim-kuruluna-michel-dufresnei-atad-93CH-4051609"
+    },
+    {
+      "source": "investing",
+      "text": "abd iran aras nda hurmuz gerginligi t rman yor",
+      "link": "https://tr.investing.com/news/economy-news/abd-ve-iran-arasnda-hurmuz-gerginligi-trmanyor-4051608"
+    },
     {
       "source": "tradingview",
       "text": "resmi gazete bugun 2 eylul 2026",
