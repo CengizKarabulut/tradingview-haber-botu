@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657412",
+      "last_seen_key": "kap:1657418",
       "seen_keys": [
+        "kap:1657418",
+        "kap:1657417",
+        "kap:1657416",
+        "kap:1657415",
+        "kap:1657414",
+        "kap:1657413",
         "kap:1657412",
         "kap:1657404",
         "kap:1657403",
@@ -278,8 +284,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6713643:0",
+      "last_seen_key": "tradingview:matriks:6713649:0",
       "seen_keys": [
+        "tradingview:matriks:6713649:0",
         "tradingview:matriks:6713643:0",
         "tradingview:matriks:6713629:0",
         "tradingview:fxstreet:ac9874f95d9e8:0",
@@ -383,5 +390,41 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "petrol tahvil faizleri yukseldi fed bask s piyasalar zorluyor ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6713649:0"
+    },
+    {
+      "source": "kap",
+      "text": "aksgy pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657418"
+    },
+    {
+      "source": "kap",
+      "text": "oncsm pay baz nda devre kesici bildirimi oncsm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657417"
+    },
+    {
+      "source": "kap",
+      "text": "kgyo pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657416"
+    },
+    {
+      "source": "kap",
+      "text": "marbl pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657415"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank odunc pay piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657414"
+    },
+    {
+      "source": "kap",
+      "text": "dcttr ozel durum ac klamas genel pamuk sat s kontrat imzalanmas sirket dct trading dis ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657413"
+    }
+  ]
 }
