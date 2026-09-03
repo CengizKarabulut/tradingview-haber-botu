@@ -153,18 +153,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/insmed-yoneticisi-sharoky-637650-dolar-degerinde-hisse-satt-93CH-4053190",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/aura-minerals-yoneticisi-1035-milyon-dolarlk-hisse-satt-93CH-4053194",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/aura-minerals-yoneticisi-1035-milyon-dolarlk-hisse-satt-93CH-4053194",
+        "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-yoneticisi-sameer-gandhi-43-milyon-dolarlk-hisse-satt-93CH-4053193",
+        "investing:https://tr.investing.com/news/insider-trading-news/bjs-restaurants-yoneticisi-30525-dolar-degerinde-hisse-ald-93CH-4053192",
+        "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-44-milyon-dolarlk-hisse-satt-93CH-4053191",
         "investing:https://tr.investing.com/news/insider-trading-news/insmed-yoneticisi-sharoky-637650-dolar-degerinde-hisse-satt-93CH-4053190",
         "investing:https://tr.investing.com/news/insider-trading-news/pbf-energy-yoneticisi-897-milyon-dolarlk-hisse-satt-93CH-4053189",
         "investing:https://tr.investing.com/news/insider-trading-news/castle-biosciences-cco-tobin-juvenal-51190-dolarlk-hisse-satt-93CH-4053187",
         "investing:https://tr.investing.com/news/insider-trading-news/marathon-petroleum-hukuk-muduru-61-milyon-dolarlk-hisse-satt-93CH-4053188",
         "investing:https://tr.investing.com/news/insider-trading-news/camp4-cfo-kelly-gold-39600-dolarlk-hisse-senedi-satn-ald-93CH-4053185",
         "investing:https://tr.investing.com/news/commodities-news/petrol-trumpn-iran-kampanyasnn-ksa-surebilecegini-belirtmesiyle-dustu-4053186",
-        "investing:https://tr.investing.com/news/commodities-news/altn-trump-ve-fed-acklamalar-enflasyon-endiselerini-azalttkca-4400-dolar-civarnda-tutuyor-4053184",
-        "investing:https://tr.investing.com/news/insider-trading-news/pulse-biosciences-coo-99971-dolarlk-hisse-satn-ald-93CH-4053181",
-        "investing:https://tr.investing.com/news/insider-trading-news/likidite-hizmetleri-evpsi-29508-dolar-degerinde-lqdt-hissesi-satt-93CH-4053180",
-        "investing:https://tr.investing.com/news/insider-trading-news/exozymes-ceosu-michael-heltzen-sirket-hisselerinden-6405-dolar-ald-93CH-4053179",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -185,6 +185,10 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/commodities-news/altn-trump-ve-fed-acklamalar-enflasyon-endiselerini-azalttkca-4400-dolar-civarnda-tutuyor-4053184",
+        "investing:https://tr.investing.com/news/insider-trading-news/pulse-biosciences-coo-99971-dolarlk-hisse-satn-ald-93CH-4053181",
+        "investing:https://tr.investing.com/news/insider-trading-news/likidite-hizmetleri-evpsi-29508-dolar-degerinde-lqdt-hissesi-satt-93CH-4053180",
+        "investing:https://tr.investing.com/news/insider-trading-news/exozymes-ceosu-michael-heltzen-sirket-hisselerinden-6405-dolar-ald-93CH-4053179",
         "investing:https://tr.investing.com/news/insider-trading-news/tela-bio-ceosu-heather-getz-8311-dolarlk-hisse-satn-ald-93CH-4053176",
         "investing:https://tr.investing.com/news/insider-trading-news/samsara-cao-benjamin-kirchhoff-142254-dolarlk-hisse-satt-93CH-4053175",
         "investing:https://tr.investing.com/news/insider-trading-news/keros-therapeutics-yoneticisi-bienaime-10270-dolar-degerinde-hisse-ald-93CH-4053174",
@@ -329,8 +333,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:69a1abf75d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:f01c7d95bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:f01c7d95bd9e8:0",
+        "tradingview:fxstreet:a816e3cedd9e8:0",
         "tradingview:fxstreet:69a1abf75d9e8:0",
         "tradingview:fxstreet:7bad8564ad9e8:0",
         "tradingview:fxstreet:f99379bb1d9e8:0",
@@ -453,6 +459,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "wti ham petrol fiyat yeniden alevlenen orta dogu dusmanl klar aras nda 89 50 n uzerinde kazanclar n koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f01c7d95bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar avustralya ticaret verileri cin pmi verilerinin ard ndan usd kars s nda 0 7150 uzerinde yatay seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:a816e3cedd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "aura minerals yoneticisi 10 35 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/aura-minerals-yoneticisi-1035-milyon-dolarlk-hisse-satt-93CH-4053194"
+    },
+    {
+      "source": "investing",
+      "text": "crowdstrike yoneticisi sameer gandhi 4 3 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/crowdstrike-yoneticisi-sameer-gandhi-43-milyon-dolarlk-hisse-satt-93CH-4053193"
+    },
+    {
+      "source": "investing",
+      "text": "bj s restaurants yoneticisi 30 525 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/bjs-restaurants-yoneticisi-30525-dolar-degerinde-hisse-ald-93CH-4053192"
+    },
+    {
+      "source": "investing",
+      "text": "crowdstrike ceo su george kurtz 4 4 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-44-milyon-dolarlk-hisse-satt-93CH-4053191"
+    },
     {
       "source": "tradingview",
       "text": "cin in ratingdog hizmetler pmi agustos ay nda 50 6 beklentisi kars s nda 51 4 e yukseldi",
