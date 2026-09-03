@@ -2,8 +2,33 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658470",
+      "last_seen_key": "kap:1658532",
       "seen_keys": [
+        "kap:1658532",
+        "kap:1658531",
+        "kap:1658530",
+        "kap:1658529",
+        "kap:1658528",
+        "kap:1658527",
+        "kap:1658526",
+        "kap:1658525",
+        "kap:1658524",
+        "kap:1658523",
+        "kap:1658522",
+        "kap:1658521",
+        "kap:1658520",
+        "kap:1658519",
+        "kap:1658518",
+        "kap:1658517",
+        "kap:1658498",
+        "kap:1658486",
+        "kap:1658484",
+        "kap:1658483",
+        "kap:1658478",
+        "kap:1658475",
+        "kap:1658474",
+        "kap:1658473",
+        "kap:1658471",
         "kap:1658470",
         "kap:1658469",
         "kap:1658468",
@@ -159,8 +184,13 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/energizer-hissesi-bugun-neden-dusuyor-93CH-4054487",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/keysight-york-universitesi-ile-yapay-zeka-guvenligi-arastrmas-yapacak-93CH-4054499",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/keysight-york-universitesi-ile-yapay-zeka-guvenligi-arastrmas-yapacak-93CH-4054499",
+        "investing:https://tr.investing.com/news/company-news/vishay-rf-uygulamalar-icin-ince-film-cip-direnclerini-tantt-93CH-4054498",
+        "investing:https://tr.investing.com/news/global-filings/margun-enerji-1055-milyon-usdye-hez-enerjiyi-satn-ald-93CH-4054497",
+        "investing:https://tr.investing.com/news/stock-market-news/paypal-hisseleri-bugun-neden-yukseliyor-93CH-4054495",
+        "investing:https://tr.investing.com/news/company-news/ferrexpo-ukrayna-zorluklar-nedeniyle-2025te-224-milyon-dolar-zarar-acklad-93CH-4054494",
         "investing:https://tr.investing.com/news/stock-market-news/energizer-hissesi-bugun-neden-dusuyor-93CH-4054487",
         "investing:https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-yukseldi-4054486",
         "investing:https://tr.investing.com/news/company-news/ignitis-group-2-milyar-euroluk-borc-programn-guncelledi-93CH-4054484",
@@ -407,6 +437,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "keysight york universitesi yapay zeka guvenligi arast rmas yapacak",
+      "link": "https://tr.investing.com/news/company-news/keysight-york-universitesi-ile-yapay-zeka-guvenligi-arastrmas-yapacak-93CH-4054499"
+    },
+    {
+      "source": "investing",
+      "text": "vishay rf uygulamalar ince film cip direnclerini tan tt",
+      "link": "https://tr.investing.com/news/company-news/vishay-rf-uygulamalar-icin-ince-film-cip-direnclerini-tantt-93CH-4054498"
+    },
+    {
+      "source": "investing",
+      "text": "margun enerji 105 5 milyon usd ye hez enerji yi sat n ald",
+      "link": "https://tr.investing.com/news/global-filings/margun-enerji-1055-milyon-usdye-hez-enerjiyi-satn-ald-93CH-4054497"
+    },
+    {
+      "source": "investing",
+      "text": "paypal hisseleri bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/paypal-hisseleri-bugun-neden-yukseliyor-93CH-4054495"
+    },
+    {
+      "source": "investing",
+      "text": "ferrexpo ukrayna zorluklar nedeniyle 2025 te 224 milyon dolar zarar ac klad",
+      "link": "https://tr.investing.com/news/company-news/ferrexpo-ukrayna-zorluklar-nedeniyle-2025te-224-milyon-dolar-zarar-acklad-93CH-4054494"
+    },
+    {
+      "source": "kap",
+      "text": "gents kat l m finans ilkeleri bilgi formu sirket gentas dekoratif yuzeyler sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658532"
+    },
+    {
+      "source": "kap",
+      "text": "brlsm sorumluluk beyan konsolide sorumluluk beyan sirket birlesim muhendislik isitma sogutma havalandirma sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658531"
+    },
+    {
+      "source": "kap",
+      "text": "cvkmd ozel durum ac klamas genel sirketimize ait s 87500 s 20066206 nolu iv grup isletme ruhsatl maden sahalar n n iadesi hk sirket cvk maden isletmeleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658530"
+    },
+    {
+      "source": "kap",
+      "text": "otkar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsotkr62714 isin kodlu 1 000 000 000 tl tutar ndaki tahvilin 1 kupon odemesi sirket otokar otomotiv savunma sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658529"
+    },
+    {
+      "source": "kap",
+      "text": "brlsm faaliyet raporu konsolide faaliyet raporu sirket birlesim muhendislik isitma sogutma havalandirma sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658528"
+    },
+    {
+      "source": "kap",
+      "text": "garan tgb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren mtn ihrac itfa sirket turkiye garanti bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658527"
+    },
+    {
+      "source": "kap",
+      "text": "vertu hak kullan m surec iptal bildirimi 2024 y l olagan genel kurul toplant s n n yap lmamas nedeniyle kar dag t m onerisinin iptal edilmesi hakk nda sirket verusaturk girisim sermayesi yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658526"
+    },
+    {
+      "source": "kap",
+      "text": "brlsm finansal rapor sirket birlesim muhendislik isitma sogutma havalandirma sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658525"
+    },
+    {
+      "source": "kap",
+      "text": "verus hak kullan m surec iptal bildirimi 2024 y l olagan genel kurul toplant s n n yap lmamas nedeniyle kar dag t m onerisinin iptal edilmesi hakk nda sirket verusa holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658524"
+    },
+    {
+      "source": "kap",
+      "text": "katmr bag ms z denetim kurulusunun belirlenmesi 2026 y l surdurulebilirlik guvence denetimi yapacak bag ms z denetim kurulusu secimi hk sirket katmerciler arac ustu ekipman sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658523"
+    },
+    {
+      "source": "kap",
+      "text": "pamel hak kullan m surec iptal bildirimi 2024 y l olagan genel kurul toplant s n n yap lmamas nedeniyle kar dag t m onerisinin iptal edilmesi hakk nda sirket pamel yenilenebilir elektrik uretim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658522"
+    },
+    {
+      "source": "kap",
+      "text": "brkvy ozel durum ac klamas genel tahsili gecikmis alacak portfoyu al m ihaleye konu alacaklar n devrine yonelik sozlesmenin imza surecinin tamamlanmas sirket birikim varlik yonetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658521"
+    },
+    {
+      "source": "kap",
+      "text": "inves hak kullan m surec iptal bildirimi 2024 y l olagan genel kurul toplant s n n yap lmamas nedeniyle kar dag t m onerisinin iptal edilmesi hakk nda sirket investco holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658520"
+    },
+    {
+      "source": "kap",
+      "text": "pekgy kat l m finans ilkeleri bilgi formu sirket peker gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658519"
+    },
+    {
+      "source": "kap",
+      "text": "intek hak kullan m surec iptal bildirimi 2024 y l olagan genel kurul toplant s n n yap lmamas nedeniyle kar dag t m onerisinin iptal edilmesi hakk nda sirket innosa teknoloji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658518"
+    },
+    {
+      "source": "kap",
+      "text": "acsel hak kullan m surec iptal bildirimi 2024 y l olagan genel kurul toplant s n n yap lmamas nedeniyle kar dag t m onerisinin iptal edilmesi hakk nda sirket aciselsan acipayam seluloz sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658517"
+    },
+    {
+      "source": "kap",
+      "text": "bdm sirket genel bilgi formu sirket buyukdemir portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658498"
+    },
+    {
+      "source": "kap",
+      "text": "col pay al m teklifi yoluyla pay toplanmas na iliskin bildirim sirket kuzey menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658486"
+    },
+    {
+      "source": "kap",
+      "text": "tarfn ihrac tavan na iliskin bildirim yurt icinde borclanma arac ihrac na iliskin yonetim kurulu karar spk basvurusu sirket tarfin tarim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658484"
+    },
+    {
+      "source": "kap",
+      "text": "skp pay al m sat m bildirimi pay al m sat m bildirimi sirket tera portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658483"
+    },
+    {
+      "source": "kap",
+      "text": "genil pay baz nda devre kesici bildirimi genil e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658478"
+    },
+    {
+      "source": "kap",
+      "text": "golda pay baz nda devre kesici bildirimi golda e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658475"
+    },
+    {
+      "source": "kap",
+      "text": "ozgyo pay baz nda devre kesici bildirimi ozgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658474"
+    },
+    {
+      "source": "kap",
+      "text": "alves pay baz nda devre kesici bildirimi alves e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658473"
+    },
+    {
+      "source": "kap",
+      "text": "suwen pay baz nda devre kesici bildirimi suwen e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658471"
+    },
     {
       "source": "tradingview",
       "text": "turkiye nin tar m g icecek sektoru 2026 y l n n temmuz ay nda 16 37 milyar dolar ihracat 16 38 milyar dolar ithalat yapt",
