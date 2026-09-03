@@ -153,18 +153,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/ethan-allen-ceosu-m-farooq-kathwari-597804-dolarlk-hisse-satt-93CH-4053217",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/charles-schwab-yoneticisi-346-bin-dolarlk-hisse-satt-93CH-4053223",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/charles-schwab-yoneticisi-346-bin-dolarlk-hisse-satt-93CH-4053223",
+        "investing:https://tr.investing.com/news/insider-trading-news/coherent-yoneticisi-enrico-digirolomo-944506-dolar-degerinde-hisse-satt-93CH-4053222",
+        "investing:https://tr.investing.com/news/insider-trading-news/coherent-corp-yoneticisi-enrico-digirolomo-628998-dolar-degerinde-hisse-satt-93CH-4053220",
+        "investing:https://tr.investing.com/news/insider-trading-news/coherent-corp-yoneticisi-stephen-skaggs-629061-dolarlk-hisse-satt-93CH-4053221",
         "investing:https://tr.investing.com/news/insider-trading-news/ethan-allen-ceosu-m-farooq-kathwari-597804-dolarlk-hisse-satt-93CH-4053217",
         "investing:https://tr.investing.com/news/stock-market-news/lynas-hisseleri-devralma-gorusmeleri-haberiyle-yukseldi-4053219",
         "investing:https://tr.investing.com/news/insider-trading-news/workers-united-amalgamated-financial-hisselerinden-638-milyon-dolar-satt-93CH-4053216",
         "investing:https://tr.investing.com/news/insider-trading-news/workers-united-grubu-638-milyon-dolarlk-hisse-satt-93CH-4053215",
         "investing:https://tr.investing.com/news/insider-trading-news/smith-midland-ceosu-ashley-smith-sirket-hissesi-satn-ald-93CH-4053214",
         "investing:https://tr.investing.com/news/stock-market-news/lynas-rare-earths-hisseleri-neden-yukseliyor-93CH-4053213",
-        "investing:https://tr.investing.com/news/stock-market-news/china-gold-international-resources-hissesi-neden-yukseliyor-93CH-4053212",
-        "investing:https://tr.investing.com/news/stock-market-news/kepco-samsungdan-elektrik-icin-15-milyar-dolar-pesin-odeme-istedi-93CH-4053211",
-        "investing:https://tr.investing.com/news/economy-news/iran-kuveytteki-abd-uslerine-fuze-ve-iha-saldrs-duzenledi-4053210",
-        "investing:https://tr.investing.com/news/stock-market-news/paypal-hindistanda-600-kisiyi-isten-ckard-4053208",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -185,6 +185,10 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/stock-market-news/china-gold-international-resources-hissesi-neden-yukseliyor-93CH-4053212",
+        "investing:https://tr.investing.com/news/stock-market-news/kepco-samsungdan-elektrik-icin-15-milyar-dolar-pesin-odeme-istedi-93CH-4053211",
+        "investing:https://tr.investing.com/news/economy-news/iran-kuveytteki-abd-uslerine-fuze-ve-iha-saldrs-duzenledi-4053210",
+        "investing:https://tr.investing.com/news/stock-market-news/paypal-hindistanda-600-kisiyi-isten-ckard-4053208",
         "investing:https://tr.investing.com/news/company-news/ming-shing-meals-through-seasons-510-milyon-dolara-satn-ald-93CH-4053205",
         "investing:https://tr.investing.com/news/insider-trading-news/vaxcyte-coo-212000-dolarn-uzerinde-hisse-satt-93CH-4053204",
         "investing:https://tr.investing.com/news/economic-indicators/cin-hizmet-pmi-agustosta-beklentiyi-ast-4053203",
@@ -351,8 +355,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:425db2792d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:b381bffbcd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:b381bffbcd9e8:0",
         "tradingview:fxstreet:425db2792d9e8:0",
         "tradingview:fxstreet:eb0cebe81d9e8:0",
         "tradingview:fxstreet:1732271b5d9e8:0",
@@ -485,6 +490,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kanada dolar zay f abd dolar yukselen petrol fiyatlar yla deger kazan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b381bffbcd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "charles schwab yoneticisi 346 bin dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/charles-schwab-yoneticisi-346-bin-dolarlk-hisse-satt-93CH-4053223"
+    },
+    {
+      "source": "investing",
+      "text": "coherent yoneticisi enrico digirolomo 944 506 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/coherent-yoneticisi-enrico-digirolomo-944506-dolar-degerinde-hisse-satt-93CH-4053222"
+    },
+    {
+      "source": "investing",
+      "text": "coherent corp yoneticisi enrico digirolomo 628 998 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/coherent-corp-yoneticisi-enrico-digirolomo-628998-dolar-degerinde-hisse-satt-93CH-4053220"
+    },
+    {
+      "source": "investing",
+      "text": "coherent corp yoneticisi stephen skaggs 629 061 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/coherent-corp-yoneticisi-stephen-skaggs-629061-dolarlk-hisse-satt-93CH-4053221"
+    },
     {
       "source": "tradingview",
       "text": "gumus fiyat analizi xag usd abd dolar n n daha dusmesiyle kazanclar n genisletiyor nfp odakta",
