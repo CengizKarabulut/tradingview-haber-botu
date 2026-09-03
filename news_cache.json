@@ -98,8 +98,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/bbva-tcmb-den-faiz-indirimi-beklentisini-one-cekti-3787289",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-04092026-3787290",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-04092026-3787290",
         "bloomberght:https://www.bloomberght.com/bbva-tcmb-den-faiz-indirimi-beklentisini-one-cekti-3787289",
         "bloomberght:https://www.bloomberght.com/vance-iran-konusunda-tum-secenekler-masada-3787288",
         "bloomberght:https://www.bloomberght.com/volkswagen-50-bin-calisanini-daha-isten-cikariyor-3787286",
@@ -309,6 +310,7 @@
         "tradingview:fxstreet:6f7f3d845d9e8:0",
         "tradingview:fxstreet:6f4b4f8e2d9e8:0",
         "tradingview:fxstreet:6b7078d45d9e8:0",
+        "tradingview:beincrypto:e08808843d9e8:0",
         "tradingview:fxstreet:135852cf7d9e8:0",
         "tradingview:cointelegraph:3e8bd34b5d9e8:0",
         "tradingview:fxstreet:6ce969bebd9e8:0",
@@ -419,6 +421,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 04 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-04092026-3787290"
+    },
     {
       "source": "tradingview",
       "text": "japon yeni nihayet tokyo nun bedelini odemedigi seyle yukseliyor",
