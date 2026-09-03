@@ -98,9 +98,8 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-04092026-3787290",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/bbva-tcmb-den-faiz-indirimi-beklentisini-one-cekti-3787289",
       "seen_keys": [
-        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-04092026-3787290",
         "bloomberght:https://www.bloomberght.com/bbva-tcmb-den-faiz-indirimi-beklentisini-one-cekti-3787289",
         "bloomberght:https://www.bloomberght.com/vance-iran-konusunda-tum-secenekler-masada-3787288",
         "bloomberght:https://www.bloomberght.com/volkswagen-50-bin-calisanini-daha-isten-cikariyor-3787286",
@@ -148,8 +147,7 @@
         "bloomberght:https://www.bloomberght.com/dolar-ne-kadar-oldu-3-eylul-2026-dolar-kurunda-son-durum-ne-pkh2-3787168",
         "bloomberght:https://www.bloomberght.com/shell-bp-nin-meksika-korfezi-projesine-ortak-oluyor-3787160",
         "bloomberght:https://www.bloomberght.com/yorum/dr-soner-canko/3787231-kesintisiz-ve-surekli",
-        "bloomberght:https://www.bloomberght.com/delivery-hero-yonetim-kurulundan-15-milyar-dolarlik-teklife-onay-3787159",
-        "bloomberght:https://www.bloomberght.com/meta-yapay-zeka-modeli-muse-spark-13-u-piyasaya-surdu-3787158"
+        "bloomberght:https://www.bloomberght.com/delivery-hero-yonetim-kurulundan-15-milyar-dolarlik-teklife-onay-3787159"
       ]
     },
     "investing": {
@@ -303,8 +301,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:1f69aa021d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:e35ad89a8d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:e35ad89a8d9e8:0",
         "tradingview:fxstreet:1f69aa021d9e8:0",
         "tradingview:fxstreet:998cce610d9e8:0",
         "tradingview:fxstreet:6f7f3d845d9e8:0",
@@ -420,6 +419,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni nihayet tokyo nun bedelini odemedigi seyle yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e35ad89a8d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "banxico dan heath cekirdek enflasyon surerken faiz indirimleri bekleyebilir",
