@@ -302,9 +302,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:6ce969bebd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:135852cf7d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:135852cf7d9e8:0",
+        "tradingview:cointelegraph:3e8bd34b5d9e8:0",
         "tradingview:fxstreet:6ce969bebd9e8:0",
+        "tradingview:beincrypto:485b57df7d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:f21555bc4d9e8:0",
         "tradingview:fxstreet:ddd7ffea1d9e8:0",
@@ -410,6 +413,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "endonezya rupiah petrol soku bask yaparken deger kayb trendi suruyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:135852cf7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cftc kripto surekli vadeli islemleriyle ilgili cme davas n n dusurulmesini talep etti",
+      "link": "https://tr.tradingview.com/news/cointelegraph:3e8bd34b5d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "malezya ringiti istikrarl politika buyume anlat s n destekliyor bny",
