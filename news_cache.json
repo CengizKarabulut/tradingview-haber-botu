@@ -2,10 +2,18 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657853",
+      "last_seen_key": "kap:1657875",
       "seen_keys": [
+        "kap:1657875",
+        "kap:1657873",
+        "kap:1657870",
+        "kap:1657869",
+        "kap:1657868",
+        "kap:1657867",
+        "kap:1657866",
+        "kap:1657865",
+        "kap:1657864",
         "kap:1657853",
-        "kap:1657852",
         "kap:1657851",
         "kap:1657850",
         "kap:1657849",
@@ -26,7 +34,6 @@
         "kap:1657816",
         "kap:1657814",
         "kap:1657811",
-        "kap:1657809",
         "kap:1657808",
         "kap:1657807",
         "kap:1657806",
@@ -83,6 +90,8 @@
         "kap:1657716",
         "kap:1657715",
         "kap:1657714",
+        "kap:1657852",
+        "kap:1657809",
         "kap:1657711",
         "kap:1657710",
         "kap:1657709",
@@ -190,8 +199,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/grafiklerle-agustos-enflasyonu-3787210",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/spkdan-yabancilara-yakin-alan-iletisimi-ozelligi-olan-pasaportla-musteri-olabilme-imkani-3787213",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/spkdan-yabancilara-yakin-alan-iletisimi-ozelligi-olan-pasaportla-musteri-olabilme-imkani-3787213",
         "bloomberght:https://www.bloomberght.com/grafiklerle-agustos-enflasyonu-3787210",
         "bloomberght:https://www.bloomberght.com/bakan-bolat-dis-ticaret-verilerini-acikladi-3787206",
         "bloomberght:https://www.bloomberght.com/bakan-simsek-ten-enflasyon-degerlendirmesi-3787199",
@@ -259,18 +269,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/mindflairin-fonu-yapay-zeka-ortaklk-sirketine-16-milyon-dolarlk-yatrma-onculuk-etti-93CH-4053510",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/cheesecake-factory-yoneticisi-cappello-229094-dolarlk-hisse-satt-93CH-4053550",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/mindflairin-fonu-yapay-zeka-ortaklk-sirketine-16-milyon-dolarlk-yatrma-onculuk-etti-93CH-4053510",
-        "investing:https://tr.investing.com/news/analyst-ratings/barclays-yapay-zeka-gelir-gorunumu-nedeniyle-broadcom-hisse-notunu-korudu-93CH-4053503",
-        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-yapay-zeka-gelir-buyumesi-gorunumuyle-broadcom-hissesi-notunu-korudu-93CH-4053502",
-        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-ringcentral-hissesine-alm-onerisiyle-baslad-93CH-4053500",
-        "investing:https://tr.investing.com/news/company-news/maven-income--growth-vct-4-yeni-hisseleri-isleme-act-93CH-4053499",
-        "investing:https://tr.investing.com/news/company-news/maven-income-and-growth-vct-3-510459-yeni-hisseyi-isleme-act-93CH-4053495",
-        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-envistann-hisse-notunu-yukseltti-93CH-4053494",
-        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-bwx-technologies-hissesini-deniz-reaktoru-pozisyonu-nedeniyle-al-onerisiyle-baslatt-93CH-4053493",
-        "investing:https://tr.investing.com/news/global-filings/turk-eximbank-50-milyon-usdlik-finansman-bonosunu-itfa-etti-93CH-4053492",
-        "investing:https://tr.investing.com/news/company-news/maven-income-and-growth-vct-5-612506-yeni-hisseyi-isleme-act-93CH-4053490",
+        "investing:https://tr.investing.com/news/insider-trading-news/cheesecake-factory-yoneticisi-cappello-229094-dolarlk-hisse-satt-93CH-4053550",
+        "investing:https://tr.investing.com/news/insider-trading-news/thredup-cfosu-sean-sobers-115015-dolar-degerinde-hisse-satt-93CH-4053548",
+        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-klinik-deneme-aksiliklerinin-ardndan-ultragenyx-hisselerini-dusurdu-93CH-4053533",
+        "investing:https://tr.investing.com/news/analyst-ratings/baird-angelman-denemesi-basarsz-olan-ultragenyx-hissesinin-notunu-dusurdu-93CH-4053532",
+        "investing:https://tr.investing.com/news/company-news/pentwater-ondine-biomedicaldaki-payn-3e-dusurdu-93CH-4053530",
+        "investing:https://tr.investing.com/news/commodities-news/avrupa-dogal-gaz-savas-zirvelerini-astktan-sonra-geriledi-4053531",
+        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-copart-hissesi-icin-tavsiyesini-yukseltti-93CH-4053523",
+        "investing:https://tr.investing.com/news/investment-ideas/yz-hisse-secimleri-agustosta-yirmi-besten-fazla-cift-haneli-kazanan-4053522",
+        "investing:https://tr.investing.com/news/investment-ideas/187-kazanc-ve-daha-fazlas-eylul-icin-yapay-zeka-secimi-hisseler-yayinda-4053521",
+        "investing:https://tr.investing.com/news/economy-news/malezya-merkez-bankas-faiz-oranlarn-yuzde-275te-sabit-tuttu-93CH-4053519",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -291,6 +301,16 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/company-news/mindflairin-fonu-yapay-zeka-ortaklk-sirketine-16-milyon-dolarlk-yatrma-onculuk-etti-93CH-4053510",
+        "investing:https://tr.investing.com/news/analyst-ratings/barclays-yapay-zeka-gelir-gorunumu-nedeniyle-broadcom-hisse-notunu-korudu-93CH-4053503",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-yapay-zeka-gelir-buyumesi-gorunumuyle-broadcom-hissesi-notunu-korudu-93CH-4053502",
+        "investing:https://tr.investing.com/news/analyst-ratings/rbc-capital-ringcentral-hissesine-alm-onerisiyle-baslad-93CH-4053500",
+        "investing:https://tr.investing.com/news/company-news/maven-income--growth-vct-4-yeni-hisseleri-isleme-act-93CH-4053499",
+        "investing:https://tr.investing.com/news/company-news/maven-income-and-growth-vct-3-510459-yeni-hisseyi-isleme-act-93CH-4053495",
+        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-envistann-hisse-notunu-yukseltti-93CH-4053494",
+        "investing:https://tr.investing.com/news/analyst-ratings/jefferies-bwx-technologies-hissesini-deniz-reaktoru-pozisyonu-nedeniyle-al-onerisiyle-baslatt-93CH-4053493",
+        "investing:https://tr.investing.com/news/global-filings/turk-eximbank-50-milyon-usdlik-finansman-bonosunu-itfa-etti-93CH-4053492",
+        "investing:https://tr.investing.com/news/company-news/maven-income-and-growth-vct-5-612506-yeni-hisseyi-isleme-act-93CH-4053490",
         "investing:https://tr.investing.com/news/global-filings/tiryaki-agro-110-milyon-tllik-finansman-bonosu-ihracn-tamamlad-93CH-4053470",
         "investing:https://tr.investing.com/news/stock-market-news/snowflake-hissesi-bugun-neden-yukseliyor-93CH-4053469",
         "investing:https://tr.investing.com/news/stock-market-news/hewlett-packard-enterprise-hissesi-neden-dusuyor-93CH-4053468",
@@ -573,8 +593,18 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:6854affeed9e8:0",
+      "last_seen_key": "tradingview:matriks:6715245:0",
       "seen_keys": [
+        "tradingview:matriks:6715245:0",
+        "tradingview:cointelegraph:8ffed87d6d9e8:0",
+        "tradingview:beincrypto:ae2667562d9e8:0",
+        "tradingview:matriks:6715228:0",
+        "tradingview:matriks:6715227:0",
+        "tradingview:matriks:6715223:0",
+        "tradingview:fxstreet:4c01c6cd0d9e8:0",
+        "tradingview:matriks:6715200:0",
+        "tradingview:matriks:6715197:0",
+        "tradingview:matriks:6715192:0",
         "tradingview:beincrypto:6854affeed9e8:0",
         "tradingview:fxstreet:a547aa3e3d9e8:0",
         "tradingview:matriks:6715171:0",
@@ -907,6 +937,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "goldman sachs turk bankac l k sektorunde tl kredi mevduat makas genislemeyi surdururken temmuz 2026 karl l k yavaslad",
+      "link": "https://tr.tradingview.com/news/matriks:6715245:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya lisanss z kripto sirketlerini y ll k cironun yuzde 10 una varan para cezalar konusunda uyard",
+      "link": "https://tr.tradingview.com/news/cointelegraph:8ffed87d6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin grafik 71 000 dolar isaret ediyor",
+      "link": "https://tr.tradingview.com/news/beincrypto:ae2667562d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "italya agustos ay hizmet sektoru pmi 55 2 beklenti 54 0 onceki 52 5",
+      "link": "https://tr.tradingview.com/news/matriks:6715228:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "italya agustos ay bilesik pmi 53 6 onceki 52 5",
+      "link": "https://tr.tradingview.com/news/matriks:6715227:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uluslararas piyasalar bulteni deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6715223:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro getiriler yukselirken abd dolar kars s nda 1 16 civar nda islem goruyor danske bank",
+      "link": "https://tr.tradingview.com/news/fxstreet:4c01c6cd0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx bulteni ziraat yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6715200:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "carry ticaretinde fonlama para birimi yenden yuana kayabilir bbva bn",
+      "link": "https://tr.tradingview.com/news/matriks:6715197:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "forex gunluk bulten gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6715192:0"
+    },
+    {
+      "source": "investing",
+      "text": "cheesecake factory yoneticisi cappello 229 094 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/cheesecake-factory-yoneticisi-cappello-229094-dolarlk-hisse-satt-93CH-4053550"
+    },
+    {
+      "source": "investing",
+      "text": "thredup cfo su sean sobers 115 015 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/thredup-cfosu-sean-sobers-115015-dolar-degerinde-hisse-satt-93CH-4053548"
+    },
+    {
+      "source": "investing",
+      "text": "jpmorgan klinik deneme aksiliklerinin ard ndan ultragenyx hisselerini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-klinik-deneme-aksiliklerinin-ardndan-ultragenyx-hisselerini-dusurdu-93CH-4053533"
+    },
+    {
+      "source": "investing",
+      "text": "baird angelman denemesi basar s z olan ultragenyx hissesinin notunu dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/baird-angelman-denemesi-basarsz-olan-ultragenyx-hissesinin-notunu-dusurdu-93CH-4053532"
+    },
+    {
+      "source": "investing",
+      "text": "pentwater ondine biomedical daki pay n 3 e dusurdu",
+      "link": "https://tr.investing.com/news/company-news/pentwater-ondine-biomedicaldaki-payn-3e-dusurdu-93CH-4053530"
+    },
+    {
+      "source": "investing",
+      "text": "avrupa dogal gaz savas zirvelerini ast ktan sonra geriledi",
+      "link": "https://tr.investing.com/news/commodities-news/avrupa-dogal-gaz-savas-zirvelerini-astktan-sonra-geriledi-4053531"
+    },
+    {
+      "source": "investing",
+      "text": "jpmorgan copart hissesi tavsiyesini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-copart-hissesi-icin-tavsiyesini-yukseltti-93CH-4053523"
+    },
+    {
+      "source": "investing",
+      "text": "yz hisse secimleri agustos ta yirmi besten fazla cift haneli kazanan",
+      "link": "https://tr.investing.com/news/investment-ideas/yz-hisse-secimleri-agustosta-yirmi-besten-fazla-cift-haneli-kazanan-4053522"
+    },
+    {
+      "source": "investing",
+      "text": "187 kazanc daha fazlas eylul yapay zeka secimi hisseler yayinda",
+      "link": "https://tr.investing.com/news/investment-ideas/187-kazanc-ve-daha-fazlas-eylul-icin-yapay-zeka-secimi-hisseler-yayinda-4053521"
+    },
+    {
+      "source": "investing",
+      "text": "malezya merkez bankas faiz oranlar n yuzde 2 75 te sabit tuttu",
+      "link": "https://tr.investing.com/news/economy-news/malezya-merkez-bankas-faiz-oranlarn-yuzde-275te-sabit-tuttu-93CH-4053519"
+    },
+    {
+      "source": "bloomberght",
+      "text": "spk dan yabanc lara yak n alan iletisimi ozelligi olan pasaportla musteri olabilme imkan sermaye piyasas kurulu spk turk uyruklu olmayan gercek kisilere yak n alan iletisimi ozelligi olan pasaport bulundurmalar sart yla arac kurumlara portfoy yonetim sirketlerine kripto varl k hizmet saglay c lar na musteri olabilme",
+      "link": "https://www.bloomberght.com/spkdan-yabancilara-yakin-alan-iletisimi-ozelligi-olan-pasaportla-musteri-olabilme-imkani-3787213"
+    },
+    {
+      "source": "kap",
+      "text": "nrbnk nyb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfnurl32712 isin kodlu finansman bonosunun sat s n n tamamlanmas sirket nurol yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657875"
+    },
+    {
+      "source": "kap",
+      "text": "arsan pay baz nda devre kesici bildirimi arsan e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657873"
+    },
+    {
+      "source": "kap",
+      "text": "tvb vakbn pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren borclanma araclar na iliskin sat s sonuclar ac klamas sirket turkiye vakiflar bankasi t a o",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657870"
+    },
+    {
+      "source": "kap",
+      "text": "suntk pay baz nda devre kesici bildirimi suntk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657869"
+    },
+    {
+      "source": "kap",
+      "text": "lxgyo pay baz nda devre kesici bildirimi lxgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657868"
+    },
+    {
+      "source": "kap",
+      "text": "info pay baz nda devre kesici bildirimi info e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657867"
+    },
+    {
+      "source": "kap",
+      "text": "zgyo pay baz nda devre kesici bildirimi zgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657866"
+    },
+    {
+      "source": "kap",
+      "text": "adgyo pay baz nda devre kesici bildirimi adgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657865"
+    },
+    {
+      "source": "kap",
+      "text": "tnztp pay baz nda devre kesici bildirimi tnztp e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657864"
+    },
     {
       "source": "tradingview",
       "text": "nvidia 1 09 milyar dolar l k sat s hissedarlar endiselenmeli",
