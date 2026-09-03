@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658678",
+      "last_seen_key": "kap:1658682",
       "seen_keys": [
+        "kap:1658682",
+        "kap:1658681",
+        "kap:1658679",
         "kap:1658678",
         "kap:1658677",
         "kap:1658676",
@@ -117,8 +120,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/commerzbank-tan-1-2-milyar-euroluk-hisse-geri-alimi-3787266",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/ab-den-e-ticarete-yeni-gumruk-duzenlemesi-3787280",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/ab-den-e-ticarete-yeni-gumruk-duzenlemesi-3787280",
         "bloomberght:https://www.bloomberght.com/commerzbank-tan-1-2-milyar-euroluk-hisse-geri-alimi-3787266",
         "bloomberght:https://www.bloomberght.com/boe-basekonomistinden-faiz-artirimi-mesaji-3787262",
         "bloomberght:https://www.bloomberght.com/trump-elimizde-neredeyse-sinirsiz-muhimmat-var-3787261",
@@ -334,8 +338,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6717541:0",
+      "last_seen_key": "tradingview:fxstreet:f3d4e61ccd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:f3d4e61ccd9e8:0",
+        "tradingview:cointelegraph:a98087428d9e8:0",
+        "tradingview:cointelegraph:8bec92d5ed9e8:0",
         "tradingview:matriks:6717541:0",
         "tradingview:matriks:6717521:0",
         "tradingview:beincrypto:83b6a61e7d9e8:0",
@@ -464,6 +471,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni mudahale tavan boj un yolunu belirliyor bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:f3d4e61ccd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bybit pay kripto odemelerini genisletmek mesh entegre oldu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:a98087428d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitmex kurucu ortag reform uk nin 2026 n n 2 ceyregindeki bag slar n n yuzde 75 ini saglad",
+      "link": "https://tr.tradingview.com/news/cointelegraph:8bec92d5ed9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ab den e ticarete yeni gumruk duzenlemesi ab ulkeleri e ticaret platformlar n ithalatc olarak kabul ederek gumruk islemleri vergiler urunlerin ab standartlar na uygunlugundan sorumlu tutacak yeni gumruk duzenlemesine onay verdi",
+      "link": "https://www.bloomberght.com/ab-den-e-ticarete-yeni-gumruk-duzenlemesi-3787280"
+    },
+    {
+      "source": "kap",
+      "text": "lider paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket ldr turizm a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658682"
+    },
+    {
+      "source": "kap",
+      "text": "tkfen bag ms z denetim kurulusunun belirlenmesi genel kurul toplant s surdurulebilirlik denetimi bag ms z denetim kurulusu secim sonucu sirket tekfen holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658681"
+    },
+    {
+      "source": "kap",
+      "text": "tkfen genel kurul islemlerine iliskin bildirim 2025 y l olagan genel kurul toplant s sonucu sirket tekfen holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658679"
+    },
     {
       "source": "tradingview",
       "text": "tgsas tgs d s tic konsolide bilanco 2026 6 ayl k net kar 26 794 540 tl onceki 15 011 013 tl net zarar",
