@@ -2,8 +2,18 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658442",
+      "last_seen_key": "kap:1658470",
       "seen_keys": [
+        "kap:1658470",
+        "kap:1658469",
+        "kap:1658468",
+        "kap:1658467",
+        "kap:1658466",
+        "kap:1658464",
+        "kap:1658463",
+        "kap:1658462",
+        "kap:1658452",
+        "kap:1658448",
         "kap:1658442",
         "kap:1658440",
         "kap:1658439",
@@ -12,7 +22,6 @@
         "kap:1658421",
         "kap:1658415",
         "kap:1658414",
-        "kap:1658413",
         "kap:1658412",
         "kap:1658410",
         "kap:1658409",
@@ -33,7 +42,6 @@
         "kap:1658389",
         "kap:1658388",
         "kap:1658382",
-        "kap:1658373",
         "kap:1658372",
         "kap:1658365",
         "kap:1658319",
@@ -80,6 +88,8 @@
         "kap:1658157",
         "kap:1658156",
         "kap:1658145",
+        "kap:1658413",
+        "kap:1658373",
         "kap:1658144",
         "kap:1658143",
         "kap:1658142",
@@ -149,18 +159,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/dynex-kuantum-sensorler-ve-kuantum-anahtar-urunlerini-piyasaya-surdu-93CH-4054470",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/energizer-hissesi-bugun-neden-dusuyor-93CH-4054487",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/dynex-kuantum-sensorler-ve-kuantum-anahtar-urunlerini-piyasaya-surdu-93CH-4054470",
-        "investing:https://tr.investing.com/news/insider-trading-news/southern-conun-kontroloru-matthew-kim-8845-dolar-hisse-satt-93CH-4054454",
-        "investing:https://tr.investing.com/news/stock-market-news/bullish-hissesi-bugun-neden-yukseliyor-93CH-4054452",
-        "investing:https://tr.investing.com/news/stock-market-news/brp-hissesi-bugun-neden-dusuyor-93CH-4054451",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-uber-hissesi-icin-outperform-notunu-korudu-93CH-4054449",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-pge-hissesi-icin-hedef-fiyat-21-dolar-olarak-korudu-93CH-4054448",
-        "investing:https://tr.investing.com/news/analyst-ratings/truist-yapay-zeka-odakl-buyume-ile-snowflake-hisse-hedefini-yukseltti-93CH-4054447",
-        "investing:https://tr.investing.com/news/stock-market-news/albemarle-hissesi-bugun-neden-dusuyor-93CH-4054446",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-crowdstrike-hissesi-icin-hedefini-guclu-portfoy-ile-korudu-93CH-4054445",
-        "investing:https://tr.investing.com/news/analyst-ratings/bmo-netskopeun-hisse-hedefini-arr-buyume-gorunumuyle-yukseltti-93CH-4054444",
+        "investing:https://tr.investing.com/news/stock-market-news/energizer-hissesi-bugun-neden-dusuyor-93CH-4054487",
+        "investing:https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-yukseldi-4054486",
+        "investing:https://tr.investing.com/news/company-news/ignitis-group-2-milyar-euroluk-borc-programn-guncelledi-93CH-4054484",
+        "investing:https://tr.investing.com/news/insider-trading-news/materion-yoneticisi-emily-liggett-235210-dolar-degerinde-hisse-satt-93CH-4054483",
+        "investing:https://tr.investing.com/news/insider-trading-news/standex-sxi-yonetim-kurulu-uyesi-14244-dolar-degerinde-hisse-satt-93CH-4054482",
+        "investing:https://tr.investing.com/news/company-news/energy-vault-avustralya-batarya-depolama-projesi-icin-arazi-ald-93CH-4054481",
+        "investing:https://tr.investing.com/news/company-news/vici-properties-hissesi-2536-dolarda-52-haftalk-dibe-vurdu-93CH-4054480",
+        "investing:https://tr.investing.com/news/analyst-ratings/bernstein-five-below-icin-hisse-hedefini-yukseltti-93CH-4054479",
+        "investing:https://tr.investing.com/news/analyst-ratings/bernstein-snowflakein-hedef-fiyatn-yukseltti-93CH-4054478",
+        "investing:https://tr.investing.com/news/analyst-ratings/bernstein-medtronicin-hisse-hedefini-yukseltti-93CH-4054477",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -180,7 +190,17 @@
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
-        "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786"
+        "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/company-news/dynex-kuantum-sensorler-ve-kuantum-anahtar-urunlerini-piyasaya-surdu-93CH-4054470",
+        "investing:https://tr.investing.com/news/insider-trading-news/southern-conun-kontroloru-matthew-kim-8845-dolar-hisse-satt-93CH-4054454",
+        "investing:https://tr.investing.com/news/stock-market-news/bullish-hissesi-bugun-neden-yukseliyor-93CH-4054452",
+        "investing:https://tr.investing.com/news/stock-market-news/brp-hissesi-bugun-neden-dusuyor-93CH-4054451",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-uber-hissesi-icin-outperform-notunu-korudu-93CH-4054449",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-pge-hissesi-icin-hedef-fiyat-21-dolar-olarak-korudu-93CH-4054448",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-yapay-zeka-odakl-buyume-ile-snowflake-hisse-hedefini-yukseltti-93CH-4054447",
+        "investing:https://tr.investing.com/news/stock-market-news/albemarle-hissesi-bugun-neden-dusuyor-93CH-4054446",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-crowdstrike-hissesi-icin-hedefini-guclu-portfoy-ile-korudu-93CH-4054445",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-netskopeun-hisse-hedefini-arr-buyume-gorunumuyle-yukseltti-93CH-4054444"
       ]
     },
     "ntvpara": {
@@ -274,8 +294,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:57a7c6be7d9e8:0",
+      "last_seen_key": "tradingview:matriks:6717145:0",
       "seen_keys": [
+        "tradingview:matriks:6717145:0",
+        "tradingview:matriks:6717144:0",
+        "tradingview:matriks:6717142:0",
+        "tradingview:matriks:6717130:0",
+        "tradingview:matriks:6717128:0",
+        "tradingview:matriks:6717099:0",
         "tradingview:fxstreet:57a7c6be7d9e8:0",
         "tradingview:fxstreet:0d0ff385cd9e8:0",
         "tradingview:matriks:6717067:0",
@@ -381,6 +407,136 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "turkiye nin tar m g icecek sektoru 2026 y l n n temmuz ay nda 16 37 milyar dolar ihracat 16 38 milyar dolar ithalat yapt",
+      "link": "https://tr.tradingview.com/news/matriks:6717145:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "anadolu sigorta stratejik oncelikleri dogrultusunda organizasyon yap s nda degisiklige gitti",
+      "link": "https://tr.tradingview.com/news/matriks:6717144:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "haftal k parasal buyuklukler raporu gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6717142:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada basbakan carney abd yap lacak herhangi ticaret anlasmas nda istikrar guvenilirlik saglanmal",
+      "link": "https://tr.tradingview.com/news/matriks:6717130:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada basbakan carney washington haz r oldugunda abd masaya oturmaya ticaret anlasmas yapmaya haz r z",
+      "link": "https://tr.tradingview.com/news/matriks:6717128:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "macaristan merkez bankas n n faiz indirimlerine ara vermesi enflasyon hedefini 2 5 e cekmesi bekleniyor bn",
+      "link": "https://tr.tradingview.com/news/matriks:6717099:0"
+    },
+    {
+      "source": "investing",
+      "text": "energizer hissesi bugun neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/energizer-hissesi-bugun-neden-dusuyor-93CH-4054487"
+    },
+    {
+      "source": "investing",
+      "text": "cardano 10 oran nda yukseldi",
+      "link": "https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-yukseldi-4054486"
+    },
+    {
+      "source": "investing",
+      "text": "ignitis group 2 milyar euroluk borc program n guncelledi",
+      "link": "https://tr.investing.com/news/company-news/ignitis-group-2-milyar-euroluk-borc-programn-guncelledi-93CH-4054484"
+    },
+    {
+      "source": "investing",
+      "text": "materion yoneticisi emily liggett 235 210 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/materion-yoneticisi-emily-liggett-235210-dolar-degerinde-hisse-satt-93CH-4054483"
+    },
+    {
+      "source": "investing",
+      "text": "standex sxi yonetim kurulu uyesi 14 244 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/standex-sxi-yonetim-kurulu-uyesi-14244-dolar-degerinde-hisse-satt-93CH-4054482"
+    },
+    {
+      "source": "investing",
+      "text": "energy vault avustralya batarya depolama projesi arazi ald",
+      "link": "https://tr.investing.com/news/company-news/energy-vault-avustralya-batarya-depolama-projesi-icin-arazi-ald-93CH-4054481"
+    },
+    {
+      "source": "investing",
+      "text": "vici properties hissesi 25 36 dolarda 52 haftal k dibe vurdu",
+      "link": "https://tr.investing.com/news/company-news/vici-properties-hissesi-2536-dolarda-52-haftalk-dibe-vurdu-93CH-4054480"
+    },
+    {
+      "source": "investing",
+      "text": "bernstein five below hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/bernstein-five-below-icin-hisse-hedefini-yukseltti-93CH-4054479"
+    },
+    {
+      "source": "investing",
+      "text": "bernstein snowflake in hedef fiyat n yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/bernstein-snowflakein-hedef-fiyatn-yukseltti-93CH-4054478"
+    },
+    {
+      "source": "investing",
+      "text": "bernstein medtronic in hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/bernstein-medtronicin-hisse-hedefini-yukseltti-93CH-4054477"
+    },
+    {
+      "source": "kap",
+      "text": "psgyo pay baz nda devre kesici bildirimi psgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658470"
+    },
+    {
+      "source": "kap",
+      "text": "lydye pay baz nda devre kesici bildirimi lydye e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658469"
+    },
+    {
+      "source": "kap",
+      "text": "kords pay baz nda devre kesici bildirimi kords e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658468"
+    },
+    {
+      "source": "kap",
+      "text": "frigo pay baz nda devre kesici bildirimi frigo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658467"
+    },
+    {
+      "source": "kap",
+      "text": "tektu pay baz nda devre kesici bildirimi tektu e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658466"
+    },
+    {
+      "source": "kap",
+      "text": "rysas pay baz nda devre kesici bildirimi rysas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658464"
+    },
+    {
+      "source": "kap",
+      "text": "prdgs pay baz nda devre kesici bildirimi prdgs e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658463"
+    },
+    {
+      "source": "kap",
+      "text": "dtbmk ihrac tavan na iliskin bildirim yurt d s nda halka arz edilmeksizin sat lmak uzere tahvil finansman bonosu kira sertifikas ihraclar yap lmas hk sirket destek yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658462"
+    },
+    {
+      "source": "kap",
+      "text": "kcaer pay baz nda devre kesici bildirimi kcaer e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658452"
+    },
+    {
+      "source": "kap",
+      "text": "mpy genel ac klama mas fonunun donusumu hk sirket marmara capital portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658448"
+    },
     {
       "source": "tradingview",
       "text": "euro bolgesi ihracat zirvesinin ard ndan yeni buyume yollar ing",
