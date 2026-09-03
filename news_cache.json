@@ -153,18 +153,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/camp4-cfo-kelly-gold-39600-dolarlk-hisse-senedi-satn-ald-93CH-4053185",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/insmed-yoneticisi-sharoky-637650-dolar-degerinde-hisse-satt-93CH-4053190",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/insmed-yoneticisi-sharoky-637650-dolar-degerinde-hisse-satt-93CH-4053190",
+        "investing:https://tr.investing.com/news/insider-trading-news/pbf-energy-yoneticisi-897-milyon-dolarlk-hisse-satt-93CH-4053189",
+        "investing:https://tr.investing.com/news/insider-trading-news/castle-biosciences-cco-tobin-juvenal-51190-dolarlk-hisse-satt-93CH-4053187",
+        "investing:https://tr.investing.com/news/insider-trading-news/marathon-petroleum-hukuk-muduru-61-milyon-dolarlk-hisse-satt-93CH-4053188",
         "investing:https://tr.investing.com/news/insider-trading-news/camp4-cfo-kelly-gold-39600-dolarlk-hisse-senedi-satn-ald-93CH-4053185",
         "investing:https://tr.investing.com/news/commodities-news/petrol-trumpn-iran-kampanyasnn-ksa-surebilecegini-belirtmesiyle-dustu-4053186",
         "investing:https://tr.investing.com/news/commodities-news/altn-trump-ve-fed-acklamalar-enflasyon-endiselerini-azalttkca-4400-dolar-civarnda-tutuyor-4053184",
         "investing:https://tr.investing.com/news/insider-trading-news/pulse-biosciences-coo-99971-dolarlk-hisse-satn-ald-93CH-4053181",
         "investing:https://tr.investing.com/news/insider-trading-news/likidite-hizmetleri-evpsi-29508-dolar-degerinde-lqdt-hissesi-satt-93CH-4053180",
         "investing:https://tr.investing.com/news/insider-trading-news/exozymes-ceosu-michael-heltzen-sirket-hisselerinden-6405-dolar-ald-93CH-4053179",
-        "investing:https://tr.investing.com/news/insider-trading-news/tela-bio-ceosu-heather-getz-8311-dolarlk-hisse-satn-ald-93CH-4053176",
-        "investing:https://tr.investing.com/news/insider-trading-news/samsara-cao-benjamin-kirchhoff-142254-dolarlk-hisse-satt-93CH-4053175",
-        "investing:https://tr.investing.com/news/insider-trading-news/keros-therapeutics-yoneticisi-bienaime-10270-dolar-degerinde-hisse-ald-93CH-4053174",
-        "investing:https://tr.investing.com/news/insider-trading-news/interface-baskan-yardmcs-110807-dolarlk-hisse-satt-93CH-4053173",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -185,6 +185,10 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/insider-trading-news/tela-bio-ceosu-heather-getz-8311-dolarlk-hisse-satn-ald-93CH-4053176",
+        "investing:https://tr.investing.com/news/insider-trading-news/samsara-cao-benjamin-kirchhoff-142254-dolarlk-hisse-satt-93CH-4053175",
+        "investing:https://tr.investing.com/news/insider-trading-news/keros-therapeutics-yoneticisi-bienaime-10270-dolar-degerinde-hisse-ald-93CH-4053174",
+        "investing:https://tr.investing.com/news/insider-trading-news/interface-baskan-yardmcs-110807-dolarlk-hisse-satt-93CH-4053173",
         "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-iran-ve-faiz-endiseleriyle-yatay-4053177",
         "investing:https://tr.investing.com/news/stock-market-news/hpe-hissesi-mesai-sonras-neden-dusuyor-93CH-4053171",
         "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-shopify-hissesi-satt-intellia-therapeutics-ald-93CH-4053169",
@@ -445,6 +449,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "insmed yoneticisi sharoky 637 650 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/insmed-yoneticisi-sharoky-637650-dolar-degerinde-hisse-satt-93CH-4053190"
+    },
+    {
+      "source": "investing",
+      "text": "pbf energy yoneticisi 8 97 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/pbf-energy-yoneticisi-897-milyon-dolarlk-hisse-satt-93CH-4053189"
+    },
+    {
+      "source": "investing",
+      "text": "castle biosciences cco tobin juvenal 51 190 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/castle-biosciences-cco-tobin-juvenal-51190-dolarlk-hisse-satt-93CH-4053187"
+    },
+    {
+      "source": "investing",
+      "text": "marathon petroleum hukuk muduru 6 1 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/marathon-petroleum-hukuk-muduru-61-milyon-dolarlk-hisse-satt-93CH-4053188"
+    },
     {
       "source": "tradingview",
       "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7829 seviyesine k yasla 6 7807 olarak belirledi",
