@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657959",
+      "last_seen_key": "kap:1657973",
       "seen_keys": [
+        "kap:1657973",
+        "kap:1657972",
+        "kap:1657971",
+        "kap:1657970",
         "kap:1657959",
         "kap:1657957",
         "kap:1657956",
@@ -72,7 +76,6 @@
         "kap:1657774",
         "kap:1657773",
         "kap:1657769",
-        "kap:1657768",
         "kap:1657766",
         "kap:1657765",
         "kap:1657764",
@@ -85,6 +88,7 @@
         "kap:1657755",
         "kap:1657754",
         "kap:1657753",
+        "kap:1657768",
         "kap:1657752",
         "kap:1657751",
         "kap:1657750",
@@ -549,8 +553,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-buyume-serisinin-lokomotifi-bilgi-ve-iletisim-oldu-955779.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/otomotiv-endustrisi-agustosta-ihracatta-ilk-sirada-955781.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/otomotiv-endustrisi-agustosta-ihracatta-ilk-sirada-955781.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-buyume-serisinin-lokomotifi-bilgi-ve-iletisim-oldu-955779.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kira-sozlesmesinde-e-devlet-donemi-anlasmazliklarda-anahtar-olacak-955776.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/yilliklandirilmis-ihracatta-cumhuriyet-tarihinin-rekoru-kirildi-955775.html",
@@ -628,8 +633,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44V0QZ:0",
+      "last_seen_key": "tradingview:fxstreet:da572c7c5d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:da572c7c5d9e8:0",
+        "tradingview:fxstreet:76ab3008ad9e8:0",
+        "tradingview:matriks:6715851:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44V0QZ:0",
         "tradingview:matriks:6715746:0",
         "tradingview:fxstreet:0cf57f1e9d9e8:0",
@@ -637,6 +645,7 @@
         "tradingview:matriks:6715736:0",
         "tradingview:cointelegraph:02cc670d5d9e8:0",
         "tradingview:matriks:6715731:0",
+        "tradingview:beincrypto:c8e9d808ed9e8:0",
         "tradingview:cointelegraph:e3f65eaf6d9e8:0",
         "tradingview:fxstreet:95947cffad9e8:0",
         "tradingview:fxstreet:aa7013e7bd9e8:0",
@@ -1045,6 +1054,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "isvicre frang isvicre verileri dip al m senaryosunu destekliyor societe generale",
+      "link": "https://tr.tradingview.com/news/fxstreet:da572c7c5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "0 8600 bask alt nda eur gbp hizmetler pmi lar n n ard ndan iki ayl k zirvelerde",
+      "link": "https://tr.tradingview.com/news/fxstreet:76ab3008ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "makro analiz enflasyon integral yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6715851:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "otomotiv endustrisi agustosta ihracatta ilk s rada otomotiv endustrisi agustos ay nda 2 milyar 791 milyon dolarla en fazla ihracata imza atan sektor olarak kay tlara gecti",
+      "link": "https://www.trthaber.com/haber/ekonomi/otomotiv-endustrisi-agustosta-ihracatta-ilk-sirada-955781.html"
+    },
+    {
+      "source": "kap",
+      "text": "kboru pay baz nda devre kesici bildirimi kboru e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657973"
+    },
+    {
+      "source": "kap",
+      "text": "selec pay baz nda devre kesici bildirimi selec e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657972"
+    },
+    {
+      "source": "kap",
+      "text": "przma pay baz nda devre kesici bildirimi przma e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657971"
+    },
+    {
+      "source": "kap",
+      "text": "kcaer pay baz nda devre kesici bildirimi kcaer e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657970"
+    },
     {
       "source": "kap",
       "text": "cwene pay baz nda devre kesici bildirimi cwene e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
