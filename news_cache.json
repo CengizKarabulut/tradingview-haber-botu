@@ -153,8 +153,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/fast-retailing-hissesi-bugun-neden-dusuyor-93CH-4053243",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/japonyann-en-buyuk-5-ticaret-sirketi-neden-yukseliste-93CH-4053247",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/japonyann-en-buyuk-5-ticaret-sirketi-neden-yukseliste-93CH-4053247",
+        "investing:https://tr.investing.com/news/stock-market-news/bytedance-yapay-zeka-harcamalar-hzlanrken-296-milyar-dolar-kredi-ald-4053245",
         "investing:https://tr.investing.com/news/stock-market-news/fast-retailing-hissesi-bugun-neden-dusuyor-93CH-4053243",
         "investing:https://tr.investing.com/news/stock-market-news/nitori-hisseleri-neden-bugun-yukseliyor-93CH-4053242",
         "investing:https://tr.investing.com/news/stock-market-news/corporate-travel-management-hisseleri-yllk-aradan-sonra-yuzde-80-dustu-4053240",
@@ -163,8 +165,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/corporate-travel-management-hissesi-neden-cokuyor-93CH-4053235",
         "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-tahvil-getirilerindeki-dususle-yukseldi-4053234",
         "investing:https://tr.investing.com/news/insider-trading-news/rxsight-cfosu-54044-dolarlk-hisse-satt-93CH-4053232",
-        "investing:https://tr.investing.com/news/insider-trading-news/rxsight-coo-ilya-goldshleger-14205-dolarlk-hisse-satt-93CH-4053231",
-        "investing:https://tr.investing.com/news/insider-trading-news/rxsight-cmo-ronald-kurtz-vergi-icin-35496-dolar-degerinde-hisse-satt-93CH-4053230",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -185,6 +185,8 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/insider-trading-news/rxsight-coo-ilya-goldshleger-14205-dolarlk-hisse-satt-93CH-4053231",
+        "investing:https://tr.investing.com/news/insider-trading-news/rxsight-cmo-ronald-kurtz-vergi-icin-35496-dolar-degerinde-hisse-satt-93CH-4053230",
         "investing:https://tr.investing.com/news/insider-trading-news/rackspace-technology-ceosu-kandiah-24361-dolar-degerinde-hisse-satt-93CH-4053229",
         "investing:https://tr.investing.com/news/insider-trading-news/rackspace-evp-sinha-315655-dolarlk-hisse-satt-93CH-4053228",
         "investing:https://tr.investing.com/news/insider-trading-news/rackspace-technology-cfosu-marino-151550-dolarlk-hisse-satt-93CH-4053227",
@@ -369,8 +371,26 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6714548:0",
+      "last_seen_key": "tradingview:fxstreet:f7506e58dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:f7506e58dd9e8:0",
+        "tradingview:matriks:6714617:0",
+        "tradingview:matriks:6714615:0",
+        "tradingview:matriks:6714613:0",
+        "tradingview:matriks:6714612:0",
+        "tradingview:matriks:6714611:0",
+        "tradingview:fxstreet:c471403a8d9e8:0",
+        "tradingview:matriks:6714610:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44V05W:0",
+        "tradingview:matriks:6714609:0",
+        "tradingview:matriks:6714606:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44V05U:0",
+        "tradingview:fxstreet:e09247f5ed9e8:0",
+        "tradingview:matriks:6714604:0",
+        "tradingview:matriks:6714602:0",
+        "tradingview:matriks:6714600:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44V05H:0",
+        "tradingview:matriks:6714560:0",
         "tradingview:matriks:6714548:0",
         "tradingview:matriks:6714542:0",
         "tradingview:fxstreet:d4149adbbd9e8:0",
@@ -426,6 +446,7 @@
         "tradingview:fxstreet:425db2792d9e8:0",
         "tradingview:fxstreet:eb0cebe81d9e8:0",
         "tradingview:fxstreet:1732271b5d9e8:0",
+        "tradingview:beincrypto:5c0ad4105d9e8:0",
         "tradingview:beincrypto:bfcea3617d9e8:0",
         "tradingview:fxstreet:8269deaf5d9e8:0",
         "tradingview:fxstreet:6ce29d5ffd9e8:0",
@@ -555,6 +576,106 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "wti fiyat analizi 89 00 n uzerinde konsolide oluyor iran riskleri aras nda yukselis egilimi devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f7506e58dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "analitik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6714617:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s sabah bulteni ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6714615:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "pusula yat r m halkb 100 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 100 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6714613:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6714612:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasalar bulteni unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6714611:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan alt n fiyat bugun fxstreet taraf ndan derlenen verilere gore alt n fiyat yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:c471403a8d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "toplant notlar halkb pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6714610:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "resmi gazete bugun 3 eylul 2026",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44V05W:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop teknik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6714609:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s sabah teknik bulteni ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6714606:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yat r mlar n finansman programlar na erisimine yonelik sartlar yeniden duzelendi",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44V05U:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur jpy fiyat analizi simetrik ucgenin alt s n r yak nlar nda 183 00 civar na dusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e09247f5ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "destekler direncler info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6714604:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist100 teknik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6714602:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bist gunluk teknik analiz yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6714600:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "spk arac kurumlar n uzaktan kimlik tespit sureclerine yonelik duzenleme yapt",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44V05H:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bak r sili deki uretim dususunun yaratt g arz endiseleriyle yukseldi",
+      "link": "https://tr.tradingview.com/news/matriks:6714560:0"
+    },
+    {
+      "source": "investing",
+      "text": "japonya n n en buyuk 5 ticaret sirketi neden yukseliste",
+      "link": "https://tr.investing.com/news/stock-market-news/japonyann-en-buyuk-5-ticaret-sirketi-neden-yukseliste-93CH-4053247"
+    },
+    {
+      "source": "investing",
+      "text": "bytedance yapay zeka harcamalar h zlan rken 29 6 milyar dolar kredi ald",
+      "link": "https://tr.investing.com/news/stock-market-news/bytedance-yapay-zeka-harcamalar-hzlanrken-296-milyar-dolar-kredi-ald-4053245"
+    },
     {
       "source": "tradingview",
       "text": "viop bist30 gunluk teknik analiz yap kredi yat r m",
