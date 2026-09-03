@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658006",
+      "last_seen_key": "kap:1658025",
       "seen_keys": [
+        "kap:1658025",
+        "kap:1658010",
+        "kap:1658009",
+        "kap:1658008",
+        "kap:1658007",
         "kap:1658006",
         "kap:1657995",
         "kap:1657994",
@@ -14,7 +19,6 @@
         "kap:1657981",
         "kap:1657980",
         "kap:1657979",
-        "kap:1657978",
         "kap:1657972",
         "kap:1657971",
         "kap:1657970",
@@ -37,7 +41,6 @@
         "kap:1657870",
         "kap:1657869",
         "kap:1657868",
-        "kap:1657867",
         "kap:1657866",
         "kap:1657865",
         "kap:1657864",
@@ -81,6 +84,8 @@
         "kap:1657788",
         "kap:1657784",
         "kap:1657783",
+        "kap:1657978",
+        "kap:1657867",
         "kap:1657775",
         "kap:1657774",
         "kap:1657773",
@@ -300,18 +305,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/mkangonun-yan-kurulusu-spac-birlesmesi-icin-degistirilmis-f4-formunu-sundu-93CH-4053763",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/buckle-agustos-aynda-karslastrlabilir-magaza-satslarnda-16-arts-bildirdi-93CH-4053825",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/mkangonun-yan-kurulusu-spac-birlesmesi-icin-degistirilmis-f4-formunu-sundu-93CH-4053763",
-        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-yapay-zeka-buyumesi-nedeniyle-snowflake-hisse-hedefini-yukseltti-93CH-4053759",
-        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-yapay-zeka-buyumesi-nedeniyle-crowdstrike-hisse-hedefini-yukseltti-93CH-4053760",
-        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-yapay-zeka-buyume-gorunumuyle-broadcom-hisse-hedefini-yukseltti-93CH-4053758",
-        "investing:https://tr.investing.com/news/economy-news/ecbden-schnabel-imf-icin-erken-ayrlabilir-93CH-4053757",
-        "investing:https://tr.investing.com/news/stock-market-news/orlen-ceosu-polimery-police-anlasmasnn-yaknda-tamamlanmasn-bekliyor-93CH-4053752",
-        "investing:https://tr.investing.com/news/economy-news/sp-cin-tahvil-piyasasndaki-derecelendirme-risklerine-dikkat-cekti-93CH-4053750",
-        "investing:https://tr.investing.com/news/analyst-ratings/bofa-leggett-satn-alm-sonras-somnigroup-hisse-hedefini-yukseltti-93CH-4053749",
-        "investing:https://tr.investing.com/news/analyst-ratings/needham-uipath-hissesi-icin-hedef-fiyat-22-dolara-yukseltti-93CH-4053747",
-        "investing:https://tr.investing.com/news/analyst-ratings/needham-gelir-25-duserken-c3ai-hisse-notunu-koruyor-93CH-4053746",
+        "investing:https://tr.investing.com/news/company-news/buckle-agustos-aynda-karslastrlabilir-magaza-satslarnda-16-arts-bildirdi-93CH-4053825",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-amalgamated-bank-hissesi-icin-alm-tavsiyesi-verdi-93CH-4053814",
+        "investing:https://tr.investing.com/news/economy-news/hsbc-fed-gorunumuyle-hazine-tahvili-getiri-tahminlerini-yukseltti-4053813",
+        "investing:https://tr.investing.com/news/company-news/scorpio-tankers-3c-verilerini-acklad-uc-gemi-kiralad-93CH-4053806",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-on-semiconductor-icin-hisse-hedefini-dusurdu-93CH-4053781",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-phreesiann-hisse-hedefini-yukseltti-93CH-4053780",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-hp-enterprisen-hisse-hedefini-dusurdu-93CH-4053779",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-ultragenyx-pharma-icin-hedef-fiyat-dusurdu-93CH-4053778",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-five-below-icin-hisse-hedefini-yukseltti-93CH-4053777",
+        "investing:https://tr.investing.com/news/analyst-ratings/wells-fargo-netapp-icin-hedef-fiyat-190-dolara-yukseltti-93CH-4053776",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -332,6 +337,16 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/company-news/mkangonun-yan-kurulusu-spac-birlesmesi-icin-degistirilmis-f4-formunu-sundu-93CH-4053763",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-yapay-zeka-buyumesi-nedeniyle-snowflake-hisse-hedefini-yukseltti-93CH-4053759",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-yapay-zeka-buyumesi-nedeniyle-crowdstrike-hisse-hedefini-yukseltti-93CH-4053760",
+        "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-yapay-zeka-buyume-gorunumuyle-broadcom-hisse-hedefini-yukseltti-93CH-4053758",
+        "investing:https://tr.investing.com/news/economy-news/ecbden-schnabel-imf-icin-erken-ayrlabilir-93CH-4053757",
+        "investing:https://tr.investing.com/news/stock-market-news/orlen-ceosu-polimery-police-anlasmasnn-yaknda-tamamlanmasn-bekliyor-93CH-4053752",
+        "investing:https://tr.investing.com/news/economy-news/sp-cin-tahvil-piyasasndaki-derecelendirme-risklerine-dikkat-cekti-93CH-4053750",
+        "investing:https://tr.investing.com/news/analyst-ratings/bofa-leggett-satn-alm-sonras-somnigroup-hisse-hedefini-yukseltti-93CH-4053749",
+        "investing:https://tr.investing.com/news/analyst-ratings/needham-uipath-hissesi-icin-hedef-fiyat-22-dolara-yukseltti-93CH-4053747",
+        "investing:https://tr.investing.com/news/analyst-ratings/needham-gelir-25-duserken-c3ai-hisse-notunu-koruyor-93CH-4053746",
         "investing:https://tr.investing.com/news/stock-market-news/teslann-fsd-testleri-fransada-baslad-93CH-4053684",
         "investing:https://tr.investing.com/news/analyst-ratings/jefferies-yapay-zeka-urun-gucune-dayanarak-crowdstrike-hisse-notunu-korudu-93CH-4053680",
         "investing:https://tr.investing.com/news/stock-market-news/kenya-tata-chemicalsn-faaliyetlerini-durdurmasn-emretti-93CH-4053679",
@@ -664,8 +679,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6715970:0",
+      "last_seen_key": "tradingview:matriks:6716071:0",
       "seen_keys": [
+        "tradingview:matriks:6716071:0",
+        "tradingview:matriks:6716064:0",
+        "tradingview:matriks:6716061:0",
+        "tradingview:fxstreet:c5e5b9d7cd9e8:0",
+        "tradingview:matriks:6716030:0",
+        "tradingview:matriks:6716028:0",
+        "tradingview:matriks:6716026:0",
+        "tradingview:fxstreet:0b0ea1b6ad9e8:0",
+        "tradingview:matriks:6716022:0",
+        "tradingview:fxstreet:1b857f0ccd9e8:0",
+        "tradingview:matriks:6716004:0",
         "tradingview:matriks:6715970:0",
         "tradingview:matriks:6715939:0",
         "tradingview:matriks:6715938:0",
@@ -703,7 +729,6 @@
         "tradingview:matriks:6715594:0",
         "tradingview:beincrypto:ea2fb8ba5d9e8:0",
         "tradingview:matriks:6715579:0",
-        "tradingview:fxstreet:c5e5b9d7cd9e8:0",
         "tradingview:fxstreet:c6b21c54fd9e8:0",
         "tradingview:fxstreet:fed0ecdc9d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_S8N44B036:0",
@@ -1098,6 +1123,131 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "izmir ankara havalimanlar yolcu deneyiminde kuresel onur listesinde",
+      "link": "https://tr.tradingview.com/news/matriks:6716071:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gun ortas notlar garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6716064:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "makro analiz enflasyon oyak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6716061:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankac l k sektoru bilanco ici yabanc para pozisyonu 2 trilyon 722 milyar tl onceki hafta 2 trilyon 813 milyar tl y lbas 2 trilyon 94 milyar tl bddk",
+      "link": "https://tr.tradingview.com/news/matriks:6716030:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankac l k sektoru toplam kredileri 28 agustos itibar yla 28 trilyon 29 milyar tl onceki hafta 27 trilyon 734 milyar tl y lbas 23 trilyon 51 milyar tl bddk",
+      "link": "https://tr.tradingview.com/news/matriks:6716028:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ege kuru meyve mamulleri ihracatc lar birligi avrupa kuru meyve sektorunun ust duzey temsilcilerini ag rlad",
+      "link": "https://tr.tradingview.com/news/matriks:6716026:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar olumsuz abd nfp zemini nedeniyle abd dolar kars s nda deger kazan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:0b0ea1b6ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avrupa birligi konseyi y llar n en kapsaml gumruk reformuna nihai onay n verdi",
+      "link": "https://tr.tradingview.com/news/matriks:6716022:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro mudahale tehditleriyle japon yeni yukselirken sert dusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:1b857f0ccd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "apple uygulama takip kurallar na iliskin olarak inglitere 2 7 milyar dolarl r davayla kars kars ya",
+      "link": "https://tr.tradingview.com/news/matriks:6716004:0"
+    },
+    {
+      "source": "investing",
+      "text": "buckle agustos ay nda kars last r labilir magaza sat slar nda 1 6 art s bildirdi",
+      "link": "https://tr.investing.com/news/company-news/buckle-agustos-aynda-karslastrlabilir-magaza-satslarnda-16-arts-bildirdi-93CH-4053825"
+    },
+    {
+      "source": "investing",
+      "text": "raymond james amalgamated bank hissesi al m tavsiyesi verdi",
+      "link": "https://tr.investing.com/news/analyst-ratings/raymond-james-amalgamated-bank-hissesi-icin-alm-tavsiyesi-verdi-93CH-4053814"
+    },
+    {
+      "source": "investing",
+      "text": "hsbc fed gorunumuyle hazine tahvili getiri tahminlerini yukseltti",
+      "link": "https://tr.investing.com/news/economy-news/hsbc-fed-gorunumuyle-hazine-tahvili-getiri-tahminlerini-yukseltti-4053813"
+    },
+    {
+      "source": "investing",
+      "text": "scorpio tankers 3c verilerini ac klad uc gemi kiralad",
+      "link": "https://tr.investing.com/news/company-news/scorpio-tankers-3c-verilerini-acklad-uc-gemi-kiralad-93CH-4053806"
+    },
+    {
+      "source": "investing",
+      "text": "wells fargo on semiconductor hisse hedefini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-on-semiconductor-icin-hisse-hedefini-dusurdu-93CH-4053781"
+    },
+    {
+      "source": "investing",
+      "text": "wells fargo phreesia n n hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-phreesiann-hisse-hedefini-yukseltti-93CH-4053780"
+    },
+    {
+      "source": "investing",
+      "text": "wells fargo hp enterprise n hisse hedefini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-hp-enterprisen-hisse-hedefini-dusurdu-93CH-4053779"
+    },
+    {
+      "source": "investing",
+      "text": "wells fargo ultragenyx pharma hedef fiyat dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-ultragenyx-pharma-icin-hedef-fiyat-dusurdu-93CH-4053778"
+    },
+    {
+      "source": "investing",
+      "text": "wells fargo five below hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-five-below-icin-hisse-hedefini-yukseltti-93CH-4053777"
+    },
+    {
+      "source": "investing",
+      "text": "wells fargo netapp hedef fiyat 190 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/wells-fargo-netapp-icin-hedef-fiyat-190-dolara-yukseltti-93CH-4053776"
+    },
+    {
+      "source": "kap",
+      "text": "ekgyo ozel durum ac klamas genel istanbul kucukcekmece halkal bat 1 etap yer teslimi sirket emlak konut gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658025"
+    },
+    {
+      "source": "kap",
+      "text": "smrtg pay baz nda devre kesici bildirimi smrtg e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658010"
+    },
+    {
+      "source": "kap",
+      "text": "info pay baz nda devre kesici bildirimi info e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658009"
+    },
+    {
+      "source": "kap",
+      "text": "miatk birlesme islemlerine iliskin bildirim sirket birlesmesi nedeni ihrac belgesinin onay spk basvurusu hak sirket mia teknoloji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658008"
+    },
+    {
+      "source": "kap",
+      "text": "samat pay baz nda devre kesici bildirimi samat e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658007"
+    },
     {
       "source": "tradingview",
       "text": "barclays cau eylul ilerledikce risk azaltma gerekcesi gucleniyor bn",
