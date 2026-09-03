@@ -2,8 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658025",
+      "last_seen_key": "kap:1658049",
       "seen_keys": [
+        "kap:1658049",
+        "kap:1658037",
+        "kap:1658036",
         "kap:1658025",
         "kap:1658010",
         "kap:1658009",
@@ -50,7 +53,6 @@
         "kap:1657849",
         "kap:1657847",
         "kap:1657844",
-        "kap:1657834",
         "kap:1657832",
         "kap:1657831",
         "kap:1657830",
@@ -83,6 +85,7 @@
         "kap:1657789",
         "kap:1657788",
         "kap:1657784",
+        "kap:1657834",
         "kap:1657783",
         "kap:1657978",
         "kap:1657867",
@@ -233,8 +236,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-uretici-fiyatlari-beklentilerin-uzerinde-artti-3787217",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/citi-den-enflasyon-analizi-tcmb-tahmini-3787219",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/citi-den-enflasyon-analizi-tcmb-tahmini-3787219",
         "bloomberght:https://www.bloomberght.com/euro-bolgesi-nde-uretici-fiyatlari-beklentilerin-uzerinde-artti-3787217",
         "bloomberght:https://www.bloomberght.com/yilmaz-enflasyonla-mucadeleyi-kararlilikla-surduruyoruz-3787216",
         "bloomberght:https://www.bloomberght.com/spkdan-yabancilara-yakin-alan-iletisimi-ozelligi-olan-pasaportla-musteri-olabilme-imkani-3787213",
@@ -679,12 +683,26 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6716071:0",
+      "last_seen_key": "tradingview:matriks:6716136:0",
       "seen_keys": [
+        "tradingview:matriks:6716136:0",
+        "tradingview:fxstreet:24242d2d3d9e8:0",
+        "tradingview:fxstreet:68f17b6cdd9e8:0",
+        "tradingview:fxstreet:0d0ff385cd9e8:0",
+        "tradingview:matriks:6716086:0",
         "tradingview:matriks:6716071:0",
         "tradingview:matriks:6716064:0",
         "tradingview:matriks:6716061:0",
         "tradingview:fxstreet:c5e5b9d7cd9e8:0",
+        "tradingview:matriks:6716040:0",
+        "tradingview:matriks:6716039:0",
+        "tradingview:matriks:6716038:0",
+        "tradingview:matriks:6716037:0",
+        "tradingview:matriks:6716036:0",
+        "tradingview:matriks:6716035:0",
+        "tradingview:matriks:6716034:0",
+        "tradingview:matriks:6716033:0",
+        "tradingview:matriks:6716032:0",
         "tradingview:matriks:6716030:0",
         "tradingview:matriks:6716028:0",
         "tradingview:matriks:6716026:0",
@@ -1123,6 +1141,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ecb yonetim kurulu uyesi schnabel imf ye gecerek bankadan erken ayr labilir handelsblatt",
+      "link": "https://tr.tradingview.com/news/matriks:6716136:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti petrol orta dogu topyekun savas risklerinin artmas yla 91 civar nda zirvelere ulast",
+      "link": "https://tr.tradingview.com/news/fxstreet:24242d2d3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar k sa vadeli istikrar gorunumu bbh",
+      "link": "https://tr.tradingview.com/news/fxstreet:68f17b6cdd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ons alt n yen onculugundeki abd dolar dususunun s k lasmac fed beklentilerini golgede b rakmas yla yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:0d0ff385cd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "citi den enflasyon analizi tcmb tahmini citi agustos enflasyonuna yonelik analizinde ekonomik buyumedeki yavaslamaya ragmen enflasyon gorunumunun direncli zorlu seyrini korudugunu belirtti",
+      "link": "https://www.bloomberght.com/citi-den-enflasyon-analizi-tcmb-tahmini-3787219"
+    },
+    {
+      "source": "kap",
+      "text": "dgate pay baz nda devre kesici bildirimi dgate e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658049"
+    },
+    {
+      "source": "kap",
+      "text": "ditas pay baz nda devre kesici bildirimi ditas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658037"
+    },
+    {
+      "source": "kap",
+      "text": "dunyh pay baz nda devre kesici bildirimi dunyh e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658036"
+    },
     {
       "source": "tradingview",
       "text": "izmir ankara havalimanlar yolcu deneyiminde kuresel onur listesinde",
