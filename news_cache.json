@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658229",
+      "last_seen_key": "kap:1658252",
       "seen_keys": [
+        "kap:1658252",
+        "kap:1658244",
+        "kap:1658239",
+        "kap:1658231",
         "kap:1658229",
         "kap:1658227",
         "kap:1658225",
@@ -78,8 +82,8 @@
         "kap:1657885",
         "kap:1657884",
         "kap:1657883",
-        "kap:1657875",
         "kap:1657873",
+        "kap:1657875",
         "kap:1657870",
         "kap:1657869",
         "kap:1657988",
@@ -127,6 +131,7 @@
       "seen_keys": [
         "bloomberght:https://www.bloomberght.com/fed-uyesi-waller-dan-eylul-toplantisi-icin-agustos-verisi-mesaji-3787244",
         "bloomberght:https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-artti-3787243",
+        "bloomberght:https://www.bloomberght.com/abd-nin-dis-ticaret-acigi-2025-ten-beri-en-yuksek-seviyede-3787242",
         "bloomberght:https://www.bloomberght.com/nvidia-yapay-zeka-platformu-hugging-face-i-13-milyar-dolara-satin-aliyor-3787238",
         "bloomberght:https://www.bloomberght.com/sicak-parada-fren-rekordan-cekildi-3787237",
         "bloomberght:https://www.bloomberght.com/alman-ekonomi-enstituleri-buyume-tahminlerini-yukseltti-3787232",
@@ -184,18 +189,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/airbus-kalite-sorunu-nedeniyle-a330-teslimatlarn-yavaslatt-93CH-4054121",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-campbell-hissesi-icin-tut-tavsiyesini-korudu-93CH-4054203",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/stock-market-news/airbus-kalite-sorunu-nedeniyle-a330-teslimatlarn-yavaslatt-93CH-4054121",
-        "investing:https://tr.investing.com/news/company-news/quantum-x-labs-kuantum-tasma-icin-geometrik-kodlama-gelistirdi-93CH-4054116",
-        "investing:https://tr.investing.com/news/insider-trading-news/mattel-evp-586909-dolarlk-hisse-satt-93CH-4054112",
-        "investing:https://tr.investing.com/news/stock-market-news/robinhood-markets-hissesi-neden-yukseliyor-93CH-4054096",
-        "investing:https://tr.investing.com/news/stock-market-news/polestar-automotive-hisseleri-neden-dusuyor-93CH-4054095",
-        "investing:https://tr.investing.com/news/stock-market-news/victorias-secret-hisseleri-neden-dusuyor-93CH-4054089",
-        "investing:https://tr.investing.com/news/insider-trading-news/grindr-cpo-austin-balance-138-milyon-dolarlk-hisse-satt-93CH-4054087",
-        "investing:https://tr.investing.com/news/stock-market-news/lvmh-moet-hennessy-louis-vuitton-hissesi-neden-dusuyor-93CH-4054086",
-        "investing:https://tr.investing.com/news/stock-market-news/xiaomi-avrupaya-2027de-giris-icin-alman-bayilerle-anlast-93CH-4054066",
-        "investing:https://tr.investing.com/news/company-news/mint-hisseleri-ethereum-ve-solanada-tokenize-edilecek-93CH-4054060",
+        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-campbell-hissesi-icin-tut-tavsiyesini-korudu-93CH-4054203",
+        "investing:https://tr.investing.com/news/world-news/polonya-merkez-bankas-faizleri-2026ya-kadar-sabit-tutacak-93CH-4054201",
+        "investing:https://tr.investing.com/news/stock-market-news/toparlanma-senaryolar-genislerken-alnacak-tarm-ekipman-hisseleri-93CH-4054196",
+        "investing:https://tr.investing.com/news/economy-news/abdnin-ticaret-acg-temmuzda-886-milyar-dolara-yukseldi-4054197",
+        "investing:https://tr.investing.com/news/stock-market-news/jpmorgan-yukseltmesiyle-envista-holdings-hisseleri-yukseldi-93CH-4054195",
+        "investing:https://tr.investing.com/news/insider-trading-news/oppfi-ceosu-todd-schwartz-24542-dolar-degerinde-hisse-ald-93CH-4054194",
+        "investing:https://tr.investing.com/news/insider-trading-news/microsoft-ceosu-satya-nadella-434-milyon-dolarlk-hisse-satt-93CH-4054193",
+        "investing:https://tr.investing.com/news/insider-trading-news/venu-holding-corp-ceosu-jay-roth-4000-dolar-degerinde-hisse-ald-93CH-4054184",
+        "investing:https://tr.investing.com/news/company-news/ridgeview-destekli-bidco-pinewoodai-icin-4655-destek-koruyor-93CH-4054183",
+        "investing:https://tr.investing.com/news/company-news/eightconun-varlklar-openai-hissesi-dahil-380-milyon-dolar-93CH-4054182",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -216,6 +221,16 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/stock-market-news/airbus-kalite-sorunu-nedeniyle-a330-teslimatlarn-yavaslatt-93CH-4054121",
+        "investing:https://tr.investing.com/news/company-news/quantum-x-labs-kuantum-tasma-icin-geometrik-kodlama-gelistirdi-93CH-4054116",
+        "investing:https://tr.investing.com/news/insider-trading-news/mattel-evp-586909-dolarlk-hisse-satt-93CH-4054112",
+        "investing:https://tr.investing.com/news/stock-market-news/robinhood-markets-hissesi-neden-yukseliyor-93CH-4054096",
+        "investing:https://tr.investing.com/news/stock-market-news/polestar-automotive-hisseleri-neden-dusuyor-93CH-4054095",
+        "investing:https://tr.investing.com/news/stock-market-news/victorias-secret-hisseleri-neden-dusuyor-93CH-4054089",
+        "investing:https://tr.investing.com/news/insider-trading-news/grindr-cpo-austin-balance-138-milyon-dolarlk-hisse-satt-93CH-4054087",
+        "investing:https://tr.investing.com/news/stock-market-news/lvmh-moet-hennessy-louis-vuitton-hissesi-neden-dusuyor-93CH-4054086",
+        "investing:https://tr.investing.com/news/stock-market-news/xiaomi-avrupaya-2027de-giris-icin-alman-bayilerle-anlast-93CH-4054066",
+        "investing:https://tr.investing.com/news/company-news/mint-hisseleri-ethereum-ve-solanada-tokenize-edilecek-93CH-4054060",
         "investing:https://tr.investing.com/news/company-news/albemarle-bhp-yoneticisi-ragnar-uddu-ceo-olarak-atad-93CH-4054026",
         "investing:https://tr.investing.com/news/company-news/gunbrokern-sahibi-greg-arnold-yazlm-gelistirme-baskan-yardmcs-olarak-atad-93CH-4054022",
         "investing:https://tr.investing.com/news/company-news/archer-aviation-kaliforniyada-no-roads-ucus-turunu-baslatt-93CH-4054020",
@@ -340,8 +355,24 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6716531:0",
+      "last_seen_key": "tradingview:matriks:6716564:0",
       "seen_keys": [
+        "tradingview:matriks:6716564:0",
+        "tradingview:matriks:6716560:0",
+        "tradingview:matriks:6716559:0",
+        "tradingview:matriks:6716555:0",
+        "tradingview:matriks:6716554:0",
+        "tradingview:matriks:6716553:0",
+        "tradingview:matriks:6716552:0",
+        "tradingview:matriks:6716545:0",
+        "tradingview:matriks:6716544:0",
+        "tradingview:matriks:6716543:0",
+        "tradingview:matriks:6716541:0",
+        "tradingview:matriks:6716540:0",
+        "tradingview:matriks:6716538:0",
+        "tradingview:matriks:6716537:0",
+        "tradingview:matriks:6716535:0",
+        "tradingview:matriks:6716534:0",
         "tradingview:matriks:6716531:0",
         "tradingview:matriks:6716529:0",
         "tradingview:fxstreet:87e323704d9e8:0",
@@ -482,6 +513,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin petrol talebindeki dusus karbon emisyonlar n ilk kez azaltt",
+      "link": "https://tr.tradingview.com/news/matriks:6716564:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller daha s k politikay desteklemek daha fazla enflasyon h zlanmas n gerekmeyebilir",
+      "link": "https://tr.tradingview.com/news/matriks:6716560:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller cekirdek rakamlar n isaret ettiginden daha iyi durumda olan temel enflasyon var",
+      "link": "https://tr.tradingview.com/news/matriks:6716559:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller ticaret bakanl g n n piyasa d s fiyat tahminlerinde yap lmas beklenen revizyonlar 12 ayl k pce enflasyonunu birkac onda puan dusurebilir",
+      "link": "https://tr.tradingview.com/news/matriks:6716555:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller yuksek enerji fiyatlar tarifeler suregelen enflasyon bask s n n onemli kaynag degil",
+      "link": "https://tr.tradingview.com/news/matriks:6716554:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller verilerde sonunda baz dezenflasyon belirtileri gormeye baslad k",
+      "link": "https://tr.tradingview.com/news/matriks:6716553:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller yapay zeka yat r m gsyh nin mesru parcas yapay zeka uretkenligi guvenilir sekilde art racak",
+      "link": "https://tr.tradingview.com/news/matriks:6716552:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller tepki fonksiyonunu kamuoyuyla paylasmam halk n planlama yapmas na yard mc oluyor",
+      "link": "https://tr.tradingview.com/news/matriks:6716545:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller enflasyon fed in 2 hedefinin belirgin sekilde uzerinde",
+      "link": "https://tr.tradingview.com/news/matriks:6716544:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "turkiye enflasyon agustosta dususunu surdurdu ancak dezenflasyonun h z yavas seyrini koruyarak enflasyonu dusurmenin zorluklar n ortaya koydu ing rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6716543:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller fiyatlar ekonomi gorunumunun askeri cat smalardan ticaret politikas ndan yapay zekadan nas l etkilendigine dair ciddi belirsizlik var",
+      "link": "https://tr.tradingview.com/news/matriks:6716541:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller uc ayl k cekirdek enflasyon gostergelerinde kayda deger iyilesme cesaret verici h z goruyorum",
+      "link": "https://tr.tradingview.com/news/matriks:6716540:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller gsyh buyumesi saglam h zda suruyor hisse senedi fiyatlar ndaki art s tuketim buyumesini destekleyecek",
+      "link": "https://tr.tradingview.com/news/matriks:6716538:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller pce cekirdek pce verileri enflasyonun mevcut durumunu degerlendirmek en iyi gosterge degil",
+      "link": "https://tr.tradingview.com/news/matriks:6716537:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller agustos enflasyon verileri ilerlemenin tersine dondugunu gosterirse politika faizinde kucuk ayarlama ilerlemenin yeniden baslamas na yard mc olur",
+      "link": "https://tr.tradingview.com/news/matriks:6716535:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed waller enflasyon ac s ndan miktar yukar yonlu risk goruyorum ancak ucret art slar enflasyonun yeniden 2 seviyesine dondugu yonundeki beklentiyle uyumlu",
+      "link": "https://tr.tradingview.com/news/matriks:6716534:0"
+    },
+    {
+      "source": "investing",
+      "text": "td cowen campbell hissesi tut tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/td-cowen-campbell-hissesi-icin-tut-tavsiyesini-korudu-93CH-4054203"
+    },
+    {
+      "source": "investing",
+      "text": "polonya merkez bankas faizleri 2026 ya kadar sabit tutacak",
+      "link": "https://tr.investing.com/news/world-news/polonya-merkez-bankas-faizleri-2026ya-kadar-sabit-tutacak-93CH-4054201"
+    },
+    {
+      "source": "investing",
+      "text": "toparlanma senaryolar genislerken al nacak tar m ekipman hisseleri",
+      "link": "https://tr.investing.com/news/stock-market-news/toparlanma-senaryolar-genislerken-alnacak-tarm-ekipman-hisseleri-93CH-4054196"
+    },
+    {
+      "source": "investing",
+      "text": "abd nin ticaret ac g temmuz 88 6 milyar dolara yukseldi",
+      "link": "https://tr.investing.com/news/economy-news/abdnin-ticaret-acg-temmuzda-886-milyar-dolara-yukseldi-4054197"
+    },
+    {
+      "source": "investing",
+      "text": "jpmorgan yukseltmesiyle envista holdings hisseleri yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/jpmorgan-yukseltmesiyle-envista-holdings-hisseleri-yukseldi-93CH-4054195"
+    },
+    {
+      "source": "investing",
+      "text": "oppfi ceo su todd schwartz 24 542 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/oppfi-ceosu-todd-schwartz-24542-dolar-degerinde-hisse-ald-93CH-4054194"
+    },
+    {
+      "source": "investing",
+      "text": "microsoft ceo su satya nadella 43 4 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/microsoft-ceosu-satya-nadella-434-milyon-dolarlk-hisse-satt-93CH-4054193"
+    },
+    {
+      "source": "investing",
+      "text": "venu holding corp ceo su jay roth 4 000 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/venu-holding-corp-ceosu-jay-roth-4000-dolar-degerinde-hisse-ald-93CH-4054184"
+    },
+    {
+      "source": "investing",
+      "text": "ridgeview destekli bidco pinewood ai 46 55 destek koruyor",
+      "link": "https://tr.investing.com/news/company-news/ridgeview-destekli-bidco-pinewoodai-icin-4655-destek-koruyor-93CH-4054183"
+    },
+    {
+      "source": "investing",
+      "text": "eightco nun varl klar openai hissesi dahil 380 milyon dolar",
+      "link": "https://tr.investing.com/news/company-news/eightconun-varlklar-openai-hissesi-dahil-380-milyon-dolar-93CH-4054182"
+    },
+    {
+      "source": "kap",
+      "text": "nrbnk nyb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfnurl92617 isin kodlu finansman bonosunun itfas sirket nurol yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658252"
+    },
+    {
+      "source": "kap",
+      "text": "tryki pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trftryk92634 finansman bonosu itfas sirket tiryaki agro gida sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658244"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank para piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658239"
+    },
+    {
+      "source": "kap",
+      "text": "tky tkyat ozel durum ac klamas genel turkish menkul degerler a s izmir subesi nin kapat lmas hakk nda sirket turkish menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658231"
+    },
     {
       "source": "tradingview",
       "text": "fed waller agustos ay nda enflasyon verileri beklenenden yuksek gelirse eylul faiz art s n degerlendirebilecegini soyledi",
