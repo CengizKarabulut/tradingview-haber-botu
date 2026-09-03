@@ -2,9 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657713",
+      "last_seen_key": "kap:1657715",
       "seen_keys": [
-        "kap:1657713",
+        "kap:1657715",
+        "kap:1657714",
         "kap:1657711",
         "kap:1657710",
         "kap:1657709",
@@ -92,6 +93,7 @@
         "kap:1657413",
         "kap:1657412",
         "kap:1657404",
+        "kap:1657713",
         "kap:1657403",
         "kap:1657384",
         "kap:1657383",
@@ -101,8 +103,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-03092026-3787161",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/broadcom-dan-iyimser-talep-tahmini-3787163",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/broadcom-dan-iyimser-talep-tahmini-3787163",
+        "bloomberght:https://www.bloomberght.com/altinda-dusus-serisi-sonlandi-3787162",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-03092026-3787161",
         "bloomberght:https://www.bloomberght.com/shell-bp-nin-meksika-korfezi-projesine-ortak-oluyor-3787160",
         "bloomberght:https://www.bloomberght.com/delivery-hero-yonetim-kurulundan-15-milyar-dolarlik-teklife-onay-3787159",
@@ -286,8 +290,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-enflasyon-verileri-ne-zaman-saat-kacta-aciklanacak-2026-tuik-agustos-ayi-tufe-karari-1740111",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/dronlara-yuzde-100e-varan-gumruk-vergisi-1740114",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/dronlara-yuzde-100e-varan-gumruk-vergisi-1740114",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-enflasyon-verileri-ne-zaman-saat-kacta-aciklanacak-2026-tuik-agustos-ayi-tufe-karari-1740111",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-fed-raporu-ekonomi-buyuyor-ancak-riskler-artiyor-1740079",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-hollandadan-kitalar-arasi-86-tonluk-altin-tasima-operasyonu-1740062",
@@ -377,8 +382,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44V0BD:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44V08V:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44V08V:0",
+        "tradingview:matriks:6714717:0",
+        "tradingview:matriks:6714716:0",
+        "tradingview:fxstreet:77d00a261d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44V0BD:0",
         "tradingview:matriks:6714691:0",
         "tradingview:matriks:6714689:0",
@@ -389,7 +398,6 @@
         "tradingview:matriks:6714679:0",
         "tradingview:matriks:6714678:0",
         "tradingview:matriks:6714677:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44V07H:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44V0AJ:0",
         "tradingview:fxstreet:8337f89fbd9e8:0",
         "tradingview:matriks:6714671:0",
@@ -476,6 +484,7 @@
         "tradingview:fxstreet:b381bffbcd9e8:0",
         "tradingview:fxstreet:425db2792d9e8:0",
         "tradingview:fxstreet:eb0cebe81d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44V07H:0",
         "tradingview:fxstreet:1732271b5d9e8:0",
         "tradingview:beincrypto:5c0ad4105d9e8:0",
         "tradingview:beincrypto:bfcea3617d9e8:0",
@@ -607,6 +616,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 3 eylul persembe",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44V08V:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ubs in temel senaryosu fed in y l sonuna kadar mevcut faiz seviyesinde kalmas yonunde rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6714717:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunun piyasa haritas trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6714716:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur usd fiyat analizi 20 gunluk ema ya dogru yap skan hale geliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:77d00a261d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "broadcom dan iyimser talep tahmini broadcom tahminleri yapay zeka talebinin guclu kalacag na yonelik iyimserligi destekledi",
+      "link": "https://www.bloomberght.com/broadcom-dan-iyimser-talep-tahmini-3787163"
+    },
+    {
+      "source": "bloomberght",
+      "text": "alt nda dusus serisi sonland abd baskan donald trump n orta dogu daki askeri operasyonlar n uzun sureli olmayabilecegine yonelik ac klamalar petrol fiyatlar ndaki ralliyi frenleyerek alt n piyasas n rahatlatt",
+      "link": "https://www.bloomberght.com/altinda-dusus-serisi-sonlandi-3787162"
+    },
+    {
+      "source": "kap",
+      "text": "blume pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657715"
+    },
+    {
+      "source": "kap",
+      "text": "eximb thr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren xs3206379375 isin kodlu finansman bonosunun itfas hk sirket turkiye ihracat kredi bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657714"
+    },
     {
       "source": "tradingview",
       "text": "global piyasalar borsa doviz tahvil petrol alt n",
