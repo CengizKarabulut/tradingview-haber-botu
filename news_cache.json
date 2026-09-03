@@ -153,8 +153,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/japonyann-en-buyuk-5-ticaret-sirketi-neden-yukseliste-93CH-4053247",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/uniqlonun-agustos-satslar-dustu-fast-retailing-hisseleri-bes-ayn-en-dusugunde-4053251",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/uniqlonun-agustos-satslar-dustu-fast-retailing-hisseleri-bes-ayn-en-dusugunde-4053251",
+        "investing:https://tr.investing.com/news/stock-market-news/audi-ve-saic-motor-cin-markas-icin-inovasyon-merkezi-kurdu-93CH-4053249",
+        "investing:https://tr.investing.com/news/stock-market-news/jefferies-hindistanda-sektor-baznda-en-iyi-hisse-senetlerini-acklad-93CH-4053248",
         "investing:https://tr.investing.com/news/stock-market-news/japonyann-en-buyuk-5-ticaret-sirketi-neden-yukseliste-93CH-4053247",
         "investing:https://tr.investing.com/news/stock-market-news/bytedance-yapay-zeka-harcamalar-hzlanrken-296-milyar-dolar-kredi-ald-4053245",
         "investing:https://tr.investing.com/news/stock-market-news/fast-retailing-hissesi-bugun-neden-dusuyor-93CH-4053243",
@@ -162,9 +165,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/corporate-travel-management-hisseleri-yllk-aradan-sonra-yuzde-80-dustu-4053240",
         "investing:https://tr.investing.com/news/forex-news/asya-para-birimleri-yukseldi-yen-158e-yaklast-4053239",
         "investing:https://tr.investing.com/news/stock-market-news/mitsubishi-corp-hisseleri-neden-yukseliyor-93CH-4053236",
-        "investing:https://tr.investing.com/news/stock-market-news/corporate-travel-management-hissesi-neden-cokuyor-93CH-4053235",
-        "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-tahvil-getirilerindeki-dususle-yukseldi-4053234",
-        "investing:https://tr.investing.com/news/insider-trading-news/rxsight-cfosu-54044-dolarlk-hisse-satt-93CH-4053232",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -185,6 +185,9 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/stock-market-news/corporate-travel-management-hissesi-neden-cokuyor-93CH-4053235",
+        "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-tahvil-getirilerindeki-dususle-yukseldi-4053234",
+        "investing:https://tr.investing.com/news/insider-trading-news/rxsight-cfosu-54044-dolarlk-hisse-satt-93CH-4053232",
         "investing:https://tr.investing.com/news/insider-trading-news/rxsight-coo-ilya-goldshleger-14205-dolarlk-hisse-satt-93CH-4053231",
         "investing:https://tr.investing.com/news/insider-trading-news/rxsight-cmo-ronald-kurtz-vergi-icin-35496-dolar-degerinde-hisse-satt-93CH-4053230",
         "investing:https://tr.investing.com/news/insider-trading-news/rackspace-technology-ceosu-kandiah-24361-dolar-degerinde-hisse-satt-93CH-4053229",
@@ -371,12 +374,24 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44V09O:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44V07H:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44V07H:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44V0AJ:0",
+        "tradingview:fxstreet:8337f89fbd9e8:0",
+        "tradingview:matriks:6714671:0",
+        "tradingview:matriks:6714668:0",
+        "tradingview:matriks:6714667:0",
+        "tradingview:fxstreet:1c4735e48d9e8:0",
+        "tradingview:matriks:6714662:0",
+        "tradingview:matriks:6714645:0",
+        "tradingview:matriks:6714644:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44V09O:0",
+        "tradingview:cointelegraph:a651060e0d9e8:0",
         "tradingview:matriks:6714641:0",
         "tradingview:fxstreet:730ad4608d9e8:0",
         "tradingview:matriks:6714638:0",
+        "tradingview:beincrypto:eecb35410d9e8:0",
         "tradingview:fxstreet:f7506e58dd9e8:0",
         "tradingview:matriks:6714617:0",
         "tradingview:matriks:6714615:0",
@@ -579,6 +594,71 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 3 eylul persembe",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44V07H:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa doviz",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44V0AJ:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "endonezya rupisi olas yen mudahalesiyle abd dolar n n gerilemesi sonucu gucleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:8337f89fbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gallup arast rmas na gore amerikal lar n hukumette yolsuzluk alg s trump n donusunun ard ndan 20 y l n en yuksek seviyesine ulast",
+      "link": "https://tr.tradingview.com/news/matriks:6714671:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uber ingiltere suruculu ilk robotaksi hizmetini londra baslatt",
+      "link": "https://tr.tradingview.com/news/matriks:6714668:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin onemli bak r alt n yatag kesfetti",
+      "link": "https://tr.tradingview.com/news/matriks:6714667:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi getirilerin gevsemesiyle 99 50 nin alt na zay flad",
+      "link": "https://tr.tradingview.com/news/fxstreet:1c4735e48d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "copilot said trump abd borsas neredeyse her gun rekor k r yor",
+      "link": "https://tr.tradingview.com/news/matriks:6714662:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan agustos ay hsbc nihai bilesik pmi 54 3 onceki 54 6",
+      "link": "https://tr.tradingview.com/news/matriks:6714645:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan agustos ay hsbc hizmet sektoru nihai pmi 554 1 beklenti 54 5 onceki 54 5",
+      "link": "https://tr.tradingview.com/news/matriks:6714644:0"
+    },
+    {
+      "source": "investing",
+      "text": "uniqlo nun agustos sat slar dustu fast retailing hisseleri bes ay n en dusugunde",
+      "link": "https://tr.investing.com/news/stock-market-news/uniqlonun-agustos-satslar-dustu-fast-retailing-hisseleri-bes-ayn-en-dusugunde-4053251"
+    },
+    {
+      "source": "investing",
+      "text": "audi saic motor cin markas inovasyon merkezi kurdu",
+      "link": "https://tr.investing.com/news/stock-market-news/audi-ve-saic-motor-cin-markas-icin-inovasyon-merkezi-kurdu-93CH-4053249"
+    },
+    {
+      "source": "investing",
+      "text": "jefferies hindistan sektor baz nda en iyi hisse senetlerini ac klad",
+      "link": "https://tr.investing.com/news/stock-market-news/jefferies-hindistanda-sektor-baznda-en-iyi-hisse-senetlerini-acklad-93CH-4053248"
+    },
     {
       "source": "tradingview",
       "text": "global piyasalar borsa",
