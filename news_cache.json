@@ -303,8 +303,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:135852cf7d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:6b7078d45d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:6b7078d45d9e8:0",
         "tradingview:fxstreet:135852cf7d9e8:0",
         "tradingview:cointelegraph:3e8bd34b5d9e8:0",
         "tradingview:fxstreet:6ce969bebd9e8:0",
@@ -415,6 +416,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "dow jones industrial average kazanamayacag istihdam verisi oncesinde yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:6b7078d45d9e8:0"
+    },
     {
       "source": "bloomberght",
       "text": "resmi gazete bugun 04 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
