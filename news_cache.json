@@ -99,8 +99,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/cin-abd-den-iran-baglantili-yaptirimlari-kaldirmasini-istedi-3787283",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/volkswagen-50-bin-calisanini-daha-isten-cikariyor-3787286",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/volkswagen-50-bin-calisanini-daha-isten-cikariyor-3787286",
         "bloomberght:https://www.bloomberght.com/cin-abd-den-iran-baglantili-yaptirimlari-kaldirmasini-istedi-3787283",
         "bloomberght:https://www.bloomberght.com/spk-dan-bir-sirketin-halka-arzina-onay-3787282",
         "bloomberght:https://www.bloomberght.com/abd-nin-orta-dogu-daki-askerlerin-gorev-suresini-uzattigi-iddiasi-3787281",
@@ -291,8 +292,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:7ed80b75cd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:ddd7ffea1d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:ddd7ffea1d9e8:0",
+        "tradingview:cointelegraph:d4c920fadd9e8:0",
         "tradingview:fxstreet:7ed80b75cd9e8:0",
         "tradingview:fxstreet:e906c984cd9e8:0",
         "tradingview:cointelegraph:1a62f9568d9e8:0",
@@ -409,6 +412,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "singapur dolar s n rl enflasyonla daha guclu singapur buyumesi commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:ddd7ffea1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "michigan makamlar yuksek mahkeme mucadelesi yaklas rken kalshi yi engelleme cabalar n surduruyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:d4c920fadd9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "volkswagen 50 bin cal san n daha isten c kar yor volkswagen yeniden yap lanma kapsam nda 50 bin kisiyi daha isten c karmay model yelpazesini yaklas k yuzde 50 daraltmay planl yor",
+      "link": "https://www.bloomberght.com/volkswagen-50-bin-calisanini-daha-isten-cikariyor-3787286"
+    },
     {
       "source": "ntvpara",
       "text": "spk 1 sirketin halka arz na onay verdi sermaye piyasas kurulu spk net global endustriyel yat r mlar as nin ilk halka arz na onay verdi",
