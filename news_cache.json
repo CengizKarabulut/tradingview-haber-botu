@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658688",
+      "last_seen_key": "kap:1658689",
       "seen_keys": [
+        "kap:1658689",
         "kap:1658688",
         "kap:1658687",
         "kap:1658686",
@@ -276,8 +277,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:e50b6d08ad9e8:0",
+      "last_seen_key": "tradingview:fxstreet:7ed80b75cd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:7ed80b75cd9e8:0",
+        "tradingview:fxstreet:e906c984cd9e8:0",
+        "tradingview:cointelegraph:1a62f9568d9e8:0",
         "tradingview:fxstreet:e50b6d08ad9e8:0",
         "tradingview:fxstreet:e716f6697d9e8:0",
         "tradingview:fxstreet:4fad68d97d9e8:0",
@@ -292,6 +296,7 @@
         "tradingview:fxstreet:eb8c0ef12d9e8:0",
         "tradingview:beincrypto:a2c813c66d9e8:0",
         "tradingview:cointelegraph:71e5ee8c0d9e8:0",
+        "tradingview:fxstreet:6cef5c641d9e8:0",
         "tradingview:matriks:6717428:0",
         "tradingview:fxstreet:0fd24f596d9e8:0",
         "tradingview:matriks:6717426:0",
@@ -338,6 +343,7 @@
         "tradingview:matriks:6717128:0",
         "tradingview:matriks:6717099:0",
         "tradingview:fxstreet:57a7c6be7d9e8:0",
+        "tradingview:fxstreet:8b9b8ba89d9e8:0",
         "tradingview:matriks:6717067:0",
         "tradingview:fxstreet:160ff4b0bd9e8:0",
         "tradingview:fxstreet:cf6710aa0d9e8:0",
@@ -354,12 +360,18 @@
         "tradingview:matriks:6716963:0",
         "tradingview:matriks:6716962:0",
         "tradingview:matriks:6716961:0",
+        "tradingview:fxstreet:9bc983821d9e8:0",
+        "tradingview:fxstreet:3c18449add9e8:0",
+        "tradingview:fxstreet:ecdef83cfd9e8:0",
+        "tradingview:fxstreet:c8231f15fd9e8:0",
         "tradingview:fxstreet:24d056657d9e8:0",
         "tradingview:matriks:6716889:0",
         "tradingview:matriks:6716868:0",
         "tradingview:matriks:6716866:0",
         "tradingview:matriks:6716865:0",
         "tradingview:matriks:6716863:0",
+        "tradingview:fxstreet:f592b1e7cd9e8:0",
+        "tradingview:fxstreet:687e13045d9e8:0",
         "tradingview:matriks:6716860:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44V0ZL:0",
         "tradingview:fxstreet:ce24ad9fcd9e8:0",
@@ -381,5 +393,26 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin yuan abd dolar kars s nda aral kta islem gorme suruyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:7ed80b75cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "usd chf fiyat analizi 50 gunluk sma k r lmas 0 8040 ortaya c kar yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e906c984cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dxy duserken bitcoin suren supheli yen mudahalesi s ras nda 80 000 dolar geri ald",
+      "link": "https://tr.tradingview.com/news/cointelegraph:1a62f9568d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "tkfen kar pay dag t m islemlerine iliskin bildirim kar pay dag t m islemlerine iliskin genel kurul sonucu sirket tekfen holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658689"
+    }
+  ]
 }
