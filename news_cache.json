@@ -2,8 +2,16 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
+<<<<<<< Updated upstream
       "last_seen_key": "kap:1658407",
       "seen_keys": [
+=======
+      "last_seen_key": "kap:1658410",
+      "seen_keys": [
+        "kap:1658410",
+        "kap:1658409",
+        "kap:1658408",
+>>>>>>> Stashed changes
         "kap:1658407",
         "kap:1658406",
         "kap:1658405",
@@ -86,6 +94,7 @@
         "kap:1658055",
         "kap:1658054",
         "kap:1658052",
+        "kap:1658314",
         "kap:1658051",
         "kap:1658050",
         "kap:1658314",
@@ -169,8 +178,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/fed-uyesi-waller-dan-eylul-toplantisi-icin-agustos-verisi-mesaji-3787244",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-hizmet-sektoru-canlandi-3787256",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/abd-de-hizmet-sektoru-canlandi-3787256",
+        "bloomberght:https://www.bloomberght.com/bloomberg-ht-nin-faiz-anketi-sonuclandi-3787255",
         "bloomberght:https://www.bloomberght.com/fed-uyesi-waller-dan-eylul-toplantisi-icin-agustos-verisi-mesaji-3787244",
         "bloomberght:https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-artti-3787243",
         "bloomberght:https://www.bloomberght.com/abd-nin-dis-ticaret-acigi-2025-ten-beri-en-yuksek-seviyede-3787242",
@@ -429,6 +440,7 @@
       ]
     },
     "tradingview": {
+<<<<<<< Updated upstream
       "last_seen_key": "tradingview:cointelegraph:6e3ab50b9d9e8:0",
       "seen_keys": [
         "tradingview:cointelegraph:6e3ab50b9d9e8:0",
@@ -436,6 +448,10 @@
         "tradingview:matriks:6716749:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44V0XV:0",
         "tradingview:fxstreet:ef85e080ad9e8:0",
+=======
+      "last_seen_key": "tradingview:matriks:6716710:0",
+      "seen_keys": [
+>>>>>>> Stashed changes
         "tradingview:matriks:6716710:0",
         "tradingview:matriks:6716705:0",
         "tradingview:matriks:6716704:0",
@@ -635,6 +651,7 @@
   "fingerprints": [
     {
       "source": "tradingview",
+<<<<<<< Updated upstream
       "text": "kurtarma uzmanlar 1 milyar dolarl k kripto cuzdan n act ama sadece 10 dolar buldu",
       "link": "https://tr.tradingview.com/news/cointelegraph:6e3ab50b9d9e8:0"
     },
@@ -660,6 +677,8 @@
     },
     {
       "source": "tradingview",
+=======
+>>>>>>> Stashed changes
       "text": "fed waller ama bunu mudahale yapmak bessent in takdirinde",
       "link": "https://tr.tradingview.com/news/matriks:6716710:0"
     },
@@ -719,6 +738,34 @@
       "link": "https://tr.investing.com/news/global-filings/is-gyo-balmumcu-arsas-satsn-tamamlad-515-milyon-tl-kar-93CH-4054374"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "source": "bloomberght",
+      "text": "abd hizmet sektoru canland abd hizmet sektoru guclu talep is faaliyetlerindeki canlanman n destegiyle agustos ay nda alt ay n en yuksek buyume oran n kaydetti",
+      "link": "https://www.bloomberght.com/abd-de-hizmet-sektoru-canlandi-3787256"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bloomberg ht nin eylul ay faiz anketi sonucland bloomberg ht nin eylul ay turkiye cumhuriyet merkez bankas tcmb faiz karar na iliskin anketine gore politika faizinin yuzde 37 seviyesinde sabit b rak lmas bekleniyor",
+      "link": "https://www.bloomberght.com/bloomberg-ht-nin-faiz-anketi-sonuclandi-3787255"
+    },
+    {
+      "source": "kap",
+      "text": "oncsm pay baz nda devre kesici bildirimi oncsm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658410"
+    },
+    {
+      "source": "kap",
+      "text": "magen finansal duran varl k edinimi jeotermal enerji santrali al m n n tamamlanmas hk sirket margun enerji uretim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658409"
+    },
+    {
+      "source": "kap",
+      "text": "albtn pay baz nda devre kesici bildirimi albtn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658408"
+    },
+    {
+>>>>>>> Stashed changes
       "source": "kap",
       "text": "mobtl pay baz nda devre kesici bildirimi mobtl e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
       "link": "https://www.kap.org.tr/tr/Bildirim/1658407"
