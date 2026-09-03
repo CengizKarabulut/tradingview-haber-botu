@@ -371,8 +371,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f7506e58dd9e8:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L6N44V09O:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L6N44V09O:0",
+        "tradingview:matriks:6714641:0",
+        "tradingview:fxstreet:730ad4608d9e8:0",
+        "tradingview:matriks:6714638:0",
         "tradingview:fxstreet:f7506e58dd9e8:0",
         "tradingview:matriks:6714617:0",
         "tradingview:matriks:6714615:0",
@@ -441,7 +445,6 @@
         "tradingview:matriks:6714461:0",
         "tradingview:matriks:6714463:0",
         "tradingview:matriks:6714462:0",
-        "tradingview:fxstreet:730ad4608d9e8:0",
         "tradingview:fxstreet:b381bffbcd9e8:0",
         "tradingview:fxstreet:425db2792d9e8:0",
         "tradingview:fxstreet:eb0cebe81d9e8:0",
@@ -576,6 +579,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44V09O:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sektor raporu odmd verileri deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6714641:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "karadeniz deki sevkiyat s k nt lar bugday rekor seviyeye tas d s p global",
+      "link": "https://tr.tradingview.com/news/matriks:6714638:0"
+    },
     {
       "source": "tradingview",
       "text": "wti fiyat analizi 89 00 n uzerinde konsolide oluyor iran riskleri aras nda yukselis egilimi devam ediyor",
