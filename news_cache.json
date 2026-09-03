@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1657715",
+      "last_seen_key": "kap:1657722",
       "seen_keys": [
+        "kap:1657722",
+        "kap:1657721",
+        "kap:1657720",
+        "kap:1657719",
+        "kap:1657718",
+        "kap:1657717",
+        "kap:1657716",
         "kap:1657715",
         "kap:1657714",
         "kap:1657711",
@@ -103,8 +110,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/broadcom-dan-iyimser-talep-tahmini-3787163",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-toparlanma-cabalari-3787165",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-toparlanma-cabalari-3787165",
+        "bloomberght:https://www.bloomberght.com/dolarda-yeni-satis-riski-3787164",
         "bloomberght:https://www.bloomberght.com/broadcom-dan-iyimser-talep-tahmini-3787163",
         "bloomberght:https://www.bloomberght.com/altinda-dusus-serisi-sonlandi-3787162",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-03092026-3787161",
@@ -382,8 +391,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44V08V:0",
+      "last_seen_key": "tradingview:matriks:6714772:0",
       "seen_keys": [
+        "tradingview:matriks:6714772:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44V08Y:0",
+        "tradingview:matriks:6714756:0",
+        "tradingview:matriks:6714752:0",
+        "tradingview:matriks:6714750:0",
+        "tradingview:matriks:6714745:0",
+        "tradingview:matriks:6714739:0",
+        "tradingview:matriks:6714735:0",
+        "tradingview:matriks:6714729:0",
+        "tradingview:matriks:6714726:0",
+        "tradingview:matriks:6714723:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44V08V:0",
         "tradingview:matriks:6714717:0",
         "tradingview:matriks:6714716:0",
@@ -616,6 +636,106 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "teknik bulten destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6714772:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dolar tl 48 3 rekorunda tufe jeopolitik gelismeler takip edilecek",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44V08Y:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten phillipcapital",
+      "link": "https://tr.tradingview.com/news/matriks:6714756:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt ici bulten ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6714752:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt ici piyasala r burgan yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6714750:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bakan kac r g20 turkiye nin yat r m ortam yapay zeka yol haritas n anlatt",
+      "link": "https://tr.tradingview.com/news/matriks:6714745:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6714739:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rusya agustos ay s p global hizmet sektoru pmi 51 3 onceki 49 0",
+      "link": "https://tr.tradingview.com/news/matriks:6714735:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fx bulteni qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6714729:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hat rlatma matriks in tufe dolar tl anketi sonucland agustos enflasyonu 1 95 art s beklentisi",
+      "link": "https://tr.tradingview.com/news/matriks:6714726:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten kuveyt turk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6714723:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kuresel piyasalarda toparlanma cabalar kuresel piyasalarda abd asya hisseleri toparlan rken yen alt n deger kazand",
+      "link": "https://www.bloomberght.com/kuresel-piyasalarda-toparlanma-cabalari-3787165"
+    },
+    {
+      "source": "bloomberght",
+      "text": "dolarda yeni sat s riski kuresel yat r mc lar n dolar pozisyonlar ndaki hedge oran n n en az 2015 ten yana en dusuk seviyeye gerilemesi yat r mc lar n yeniden korunmaya yonelmesi halinde dolarda sat s bask s n n sertlesebilecegine isaret ediyor",
+      "link": "https://www.bloomberght.com/dolarda-yeni-satis-riski-3787164"
+    },
+    {
+      "source": "kap",
+      "text": "astor pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657722"
+    },
+    {
+      "source": "kap",
+      "text": "anele bigen manas odine paseu pcs phb pnu pry tera thf tknka tly tra trhol kamuyu ayd nlatma platformu duyurusu ozel durumlar tebligi nin 12 4 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657721"
+    },
+    {
+      "source": "kap",
+      "text": "eplas ozel durum ac klamas genel eplas turkak akreditasyon belgesi hakk nda sirket egeplast ege plastik ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657720"
+    },
+    {
+      "source": "kap",
+      "text": "brgfk sirket genel bilgi formu sirket burgan finansal kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657719"
+    },
+    {
+      "source": "kap",
+      "text": "entra pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657718"
+    },
+    {
+      "source": "kap",
+      "text": "egegy pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657717"
+    },
+    {
+      "source": "kap",
+      "text": "magen pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1657716"
+    },
     {
       "source": "tradingview",
       "text": "bas nda bugun 3 eylul persembe",
