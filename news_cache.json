@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658658",
+      "last_seen_key": "kap:1658675",
       "seen_keys": [
+        "kap:1658675",
+        "kap:1658674",
         "kap:1658658",
         "kap:1658657",
         "kap:1658651",
@@ -169,8 +171,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/forex-news/guney-afrika-rand-dolar-zayflarken-ve-altn-yukselirken-deger-kazand-93CH-4054549",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/kanada-yerli-tren-vagonu-uretimine-47-milyar-dolar-yatrm-yapacak-93CH-4054554",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/kanada-yerli-tren-vagonu-uretimine-47-milyar-dolar-yatrm-yapacak-93CH-4054554",
         "investing:https://tr.investing.com/news/forex-news/guney-afrika-rand-dolar-zayflarken-ve-altn-yukselirken-deger-kazand-93CH-4054549",
         "investing:https://tr.investing.com/news/economy-news/abd-ipotek-faizleri-yuzde-671e-yukseldi-temmuzdan-bu-yana-en-yuksek-seviye-93CH-4054539",
         "investing:https://tr.investing.com/news/commodities-news/altn-rallisini-yatrm-talebi-yonlendiriyor-analist-acklad-4054540",
@@ -180,7 +183,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/geopark-hisseleri-neden-bugun-yukseliyor-93CH-4054531",
         "investing:https://tr.investing.com/news/stock-market-news/izlenecek-en-iyi-kurumsal-yazlm-hissesi-bmonun-tercihi-93CH-4054530",
         "investing:https://tr.investing.com/news/stock-market-news/geopark-hisseleri-venezuellaya-girisle-yukseldi-gilinski-kontrolu-ald-93CH-4054529",
-        "investing:https://tr.investing.com/news/stock-market-news/google-weathernext-3-yapay-zeka-modelini-tantt-93CH-4054528",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -201,6 +203,7 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/stock-market-news/google-weathernext-3-yapay-zeka-modelini-tantt-93CH-4054528",
         "investing:https://tr.investing.com/news/insider-trading-news/peapack-gladstone-sevp-55824-dolarlk-hisse-satt-93CH-4054527",
         "investing:https://tr.investing.com/news/insider-trading-news/dte-energy-baskan-yardmcs-678-bin-dolarlk-hisse-satt-93CH-4054526",
         "investing:https://tr.investing.com/news/transcripts/ideal-holdings-rekor-ilk-yar-sonuclar-acklad-hisse-geriledi-93CH-4054523",
@@ -319,6 +322,7 @@
       "last_seen_key": "tradingview:fxstreet:eb8c0ef12d9e8:0",
       "seen_keys": [
         "tradingview:fxstreet:eb8c0ef12d9e8:0",
+        "tradingview:cointelegraph:71e5ee8c0d9e8:0",
         "tradingview:matriks:6717428:0",
         "tradingview:fxstreet:0fd24f596d9e8:0",
         "tradingview:matriks:6717426:0",
@@ -349,6 +353,7 @@
         "tradingview:fxstreet:f4a917ad3d9e8:0",
         "tradingview:matriks:6717246:0",
         "tradingview:matriks:6717241:0",
+        "tradingview:matriks:6717231:0",
         "tradingview:matriks:6717221:0",
         "tradingview:matriks:6717218:0",
         "tradingview:matriks:6717216:0",
@@ -440,6 +445,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "kanada yerli tren vagonu uretimine 4 7 milyar dolar yat r m yapacak",
+      "link": "https://tr.investing.com/news/economy-news/kanada-yerli-tren-vagonu-uretimine-47-milyar-dolar-yatrm-yapacak-93CH-4054554"
+    },
+    {
+      "source": "kap",
+      "text": "brlsm surdurulebilirlik raporu 2025 tsrs uyumlu surdurulebilirlik raporu hk sirket birlesim muhendislik isitma sogutma havalandirma sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658675"
+    },
+    {
+      "source": "kap",
+      "text": "ihlgm ozel durum ac klamas genel ruhsat devrinin iadesi hk sirket ihlas gayrimenkul proje gelistirme ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658674"
+    },
     {
       "source": "tradingview",
       "text": "dow jones industrial average yaz tura at s yla yukseliyor",
