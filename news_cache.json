@@ -375,9 +375,9 @@
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4047598",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/erzurum-turkiyede-aycicegi-uretiminde-yuzde-11-paya-ulasti/4047134",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
@@ -397,8 +397,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-snowflake-icin-hisse-fiyat-hedefini-yukseltti-93CH-4056049",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/lojistik-mulkiyet-direktoru-10982-dolar-degerinde-hisse-satt-93CH-4056051",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/lojistik-mulkiyet-direktoru-10982-dolar-degerinde-hisse-satt-93CH-4056051",
         "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-snowflake-icin-hisse-fiyat-hedefini-yukseltti-93CH-4056049",
         "investing:https://tr.investing.com/news/insider-trading-news/artivion-svp-andrew-green-216-bin-dolarlk-hisse-satt-93CH-4056048",
         "investing:https://tr.investing.com/news/insider-trading-news/first-us-bancshares-yoneticisi-robert-field-6756-dolar-degerinde-hisse-ald-93CH-4056047",
@@ -408,7 +409,6 @@
         "investing:https://tr.investing.com/news/company-news/stanley-black--decker-excel-industriesi-bad-boy-mowersa-satyor-93CH-4056042",
         "investing:https://tr.investing.com/news/company-news/hp-yapay-zeka-destekli-omnibook-dizustu-ve-omnidesk-masaustu-tantt-93CH-4056038",
         "investing:https://tr.investing.com/news/stock-market-news/warrenai-sralamasna-gore-en-iyi-tatil-oteli-hisseleri-93CH-4056037",
-        "investing:https://tr.investing.com/news/analyst-ratings/lululemonun-hisse-hedefi-zayf-ceyrek-sonras-115-dolara-dusuruldu-93CH-4056035",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -429,6 +429,7 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/analyst-ratings/lululemonun-hisse-hedefi-zayf-ceyrek-sonras-115-dolara-dusuruldu-93CH-4056035",
         "investing:https://tr.investing.com/news/commodities-news/abdde-enerji-sondaj-kulesi-says-ikinci-haftada-da-sabit-kald-93CH-4056034",
         "investing:https://tr.investing.com/news/company-news/tredegar-operasyonel-donusumunu-ilerletiyor-bonnell-gm-ayrld-93CH-4056032",
         "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-boston-scientific-hissesi-icin-tavsiyesini-korudu-93CH-4056031",
@@ -669,6 +670,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "lojistik mulkiyet direktoru 10 982 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/lojistik-mulkiyet-direktoru-10982-dolar-degerinde-hisse-satt-93CH-4056051"
+    },
     {
       "source": "tradingview",
       "text": "euro bolgesi enflasyon 2027 ye kadar hedefin uzerinde nordea",
