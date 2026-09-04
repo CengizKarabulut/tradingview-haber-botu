@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658689",
+      "last_seen_key": "kap:1658691",
       "seen_keys": [
+        "kap:1658691",
         "kap:1658689",
         "kap:1658688",
         "kap:1658687",
@@ -255,8 +256,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/spk-1-sirketin-halka-arzina-onay-verdi-1740266",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/volkswagen-50-bin-kisiyi-daha-isten-cikaracak-1740280",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/volkswagen-50-bin-kisiyi-daha-isten-cikaracak-1740280",
         "ntvpara:https://www.ntv.com.tr/ntvpara/spk-1-sirketin-halka-arzina-onay-verdi-1740266",
         "ntvpara:https://www.ntv.com.tr/ntvpara/fransa-giysi-basina-20-euro-istedi-cinden-buyuk-tepki-1740197",
         "ntvpara:https://www.ntv.com.tr/ntvpara/ihracat-rekoru-kirildi-1740180",
@@ -475,6 +477,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "volkswagen 50 bin kisiyi daha isten c karacak alman otomotiv devi volkswagen in denetleme kurulu rekabet gucunu art rmak maliyetleri dusurmek gerekcesiyle 50 bin kisinin daha isten c kar lmas plan n n onunu act",
+      "link": "https://www.ntv.com.tr/ntvpara/volkswagen-50-bin-kisiyi-daha-isten-cikaracak-1740280"
+    },
+    {
+      "source": "kap",
+      "text": "samat sermaye art r m azalt m islemlerine iliskin bildirim bedelli sermaye art r m basvurumuzun guncellenmesi hakk nda sirket saray matbaacilik kagitcilik kirtasiyecilik ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658691"
+    },
     {
       "source": "investing",
       "text": "abd hisse senedi endeks vadeli islemleri tar m d s istihdam oncesi sakin",
