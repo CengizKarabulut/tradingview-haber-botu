@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658804",
+      "last_seen_key": "kap:1658808",
       "seen_keys": [
+        "kap:1658808",
+        "kap:1658807",
+        "kap:1658806",
+        "kap:1658805",
         "kap:1658804",
         "kap:1658803",
         "kap:1658801",
@@ -160,8 +164,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/goldman-in-turkiye-enflasyon-analizinde-enerji-vurgusu-3787321",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-gida-fiyatlari-4-yilin-zirvesinde-3787327",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/kuresel-gida-fiyatlari-4-yilin-zirvesinde-3787327",
+        "bloomberght:https://www.bloomberght.com/abd-de-motorin-fiyatlari-rekor-tazeledi-3787325",
         "bloomberght:https://www.bloomberght.com/goldman-in-turkiye-enflasyon-analizinde-enerji-vurgusu-3787321",
         "bloomberght:https://www.bloomberght.com/volkswagen-in-isten-cikarma-kararindan-sonra-hisseler-firladi-3787315",
         "bloomberght:https://www.bloomberght.com/halkbank-ucuncu-halka-arz-icin-yatirimcilarla-bulustu-3787313",
@@ -354,8 +360,11 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/brent-petrolun-varili-95-dolar-seviyesinde-955867.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/yapay-zeka-buyume-bolgeleri-enerjinin-rotasina-gore-sekillenecek-955874.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/yapay-zeka-buyume-bolgeleri-enerjinin-rotasina-gore-sekillenecek-955874.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti-955872.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turk-lirasiyla-dis-ticaret-hacmi-8-ayda-1-trilyon-lirayi-asti-955870.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/brent-petrolun-varili-95-dolar-seviyesinde-955867.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-gecen-yil-1249-milyar-dolarlik-hizmet-ihracati-yapti-955864.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-955863.html",
@@ -425,8 +434,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:2c5ed6d74d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:9601d1534d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:9601d1534d9e8:0",
+        "tradingview:fxstreet:1dc87b973d9e8:0",
+        "tradingview:matriks:6718801:0",
+        "tradingview:matriks:6718799:0",
+        "tradingview:matriks:6718790:0",
+        "tradingview:fxstreet:bf8360a95d9e8:0",
+        "tradingview:matriks:6718783:0",
+        "tradingview:fxstreet:7f69bfd8dd9e8:0",
+        "tradingview:matriks:6718774:0",
+        "tradingview:matriks:6718769:0",
+        "tradingview:fxstreet:cbecddd0cd9e8:0",
         "tradingview:fxstreet:2c5ed6d74d9e8:0",
         "tradingview:matriks:6718742:0",
         "tradingview:matriks:6718700:0",
@@ -465,7 +485,6 @@
         "tradingview:matriks:6718378:0",
         "tradingview:matriks:6718377:0",
         "tradingview:matriks:6718372:0",
-        "tradingview:fxstreet:cbecddd0cd9e8:0",
         "tradingview:matriks:6718370:0",
         "tradingview:matriks:6718366:0",
         "tradingview:matriks:6718363:0",
@@ -723,6 +742,101 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gbp usd fiyat analizi abd nfp oncesinde 1 3550 tavan kazanclar s n rlarken al c lar temkinli hale geliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:9601d1534d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd agustos tar m d s istihdam verisinin temmuz ay ndaki dususun ard ndan 58 bin seviyesine toparlanmas bekleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:1dc87b973d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiltere s p global pmi agustos ta 51 8 onceki 51 6",
+      "link": "https://tr.tradingview.com/news/matriks:6718801:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiltere s p global insaat sektoru pmi agustos ta 44 3 beklenti 45 5 onceki 44 7",
+      "link": "https://tr.tradingview.com/news/matriks:6718799:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt ici yerlesiklerin doviz mevduat hareketleri bizim menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6718790:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "macar forinti forint olas mnb duraklamas yla destekleniyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:bf8360a95d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guncelleme ozel haber ekonomistlerden enflasyon yorumu manset olumlu cekirdek hizmetlerde kat l k suruyor",
+      "link": "https://tr.tradingview.com/news/matriks:6718783:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro nun japon yeni kars s ndaki toparlanmas olumlu alman fabrika verilerine ragmen duraks yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:7f69bfd8dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cinli bankalar dolar mevduat toplay p abd tahvili almaya baslad reuters",
+      "link": "https://tr.tradingview.com/news/matriks:6718774:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "aselsan gudum kitleri uluslararas demoda yuksek hassasiyetini kez daha kan tlad",
+      "link": "https://tr.tradingview.com/news/matriks:6718769:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "yapay zeka buyume bolgeleri enerjinin rotas na gore sekillenecek turkiye yapay zeka eylem plan kapsam nda hayata gecirilecek yapay zeka buyume bolgeleri nin yer secimi kapasite planlamas nda enerji projeksiyonlar sebeke baglant kapasiteleri dogrudan belirleyici olacak",
+      "link": "https://www.trthaber.com/haber/ekonomi/yapay-zeka-buyume-bolgeleri-enerjinin-rotasina-gore-sekillenecek-955874.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "turkiye nin mal ihracat ndaki art s g20 ortalamas n ast turkiye nin mal ihracat y l n ikinci ceyreginde onceki ceyrege gore yuzde 8 5 artarak yuzde 5 9 olan g20 ortalamas n n uzerinde gerceklesti",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti-955872.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "turk liras yla d s ticaret hacmi 8 ayda 1 trilyon liray ast turk liras yla d s ticaret hacmi ocak agustos doneminde gecen y l n ayn donemine k yasla yuzde 11 3 artarak 1 trilyon 51 milyar 355 milyon liraya ulast 8 ayl k donemlerin en yuksek seviyesine c kt",
+      "link": "https://www.trthaber.com/haber/ekonomi/turk-lirasiyla-dis-ticaret-hacmi-8-ayda-1-trilyon-lirayi-asti-955870.html"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kuresel g fiyatlar 4 y l n zirvesinde birlesmis milletler g tar m orgutu fao verilerine gore kuresel g emtia fiyatlar artan jeopolitik gerilimler olumsuz hava kosullar n n tedarik endiselerini t rmand rmas yla agustos ay nda 2022 sonundan yana en yuksek seviy",
+      "link": "https://www.bloomberght.com/kuresel-gida-fiyatlari-4-yilin-zirvesinde-3787327"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd motorin fiyatlar rekor tazeledi abd perakende motorin fiyatlar iran rusya daki savaslar n piyasay sarsmas yla rekor seviyeye yukseldi boylelikle abd enerji kaynakl enflasyonun daha artma tehlikesi ortaya c kt",
+      "link": "https://www.bloomberght.com/abd-de-motorin-fiyatlari-rekor-tazeledi-3787325"
+    },
+    {
+      "source": "kap",
+      "text": "pagyo pay baz nda devre kesici bildirimi pagyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658808"
+    },
+    {
+      "source": "kap",
+      "text": "balsu pay baz nda devre kesici bildirimi balsu e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658807"
+    },
+    {
+      "source": "kap",
+      "text": "ozsub pay baz nda devre kesici bildirimi ozsub e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658806"
+    },
+    {
+      "source": "kap",
+      "text": "egepo pay baz nda devre kesici bildirimi egepo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658805"
+    },
     {
       "source": "tradingview",
       "text": "japon yeni 160 seviyesi abd dolar na kars guvenilir mudahale cayd r c s olarak goruluyor bny",
