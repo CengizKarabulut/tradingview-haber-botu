@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658709",
+      "last_seen_key": "kap:1658714",
       "seen_keys": [
+        "kap:1658714",
+        "kap:1658713",
+        "kap:1658712",
+        "kap:1658711",
+        "kap:1658710",
         "kap:1658709",
         "kap:1658708",
         "kap:1658706",
@@ -112,8 +117,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-iyimser-fed-beklentileri-3787294",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/petrolde-atesli-hafta-3787297",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/petrolde-atesli-hafta-3787297",
         "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-iyimser-fed-beklentileri-3787294",
         "bloomberght:https://www.bloomberght.com/akaryakitta-cifte-zam-fiyatlar-rekor-seviyede-3787293",
         "bloomberght:https://www.bloomberght.com/morgan-stanley-cin-hisselerinde-hedefleri-dusurdu-3787292",
@@ -169,18 +175,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/botswana-minerals-yapay-zeka-kesfini-saha-orneklemesine-tasyor-93CH-4054922",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/kazera-global-hisse-ihrac-icin-hissedar-oylamas-planlyor-93CH-4054931",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/kazera-global-hisse-ihrac-icin-hissedar-oylamas-planlyor-93CH-4054931",
+        "investing:https://tr.investing.com/news/company-news/yellow-cake-ceo-ve-cfoya-hisse-odulu-verdi-93CH-4054929",
+        "investing:https://tr.investing.com/news/company-news/neoterra-zeus-ile-buyume-sermayesi-anlasmasn-sonlandrd-93CH-4054927",
+        "investing:https://tr.investing.com/news/company-news/metals-one-senet-ile-4-milyon-sterlin-finansman-saglad-93CH-4054926",
+        "investing:https://tr.investing.com/news/company-news/empyrean-energy-genel-kurul-toplantsn-29-eylule-ald-93CH-4054923",
+        "investing:https://tr.investing.com/news/economy-news/ingiltereab-uyumu-abd-ticaret-anlasmas-icin-sorun-yaratt-4054925",
         "investing:https://tr.investing.com/news/company-news/botswana-minerals-yapay-zeka-kesfini-saha-orneklemesine-tasyor-93CH-4054922",
         "investing:https://tr.investing.com/news/stock-market-news/longfor-properties-hisseleri-neden-yukseliste-93CH-4054921",
         "investing:https://tr.investing.com/news/insider-trading-news/roku-yoneticisi-neil-hunt-312605-dolar-degerinde-hisse-satt-93CH-4054919",
         "investing:https://tr.investing.com/news/insider-trading-news/roku-baskan-11-milyon-dolarlk-hisse-satt-93CH-4054918",
-        "investing:https://tr.investing.com/news/insider-trading-news/amphastarn-kdemli-evpsi-rong-zhou-75305-dolar-hisse-satt-93CH-4054917",
-        "investing:https://tr.investing.com/news/company-news/jyske-bank-schleidtin-emekliligi-sonras-nauru-coo-atad-93CH-4054915",
-        "investing:https://tr.investing.com/news/stock-market-news/longfor-kredileri-odeyecek-kadar-fonu-oldugunu-soyledi-hisseler-frlad-4054912",
-        "investing:https://tr.investing.com/news/stock-market-news/jefferiesten-hindistann-kilit-sektorlerinde-hisse-tavsiyeleri-93CH-4054910",
-        "investing:https://tr.investing.com/news/stock-market-news/baidu-hisseleri-neden-yukseliyor-93CH-4054908",
-        "investing:https://tr.investing.com/news/stock-market-news/zhejiang-shuanghuan-driveline-hissesi-neden-yukseliste-93CH-4054906",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -201,6 +207,12 @@
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-2-ayda-56-getiren-hisse-200505803",
         "investing:https://tr.investing.com/analysis/turkiyenin-yapay-zeka-eylem-planndan-etkilenebilecek-bist-sirketleri-200505786",
+        "investing:https://tr.investing.com/news/insider-trading-news/amphastarn-kdemli-evpsi-rong-zhou-75305-dolar-hisse-satt-93CH-4054917",
+        "investing:https://tr.investing.com/news/company-news/jyske-bank-schleidtin-emekliligi-sonras-nauru-coo-atad-93CH-4054915",
+        "investing:https://tr.investing.com/news/stock-market-news/longfor-kredileri-odeyecek-kadar-fonu-oldugunu-soyledi-hisseler-frlad-4054912",
+        "investing:https://tr.investing.com/news/stock-market-news/jefferiesten-hindistann-kilit-sektorlerinde-hisse-tavsiyeleri-93CH-4054910",
+        "investing:https://tr.investing.com/news/stock-market-news/baidu-hisseleri-neden-yukseliyor-93CH-4054908",
+        "investing:https://tr.investing.com/news/stock-market-news/zhejiang-shuanghuan-driveline-hissesi-neden-yukseliste-93CH-4054906",
         "investing:https://tr.investing.com/news/stock-market-news/lenovo-hisseleri-neden-bugun-yukseliyor-93CH-4054905",
         "investing:https://tr.investing.com/news/stock-market-news/minimax-hissesi-bugun-neden-yukseliyor-93CH-4054904",
         "investing:https://tr.investing.com/news/stock-market-news/xiaomi-hisseleri-neden-bugun-yukseliyor-93CH-4054903",
@@ -247,8 +259,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarin-gozu-faiz-kararina-cevrildi-955849.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/piyasalarda-jeopolitik-ve-veri-takibi-955853.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/piyasalarda-jeopolitik-ve-veri-takibi-955853.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarin-gozu-faiz-kararina-cevrildi-955849.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/aselsan-konya-ve-iskurdan-is-birligi-955842.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-955803.html",
@@ -313,8 +326,21 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6718116:0",
+      "last_seen_key": "tradingview:fxstreet:dd497b71cd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:dd497b71cd9e8:0",
+        "tradingview:fxstreet:e6df8cd89d9e8:0",
+        "tradingview:matriks:6718161:0",
+        "tradingview:matriks:6718152:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:fxstreet:322746655d9e8:0",
+        "tradingview:matriks:6718139:0",
+        "tradingview:matriks:6718136:0",
+        "tradingview:cointelegraph:fcbfeb330d9e8:0",
+        "tradingview:matriks:6718126:0",
+        "tradingview:matriks:6718120:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44W0BY:0",
+        "tradingview:matriks:6718117:0",
         "tradingview:matriks:6718116:0",
         "tradingview:matriks:6718115:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44W096:0",
@@ -323,8 +349,12 @@
         "tradingview:matriks:6718097:0",
         "tradingview:matriks:6718087:0",
         "tradingview:matriks:6718070:0",
+        "tradingview:fxstreet:7f39d6f11d9e8:0",
+        "tradingview:fxstreet:23057b6dfd9e8:0",
+        "tradingview:fxstreet:c627cb5f8d9e8:0",
         "tradingview:matriks:6718064:0",
         "tradingview:matriks:6718062:0",
+        "tradingview:beincrypto:f5c981d3cd9e8:0",
         "tradingview:matriks:6718061:0",
         "tradingview:matriks:6718058:0",
         "tradingview:matriks:6718053:0",
@@ -353,6 +383,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L6N44W0AW:0",
         "tradingview:fxstreet:9cc0fec3dd9e8:0",
         "tradingview:matriks:6718008:0",
+        "tradingview:beincrypto:aa38875a7d9e8:0",
         "tradingview:matriks:6718007:0",
         "tradingview:matriks:6718006:0",
         "tradingview:matriks:6718001:0",
@@ -484,7 +515,6 @@
         "tradingview:cointelegraph:3e8bd34b5d9e8:0",
         "tradingview:fxstreet:6ce969bebd9e8:0",
         "tradingview:beincrypto:485b57df7d9e8:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:beincrypto:03466c859d9e8:0",
         "tradingview:fxstreet:f21555bc4d9e8:0",
         "tradingview:fxstreet:ddd7ffea1d9e8:0"
@@ -492,6 +522,131 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "usd cad fiyat analizi 100 gunluk ema kritik engel olmaya devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:dd497b71cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar artan rba faiz art r m beklentileriyle 0 7200 uzerinde yukseliyor gozler abd nfp verilerinde",
+      "link": "https://tr.tradingview.com/news/fxstreet:e6df8cd89d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "misyon yat r m bankas 2026 y l n n ilk yar s nda aktif buyuklugunu 21 6 milyar tl ye kredi portfoyunu ise 16 1 milyar tl ye tas d",
+      "link": "https://tr.tradingview.com/news/matriks:6718161:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nordic deployment n gelistirdigi h zl kurulabilir saha gecici altyap cozumleri tck by k rac n bilecik bozuyuk teki uretim tesisinde tan t ld",
+      "link": "https://tr.tradingview.com/news/matriks:6718152:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro euro bolgesi perakende sat slar abd tar m d s istihdam verileri oncesinde 1 1600 seviyesinin uzerinde yatay seyrediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:322746655d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "anket matriks haber bist sentiment anketi borsa ac l s beklentisi 18 59 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6718139:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten icbc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6718136:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "el salvador un inceleme sonras bitcoin birikiminde kamu fonu kullan lmad imf",
+      "link": "https://tr.tradingview.com/news/cointelegraph:fcbfeb330d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten kuzey menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6718126:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ekonomi guncesi albaraka turk",
+      "link": "https://tr.tradingview.com/news/matriks:6718120:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "nepal hidroelektrik tunelindeki iki kisi canl olarak kurtar ld",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44W0BY:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten global menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6718117:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "piyasalarda jeopolitik veri takibi piyasalar orta dogu merkezli jeopolitik gelismeleri abd merkez bankas n n fed yol haritas na s k tutacak ekonomik verileri yak ndan izliyor ic piyasada ekonomi yonetiminin kararl l k vurgusu takip edilirken piyasalar n yonunu c",
+      "link": "https://www.trthaber.com/haber/ekonomi/piyasalarda-jeopolitik-ve-veri-takibi-955853.html"
+    },
+    {
+      "source": "investing",
+      "text": "kazera global hisse ihrac hissedar oylamas planl yor",
+      "link": "https://tr.investing.com/news/company-news/kazera-global-hisse-ihrac-icin-hissedar-oylamas-planlyor-93CH-4054931"
+    },
+    {
+      "source": "investing",
+      "text": "yellow cake ceo cfo ya hisse odulu verdi",
+      "link": "https://tr.investing.com/news/company-news/yellow-cake-ceo-ve-cfoya-hisse-odulu-verdi-93CH-4054929"
+    },
+    {
+      "source": "investing",
+      "text": "neoterra zeus buyume sermayesi anlasmas n sonland rd",
+      "link": "https://tr.investing.com/news/company-news/neoterra-zeus-ile-buyume-sermayesi-anlasmasn-sonlandrd-93CH-4054927"
+    },
+    {
+      "source": "investing",
+      "text": "metals one senet 4 milyon sterlin finansman saglad",
+      "link": "https://tr.investing.com/news/company-news/metals-one-senet-ile-4-milyon-sterlin-finansman-saglad-93CH-4054926"
+    },
+    {
+      "source": "investing",
+      "text": "empyrean energy genel kurul toplant s n 29 eylul e ald",
+      "link": "https://tr.investing.com/news/company-news/empyrean-energy-genel-kurul-toplantsn-29-eylule-ald-93CH-4054923"
+    },
+    {
+      "source": "investing",
+      "text": "ingiltere ab uyumu abd ticaret anlasmas sorun yaratt",
+      "link": "https://tr.investing.com/news/economy-news/ingiltereab-uyumu-abd-ticaret-anlasmas-icin-sorun-yaratt-4054925"
+    },
+    {
+      "source": "bloomberght",
+      "text": "petrolde atesli hafta abd iran aras nda yeniden alevlenen askeri cat smalar n hurmuz bogaz ndaki enerji ak s nda kal c aksamalara yol acacag kayg s petrol fiyatlar n temmuz ay ndan yana en yuksek haftal k kazanc na tas d",
+      "link": "https://www.bloomberght.com/petrolde-atesli-hafta-3787297"
+    },
+    {
+      "source": "kap",
+      "text": "quagr kurumsal yonetim ilkelerine uyum derecelendirmesi kurumsal yonetim ilkelerine uyum derecelendirmesi sirket qua granite hayal yapi urunleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658714"
+    },
+    {
+      "source": "kap",
+      "text": "zkbvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdzkvka2629 isin kodlu yurtici kira sertifikas ihrac n n sat s n n tamamlanmas hk sirket ziraat katilim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658713"
+    },
+    {
+      "source": "kap",
+      "text": "btcim ozel durum ac klamas genel refinansman kredi sozlesmesi kapsam ndaki yukumluluklerin sonland r lmas sirket baticim bati anadolu sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658712"
+    },
+    {
+      "source": "kap",
+      "text": "cagfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfcgdf32732 isin kodlu 15 03 2026 vadeli bono ihrac sirket cagdas faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658711"
+    },
+    {
+      "source": "kap",
+      "text": "tby tebyt yat r m kurulusu varant sertifika senetlerine iliskin bildirim gunluk varant alim satim sirket teb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658710"
+    },
     {
       "source": "tradingview",
       "text": "hisse onerileri gunluk bulten phillipcapital",
