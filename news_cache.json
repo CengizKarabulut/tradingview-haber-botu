@@ -2,22 +2,37 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      "last_seen_key": "kap:1659021",
+      "last_seen_key": "kap:1659164",
       "seen_keys": [
-=======
-      "last_seen_key": "kap:1659057",
-      "seen_keys": [
-=======
-      "last_seen_key": "kap:1659088",
-      "seen_keys": [
+        "kap:1659164",
+        "kap:1659162",
+        "kap:1659160",
+        "kap:1659159",
+        "kap:1659158",
+        "kap:1659157",
+        "kap:1659150",
+        "kap:1659139",
+        "kap:1659138",
+        "kap:1659137",
+        "kap:1659136",
+        "kap:1659135",
+        "kap:1659134",
+        "kap:1659133",
+        "kap:1659132",
+        "kap:1659131",
+        "kap:1659130",
+        "kap:1659129",
+        "kap:1659127",
+        "kap:1659113",
+        "kap:1659111",
+        "kap:1659093",
+        "kap:1659091",
+        "kap:1659090",
         "kap:1659088",
         "kap:1659087",
         "kap:1659077",
         "kap:1659074",
         "kap:1659058",
->>>>>>> Stashed changes
         "kap:1659057",
         "kap:1659056",
         "kap:1659055",
@@ -29,10 +44,6 @@
         "kap:1659026",
         "kap:1659023",
         "kap:1659022",
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
         "kap:1659021",
         "kap:1659019",
         "kap:1659012",
@@ -42,7 +53,6 @@
         "kap:1659007",
         "kap:1659006",
         "kap:1659001",
-        "kap:1658990",
         "kap:1658985",
         "kap:1658981",
         "kap:1658973",
@@ -79,48 +89,7 @@
         "kap:1658903",
         "kap:1658898",
         "kap:1658897",
-        "kap:1658892",
-        "kap:1658891",
-        "kap:1658890",
-        "kap:1658889",
-        "kap:1658888",
-        "kap:1658887",
-        "kap:1658886",
-        "kap:1658885",
-        "kap:1658884",
-        "kap:1658882",
-        "kap:1658871",
-        "kap:1658869",
-        "kap:1658868",
-        "kap:1658867",
-        "kap:1658866",
-        "kap:1658865",
-        "kap:1658864",
-        "kap:1658863",
-        "kap:1658861",
-        "kap:1658860",
-        "kap:1658859",
-        "kap:1658858",
-        "kap:1658857",
-        "kap:1659005",
-        "kap:1658855",
-        "kap:1658853",
-        "kap:1658852",
-        "kap:1658851",
-<<<<<<< Updated upstream
-        "kap:1658850",
-        "kap:1658849",
-        "kap:1658848",
-        "kap:1658847",
-        "kap:1658846",
-        "kap:1658845",
-        "kap:1658827",
-        "kap:1658826",
-        "kap:1658822",
-        "kap:1658812"
-=======
-        "kap:1658850"
->>>>>>> Stashed changes
+        "kap:1658892"
       ]
     },
     "bist": {
@@ -187,8 +156,53 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6720096:0",
+      "last_seen_key": "matriks:matriks:6720247:0",
       "seen_keys": [
+        "matriks:matriks:6720247:0",
+        "matriks:matriks:6720240:0",
+        "matriks:matriks:6720236:0",
+        "matriks:matriks:6720231:0",
+        "matriks:matriks:6720233:0",
+        "matriks:matriks:6720242:0",
+        "matriks:matriks:6720232:0",
+        "matriks:matriks:6720239:0",
+        "matriks:matriks:6720230:0",
+        "matriks:matriks:6720225:0",
+        "matriks:matriks:6720226:0",
+        "matriks:matriks:6720241:0",
+        "matriks:matriks:6720228:0",
+        "matriks:matriks:6720212:0",
+        "matriks:matriks:6720216:0",
+        "matriks:matriks:6720218:0",
+        "matriks:matriks:6720217:0",
+        "matriks:matriks:6720219:0",
+        "matriks:matriks:6720214:0",
+        "matriks:matriks:6720220:0",
+        "matriks:matriks:6720208:0",
+        "matriks:matriks:6720224:0",
+        "matriks:matriks:6720221:0",
+        "matriks:matriks:6720211:0",
+        "matriks:matriks:6720213:0",
+        "matriks:matriks:6720209:0",
+        "matriks:matriks:6720223:0",
+        "matriks:matriks:6720215:0",
+        "matriks:matriks:6720210:0",
+        "matriks:matriks:6720202:0",
+        "matriks:matriks:6720196:0",
+        "matriks:matriks:6720206:0",
+        "matriks:matriks:6720201:0",
+        "matriks:matriks:6720199:0",
+        "matriks:matriks:6720200:0",
+        "matriks:matriks:6720203:0",
+        "matriks:matriks:6720197:0",
+        "matriks:matriks:6720198:0",
+        "matriks:matriks:6720207:0",
+        "matriks:matriks:6720158:0",
+        "matriks:matriks:6720150:0",
+        "matriks:matriks:6720125:0",
+        "matriks:matriks:6720119:0",
+        "matriks:matriks:6720099:0",
+        "matriks:matriks:6720098:0",
         "matriks:matriks:6720096:0",
         "matriks:matriks:6720095:0",
         "matriks:matriks:6720094:0",
@@ -220,89 +234,19 @@
         "matriks:matriks:6719759:0",
         "matriks:matriks:6719755:0",
         "matriks:matriks:6719745:0",
-        "matriks:matriks:6719740:0",
-        "matriks:matriks:6719708:0",
-        "matriks:matriks:6719705:0",
-        "matriks:matriks:6719700:0",
-        "matriks:matriks:6719696:0",
-        "matriks:matriks:6719695:0",
-        "matriks:matriks:6719694:0",
-        "matriks:matriks:6719693:0",
-        "matriks:matriks:6719674:0",
-        "matriks:matriks:6719658:0",
-        "matriks:matriks:6719653:0",
-        "matriks:matriks:6719639:0",
-        "matriks:matriks:6719638:0",
-        "matriks:matriks:6719632:0",
-        "matriks:matriks:6719627:0",
-        "matriks:matriks:6719625:0",
-        "matriks:matriks:6719613:0",
-        "matriks:matriks:6719611:0",
-        "matriks:matriks:6719607:0",
-        "matriks:matriks:6719594:0",
-        "matriks:matriks:6719587:0",
-        "matriks:matriks:6719585:0",
-        "matriks:matriks:6719583:0",
-        "matriks:matriks:6719580:0",
-        "matriks:matriks:6719581:0",
-        "matriks:matriks:6719579:0",
-        "matriks:matriks:6719578:0",
-        "matriks:matriks:6719575:0",
-        "matriks:matriks:6719574:0",
-        "matriks:matriks:6719559:0",
-        "matriks:matriks:6719551:0",
-        "matriks:matriks:6719542:0",
-        "matriks:matriks:6719532:0",
-        "matriks:matriks:6719530:0",
-        "matriks:matriks:6719513:0",
-        "matriks:matriks:6719490:0",
-        "matriks:matriks:6719474:0",
-        "matriks:matriks:6719473:0",
-        "matriks:matriks:6719451:0",
-        "matriks:matriks:6719443:0",
-        "matriks:matriks:6719439:0",
-        "matriks:matriks:6719432:0",
-        "matriks:matriks:6719419:0",
-        "matriks:matriks:6719415:0",
-        "matriks:matriks:6719412:0",
-        "matriks:matriks:6719398:0",
-<<<<<<< Updated upstream
-        "matriks:matriks:6719395:0",
-        "matriks:matriks:6719390:0",
-        "matriks:matriks:6719383:0",
-        "matriks:matriks:6719382:0",
-        "matriks:matriks:6719375:0"
+        "matriks:matriks:6719740:0"
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6a9ad477e4c0b51b8093efeb/PICNEWS/tr/stellantis-maserati-icin-cinli-huawei-ve-jac-ile-masada-04-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6a9ada4624008d7d4372cfe4/PICNEWS/tr/abd-den-turkiye-merkezli-golden-global-yatirim-bankasi-ve-iki-istirakine-iran-yaptirimi-04-09-26/",
       "seen_keys": [
-<<<<<<< Updated upstream
-=======
-        "matriks:matriks:6719395:0"
-      ]
-    },
-    "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6a9acaf0e4c0b51b8093ef79/PICNEWS/tr/trump-in-temsilcileri-savasi-sona-erdirmek-icin-moskova-ve-kiev-yolunda-04-09-26/",
-      "seen_keys": [
-        "forinvest:https://www.foreks.com/haber/detay/6a9acaf0e4c0b51b8093ef79/PICNEWS/tr/trump-in-temsilcileri-savasi-sona-erdirmek-icin-moskova-ve-kiev-yolunda-04-09-26/",
->>>>>>> Stashed changes
-=======
+        "forinvest:https://www.foreks.com/haber/detay/6a9ada4624008d7d4372cfe4/PICNEWS/tr/abd-den-turkiye-merkezli-golden-global-yatirim-bankasi-ve-iki-istirakine-iran-yaptirimi-04-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6a9ad57a95016b5817e5611d/PICNEWS/tr/citi-fed-den-faiz-indirimi-beklentilerini-oteledi-04-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6a9ad477e4c0b51b8093efeb/PICNEWS/tr/stellantis-maserati-icin-cinli-huawei-ve-jac-ile-masada-04-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6a9accd324008d7d4372cf5c/PICNEWS/tr/trump-tan-fed-e-faiz-indirimi-cagrisi-04-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6a9acaf0e4c0b51b8093ef79/PICNEWS/tr/trump-in-temsilcileri-savasi-sona-erdirmek-icin-moskova-ve-kiev-yolunda-04-09-26/",
->>>>>>> Stashed changes
         "forinvest:https://www.foreks.com/haber/detay/6a9aca6824008d7d4372cf3f/PICNEWS/tr/fransa-dan-kurakliktan-etkilenen-ciftcilere-1-milyar-euroluk-destek-04-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6a9ac9db95016b5817e5607c/PICNEWS/tr/yunanistan-da-hukumet-secim-oncesi-kesenin-agzini-acacak-2-milyar-euroluk-paket-geliyor-04-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6a9ac8f924008d7d4372cf1f/PICNEWS/tr/guclu-istihdam-verisi-de-wall-street-te-ayrismanin-onune-gecemedi-04-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6a9ac8a624008d7d4372cf18/PICNEWS/tr/borsa-istanbul-kiymetli-madenler-ve-kiymetli-taslar-piyasasi-nda-altin-haftayi-dususle-tamamladi-04-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6a9ac6c624008d7d4372cec3/PICNEWS/tr/guclu-istihdam-verisi-fed-beklentilerini-degistirdi-tahvil-faizleri-sicradi-04-09-26/",
-<<<<<<< Updated upstream
-        "forinvest:https://www.foreks.com/haber/detay/6a9ac5cf24008d7d4372ceb8/PICNEWS/tr/hassett-fed-in-faizi-sabit-tutmasi-icin-guclu-gerekceler-var-04-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6a9ac4ed95016b5817e5601c/PICNEWS/tr/guclu-istihdam-wall-street-vadeli-endekslerini-dusurdu-04-09-26/"
-=======
-        "forinvest:https://www.foreks.com/haber/detay/6a9ac5cf24008d7d4372ceb8/PICNEWS/tr/hassett-fed-in-faizi-sabit-tutmasi-icin-guclu-gerekceler-var-04-09-26/"
->>>>>>> Stashed changes
+        "forinvest:https://www.foreks.com/haber/detay/6a9ac9db95016b5817e5607c/PICNEWS/tr/yunanistan-da-hukumet-secim-oncesi-kesenin-agzini-acacak-2-milyar-euroluk-paket-geliyor-04-09-26/"
       ]
     },
     "bloomberght": {
@@ -406,86 +350,41 @@
       ]
     },
     "aaekonomi": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/iea-baskani-birol-bir-orta-olcekli-veri-merkezinin-elektrik-tuketimi-100-bin-haneli-bir-sehre-bedel/4047168",
-=======
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
->>>>>>> Stashed changes
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
       "seen_keys": [
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/trumpin-petrol-fiyatlarini-stratejik-rezerv-salimiyla-frenleme-adimlari-abdnin-enerji-guvenligini-asindiriyor/4047101",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/iea-baskani-birol-bir-orta-olcekli-veri-merkezinin-elektrik-tuketimi-100-bin-haneli-bir-sehre-bedel/4047168",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bolat-yil-sonuna-kadar-6-milyar-dolarlik-e-ihracat-rakamina-ulasmayi-hedefliyoruz/4047242",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
-=======
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-kultur-mirasimiza-kazandirdigimiz-tarihi-koprulerin-sayisi-532ye-ulasti/4047489",
-      "seen_keys": [
->>>>>>> Stashed changes
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-kultur-mirasimiza-kazandirdigimiz-tarihi-koprulerin-sayisi-532ye-ulasti/4047489",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/trumpin-petrol-fiyatlarini-stratejik-rezerv-salimiyla-frenleme-adimlari-abdnin-enerji-guvenligini-asindiriyor/4047101",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/erzurum-turkiyede-aycicegi-uretiminde-yuzde-11-paya-ulasti/4047134",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-kultur-mirasimiza-kazandirdigimiz-tarihi-koprulerin-sayisi-532ye-ulasti/4047489",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-haftayi-yukselisle-tamamladi/4047451",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-04-eylul-2026/4047443",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/karadenizde-jeopolitik-risklerin-yumusamasi-bugday-fiyatlarindaki-yukselisi-frenledi/4047430",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/derya-arms-milli-atici-yusuf-dikec-ile-isbirligine-gitti/4047423",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-tarim-disi-istihdam-agustosta-beklentileri-asti/4047397",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aa-finansin-ppk-beklenti-anketi-sonuclandi/4047378"
-=======
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aa-finansin-ppk-beklenti-anketi-sonuclandi/4047378",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/togg-yonetim-kurulu-baskani-fuat-tosyaliya-fahri-doktora-unvani-verildi/4047343",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/belcika-cevreye-agir-zarar-vermeyi-ekokirim-olarak-cezalandirmaya-basladi/4047333",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/trumpin-petrol-fiyatlarini-stratejik-rezerv-salimiyla-frenleme-adimlari-abdnin-enerji-guvenligini-asindiriyor/4047101",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/iea-baskani-birol-bir-orta-olcekli-veri-merkezinin-elektrik-tuketimi-100-bin-haneli-bir-sehre-bedel/4047168",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bolat-yil-sonuna-kadar-6-milyar-dolarlik-e-ihracat-rakamina-ulasmayi-hedefliyoruz/4047242"
->>>>>>> Stashed changes
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tim-baskani-gultepe-onumuzdeki-donemde-e-ihracat-hizli-buyumesini-surdurecek/4047290"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/uranium-royalty-corp-hisseleri-kazancta-21-hareket-edebilir-93CH-4055903",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/polar-capital-technology-trust-portfoy-varlklarn-acklad-93CH-4055941",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/stock-market-news/uranium-royalty-corp-hisseleri-kazancta-21-hareket-edebilir-93CH-4055903",
-        "investing:https://tr.investing.com/news/stock-market-news/aps-drone-duvar-rolu-nedeniyle-sats-seceneklerini-degerlendiriyor-93CH-4055902",
-        "investing:https://tr.investing.com/news/company-news/octopus-investments-premier-mitondaki-payn-1699a-dusurdu-93CH-4055901",
-        "investing:https://tr.investing.com/news/stock-market-news/kroger-hisseleri-11-eyluldeki-kazanc-raporuyla-55-hareket-edebilir-93CH-4055900",
-        "investing:https://tr.investing.com/news/analyst-ratings/ubs-asanann-hisse-hedefini-10-dolara-yukseltti-93CH-4055899",
-        "investing:https://tr.investing.com/news/analyst-ratings/ubs-kroger-hissesi-icin-notr-gorusunu-63-dolar-hedefle-korudu-93CH-4055897",
-        "investing:https://tr.investing.com/news/analyst-ratings/ubs-cienann-hisse-hedefini-marj-endiseleriyle-394-dolara-dusurdu-93CH-4055898",
-        "investing:https://tr.investing.com/news/company-news/genel-energy-dnonun-hisse-basna-69-pens-teklifini-reddetti-93CH-4055896",
-        "investing:https://tr.investing.com/news/analyst-ratings/ubs-linde-icin-612-dolarlk-hedefi-maliyet-kesintileriyle-teyit-etti-93CH-4055894",
-        "investing:https://tr.investing.com/news/analyst-ratings/ubs-victorias-secret-icin-hisse-hedefini-degerlemeye-gore-87-dolara-dusurdu-93CH-4055893",
-=======
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aa-finansin-ppk-beklenti-anketi-sonuclandi/4047378",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/togg-yonetim-kurulu-baskani-fuat-tosyaliya-fahri-doktora-unvani-verildi/4047343",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/belcika-cevreye-agir-zarar-vermeyi-ekokirim-olarak-cezalandirmaya-basladi/4047333",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-kurum-asil-mesele-yasanabilir-bir-dunyayi-gelecek-nesillere-birakmak/4047199",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/thy-dunyanin-en-degerli-100-markasi-arasina-giren-ilk-turk-markasi-olmayi-hedefliyor/4047096"
-      ]
-    },
-    "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/stonex-crowdstrike-hissesi-icin-250-dolarlk-hedefle-al-tavsiyesini-yineledi-93CH-4055915",
-      "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/stonex-crowdstrike-hissesi-icin-250-dolarlk-hedefle-al-tavsiyesini-yineledi-93CH-4055915",
-        "investing:https://tr.investing.com/news/analyst-ratings/stonex-hancock-whitney-icin-hedef-fiyatn-korudu-93CH-4055914",
-        "investing:https://tr.investing.com/news/analyst-ratings/stonex-equity-bancsharesin-hisse-hedefini-59-dolara-yukseltti-93CH-4055913",
-        "investing:https://tr.investing.com/news/stock-market-news/avrupa-ilac-duzenleyicisi-enjektabl-demir-ilaclar-inceliyor-93CH-4055865",
-        "investing:https://tr.investing.com/news/stock-market-news/seagate-technology-hissesi-neden-yukseliyor-93CH-4055863",
-        "investing:https://tr.investing.com/news/economy-news/trump-fed-faiz-indirmezse-baz-ulkelerle-ticareti-durduracak-93CH-4055862",
-        "investing:https://tr.investing.com/news/stock-market-news/amc-ceosu-robinhood-tokenlar-icin-sec-sikayeti-ile-tehdit-ediyor-4055860",
-        "investing:https://tr.investing.com/news/analyst-ratings/pultegroup-hissesi-stonexte-al-onerisiyle-baslad-hedef-148-dolar-93CH-4055854",
-        "investing:https://tr.investing.com/news/stock-market-news/applied-materials-hissesi-neden-yukseliyor-93CH-4055852",
-        "investing:https://tr.investing.com/news/stock-market-news/bilibili-hissesi-bugun-neden-yukseliyor-93CH-4055851",
-        "investing:https://tr.investing.com/news/stock-market-news/sandisk-hissesi-bugun-neden-yukseliyor-93CH-4055848",
-        "investing:https://tr.investing.com/news/insider-trading-news/gaia-yoneticisi-paul-sutherland-1670-dolar-degerinde-hisse-ald-93CH-4055847",
-        "investing:https://tr.investing.com/news/stock-market-news/boring-company-degerlemesi-son-fonlamada-20-milyar-dolara-ulast-4055845",
->>>>>>> Stashed changes
+        "investing:https://tr.investing.com/news/company-news/polar-capital-technology-trust-portfoy-varlklarn-acklad-93CH-4055941",
+        "investing:https://tr.investing.com/news/stock-market-news/dellin-kazanc-raporu-intel-cpu-talebinde-yukselis-sinyali-verdi-4055939",
+        "investing:https://tr.investing.com/news/economy-news/trump-fedden-faiz-indirmesini-istedi-aksi-halde-fazla-veren-ulkelerle-ticareti-durdurmakla-tehdit-etti-4055938",
+        "investing:https://tr.investing.com/news/stock-market-news/blue-owl-65-milyar-dolarlk-veri-merkezi-gyosu-planlyor-93CH-4055934",
+        "investing:https://tr.investing.com/news/company-news/mcdonalds-hissesi-25610-dolarda-52-haftann-dibini-gordu-93CH-4055933",
+        "investing:https://tr.investing.com/news/stock-market-news/modular-medical-hisseleri-pbm-sozlesmesi-sonras-yukseldi-93CH-4055932",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-rehber-endiseleriyle-broadcom-hisse-hedefini-dusurdu-93CH-4055931",
+        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-argan-hissesi-icin-tavsiyesini-yukseltti-93CH-4055930",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-guvenlik-talebine-dayanarak-jfrog-hisse-notunu-korudu-93CH-4055929",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-phreesiann-hisse-hedefini-dusurdu-93CH-4055928",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -598,18 +497,72 @@
       ]
     },
     "tradingview": {
-<<<<<<< Updated upstream
-      "last_seen_key": "tradingview:matriks:6719975:0",
+      "last_seen_key": "tradingview:matriks:6720247:0",
       "seen_keys": [
-=======
-      "last_seen_key": "tradingview:fxstreet:e4bd6a209d9e8:0",
-      "seen_keys": [
+        "tradingview:matriks:6720247:0",
+        "tradingview:matriks:6720240:0",
+        "tradingview:matriks:6720236:0",
+        "tradingview:matriks:6720231:0",
+        "tradingview:matriks:6720233:0",
+        "tradingview:matriks:6720242:0",
+        "tradingview:matriks:6720232:0",
+        "tradingview:matriks:6720239:0",
+        "tradingview:matriks:6720230:0",
+        "tradingview:matriks:6720225:0",
+        "tradingview:matriks:6720226:0",
+        "tradingview:matriks:6720241:0",
+        "tradingview:matriks:6720228:0",
+        "tradingview:matriks:6720212:0",
+        "tradingview:matriks:6720216:0",
+        "tradingview:matriks:6720218:0",
+        "tradingview:matriks:6720217:0",
+        "tradingview:matriks:6720219:0",
+        "tradingview:matriks:6720214:0",
+        "tradingview:matriks:6720220:0",
+        "tradingview:matriks:6720208:0",
+        "tradingview:matriks:6720224:0",
+        "tradingview:matriks:6720221:0",
+        "tradingview:matriks:6720211:0",
+        "tradingview:matriks:6720213:0",
+        "tradingview:matriks:6720209:0",
+        "tradingview:matriks:6720223:0",
+        "tradingview:matriks:6720215:0",
+        "tradingview:matriks:6720210:0",
+        "tradingview:matriks:6720202:0",
+        "tradingview:matriks:6720196:0",
+        "tradingview:matriks:6720206:0",
+        "tradingview:matriks:6720201:0",
+        "tradingview:matriks:6720199:0",
+        "tradingview:matriks:6720200:0",
+        "tradingview:matriks:6720203:0",
+        "tradingview:matriks:6720197:0",
+        "tradingview:matriks:6720198:0",
+        "tradingview:matriks:6720207:0",
+        "tradingview:fxstreet:5e97b311ad9e8:0",
+        "tradingview:matriks:6720158:0",
+        "tradingview:fxstreet:a1208cd70d9e8:0",
+        "tradingview:matriks:6720150:0",
+        "tradingview:matriks:6720125:0",
+        "tradingview:matriks:6720119:0",
+        "tradingview:matriks:6720099:0",
+        "tradingview:matriks:6720098:0",
+        "tradingview:matriks:6720096:0",
+        "tradingview:matriks:6720095:0",
+        "tradingview:matriks:6720094:0",
+        "tradingview:matriks:6720093:0",
+        "tradingview:matriks:6720091:0",
+        "tradingview:matriks:6720088:0",
+        "tradingview:matriks:6720087:0",
+        "tradingview:fxstreet:fa8cbf39cd9e8:0",
+        "tradingview:fxstreet:a2327ddf8d9e8:0",
+        "tradingview:matriks:6720058:0",
         "tradingview:fxstreet:e4bd6a209d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44W0WM:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44W0VJ:0",
->>>>>>> Stashed changes
         "tradingview:matriks:6719975:0",
         "tradingview:fxstreet:b2141d527d9e8:0",
+        "tradingview:matriks:6719968:0",
+        "tradingview:matriks:6719964:0",
         "tradingview:matriks:6719958:0",
         "tradingview:matriks:6719956:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44W0Z9:0",
@@ -644,232 +597,11 @@
         "tradingview:matriks:6719745:0",
         "tradingview:beincrypto:967894ec0d9e8:0",
         "tradingview:matriks:6719740:0",
-        "tradingview:fxstreet:a01eb8220d9e8:0",
-        "tradingview:matriks:6719708:0",
-        "tradingview:matriks:6719705:0",
-        "tradingview:matriks:6719700:0",
-        "tradingview:fxstreet:a1208cd70d9e8:0",
-        "tradingview:matriks:6719696:0",
-        "tradingview:matriks:6719695:0",
-        "tradingview:matriks:6719694:0",
-        "tradingview:matriks:6719693:0",
-        "tradingview:matriks:6719674:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N44W0Q5:0",
-        "tradingview:matriks:6719658:0",
-        "tradingview:fxstreet:0f942a36ad9e8:0",
-        "tradingview:matriks:6719653:0",
-        "tradingview:matriks:6719639:0",
-        "tradingview:matriks:6719638:0",
-        "tradingview:beincrypto:72da754c0d9e8:0",
-        "tradingview:matriks:6719632:0",
-        "tradingview:fxstreet:a65577d61d9e8:0",
-        "tradingview:matriks:6719627:0",
-        "tradingview:matriks:6719625:0",
-        "tradingview:fxstreet:1dc87b973d9e8:0",
-        "tradingview:matriks:6719613:0",
-        "tradingview:matriks:6719611:0",
-        "tradingview:matriks:6719607:0",
-        "tradingview:matriks:6719594:0",
-        "tradingview:matriks:6719587:0",
-        "tradingview:matriks:6719585:0",
-        "tradingview:matriks:6719583:0",
-        "tradingview:matriks:6719580:0",
-        "tradingview:matriks:6719581:0",
-        "tradingview:matriks:6719579:0",
-        "tradingview:matriks:6719578:0",
-        "tradingview:matriks:6719575:0",
-        "tradingview:matriks:6719574:0",
-        "tradingview:matriks:6719559:0",
-        "tradingview:fxstreet:1ab63fdc3d9e8:0",
-        "tradingview:matriks:6719551:0",
-        "tradingview:fxstreet:4b62a63c8d9e8:0",
-        "tradingview:matriks:6719542:0",
-        "tradingview:matriks:6719532:0",
-        "tradingview:matriks:6719530:0",
-        "tradingview:matriks:6719513:0",
-        "tradingview:fxstreet:56a6b9768d9e8:0",
-        "tradingview:matriks:6719490:0",
-        "tradingview:matriks:6719474:0",
-        "tradingview:matriks:6719473:0",
-        "tradingview:fxstreet:7798d48e6d9e8:0",
-        "tradingview:matriks:6719451:0",
-        "tradingview:fxstreet:ba76032ddd9e8:0",
-        "tradingview:matriks:6719443:0",
-        "tradingview:fxstreet:b160e5ae2d9e8:0",
-        "tradingview:matriks:6719439:0",
-        "tradingview:matriks:6719432:0",
-        "tradingview:matriks:6719419:0",
-        "tradingview:matriks:6719415:0",
-        "tradingview:fxstreet:13d90743bd9e8:0",
-        "tradingview:matriks:6719412:0",
-        "tradingview:fxstreet:2265cfa49d9e8:0",
-        "tradingview:matriks:6719398:0",
-<<<<<<< Updated upstream
-        "tradingview:matriks:6719395:0",
-        "tradingview:fxstreet:ae8bf631ad9e8:0",
-        "tradingview:matriks:6719390:0",
-        "tradingview:matriks:6719383:0",
-        "tradingview:fxstreet:90b7c1f96d9e8:0",
-        "tradingview:matriks:6719382:0",
-        "tradingview:matriks:6719375:0"
-=======
-        "tradingview:matriks:6719395:0"
->>>>>>> Stashed changes
+        "tradingview:fxstreet:a01eb8220d9e8:0"
       ]
     }
   },
-  "fingerprints": [
-    {
-      "source": "investing",
-      "text": "stonex crowdstrike hissesi 250 dolarl k hedefle al tavsiyesini yineledi",
-      "link": "https://tr.investing.com/news/analyst-ratings/stonex-crowdstrike-hissesi-icin-250-dolarlk-hedefle-al-tavsiyesini-yineledi-93CH-4055915"
-    },
-    {
-      "source": "investing",
-      "text": "stonex hancock whitney hedef fiyat n korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/stonex-hancock-whitney-icin-hedef-fiyatn-korudu-93CH-4055914"
-    },
-    {
-      "source": "investing",
-      "text": "stonex equity bancshares in hisse hedefini 59 dolara yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/stonex-equity-bancsharesin-hisse-hedefini-59-dolara-yukseltti-93CH-4055913"
-    },
-    {
-      "source": "forinvest",
-      "text": "stellantis maserati cinli huawei jac masada stellantis sat slar uretimi zay flayan luks otomobil markas maserati cinli huawei jac group uzun vadeli sanayi is birligi gorusmeleri yurutuyor",
-      "link": "https://www.foreks.com/haber/detay/6a9ad477e4c0b51b8093efeb/PICNEWS/tr/stellantis-maserati-icin-cinli-huawei-ve-jac-ile-masada-04-09-26"
-    },
-    {
-      "source": "forinvest",
-      "text": "trump tan fed e faiz indirimi cagr s abd baskan donald trump agustos ay istihdam verilerinin beklentileri asmas n n ard ndan fed e faiz indirimi cagr s n yineledi trump faizlerin dusurulmemesi halinde abd nin yuksek ticaret ac g v",
-      "link": "https://www.foreks.com/haber/detay/6a9accd324008d7d4372cf5c/PICNEWS/tr/trump-tan-fed-e-faiz-indirimi-cagrisi-04-09-26"
-    },
-    {
-      "source": "forinvest",
-      "text": "trump n temsilcileri savas sona erdirmek moskova kiev yolunda abd baskan donald trump n ozel temsilcileri steve witkoff jared kushner rusya ukrayna savas n n sona erdirilmesine yonelik gorusmeler hafta sonu moskova kiev i ziyaret edecek",
-      "link": "https://www.foreks.com/haber/detay/6a9acaf0e4c0b51b8093ef79/PICNEWS/tr/trump-in-temsilcileri-savasi-sona-erdirmek-icin-moskova-ve-kiev-yolunda-04-09-26"
-    },
-    {
-      "source": "matriks",
-      "text": "g grubunda ise temmuz ay nda gozlenen yukselisin ard ndan taze meyve sebze fiyatlar n n katk s yla y ll k enflasyon gerilemistir tcmb",
-      "link": "https://tr.tradingview.com/news/matriks:6720096:0"
-    },
-    {
-      "source": "matriks",
-      "text": "temel mal enflasyonu gorece dusuk seyrini korumustur gerek giyim gerekse giyim d s temel mallardaki olumlu gorunumun etkisiyle mevsimsellikten ar nd r lm s temel mal enflasyonu yuzde 0 58 s n rl duzeyde gerceklesmistir tcmb",
-      "link": "https://tr.tradingview.com/news/matriks:6720095:0"
-    },
-    {
-      "source": "matriks",
-      "text": "diger taraftan kira lokanta oteller basta olmak uzere baz hizmet kalemlerinde yavaslama egilimi devam etmistir tcmb",
-      "link": "https://tr.tradingview.com/news/matriks:6720094:0"
-    },
-    {
-      "source": "matriks",
-      "text": "kay t donemine bagl olarak onceki y lda eylul ay nda tek seferde gerceklesen universite egitim ucreti art slar n n y l agustos eylul donemine yay ld g izlenmektedir tcmb",
-      "link": "https://tr.tradingview.com/news/matriks:6720093:0"
-    },
-    {
-      "source": "matriks",
-      "text": "haberlesme hizmetlerinde yuksek fiyat art s egilimi devam ederken egitim hizmetlerinde vak f yuksekogretim kurumlar n n ucret gelismelerinin etkisi hissedilmistir tcmb",
-      "link": "https://tr.tradingview.com/news/matriks:6720091:0"
-    },
-    {
-      "source": "matriks",
-      "text": "hizmet grubunda ayl k enflasyon yuksek seyrini korurken akaryak t fiyatlar ndaki gelismelerin ulast rma hizmetlerine yans malar surmustur tcmb",
-      "link": "https://tr.tradingview.com/news/matriks:6720088:0"
-    },
-    {
-      "source": "matriks",
-      "text": "tuketici enflasyonunun seyrinde enerji fiyat gelismeleri one c km st r jeopolitik gelismelerin etkisiyle temmuz ay nda yeniden yukselise gecen enerji fiyatlar agustos ay nda akaryak t fiyatlar onculugunde yuzde 5 46 oran nda artm st r tcmb",
-      "link": "https://tr.tradingview.com/news/matriks:6720087:0"
-    },
-    {
-      "source": "matriks",
-      "text": "guclu istihdam fed bahsini art rd ilk piyasa soku hafifledi ikon menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6720058:0"
-    },
-    {
-      "source": "kap",
-      "text": "brmen ttk n n 376 maddesi kapsam nda yap lan islemler brmen ttk 376 bilanco sirket birlik mensucat ticaret sanayi isletmesi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659088"
-    },
-    {
-      "source": "kap",
-      "text": "brmen sermaye art r m ndan elde edilecek edilen fonun kullan m na iliskin rapor sermaye art r m ndan elde edilen fonun kullan m na iliskin rapor sirket birlik mensucat ticaret sanayi isletmesi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659087"
-    },
-    {
-      "source": "kap",
-      "text": "tehol sirket genel bilgi formu sirket tera yatirim teknoloji holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659077"
-    },
-    {
-      "source": "kap",
-      "text": "kpeks esas sozlesme tadili kapeks esas sozlesme tadil basvurusu hk sirket kapeks kimya sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659074"
-    },
-    {
-      "source": "kap",
-      "text": "mngfa ihrac tavan na iliskin bildirim borclanma araclar na iliskin ihrac tavan kurul a basvuru yap lmas sirket mng faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659058"
-    },
-    {
-      "source": "kap",
-      "text": "zpy pay al m sat m bildirimi ii 15 1 ozel durumlar tebligi nin 12 1 b maddesi geregince yap lan ac klama sirket ziraat portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659057"
-    },
-    {
-      "source": "kap",
-      "text": "islem iptali bap islem iptali sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659056"
-    },
-    {
-      "source": "kap",
-      "text": "dcttr pay baz nda devre kesici bildirimi dcttr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659055"
-    },
-    {
-      "source": "kap",
-      "text": "kboru pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659052"
-    },
-    {
-      "source": "kap",
-      "text": "takasbank odunc pay piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659051"
-    },
-    {
-      "source": "kap",
-      "text": "brkt dkvrl ektvk ergli trffa tv8tv vakbn vakvk zkbvk zoren borclanma araclar n n kira sertifikalar n n islem gormeye baslamas borclanma araclar n n kira sertifikalar n n islem gormeye baslamas sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659050"
-    },
-    {
-      "source": "kap",
-      "text": "blcyt pay baz nda devre kesici bildirimi blcyt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659041"
-    },
-    {
-      "source": "kap",
-      "text": "enery ozel durum ac klamas genel istirak sirketi izin talebi onay hk sirket enerya enerji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659033"
-    },
-    {
-      "source": "kap",
-      "text": "ahgaz ozel durum ac klamas genel bagl ortakl k izin talebi onay hk sirket ahlatci dogal gaz dagitim enerji yatirim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659026"
-    },
-    {
-      "source": "kap",
-      "text": "blkom pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfblkma2617 isin kodlu tahvilin 1 donem kupon odemesi sirket bilkom bilisim hizmetleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659023"
-    },
-    {
-      "source": "kap",
-      "text": "ada ozel durum ac klamas genel bagl ortakl g m z n faaliyet izni hk sirket dunya katilim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1659022"
-    }
-  ],
+  "fingerprints": [],
   "research_reports": {
     "tera": {
       "gunluk_bulten": {
@@ -882,11 +614,7 @@
           "tera:gunluk_bulten:https://www.terayatirim.com/arastirma/arastirma/gunluk-bulten/2026-09-04/222",
           "tera:gunluk_bulten:https://terayatirim.com/dosyalar/Musteri-Siniflandirmasi.pdf"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:28:19.705440+03:00"
-=======
-        "sent_at": "2026-09-04T17:46:57.172296+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:23:59.865219+03:00"
       },
       "teknik_bulten": {
         "seen_keys": [
@@ -905,11 +633,7 @@
           "tera:teknik_bulten:https://www.terayatirim.com/arastirma/kurumsal/yasal-bilgiler/1",
           "tera:teknik_bulten:https://www.terayatirim.com/arastirma"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:27:52.522696+03:00"
-=======
-        "sent_at": "2026-09-04T17:46:30.845637+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:23:33.680018+03:00"
       }
     },
     "a1capital": {
@@ -920,11 +644,7 @@
           "a1capital:gunluk_bulten:https://a1capital.com.tr/category/arastirma",
           "a1capital:gunluk_bulten:https://a1capital.com.tr/gunluk-bulten-4-eylul-2026"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:31:02.192164+03:00"
-=======
-        "sent_at": "2026-09-04T17:49:35.211578+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:28:29.562268+03:00"
       },
       "teknik_bulten": {
         "seen_keys": [
@@ -938,11 +658,7 @@
           "a1capital:teknik_bulten:https://a1capital.com.tr/gunluk-bulten",
           "a1capital:teknik_bulten:https://a1capital.com.tr"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:30:39.656278+03:00"
-=======
-        "sent_at": "2026-09-04T17:49:13.270197+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:27:35.475001+03:00"
       },
       "model_portfoy": {
         "seen_keys": [
@@ -954,11 +670,7 @@
           "a1capital:model_portfoy:https://a1capital.com.tr/model-portfoy",
           "a1capital:model_portfoy:https://a1capital.com.tr/gunluk-bulten"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:30:48.639219+03:00"
-=======
-        "sent_at": "2026-09-04T17:49:21.995206+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:28:15.529741+03:00"
       }
     },
     "bulls": {
@@ -968,11 +680,7 @@
           "bulls:gunluk_bulten:https://bullsyatirim.com",
           "bulls:gunluk_bulten:https://bullsyatirim.com/upload/files/dosya/bulls-yatirim-belgeler.pdf"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:32:14.472239+03:00"
-=======
-        "sent_at": "2026-09-04T17:50:45.575206+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:29:39.547340+03:00"
       },
       "teknik_bulten": {
         "seen_keys": [
@@ -995,11 +703,7 @@
           "bulls:teknik_bulten:https://bullsyatirim.com/arastirma/gunluk-bulten",
           "bulls:teknik_bulten:https://bullsyatirim.com/arastirma"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:32:28.087947+03:00"
-=======
-        "sent_at": "2026-09-04T17:50:58.753278+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:29:52.743310+03:00"
       }
     },
     "yapikredi": {
@@ -1019,11 +723,7 @@
           "yapikredi:gunluk_bulten:https://www.yapikredi.com.tr",
           "yapikredi:gunluk_bulten:yapikredi:2026-09-04:https://www.yapikredi.com.tr"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:33:22.563824+03:00"
-=======
-        "sent_at": "2026-09-04T17:51:51.626615+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:30:46.131231+03:00"
       }
     },
     "akyatirim": {
@@ -1055,11 +755,7 @@
           "akyatirim:model_portfoy:https://www.akyatirim.com.tr/tr/raporlarimiz/arastirma-raporlari",
           "akyatirim:model_portfoy:https://www.akyatirim.com.tr/tr"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:34:48.498721+03:00"
-=======
-        "sent_at": "2026-09-04T17:53:14.991869+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:32:09.000744+03:00"
       }
     },
     "ziraat": {
@@ -1067,11 +763,7 @@
         "seen_keys": [
           "ziraat:gunluk_bulten:ziraat:2026-09-04:https://service.ziraatyatirim.com.tr/media/qrhpxnsd/ss-07-07-2026.pdf"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:26:42.651521+03:00"
-=======
-        "sent_at": "2026-09-04T17:45:23.101645+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:22:26.488085+03:00"
       },
       "model_portfoy": {
         "seen_keys": [
@@ -1090,11 +782,7 @@
           "ziraat:model_portfoy:https://service.ziraatyatirim.com.tr/hizli-hisse-analizi",
           "ziraat:model_portfoy:https://service.ziraatyatirim.com.tr/arastirma"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:36:09.721198+03:00"
-=======
-        "sent_at": "2026-09-04T17:55:17.290216+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:33:28.156230+03:00"
       },
       "teknik_bulten": {
         "seen_keys": [
@@ -1105,11 +793,7 @@
           "ziraat:teknik_bulten:https://service.ziraatyatirim.com.tr/sabah-stratejisi",
           "ziraat:teknik_bulten:https://service.ziraatyatirim.com.tr/arastirma2"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:35:11.058320+03:00"
-=======
-        "sent_at": "2026-09-04T17:54:12.174284+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:32:31.699712+03:00"
       }
     },
     "qnb": {
@@ -1117,11 +801,7 @@
         "seen_keys": [
           "qnb:gunluk_bulten:qnb:2026-09-04:https://www.qnbinvest.com.tr/blog"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:26:47.203304+03:00"
-=======
-        "sent_at": "2026-09-04T17:45:27.471086+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:22:30.818594+03:00"
       }
     },
     "midas": {
@@ -1146,11 +826,7 @@
           "midas:sirket_raporu:https://www.getmidas.com/midasin-kulaklari/fiyatin-ardinda-borsa-toparlaniyor-peki-yukselis-neden-herkese-ulasmiyor-p-714296",
           "midas:sirket_raporu:https://www.getmidas.com/midasin-kulaklari/analist-secimleri-3-eylul-haftasi-p-730702"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:37:08.592298+03:00"
-=======
-        "sent_at": "2026-09-04T17:56:14.335245+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:34:25.455771+03:00"
       }
     },
     "phillipcapital": {
@@ -1159,9 +835,6 @@
       },
       "model_portfoy": {
         "seen_keys": [
-          "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/ABDStockAnalysis/b65766bd-dd77-4a0c-a744-c37b9304a952.pdf",
-          "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/BIST100Bulletin/a903ce8d-0512-4d64-9f08-ef665d4aebff.pdf",
-          "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/BIST100Bulletin/ceca3670-bccb-44e3-bdc4-57bec92227b9.pdf",
           "phillipcapital:model_portfoy:https://tr.tradingview.com/broker/PhillipCapitalTurkiye",
           "phillipcapital:model_portfoy:https://www.whatsapp.com/channel/0029VbBMhe13LdQPI3gZhH2F",
           "phillipcapital:model_portfoy:https://tr.linkedin.com/company/phillipcapital-t-rkiye",
@@ -1170,17 +843,10 @@
           "phillipcapital:model_portfoy:https://x.com/Phillip_Capital",
           "phillipcapital:model_portfoy:https://www.facebook.com/PhillipCapitalTR",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/arastirma-urunleri",
+          "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/ABDStockAnalysis/b65766bd-dd77-4a0c-a744-c37b9304a952.pdf",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/ABDBulletin/dea53123-c7d8-45f1-8d6e-9b147af32b3b.pdf"
         ],
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:37:50.452601+03:00"
-=======
-        "sent_at": "2026-09-04T17:56:53.920625+03:00"
->>>>>>> Stashed changes
-=======
-        "sent_at": "2026-09-04T18:05:25.088082+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:35:09.216765+03:00"
       }
     },
     "gedik": {
@@ -1212,11 +878,7 @@
           "gedik:model_portfoy:https://gedik.com/analiz/rapor-ve-analizler",
           "gedik:model_portfoy:https://gedik.com/analiz"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:39:41.228139+03:00"
-=======
-        "sent_at": "2026-09-04T17:58:17.178380+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:36:31.955234+03:00"
       }
     },
     "oyak": {
@@ -1233,21 +895,13 @@
           "oyak:model_portfoy:https://www.oyakyatirim.com.tr/haberler",
           "oyak:model_portfoy:https://www.oyakyatirim.com.tr/arastirma-raporlari"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:40:19.640026+03:00"
-=======
-        "sent_at": "2026-09-04T17:58:39.097818+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:36:54.079196+03:00"
       },
       "teknik_bulten": {
         "seen_keys": [
           "oyak:teknik_bulten:https://www.oyakyatirim.com.tr"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:40:24.213237+03:00"
-=======
-        "sent_at": "2026-09-04T17:58:43.674187+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:36:58.476669+03:00"
       }
     },
     "halk": {
@@ -1265,11 +919,7 @@
           "halk:teknik_bulten:https://halkyatirim.medium.com/kitle-fonlamas%C4%B1-crowdfunding-nedir-404587878617",
           "halk:teknik_bulten:https://halkyatirim.medium.com/borc%CC%A7lanma-arac%CC%A7lar%C4%B1-piyasalar%C4%B1nda-kredi-derecelendirmenin-rating-o%CC%88nemi-4827c3804fe2"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:40:46.866022+03:00"
-=======
-        "sent_at": "2026-09-04T17:59:05.558853+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:37:21.284596+03:00"
       }
     },
     "vakif": {
@@ -1281,11 +931,7 @@
           "vakif:strateji_raporu:https://www.vkyanaliz.com/piyasalara-bakis/sesli-gunluk-bulten",
           "vakif:strateji_raporu:https://www.vkyanaliz.com/piyasalara-bakis/gunluk-strateji-bulteni"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:41:37.870220+03:00"
-=======
-        "sent_at": "2026-09-04T17:59:53.856985+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:38:09.098892+03:00"
       },
       "model_portfoy": {
         "seen_keys": [
@@ -1305,11 +951,7 @@
           "vakif:model_portfoy:https://twitter.com/vakifyatirimas",
           "vakif:model_portfoy:https://www.facebook.com/vakifyatirimas"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:42:10.269578+03:00"
-=======
-        "sent_at": "2026-09-04T18:00:24.687615+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:38:39.518504+03:00"
       }
     },
     "deniz": {
@@ -1328,11 +970,7 @@
           "deniz:gunluk_bulten:https://www.denizyatirim.com/ResearchNotes",
           "deniz:gunluk_bulten:deniz:2026-09-04:https://www.denizyatirim.com/asset/FooterPdf/1777288452.pdf"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:43:02.380106+03:00"
-=======
-        "sent_at": "2026-09-04T18:01:13.239496+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:39:27.210194+03:00"
       }
     },
     "info": {
@@ -1359,11 +997,7 @@
           "info:teknik_bulten:https://infoyatirim.com/hakkimizda/biz-kimiz",
           "info:teknik_bulten:https://infoyatirim.com"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:29:45.467214+03:00"
-=======
-        "sent_at": "2026-09-04T17:48:20.591655+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:26:11.944501+03:00"
       }
     },
     "garanti": {
@@ -1372,11 +1006,7 @@
           "garanti:gunluk_bulten:https://www.garantibbvayatirim.com.tr/arastirma-raporlari",
           "garanti:gunluk_bulten:https://www.garantibbvayatirim.com.tr"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:36:14.234067+03:00"
-=======
-        "sent_at": "2026-09-04T17:55:21.657240+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:33:32.500814+03:00"
       }
     },
     "unlu": {
@@ -1385,11 +1015,7 @@
           "unlu:model_portfoy:https://www.unlumenkul.com/borsa-analiz/gunluk-borsa-bulteni",
           "unlu:model_portfoy:https://www.unlumenkul.com/borsa-analiz/sektor-ve-sirket-haberleri"
         ],
-<<<<<<< Updated upstream
-        "sent_at": "2026-09-04T17:39:45.726826+03:00"
-=======
-        "sent_at": "2026-09-04T17:58:21.551406+03:00"
->>>>>>> Stashed changes
+        "sent_at": "2026-09-04T18:36:36.315203+03:00"
       }
     }
   }
