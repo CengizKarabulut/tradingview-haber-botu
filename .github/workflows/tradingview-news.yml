@@ -1,4 +1,4 @@
-name: KAP Bloomberg HT ve TradingView Haber Botu
+name: KAP Haber ve Araci Kurum Bulten Botu
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/tradingview-news.yml'
       - 'news_bot.py'
+      - 'news_bot_v4.py'
       - 'requirements.txt'
       - 'test_news_bot.py'
       - 'test_news_sources.py'
@@ -31,18 +32,26 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Python kur
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+
       - name: Kutuphaneleri yukle
         run: pip install -r requirements.txt
-      - name: Haberleri cek ve Telegram'a gonder
+
+      - name: Testleri calistir
+        run: python -m unittest -v test_news_bot.py test_news_sources.py
+
+      - name: Haberleri ve bultenleri Telegram'a gonder
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_MESSAGE_THREAD_ID: ${{ secrets.TELEGRAM_MESSAGE_THREAD_ID }}
-        run: python news_bot.py
+          BULLETIN_SOURCES: tera,info,a1capital,bulls
+        run: python news_bot_v4.py
+
       - name: Cache kaydet
         run: |
           git config --global user.email "action@github.com"
