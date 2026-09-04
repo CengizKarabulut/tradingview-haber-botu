@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658692",
+      "last_seen_key": "kap:1658693",
       "seen_keys": [
+        "kap:1658693",
         "kap:1658692",
         "kap:1658691",
         "kap:1658689",
@@ -277,8 +278,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6717952:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44W06Q:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44W06Q:0",
+        "tradingview:matriks:6717963:0",
+        "tradingview:fxstreet:7a006cc87d9e8:0",
+        "tradingview:matriks:6717958:0",
+        "tradingview:matriks:6717957:0",
+        "tradingview:matriks:6717955:0",
+        "tradingview:matriks:6717953:0",
+        "tradingview:fxstreet:664b663c1d9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44W06N:0",
         "tradingview:matriks:6717952:0",
         "tradingview:matriks:6717944:0",
         "tradingview:matriks:6717942:0",
@@ -382,5 +392,56 @@
       ]
     }
   },
-  "fingerprints": []
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "spk uc sirketin yurt d s nda 1 3 milyara kadar tahvil ihrac na izin verdi",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44W06Q:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "viop teknik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6717963:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "aud jpy fiyat analizi 112 50 nin uzerine toparland ancak 100 gunluk sma n n alt nda s n rl kalmaya devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:7a006cc87d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "esel mobil faturas 370 milyar asacak nbe",
+      "link": "https://tr.tradingview.com/news/matriks:6717958:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasa bulteni unlu menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6717957:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "analitik bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6717955:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tcmb odeme elektronik para kuruluslar nda uzaktan kimlik tespitine iliskin kurallar guncelledi",
+      "link": "https://tr.tradingview.com/news/matriks:6717953:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan alt n fiyat bugun fxstreet taraf ndan derlenen verilere gore alt n fiyat dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:664b663c1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "resmi gazete bugun 4 eylul 2026",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44W06N:0"
+    },
+    {
+      "source": "kap",
+      "text": "sdttr sirket genel bilgi formu sirket sdt uzay savunma teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658693"
+    }
+  ]
 }
