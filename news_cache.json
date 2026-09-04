@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1659248",
+      "last_seen_key": "kap:1659249",
       "seen_keys": [
+        "kap:1659249",
         "kap:1659248",
         "kap:1659246",
         "kap:1659244",
@@ -270,8 +271,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-yonetimi-savas-sonrasi-orta-dogu-stratejisi-hazirliyor-3787411",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/citi-fed-in-faiz-indirimi-beklentisini-haziran-2027-ye-erteledi-3787412",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/citi-fed-in-faiz-indirimi-beklentisini-haziran-2027-ye-erteledi-3787412",
         "bloomberght:https://www.bloomberght.com/trump-yonetimi-savas-sonrasi-orta-dogu-stratejisi-hazirliyor-3787411",
         "bloomberght:https://www.bloomberght.com/katar-iran-in-sivilleri-hedef-almadik-iddiasini-reddetti-3787407",
         "bloomberght:https://www.bloomberght.com/tcmb-enflasyonun-ana-egilimi-agustos-ta-sinirli-artti-3787406",
@@ -561,8 +563,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:0baa5057dd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:5be0a2c99d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:5be0a2c99d9e8:0",
+        "tradingview:fxstreet:70b8bafc2d9e8:0",
+        "tradingview:cointelegraph:64c88e5a6d9e8:0",
         "tradingview:cointelegraph:0baa5057dd9e8:0",
         "tradingview:fxstreet:0645f6333d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
@@ -679,6 +684,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "malezya s k lasmac ara secenekleri ac k tutuyor dbs",
+      "link": "https://tr.tradingview.com/news/fxstreet:5be0a2c99d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hint rupisi dolar girisleri inr yi destekliyor ancak ivme azalabilir ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:70b8bafc2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "pineapple financial injective uzerinde 1 milyar dolarl k ipotek kayd n zincir ustune tas d",
+      "link": "https://tr.tradingview.com/news/cointelegraph:64c88e5a6d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "citi fed in faiz indirimi beklentisini haziran 2027 ye erteledi citigroup beklentilerin uzerinde gelen abd istihdam verilerinin ard ndan fed in sonraki faiz indirimine iliskin beklentisini haziran 2027 ye erteledi kurum 2027 uc kez 25 baz puanl k faiz indirimi bekliyor",
+      "link": "https://www.bloomberght.com/citi-fed-in-faiz-indirimi-beklentisini-haziran-2027-ye-erteledi-3787412"
+    },
+    {
+      "source": "kap",
+      "text": "bjkas transfer gorusmelerinin sonuclanmas veya sona ermesi profesyonel futbolcumuz emrecan uzunhan n transferi konusunda anlasma saglanm st r sirket besiktas futbol yatirimlari sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659249"
+    },
     {
       "source": "tradingview",
       "text": "fincen kripto doland r c l klar nda 13 milyar dolarl k k sm abd d s ndaki operasyonlarla iliskilendirdi",
