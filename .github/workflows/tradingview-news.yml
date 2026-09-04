@@ -7,6 +7,7 @@ on:
       - '.github/workflows/tradingview-news.yml'
       - 'news_bot.py'
       - 'news_bot_v4.py'
+      - 'news_bot_v5.py'
       - 'requirements.txt'
       - 'test_news_bot.py'
       - 'test_news_sources.py'
@@ -42,15 +43,17 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Testleri calistir
-        run: python -m unittest -v test_news_bot.py test_news_sources.py
+        run: |
+          python -m unittest -v test_news_bot.py test_news_sources.py
+          python -m py_compile news_bot.py news_bot_v4.py news_bot_v5.py
 
       - name: Haberleri ve bultenleri Telegram'a gonder
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_MESSAGE_THREAD_ID: ${{ secrets.TELEGRAM_MESSAGE_THREAD_ID }}
-          BULLETIN_SOURCES: tera,info,a1capital,bulls
-        run: python news_bot_v4.py
+          BULLETIN_SOURCES: tera,info,a1capital,bulls,yapikredi,akyatirim,ziraat,qnb,garanti,midas,phillipcapital,gedik,global,unlu,oyak,seker,integral,isyatirim,halk,vakif,deniz
+        run: python news_bot_v5.py
 
       - name: Cache kaydet
         run: |
