@@ -279,8 +279,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6717969:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N44W078:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N44W078:0",
+        "tradingview:matriks:6717979:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N44W09W:0",
+        "tradingview:matriks:6717976:0",
+        "tradingview:matriks:6717974:0",
+        "tradingview:fxstreet:48e05d98dd9e8:0",
         "tradingview:matriks:6717969:0",
         "tradingview:fxstreet:ccfa621ead9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44W06S:0",
@@ -296,6 +302,7 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44W06N:0",
         "tradingview:matriks:6717952:0",
         "tradingview:cointelegraph:d974894e7d9e8:0",
+        "tradingview:beincrypto:da1b2c3efd9e8:0",
         "tradingview:matriks:6717944:0",
         "tradingview:matriks:6717942:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44W06M:0",
@@ -399,6 +406,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 4 eylul cuma",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44W078:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunun pusulas pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6717979:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar borsa",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N44W09W:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "teknik bulten info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6717976:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten a1 capital",
+      "link": "https://tr.tradingview.com/news/matriks:6717974:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "isvicre frang issizlik oran verileri oncesinde zay fl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:48e05d98dd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "arjantin devlet baskan milei falkland adalar n yeniden ulke gundeminin merkezine tas d",
