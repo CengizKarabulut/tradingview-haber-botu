@@ -2,9 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1659245",
+      "last_seen_key": "kap:1659246",
       "seen_keys": [
-        "kap:1659245",
+        "kap:1659246",
         "kap:1659244",
         "kap:1659243",
         "kap:1659242",
@@ -73,6 +73,7 @@
         "kap:1659058",
         "kap:1659057",
         "kap:1659056",
+        "kap:1659245",
         "kap:1659055",
         "kap:1659052",
         "kap:1659051",
@@ -365,18 +366,11 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-bal-uretiminde-dunyada-ikinci-siradayiz-birinci-sirayi-zorluyoruz/4047675",
       "seen_keys": [
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4047598",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/erzurum-turkiyede-aycicegi-uretiminde-yuzde-11-paya-ulasti/4047134",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-bal-uretiminde-dunyada-ikinci-siradayiz-birinci-sirayi-zorluyoruz/4047675",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-tr-2-arastirma-reaktorunun-yeniden-lisanslandigini-bildirdi/4047592",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tuna-portfoy-faaliyet-izninin-ardindan-fon-kurulus-sureclerini-yurutuyor/4047634",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4047626",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-kultur-mirasimiza-kazandirdigimiz-tarihi-koprulerin-sayisi-532ye-ulasti/4047489",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-haftayi-yukselisle-tamamladi/4047451",
@@ -384,24 +378,32 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/karadenizde-jeopolitik-risklerin-yumusamasi-bugday-fiyatlarindaki-yukselisi-frenledi/4047430",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/derya-arms-milli-atici-yusuf-dikec-ile-isbirligine-gitti/4047423",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-tarim-disi-istihdam-agustosta-beklentileri-asti/4047397",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/erzurum-turkiyede-aycicegi-uretiminde-yuzde-11-paya-ulasti/4047134",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4047598",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aa-finansin-ppk-beklenti-anketi-sonuclandi/4047378",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/baykar-yonetim-kurulu-baskani-selcuk-bayraktardan-kucuk-moduler-reaktor-aciklamasi/4047641",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/togg-yonetim-kurulu-baskani-fuat-tosyaliya-fahri-doktora-unvani-verildi/4047343"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-boston-scientific-hissesi-icin-tavsiyesini-korudu-93CH-4056031",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/hp-yapay-zeka-destekli-omnibook-dizustu-ve-omnidesk-masaustu-tantt-93CH-4056038",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/hp-yapay-zeka-destekli-omnibook-dizustu-ve-omnidesk-masaustu-tantt-93CH-4056038",
+        "investing:https://tr.investing.com/news/stock-market-news/warrenai-sralamasna-gore-en-iyi-tatil-oteli-hisseleri-93CH-4056037",
+        "investing:https://tr.investing.com/news/analyst-ratings/lululemonun-hisse-hedefi-zayf-ceyrek-sonras-115-dolara-dusuruldu-93CH-4056035",
+        "investing:https://tr.investing.com/news/commodities-news/abdde-enerji-sondaj-kulesi-says-ikinci-haftada-da-sabit-kald-93CH-4056034",
+        "investing:https://tr.investing.com/news/company-news/tredegar-operasyonel-donusumunu-ilerletiyor-bonnell-gm-ayrld-93CH-4056032",
         "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-boston-scientific-hissesi-icin-tavsiyesini-korudu-93CH-4056031",
         "investing:https://tr.investing.com/news/insider-trading-news/columbiann-finans-direktoru-holland-233-dolar-degerinde-hisse-ald-93CH-4056030",
         "investing:https://tr.investing.com/news/insider-trading-news/grove-collaborative-yoneticisi-stuart-landesberg-5541-dolarlk-hisse-ald-93CH-4056029",
         "investing:https://tr.investing.com/news/company-news/tarsus-pharmaceuticals-hissesi-8529-dolarda-rekor-krd-93CH-4056026",
         "investing:https://tr.investing.com/news/analyst-ratings/fbn-securities-zscaler-icin-hisse-hedefini-yukseltti-93CH-4056025",
-        "investing:https://tr.investing.com/news/insider-trading-news/southern-co-ceosu-peter-sena-377924-dolarlk-hisse-satt-93CH-4056024",
-        "investing:https://tr.investing.com/news/insider-trading-news/smithmidland-yoneticisi-matthew-smith-54300-dolar-degerinde-hisse-ald-93CH-4056023",
-        "investing:https://tr.investing.com/news/insider-trading-news/smith-midland-ceosu-ashley-smith-sirket-hissesi-ald-93CH-4056022",
-        "investing:https://tr.investing.com/news/insider-trading-news/southern-conun-kontroloru-matthew-kim-124418-dolar-degerinde-hisse-satt-93CH-4056021",
-        "investing:https://tr.investing.com/news/stock-market-news/abd-duzenleyicisi-tesla-cybercab-sertifikasyonunu-sorusturuyor-93CH-4056020",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -422,6 +424,11 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/insider-trading-news/southern-co-ceosu-peter-sena-377924-dolarlk-hisse-satt-93CH-4056024",
+        "investing:https://tr.investing.com/news/insider-trading-news/smithmidland-yoneticisi-matthew-smith-54300-dolar-degerinde-hisse-ald-93CH-4056023",
+        "investing:https://tr.investing.com/news/insider-trading-news/smith-midland-ceosu-ashley-smith-sirket-hissesi-ald-93CH-4056022",
+        "investing:https://tr.investing.com/news/insider-trading-news/southern-conun-kontroloru-matthew-kim-124418-dolar-degerinde-hisse-satt-93CH-4056021",
+        "investing:https://tr.investing.com/news/stock-market-news/abd-duzenleyicisi-tesla-cybercab-sertifikasyonunu-sorusturuyor-93CH-4056020",
         "investing:https://tr.investing.com/news/commodities-news/abdde-dogal-gaz-sondaj-kulesi-says-2-azald-93CH-4056018",
         "investing:https://tr.investing.com/news/company-news/pennpetro-energy-genel-kurul-toplantsn-30-eylule-ald-93CH-4056017",
         "investing:https://tr.investing.com/news/insider-trading-news/itron-svp-justin-k-patrick-994045-dolarlk-itri-hissesi-satt-93CH-4056015",
@@ -533,9 +540,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:8b1338cf7d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:6d762f1afd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:6d762f1afd9e8:0",
+        "tradingview:fxstreet:341d8fbaed9e8:0",
+        "tradingview:fxstreet:26240fd9bd9e8:0",
         "tradingview:fxstreet:8b1338cf7d9e8:0",
+        "tradingview:beincrypto:40ccb87f4d9e8:0",
+        "tradingview:beincrypto:9852b4e75d9e8:0",
         "tradingview:cointelegraph:9764831d5d9e8:0",
         "tradingview:cointelegraph:7189e7012d9e8:0",
         "tradingview:beincrypto:eb92efc1ad9e8:0",
@@ -642,6 +654,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "turkiye tcmb 4 ceyrekte iki faiz indirimi oncesinde sabit tutmas muhtemel ing",
+      "link": "https://tr.tradingview.com/news/fxstreet:6d762f1afd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar abd dolar n n nfp sonras ivme kaybetmesiyle yukselisini surduruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:341d8fbaed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ons alt n fiyat guclu nfp verilerinin ard ndan yat r mc lar n fed e yonelik s k lasmac beklentilerini art rmas yla dusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:26240fd9bd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "hp yapay zeka destekli omnibook dizustu omnidesk masaustu tan tt",
+      "link": "https://tr.investing.com/news/company-news/hp-yapay-zeka-destekli-omnibook-dizustu-ve-omnidesk-masaustu-tantt-93CH-4056038"
+    },
+    {
+      "source": "investing",
+      "text": "warrenai s ralamas na gore en iyi tatil oteli hisseleri",
+      "link": "https://tr.investing.com/news/stock-market-news/warrenai-sralamasna-gore-en-iyi-tatil-oteli-hisseleri-93CH-4056037"
+    },
+    {
+      "source": "investing",
+      "text": "lululemon un hisse hedefi zay f ceyrek sonras 115 dolara dusuruldu",
+      "link": "https://tr.investing.com/news/analyst-ratings/lululemonun-hisse-hedefi-zayf-ceyrek-sonras-115-dolara-dusuruldu-93CH-4056035"
+    },
+    {
+      "source": "investing",
+      "text": "abd enerji sondaj kulesi say s ikinci haftada sabit kald",
+      "link": "https://tr.investing.com/news/commodities-news/abdde-enerji-sondaj-kulesi-says-ikinci-haftada-da-sabit-kald-93CH-4056034"
+    },
+    {
+      "source": "investing",
+      "text": "tredegar operasyonel donusumunu ilerletiyor bonnell gm ayr ld",
+      "link": "https://tr.investing.com/news/company-news/tredegar-operasyonel-donusumunu-ilerletiyor-bonnell-gm-ayrld-93CH-4056032"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "tuna portfoy faaliyet izninin ard ndan fon kurulus sureclerini yurutuyor tuna portfoy yonetimi as sermaye piyasas kurulu spk taraf ndan verilen faaliyet izninin ard ndan yat r m fonlar n n kurulus yonetimine iliskin cal smalar n surduruyor anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/tuna-portfoy-faaliyet-izninin-ardindan-fon-kurulus-sureclerini-yurutuyor/4047634"
+    },
+    {
+      "source": "kap",
+      "text": "icugs sirket genel bilgi formu sirket icu girisim sermayesi yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659246"
+    },
     {
       "source": "trthaber",
       "text": "bakan bayraktar tr2 arast rma reaktorumuz yeniden lisansland enerji tabii kaynaklar bakan alparslan bayraktar turkiye enerji nukleer maden arast rma kurumunun tenmak istanbul kucukcekmece yerleskesinde bulunan tr 2 arast rma reaktoru nun yeniden lisansland g n cok k sa surede burada yeni",
