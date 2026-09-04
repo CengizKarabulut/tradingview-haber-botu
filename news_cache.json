@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658693",
+      "last_seen_key": "kap:1658695",
       "seen_keys": [
+        "kap:1658695",
+        "kap:1658694",
         "kap:1658693",
         "kap:1658692",
         "kap:1658691",
@@ -19,7 +21,6 @@
         "kap:1658677",
         "kap:1658676",
         "kap:1658675",
-        "kap:1658674",
         "kap:1658658",
         "kap:1658657",
         "kap:1658651",
@@ -94,14 +95,16 @@
         "kap:1658439",
         "kap:1658438",
         "kap:1658437",
+        "kap:1658674",
         "kap:1658421",
         "kap:1658415",
         "kap:1658414"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/morgan-stanley-cin-hisselerinde-hedefleri-dusurdu-3787292",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/akaryakitta-cifte-zam-fiyatlar-rekor-seviyede-3787293",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/akaryakitta-cifte-zam-fiyatlar-rekor-seviyede-3787293",
         "bloomberght:https://www.bloomberght.com/morgan-stanley-cin-hisselerinde-hedefleri-dusurdu-3787292",
         "bloomberght:https://www.bloomberght.com/carry-trade-cozuluyor-yen-gucleniyor-3787291",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-04092026-3787290",
@@ -293,8 +296,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6718026:0",
+      "last_seen_key": "tradingview:matriks:6718049:0",
       "seen_keys": [
+        "tradingview:matriks:6718049:0",
+        "tradingview:fxstreet:e2b11d4c5d9e8:0",
+        "tradingview:matriks:6718048:0",
+        "tradingview:matriks:6718046:0",
+        "tradingview:fxstreet:1c2624e95d9e8:0",
+        "tradingview:matriks:6718039:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44W08L:0",
+        "tradingview:fxstreet:cbecddd0cd9e8:0",
+        "tradingview:fxstreet:2265cfa49d9e8:0",
         "tradingview:matriks:6718026:0",
         "tradingview:matriks:6718024:0",
         "tradingview:matriks:6718023:0",
@@ -324,7 +336,6 @@
         "tradingview:matriks:6717988:0",
         "tradingview:matriks:6717987:0",
         "tradingview:matriks:6717985:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N44W078:0",
         "tradingview:matriks:6717979:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N44W09W:0",
         "tradingview:matriks:6717976:0",
@@ -338,7 +349,9 @@
         "tradingview:matriks:6717963:0",
         "tradingview:fxstreet:7a006cc87d9e8:0",
         "tradingview:matriks:6717958:0",
+        "tradingview:beincrypto:626e1e02cd9e8:0",
         "tradingview:matriks:6717957:0",
+        "tradingview:beincrypto:a36b7b19bd9e8:0",
         "tradingview:matriks:6717955:0",
         "tradingview:matriks:6717953:0",
         "tradingview:fxstreet:664b663c1d9e8:0",
@@ -351,7 +364,6 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N44W06M:0",
         "tradingview:matriks:6717939:0",
         "tradingview:matriks:6717937:0",
-        "tradingview:fxstreet:cbecddd0cd9e8:0",
         "tradingview:matriks:6717935:0",
         "tradingview:matriks:6717933:0",
         "tradingview:matriks:6717931:0",
@@ -386,6 +398,7 @@
         "tradingview:matriks:6717879:0",
         "tradingview:matriks:6717888:0",
         "tradingview:matriks:6717886:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N44W078:0",
         "tradingview:matriks:6717887:0",
         "tradingview:matriks:6717885:0",
         "tradingview:matriks:6717891:0",
@@ -449,6 +462,61 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "teknik strateji bulteni vak f yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6718049:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "endonezya rupiah fed faiz art r m olas l g n n azalmas na ragmen abd dolar n n yukselmesiyle geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e2b11d4c5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yurt d s piyasalar gunluk bulten pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6718048:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten allbatross yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6718046:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini boe nin s k lasmac kalmas yla 1 3500 in uzerine gucleniyor yat r mc lar abd nfp verilerine haz rlan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:1c2624e95d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk bulten trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6718039:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bas nda bugun 4 eylul cuma",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N44W08L:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan rupisi abd nfp verileri oncesinde iki ayl k dip seviyeye yak n islem goruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2265cfa49d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "akaryak tta cifte zam fiyatlar rekor seviyede benzin motorin fiyatlar na 4 eylul tarihinden itibaren gecerli olmak uzere zam geldi",
+      "link": "https://www.bloomberght.com/akaryakitta-cifte-zam-fiyatlar-rekor-seviyede-3787293"
+    },
+    {
+      "source": "kap",
+      "text": "blkom pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfblkma2617 isin kodlu finansman bonosu nun 1 kupon faiz oran n n belirlenmesi sirket bilkom bilisim hizmetleri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658695"
+    },
+    {
+      "source": "kap",
+      "text": "ihlgm ozel durum ac klamas genel maden ruhsatlar n n devrine iliskin sozlesme imzalanmas hk sirket ihlas gayrimenkul proje gelistirme ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658694"
+    },
     {
       "source": "tradingview",
       "text": "gunluk bulten kuveyt turk yat r m",
