@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658851",
+      "last_seen_key": "kap:1658853",
       "seen_keys": [
+        "kap:1658853",
+        "kap:1658852",
         "kap:1658851",
         "kap:1658850",
         "kap:1658849",
@@ -250,18 +252,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/baird-gelir-endiseleriyle-duluth-holdings-hissesini-dusurdu-93CH-4055143",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/northern-3-vct-temettu-plan-kapsamnda-521852-hisse-tahsis-etti-93CH-4055246",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/baird-gelir-endiseleriyle-duluth-holdings-hissesini-dusurdu-93CH-4055143",
-        "investing:https://tr.investing.com/news/insider-trading-news/sibone-yonetim-kurulu-uyesi-378160-dolar-degerinde-hisse-satt-93CH-4055141",
-        "investing:https://tr.investing.com/news/company-news/dno-genel-energy-icin-teklif-vermeyecegini-dogrulad-93CH-4055140",
-        "investing:https://tr.investing.com/news/economic-indicators/ingiltere-insaat-sektoru-20-ayda-da-darald-93CH-4055136",
-        "investing:https://tr.investing.com/news/economic-indicators/almanyada-insaat-sektoru-daralmas-agustosta-yavaslad-93CH-4055135",
-        "investing:https://tr.investing.com/news/global-filings/ihlas-gayrimenkul-2-maden-ruhsatn-1-milyon-usdye-devrediyor-93CH-4055132",
-        "investing:https://tr.investing.com/news/stock-market-news/uipath-hissesi-bugun-neden-dusuyor-93CH-4055131",
-        "investing:https://tr.investing.com/news/economic-indicators/avro-bolgesinde-insaat-faaliyeti-agustosta-daha-hzl-dustu-93CH-4055130",
-        "investing:https://tr.investing.com/news/global-filings/eregli-tekstil-530-milyon-tllik-138-gunluk-finansman-bonosu-ihrac-etti-93CH-4055129",
-        "investing:https://tr.investing.com/news/company-news/rockhopper-arjantin-konusmas-sonras-sea-lion-projesi-hakknda-acklama-yapt-93CH-4055128",
+        "investing:https://tr.investing.com/news/company-news/northern-3-vct-temettu-plan-kapsamnda-521852-hisse-tahsis-etti-93CH-4055246",
+        "investing:https://tr.investing.com/news/analyst-ratings/ubs-ha-sustainable-infrastructure-hissesini-degerleme-nedeniyle-dusurdu-93CH-4055240",
+        "investing:https://tr.investing.com/news/company-news/northern-2-vct-temettu-plan-kapsamnda-738824-hisse-tahsis-etti-93CH-4055226",
+        "investing:https://tr.investing.com/news/stock-market-news/goldman-sachs-dizel-gucuyle-avrupa-rafineri-hisse-hedeflerini-yukseltti-93CH-4055219",
+        "investing:https://tr.investing.com/news/company-news/northern-venture-trust-586pden-890347-hisse-tahsis-etti-93CH-4055216",
+        "investing:https://tr.investing.com/news/stock-market-news/goldmandan-vodafonea-cifte-yukseltme-4055242",
+        "investing:https://tr.investing.com/news/stock-market-news/goldman-sachstan-yukseltme-sonras-neste-hisseleri-25-artt-93CH-4055207",
+        "investing:https://tr.investing.com/news/commodities-news/citi-altndaki-dususu-alm-frsat-olarak-goruyor-93CH-4055203",
+        "investing:https://tr.investing.com/news/stock-market-news/morgan-stanley-accor-icin-hedef-fiyat-yukseltti-4055211",
+        "investing:https://tr.investing.com/news/commodities-news/citi-ve-anz-orta-dogu-arz-kesintileri-nedeniyle-brent-petrol-tahminlerini-yukseltti-93CH-4055198",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -282,6 +284,16 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/analyst-ratings/baird-gelir-endiseleriyle-duluth-holdings-hissesini-dusurdu-93CH-4055143",
+        "investing:https://tr.investing.com/news/insider-trading-news/sibone-yonetim-kurulu-uyesi-378160-dolar-degerinde-hisse-satt-93CH-4055141",
+        "investing:https://tr.investing.com/news/company-news/dno-genel-energy-icin-teklif-vermeyecegini-dogrulad-93CH-4055140",
+        "investing:https://tr.investing.com/news/economic-indicators/ingiltere-insaat-sektoru-20-ayda-da-darald-93CH-4055136",
+        "investing:https://tr.investing.com/news/economic-indicators/almanyada-insaat-sektoru-daralmas-agustosta-yavaslad-93CH-4055135",
+        "investing:https://tr.investing.com/news/global-filings/ihlas-gayrimenkul-2-maden-ruhsatn-1-milyon-usdye-devrediyor-93CH-4055132",
+        "investing:https://tr.investing.com/news/stock-market-news/uipath-hissesi-bugun-neden-dusuyor-93CH-4055131",
+        "investing:https://tr.investing.com/news/economic-indicators/avro-bolgesinde-insaat-faaliyeti-agustosta-daha-hzl-dustu-93CH-4055130",
+        "investing:https://tr.investing.com/news/global-filings/eregli-tekstil-530-milyon-tllik-138-gunluk-finansman-bonosu-ihrac-etti-93CH-4055129",
+        "investing:https://tr.investing.com/news/company-news/rockhopper-arjantin-konusmas-sonras-sea-lion-projesi-hakknda-acklama-yapt-93CH-4055128",
         "investing:https://tr.investing.com/news/global-filings/emlak-katlm-varlk-kiralama-123-milyar-tl-kira-sertifikas-satt-93CH-4055108",
         "investing:https://tr.investing.com/news/insider-trading-news/lyftin-bas-hukuk-musaviri-219710-dolarlk-hisse-satt-93CH-4055107",
         "investing:https://tr.investing.com/news/analyst-ratings/barclays-ks-hissesi-icin-potasyum-toparlanmas-ile-equalweight-onerdi-93CH-4055106",
@@ -472,8 +484,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6719007:0",
+      "last_seen_key": "tradingview:fxstreet:38c39ac48d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:38c39ac48d9e8:0",
+        "tradingview:fxstreet:e30b959c6d9e8:0",
+        "tradingview:matriks:6719011:0",
         "tradingview:matriks:6719007:0",
         "tradingview:matriks:6718997:0",
         "tradingview:matriks:6718983:0",
@@ -821,6 +836,81 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat bugun fxstreet verilerine gore gumus fiyat dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:38c39ac48d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan rupisi faiz art r m patikas para birimini destekliyor societe generale",
+      "link": "https://tr.tradingview.com/news/fxstreet:e30b959c6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "toplant notlar atatr pusula yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6719011:0"
+    },
+    {
+      "source": "investing",
+      "text": "northern 3 vct temettu plan kapsam nda 521 852 hisse tahsis etti",
+      "link": "https://tr.investing.com/news/company-news/northern-3-vct-temettu-plan-kapsamnda-521852-hisse-tahsis-etti-93CH-4055246"
+    },
+    {
+      "source": "investing",
+      "text": "ubs ha sustainable infrastructure hissesini degerleme nedeniyle dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/ubs-ha-sustainable-infrastructure-hissesini-degerleme-nedeniyle-dusurdu-93CH-4055240"
+    },
+    {
+      "source": "investing",
+      "text": "northern 2 vct temettu plan kapsam nda 738 824 hisse tahsis etti",
+      "link": "https://tr.investing.com/news/company-news/northern-2-vct-temettu-plan-kapsamnda-738824-hisse-tahsis-etti-93CH-4055226"
+    },
+    {
+      "source": "investing",
+      "text": "goldman sachs dizel gucuyle avrupa rafineri hisse hedeflerini yukseltti",
+      "link": "https://tr.investing.com/news/stock-market-news/goldman-sachs-dizel-gucuyle-avrupa-rafineri-hisse-hedeflerini-yukseltti-93CH-4055219"
+    },
+    {
+      "source": "investing",
+      "text": "northern venture trust 58 6p den 890 347 hisse tahsis etti",
+      "link": "https://tr.investing.com/news/company-news/northern-venture-trust-586pden-890347-hisse-tahsis-etti-93CH-4055216"
+    },
+    {
+      "source": "investing",
+      "text": "goldman dan vodafone a cifte yukseltme",
+      "link": "https://tr.investing.com/news/stock-market-news/goldmandan-vodafonea-cifte-yukseltme-4055242"
+    },
+    {
+      "source": "investing",
+      "text": "goldman sachs tan yukseltme sonras neste hisseleri 2 5 artt",
+      "link": "https://tr.investing.com/news/stock-market-news/goldman-sachstan-yukseltme-sonras-neste-hisseleri-25-artt-93CH-4055207"
+    },
+    {
+      "source": "investing",
+      "text": "citi alt ndaki dususu al m f rsat olarak goruyor",
+      "link": "https://tr.investing.com/news/commodities-news/citi-altndaki-dususu-alm-frsat-olarak-goruyor-93CH-4055203"
+    },
+    {
+      "source": "investing",
+      "text": "morgan stanley accor hedef fiyat yukseltti",
+      "link": "https://tr.investing.com/news/stock-market-news/morgan-stanley-accor-icin-hedef-fiyat-yukseltti-4055211"
+    },
+    {
+      "source": "investing",
+      "text": "citi anz orta dogu arz kesintileri nedeniyle brent petrol tahminlerini yukseltti",
+      "link": "https://tr.investing.com/news/commodities-news/citi-ve-anz-orta-dogu-arz-kesintileri-nedeniyle-brent-petrol-tahminlerini-yukseltti-93CH-4055198"
+    },
+    {
+      "source": "kap",
+      "text": "kfein kurumsal yonetim ilkelerine uyum derecelendirmesi kurumsal yonetim ilkelerine uyum derecelendirmesi raporu notu sirket kafein yazilim hizmetleri ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658853"
+    },
+    {
+      "source": "kap",
+      "text": "doas kurumsal yonetim ilkelerine uyum derecelendirmesi kurumsal yonetim ilkelerine uyum derecelendirme sozlesmesi sirket dogus otomotiv servis ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658852"
+    },
     {
       "source": "tradingview",
       "text": "boe baskan bailey yuksek borc seviyeleri hukumetler ac s ndan derece ciddi zorluklara isaret ediyor tahvil piyasas ndaki bask y art r yor",
