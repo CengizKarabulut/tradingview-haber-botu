@@ -392,8 +392,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/hp-yapay-zeka-destekli-omnibook-dizustu-ve-omnidesk-masaustu-tantt-93CH-4056038",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/bny-hissesi-16569-dolar-ile-rekor-krd-93CH-4056044",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/bny-hissesi-16569-dolar-ile-rekor-krd-93CH-4056044",
+        "investing:https://tr.investing.com/news/insider-trading-news/smith-midland-ceosu-ashley-smith-9804-dolarlk-hisse-satn-ald-93CH-4056043",
+        "investing:https://tr.investing.com/news/company-news/stanley-black--decker-excel-industriesi-bad-boy-mowersa-satyor-93CH-4056042",
         "investing:https://tr.investing.com/news/company-news/hp-yapay-zeka-destekli-omnibook-dizustu-ve-omnidesk-masaustu-tantt-93CH-4056038",
         "investing:https://tr.investing.com/news/stock-market-news/warrenai-sralamasna-gore-en-iyi-tatil-oteli-hisseleri-93CH-4056037",
         "investing:https://tr.investing.com/news/analyst-ratings/lululemonun-hisse-hedefi-zayf-ceyrek-sonras-115-dolara-dusuruldu-93CH-4056035",
@@ -401,9 +404,6 @@
         "investing:https://tr.investing.com/news/company-news/tredegar-operasyonel-donusumunu-ilerletiyor-bonnell-gm-ayrld-93CH-4056032",
         "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-boston-scientific-hissesi-icin-tavsiyesini-korudu-93CH-4056031",
         "investing:https://tr.investing.com/news/insider-trading-news/columbiann-finans-direktoru-holland-233-dolar-degerinde-hisse-ald-93CH-4056030",
-        "investing:https://tr.investing.com/news/insider-trading-news/grove-collaborative-yoneticisi-stuart-landesberg-5541-dolarlk-hisse-ald-93CH-4056029",
-        "investing:https://tr.investing.com/news/company-news/tarsus-pharmaceuticals-hissesi-8529-dolarda-rekor-krd-93CH-4056026",
-        "investing:https://tr.investing.com/news/analyst-ratings/fbn-securities-zscaler-icin-hisse-hedefini-yukseltti-93CH-4056025",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -424,6 +424,9 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/insider-trading-news/grove-collaborative-yoneticisi-stuart-landesberg-5541-dolarlk-hisse-ald-93CH-4056029",
+        "investing:https://tr.investing.com/news/company-news/tarsus-pharmaceuticals-hissesi-8529-dolarda-rekor-krd-93CH-4056026",
+        "investing:https://tr.investing.com/news/analyst-ratings/fbn-securities-zscaler-icin-hisse-hedefini-yukseltti-93CH-4056025",
         "investing:https://tr.investing.com/news/insider-trading-news/southern-co-ceosu-peter-sena-377924-dolarlk-hisse-satt-93CH-4056024",
         "investing:https://tr.investing.com/news/insider-trading-news/smithmidland-yoneticisi-matthew-smith-54300-dolar-degerinde-hisse-ald-93CH-4056023",
         "investing:https://tr.investing.com/news/insider-trading-news/smith-midland-ceosu-ashley-smith-sirket-hissesi-ald-93CH-4056022",
@@ -655,6 +658,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "bny hissesi 165 69 dolar rekor k rd",
+      "link": "https://tr.investing.com/news/company-news/bny-hissesi-16569-dolar-ile-rekor-krd-93CH-4056044"
+    },
+    {
+      "source": "investing",
+      "text": "smith midland ceo su ashley smith 9 804 dolarl k hisse sat n ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/smith-midland-ceosu-ashley-smith-9804-dolarlk-hisse-satn-ald-93CH-4056043"
+    },
+    {
+      "source": "investing",
+      "text": "stanley black decker excel industries i bad boy mowers a sat yor",
+      "link": "https://tr.investing.com/news/company-news/stanley-black--decker-excel-industriesi-bad-boy-mowersa-satyor-93CH-4056042"
+    },
     {
       "source": "tradingview",
       "text": "fed den hammack politikan n yeterince k s tlay c olmad g n soyledi",
