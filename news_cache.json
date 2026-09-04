@@ -257,6 +257,7 @@
       ]
     },
     "investing": {
+<<<<<<< Updated upstream
       "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/telsey-kroger-hissesi-icin-outperform-notunu-korudu-93CH-4055322",
       "seen_keys": [
         "investing:https://tr.investing.com/news/analyst-ratings/telsey-kroger-hissesi-icin-outperform-notunu-korudu-93CH-4055322",
@@ -269,6 +270,20 @@
         "investing:https://tr.investing.com/news/insider-trading-news/astera-labs-yoneticisi-34-milyon-dolarlk-hisse-satt-93CH-4055310",
         "investing:https://tr.investing.com/news/insider-trading-news/amalgamated-financial-cfosu-jason-darby-65-dolarlk-hisse-satt-93CH-4055309",
         "investing:https://tr.investing.com/news/stock-market-news/egain-hissesi-bugun-neden-yuzde-20den-fazla-dusuyor-93CH-4055307",
+=======
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-zscaler-hissesi-icin-overweight-notunu-korudu-93CH-4055346",
+      "seen_keys": [
+        "investing:https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-zscaler-hissesi-icin-overweight-notunu-korudu-93CH-4055346",
+        "investing:https://tr.investing.com/news/analyst-ratings/rosenblatt-cienann-hisse-hedefini-degerleme-degisimi-nedeniyle-dusurdu-93CH-4055344",
+        "investing:https://tr.investing.com/news/analyst-ratings/evercore-isi-guclu-sonuclar-sonras-docusign-hisse-hedefini-yukseltti-93CH-4055341",
+        "investing:https://tr.investing.com/news/stock-market-news/transunion-hisseleri-neden-dusuyor-93CH-4055338",
+        "investing:https://tr.investing.com/news/analyst-ratings/td-cowen-uipath-icin-hisse-hedefini-16-dolara-yukseltti-93CH-4055339",
+        "investing:https://tr.investing.com/news/analyst-ratings/guggenheim-zscaler-hissesi-icin-al-tavsiyesini-korudu-93CH-4055334",
+        "investing:https://tr.investing.com/news/analyst-ratings/citizens-asana-hissesi-icin-yapay-zeka-ajans-stratejisi-uzerine-notunu-yineledi-93CH-4055332",
+        "investing:https://tr.investing.com/news/stock-market-news/netflix-almanya-ve-avusturyada-fiyatlar-artrd-citi-yorumlad-93CH-4055333",
+        "investing:https://tr.investing.com/news/analyst-ratings/truist-samsarann-hisse-hedefini-guclu-buyume-ile-48-dolara-yukseltti-93CH-4055331",
+        "investing:https://tr.investing.com/news/analyst-ratings/telsey-kroger-hissesi-icin-outperform-notunu-korudu-93CH-4055322",
+>>>>>>> Stashed changes
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -499,8 +514,14 @@
       ]
     },
     "tradingview": {
+<<<<<<< Updated upstream
       "last_seen_key": "tradingview:matriks:6719093:0",
       "seen_keys": [
+=======
+      "last_seen_key": "tradingview:fxstreet:1681cb21dd9e8:0",
+      "seen_keys": [
+        "tradingview:fxstreet:1681cb21dd9e8:0",
+>>>>>>> Stashed changes
         "tradingview:matriks:6719093:0",
         "tradingview:fxstreet:326671bdbd9e8:0",
         "tradingview:matriks:6719083:0",
@@ -859,6 +880,14 @@
   "fingerprints": [
     {
       "source": "tradingview",
+<<<<<<< Updated upstream
+=======
+      "text": "boe baskan bailey merkez bankas n n esnekligini savundu tahvil piyasas bask lar na kars uyard",
+      "link": "https://tr.tradingview.com/news/fxstreet:1681cb21dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+>>>>>>> Stashed changes
       "text": "kremlin bar s olusumunun olas l g devam ediyor fakat su an somut gosterge yok",
       "link": "https://tr.tradingview.com/news/matriks:6719093:0"
     },
@@ -884,10 +913,59 @@
     },
     {
       "source": "investing",
+<<<<<<< Updated upstream
+=======
+      "text": "cantor fitzgerald zscaler hissesi overweight notunu korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-zscaler-hissesi-icin-overweight-notunu-korudu-93CH-4055346"
+    },
+    {
+      "source": "investing",
+      "text": "rosenblatt ciena n n hisse hedefini degerleme degisimi nedeniyle dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/rosenblatt-cienann-hisse-hedefini-degerleme-degisimi-nedeniyle-dusurdu-93CH-4055344"
+    },
+    {
+      "source": "investing",
+      "text": "evercore isi guclu sonuclar sonras docusign hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/evercore-isi-guclu-sonuclar-sonras-docusign-hisse-hedefini-yukseltti-93CH-4055341"
+    },
+    {
+      "source": "investing",
+      "text": "transunion hisseleri neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/transunion-hisseleri-neden-dusuyor-93CH-4055338"
+    },
+    {
+      "source": "investing",
+      "text": "td cowen uipath hisse hedefini 16 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/td-cowen-uipath-icin-hisse-hedefini-16-dolara-yukseltti-93CH-4055339"
+    },
+    {
+      "source": "investing",
+      "text": "guggenheim zscaler hissesi al tavsiyesini korudu",
+      "link": "https://tr.investing.com/news/analyst-ratings/guggenheim-zscaler-hissesi-icin-al-tavsiyesini-korudu-93CH-4055334"
+    },
+    {
+      "source": "investing",
+      "text": "citizens asana hissesi yapay zeka ajans stratejisi uzerine notunu yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/citizens-asana-hissesi-icin-yapay-zeka-ajans-stratejisi-uzerine-notunu-yineledi-93CH-4055332"
+    },
+    {
+      "source": "investing",
+      "text": "netflix almanya avusturya fiyatlar art rd citi yorumlad",
+      "link": "https://tr.investing.com/news/stock-market-news/netflix-almanya-ve-avusturyada-fiyatlar-artrd-citi-yorumlad-93CH-4055333"
+    },
+    {
+      "source": "investing",
+      "text": "truist samsara n n hisse hedefini guclu buyume 48 dolara yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/truist-samsarann-hisse-hedefini-guclu-buyume-ile-48-dolara-yukseltti-93CH-4055331"
+    },
+    {
+      "source": "investing",
+>>>>>>> Stashed changes
       "text": "telsey kroger hissesi outperform notunu korudu",
       "link": "https://tr.investing.com/news/analyst-ratings/telsey-kroger-hissesi-icin-outperform-notunu-korudu-93CH-4055322"
     },
     {
+<<<<<<< Updated upstream
       "source": "investing",
       "text": "blue biofuels yoneticisi kneppers 91 000 dolar degerinde hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/blue-biofuels-yoneticisi-kneppers-91000-dolar-degerinde-hisse-satt-93CH-4055321"
@@ -933,6 +1011,8 @@
       "link": "https://tr.investing.com/news/stock-market-news/egain-hissesi-bugun-neden-yuzde-20den-fazla-dusuyor-93CH-4055307"
     },
     {
+=======
+>>>>>>> Stashed changes
       "source": "bloomberght",
       "text": "bakan bolat 2 y ll k e ihracat hedefimiz 10 milyar dolar kuresel ihracat zirvesi nde bloomberg ht ye konusan ticaret bakan omer bolat 2 y lda e ihracat yapan firma say s n n yuzde 40 artarak 8 bin 500 e c kt g n 6 milyar dolarl k e ihracat hacmine ulas ld g n kaydetti",
       "link": "https://www.bloomberght.com/bakan-bolat-2-yillik-e-ihracat-hedefimiz-10-milyar-dolar-3787349"
