@@ -392,12 +392,10 @@
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4047598",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/erzurum-turkiyede-aycicegi-uretiminde-yuzde-11-paya-ulasti/4047134",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-bal-uretiminde-dunyada-ikinci-siradayiz-birinci-sirayi-zorluyoruz/4047675",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-tr-2-arastirma-reaktorunun-yeniden-lisanslandigini-bildirdi/4047592",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tuna-portfoy-faaliyet-izninin-ardindan-fon-kurulus-sureclerini-yurutuyor/4047634",
@@ -408,6 +406,8 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/karadenizde-jeopolitik-risklerin-yumusamasi-bugday-fiyatlarindaki-yukselisi-frenledi/4047430",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/derya-arms-milli-atici-yusuf-dikec-ile-isbirligine-gitti/4047423",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-tarim-disi-istihdam-agustosta-beklentileri-asti/4047397",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aa-finansin-ppk-beklenti-anketi-sonuclandi/4047378",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/baykar-yonetim-kurulu-baskani-selcuk-bayraktardan-kucuk-moduler-reaktor-aciklamasi/4047641",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/togg-yonetim-kurulu-baskani-fuat-tosyaliya-fahri-doktora-unvani-verildi/4047343"
@@ -616,8 +616,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:07e730d58d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:be69c4562d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:be69c4562d9e8:0",
         "tradingview:fxstreet:07e730d58d9e8:0",
         "tradingview:beincrypto:371ad8787d9e8:0",
         "tradingview:fxstreet:2830e0d0ed9e8:0",
@@ -762,6 +763,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "malezya ringiti abd dolar kars s nda yatay yonlu riskler onemli seviyeler ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:be69c4562d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "usd mxn fiyat analizi peso rallisi nisan 2024 dip seviyesini hedefliyor",
