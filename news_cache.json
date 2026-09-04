@@ -414,8 +414,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/willdan-yoneticisi-thomas-brisbin-517-milyon-dolarlk-hisse-satt-93CH-4056167",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/block-yoneticisi-anthony-eisen-146-milyon-dolarlk-hisse-satt-93CH-4056171",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/block-yoneticisi-anthony-eisen-146-milyon-dolarlk-hisse-satt-93CH-4056171",
+        "investing:https://tr.investing.com/news/insider-trading-news/yonetim-kurulu-uyesi-clint-hurt-primeenergy-hisselerini-satt-93CH-4056170",
+        "investing:https://tr.investing.com/news/company-news/royalty-pharma-pelacarsen-denemesine-ragmen-mutevaz-getiri-bekliyor-93CH-4056168",
         "investing:https://tr.investing.com/news/insider-trading-news/willdan-yoneticisi-thomas-brisbin-517-milyon-dolarlk-hisse-satt-93CH-4056167",
         "investing:https://tr.investing.com/news/insider-trading-news/evercommerce-yoneticisi-eric-remer-117961-dolar-degerinde-hisse-satt-93CH-4056166",
         "investing:https://tr.investing.com/news/insider-trading-news/funko-ceosu-josh-simon-105-milyon-dolarlk-hisse-satt-93CH-4056165",
@@ -423,9 +426,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/aeva-technologies-cfosu-506-bin-dolarlk-hisse-satt-93CH-4056163",
         "investing:https://tr.investing.com/news/insider-trading-news/atara-biotherapeutics-yoneticisi-brian-cherry-yaklask-1-milyon-dolarlk-hisse-ald-93CH-4056162",
         "investing:https://tr.investing.com/news/insider-trading-news/ceribell-ceosu-973079-dolarlk-hisse-satt-93CH-4056161",
-        "investing:https://tr.investing.com/news/insider-trading-news/first-community-yoneticisi-been-503939-dolar-degerinde-hisse-satt-93CH-4056160",
-        "investing:https://tr.investing.com/news/insider-trading-news/hartree-partners-hudson-technologies-hisselerini-artrd-93CH-4056159",
-        "investing:https://tr.investing.com/news/insider-trading-news/keurig-dr-pepper-ust-duzey-yoneticisi-310650-dolar-degerinde-hisse-satt-93CH-4056158",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -446,6 +446,9 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/insider-trading-news/first-community-yoneticisi-been-503939-dolar-degerinde-hisse-satt-93CH-4056160",
+        "investing:https://tr.investing.com/news/insider-trading-news/hartree-partners-hudson-technologies-hisselerini-artrd-93CH-4056159",
+        "investing:https://tr.investing.com/news/insider-trading-news/keurig-dr-pepper-ust-duzey-yoneticisi-310650-dolar-degerinde-hisse-satt-93CH-4056158",
         "investing:https://tr.investing.com/news/stock-market-news/mizuho-yazlm-devlerinde-en-iyi-hisseyi-acklad-93CH-4056117",
         "investing:https://tr.investing.com/news/world-news/fitch-portekizin-notunu-guclu-kamu-maliyesi-ile-yukseltti-93CH-4056116",
         "investing:https://tr.investing.com/news/world-news/fitch-katarn-notunu-aada-teyit-etti-93CH-4056115",
@@ -774,6 +777,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "block yoneticisi anthony eisen 1 46 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/block-yoneticisi-anthony-eisen-146-milyon-dolarlk-hisse-satt-93CH-4056171"
+    },
+    {
+      "source": "investing",
+      "text": "yonetim kurulu uyesi clint hurt primeenergy hisselerini satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/yonetim-kurulu-uyesi-clint-hurt-primeenergy-hisselerini-satt-93CH-4056170"
+    },
+    {
+      "source": "investing",
+      "text": "royalty pharma pelacarsen denemesine ragmen mutevaz getiri bekliyor",
+      "link": "https://tr.investing.com/news/company-news/royalty-pharma-pelacarsen-denemesine-ragmen-mutevaz-getiri-bekliyor-93CH-4056168"
+    },
     {
       "source": "investing",
       "text": "willdan yoneticisi thomas brisbin 5 17 milyon dolarl k hisse satt",
