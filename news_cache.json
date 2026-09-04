@@ -2,8 +2,24 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1659164",
+      "last_seen_key": "kap:1659194",
       "seen_keys": [
+        "kap:1659194",
+        "kap:1659193",
+        "kap:1659188",
+        "kap:1659187",
+        "kap:1659186",
+        "kap:1659185",
+        "kap:1659184",
+        "kap:1659183",
+        "kap:1659181",
+        "kap:1659180",
+        "kap:1659179",
+        "kap:1659178",
+        "kap:1659177",
+        "kap:1659176",
+        "kap:1659175",
+        "kap:1659173",
         "kap:1659164",
         "kap:1659162",
         "kap:1659160",
@@ -280,6 +296,7 @@
         "bloomberght:https://www.bloomberght.com/akaryakitta-cifte-zam-fiyatlar-rekor-seviyede-3787293",
         "bloomberght:https://www.bloomberght.com/morgan-stanley-cin-hisselerinde-hedefleri-dusurdu-3787292",
         "bloomberght:https://www.bloomberght.com/carry-trade-cozuluyor-yen-gucleniyor-3787291",
+        "bloomberght:https://www.bloomberght.com/piyasalarda-gunun-ozeti-4-eylul-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3787404",
         "bloomberght:https://www.bloomberght.com/guncel-altin-fiyatlari-4-eylul-2026-cuma-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3787309",
         "bloomberght:https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-4-eylul-2026-doviz-fiyatlari-pkh2-3787300",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-04092026-3787290",
@@ -303,9 +320,9 @@
       ]
     },
     "cnbce": {
-      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/borsa-haftanin-son-gunune-dususle-basladi-pozitif-seyre-gecti-iste-seansin-one-cikan-hisse-ve-sektorleri-h36507",
+      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/borsa-haftayi-yukselisle-kapadi-h36507",
       "seen_keys": [
-        "cnbce:https://www.cnbce.com/borsa/borsa-haftanin-son-gunune-dususle-basladi-pozitif-seyre-gecti-iste-seansin-one-cikan-hisse-ve-sektorleri-h36507",
+        "cnbce:https://www.cnbce.com/borsa/borsa-haftayi-yukselisle-kapadi-h36507",
         "cnbce:https://www.cnbce.com/borsa/perakende-devleri-uzlasti-migros-ve-sokun-odeyecegi-tutar-belli-oldu-h36517",
         "cnbce:https://www.cnbce.com/borsa/bim-kapa-bildirdi-rekabet-sorusturmasinda-kritik-gelisme-odenecek-ceza-belli-oldu-h36491",
         "cnbce:https://www.cnbce.com/haberler/coinbaseden-sece-kritik-basvuru-hisse-senedi-vadeli-islemleri-geliyor-h36487",
@@ -321,15 +338,17 @@
         "cnbce:https://www.cnbce.com/borsa/borsanin-enerji-sirkertinden-18-milyar-tllik-dev-anlasma-uretim-turkiyede-yapilacak-eupwrdan-dev-ihracat-anlasmasi-bedeli-18-milyar-tl-h36396",
         "cnbce:https://www.cnbce.com/borsa/borsada-4-hisse-icin-yeni-tedbir-karari-h36394",
         "cnbce:https://www.cnbce.com/borsa/borsadaki-sanayi-sirketinden-dikkat-ceken-karar-odeme-yapilamadi-68-kisi-isten-cikarildi-alves-kablo-3097-milyon-tllik-kira-sertifikasi-odemesini-yapamadi-h36393",
+        "cnbce:https://www.cnbce.com/haberler/abdden-turk-bankasina-iran-yaptirimi-3-kurulus-listeye-alindi-h36559",
+        "cnbce:https://www.cnbce.com/haberler/tcmb-enflasyonun-ana-egilimi-agustosta-sinirli-artti-h36558",
         "cnbce:https://www.cnbce.com/haberler/beyaz-saraydan-fede-cifte-baski-hassett-ve-trumptan-art-arda-cagrilar-h36554",
         "cnbce:https://www.cnbce.com/haberler/bir-donem-kopek-meyvesi-deniyordu-yildiz-oyuncu-soyledi-fiyat-ikiye-katlandi-h36552",
         "cnbce:https://www.cnbce.com/haberler/milyarder-110-donumluk-adayi-79-milyon-dolara-satiyordu-hukumet-satisa-el-koydu-h36548",
         "cnbce:https://www.cnbce.com/haberler/tcmbden-gelismekte-olan-ulkelerin-borc-ve-cds-calismasi-h36546",
         "cnbce:https://www.cnbce.com/haberler/netflixten-zam-yagmuru-abonelik-fiyatlari-iki-ulkede-birden-artti-h36545",
         "cnbce:https://www.cnbce.com/haberler/tcmbden-dikkat-ceken-tespit-kobiler-neden-kredi-bulmakta-zorlandi-h36544",
-        "cnbce:https://www.cnbce.com/haberler/toki-istanbul-kiralik-konutlarinda-geri-sayim-ilk-teslimat-eylulde-sartlar-belli-oluyor-h36537",
         "cnbce:https://www.cnbce.com/otomotiv/100-binden-fazla-surucu-yanitladi-en-guvenilir-ve-en-guvenilmez-otomobil-markalari-aciklandi-h36420",
         "cnbce:https://www.cnbce.com/otomotiv/kia-fiyatlarini-guncelledi-eylul-2026da-suv-modellerine-buyuk-indirim-h36423",
+        "cnbce:https://www.cnbce.com/haberler/toki-istanbul-kiralik-konutlarinda-geri-sayim-ilk-teslimat-eylulde-sartlar-belli-oluyor-h36537",
         "cnbce:https://www.cnbce.com/haberler/bakan-uraloglu-acikladi-veri-egemenligini-tesis-eden-ulkeler-yarinin-kazanani-olacak-h36531",
         "cnbce:https://www.cnbce.com/haberler/iea-baskani-fatih-birol-cnbc-eye-konustu-turkiye-enerjide-onemli-ilerlemeler-yapti-h36530",
         "cnbce:https://www.cnbce.com/otomotiv/ikinci-el-arac-fiyatlarinda-dikkat-ceken-gelisme-yeni-veriler-aciklandi-h36526",
@@ -345,6 +364,7 @@
         "cnbce:https://www.cnbce.com/haberler/bbvadan-enflasyon-verisi-sonrasi-guncelleme-faiz-indirimi-bir-adim-one-h36501",
         "cnbce:https://www.cnbce.com/kripto/kripto-piyasasinda-sert-yukselis-dalgasi-bitcoin-kritik-esigi-kirdi-gozler-duzenlemede-h36498",
         "cnbce:https://www.cnbce.com/enerji/abd-iran-gorusmeleri-uzadi-citi-petrol-tahminini-yukseltti-h36496",
+        "cnbce:https://www.cnbce.com/borsa/borsa-haftanin-son-gunune-dususle-basladi-pozitif-seyre-gecti-iste-seansin-one-cikan-hisse-ve-sektorleri-h36507",
         "cnbce:https://www.cnbce.com/otomotiv/akaryakitta-dev-zam-motorin-fiyatlari-90-liraya-dayandi-iste-guncel-akaryakit-fiyatlari-h36495",
         "cnbce:https://www.cnbce.com/yapay-zeka/openaidan-yapay-zeka-dunyasini-sarsacak-hamle-saatler-suren-isleri-dakikalara-indirdi-h36493"
       ]
@@ -356,7 +376,7 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/trumpin-petrol-fiyatlarini-stratejik-rezerv-salimiyla-frenleme-adimlari-abdnin-enerji-guvenligini-asindiriyor/4047101",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4047598",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/erzurum-turkiyede-aycicegi-uretiminde-yuzde-11-paya-ulasti/4047134",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
@@ -369,22 +389,23 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aa-finansin-ppk-beklenti-anketi-sonuclandi/4047378",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/togg-yonetim-kurulu-baskani-fuat-tosyaliya-fahri-doktora-unvani-verildi/4047343",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/belcika-cevreye-agir-zarar-vermeyi-ekokirim-olarak-cezalandirmaya-basladi/4047333",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tim-baskani-gultepe-onumuzdeki-donemde-e-ihracat-hizli-buyumesini-surdurecek/4047290"
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tim-baskani-gultepe-onumuzdeki-donemde-e-ihracat-hizli-buyumesini-surdurecek/4047290",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/trumpin-petrol-fiyatlarini-stratejik-rezerv-salimiyla-frenleme-adimlari-abdnin-enerji-guvenligini-asindiriyor/4047101"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/polar-capital-technology-trust-portfoy-varlklarn-acklad-93CH-4055941",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/enel-brezilya-duzenleyicisinden-sao-paulo-imtiyaz-incelemesini-iptal-etmesini-istedi-93CH-4055967",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/polar-capital-technology-trust-portfoy-varlklarn-acklad-93CH-4055941",
-        "investing:https://tr.investing.com/news/stock-market-news/dellin-kazanc-raporu-intel-cpu-talebinde-yukselis-sinyali-verdi-4055939",
-        "investing:https://tr.investing.com/news/economy-news/trump-fedden-faiz-indirmesini-istedi-aksi-halde-fazla-veren-ulkelerle-ticareti-durdurmakla-tehdit-etti-4055938",
-        "investing:https://tr.investing.com/news/stock-market-news/blue-owl-65-milyar-dolarlk-veri-merkezi-gyosu-planlyor-93CH-4055934",
-        "investing:https://tr.investing.com/news/company-news/mcdonalds-hissesi-25610-dolarda-52-haftann-dibini-gordu-93CH-4055933",
-        "investing:https://tr.investing.com/news/stock-market-news/modular-medical-hisseleri-pbm-sozlesmesi-sonras-yukseldi-93CH-4055932",
-        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-rehber-endiseleriyle-broadcom-hisse-hedefini-dusurdu-93CH-4055931",
-        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-argan-hissesi-icin-tavsiyesini-yukseltti-93CH-4055930",
-        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-guvenlik-talebine-dayanarak-jfrog-hisse-notunu-korudu-93CH-4055929",
-        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-phreesiann-hisse-hedefini-dusurdu-93CH-4055928",
+        "investing:https://tr.investing.com/news/stock-market-news/enel-brezilya-duzenleyicisinden-sao-paulo-imtiyaz-incelemesini-iptal-etmesini-istedi-93CH-4055967",
+        "investing:https://tr.investing.com/news/economy-news/kanadann-ivey-pmi-agustosta-643e-yukseldi-2022den-bu-yana-en-yuksek-seviye-93CH-4055966",
+        "investing:https://tr.investing.com/news/stock-market-news/citigroup-fed-faiz-indirimi-tahminini-haziran-2027ye-erteledi-93CH-4055965",
+        "investing:https://tr.investing.com/news/company-news/tetragon-oy-hakk-olmayan-hisseler-icin-50-milyon-dolarlk-teklifi-tamamlad-93CH-4055964",
+        "investing:https://tr.investing.com/news/company-news/faeth-therapeutics-hissesi-4089-dolarda-52-haftalk-zirve-yapt-93CH-4055963",
+        "investing:https://tr.investing.com/news/insider-trading-news/interface-yoneticisi-297040-dolar-degerinde-hisse-satt-93CH-4055960",
+        "investing:https://tr.investing.com/news/stock-market-news/mizuhoya-gore-en-iyi-saglk-gyolar-93CH-4055959",
+        "investing:https://tr.investing.com/news/company-news/cqs-new-city-high-yield-fund-505-peniden-15-milyon-hisse-ihrac-ediyor-93CH-4055955",
+        "investing:https://tr.investing.com/news/global-filings/ozyasar-tel-tubitak-yesil-donusum-programndan-arge-destegi-ald-93CH-4055954",
+        "investing:https://tr.investing.com/news/stock-market-news/sp-hitachinin-gorunumunu-guclenen-rekabet-gucuyle-yukseltti-93CH-4055953",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -404,7 +425,17 @@
         "investing:https://tr.investing.com/analysis/yeni-halka-arz-olan-intetra-teknolojiye-baks-200505890",
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
-        "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822"
+        "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/company-news/polar-capital-technology-trust-portfoy-varlklarn-acklad-93CH-4055941",
+        "investing:https://tr.investing.com/news/stock-market-news/dellin-kazanc-raporu-intel-cpu-talebinde-yukselis-sinyali-verdi-4055939",
+        "investing:https://tr.investing.com/news/economy-news/trump-fedden-faiz-indirmesini-istedi-aksi-halde-fazla-veren-ulkelerle-ticareti-durdurmakla-tehdit-etti-4055938",
+        "investing:https://tr.investing.com/news/stock-market-news/blue-owl-65-milyar-dolarlk-veri-merkezi-gyosu-planlyor-93CH-4055934",
+        "investing:https://tr.investing.com/news/company-news/mcdonalds-hissesi-25610-dolarda-52-haftann-dibini-gordu-93CH-4055933",
+        "investing:https://tr.investing.com/news/stock-market-news/modular-medical-hisseleri-pbm-sozlesmesi-sonras-yukseldi-93CH-4055932",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-rehber-endiseleriyle-broadcom-hisse-hedefini-dusurdu-93CH-4055931",
+        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-argan-hissesi-icin-tavsiyesini-yukseltti-93CH-4055930",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-guvenlik-talebine-dayanarak-jfrog-hisse-notunu-korudu-93CH-4055929",
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-phreesiann-hisse-hedefini-dusurdu-93CH-4055928"
       ]
     },
     "ntvpara": {
@@ -433,8 +464,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-6-milyon-922-bin-900-liraya-geriledi-955906.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/borsa-gunu-yukselisle-tamamladi-955912.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/borsa-gunu-yukselisle-tamamladi-955912.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-6-milyon-922-bin-900-liraya-geriledi-955906.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-kurum-iklim-finansmani-maliyet-degil-stratejik-yatirim-955903.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ar-ge-vergi-tesviki-gecen-yil-169-milyar-33-milyon-lira-oldu-955886.html",
@@ -497,8 +529,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6720247:0",
+      "last_seen_key": "tradingview:fxstreet:034f0d0f6d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:034f0d0f6d9e8:0",
+        "tradingview:fxstreet:b08d9d36fd9e8:0",
         "tradingview:matriks:6720247:0",
         "tradingview:matriks:6720240:0",
         "tradingview:matriks:6720236:0",
@@ -601,7 +635,158 @@
       ]
     }
   },
-  "fingerprints": [],
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avrupa merkez bankas eylul faiz art r m n guvercin beklemede kalma izleyebilir rabobank",
+      "link": "https://tr.tradingview.com/news/fxstreet:034f0d0f6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi guclu nfp nin fed faiz art r m beklentilerini yeniden canland rmas yla yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b08d9d36fd9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "borsa gunu yukselisle tamamlad borsa istanbul bist 100 endeksi gunu yuzde 0 57 deger kazanarak 14 012 42 puandan tamamlad",
+      "link": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-yukselisle-tamamladi-955912.html"
+    },
+    {
+      "source": "investing",
+      "text": "enel brezilya duzenleyicisinden sao paulo imtiyaz incelemesini iptal etmesini istedi",
+      "link": "https://tr.investing.com/news/stock-market-news/enel-brezilya-duzenleyicisinden-sao-paulo-imtiyaz-incelemesini-iptal-etmesini-istedi-93CH-4055967"
+    },
+    {
+      "source": "investing",
+      "text": "kanada n n ivey pmi agustos ta 64 3 e yukseldi 2022 den yana en yuksek seviye",
+      "link": "https://tr.investing.com/news/economy-news/kanadann-ivey-pmi-agustosta-643e-yukseldi-2022den-bu-yana-en-yuksek-seviye-93CH-4055966"
+    },
+    {
+      "source": "investing",
+      "text": "citigroup fed faiz indirimi tahminini haziran 2027 ye erteledi",
+      "link": "https://tr.investing.com/news/stock-market-news/citigroup-fed-faiz-indirimi-tahminini-haziran-2027ye-erteledi-93CH-4055965"
+    },
+    {
+      "source": "investing",
+      "text": "tetragon oy hakk olmayan hisseler 50 milyon dolarl k teklifi tamamlad",
+      "link": "https://tr.investing.com/news/company-news/tetragon-oy-hakk-olmayan-hisseler-icin-50-milyon-dolarlk-teklifi-tamamlad-93CH-4055964"
+    },
+    {
+      "source": "investing",
+      "text": "faeth therapeutics hissesi 40 89 dolarda 52 haftal k zirve yapt",
+      "link": "https://tr.investing.com/news/company-news/faeth-therapeutics-hissesi-4089-dolarda-52-haftalk-zirve-yapt-93CH-4055963"
+    },
+    {
+      "source": "investing",
+      "text": "interface yoneticisi 297 040 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/interface-yoneticisi-297040-dolar-degerinde-hisse-satt-93CH-4055960"
+    },
+    {
+      "source": "investing",
+      "text": "mizuho ya gore en iyi sagl k gyo lar",
+      "link": "https://tr.investing.com/news/stock-market-news/mizuhoya-gore-en-iyi-saglk-gyolar-93CH-4055959"
+    },
+    {
+      "source": "investing",
+      "text": "cqs new city high yield fund 50 5 peni den 1 5 milyon hisse ihrac ediyor",
+      "link": "https://tr.investing.com/news/company-news/cqs-new-city-high-yield-fund-505-peniden-15-milyon-hisse-ihrac-ediyor-93CH-4055955"
+    },
+    {
+      "source": "investing",
+      "text": "ozyasar tel tubitak yesil donusum program ndan ar ge destegi ald",
+      "link": "https://tr.investing.com/news/global-filings/ozyasar-tel-tubitak-yesil-donusum-programndan-arge-destegi-ald-93CH-4055954"
+    },
+    {
+      "source": "investing",
+      "text": "s p hitachi nin gorunumunu guclenen rekabet gucuyle yukseltti",
+      "link": "https://tr.investing.com/news/stock-market-news/sp-hitachinin-gorunumunu-guclenen-rekabet-gucuyle-yukseltti-93CH-4055953"
+    },
+    {
+      "source": "cnbce",
+      "text": "borsa haftay yukselisle kapad bist 100 endeksi gunu 79 96 puan art sla 14012 42 puandan kapatt",
+      "link": "https://www.cnbce.com/borsa/borsa-haftayi-yukselisle-kapadi-h36507"
+    },
+    {
+      "source": "kap",
+      "text": "ensri ozel durum ac klamas genel spk ya sunulan pay sat s bilgi formu hakk nda sirket ensari sinai yatirimlar a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659194"
+    },
+    {
+      "source": "kap",
+      "text": "ensri sirket genel bilgi formu sirket ensari sinai yatirimlar a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659193"
+    },
+    {
+      "source": "kap",
+      "text": "bayrk kat l m finans ilkeleri bilgi formu sirket bayrak ebt taban sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659188"
+    },
+    {
+      "source": "kap",
+      "text": "vbtyz kat l m finans ilkeleri bilgi formu sirket vbt yazilim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659187"
+    },
+    {
+      "source": "kap",
+      "text": "oya oyyat piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi 04 09 2026 tarihli oyayo piyasa yapiciligi islemleri sirket oyak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659186"
+    },
+    {
+      "source": "kap",
+      "text": "verus bistech pay piyasas al m sat m sistemi duyurusu pay piyasas nda volatilite bazl tedbir sistemi sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659185"
+    },
+    {
+      "source": "kap",
+      "text": "suwen paylar n geri al nmas na iliskin bildirim 04 09 2026 tarihli pay geri al m islemleri sirket suwen tekstil sanayi pazarlama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659184"
+    },
+    {
+      "source": "kap",
+      "text": "aefes pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfefes92610 isin kodlu finansman bonosunun 4 kupon faiz oran n n belirlenmesi sirket anadolu efes biracilik malt sanayii a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659183"
+    },
+    {
+      "source": "kap",
+      "text": "takasbank para piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659181"
+    },
+    {
+      "source": "kap",
+      "text": "blp pay al m sat m bildirimi pay al m sat m bildirimi hk sirket bulls portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659180"
+    },
+    {
+      "source": "kap",
+      "text": "info iyf paylar n geri al nmas na iliskin bildirim sirket paylar n n geri al m hk sirket info yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659179"
+    },
+    {
+      "source": "kap",
+      "text": "magen paylar n geri al nmas na iliskin bildirim 04 09 2026 tarihli pay geri al m islemleri sirket margun enerji uretim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659178"
+    },
+    {
+      "source": "kap",
+      "text": "arsan paylar n geri al nmas na iliskin bildirim 04 eylul 2026 tarihli pay geri al m islemleri sirket arsan holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659177"
+    },
+    {
+      "source": "kap",
+      "text": "przma ozel durum ac klamas genel yonetim kurulu uye degisikliginin tescili sirket prizma pres matbaacilik yayincilik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659176"
+    },
+    {
+      "source": "kap",
+      "text": "bls blsmd pay al m teklifi yoluyla pay toplanmas na iliskin bildirim pay al m teklifi yoluyla pay toplanmas na iliskin bildirim sirket bulls yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659175"
+    },
+    {
+      "source": "kap",
+      "text": "mep pay al m sat m bildirimi avrasya gayrimenkul yat r m ortakl g a s avgyo pay al m bildirimi sirket metro portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659173"
+    }
+  ],
   "research_reports": {
     "tera": {
       "gunluk_bulten": {
