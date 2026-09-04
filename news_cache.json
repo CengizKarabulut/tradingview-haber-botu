@@ -2,8 +2,14 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658845",
+      "last_seen_key": "kap:1658851",
       "seen_keys": [
+        "kap:1658851",
+        "kap:1658850",
+        "kap:1658849",
+        "kap:1658848",
+        "kap:1658847",
+        "kap:1658846",
         "kap:1658845",
         "kap:1658829",
         "kap:1658827",
@@ -466,8 +472,17 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:b4a000519d9e8:0",
+      "last_seen_key": "tradingview:matriks:6719007:0",
       "seen_keys": [
+        "tradingview:matriks:6719007:0",
+        "tradingview:matriks:6718997:0",
+        "tradingview:matriks:6718983:0",
+        "tradingview:matriks:6718982:0",
+        "tradingview:matriks:6718981:0",
+        "tradingview:fxstreet:915ba224ad9e8:0",
+        "tradingview:fxstreet:322746655d9e8:0",
+        "tradingview:fxstreet:96a7c445ad9e8:0",
+        "tradingview:matriks:6718972:0",
         "tradingview:fxstreet:b4a000519d9e8:0",
         "tradingview:fxstreet:b7833f330d9e8:0",
         "tradingview:matriks:6718937:0",
@@ -486,6 +501,7 @@
         "tradingview:matriks:6718790:0",
         "tradingview:fxstreet:bf8360a95d9e8:0",
         "tradingview:matriks:6718783:0",
+        "tradingview:beincrypto:23418424fd9e8:0",
         "tradingview:fxstreet:7f69bfd8dd9e8:0",
         "tradingview:matriks:6718774:0",
         "tradingview:matriks:6718769:0",
@@ -495,7 +511,11 @@
         "tradingview:matriks:6718700:0",
         "tradingview:matriks:6718692:0",
         "tradingview:matriks:6718684:0",
+        "tradingview:matriks:6718662:0",
         "tradingview:fxstreet:5b65d218dd9e8:0",
+        "tradingview:matriks:6718655:0",
+        "tradingview:matriks:6718653:0",
+        "tradingview:matriks:6718652:0",
         "tradingview:matriks:6718649:0",
         "tradingview:matriks:6718650:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N44W0ES:0",
@@ -608,7 +628,6 @@
         "tradingview:matriks:6718161:0",
         "tradingview:matriks:6718152:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
-        "tradingview:fxstreet:322746655d9e8:0",
         "tradingview:matriks:6718139:0",
         "tradingview:matriks:6718136:0",
         "tradingview:cointelegraph:fcbfeb330d9e8:0",
@@ -802,6 +821,76 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "boe baskan bailey yuksek borc seviyeleri hukumetler ac s ndan derece ciddi zorluklara isaret ediyor tahvil piyasas ndaki bask y art r yor",
+      "link": "https://tr.tradingview.com/news/matriks:6719007:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yenileme net global in halka arz basvurusu onayland",
+      "link": "https://tr.tradingview.com/news/matriks:6718997:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boe baskan bailey merkez bankas yoneticileri kosulsuz yonlendirme saglamaktan kac nmal",
+      "link": "https://tr.tradingview.com/news/matriks:6718983:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boe baskan bailey warsh sozle yonlendirmede baz tehlikeler gormekte hakl",
+      "link": "https://tr.tradingview.com/news/matriks:6718982:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boe baskan bailey enflasyonu hedefe h zla geri getirecegimiz konusunda tercih yapabiliriz ancak enflasyonu hedefe dondurmek zorunday z",
+      "link": "https://tr.tradingview.com/news/matriks:6718981:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uzmanlar hemfikir abd iran gerilimi hurmuz riskleri geri donerken cok uzakta degil",
+      "link": "https://tr.tradingview.com/news/fxstreet:915ba224ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni temellerin yonlendirdigi daha guclu yen mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:96a7c445ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bigg garaj program girisimcilere 1 milyon 350 bin lira yat r m destegi saglayacak",
+      "link": "https://tr.tradingview.com/news/matriks:6718972:0"
+    },
+    {
+      "source": "kap",
+      "text": "ekt ozel durum ac klamas genel sube acilisi sirket turkiye emlak katilim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658851"
+    },
+    {
+      "source": "kap",
+      "text": "brkvy pay baz nda devre kesici bildirimi brkvy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658850"
+    },
+    {
+      "source": "kap",
+      "text": "zgyo pay baz nda devre kesici bildirimi zgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658849"
+    },
+    {
+      "source": "kap",
+      "text": "klypv sermaye art r m azalt m islemlerine iliskin bildirim tahsisli sermaye art r m na iliskin ihrac belgesinin onaylanmas hk sirket kalyon gunes teknolojileri uretim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658848"
+    },
+    {
+      "source": "kap",
+      "text": "vkfyo ozel durum ac klamas genel sirketimizin bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sebebiyle yap lan ac klamad r sirket vakif menkul kiymet yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658847"
+    },
+    {
+      "source": "kap",
+      "text": "akm akmen pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren nitelikli yat r mc ya borclanma arac itfa kupon odemesi sirket ak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658846"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini butce riskleri sterlin uzerinde bask olusturuyor rabobank",
