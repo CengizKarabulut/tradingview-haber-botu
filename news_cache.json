@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1658868",
+      "last_seen_key": "kap:1658869",
       "seen_keys": [
+        "kap:1658869",
         "kap:1658868",
         "kap:1658867",
         "kap:1658866",
@@ -233,8 +234,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/thy-dunyanin-en-degerli-100-markasi-arasina-girmeyi-hedefliyor-955877.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/daskta-yeni-donem-police-yeni-mulk-sahibine-devredilmeyecek-955882.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/daskta-yeni-donem-police-yeni-mulk-sahibine-devredilmeyecek-955882.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/thy-dunyanin-en-degerli-100-markasi-arasina-girmeyi-hedefliyor-955877.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/yapay-zeka-buyume-bolgeleri-enerjinin-rotasina-gore-sekillenecek-955874.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti-955872.html",
@@ -297,12 +299,19 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6719169:0",
+      "last_seen_key": "tradingview:fxstreet:25ee29bf6d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:25ee29bf6d9e8:0",
+        "tradingview:matriks:6719217:0",
+        "tradingview:matriks:6719216:0",
+        "tradingview:cointelegraph:3a5d5a1f6d9e8:0",
+        "tradingview:matriks:6719206:0",
+        "tradingview:matriks:6719205:0",
         "tradingview:matriks:6719169:0",
         "tradingview:fxstreet:463f74128d9e8:0",
         "tradingview:matriks:6719151:0",
         "tradingview:matriks:6719140:0",
+        "tradingview:beincrypto:b1cf84c03d9e8:0",
         "tradingview:fxstreet:1681cb21dd9e8:0",
         "tradingview:matriks:6719093:0",
         "tradingview:fxstreet:326671bdbd9e8:0",
@@ -310,6 +319,7 @@
         "tradingview:matriks:6719083:0",
         "tradingview:fxstreet:320a4438fd9e8:0",
         "tradingview:fxstreet:03e626576d9e8:0",
+        "tradingview:beincrypto:35ffe3fc0d9e8:0",
         "tradingview:fxstreet:38c39ac48d9e8:0",
         "tradingview:fxstreet:e30b959c6d9e8:0",
         "tradingview:matriks:6719011:0",
@@ -407,6 +417,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini boe baskan bailey nin faiz art r m umutlar n yat st rmas yla seans zirvelerinden geri cekildi",
+      "link": "https://tr.tradingview.com/news/fxstreet:25ee29bf6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vodafone damac digital is birligiyle izmir veri merkezi nin ilk faz n yaklas k 100 milyon dolarl k yat r mla hizmete act",
+      "link": "https://tr.tradingview.com/news/matriks:6719217:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "uludag ihracatc birlikleri nin agustos ay ihracat 2 milyar 953 milyon dolar olarak gerceklesti",
+      "link": "https://tr.tradingview.com/news/matriks:6719216:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney koreli duzenleyiciler tokenlestirilmis menkul k ymetler yol haritas n duyurdu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:3a5d5a1f6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "beta enerji 2025 surdurulebilirlik raporu nu yay nlad",
+      "link": "https://tr.tradingview.com/news/matriks:6719206:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boj eylul toplant s nda faiz art s n ciddi sekilde degerlendirecek jiji press",
+      "link": "https://tr.tradingview.com/news/matriks:6719205:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "dask ta yeni donem police yeni mulk sahibine devredilmeyecek konut sat slar nda zorunlu deprem sigortas zds policesinin yeni mulk sahibine devredilmesi uygulamas n 5 eylul itibar yla sona erdirecek duzenlemeyle evini satan vatandaslara kullan lmayan sureye ait primleri iade edilecek al c",
+      "link": "https://www.trthaber.com/haber/ekonomi/daskta-yeni-donem-police-yeni-mulk-sahibine-devredilmeyecek-955882.html"
+    },
+    {
+      "source": "kap",
+      "text": "lilak ozel durum ac klamas genel ergene res projesi hk sirket lila kagit sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1658869"
+    },
     {
       "source": "tradingview",
       "text": "ac l s oncesi kuresel piyasalar bulteni info yat r m",
