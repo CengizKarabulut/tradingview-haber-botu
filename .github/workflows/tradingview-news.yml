@@ -8,6 +8,7 @@ on:
       - 'news_bot.py'
       - 'news_bot_v4.py'
       - 'news_bot_v5.py'
+      - 'news_bot_v6.py'
       - 'requirements.txt'
       - 'test_news_bot.py'
       - 'test_news_sources.py'
@@ -45,15 +46,15 @@ jobs:
       - name: Testleri calistir
         run: |
           python -m unittest -v test_news_bot.py test_news_sources.py
-          python -m py_compile news_bot.py news_bot_v4.py news_bot_v5.py
+          python -m py_compile news_bot.py news_bot_v4.py news_bot_v5.py news_bot_v6.py
 
-      - name: Haberleri ve bultenleri Telegram'a gonder
+      - name: Haberleri ve arastirmalari Telegram'a gonder
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_MESSAGE_THREAD_ID: ${{ secrets.TELEGRAM_MESSAGE_THREAD_ID }}
           BULLETIN_SOURCES: tera,info,a1capital,bulls,yapikredi,akyatirim,ziraat,qnb,garanti,midas,phillipcapital,gedik,global,unlu,oyak,seker,integral,isyatirim,halk,vakif,deniz
-        run: python news_bot_v5.py
+        run: python news_bot_v6.py
 
       - name: Cache kaydet
         run: |
