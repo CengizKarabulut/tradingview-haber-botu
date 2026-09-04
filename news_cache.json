@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1659249",
+      "last_seen_key": "kap:1659252",
       "seen_keys": [
+        "kap:1659252",
+        "kap:1659251",
         "kap:1659249",
         "kap:1659248",
         "kap:1659246",
@@ -271,8 +273,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/citi-fed-in-faiz-indirimi-beklentisini-haziran-2027-ye-erteledi-3787412",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/apple-da-ternus-donemi-basladi-3787413",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/apple-da-ternus-donemi-basladi-3787413",
         "bloomberght:https://www.bloomberght.com/citi-fed-in-faiz-indirimi-beklentisini-haziran-2027-ye-erteledi-3787412",
         "bloomberght:https://www.bloomberght.com/trump-yonetimi-savas-sonrasi-orta-dogu-stratejisi-hazirliyor-3787411",
         "bloomberght:https://www.bloomberght.com/katar-iran-in-sivilleri-hedef-almadik-iddiasini-reddetti-3787407",
@@ -376,16 +379,8 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-bal-uretiminde-dunyada-ikinci-siradayiz-birinci-sirayi-zorluyoruz/4047675",
       "seen_keys": [
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4047598",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/erzurum-turkiyede-aycicegi-uretiminde-yuzde-11-paya-ulasti/4047134",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-bal-uretiminde-dunyada-ikinci-siradayiz-birinci-sirayi-zorluyoruz/4047675",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-tr-2-arastirma-reaktorunun-yeniden-lisanslandigini-bildirdi/4047592",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tuna-portfoy-faaliyet-izninin-ardindan-fon-kurulus-sureclerini-yurutuyor/4047634",
@@ -396,24 +391,32 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/karadenizde-jeopolitik-risklerin-yumusamasi-bugday-fiyatlarindaki-yukselisi-frenledi/4047430",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/derya-arms-milli-atici-yusuf-dikec-ile-isbirligine-gitti/4047423",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-tarim-disi-istihdam-agustosta-beklentileri-asti/4047397",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4047598",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ciftcilere-tarimsal-destekleme-odemeleri-yapiliyor/4047580",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/erzurum-turkiyede-aycicegi-uretiminde-yuzde-11-paya-ulasti/4047134",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-mal-ihracatindaki-artis-g20-ortalamasini-asti/4047117",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aa-finansin-ppk-beklenti-anketi-sonuclandi/4047378",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/baykar-yonetim-kurulu-baskani-selcuk-bayraktardan-kucuk-moduler-reaktor-aciklamasi/4047641",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/togg-yonetim-kurulu-baskani-fuat-tosyaliya-fahri-doktora-unvani-verildi/4047343"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/bugday-vadeli-islemleri-rusyaukrayna-bars-gorusmeleri-ile-dustu-93CH-4056059",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/micro1-spirit-aviation-verileri-icin-teklifini-125-milyon-dolara-ckard-93CH-4056074",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/commodities-news/bugday-vadeli-islemleri-rusyaukrayna-bars-gorusmeleri-ile-dustu-93CH-4056059",
-        "investing:https://tr.investing.com/news/commodities-news/kolombiyada-kahve-uretimi-agustosta-yuzde-12-dustu-93CH-4056058",
-        "investing:https://tr.investing.com/news/stock-market-news/moodys-nijerya-notu-sonras-seplat-energy-gorunumunu-degistirdi-93CH-4056056",
-        "investing:https://tr.investing.com/news/stock-market-news/sp-tevann-notunu-yukseltti-93CH-4056055",
-        "investing:https://tr.investing.com/news/economy-news/adalet-bakanlg-kanada-ile-antitrost-isbirligini-durdurdu-4056054",
-        "investing:https://tr.investing.com/news/insider-trading-news/lojistik-mulkiyet-direktoru-10982-dolar-degerinde-hisse-satt-93CH-4056051",
-        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-snowflake-icin-hisse-fiyat-hedefini-yukseltti-93CH-4056049",
-        "investing:https://tr.investing.com/news/insider-trading-news/artivion-svp-andrew-green-216-bin-dolarlk-hisse-satt-93CH-4056048",
-        "investing:https://tr.investing.com/news/insider-trading-news/first-us-bancshares-yoneticisi-robert-field-6756-dolar-degerinde-hisse-ald-93CH-4056047",
-        "investing:https://tr.investing.com/news/stock-market-news/trumpn-sgr-eti-karar-sonras-jbs-ve-tyson-foods-hisseleri-dustu-93CH-4056046",
+        "investing:https://tr.investing.com/news/stock-market-news/micro1-spirit-aviation-verileri-icin-teklifini-125-milyon-dolara-ckard-93CH-4056074",
+        "investing:https://tr.investing.com/news/stock-market-news/nscale-halka-arzdan-once-35-milyar-dolar-finansman-aryor-93CH-4056071",
+        "investing:https://tr.investing.com/news/stock-market-news/first-american-financial-hisseleri-neden-dusuyor-93CH-4056070",
+        "investing:https://tr.investing.com/news/stock-market-news/google-verimlilik-atagyla-workspacee-sesli-ozellikler-getirdi-93CH-4056069",
+        "investing:https://tr.investing.com/news/stock-market-news/google-lyria-35-muzik-modelini-gemini-uygulamasnda-kullanma-sundu-93CH-4056068",
+        "investing:https://tr.investing.com/news/stock-market-news/google-translate-arka-plan-modu-ve-kulaklk-destegi-ekledi-93CH-4056067",
+        "investing:https://tr.investing.com/news/insider-trading-news/flexsteel-yoneticisi-culbreth-323-bin-dolarlk-hisse-satt-93CH-4056066",
+        "investing:https://tr.investing.com/news/insider-trading-news/atn-international-yoneticisi-prior-221232-dolar-degerinde-hisse-satt-93CH-4056065",
+        "investing:https://tr.investing.com/news/insider-trading-news/pagaya-technologies-cao-cory-vieira-69833-dolarlk-hisse-satt-93CH-4056064",
+        "investing:https://tr.investing.com/news/economy-news/portekiz-atk-krizine-kars-267-milyar-dolarlk-plan-onaylad-93CH-4056063",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -434,6 +437,16 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/commodities-news/bugday-vadeli-islemleri-rusyaukrayna-bars-gorusmeleri-ile-dustu-93CH-4056059",
+        "investing:https://tr.investing.com/news/commodities-news/kolombiyada-kahve-uretimi-agustosta-yuzde-12-dustu-93CH-4056058",
+        "investing:https://tr.investing.com/news/stock-market-news/moodys-nijerya-notu-sonras-seplat-energy-gorunumunu-degistirdi-93CH-4056056",
+        "investing:https://tr.investing.com/news/stock-market-news/sp-tevann-notunu-yukseltti-93CH-4056055",
+        "investing:https://tr.investing.com/news/economy-news/adalet-bakanlg-kanada-ile-antitrost-isbirligini-durdurdu-4056054",
+        "investing:https://tr.investing.com/news/insider-trading-news/lojistik-mulkiyet-direktoru-10982-dolar-degerinde-hisse-satt-93CH-4056051",
+        "investing:https://tr.investing.com/news/analyst-ratings/freedom-broker-snowflake-icin-hisse-fiyat-hedefini-yukseltti-93CH-4056049",
+        "investing:https://tr.investing.com/news/insider-trading-news/artivion-svp-andrew-green-216-bin-dolarlk-hisse-satt-93CH-4056048",
+        "investing:https://tr.investing.com/news/insider-trading-news/first-us-bancshares-yoneticisi-robert-field-6756-dolar-degerinde-hisse-ald-93CH-4056047",
+        "investing:https://tr.investing.com/news/stock-market-news/trumpn-sgr-eti-karar-sonras-jbs-ve-tyson-foods-hisseleri-dustu-93CH-4056046",
         "investing:https://tr.investing.com/news/company-news/bny-hissesi-16569-dolar-ile-rekor-krd-93CH-4056044",
         "investing:https://tr.investing.com/news/insider-trading-news/smith-midland-ceosu-ashley-smith-9804-dolarlk-hisse-satn-ald-93CH-4056043",
         "investing:https://tr.investing.com/news/company-news/stanley-black--decker-excel-industriesi-bad-boy-mowersa-satyor-93CH-4056042",
@@ -563,8 +576,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:5be0a2c99d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:fa497f640d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:fa497f640d9e8:0",
+        "tradingview:fxstreet:72d1825c8d9e8:0",
         "tradingview:fxstreet:5be0a2c99d9e8:0",
         "tradingview:fxstreet:70b8bafc2d9e8:0",
         "tradingview:cointelegraph:64c88e5a6d9e8:0",
@@ -684,6 +699,81 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin yuan hizmetler pmi toparlanmas pboc yi temkinli tutuyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:fa497f640d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sterlin rallisi abd istihdam verilerinin fed tart smas n yeniden alevlendirmesiyle durdu",
+      "link": "https://tr.tradingview.com/news/fxstreet:72d1825c8d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "micro1 spirit aviation verileri teklifini 12 5 milyon dolara c kard",
+      "link": "https://tr.investing.com/news/stock-market-news/micro1-spirit-aviation-verileri-icin-teklifini-125-milyon-dolara-ckard-93CH-4056074"
+    },
+    {
+      "source": "investing",
+      "text": "nscale halka arzdan once 3 5 milyar dolar finansman ar yor",
+      "link": "https://tr.investing.com/news/stock-market-news/nscale-halka-arzdan-once-35-milyar-dolar-finansman-aryor-93CH-4056071"
+    },
+    {
+      "source": "investing",
+      "text": "first american financial hisseleri neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/first-american-financial-hisseleri-neden-dusuyor-93CH-4056070"
+    },
+    {
+      "source": "investing",
+      "text": "google verimlilik atag yla workspace e sesli ozellikler getirdi",
+      "link": "https://tr.investing.com/news/stock-market-news/google-verimlilik-atagyla-workspacee-sesli-ozellikler-getirdi-93CH-4056069"
+    },
+    {
+      "source": "investing",
+      "text": "google lyria 3 5 muzik modelini gemini uygulamas nda kullan ma sundu",
+      "link": "https://tr.investing.com/news/stock-market-news/google-lyria-35-muzik-modelini-gemini-uygulamasnda-kullanma-sundu-93CH-4056068"
+    },
+    {
+      "source": "investing",
+      "text": "google translate arka plan modu kulakl k destegi ekledi",
+      "link": "https://tr.investing.com/news/stock-market-news/google-translate-arka-plan-modu-ve-kulaklk-destegi-ekledi-93CH-4056067"
+    },
+    {
+      "source": "investing",
+      "text": "flexsteel yoneticisi culbreth 323 bin dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/flexsteel-yoneticisi-culbreth-323-bin-dolarlk-hisse-satt-93CH-4056066"
+    },
+    {
+      "source": "investing",
+      "text": "atn international yoneticisi prior 221 232 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/atn-international-yoneticisi-prior-221232-dolar-degerinde-hisse-satt-93CH-4056065"
+    },
+    {
+      "source": "investing",
+      "text": "pagaya technologies cao cory vieira 69 833 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/pagaya-technologies-cao-cory-vieira-69833-dolarlk-hisse-satt-93CH-4056064"
+    },
+    {
+      "source": "investing",
+      "text": "portekiz at k krizine kars 2 67 milyar dolarl k plan onaylad",
+      "link": "https://tr.investing.com/news/economy-news/portekiz-atk-krizine-kars-267-milyar-dolarlk-plan-onaylad-93CH-4056063"
+    },
+    {
+      "source": "bloomberght",
+      "text": "apple ternus donemi baslad google tim cook hafta ceo luk gorevinden ayr larak sirketi eski donan m birimi yoneticisi john ternus a devretti",
+      "link": "https://www.bloomberght.com/apple-da-ternus-donemi-basladi-3787413"
+    },
+    {
+      "source": "kap",
+      "text": "tspor sozlesme imzalanmas ali habesoglu sozlesme imzalanmas hakk nda sirket trabzonspor sportif yatirim futbol isletmeciligi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659252"
+    },
+    {
+      "source": "kap",
+      "text": "tspor transfer gorusmelerinin sonuclanmas veya sona ermesi ali habesoglu transferi hakk nda sirket trabzonspor sportif yatirim futbol isletmeciligi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659251"
+    },
     {
       "source": "tradingview",
       "text": "malezya s k lasmac ara secenekleri ac k tutuyor dbs",
