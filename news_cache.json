@@ -543,8 +543,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:489703d96d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:508550d3ad9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:489703d96d9e8:0",
         "tradingview:fxstreet:6d762f1afd9e8:0",
         "tradingview:fxstreet:341d8fbaed9e8:0",
@@ -658,6 +659,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bugun kriptoda neler oldu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:508550d3ad9e8:0"
+    },
     {
       "source": "investing",
       "text": "bny hissesi 165 69 dolar rekor k rd",
