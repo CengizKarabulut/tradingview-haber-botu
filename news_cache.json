@@ -414,8 +414,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-istihdam-patlamas-yazlm-icin-surpriz-destek-olabilir-bernstein-4056197",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/outfront-media-evp-bonanni-100940-dolarlk-hisse-satt-93CH-4056200",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/outfront-media-evp-bonanni-100940-dolarlk-hisse-satt-93CH-4056200",
+        "investing:https://tr.investing.com/news/insider-trading-news/nmi-holdings-ceosu-adam-pollitzer-775-milyon-dolarlk-hisse-satt-93CH-4056199",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-istihdam-patlamas-yazlm-icin-surpriz-destek-olabilir-bernstein-4056197",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-416-milyon-dolarlk-hisse-satt-93CH-4056196",
         "investing:https://tr.investing.com/news/insider-trading-news/warner-bros-discovery-yoneticisi-lowe-567-milyon-dolarlk-hisse-satt-93CH-4056195",
@@ -424,8 +426,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/neostellar-capital-yoneticisi-lott-50646-dolar-degerinde-hisse-satt-93CH-4056192",
         "investing:https://tr.investing.com/news/insider-trading-news/paysign-ctosu-bradley-cunningham-96420-dolar-degerinde-hisse-satt-93CH-4056191",
         "investing:https://tr.investing.com/news/insider-trading-news/happen-yoneticisi-erin-selleck-35812-dolar-degerinde-hisse-satt-93CH-4056190",
-        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-robinhood-ve-twist-bioscienceta-buyuk-hamle-yapt-93CH-4056189",
-        "investing:https://tr.investing.com/news/insider-trading-news/stubhub-yoneticisi-mark-streams-105-milyon-dolarlk-hisse-satt-93CH-4056186",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -446,6 +446,8 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-robinhood-ve-twist-bioscienceta-buyuk-hamle-yapt-93CH-4056189",
+        "investing:https://tr.investing.com/news/insider-trading-news/stubhub-yoneticisi-mark-streams-105-milyon-dolarlk-hisse-satt-93CH-4056186",
         "investing:https://tr.investing.com/news/insider-trading-news/paysign-baskan-matthew-turner-62637-dolar-degerinde-hisse-satt-93CH-4056185",
         "investing:https://tr.investing.com/news/insider-trading-news/illumina-yoneticisi-keith-meister-572-milyon-dolarlk-hisse-satt-93CH-4056184",
         "investing:https://tr.investing.com/news/insider-trading-news/happen-inc-genel-dansman-jordan-cheng-49168-dolar-degerinde-hisse-satt-93CH-4056183",
@@ -798,6 +800,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "outfront media evp bonanni 100 940 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/outfront-media-evp-bonanni-100940-dolarlk-hisse-satt-93CH-4056200"
+    },
+    {
+      "source": "investing",
+      "text": "nmi holdings ceo su adam pollitzer 7 75 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/nmi-holdings-ceosu-adam-pollitzer-775-milyon-dolarlk-hisse-satt-93CH-4056199"
+    },
     {
       "source": "investing",
       "text": "yapay zeka istihdam patlamas yaz l m surpriz destek olabilir bernstein",
