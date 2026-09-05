@@ -209,8 +209,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/ipek-yolunun-iki-duragi-yeniden-birlesiyor-3787419",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/3-otoyol-ozellestirme-kapsamina-alindi-3787420",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/3-otoyol-ozellestirme-kapsamina-alindi-3787420",
         "bloomberght:https://www.bloomberght.com/ipek-yolunun-iki-duragi-yeniden-birlesiyor-3787419",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-05092026-3787418",
         "bloomberght:https://www.bloomberght.com/para-piyasasi-fonlarinda-stopaj-orani-yuzde-10-oldu-3787417",
@@ -339,18 +340,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-baskan-ve-yenilik-direktoru-goel-106526-dolarlk-hisse-satt-93CH-4056235",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/norwood-financial-evp-obell-1035-bin-dolarlk-hisse-satt-93CH-4056240",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/norwood-financial-evp-obell-1035-bin-dolarlk-hisse-satt-93CH-4056240",
+        "investing:https://tr.investing.com/news/insider-trading-news/dream-finders-homes-yoneticisi-len-sturm-20205-dolar-degerinde-hisse-ald-93CH-4056239",
+        "investing:https://tr.investing.com/news/insider-trading-news/vistance-networks-yoneticisi-l-william-krause-149555-dolar-degerinde-hisse-satt-93CH-4056238",
+        "investing:https://tr.investing.com/news/economy-news/farage-krizi-ingiltere-basbakan-burnhama-butce-oncesi-rahat-nefes-aldrd-4056236",
         "investing:https://tr.investing.com/news/insider-trading-news/pubmatic-baskan-ve-yenilik-direktoru-goel-106526-dolarlk-hisse-satt-93CH-4056235",
         "investing:https://tr.investing.com/news/insider-trading-news/denali-therapeutics-yoneticisi-261928-dolar-degerinde-hisse-satt-93CH-4056232",
         "investing:https://tr.investing.com/news/insider-trading-news/fastly-ceosu-compton-193132-dolar-degerinde-hisse-satt-93CH-4056231",
         "investing:https://tr.investing.com/news/insider-trading-news/first-us-bancshares-yonetim-kurulu-uyesi-robert-field-1858-dolar-degerinde-hisse-ald-93CH-4056230",
         "investing:https://tr.investing.com/news/economy-news/seattle-times-ve-newsday-openai-ve-microsofta-dava-act-4056234",
         "investing:https://tr.investing.com/news/insider-trading-news/bill-holdings-ceosu-rene-lacerte-125-milyon-dolarlk-hisse-satt-93CH-4056229",
-        "investing:https://tr.investing.com/news/insider-trading-news/lantheus-alpha-therapy-catx-direktoru-131-bin-dolarlk-hisse-satt-93CH-4056228",
-        "investing:https://tr.investing.com/news/economy-news/beyaz-saray-pentagon-mustesar-feinbergin-yerine-adaylar-inceledi-4056226",
-        "investing:https://tr.investing.com/news/insider-trading-news/gevo-yoneticisi-patrick-gruber-sirket-hissesi-satt-93CH-4056225",
-        "investing:https://tr.investing.com/news/insider-trading-news/beta-bionics-ceosu-sean-saint-113258-dolar-degerinde-hisse-satt-93CH-4056224",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -371,6 +372,10 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/insider-trading-news/lantheus-alpha-therapy-catx-direktoru-131-bin-dolarlk-hisse-satt-93CH-4056228",
+        "investing:https://tr.investing.com/news/economy-news/beyaz-saray-pentagon-mustesar-feinbergin-yerine-adaylar-inceledi-4056226",
+        "investing:https://tr.investing.com/news/insider-trading-news/gevo-yoneticisi-patrick-gruber-sirket-hissesi-satt-93CH-4056225",
+        "investing:https://tr.investing.com/news/insider-trading-news/beta-bionics-ceosu-sean-saint-113258-dolar-degerinde-hisse-satt-93CH-4056224",
         "investing:https://tr.investing.com/news/economy-news/irann-petrol-ablukas-kaldrac-zayflyor-abd-korfez-petrolunu-aksta-tutuyor-4056223",
         "investing:https://tr.investing.com/news/economy-news/hong-kong-ack-deniz-yuan-rolunu-genisletmeyi-hedefliyor-4056220",
         "investing:https://tr.investing.com/news/economy-news/japonya-ve-abd-yapay-zeka-ve-cip-odakl-550-milyar-dolarlk-yatrm-anlasmasnda-ilerleme-kaydetti-4056218",
@@ -594,6 +599,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "norwood financial evp o bell 103 5 bin dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/norwood-financial-evp-obell-1035-bin-dolarlk-hisse-satt-93CH-4056240"
+    },
+    {
+      "source": "investing",
+      "text": "dream finders homes yoneticisi len sturm 20 205 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/dream-finders-homes-yoneticisi-len-sturm-20205-dolar-degerinde-hisse-ald-93CH-4056239"
+    },
+    {
+      "source": "investing",
+      "text": "vistance networks yoneticisi l william krause 149 555 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/vistance-networks-yoneticisi-l-william-krause-149555-dolar-degerinde-hisse-satt-93CH-4056238"
+    },
+    {
+      "source": "investing",
+      "text": "farage krizi ingiltere basbakan burnham a butce oncesi rahat nefes ald rd",
+      "link": "https://tr.investing.com/news/economy-news/farage-krizi-ingiltere-basbakan-burnhama-butce-oncesi-rahat-nefes-aldrd-4056236"
+    },
+    {
+      "source": "bloomberght",
+      "text": "3 otoyol ozellestirme kapsam na al nd resmi gazete cumhurbaskan recep tayyip erdogan n imzas yla yay mlanan kararla nigde pozant otoyolu gaziantep cevre otoyolu bursa cevre otoyolu nun caglayan kavsag yenisehir kavsag aras ndaki bolumu daha once ozellestirme kapsam",
+      "link": "https://www.bloomberght.com/3-otoyol-ozellestirme-kapsamina-alindi-3787420"
+    },
     {
       "source": "trthaber",
       "text": "para piyasas fonu kazanclar na yuzde 10 stopaj kesintisi uygulanacak para piyasas fonlar unvan nda para piyasas ibaresi bulunan serbest fonlardan elde edilen kazanclara uygulanan tevkifat oran yuzde 0 dan yuzde 10 a c kart ld",
@@ -894,6 +924,7 @@
       },
       "model_portfoy": {
         "seen_keys": [
+          "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/BIST100Bulletin/a903ce8d-0512-4d64-9f08-ef665d4aebff.pdf",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/BIST100Bulletin/ceca3670-bccb-44e3-bdc4-57bec92227b9.pdf",
           "phillipcapital:model_portfoy:https://tr.tradingview.com/broker/PhillipCapitalTurkiye",
           "phillipcapital:model_portfoy:https://www.whatsapp.com/channel/0029VbBMhe13LdQPI3gZhH2F",
@@ -905,7 +936,7 @@
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/arastirma-urunleri",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/ABDBulletin/f8edd205-8593-4a60-a5df-02b5ee67bbd8.pdf"
         ],
-        "sent_at": "2026-09-05T09:22:34.332909+03:00"
+        "sent_at": "2026-09-05T10:13:32.444268+03:00"
       }
     },
     "gedik": {
