@@ -414,8 +414,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/japonya-ve-abd-yapay-zeka-ve-cip-odakl-550-milyar-dolarlk-yatrm-anlasmasnda-ilerleme-kaydetti-4056218",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/hong-kong-ack-deniz-yuan-rolunu-genisletmeyi-hedefliyor-4056220",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/hong-kong-ack-deniz-yuan-rolunu-genisletmeyi-hedefliyor-4056220",
         "investing:https://tr.investing.com/news/economy-news/japonya-ve-abd-yapay-zeka-ve-cip-odakl-550-milyar-dolarlk-yatrm-anlasmasnda-ilerleme-kaydetti-4056218",
         "investing:https://tr.investing.com/news/insider-trading-news/xos-yoneticisi-dietmar-ostermann-45220-dolar-degerinde-hisse-satt-93CH-4056214",
         "investing:https://tr.investing.com/news/stock-market-news/howmete-yonelik-spacex-tehdidi-alm-frsat-gibi-gorunuyor-bernstein-4056217",
@@ -425,7 +426,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/biocardia-ceosu-peter-altman-872-dolar-degerinde-hisse-ald-93CH-4056209",
         "investing:https://tr.investing.com/news/company-news/inturai-ventures-ozel-yerlestirmeyi-tamamlad-963714-dolar-toplad-93CH-4056208",
         "investing:https://tr.investing.com/news/insider-trading-news/enovis-cao-oliver-engert-149970-dolarlk-hisse-satn-ald-93CH-4056207",
-        "investing:https://tr.investing.com/news/insider-trading-news/enovis-ceosu-mcdonald-249620-dolarlk-hisse-satn-ald-93CH-4056206",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -446,6 +446,7 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/insider-trading-news/enovis-ceosu-mcdonald-249620-dolarlk-hisse-satn-ald-93CH-4056206",
         "investing:https://tr.investing.com/news/company-news/tetris-beyaz-sarayn-duvar-or-oyunuyla-ilgisi-olmadgn-soyledi-4056204",
         "investing:https://tr.investing.com/news/insider-trading-news/veracyte-cfosu-rebecca-chambers-157394-dolar-degerinde-hisse-satt-93CH-4056203",
         "investing:https://tr.investing.com/news/insider-trading-news/veracyte-bilim-ve-tp-direktoru-564-bin-dolardan-fazla-hisse-satt-93CH-4056202",
@@ -825,6 +826,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "hong kong ac k deniz yuan rolunu genisletmeyi hedefliyor",
+      "link": "https://tr.investing.com/news/economy-news/hong-kong-ack-deniz-yuan-rolunu-genisletmeyi-hedefliyor-4056220"
+    },
     {
       "source": "investing",
       "text": "japonya abd yapay zeka cip odakl 550 milyar dolarl k yat r m anlasmas nda ilerleme kaydetti",
