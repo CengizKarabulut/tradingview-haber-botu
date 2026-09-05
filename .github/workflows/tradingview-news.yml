@@ -13,13 +13,16 @@ on:
       - 'news_bot_v8.py'
       - 'news_bot_v9.py'
       - 'news_bot_v10.py'
+      - 'news_bot_v11.py'
       - 'research_summary.py'
+      - 'investor_takeaway.py'
       - 'requirements.txt'
       - 'test_news_bot.py'
       - 'test_news_sources.py'
       - 'test_news_v8.py'
       - 'test_news_v9.py'
       - 'test_news_v10.py'
+      - 'test_news_v11.py'
   schedule:
     - cron: '7 * * * *'
     - cron: '22 * * * *'
@@ -51,8 +54,8 @@ jobs:
 
       - name: Testleri calistir
         run: |
-          python -m unittest -v test_news_bot.py test_news_sources.py test_news_v8.py test_news_v9.py test_news_v10.py
-          python -m py_compile news_bot.py news_bot_v4.py news_bot_v5.py news_bot_v6.py news_bot_v7.py news_bot_v8.py news_bot_v9.py news_bot_v10.py research_summary.py
+          python -m unittest -v test_news_bot.py test_news_sources.py test_news_v8.py test_news_v9.py test_news_v10.py test_news_v11.py
+          python -m py_compile news_bot.py news_bot_v4.py news_bot_v5.py news_bot_v6.py news_bot_v7.py news_bot_v8.py news_bot_v9.py news_bot_v10.py news_bot_v11.py research_summary.py investor_takeaway.py
 
       - name: Haberleri ve arastirmalari Telegram'a gonder
         env:
@@ -67,7 +70,7 @@ jobs:
           RESEARCH_SUMMARY_MAX_CHARS: '60000'
           RESEARCH_SUMMARY_CAPTION_LIMIT: '980'
           ENABLE_REUTERS: 'false'
-        run: python news_bot_v10.py
+        run: python news_bot_v11.py
 
       - name: Cache kaydet
         run: |
