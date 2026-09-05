@@ -35,7 +35,9 @@ class SourceHealthTests(unittest.TestCase):
           <link>https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Duyurular/Basin/2026/DUY2026-01</link>
           <pubDate>Fri, 04 Sep 2026 14:00:00 +0300</pubDate>
         </item></channel></rss>"""
-        items = v9.fetch_tcmb(session=FakeSession(FakeResponse(xml)))
+        # Gerçek akışta v6.install_official_sources() TCMB etiketini fetch çağrısından önce kurar.
+        with patch.dict(v9.base.SOURCE_LABELS, {"tcmb": "TCMB"}, clear=False):
+            items = v9.fetch_tcmb(session=FakeSession(FakeResponse(xml)))
         self.assertEqual(len(items), 1)
         self.assertEqual(items[0]["source"], "tcmb")
         self.assertIn("Para Politikasi", items[0]["title"])
@@ -54,8 +56,10 @@ class SourceHealthTests(unittest.TestCase):
         self.assertEqual(selected, ["tera", "seker", "global"])
 
     def test_known_research_urls_are_updated(self):
-        old_seker = v9.v5.BROKER_CONFIGS["seker"]["url"]
-        old_is = v9.v5.BROKER_CONFIGS["isyatirim"]["url"]
+        old_v5_seker = v9.v5.BROKER_CONFIGS["seker"]["url"]
+        old_v5_is = v9.v5.BROKER_CONFIGS["isyatirim"]["url"]
+        old_v6_seker = v9.v6.RESEARCH_PAGE_CONFIGS["seker"]["url"]
+        old_v6_is = v9.v6.RESEARCH_PAGE_CONFIGS["isyatirim"]["url"]
         try:
             v9.apply_known_url_fixes()
             self.assertTrue(v9.v5.BROKER_CONFIGS["seker"]["url"].endswith("/Arastirma/Raporlar"))
@@ -65,8 +69,10 @@ class SourceHealthTests(unittest.TestCase):
                 v9.v5.BROKER_CONFIGS["seker"]["url"],
             )
         finally:
-            v9.v5.BROKER_CONFIGS["seker"]["url"] = old_seker
-            v9.v5.BROKER_CONFIGS["isyatirim"]["url"] = old_is
+            v9.v5.BROKER_CONFIGS["seker"]["url"] = old_v5_seker
+            v9.v5.BROKER_CONFIGS["isyatirim"]["url"] = old_v5_is
+            v9.v6.RESEARCH_PAGE_CONFIGS["seker"]["url"] = old_v6_seker
+            v9.v6.RESEARCH_PAGE_CONFIGS["isyatirim"]["url"] = old_v6_is
 
     def test_default_healthy_list_excludes_known_broken_sources(self):
         with patch.dict(os.environ, {"BULLETIN_SOURCES": v9.DEFAULT_HEALTHY_RESEARCH_SOURCES}, clear=False):
