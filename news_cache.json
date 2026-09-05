@@ -414,18 +414,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/outfront-media-evp-bonanni-100940-dolarlk-hisse-satt-93CH-4056200",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/inturai-ventures-ozel-yerlestirmeyi-tamamlad-963714-dolar-toplad-93CH-4056208",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/inturai-ventures-ozel-yerlestirmeyi-tamamlad-963714-dolar-toplad-93CH-4056208",
+        "investing:https://tr.investing.com/news/insider-trading-news/enovis-cao-oliver-engert-149970-dolarlk-hisse-satn-ald-93CH-4056207",
+        "investing:https://tr.investing.com/news/insider-trading-news/enovis-ceosu-mcdonald-249620-dolarlk-hisse-satn-ald-93CH-4056206",
+        "investing:https://tr.investing.com/news/company-news/tetris-beyaz-sarayn-duvar-or-oyunuyla-ilgisi-olmadgn-soyledi-4056204",
+        "investing:https://tr.investing.com/news/insider-trading-news/veracyte-cfosu-rebecca-chambers-157394-dolar-degerinde-hisse-satt-93CH-4056203",
+        "investing:https://tr.investing.com/news/insider-trading-news/veracyte-bilim-ve-tp-direktoru-564-bin-dolardan-fazla-hisse-satt-93CH-4056202",
+        "investing:https://tr.investing.com/news/insider-trading-news/veracyte-yoneticisi-140000-dolardan-fazla-hisse-satt-93CH-4056201",
         "investing:https://tr.investing.com/news/insider-trading-news/outfront-media-evp-bonanni-100940-dolarlk-hisse-satt-93CH-4056200",
         "investing:https://tr.investing.com/news/insider-trading-news/nmi-holdings-ceosu-adam-pollitzer-775-milyon-dolarlk-hisse-satt-93CH-4056199",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-istihdam-patlamas-yazlm-icin-surpriz-destek-olabilir-bernstein-4056197",
-        "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-416-milyon-dolarlk-hisse-satt-93CH-4056196",
-        "investing:https://tr.investing.com/news/insider-trading-news/warner-bros-discovery-yoneticisi-lowe-567-milyon-dolarlk-hisse-satt-93CH-4056195",
-        "investing:https://tr.investing.com/news/insider-trading-news/stubhub-baskan-nayaab-islam-899-bin-dolarlk-hisse-satt-93CH-4056194",
-        "investing:https://tr.investing.com/news/insider-trading-news/salesforce-yoneticisi-craig-conway-117-milyon-dolarlk-hisse-satt-93CH-4056193",
-        "investing:https://tr.investing.com/news/insider-trading-news/neostellar-capital-yoneticisi-lott-50646-dolar-degerinde-hisse-satt-93CH-4056192",
-        "investing:https://tr.investing.com/news/insider-trading-news/paysign-ctosu-bradley-cunningham-96420-dolar-degerinde-hisse-satt-93CH-4056191",
-        "investing:https://tr.investing.com/news/insider-trading-news/happen-yoneticisi-erin-selleck-35812-dolar-degerinde-hisse-satt-93CH-4056190",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -446,6 +446,13 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-416-milyon-dolarlk-hisse-satt-93CH-4056196",
+        "investing:https://tr.investing.com/news/insider-trading-news/warner-bros-discovery-yoneticisi-lowe-567-milyon-dolarlk-hisse-satt-93CH-4056195",
+        "investing:https://tr.investing.com/news/insider-trading-news/stubhub-baskan-nayaab-islam-899-bin-dolarlk-hisse-satt-93CH-4056194",
+        "investing:https://tr.investing.com/news/insider-trading-news/salesforce-yoneticisi-craig-conway-117-milyon-dolarlk-hisse-satt-93CH-4056193",
+        "investing:https://tr.investing.com/news/insider-trading-news/neostellar-capital-yoneticisi-lott-50646-dolar-degerinde-hisse-satt-93CH-4056192",
+        "investing:https://tr.investing.com/news/insider-trading-news/paysign-ctosu-bradley-cunningham-96420-dolar-degerinde-hisse-satt-93CH-4056191",
+        "investing:https://tr.investing.com/news/insider-trading-news/happen-yoneticisi-erin-selleck-35812-dolar-degerinde-hisse-satt-93CH-4056190",
         "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-robinhood-ve-twist-bioscienceta-buyuk-hamle-yapt-93CH-4056189",
         "investing:https://tr.investing.com/news/insider-trading-news/stubhub-yoneticisi-mark-streams-105-milyon-dolarlk-hisse-satt-93CH-4056186",
         "investing:https://tr.investing.com/news/insider-trading-news/paysign-baskan-matthew-turner-62637-dolar-degerinde-hisse-satt-93CH-4056185",
@@ -652,8 +659,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:be69c4562d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:774393b62d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:774393b62d9e8:0",
         "tradingview:fxstreet:be69c4562d9e8:0",
         "tradingview:fxstreet:07e730d58d9e8:0",
         "tradingview:beincrypto:bbc60a7ded9e8:0",
@@ -800,6 +808,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "zcash 10 y l sonra 1 000 dolar ast s rada var",
+      "link": "https://tr.tradingview.com/news/beincrypto:774393b62d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "inturai ventures ozel yerlestirmeyi tamamlad 963 714 dolar toplad",
+      "link": "https://tr.investing.com/news/company-news/inturai-ventures-ozel-yerlestirmeyi-tamamlad-963714-dolar-toplad-93CH-4056208"
+    },
+    {
+      "source": "investing",
+      "text": "enovis cao oliver engert 149 970 dolarl k hisse sat n ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/enovis-cao-oliver-engert-149970-dolarlk-hisse-satn-ald-93CH-4056207"
+    },
+    {
+      "source": "investing",
+      "text": "enovis ceo su mcdonald 249 620 dolarl k hisse sat n ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/enovis-ceosu-mcdonald-249620-dolarlk-hisse-satn-ald-93CH-4056206"
+    },
+    {
+      "source": "investing",
+      "text": "tetris beyaz saray n duvar or oyunuyla ilgisi olmad g n soyledi",
+      "link": "https://tr.investing.com/news/company-news/tetris-beyaz-sarayn-duvar-or-oyunuyla-ilgisi-olmadgn-soyledi-4056204"
+    },
+    {
+      "source": "investing",
+      "text": "veracyte cfo su rebecca chambers 157 394 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/veracyte-cfosu-rebecca-chambers-157394-dolar-degerinde-hisse-satt-93CH-4056203"
+    },
+    {
+      "source": "investing",
+      "text": "veracyte bilim t p direktoru 564 bin dolardan fazla hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/veracyte-bilim-ve-tp-direktoru-564-bin-dolardan-fazla-hisse-satt-93CH-4056202"
+    },
+    {
+      "source": "investing",
+      "text": "veracyte yoneticisi 140 000 dolardan fazla hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/veracyte-yoneticisi-140000-dolardan-fazla-hisse-satt-93CH-4056201"
+    },
     {
       "source": "investing",
       "text": "outfront media evp bonanni 100 940 dolarl k hisse satt",
@@ -1898,6 +1946,7 @@
       },
       "model_portfoy": {
         "seen_keys": [
+          "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/IndustryReport/58dd26c3-a6de-4d03-88af-b40406057e98.pdf",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/ABDBulletin/69b74ccf-3388-45af-bc1c-e974600dc034.pdf",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/ABDBulletin/8d7a74db-4a3b-41e9-8ac5-c9682ae25d44.pdf",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/BIST100Bulletin/a903ce8d-0512-4d64-9f08-ef665d4aebff.pdf",
@@ -1915,7 +1964,7 @@
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/BIST100Bulletin/73a1eed9-a674-4653-b48f-bec182163876.pdf",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/ABDBulletin/f8edd205-8593-4a60-a5df-02b5ee67bbd8.pdf"
         ],
-        "sent_at": "2026-09-04T23:42:00.368345+03:00"
+        "sent_at": "2026-09-05T04:57:14.800974+03:00"
       }
     },
     "gedik": {
