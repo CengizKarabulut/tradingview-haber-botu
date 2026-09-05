@@ -462,8 +462,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:45721d3cad9e8:0",
+      "last_seen_key": "tradingview:beincrypto:62ae982f2d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:62ae982f2d9e8:0",
         "tradingview:beincrypto:45721d3cad9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:beincrypto:3890940dbd9e8:0",
@@ -569,6 +570,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "solana kurucu ortag ndan robinhood chain e elestiri t kan kl k kazanc ak l kar degil",
+      "link": "https://tr.tradingview.com/news/beincrypto:62ae982f2d9e8:0"
+    },
     {
       "source": "investing",
       "text": "foxconn yapay zeka talebi guclu kald kca 3 ceyrekte piyasa beklentilerini asmay bekliyor",
@@ -1044,5 +1050,6 @@
         "sent_at": "2026-09-05T13:34:28.355800+03:00"
       }
     }
-  }
+  },
+  "research_reports_v8": {}
 }
