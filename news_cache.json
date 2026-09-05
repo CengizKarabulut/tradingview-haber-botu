@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1659252",
+      "last_seen_key": "kap:1659259",
       "seen_keys": [
+        "kap:1659259",
         "kap:1659252",
         "kap:1659251",
         "kap:1659249",
@@ -335,8 +336,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/abd-artan-talebi-karslayacak-kadar-hzl-enerji-uretimi-yapamayabilir-4056264",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/nomura-rekor-karlara-ragmen-japon-hisseleri-risk-istahszlgyla-kars-karsya-4056267",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/nomura-rekor-karlara-ragmen-japon-hisseleri-risk-istahszlgyla-kars-karsya-4056267",
         "investing:https://tr.investing.com/news/stock-market-news/abd-artan-talebi-karslayacak-kadar-hzl-enerji-uretimi-yapamayabilir-4056264",
         "investing:https://tr.investing.com/news/stock-market-news/foxconn-yapay-zeka-talebi-guclu-kaldkca-3-ceyrekte-piyasa-beklentilerini-asmay-bekliyor-4056263",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-otel-hissesinde-58lik-kazanc-frsat-yakalad-93CH-4056260",
@@ -346,7 +348,6 @@
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-cavay-uyard-93CH-4056256",
         "investing:https://tr.investing.com/news/stock-market-news/tahvil-getirilerindeki-yukselis-hisseler-icin-ne-zaman-sorun-olur-4056255",
         "investing:https://tr.investing.com/news/stock-market-news/goldman-asyapasifik-hisse-hedefini-teknoloji-kazanclaryla-yukseltti-93CH-4056253",
-        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-guclu-abd-istihdam-verisiyle-80000-dolarn-altna-dustu-4056248",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -367,6 +368,7 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-guclu-abd-istihdam-verisiyle-80000-dolarn-altna-dustu-4056248",
         "investing:https://tr.investing.com/news/economy-news/guney-kore-ihracat-yllk-rekoru-ast-yapay-zeka-cip-patlamas-sevkiyatlar-artrd-4056246",
         "investing:https://tr.investing.com/news/stock-market-news/barclays-bu-sektorde-yllk-36-trilyon-dolarlk-frsat-goruyor-4056243",
         "investing:https://tr.investing.com/news/economy-news/cinin-luks-harcama-canlanmas-sonuyor-bernstein-4056242",
@@ -605,6 +607,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "nomura rekor karlara ragmen japon hisseleri risk istahs zl g yla kars kars ya",
+      "link": "https://tr.investing.com/news/stock-market-news/nomura-rekor-karlara-ragmen-japon-hisseleri-risk-istahszlgyla-kars-karsya-4056267"
+    },
+    {
+      "source": "kap",
+      "text": "kln klnma ozel durum ac klamas genel uluslararas imar kalk nma bankas ibrd dunya bankas kredi anlasmalar imzalanmas sirket turkiye kalkinma yatirim bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659259"
+    },
     {
       "source": "tradingview",
       "text": "xrp fiyat nda dikkat ceken tekrar 650 lik yukselis sinyali",
