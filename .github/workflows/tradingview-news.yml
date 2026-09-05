@@ -11,10 +11,12 @@ on:
       - 'news_bot_v6.py'
       - 'news_bot_v7.py'
       - 'news_bot_v8.py'
+      - 'news_bot_v9.py'
       - 'requirements.txt'
       - 'test_news_bot.py'
       - 'test_news_sources.py'
       - 'test_news_v8.py'
+      - 'test_news_v9.py'
   schedule:
     - cron: '7 * * * *'
     - cron: '22 * * * *'
@@ -48,17 +50,20 @@ jobs:
 
       - name: Testleri calistir
         run: |
-          python -m unittest -v test_news_bot.py test_news_sources.py test_news_v8.py
-          python -m py_compile news_bot.py news_bot_v4.py news_bot_v5.py news_bot_v6.py news_bot_v7.py news_bot_v8.py
+          python -m unittest -v test_news_bot.py test_news_sources.py test_news_v8.py test_news_v9.py
+          python -m py_compile news_bot.py news_bot_v4.py news_bot_v5.py news_bot_v6.py news_bot_v7.py news_bot_v8.py news_bot_v9.py
 
       - name: Haberleri ve arastirmalari Telegram'a gonder
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_MESSAGE_THREAD_ID: ${{ secrets.TELEGRAM_MESSAGE_THREAD_ID }}
-          BULLETIN_SOURCES: tera,info,a1capital,bulls,yapikredi,akyatirim,ziraat,qnb,garanti,midas,phillipcapital,gedik,global,unlu,oyak,seker,integral,isyatirim,halk,vakif,deniz
+          BULLETIN_SOURCES: tera,a1capital,bulls,yapikredi,akyatirim,ziraat,qnb,garanti,midas,phillipcapital,gedik,oyak,seker,isyatirim,vakif,deniz
           RESEARCH_MAX_AGE_DAYS: '0'
-        run: python news_bot_v8.py
+          RESEARCH_HTTP_TIMEOUT: '18'
+          RESEARCH_SCAN_MAX_ANCHORS: '500'
+          ENABLE_REUTERS: 'false'
+        run: python news_bot_v9.py
 
       - name: Cache kaydet
         run: |
