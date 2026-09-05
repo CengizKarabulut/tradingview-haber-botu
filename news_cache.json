@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1659259",
+      "last_seen_key": "kap:1659260",
       "seen_keys": [
+        "kap:1659260",
         "kap:1659259",
         "kap:1659252",
         "kap:1659251",
@@ -205,8 +206,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/filenin-sultanlari-finalde-3787427",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/tkyb-ile-dunya-bankasi-arasinda-630-milyon-dolarlik-ek-finansman-anlasmasi-3787428",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/tkyb-ile-dunya-bankasi-arasinda-630-milyon-dolarlik-ek-finansman-anlasmasi-3787428",
         "bloomberght:https://www.bloomberght.com/filenin-sultanlari-finalde-3787427",
         "bloomberght:https://www.bloomberght.com/ic-talep-sonunda-dezenflasyona-destek-veriyor-3787425",
         "bloomberght:https://www.bloomberght.com/oib-den-ozellestirmekapsamina-alinan-otoyol-ve-koprulere-iliskin-aciklama-3787426",
@@ -314,9 +316,9 @@
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turk-is-dunyasinin-hong-kong-ziyareti-cin-ve-asya-pasifikte-isbirliklerinin-kapisini-aralayacak/4047996",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/otomotiv-ihracati-8-ayda-guclu-performansini-surdurdu/4047993",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/almanyaya-ihracat-8-ayda-13-6-milyar-dolara-ulasti/4048077",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ihracatcilarin-finansman-maliyetini-dusurmek-icin-reeskont-kredilerinde-bsmv-istisnasi-genisletildi/4048012",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-gelecek-hafta-abdde-aciklanacak-enflasyon-ve-ecbnin-faiz-kararina-odaklandi/4048002",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/almanyaya-ihracat-8-ayda-13-6-milyar-dolara-ulasti/4048077",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/oibden-ozellestirme-kapsam-ve-programina-alinan-otoyol-ve-koprulere-iliskin-aciklama/4048052",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/epdk-dogal-gaz-ve-elektrik-dagitim-sirketlerinin-ar-ge-ve-ur-ge-faaliyetlerinde-degisiklige-gitti/4047917",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dijital-ortamdaki-ticari-faaliyetlere-yonelik-bildirim-yukumlulugunde-duzenleme-yapildi/4047982",
@@ -381,8 +383,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/doada-205-milyon-ambalaj-toplandi-1740495",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/sahibinden-letgo-dolap-internet-satislarin-tumune-inceleme-geliyor-1740544",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/sahibinden-letgo-dolap-internet-satislarin-tumune-inceleme-geliyor-1740544",
         "ntvpara:https://www.ntv.com.tr/ntvpara/doada-205-milyon-ambalaj-toplandi-1740495",
         "ntvpara:https://www.ntv.com.tr/ntvpara/agustosta-100-bin-gida-denetimi-1740485",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-bbvadan-turkiye-raporu-faiz-indirimi-icin-tarih-one-cekildi-1740441",
@@ -608,6 +611,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "sahibinden letgo dolap internet sat slar n tumune inceleme geliyor internet sosyal medya uzerinden gerceklestirilen al m sat m kiralama ilan reklam islemlerin tumu vergi denetimi kapsam na al nd sat s isini ticarete donusturenler vergi odeyecek",
+      "link": "https://www.ntv.com.tr/ntvpara/sahibinden-letgo-dolap-internet-satislarin-tumune-inceleme-geliyor-1740544"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tkyb dunya bankas aras nda 630 milyon dolarl k finansman anlasmas turkiye kalk nma yat r m bankas tkyb dunya bankas aras nda turkiye deki yenilenebilir enerji yat r mlar n n sanayide emisyon azalt m na yonelik projelerin desteklenmesi amac yla yaklas k 630 milyon dolar kars l g nda iki ek f",
+      "link": "https://www.bloomberght.com/tkyb-ile-dunya-bankasi-arasinda-630-milyon-dolarlik-ek-finansman-anlasmasi-3787428"
+    },
+    {
+      "source": "kap",
+      "text": "tsk tskb ozel durum ac klamas genel ibrd imzalanan kredi sozlesmesi hk sirket turkiye sinai kalkinma bankasi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659260"
+    },
     {
       "source": "tradingview",
       "text": "abd borcu 40 trilyon dolar ast bitcoin in deger koruma rolu nerede",
