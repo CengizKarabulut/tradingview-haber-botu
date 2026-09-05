@@ -194,8 +194,9 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6a9bab3995016b5817e56638/PICNEWS/tr/trump-tan-rusya-ukrayna-savasi-icin-yeni-baris-hamlesi-05-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6a9bacab24008d7d4372d50a/PICNEWS/tr/para-piyasasi-serbest-fonlarinda-stopaj-orani-yeniden-duzenlendi-05-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6a9bacab24008d7d4372d50a/PICNEWS/tr/para-piyasasi-serbest-fonlarinda-stopaj-orani-yeniden-duzenlendi-05-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6a9bab3995016b5817e56638/PICNEWS/tr/trump-tan-rusya-ukrayna-savasi-icin-yeni-baris-hamlesi-05-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6a9baa5424008d7d4372d506/PICNEWS/tr/rekabet-kurulu-na-3-yeni-atama-05-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6a9baa1a24008d7d4372d505/PICNEWS/tr/anthropic-in-halka-arzi-ertelendi-gozler-ekim-ortasina-cevrildi-05-09-26/",
@@ -321,6 +322,8 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/erzurum-turkiyede-aycicegi-uretiminde-yuzde-11-paya-ulasti/4047134",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/epdk-dogal-gaz-ve-elektrik-dagitim-sirketlerinin-ar-ge-ve-ur-ge-faaliyetlerinde-degisiklige-gitti/4047917",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyede-gida-isletmelerine-agustosta-100-bin-128-denetim-yapildi/4047922",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/para-piyasasi-fonlarindan-elde-edilen-kazanclara-yuzde-10-stopaj-kesintisi-uygulanacak/4047921",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-bal-uretiminde-dunyada-ikinci-siradayiz-birinci-sirayi-zorluyoruz/4047675",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-tr-2-arastirma-reaktorunun-yeniden-lisanslandigini-bildirdi/4047592",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tuna-portfoy-faaliyet-izninin-ardindan-fon-kurulus-sureclerini-yurutuyor/4047634",
@@ -402,8 +405,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/gida-denetimlerinde-1865-milyon-lira-ceza-kesildi-955958.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/para-piyasasi-fonu-kazanclarina-yuzde-10-stopaj-kesintisi-uygulanacak-955959.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/para-piyasasi-fonu-kazanclarina-yuzde-10-stopaj-kesintisi-uygulanacak-955959.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/gida-denetimlerinde-1865-milyon-lira-ceza-kesildi-955958.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/para-piyasasi-fonlarinda-stopaj-orani-degisti-955956.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-tr-2-arastirma-reaktorumuz-yeniden-lisanslandi-955916.html",
@@ -572,6 +576,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "para piyasas fonu kazanclar na yuzde 10 stopaj kesintisi uygulanacak para piyasas fonlar unvan nda para piyasas ibaresi bulunan serbest fonlardan elde edilen kazanclara uygulanan tevkifat oran yuzde 0 dan yuzde 10 a c kart ld",
+      "link": "https://www.trthaber.com/haber/ekonomi/para-piyasasi-fonu-kazanclarina-yuzde-10-stopaj-kesintisi-uygulanacak-955959.html"
+    },
+    {
+      "source": "forinvest",
+      "text": "para piyasas serbest fonlar nda stopaj oran yeniden duzenlendi 5 eylul 2026 tarihli resmi gazete yay mlanan cumhurbaskan karar gelir vergisi kanunu nun gecici 67 nci maddesi kapsam ndaki baz tevkifat oranlar nda degisiklige gidildi",
+      "link": "https://www.foreks.com/haber/detay/6a9bacab24008d7d4372d50a/PICNEWS/tr/para-piyasasi-serbest-fonlarinda-stopaj-orani-yeniden-duzenlendi-05-09-26"
+    },
     {
       "source": "trthaber",
       "text": "g denetimlerinde 186 5 milyon lira ceza kesildi tar m orman bakan ibrahim yumakl agustos ay nda g isletmelerine yonelik gerceklestirilen denetimlerde 186 5 milyon tl para cezas uyguland g n 49 isletme ilgili suc duyurusunda bulunduklar n belirtti",
