@@ -204,10 +204,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/oib-den-ozellestirmekapsamina-alinan-otoyol-ve-koprulere-iliskin-aciklama-3787426",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/ic-talep-sonunda-dezenflasyona-destek-veriyor-3787425",
       "seen_keys": [
-        "bloomberght:https://www.bloomberght.com/oib-den-ozellestirmekapsamina-alinan-otoyol-ve-koprulere-iliskin-aciklama-3787426",
         "bloomberght:https://www.bloomberght.com/ic-talep-sonunda-dezenflasyona-destek-veriyor-3787425",
+        "bloomberght:https://www.bloomberght.com/oib-den-ozellestirmekapsamina-alinan-otoyol-ve-koprulere-iliskin-aciklama-3787426",
         "bloomberght:https://www.bloomberght.com/reeskont-kredilerinde-bsmv-istisnasi-genisletildi-3787424",
         "bloomberght:https://www.bloomberght.com/haftaya-tcmb-karari-ve-abd-verisi-radarda-3787423",
         "bloomberght:https://www.bloomberght.com/dijital-ortamdaki-ticari-faaliyetlere-yonelik-duzenleme-3787422",
@@ -332,8 +332,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/foxconn-yapay-zeka-talebi-guclu-kaldkca-3-ceyrekte-piyasa-beklentilerini-asmay-bekliyor-4056263",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/abd-artan-talebi-karslayacak-kadar-hzl-enerji-uretimi-yapamayabilir-4056264",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/abd-artan-talebi-karslayacak-kadar-hzl-enerji-uretimi-yapamayabilir-4056264",
         "investing:https://tr.investing.com/news/stock-market-news/foxconn-yapay-zeka-talebi-guclu-kaldkca-3-ceyrekte-piyasa-beklentilerini-asmay-bekliyor-4056263",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-otel-hissesinde-58lik-kazanc-frsat-yakalad-93CH-4056260",
         "investing:https://tr.investing.com/news/stock-market-news/citi-fedin-faiz-indirimini-haziran-2027ye-erteledi-4056261",
@@ -343,7 +344,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/tahvil-getirilerindeki-yukselis-hisseler-icin-ne-zaman-sorun-olur-4056255",
         "investing:https://tr.investing.com/news/stock-market-news/goldman-asyapasifik-hisse-hedefini-teknoloji-kazanclaryla-yukseltti-93CH-4056253",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-guclu-abd-istihdam-verisiyle-80000-dolarn-altna-dustu-4056248",
-        "investing:https://tr.investing.com/news/economy-news/guney-kore-ihracat-yllk-rekoru-ast-yapay-zeka-cip-patlamas-sevkiyatlar-artrd-4056246",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -364,6 +364,7 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/economy-news/guney-kore-ihracat-yllk-rekoru-ast-yapay-zeka-cip-patlamas-sevkiyatlar-artrd-4056246",
         "investing:https://tr.investing.com/news/stock-market-news/barclays-bu-sektorde-yllk-36-trilyon-dolarlk-frsat-goruyor-4056243",
         "investing:https://tr.investing.com/news/economy-news/cinin-luks-harcama-canlanmas-sonuyor-bernstein-4056242",
         "investing:https://tr.investing.com/news/insider-trading-news/norwood-financial-evp-obell-1035-bin-dolarlk-hisse-satt-93CH-4056240",
@@ -465,8 +466,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:62ae982f2d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:2b501a634d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:2b501a634d9e8:0",
         "tradingview:beincrypto:62ae982f2d9e8:0",
         "tradingview:beincrypto:45721d3cad9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
@@ -598,6 +600,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cathie wood yat r mc lar n degerini bilmedigi o kritik kripto token",
+      "link": "https://tr.tradingview.com/news/beincrypto:2b501a634d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "abd artan talebi kars layacak kadar h zl enerji uretimi yapamayabilir",
+      "link": "https://tr.investing.com/news/stock-market-news/abd-artan-talebi-karslayacak-kadar-hzl-enerji-uretimi-yapamayabilir-4056264"
+    },
     {
       "source": "bloomberght",
       "text": "oib den ozellestirme kapsam na al nan otoyol koprulere iliskin ac klama ozellestirme idaresi baskanl g oib karayollar genel mudurlugu kgm taraf ndan isletilen ozellestirme kapsam program nda bulunan otoyol koprulere yonelik cal smalar n kamu varl klar n n sat s n degil mulkiyetin devlette kal",
