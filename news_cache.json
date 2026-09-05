@@ -209,8 +209,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/dijital-ortamdaki-ticari-faaliyetlere-yonelik-duzenleme-3787422",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/haftaya-tcmb-karari-ve-abd-verisi-radarda-3787423",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/haftaya-tcmb-karari-ve-abd-verisi-radarda-3787423",
         "bloomberght:https://www.bloomberght.com/dijital-ortamdaki-ticari-faaliyetlere-yonelik-duzenleme-3787422",
         "bloomberght:https://www.bloomberght.com/bessentten-petrol-fiyatlari-icin-40-dolar-ongorusu-3787421",
         "bloomberght:https://www.bloomberght.com/ipek-yolunun-iki-duragi-yeniden-birlesiyor-3787419",
@@ -284,6 +285,7 @@
         "cnbce:https://www.cnbce.com/borsa/goldman-sachstan-turk-bankalar-icin-dikkat-ceken-mesaj-hisse-hisse-degerlendirdiler-h36432",
         "cnbce:https://www.cnbce.com/borsa/trabzonspor-son-gunde-bombayi-patlatti-forvet-transferi-kapa-duyuruldu-h36418",
         "cnbce:https://www.cnbce.com/borsa/yabancilarin-islemlerine-spk-freni-yeni-kurallar-yururlukte-h36407",
+        "cnbce:https://www.cnbce.com/haberler/resmi-gazetede-yayimlandi-3-ilde-acele-kamulastirma-h36586",
         "cnbce:https://www.cnbce.com/haberler/agustosta-gidada-100-bin-denetim-1865-milyon-lira-ceza-h36581",
         "cnbce:https://www.cnbce.com/haberler/epdk-ar-ge-kurallarini-degistirdi-patent-basina-15-milyon-lira-h36579",
         "cnbce:https://www.cnbce.com/haberler/atama-ve-gorevden-alma-kararlari-resmi-gazetede-h36574",
@@ -419,8 +421,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/eylul-ayi-yasli-ve-engelli-ayliklari-hesaplara-yatirilmaya-baslandi-955968.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kvkk-ucakta-internet-hizmeti-icin-acik-riza-istenmesine-ceza-verdi-955972.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/kvkk-ucakta-internet-hizmeti-icin-acik-riza-istenmesine-ceza-verdi-955972.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/eylul-ayi-yasli-ve-engelli-ayliklari-hesaplara-yatirilmaya-baslandi-955968.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/para-piyasasi-fonu-kazanclarina-yuzde-10-stopaj-kesintisi-uygulanacak-955959.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/gida-denetimlerinde-1865-milyon-lira-ceza-kesildi-955958.html",
@@ -609,6 +612,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "kvkk ucakta internet hizmeti ac k r za istenmesine ceza verdi kisisel verileri koruma kurumu kvkk ucak yolculugunda internet kullanmak isteyen yolcuya verilerinin islenmesi ad na ac k r za vermesini zorunlu tutan internet servis saglay c s na 90 bin lira idari para cezas uygulad",
+      "link": "https://www.trthaber.com/haber/ekonomi/kvkk-ucakta-internet-hizmeti-icin-acik-riza-istenmesine-ceza-verdi-955972.html"
+    },
+    {
+      "source": "bloomberght",
+      "text": "haftaya tcmb karar abd verisi radarda kuresel piyasalar gelecek hafta abd ac klanacak enflasyon amb nin faiz karar na odakland yurt icinde ise tcmb nin faiz karar radarda olacak",
+      "link": "https://www.bloomberght.com/haftaya-tcmb-karari-ve-abd-verisi-radarda-3787423"
+    },
     {
       "source": "tradingview",
       "text": "bitcoin etf girisleri 2026 n n en guclu uc haftal k doneminde 3 8 milyar dolara ulast",
@@ -979,6 +992,7 @@
       },
       "model_portfoy": {
         "seen_keys": [
+          "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/IndustryReport/62bfee3a-e283-4947-900e-9afbee87ec98.pdf",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/BIST100Bulletin/a903ce8d-0512-4d64-9f08-ef665d4aebff.pdf",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/BIST100Bulletin/ceca3670-bccb-44e3-bdc4-57bec92227b9.pdf",
           "phillipcapital:model_portfoy:https://tr.tradingview.com/broker/PhillipCapitalTurkiye",
@@ -991,7 +1005,7 @@
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/arastirma-urunleri",
           "phillipcapital:model_portfoy:https://www.phillipcapital.com.tr/Files/ABDBulletin/f8edd205-8593-4a60-a5df-02b5ee67bbd8.pdf"
         ],
-        "sent_at": "2026-09-05T10:13:32.444268+03:00"
+        "sent_at": "2026-09-05T11:45:30.645482+03:00"
       }
     },
     "gedik": {
