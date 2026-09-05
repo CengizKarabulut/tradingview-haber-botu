@@ -290,6 +290,7 @@
         "cnbce:https://www.cnbce.com/haberler/agustosta-gidada-100-bin-denetim-1865-milyon-lira-ceza-h36581",
         "cnbce:https://www.cnbce.com/haberler/epdk-ar-ge-kurallarini-degistirdi-patent-basina-15-milyon-lira-h36579",
         "cnbce:https://www.cnbce.com/haberler/atama-ve-gorevden-alma-kararlari-resmi-gazetede-h36574",
+        "cnbce:https://www.cnbce.com/altin/altin-rezervlerinde-buyuk-rotasyon-ulkeler-dunyanin-en-buyuk-deposundan-cekiliyor-h36547",
         "cnbce:https://www.cnbce.com/teknoloji/dijital-platformlara-yeni-vergi-yukumlulugu-ilan-ve-satis-bilgileri-bildirilecek-internetten-satis-ve-kiralamada-yeni-donem-h36572",
         "cnbce:https://www.cnbce.com/dunya/schengene-giriste-dengeler-degisiyor-kritik-tarih-yaklasti-schengende-yeni-donem-seyahat-edecekler-bu-tarihe-dikkat-h36568",
         "cnbce:https://www.cnbce.com/haberler/abdden-iran-yaptirimi-turkiyede-faaliyet-gosteren-uc-kurulus-listeye-alindi-h36559",
@@ -338,8 +339,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/nomura-rekor-karlara-ragmen-japon-hisseleri-risk-istahszlgyla-kars-karsya-4056267",
+      "last_seen_key": "investing:https://tr.investing.com/news/cryptocurrency-news/eos-14-orannda-yukseldi-4056270",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/cryptocurrency-news/eos-14-orannda-yukseldi-4056270",
+        "investing:https://tr.investing.com/news/stock-market-news/ubs-kuresel-satsn-ardndan-35-yllk-tahvillerde-daha-iyi-getiri-goruyor-4056269",
         "investing:https://tr.investing.com/news/stock-market-news/nomura-rekor-karlara-ragmen-japon-hisseleri-risk-istahszlgyla-kars-karsya-4056267",
         "investing:https://tr.investing.com/news/stock-market-news/abd-artan-talebi-karslayacak-kadar-hzl-enerji-uretimi-yapamayabilir-4056264",
         "investing:https://tr.investing.com/news/stock-market-news/foxconn-yapay-zeka-talebi-guclu-kaldkca-3-ceyrekte-piyasa-beklentilerini-asmay-bekliyor-4056263",
@@ -348,8 +351,6 @@
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-tmpoldeki-48lik-dususu-bes-ay-onceden-isaretledi-93CH-4056258",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-hanmi-financialn-65lik-kazancn-nasl-tespit-etti-93CH-4056257",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-cavay-uyard-93CH-4056256",
-        "investing:https://tr.investing.com/news/stock-market-news/tahvil-getirilerindeki-yukselis-hisseler-icin-ne-zaman-sorun-olur-4056255",
-        "investing:https://tr.investing.com/news/stock-market-news/goldman-asyapasifik-hisse-hedefini-teknoloji-kazanclaryla-yukseltti-93CH-4056253",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -370,6 +371,8 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/stock-market-news/tahvil-getirilerindeki-yukselis-hisseler-icin-ne-zaman-sorun-olur-4056255",
+        "investing:https://tr.investing.com/news/stock-market-news/goldman-asyapasifik-hisse-hedefini-teknoloji-kazanclaryla-yukseltti-93CH-4056253",
         "investing:https://tr.investing.com/news/cryptocurrency-news/bitcoin-guclu-abd-istihdam-verisiyle-80000-dolarn-altna-dustu-4056248",
         "investing:https://tr.investing.com/news/economy-news/guney-kore-ihracat-yllk-rekoru-ast-yapay-zeka-cip-patlamas-sevkiyatlar-artrd-4056246",
         "investing:https://tr.investing.com/news/stock-market-news/barclays-bu-sektorde-yllk-36-trilyon-dolarlk-frsat-goruyor-4056243",
@@ -611,6 +614,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "eos 14 oran nda yukseldi",
+      "link": "https://tr.investing.com/news/cryptocurrency-news/eos-14-orannda-yukseldi-4056270"
+    },
+    {
+      "source": "investing",
+      "text": "ubs kuresel sat s n ard ndan 3 5 y ll k tahvillerde daha iyi getiri goruyor",
+      "link": "https://tr.investing.com/news/stock-market-news/ubs-kuresel-satsn-ardndan-35-yllk-tahvillerde-daha-iyi-getiri-goruyor-4056269"
+    },
     {
       "source": "ntvpara",
       "text": "sahibinden letgo dolap internet sat slar n tumune inceleme geliyor internet sosyal medya uzerinden gerceklestirilen al m sat m kiralama ilan reklam islemlerin tumu vergi denetimi kapsam na al nd sat s isini ticarete donusturenler vergi odeyecek",
