@@ -340,8 +340,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/forex-news/japon-yenindeki-son-toparlanma-gercek-mi-4056278",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/alman-roketi-yorungeye-ulast-avrupann-uydu-frlatma-hedefi-gerceklesti-4056280",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/alman-roketi-yorungeye-ulast-avrupann-uydu-frlatma-hedefi-gerceklesti-4056280",
         "investing:https://tr.investing.com/news/forex-news/japon-yenindeki-son-toparlanma-gercek-mi-4056278",
         "investing:https://tr.investing.com/news/stock-market-news/ttf-gaz-hurmuz-ve-ks-riskleri-ile-adil-fiyatlanyor-mu-4056276",
         "investing:https://tr.investing.com/news/stock-market-news/ubs-emtialar-cesitlendirme-saglayabilir-4056273",
@@ -351,7 +352,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/abd-artan-talebi-karslayacak-kadar-hzl-enerji-uretimi-yapamayabilir-4056264",
         "investing:https://tr.investing.com/news/stock-market-news/foxconn-yapay-zeka-talebi-guclu-kaldkca-3-ceyrekte-piyasa-beklentilerini-asmay-bekliyor-4056263",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-otel-hissesinde-58lik-kazanc-frsat-yakalad-93CH-4056260",
-        "investing:https://tr.investing.com/news/stock-market-news/citi-fedin-faiz-indirimini-haziran-2027ye-erteledi-4056261",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -372,6 +372,7 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/stock-market-news/citi-fedin-faiz-indirimini-haziran-2027ye-erteledi-4056261",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-tmpoldeki-48lik-dususu-bes-ay-onceden-isaretledi-93CH-4056258",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-hanmi-financialn-65lik-kazancn-nasl-tespit-etti-93CH-4056257",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-cavay-uyard-93CH-4056256",
@@ -621,6 +622,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "alman roketi yorungeye ulast avrupa n n uydu f rlatma hedefi gerceklesti",
+      "link": "https://tr.investing.com/news/economy-news/alman-roketi-yorungeye-ulast-avrupann-uydu-frlatma-hedefi-gerceklesti-4056280"
+    },
     {
       "source": "investing",
       "text": "japon yenindeki toparlanma gercek",
