@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1659260",
+      "last_seen_key": "kap:1659264",
       "seen_keys": [
+        "kap:1659264",
+        "kap:1659263",
         "kap:1659260",
         "kap:1659259",
         "kap:1659252",
@@ -303,6 +305,7 @@
         "cnbce:https://www.cnbce.com/borsa/goldman-sachstan-turk-bankalar-icin-dikkat-ceken-mesaj-hisse-hisse-degerlendirdiler-h36432",
         "cnbce:https://www.cnbce.com/borsa/trabzonspor-son-gunde-bombayi-patlatti-forvet-transferi-kapa-duyuruldu-h36418",
         "cnbce:https://www.cnbce.com/borsa/yabancilarin-islemlerine-spk-freni-yeni-kurallar-yururlukte-h36407",
+        "cnbce:https://www.cnbce.com/haberler/anak-krakatau-patladi-150-bin-yolcu-mahsur-kaldi-712-ucus-iptal-edildi-h36616",
         "cnbce:https://www.cnbce.com/haberler/irandan-abdye-sert-mesaj-oyunun-kurallari-degisti-h36615",
         "cnbce:https://www.cnbce.com/haberler/ito-tim-ve-deikten-yeni-ovp-yorumu-finansman-ve-ihracat-vurgusu-h36613",
         "cnbce:https://www.cnbce.com/haberler/oecd-turkiyenin-gelecegin-becerileri-odakli-yeni-egitim-projelerini-destekleyecek-h36612",
@@ -310,9 +313,9 @@
         "cnbce:https://www.cnbce.com/haberler/tcmb-baskani-karahan-acikladi-onceki-ovpdeki-hedef-sapmasinin-2-temel-sebebi-h36610",
         "cnbce:https://www.cnbce.com/haberler/bakan-simsekten-ovp-vurgusu-kamuda-tasarrufta-bir-basari-var-h36609",
         "cnbce:https://www.cnbce.com/haberler/orta-vadeli-program-aciklandi-enflasyon-tahmini-belli-oldu-h36607",
-        "cnbce:https://www.cnbce.com/haberler/abdde-istihdam-neden-bir-anda-sicradi-yukselisin-ardinda-2-sektor-var-h36605",
         "cnbce:https://www.cnbce.com/haberler/abdden-iran-yaptirimi-turkiyede-faaliyet-gosteren-uc-kurulus-listeye-alindi-h36559",
         "cnbce:https://www.cnbce.com/dunya/schengene-giriste-dengeler-degisiyor-kritik-tarih-yaklasti-schengende-yeni-donem-seyahat-edecekler-bu-tarihe-dikkat-h36568",
+        "cnbce:https://www.cnbce.com/haberler/abdde-istihdam-neden-bir-anda-sicradi-yukselisin-ardinda-2-sektor-var-h36605",
         "cnbce:https://www.cnbce.com/haberler/ozellestirme-idaresi-duyurdu-4-ilde-7-tasinmaz-satista-h36604",
         "cnbce:https://www.cnbce.com/haberler/epdkdan-elektrik-ve-petrole-34-lisans-h36603",
         "cnbce:https://www.cnbce.com/haberler/fed-bagimsizligi-sinavda-trump-yonetiminin-faiz-karari-oncesi-yogun-baski-h36599",
@@ -706,6 +709,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "kap",
+      "text": "genil sirket genel bilgi formu sirket gen ilac saglik urunleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659264"
+    },
+    {
+      "source": "kap",
+      "text": "genil finansal duran varl k edinimi gen in neo auvra daki hissedarl k oran n n artmas sirket gen ilac saglik urunleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1659263"
+    },
     {
       "source": "forinvest",
       "text": "trump a ara secim oncesi anrketlerden kotu haber demokratlar fark act abd demokrat parti ye yak nl k gosteren secmenlerin oran artarken yeni gallup verileri kas m ay nda yap lacak ara secimler oncesinde baskan donald trump cumhuriyetciler ac s ndan olumsuz t",
