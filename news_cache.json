@@ -224,8 +224,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/filenin-sultanlari-avrupa-sampiyonu-3787440",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-07092026-3787441",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-07092026-3787441",
         "bloomberght:https://www.bloomberght.com/filenin-sultanlari-avrupa-sampiyonu-3787440",
         "bloomberght:https://www.bloomberght.com/almanya-da-eyalet-meclisi-secimini-asiri-sagcialmanyaicin-alternatif-partisi-kazandi-3787439",
         "bloomberght:https://www.bloomberght.com/dijital-teminat-cagi-evimin-temeli-bitcoin-3787438",
@@ -296,7 +297,6 @@
         "cnbce:https://www.cnbce.com/borsa/borsa-gunu-dususle-kapadi-3-eylul-2026-h36427",
         "cnbce:https://www.cnbce.com/borsa/goldman-sachstan-turk-bankalar-icin-dikkat-ceken-mesaj-hisse-hisse-degerlendirdiler-h36432",
         "cnbce:https://www.cnbce.com/borsa/trabzonspor-son-gunde-bombayi-patlatti-forvet-transferi-kapa-duyuruldu-h36418",
-        "cnbce:https://www.cnbce.com/borsa/yabancilarin-islemlerine-spk-freni-yeni-kurallar-yururlukte-h36407",
         "cnbce:https://www.cnbce.com/dunya/spider-man-gisede-tarih-yaziyor-900-milyon-dolara-en-hizli-ulasan-film-olacak-h36622",
         "cnbce:https://www.cnbce.com/haberler/dev-tunelde-sona-gelindi-konya-antalya-yolculugu-20-dakika-kisaliyor-h36619",
         "cnbce:https://www.cnbce.com/haberler/anak-krakatau-patladi-150-bin-yolcu-mahsur-kaldi-712-ucus-iptal-edildi-h36616",
@@ -323,6 +323,7 @@
         "cnbce:https://www.cnbce.com/teknoloji/dijital-platformlara-yeni-vergi-yukumlulugu-ilan-ve-satis-bilgileri-bildirilecek-internetten-satis-ve-kiralamada-yeni-donem-h36572",
         "cnbce:https://www.cnbce.com/dunya/schengene-giriste-dengeler-degisiyor-kritik-tarih-yaklasti-schengende-yeni-donem-seyahat-edecekler-bu-tarihe-dikkat-h36568",
         "cnbce:https://www.cnbce.com/haberler/abdden-iran-yaptirimi-turkiyede-faaliyet-gosteren-uc-kurulus-listeye-alindi-h36559",
+        "cnbce:https://www.cnbce.com/borsa/yabancilarin-islemlerine-spk-freni-yeni-kurallar-yururlukte-h36407",
         "cnbce:https://www.cnbce.com/dunya/irandan-hurmuzde-govde-gosterisi-resmen-meydan-okudular-h36600",
         "cnbce:https://www.cnbce.com/haberler/tcmb-enflasyonun-ana-egilimi-agustosta-sinirli-artti-h36558",
         "cnbce:https://www.cnbce.com/haberler/beyaz-saraydan-fede-cifte-baski-hassett-ve-trumptan-art-arda-cagrilar-h36554",
@@ -723,6 +724,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 07 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-07092026-3787441"
+    },
     {
       "source": "investing",
       "text": "eli lilly nin 100 milyar dolarl k incretin f rsat daha fazla yukselis gelecek",
