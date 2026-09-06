@@ -194,8 +194,9 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6a9cf8b695016b5817e567d4/PICNEWS/tr/erakci-fidan-ve-suudi-mevkidasiyla-hurmuz-u-gorustu-06-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6a9cfaa024008d7d4372d6a7/PICNEWS/tr/trump-in-baris-ekibi-moskova-da-putin-le-gorustu-sirada-kiev-var-06-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6a9cfaa024008d7d4372d6a7/PICNEWS/tr/trump-in-baris-ekibi-moskova-da-putin-le-gorustu-sirada-kiev-var-06-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6a9cf8b695016b5817e567d4/PICNEWS/tr/erakci-fidan-ve-suudi-mevkidasiyla-hurmuz-u-gorustu-06-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6a9cf77a24008d7d4372d6a4/PICNEWS/tr/abd-iran-gerilimi-denize-sicradi-savas-gemileri-ve-petrol-tankerleri-karsilikli-hedef-oldu-06-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6a9cf35095016b5817e567ce/PICNEWS/tr/resmi-gazete-de-bugun-6-eylul-06-09-26/",
@@ -342,6 +343,7 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-gelecek-hafta-abdde-aciklanacak-enflasyon-ve-ecbnin-faiz-kararina-odaklandi/4048002",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/oibden-ozellestirme-kapsam-ve-programina-alinan-otoyol-ve-koprulere-iliskin-aciklama/4048052",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/epdk-elektrik-ve-petrol-piyasalarinda-34-lisans-verdi/4048526",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-gunluk-ucus-sayisinda-avrupanin-en-yogun-havalimani/4048776",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-2025te-sozlesmesi-sona-eren-kiralik-araclarda-yeniden-kiralamayi-yuzde-21-dusurduk/4048703",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-enflasyon-oraninin-yil-sonunda-yuzde-28-4-olmasini-bekliyoruz/4048608",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-ab-ulkelerine-ihracati-ocak-agustos-doneminde-72-milyar-dolara-yaklasti/4048605",
@@ -457,8 +459,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-simsek-kamuda-tasarrufta-bir-basari-var-956036.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ab-ulkelerine-ihracati-718-milyar-dolara-ulasti-956045.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ab-ulkelerine-ihracati-718-milyar-dolara-ulasti-956045.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-simsek-kamuda-tasarrufta-bir-basari-var-956036.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ekonomide-3-yillik-yol-haritasi-bugun-aciklanacak-956020.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/ekonomide-3-yillik-yol-haritasi-yarin-kamuoyuyla-paylasilacak-956006.html",
@@ -666,6 +669,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "turkiye nin ab ulkelerine ihracat 71 8 milyar dolara ulast turkiye nin avrupa birligi ab ulkelerine ihracat ocak agustos doneminde gecen y l n ayn donemine gore yuzde 3 6 artarak 71 milyar 788 5 milyon dolara ulast",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-ab-ulkelerine-ihracati-718-milyar-dolara-ulasti-956045.html"
+    },
+    {
+      "source": "forinvest",
+      "text": "trump n bar s ekibi moskova putin le gorustu s rada kiev var abd baskan donald trump n rusya ukrayna savas n sona erdirmek amac yla gorevlendirdigi steve witkoff jared kushner moskova rusya devlet baskan vladimir putin araya geldi kremlin",
+      "link": "https://www.foreks.com/haber/detay/6a9cfaa024008d7d4372d6a7/PICNEWS/tr/trump-in-baris-ekibi-moskova-da-putin-le-gorustu-sirada-kiev-var-06-09-26"
+    },
     {
       "source": "ntvpara",
       "text": "konya antalya aras alacabel tuneli 20 k salacak ulast rma altyap bakan abdulkadir uraloglu projenin tamamlanmas yla mevcut yola gore guzergah 7 kilometre konya antalya aras ndaki seyahat suresini 20 k saltacag z dedi",
