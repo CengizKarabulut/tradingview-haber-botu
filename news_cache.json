@@ -335,14 +335,14 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/emtia-piyasalarinda-fed-beklentileri-ve-jeopolitik-riskler-etkili-oldu/4048593",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/epdk-elektrik-ve-petrol-piyasalarinda-34-lisans-verdi/4048526",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/epdk-elektrik-ve-petrol-piyasalarinda-34-lisans-verdi/4048526",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/emtia-piyasalarinda-fed-beklentileri-ve-jeopolitik-riskler-etkili-oldu/4048593",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/almanyaya-ihracat-8-ayda-13-6-milyar-dolara-ulasti/4048077",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ihracatcilarin-finansman-maliyetini-dusurmek-icin-reeskont-kredilerinde-bsmv-istisnasi-genisletildi/4048012",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-gelecek-hafta-abdde-aciklanacak-enflasyon-ve-ecbnin-faiz-kararina-odaklandi/4048002",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/almanyaya-ihracat-8-ayda-13-6-milyar-dolara-ulasti/4048077",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/oibden-ozellestirme-kapsam-ve-programina-alinan-otoyol-ve-koprulere-iliskin-aciklama/4048052",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/epdk-elektrik-ve-petrol-piyasalarinda-34-lisans-verdi/4048526",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-gunluk-ucus-sayisinda-avrupanin-en-yogun-havalimani/4048776",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-2025te-sozlesmesi-sona-eren-kiralik-araclarda-yeniden-kiralamayi-yuzde-21-dusurduk/4048703",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-enflasyon-oraninin-yil-sonunda-yuzde-28-4-olmasini-bekliyoruz/4048608",
@@ -357,8 +357,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/avrupada-getiri-ayrsmasn-ne-tetikliyor-4056322",
+      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-argan-tespit-etti-93CH-4056324",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-argan-tespit-etti-93CH-4056324",
         "investing:https://tr.investing.com/news/stock-market-news/avrupada-getiri-ayrsmasn-ne-tetikliyor-4056322",
         "investing:https://tr.investing.com/news/economy-news/turkiyenin-gsyih-buyumesi-2029da-yuzde-5e-ulasacak-93CH-4056320",
         "investing:https://tr.investing.com/news/economy-news/turkiyede-enflasyonun-2026da-yuzde-284e-dusmesi-bekleniyor-93CH-4056319",
@@ -368,7 +369,6 @@
         "investing:https://tr.investing.com/news/economy-news/opec-ekim-ay-icin-petrol-uretim-politikasn-sabit-tutacak-4056312",
         "investing:https://tr.investing.com/news/economy-news/almanya-havaliman-saldrs-sonras-siber-ve-drone-savunmasn-guclendiriyor-4056309",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-5-buyuk-yapay-zeka-hamlesi-4056308",
-        "investing:https://tr.investing.com/news/stock-market-news/orta-asyadan-daha-fazla-devlet-sirketi-hong-kongda-halka-arz-planlyor-4056307",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -389,6 +389,7 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/stock-market-news/orta-asyadan-daha-fazla-devlet-sirketi-hong-kongda-halka-arz-planlyor-4056307",
         "investing:https://tr.investing.com/news/economy-news/citiden-3-aylk-uranyum-gorunumu-iste-fiyat-hedefleri-4056304",
         "investing:https://tr.investing.com/news/economy-news/abdiran-tanker-savas-trmanyor-hurmuzde-kesinti-derinlesiyor-4056301",
         "investing:https://tr.investing.com/news/stock-market-news/sec-issten-musteri-oy-verilerini-teslim-etmesini-istiyor-4056299",
@@ -669,6 +670,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "investingpro nun gercege uygun degeri argan tespit etti",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-argan-tespit-etti-93CH-4056324"
+    },
     {
       "source": "trthaber",
       "text": "turkiye nin ab ulkelerine ihracat 71 8 milyar dolara ulast turkiye nin avrupa birligi ab ulkelerine ihracat ocak agustos doneminde gecen y l n ayn donemine gore yuzde 3 6 artarak 71 milyar 788 5 milyon dolara ulast",
