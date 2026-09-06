@@ -573,8 +573,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:d5beef343d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:0ec5139a3d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:0ec5139a3d9e8:0",
+        "tradingview:fxstreet:ab1bf24efd9e8:0",
         "tradingview:fxstreet:d5beef343d9e8:0",
         "tradingview:beincrypto:862e9a00dd9e8:0",
         "tradingview:beincrypto:c930ac1a7d9e8:0",
@@ -729,6 +731,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "opec ekim ay petrol uretim politikas n degistirmemeyi kabul etti",
+      "link": "https://tr.tradingview.com/news/fxstreet:0ec5139a3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd nfp verilerinin guclu gelmesine ragmen avustralya dolar 0 7200 uzerinde hafif yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ab1bf24efd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "iran abd tanker sald r lar yla kars kars ya gelirken tahran yasak bolge ilan edecek",
