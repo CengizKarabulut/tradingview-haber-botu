@@ -539,15 +539,15 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/troyun-kullanim-yayginligini-artiracak-calismalar-yurutulecek/4049348",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yeni-ovp-ile-dezenflasyon-surecinin-kesintisiz-sekilde-devami-hedefleniyor/4049349",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yeni-ovp-ile-dezenflasyon-surecinin-kesintisiz-sekilde-devami-hedefleniyor/4049349",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/troyun-kullanim-yayginligini-artiracak-calismalar-yurutulecek/4049348",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/calisma-hayatinda-istihdami-artiracak-yeni-formuller-devreye-alinacak/4049323",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-toryum-rezervlerini-nukleer-teknolojide-kullanmak-icin-danimarkali-sirketle-isbirligine-gitti/4049315",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kobilere-75-milyon-liralik-finansman-destegi/4049381",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/hurmuz-bogazinda-lng-trafigindeki-dusus-petrolu-geride-birakti/4049331",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-toryum-rezervlerini-nukleer-teknolojide-kullanmak-icin-danimarkali-sirketle-isbirligine-gitti/4049315",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-ile-e-ticaret-platformlari-arasinda-kadin-kooperatiflerini-guclendirecek-isbirligi/4049240",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yeni-ovp-ile-dezenflasyon-surecinin-kesintisiz-sekilde-devami-hedefleniyor/4049349",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmazdan-orta-vadeli-programa-iliskin-paylasim/4050155",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4049986",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/otomotiv-yan-sanayisi-sektorundeki-39-tesebbus-ve-tesebbus-birligi-hakkinda-rekabet-sorusturmasi-acildi/4049766",
@@ -711,9 +711,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:b254f07bdd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:9b101a72ad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:9b101a72ad9e8:0",
+        "tradingview:fxstreet:e0319611cd9e8:0",
+        "tradingview:fxstreet:1cf4c65a6d9e8:0",
+        "tradingview:fxstreet:b1824b5ebd9e8:0",
         "tradingview:fxstreet:b254f07bdd9e8:0",
+        "tradingview:beincrypto:c39a6fe05d9e8:0",
         "tradingview:beincrypto:fb012c331d9e8:0",
         "tradingview:fxstreet:3553bbf58d9e8:0",
         "tradingview:fxstreet:7c566a784d9e8:0",
@@ -826,6 +831,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n guclu abd istihdam verilerinin fed faiz art r m olas l g n yukseltmesiyle 4 400 dolar yak nlar na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:9b101a72ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "citi anketi peso 18 00 in alt nda kal rken banxico nun degismeden kalacag n ongoruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e0319611cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tayland baht thb kazanclar olumsuz etkenlerle kars kars ya ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:1cf4c65a6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar fed testi yaklas rken zay f islem hacimli yukselisten faydalan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b1824b5ebd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "cin yuan hong kong un offshore gecit rolu genisliyor commerzbank",
