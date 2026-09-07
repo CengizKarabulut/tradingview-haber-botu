@@ -376,8 +376,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/ingenia-warburg-pincusun-14-milyar-dolarlk-teklifini-reddetti-4056375",
+      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/altn-4400-dolar-civarnda-guclu-istihdam-ve-iran-gerilimi-fed-faiz-artrm-beklentilerini-yukseltti-4056379",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/commodities-news/altn-4400-dolar-civarnda-guclu-istihdam-ve-iran-gerilimi-fed-faiz-artrm-beklentilerini-yukseltti-4056379",
+        "investing:https://tr.investing.com/news/stock-market-news/nvidiann-huang-openain-gpt6-astra-lansman-sonras-agi-geldi-4056377",
         "investing:https://tr.investing.com/news/stock-market-news/ingenia-warburg-pincusun-14-milyar-dolarlk-teklifini-reddetti-4056375",
         "investing:https://tr.investing.com/news/stock-market-news/fransa-yeni-siyasi-donemde-nasl-pozisyon-alnmal-4056373",
         "investing:https://tr.investing.com/news/stock-market-news/eli-lillynin-100-milyar-dolarlk-incretin-frsat-daha-fazla-yukselis-gelecek-mi-4056371",
@@ -386,8 +388,6 @@
         "investing:https://tr.investing.com/news/economy-news/trump-yonetimi-petrol-uretimini-artrmaya-odaklanyor-93CH-4056362",
         "investing:https://tr.investing.com/news/stock-market-news/keybanc-applen-iphone-18-lansman-hisseler-icin-olumsuz-olabilir-4056361",
         "investing:https://tr.investing.com/news/economy-news/trump-yonetimi-yuksek-mahkemeden-posta-oy-pusulas-kstlamalarna-izin-vermesini-istedi-93CH-4056359",
-        "investing:https://tr.investing.com/news/stock-market-news/lululemonun-kurucusu-chip-wilson-esinden-bosanyor-4056358",
-        "investing:https://tr.investing.com/news/analyst-ratings/hsbc-uygulama-endiseleriyle-carlsberg-hisse-hedefini-dusurdu-93CH-4056356",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -408,6 +408,8 @@
         "investing:https://tr.investing.com/analysis/mega-banka-birlesmesi-ve-emlak-katlm-halka-arz-bisti-nasl-etkiler-200505853",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1dkda-hisse-tarama-200505824",
         "investing:https://tr.investing.com/analysis/sehirler-borsada-islem-gorseydi-ne-olurdu-200505822",
+        "investing:https://tr.investing.com/news/stock-market-news/lululemonun-kurucusu-chip-wilson-esinden-bosanyor-4056358",
+        "investing:https://tr.investing.com/news/analyst-ratings/hsbc-uygulama-endiseleriyle-carlsberg-hisse-hedefini-dusurdu-93CH-4056356",
         "investing:https://tr.investing.com/news/world-news/abd-temsilcileri-moskova-gorusmelerinin-ardndan-zelenskiy-ile-kyivde-bulustu-93CH-4056355",
         "investing:https://tr.investing.com/news/analyst-ratings/bnp-paribas-exane-samsarann-hisse-hedefini-yukseltti-93CH-4056354",
         "investing:https://tr.investing.com/news/economy-news/warsh-golge-oran-nedir-4056341",
@@ -574,8 +576,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:b985554fdd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:09b06a66dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:09b06a66dd9e8:0",
+        "tradingview:fxstreet:e847c3783d9e8:0",
+        "tradingview:fxstreet:130905d2bd9e8:0",
+        "tradingview:fxstreet:acf31e57ed9e8:0",
         "tradingview:fxstreet:b985554fdd9e8:0",
         "tradingview:fxstreet:0ec5139a3d9e8:0",
         "tradingview:fxstreet:ab1bf24efd9e8:0",
@@ -733,6 +739,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "wti ham petrol fiyat t rmanan abd iran cat smas uzerine 90 00 civar na yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:09b06a66dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni s k lasmac boj fed beklentilerinin cat smas yla usd kars s nda agustos zirveleri yak nlar nda konsolide oluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e847c3783d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini fed faiz art r m olas l klar artmas na ragmen abd dolar zay flarken deger kazan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:130905d2bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro guclu abd istihdam verilerine ragmen 1 1600 seviyesinin uzerinde kazanclar n koruyor yat r mc lar n gozu amb faiz karar nda",
+      "link": "https://tr.tradingview.com/news/fxstreet:acf31e57ed9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "alt n 4 400 dolar civar nda guclu istihdam iran gerilimi fed faiz art r m beklentilerini yukseltti",
+      "link": "https://tr.investing.com/news/commodities-news/altn-4400-dolar-civarnda-guclu-istihdam-ve-iran-gerilimi-fed-faiz-artrm-beklentilerini-yukseltti-4056379"
+    },
+    {
+      "source": "investing",
+      "text": "nvidia n n huang openai n gpt 6 astra lansman sonras agi geldi",
+      "link": "https://tr.investing.com/news/stock-market-news/nvidiann-huang-openain-gpt6-astra-lansman-sonras-agi-geldi-4056377"
+    },
     {
       "source": "tradingview",
       "text": "cin yavas buyume endiseleri aras nda finans sektorune 54 milyar dolar tesvik sagl yor",
