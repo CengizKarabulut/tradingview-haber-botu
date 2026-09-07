@@ -487,16 +487,18 @@
         "cnbce:https://www.cnbce.com/borsa/borsada-o-hisseye-tedbir-aciga-satis-ve-kredili-islem-yasagi-geldi-borsa-istanbuldan-verus-paylarina-tedbir-karari-h36560",
         "cnbce:https://www.cnbce.com/borsa/borsa-haftayi-yukselisle-kapadi-h36507",
         "cnbce:https://www.cnbce.com/borsa/perakende-devleri-uzlasti-migros-ve-sokun-odeyecegi-tutar-belli-oldu-h36517",
+        "cnbce:https://www.cnbce.com/dunya/trumpin-yeni-haritasi-ortaligi-karistirdi-meksikadan-sert-tepki-trumptan-olay-yaratacak-harita-kanada-ve-meksikayi-abd-topragi-gosterdi-h36721",
+        "cnbce:https://www.cnbce.com/haberler/resmi-gazete-yayimlandi-cumhurbaskani-erdoganin-imzasiyla-yeni-atama-kararlari-yururluge-girdi-h36720",
         "cnbce:https://www.cnbce.com/haberler/ciftciye-yeni-destek-paketi-odemelerde-yuzde-100e-varan-artis-h36719",
         "cnbce:https://www.cnbce.com/dunya/eyfel-kulesinde-tepki-ceken-uygulama-calisanlar-greve-gitti-eyfel-kulesinde-kadin-personel-krizi-belediye-sorusturma-baslatiyor-h36718",
         "cnbce:https://www.cnbce.com/dunya/trump-istedi-vali-karsi-cikti-new-mexiconun-adi-degisecek-mi-h36714",
         "cnbce:https://www.cnbce.com/haberler/cumhurbaskani-erdogan-kiralik-konut-basvurularini-14-eylulde-almaya-basliyoruz-h36703",
         "cnbce:https://www.cnbce.com/haberler/yeni-ovpde-istihdam-plani-kres-uzaktan-calisma-ve-esnek-mesai-desteklenecek-h36697",
         "cnbce:https://www.cnbce.com/haberler/ev-internetinde-yeni-donem-turk-telekomdan-1000-mbps-ve-yapay-zeka-cozumu-h36696",
-        "cnbce:https://www.cnbce.com/haberler/japon-yeni-7-ayin-zirvesine-cikti-carry-trade-pozisyonlari-tehlikede-h36695",
-        "cnbce:https://www.cnbce.com/haberler/merkez-bankasi-rezervlerinin-geriledigi-hesaplandi-h36694",
         "cnbce:https://www.cnbce.com/sirket-haberleri/iphone-18-pro-ve-pro-maxin-goruntuleri-sizdi-iddiasi-iste-yeni-renk-secenekleri-h36673",
         "cnbce:https://www.cnbce.com/haberler/orta-vadeli-program-aciklandi-enflasyon-tahmini-belli-oldu-h36607",
+        "cnbce:https://www.cnbce.com/haberler/japon-yeni-7-ayin-zirvesine-cikti-carry-trade-pozisyonlari-tehlikede-h36695",
+        "cnbce:https://www.cnbce.com/haberler/merkez-bankasi-rezervlerinin-geriledigi-hesaplandi-h36694",
         "cnbce:https://www.cnbce.com/haberler/rekabet-kurumu-otomotiv-yan-sanayi-icin-dugmeye-basti-37-sirkete-sorusturma-h36692",
         "cnbce:https://www.cnbce.com/haberler/almanyada-afd-depremi-ekonomiyi-de-vurabilir-tarihi-zafer-reformlari-riske-atiyor-h36683",
         "cnbce:https://www.cnbce.com/haberler/araci-kurum-ve-bankalardan-ovp-degerlendirmesi-oncekilere-kiyasla-ne-degisti-h36680",
@@ -709,10 +711,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:7c566a784d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:b254f07bdd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:b254f07bdd9e8:0",
+        "tradingview:beincrypto:fb012c331d9e8:0",
+        "tradingview:fxstreet:3553bbf58d9e8:0",
         "tradingview:fxstreet:7c566a784d9e8:0",
         "tradingview:fxstreet:a0d92775ad9e8:0",
+        "tradingview:beincrypto:603caa68bd9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:7283545d0d9e8:0",
         "tradingview:fxstreet:14b6404b5d9e8:0",
@@ -820,6 +826,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cin yuan hong kong un offshore gecit rolu genisliyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:b254f07bdd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin gecen haftaki bridge sald r s nda cal nan kripto paran n 85 i geri dondu",
+      "link": "https://tr.tradingview.com/news/beincrypto:fb012c331d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar petrol rallisinin istihdam karamsarl g n dengelemesiyle yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:3553bbf58d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "gece japon yeni hakk nda gelecek haftadan daha fazlas n anlatacak",
