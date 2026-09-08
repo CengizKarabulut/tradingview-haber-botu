@@ -2,9 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1660530",
+      "last_seen_key": "kap:1660531",
       "seen_keys": [
-        "kap:1660530",
+        "kap:1660531",
         "kap:1660529",
         "kap:1660528",
         "kap:1660527",
@@ -95,6 +95,7 @@
         "kap:1660241",
         "kap:1660235",
         "kap:1660230",
+        "kap:1660530",
         "kap:1660228",
         "kap:1660220",
         "kap:1660219",
@@ -607,8 +608,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-tuketici-kredileri-beklentileri-asti-3787659",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-09092026-3787661",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-09092026-3787661",
+        "bloomberght:https://www.bloomberght.com/tcmb-trpos-un-faaliyet-iznini-iptal-etti-3787660",
         "bloomberght:https://www.bloomberght.com/abd-de-tuketici-kredileri-beklentileri-asti-3787659",
         "bloomberght:https://www.bloomberght.com/spk-dan-msci-elestirilerini-ortadan-kaldiracak-duzenleme-3787658",
         "bloomberght:https://www.bloomberght.com/erakci-den-abd-nin-havacilik-yaptirimlarina-kinayeli-tepki-3787652",
@@ -1054,8 +1057,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:3446ff503d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:4de368211d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:4de368211d9e8:0",
         "tradingview:fxstreet:3446ff503d9e8:0",
         "tradingview:cointelegraph:a6c514b78d9e8:0",
         "tradingview:beincrypto:fda6d6d5ed9e8:0",
@@ -1166,6 +1170,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "new york kasabas kripto madenciligi yapay zeka veri merkezi yasag n degerlendiriyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:4de368211d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 09 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-09092026-3787661"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tcmb trpos un faaliyet iznini iptal etti tcmb trpos odeme kurulusu a s nin faaliyet izninin iptaline karar verdi",
+      "link": "https://www.bloomberght.com/tcmb-trpos-un-faaliyet-iznini-iptal-etti-3787660"
+    },
+    {
+      "source": "kap",
+      "text": "umpas genel kurul islemlerine iliskin bildirim 2025 y l genel kurul toplant cagr s sirket umpas holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1660531"
+    },
     {
       "source": "tradingview",
       "text": "sili chile s central bank interest rate decision 4 5 gorusu dahilinde gerceklesti",
