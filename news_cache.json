@@ -534,6 +534,8 @@
         "matriks:matriks:6727941:0",
         "matriks:matriks:6727939:0",
         "matriks:matriks:6727935:0",
+        "matriks:matriks:6727932:0",
+        "matriks:matriks:6727928:0",
         "matriks:matriks:6727927:0",
         "matriks:matriks:6727924:0",
         "matriks:matriks:6727920:0",
@@ -849,12 +851,10 @@
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turk-lirasi-mevduatin-payini-artirma-politikalari-surdurulecek/4050426",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/agustosta-en-fazla-aylik-reel-getiri-kulce-altinda-oldu/4050379",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-sivil-havacilik-filosu-846-ucaga-koltuk-kapasitesi-166-bine-ulasti/4050423",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abd-baskani-trump-kanada-urunlerinin-kamu-ihalelerinden-cikarilmasi-talimatini-verdi/4051511",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/japon-yeninin-degerlenmesi-kuresel-piyasalar-icin-risk-olabilir/4050805",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-sivil-havacilik-filosu-846-ucaga-koltuk-kapasitesi-166-bine-ulasti/4050423",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/sabiha-gokcen-havalimani-8-ayda-33-5-milyon-yolcu-agirladi/4050470",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-kurumdan-yarisi-bizden-kampanyasi-paylasimi/4050682",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/gayrimenkul-sektoru-yarisi-bizden-kampanyasinin-uzatilmasini-degerlendirdi/4050755",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/thyden-ingiltere-seferleri-icin-yolcularina-uyari/4051506",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/spk-fiili-dolasim-orani-ve-pay-sahipligine-iliskin-kararlarini-acikladi/4051494",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/thy-ocak-agustos-doneminde-64-milyon-yolcu-tasidi/4051448",
@@ -865,6 +865,8 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/fransa-ab-butcesi-icin-60-milyar-avroluk-yeni-vergi-geliri-istiyor/4051047",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aselsandan-polonyada-yeni-ihracat-sozlesmesi/4050950",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-08-eylul-2026/4050933",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-kurumdan-yarisi-bizden-kampanyasi-paylasimi/4050682",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/gayrimenkul-sektoru-yarisi-bizden-kampanyasinin-uzatilmasini-degerlendirdi/4050755",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/asya-altyapi-yatirim-bankasindan-turkiyedeki-teknoloji-yatirimina-75-milyon-dolarlik-finansman/4050503",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/almanyada-elektrik-uretiminde-yenilenebilir-enerjinin-payi-rekor-seviyeye-ulasti/4050895",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/almanyada-dogal-gaz-depolarinda-seviyenin-azalmasi-arz-guvenligini-tehdit-ediyor/4050858",
@@ -1086,8 +1088,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:dc924559ed9e8:0",
+      "last_seen_key": "tradingview:fxstreet:88805a1c1d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:88805a1c1d9e8:0",
+        "tradingview:fxstreet:d2f3bf86bd9e8:0",
+        "tradingview:fxstreet:7eeffd92dd9e8:0",
+        "tradingview:fxstreet:c9261804cd9e8:0",
+        "tradingview:fxstreet:f6f79ae12d9e8:0",
         "tradingview:fxstreet:dc924559ed9e8:0",
         "tradingview:fxstreet:12e592b69d9e8:0",
         "tradingview:fxstreet:e618009dfd9e8:0",
@@ -1143,6 +1150,8 @@
         "tradingview:matriks:6727941:0",
         "tradingview:matriks:6727939:0",
         "tradingview:matriks:6727935:0",
+        "tradingview:matriks:6727932:0",
+        "tradingview:matriks:6727928:0",
         "tradingview:matriks:6727927:0",
         "tradingview:matriks:6727924:0",
         "tradingview:matriks:6727920:0",
@@ -1206,6 +1215,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd baskan donald trump kanada otomobillerini sut urunlerini alkolu yasaklad",
+      "link": "https://tr.tradingview.com/news/fxstreet:88805a1c1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti ham petrol fiyat abd nin iran tankerlerine sald rmas yla yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:d2f3bf86bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7804 seviyesine k yasla 6 7769 olarak belirledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:7eeffd92dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini yat r mc lar n ingiltere gsyh s abd enflasyonunu izlemesiyle usd kars s nda 1 3550 civar nda sabit kald",
+      "link": "https://tr.tradingview.com/news/fxstreet:c9261804cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro 1 1600 un uzerinde kademeli olarak yukseliyor yat r mc lar amb faiz karar abd enflasyon verilerini bekliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f6f79ae12d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "abd abd gemilerine yonelik sald r lara yan t olarak iran petrol tankerlerini hedef al yor",
