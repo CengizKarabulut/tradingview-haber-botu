@@ -2,8 +2,19 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1661468",
+      "last_seen_key": "kap:1661491",
       "seen_keys": [
+        "kap:1661491",
+        "kap:1661485",
+        "kap:1661484",
+        "kap:1661482",
+        "kap:1661480",
+        "kap:1661479",
+        "kap:1661477",
+        "kap:1661476",
+        "kap:1661475",
+        "kap:1661474",
+        "kap:1661472",
         "kap:1661468",
         "kap:1661467",
         "kap:1661466",
@@ -180,62 +191,78 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6732434:0",
+      "last_seen_key": "matriks:matriks:6732857:0",
       "seen_keys": [
-        "matriks:matriks:6732434:0",
-        "matriks:matriks:6732421:0",
-        "matriks:matriks:6732420:0",
-        "matriks:matriks:6732406:0",
-        "matriks:matriks:6732400:0",
-        "matriks:matriks:6732394:0",
-        "matriks:matriks:6732355:0",
-        "matriks:matriks:6732312:0",
-        "matriks:matriks:6732272:0",
-        "matriks:matriks:6732193:0",
-        "matriks:matriks:6732188:0",
-        "matriks:matriks:6732125:0",
-        "matriks:matriks:6732123:0",
-        "matriks:matriks:6732120:0",
-        "matriks:matriks:6732119:0",
-        "matriks:matriks:6732114:0",
-        "matriks:matriks:6732105:0",
-        "matriks:matriks:6732095:0",
-        "matriks:matriks:6732077:0",
-        "matriks:matriks:6732065:0",
-        "matriks:matriks:6732064:0",
-        "matriks:matriks:6732008:0",
-        "matriks:matriks:6732003:0",
-        "matriks:matriks:6731984:0",
-        "matriks:matriks:6731964:0",
-        "matriks:matriks:6731956:0",
-        "matriks:matriks:6731954:0",
-        "matriks:matriks:6731953:0",
-        "matriks:matriks:6731951:0",
-        "matriks:matriks:6731942:0",
-        "matriks:matriks:6731921:0",
-        "matriks:matriks:6731917:0",
-        "matriks:matriks:6731916:0",
-        "matriks:matriks:6731909:0",
-        "matriks:matriks:6731908:0",
-        "matriks:matriks:6731905:0",
-        "matriks:matriks:6731906:0",
-        "matriks:matriks:6731893:0",
-        "matriks:matriks:6731892:0",
-        "matriks:matriks:6731888:0",
-        "matriks:matriks:6731879:0",
-        "matriks:matriks:6731877:0",
-        "matriks:matriks:6731874:0",
-        "matriks:matriks:6731873:0",
-        "matriks:matriks:6731867:0",
-        "matriks:matriks:6731853:0",
-        "matriks:matriks:6731851:0",
-        "matriks:matriks:6731849:0",
-        "matriks:matriks:6731843:0",
-        "matriks:matriks:6731841:0",
-        "matriks:matriks:6731834:0",
-        "matriks:matriks:6731833:0",
-        "matriks:matriks:6731827:0",
-        "matriks:matriks:6731815:0"
+        "matriks:matriks:6732857:0",
+        "matriks:matriks:6732855:0",
+        "matriks:matriks:6732853:0",
+        "matriks:matriks:6732852:0",
+        "matriks:matriks:6732851:0",
+        "matriks:matriks:6732850:0",
+        "matriks:matriks:6732849:0",
+        "matriks:matriks:6732848:0",
+        "matriks:matriks:6732847:0",
+        "matriks:matriks:6732845:0",
+        "matriks:matriks:6732844:0",
+        "matriks:matriks:6732842:0",
+        "matriks:matriks:6732841:0",
+        "matriks:matriks:6732840:0",
+        "matriks:matriks:6732836:0",
+        "matriks:matriks:6732835:0",
+        "matriks:matriks:6732829:0",
+        "matriks:matriks:6732828:0",
+        "matriks:matriks:6732826:0",
+        "matriks:matriks:6732825:0",
+        "matriks:matriks:6732824:0",
+        "matriks:matriks:6732823:0",
+        "matriks:matriks:6732822:0",
+        "matriks:matriks:6732821:0",
+        "matriks:matriks:6732816:0",
+        "matriks:matriks:6732806:0",
+        "matriks:matriks:6732802:0",
+        "matriks:matriks:6732790:0",
+        "matriks:matriks:6732776:0",
+        "matriks:matriks:6732741:0",
+        "matriks:matriks:6732740:0",
+        "matriks:matriks:6732739:0",
+        "matriks:matriks:6732738:0",
+        "matriks:matriks:6732731:0",
+        "matriks:matriks:6732724:0",
+        "matriks:matriks:6732696:0",
+        "matriks:matriks:6732683:0",
+        "matriks:matriks:6732681:0",
+        "matriks:matriks:6732679:0",
+        "matriks:matriks:6732677:0",
+        "matriks:matriks:6732676:0",
+        "matriks:matriks:6732675:0",
+        "matriks:matriks:6732674:0",
+        "matriks:matriks:6732673:0",
+        "matriks:matriks:6732670:0",
+        "matriks:matriks:6732668:0",
+        "matriks:matriks:6732667:0",
+        "matriks:matriks:6732666:0",
+        "matriks:matriks:6732663:0",
+        "matriks:matriks:6732659:0",
+        "matriks:matriks:6732658:0",
+        "matriks:matriks:6732657:0",
+        "matriks:matriks:6732656:0",
+        "matriks:matriks:6732655:0",
+        "matriks:matriks:6732653:0",
+        "matriks:matriks:6732652:0",
+        "matriks:matriks:6732651:0",
+        "matriks:matriks:6732650:0",
+        "matriks:matriks:6732649:0",
+        "matriks:matriks:6732648:0",
+        "matriks:matriks:6732618:0",
+        "matriks:matriks:6732602:0",
+        "matriks:matriks:6732564:0",
+        "matriks:matriks:6732561:0",
+        "matriks:matriks:6732545:0",
+        "matriks:matriks:6732542:0",
+        "matriks:matriks:6732523:0",
+        "matriks:matriks:6732522:0",
+        "matriks:matriks:6732521:0",
+        "matriks:matriks:6732484:0"
       ]
     },
     "forinvest": {
@@ -251,8 +278,13 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-komur-talebi-rekor-seviyeye-cikacak-3787781",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/doviz-mevduatlarinda-dusus-devam-etti-3787808",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/doviz-mevduatlarinda-dusus-devam-etti-3787808",
+        "bloomberght:https://www.bloomberght.com/kiralik-konut-kampanyasi-kosullari-aciklandi-3787803",
+        "bloomberght:https://www.bloomberght.com/bakir-fiyatlari-rekor-seviyeden-geriledi-3787799",
+        "bloomberght:https://www.bloomberght.com/tcmb-eylul-toplantisinda-faize-dokunmadi-3787785",
+        "bloomberght:https://www.bloomberght.com/arjantin-in-misir-ihracati-rekora-kosuyor-3787784",
         "bloomberght:https://www.bloomberght.com/kuresel-komur-talebi-rekor-seviyeye-cikacak-3787781",
         "bloomberght:https://www.bloomberght.com/gurlek-borsadaki-manipulatif-islemler-karsiliksiz-birakilmamali-3787778",
         "bloomberght:https://www.bloomberght.com/otel-doluluk-oranlarinda-toparlanma-3787780",
@@ -306,10 +338,10 @@
       ]
     },
     "cnbce": {
-      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/bakan-gurlekten-borsa-mesaji-manipulatif-islemler-karsiliksiz-kalmayacak-h36923",
+      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/borsa-negatife-dondu-iste-seansin-one-cikan-hisse-ve-sektorleri-h36910",
       "seen_keys": [
+        "cnbce:https://www.cnbce.com/borsa/borsa-negatife-dondu-iste-seansin-one-cikan-hisse-ve-sektorleri-h36910",
         "cnbce:https://www.cnbce.com/borsa/bakan-gurlekten-borsa-mesaji-manipulatif-islemler-karsiliksiz-kalmayacak-h36923",
-        "cnbce:https://www.cnbce.com/borsa/borsa-kritik-tcmb-gununde-yukselisle-acildi-iste-seansin-one-cikan-hisse-ve-sektorleri-h36910",
         "cnbce:https://www.cnbce.com/borsa/tera-grubu-yeni-doneme-hazirlaniyor-sarpyener-hedeflerini-cnbc-e-yayininda-acikladi-h36907",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-bugun-3-hissede-vbts-tedbirleri-sona-erdi-h36903",
         "cnbce:https://www.cnbce.com/borsa/bor-sekerden-dev-satin-alma-uretim-kotasi-yuzde-5e-yukseldi-h36901",
@@ -323,13 +355,15 @@
         "cnbce:https://www.cnbce.com/borsa/yakin-izleme-pazarinda-islem-goruyordu-borsa-istanbulda-bir-hisse-yer-aldigi-10-endeksten-cikarilacak-h36870",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbul-acikladi-yabanci-yatirimcinin-agustosta-en-cok-islem-yaptigi-hisseler-h36863",
         "cnbce:https://www.cnbce.com/borsa/bir-sosyal-medya-hesabina-borsa-istanbulda-manipulasyon-operasyonu-4-gozalti-h36826",
-        "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-6-sirketten-hisse-geri-alimi-h36824",
+        "cnbce:https://www.cnbce.com/haberler/thynin-yer-hizmetleri-istiraki-tgsden-tarihi-rekor-92-bin-ucus-h36935",
+        "cnbce:https://www.cnbce.com/haberler/merkez-bankasi-faiz-kararini-duyurdu-degisiklik-yok-h36933",
+        "cnbce:https://www.cnbce.com/haberler/ajetten-istanbul-cikisli-iki-yeni-hat-direkt-ucus-geliyor-h36929",
         "cnbce:https://www.cnbce.com/haberler/istanbulda-yaratici-endustriler-icin-300-milyon-tl-destek-detaylar-belli-oldu-h36924",
         "cnbce:https://www.cnbce.com/haberler/istanbulda-hava-kirliligi-yuzde-11-artti-iste-ilce-ilce-olcum-sonuclari-h36919",
-        "cnbce:https://www.cnbce.com/haberler/turkiye-avrupada-zirveye-cikti-142-milyon-kredi-kartina-ulasti-h36911",
-        "cnbce:https://www.cnbce.com/haberler/gozler-merkez-bankasinda-ppk-faizi-indirecek-mi-h36909",
         "cnbce:https://www.cnbce.com/haberler/abdden-24-milyar-dolarlik-kripto-agina-darbe-cin-merkezli-platform-yaptirim-listesinde-h36879",
         "cnbce:https://www.cnbce.com/piyasalar/fed-faiz-artiracak-mi-eylul-toplantisi-oncesi-beklentiler-degisti-h36873",
+        "cnbce:https://www.cnbce.com/haberler/turkiye-avrupada-zirveye-cikti-142-milyon-kredi-kartina-ulasti-h36911",
+        "cnbce:https://www.cnbce.com/haberler/gozler-merkez-bankasinda-ppk-faizi-indirecek-mi-h36909",
         "cnbce:https://www.cnbce.com/haberler/amazona-hamile-calisan-soku-tuvalet-molasi-bile-vermediler-iddiasi-h36889",
         "cnbce:https://www.cnbce.com/haberler/lagardedan-avrupaya-sert-uyari-27-farkli-gundemle-kuresel-guc-olamayiz-h36888",
         "cnbce:https://www.cnbce.com/haberler/bakan-simsekten-kur-rejimi-mesaji-spekulasyonlarin-dayanagi-yok-h36887",
@@ -341,6 +375,8 @@
         "cnbce:https://www.cnbce.com/haberler/konut-krizi-icin-dugmeye-basildi-airbnbye-avrupada-yeni-kisitlama-geliyor-h36857",
         "cnbce:https://www.cnbce.com/haberler/turkiyenin-havalimanlari-8-ayda-1675-milyon-yolcu-agirladi-h36856",
         "cnbce:https://www.cnbce.com/haberler/hamidiye-suya-yeni-zam-damacana-fiyati-170-liraya-cikti-h36851",
+        "cnbce:https://www.cnbce.com/borsa/borsa-kritik-tcmb-gununde-yukselisle-acildi-iste-seansin-one-cikan-hisse-ve-sektorleri-h36910",
+        "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-6-sirketten-hisse-geri-alimi-h36824",
         "cnbce:https://www.cnbce.com/haberler/abdde-ara-secim-alarmi-anketlerde-demokratlar-cumhuriyetcileri-geride-birakti-h36849",
         "cnbce:https://www.cnbce.com/haberler/uc-buyuksehirde-okul-servisi-ucretleri-belli-oldu-27-bin-ile-93-bin-lira-arasinda-h36845",
         "cnbce:https://www.cnbce.com/haberler/hollandada-toplu-tasima-grevi-etkili-olmadi-trafik-sadece-5-10-dakika-uzadi-h36843",
@@ -356,14 +392,18 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abd-orta-dogudaki-arz-kesintileri-nedeniyle-petrol-fiyati-tahminlerini-yukseltti/4052802",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/spk-repo-ve-ters-repo-islemlerinde-yeni-duzenlemeler-yapti/4052744",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/is-ve-yatirim-ortami-kurumsal-ve-dijital-adimlarla-guclendirilecek/4052883",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/uc-buyuk-sehirde-okul-servis-ucretleri-27-bin-ile-93-bin-lira-arasinda-degisiyor/4051733",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ajetten-kazakistana-istanbuldan-iki-yeni-hat/4052984",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/cumhurbaskanligi-yatirim-ve-finans-ofisi-baskani-daglioglu-turkiye-bolge-icin-gercek-bir-merkez/4052966",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/thynin-yer-hizmetleri-istiraki-tgsden-agustosta-ucus-ve-yolcu-sayisinda-rekor/4053103",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-politika-faizini-yuzde-37de-sabit-birakti/4053089",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-turkiye-ile-rusya-arasindaki-gubre-anlasmasini-degerlendirdi/4053085",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ab-uzay-yatirimlarini-artirmayi-hedefliyor/4053068",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ajetten-kazakistana-istanbuldan-iki-yeni-hat/4052984",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-uzak-dogu-ulkelerine-ihracati-ocak-agustos-doneminde-yaklasik-yuzde-20-artti/4052897",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/stratejik-hatlarla-her-yol-turkiyeye-cikacak/4052845",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-eski-amazon-calisanlari-hamile-iscilere-ayrimcilik-yapildigi-iddiasiyla-dava-acti/4052606",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-turkiye-terorun-finansmani-her-turlu-yasa-disi-finansal-faaliyet-ve-ticaretle-mucadelede-kararlidir/4052588",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-kisi-basina-dusen-milli-gelirin-ilk-kez-20-bin-dolara-yaklasacagini-ongoruyoruz/4052561",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/uc-buyuk-sehirde-okul-servis-ucretleri-27-bin-ile-93-bin-lira-arasinda-degisiyor/4051733",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/thyden-kktc-ucuslarinda-avantajli-bilet-kampanyasi/4052469",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-omer-bolat-turkiyede-lojistik-sektorunun-toplam-milli-gelire-katkisi-115-milyar-dolar/4052447",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abd-hazinesi-yarin-6-milyar-dolara-kadar-uzun-vadeli-tahvili-geri-alacak/4052418",
@@ -372,8 +412,16 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/transcripts/centaurus-metals-jaguar-projesinde-finansman-kilometre-tasna-yaklasyor-93CH-4061038",
+      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/needham-cooper-companies-icin-hisse-hedefini-73-dolara-dusurdu-93CH-4061381",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/analyst-ratings/needham-cooper-companies-icin-hisse-hedefini-73-dolara-dusurdu-93CH-4061381",
+        "investing:https://tr.investing.com/news/analyst-ratings/needham-guclu-2c-sonuclarn-gerekce-gostererek-navan-hissesi-icin-tavsiyesini-yineledi-93CH-4061380",
+        "investing:https://tr.investing.com/news/stock-market-news/jetblue-airways-hissesi-bugun-neden-yukseliyor-93CH-4061379",
+        "investing:https://tr.investing.com/news/company-news/copa-holdings-agustosta-168-trafik-arts-bildirdi-93CH-4061378",
+        "investing:https://tr.investing.com/news/stock-market-news/rackspace-hisseleri-nvidia-ortaklgyla-yuzde-13-yukseldi-93CH-4061362",
+        "investing:https://tr.investing.com/news/company-news/gresham-houseun-cerilliondaki-pay-yuzde-1131e-yukseldi-93CH-4061361",
+        "investing:https://tr.investing.com/news/stock-market-news/ingiltere-spacex-uydu-hizmetlerine-40-milyon-dolar-harcad-4061360",
+        "investing:https://tr.investing.com/news/analyst-ratings/rosenblatt-guclu-2c-sonuclar-sonras-navan-hisse-hedefini-yukseltti-93CH-4061356",
         "investing:https://tr.investing.com/news/transcripts/centaurus-metals-jaguar-projesinde-finansman-kilometre-tasna-yaklasyor-93CH-4061038",
         "investing:https://tr.investing.com/news/economy-news/husiler-bab-elmendeb-bogaznda-kontrolu-ele-geciriyor-4061037",
         "investing:https://tr.investing.com/news/analyst-ratings/mizuho-jersey-mikes-subs-icin-hisse-hedefini-dusurdu-93CH-4061031",
@@ -611,9 +659,169 @@
         "tradingview:matriks:6731827:0",
         "tradingview:matriks:6731815:0"
       ]
+    },
+    "forexfactory": {
+      "last_seen_key": "forexfactory:upcoming:EUR:2026-09-10T08:15:00-04:00:main refinancing rate",
+      "seen_keys": [
+        "forexfactory:upcoming:EUR:2026-09-10T08:15:00-04:00:main refinancing rate",
+        "forexfactory:upcoming:EUR:2026-09-10T08:15:00-04:00:monetary policy statement",
+        "forexfactory:upcoming:USD:2026-09-10T08:30:00-04:00:core ppi m/m",
+        "forexfactory:upcoming:USD:2026-09-10T08:30:00-04:00:ppi m/m",
+        "forexfactory:upcoming:EUR:2026-09-10T08:45:00-04:00:ecb press conference"
+      ]
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "needham cooper companies hisse hedefini 73 dolara dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/needham-cooper-companies-icin-hisse-hedefini-73-dolara-dusurdu-93CH-4061381"
+    },
+    {
+      "source": "investing",
+      "text": "needham guclu 2c sonuclar n gerekce gostererek navan hissesi tavsiyesini yineledi",
+      "link": "https://tr.investing.com/news/analyst-ratings/needham-guclu-2c-sonuclarn-gerekce-gostererek-navan-hissesi-icin-tavsiyesini-yineledi-93CH-4061380"
+    },
+    {
+      "source": "investing",
+      "text": "jetblue airways hissesi bugun neden yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/jetblue-airways-hissesi-bugun-neden-yukseliyor-93CH-4061379"
+    },
+    {
+      "source": "investing",
+      "text": "copa holdings agustos ta 16 8 trafik art s bildirdi",
+      "link": "https://tr.investing.com/news/company-news/copa-holdings-agustosta-168-trafik-arts-bildirdi-93CH-4061378"
+    },
+    {
+      "source": "investing",
+      "text": "rackspace hisseleri nvidia ortakl g yla yuzde 13 yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/rackspace-hisseleri-nvidia-ortaklgyla-yuzde-13-yukseldi-93CH-4061362"
+    },
+    {
+      "source": "investing",
+      "text": "gresham house un cerillion daki pay yuzde 11 31 e yukseldi",
+      "link": "https://tr.investing.com/news/company-news/gresham-houseun-cerilliondaki-pay-yuzde-1131e-yukseldi-93CH-4061361"
+    },
+    {
+      "source": "investing",
+      "text": "ingiltere spacex uydu hizmetlerine 40 milyon dolar harcad",
+      "link": "https://tr.investing.com/news/stock-market-news/ingiltere-spacex-uydu-hizmetlerine-40-milyon-dolar-harcad-4061360"
+    },
+    {
+      "source": "investing",
+      "text": "rosenblatt guclu 2c sonuclar sonras navan hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/rosenblatt-guclu-2c-sonuclar-sonras-navan-hisse-hedefini-yukseltti-93CH-4061356"
+    },
+    {
+      "source": "forexfactory",
+      "text": "eur ecb press conference yaklas k 57 sonra etki yuksek",
+      "link": "https://www.forexfactory.com/calendar"
+    },
+    {
+      "source": "forexfactory",
+      "text": "usd ppi m m yaklas k 42 sonra etki yuksek beklenti 0 4 onceki 0 0",
+      "link": "https://www.forexfactory.com/calendar"
+    },
+    {
+      "source": "forexfactory",
+      "text": "usd core ppi m m yaklas k 42 sonra etki yuksek beklenti 0 3 onceki 0 2",
+      "link": "https://www.forexfactory.com/calendar"
+    },
+    {
+      "source": "forexfactory",
+      "text": "eur monetary policy statement yaklas k 27 sonra etki yuksek",
+      "link": "https://www.forexfactory.com/calendar"
+    },
+    {
+      "source": "forexfactory",
+      "text": "eur main refinancing rate yaklas k 27 sonra etki yuksek beklenti 2 65 onceki 2 40",
+      "link": "https://www.forexfactory.com/calendar"
+    },
+    {
+      "source": "cnbce",
+      "text": "borsa negatife dondu iste seans n one c kan hisse sektorleri borsa istanbul bist 100 endeksi gune 45 19 puan yuzde 0 31 art sla 14 550 67 puandan baslad endeks saat 13 00 itibar yla onceki kapan sa gore 69 38 puan yuzde 0 48 azal sla 14 436 10 puana geriledi",
+      "link": "https://www.cnbce.com/borsa/borsa-negatife-dondu-iste-seansin-one-cikan-hisse-ve-sektorleri-h36910"
+    },
+    {
+      "source": "bloomberght",
+      "text": "doviz mevduatlar nda dusus devam etti parite etkisinden ar nd r lm s verilere gore gecen hafta doviz mevduatlar nda 277 milyon dolarl k dusus yasand onceki hafta mevduatlarda keskin dusus yasanm st",
+      "link": "https://www.bloomberght.com/doviz-mevduatlarinda-dusus-devam-etti-3787808"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kiral k konut kampanyas kosullar ac kland istanbul 15 bin kiral k konut kampanyas n n detaylar na iliskin konusan cevre sehircilik iklim degisikligi bakan murat kurum 1 1 konutlar kira bedelini 10 bin lira 2 1 konutlar 12 bin lira burada 1 1 2 art 1 vatandasla",
+      "link": "https://www.bloomberght.com/kiralik-konut-kampanyasi-kosullari-aciklandi-3787803"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bak r fiyatlar rekor seviyeden geriledi londra bak r fiyatlar enflasyon endiseleri nedeniyle abd yonetiminin gumruk vergisi uygulay p uygulamayacag na dair karar n ask ya ald g haberinin ard ndan yuzde 3 un uzerinde dusus yasad",
+      "link": "https://www.bloomberght.com/bakir-fiyatlari-rekor-seviyeden-geriledi-3787799"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tcmb eylul toplant s nda faize dokunmad turkiye cumhuriyet merkez bankas tcmb para politikas kurulu politika faizine iliskin karar n ac klad",
+      "link": "https://www.bloomberght.com/tcmb-eylul-toplantisinda-faize-dokunmadi-3787785"
+    },
+    {
+      "source": "bloomberght",
+      "text": "arjantin in m s r ihracat rekora kosuyor ukrayna n n tah l sevkiyatlar nda yasanan aksakl klar avrupa daki as r s caklar kuresel m s r ticaretinin rotas n degistirdi arjantin in agustos eylul aylar ndaki m s r ihracat n n 10 milyon tonla rekor k rmas bekleniyor",
+      "link": "https://www.bloomberght.com/arjantin-in-misir-ihracati-rekora-kosuyor-3787784"
+    },
+    {
+      "source": "kap",
+      "text": "dggyo pay baz nda devre kesici bildirimi dggyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661491"
+    },
+    {
+      "source": "kap",
+      "text": "aksue pay baz nda devre kesici bildirimi aksue e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661485"
+    },
+    {
+      "source": "kap",
+      "text": "pekgy ozel durum ac klamas genel zorunlu pay al m teklifi bilgi formunun spk taraf ndan onaylanmas hk sirket peker gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661484"
+    },
+    {
+      "source": "kap",
+      "text": "gipta pay baz nda devre kesici bildirimi gipta e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661482"
+    },
+    {
+      "source": "kap",
+      "text": "tavhl ozel durum ac klamas genel yat r mc bulteni agustos 2026 sirket tav havalimanlari holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661480"
+    },
+    {
+      "source": "kap",
+      "text": "yggyo sirket genel bilgi formu sirket yeni gimat gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661479"
+    },
+    {
+      "source": "kap",
+      "text": "epy sirket genel bilgi formu sirket deniz portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661477"
+    },
+    {
+      "source": "kap",
+      "text": "gundg pay baz nda devre kesici bildirimi gundg e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661476"
+    },
+    {
+      "source": "kap",
+      "text": "yggyo ozel durum ac klamas genel bagl ortakl k sermaye art r m islemlerinin tamamlanmas sirket yeni gimat gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661475"
+    },
+    {
+      "source": "kap",
+      "text": "ozysr pay baz nda devre kesici bildirimi ozysr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661474"
+    },
+    {
+      "source": "kap",
+      "text": "bdm genel ac klama degisken semsiye fon ictuzuk sirket buyukdemir portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1661472"
+    },
     {
       "source": "tradingview",
       "text": "cek korunas cnb nin durusu euro kars s nda zay fl ga alan b rak yor ing",
