@@ -940,17 +940,15 @@
       "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-ihracatcilarimizin-rekabet-gucunu-artiracak-adimlar-atmaya-devam-edecegiz/4054250",
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-ihracatcilarimizin-rekabet-gucunu-artiracak-adimlar-atmaya-devam-edecegiz/4054250",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dunyada-temiz-hidrojen-yatirimlari-130-milyar-dolara-ulasti/4054076",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-agustosta-beklentilere-paralel-geldi/4054366",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-abdnin-enflasyon-verilerine-cevrildi/4053889",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/2027-2029-donemi-kamu-yatirim-programi-hazirliklari-genelgesi-resmi-gazetede/4054838",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-en-uzun-5-tunelinden-acildiklari-gunden-bu-yana-38-7-milyon-arac-gecti/4054176",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-gecen-yilki-ihracatinin-yuzde-46-1ini-buyuk-olcekli-girisimler-yapti/4054004",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dunyada-temiz-hidrojen-yatirimlari-130-milyar-dolara-ulasti/4054076",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/havacilik-ve-denizcilik-sektorunde-dusuk-karbonlu-yakit-arayisi-biyoyakita-yonelimi-artiriyor/4054081",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-agustosta-beklentilere-paralel-geldi/4054366",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-abdnin-enflasyon-verilerine-cevrildi/4053889",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-dizel-fiyati-ilk-kez-galon-basina-6-dolari-asti/4054214",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-petrol-arzi-agustosta-gunluk-1-6-milyon-varil-azaldi/4054069",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yeni-ovp-ile-ihracatta-dijital-donusum-ve-yeni-pazar-atagi-gerceklestirilecek/4054029",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dezenflasyon-kilidinin-acilmasinda-8-gelisme-anahtar-olacak/4054031",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/2027-2029-donemi-butce-cagrisi-resmi-gazetede/4054851",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abd-butcesi-agustosta-167-milyar-dolar-acik-verdi/4054708",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-son-enflasyon-verileri-ve-oncu-gostergeler-enflasyonun-ana-egiliminin-yavasladigina-isaret-ediyor/4054683",
@@ -961,6 +959,8 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-bulgaristan-sinirinda-acilacak-yeni-gumruk-kapisiyla-ihracat-ve-yolcu-trafigi-hizlanacak/4054483",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupada-haftalik-dogal-gaz-fiyatlari-yuksek-seyrediyor/4054447",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-11-eylul-2026/4054410",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yeni-ovp-ile-ihracatta-dijital-donusum-ve-yeni-pazar-atagi-gerceklestirilecek/4054029",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dezenflasyon-kilidinin-acilmasinda-8-gelisme-anahtar-olacak/4054031",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-4-1-milyar-lira-tarimsal-ve-hayvansal-destek-odemesinin-bugun-yapilacagini-bildirdi/4054205",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/antalya-havalimani-agustosta-5-milyon-893-bin-602-yolcuya-hizmet-verdi/4054349",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-azerbaycan-ile-elektrik-baglantilarinin-gelistirilmesi-icin-calismalarin-surdugunu-soyledi/4054219",
@@ -1249,8 +1249,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:81e7e5619d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:5c8787e67d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:5c8787e67d9e8:0",
+        "tradingview:beincrypto:181e4f9e9d9e8:0",
         "tradingview:beincrypto:81e7e5619d9e8:0",
         "tradingview:fxstreet:bfb2c44bbd9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
@@ -1375,6 +1377,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "alt n fiyat 4 000 dolar n alt na iner ekonomik riskler art yor",
+      "link": "https://tr.tradingview.com/news/beincrypto:5c8787e67d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin vs zcash grayscale a gore hangi madencilik daha karl",
+      "link": "https://tr.tradingview.com/news/beincrypto:181e4f9e9d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "intel hissesi neden yukseldi trump tan her amerikal ya 5 000 dolar vaadi",
