@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1662133",
+      "last_seen_key": "kap:1662135",
       "seen_keys": [
+        "kap:1662135",
+        "kap:1662134",
         "kap:1662133",
         "kap:1662132",
         "kap:1662131",
@@ -719,8 +721,11 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/ford-abd-deki-223500-araci-geri-cagiriyor-3788100",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-13092026-3788103",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-13092026-3788103",
+        "bloomberght:https://www.bloomberght.com/altman-2026-da-halka-arz-olmayacak-oncelik-sirket-guvenligi-3788102",
+        "bloomberght:https://www.bloomberght.com/rusya-tahil-ihracati-icin-uzak-dogu-ya-yoneliyor-3788101",
         "bloomberght:https://www.bloomberght.com/ford-abd-deki-223500-araci-geri-cagiriyor-3788100",
         "bloomberght:https://www.bloomberght.com/hurmuz-de-100-geminin-rotasi-degistirildi-3788099",
         "bloomberght:https://www.bloomberght.com/iran-umman-ile-anlasma-hurmuz-un-acilacagi-anlamina-gelmiyor-3788098",
@@ -1370,8 +1375,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:210caa770d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:a9011ff78d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:a9011ff78d9e8:0",
         "tradingview:beincrypto:210caa770d9e8:0",
         "tradingview:beincrypto:18603ec5bd9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
@@ -1507,6 +1513,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "coinbase muhendisi sanal sinek beyniyle kripto para trader yaratt",
+      "link": "https://tr.tradingview.com/news/beincrypto:a9011ff78d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 13 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-13092026-3788103"
+    },
+    {
+      "source": "bloomberght",
+      "text": "altman 2026 halka arz olmayacak oncelik sirket guvenligi openai nin ceo su altman 2026 halka arz n olmayacag n sirketin guvenlige oncelik verecegini soyledi",
+      "link": "https://www.bloomberght.com/altman-2026-da-halka-arz-olmayacak-oncelik-sirket-guvenligi-3788102"
+    },
+    {
+      "source": "bloomberght",
+      "text": "rusya tah l ihracat uzak dogu ya yoneliyor tar m bakan oksana lut ukrayna daki grevlerin karadeniz deki onemli limanlar ndan yap lan sevkiyatlar aksatmas nedeniyle rusya n n tah l ihracat alternatif yollardan biri olarak uzak dogu ya yoneldigini soyledi",
+      "link": "https://www.bloomberght.com/rusya-tahil-ihracati-icin-uzak-dogu-ya-yoneliyor-3788101"
+    },
+    {
+      "source": "kap",
+      "text": "skp sirket genel bilgi formu sirket tera portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662135"
+    },
+    {
+      "source": "kap",
+      "text": "samat sermaye art r m azalt m islemlerine iliskin bildirim bedelli sermaye art r m evraklar n n revize edilen spk ya teslim edilmesi hakk nda sirket saray matbaacilik kagitcilik kirtasiyecilik ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662134"
+    },
     {
       "source": "bloomberght",
       "text": "ford abd deki yuzbinlerce arac geri cag r yor ford yak t deposu sorunlar nedeniyle abd deki yaklas k 223 bin 500 arac n geri cag r yor",
