@@ -705,8 +705,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/2027-2029-donemi-kamu-yatirim-programi-genelgesi-yayimlandi-3788075",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-12-eylul-2026-3788076",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-12-eylul-2026-3788076",
         "bloomberght:https://www.bloomberght.com/2027-2029-donemi-kamu-yatirim-programi-genelgesi-yayimlandi-3788075",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-12092026-3788074",
         "bloomberght:https://www.bloomberght.com/akilli-telefon-pazarinda-613-milyar-dolarlik-ciro-beklentisi-3788073",
@@ -856,8 +857,9 @@
       ]
     },
     "cnbce": {
-      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/altin-sirketinden-borsa-hamlesi-katilim-endeksi-icin-dugmeye-basti-traltden-katilim-endeksi-hamlesi-h37044",
+      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-temettu-takvimi-hangi-sirket-ne-kadar-odeyecek-h37058",
       "seen_keys": [
+        "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-temettu-takvimi-hangi-sirket-ne-kadar-odeyecek-h37058",
         "cnbce:https://www.cnbce.com/borsa/altin-sirketinden-borsa-hamlesi-katilim-endeksi-icin-dugmeye-basti-traltden-katilim-endeksi-hamlesi-h37044",
         "cnbce:https://www.cnbce.com/borsa/borsadaki-odeme-sirketinden-dikkat-ceken-satin-alma-biletcomda-kontrolu-aldi-metropal-biletcom-mcard-yuzde-51ini-devraldi-h37042",
         "cnbce:https://www.cnbce.com/borsa/halkbankta-kritik-halka-arz-karari-halkb-islemleri-durdurulacak-h37041",
@@ -868,7 +870,6 @@
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbul-acikladi-trilc-hisseleri-yeniden-isleme-aciliyor-h36986",
         "cnbce:https://www.cnbce.com/borsa/turk-altin-sindirgi-madeni-devraldi-altin-ve-gumus-rezervleri-dikkat-cekti-h36978",
         "cnbce:https://www.cnbce.com/borsa/yapi-kredi-portfoy-satisinda-kritik-karar-rekabet-kurulu-onay-verdi-h36963",
-        "cnbce:https://www.cnbce.com/borsa/altin-madenciliginde-655-milyon-dolarlik-dev-satin-alma-turk-altin-isletmelerinden-655-milyon-dolarlik-maden-hamlesi-h36959",
         "cnbce:https://www.cnbce.com/haberler/kamuda-yeni-donem-yeni-projelere-siki-yatirim-freni-2027-2029-butce-cagrisi-ve-butce-hazirlama-rehberi-resmi-gazetede-h37054",
         "cnbce:https://www.cnbce.com/haberler/abdde-butce-aciginda-dikkat-ceken-dusus-167-milyar-dolara-geriledi-h37047",
         "cnbce:https://www.cnbce.com/haberler/tcmb-baskani-karahandan-enflasyon-ve-faiz-mesaji-tcmb-baskani-karahan-enflasyonun-ana-egilimi-yavasliyor-h37046",
@@ -893,6 +894,7 @@
         "cnbce:https://www.cnbce.com/dunya/trumpin-5-bin-dolarlik-vaadi-abdde-tartisma-yaratti-faturasi-12-trilyon-dolar-h36965",
         "cnbce:https://www.cnbce.com/dunya/korfezden-almanyaya-milyarlarca-euroluk-yatirim-40-milyar-euro-geliyor-baeden-almanyaya-40-milyar-euroluk-yeni-yatirim-paketi-h36961",
         "cnbce:https://www.cnbce.com/haberler/imfden-kuresel-ekonomi-icin-dikkat-ceken-mesaj-dengeler-degisiyor-h36957",
+        "cnbce:https://www.cnbce.com/borsa/altin-madenciliginde-655-milyon-dolarlik-dev-satin-alma-turk-altin-isletmelerinden-655-milyon-dolarlik-maden-hamlesi-h36959",
         "cnbce:https://www.cnbce.com/sirket-haberleri/vize-randevularinda-bot-temizligi-sistemde-yuzde-60-rahatlama-saglandi-h36940",
         "cnbce:https://www.cnbce.com/borsa/borsadaki-teknoloji-sirketinden-dev-bedelsiz-hamlesi-yuzde-200-icin-spkya-basvurdu-matriks-sermayesini-3-katina-cikariyor-spkya-basvurdu-h36956",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbuldan-4-hisseye-tedbir-islemler-kisitlanacak-armgd-karsn-dgnmo-ve-etyat-icin-borsa-istanbuldan-yeni-tedbir-h36955",
@@ -1404,6 +1406,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "cnbce",
+      "text": "borsa istanbul temettu takvimi hangi sirket kadar odeyecek borsa istanbul eylul 2026 temettu takvimi ac kland ay boyunca nakit kar pay odemesi gerceklestiren onumuzdeki gunlerde odeme yapacak sirketlerin guncel tarihleri net tutarlar belli oldu",
+      "link": "https://www.cnbce.com/borsa/borsa-istanbulda-temettu-takvimi-hangi-sirket-ne-kadar-odeyecek-h37058"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ekonomi siyaset gundemi 12 eylul 2026 ekonomi siyaset gundeminde one c kanlar",
+      "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-12-eylul-2026-3788076"
+    },
     {
       "source": "investing",
       "text": "ubs cinli otomobil ureticileri 2030 37 paya ulasacak",
