@@ -927,13 +927,16 @@
         "cnbce:https://www.cnbce.com/borsa/hisse-senetleri-ve-borsadan-tarihi-kacis-buyuk-sirketlerden-32-milyar-dolar-cikti-h37022",
         "cnbce:https://www.cnbce.com/borsa/alman-otomobil-devi-ve-besiktas-guclerini-birlestirdi-is-birligi-2028e-kadar-surecek-h37007",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbul-acikladi-trilc-hisseleri-yeniden-isleme-aciliyor-h36986",
+        "cnbce:https://www.cnbce.com/haberler/trumptan-iran-savasi-mesaji-ara-secimlerden-sonra-bitmis-olacak-h37114",
+        "cnbce:https://www.cnbce.com/haberler/pezeskiyandan-bricse-dolar-karsiti-hamle-cagrisi-yerel-paralarla-ticaret-h37113",
+        "cnbce:https://www.cnbce.com/haberler/prison-break-geri-donuyor-yeni-dizinin-yapim-maliyeti-532-milyon-dolar-prison-break-black-creek-icin-dudak-ucuklatan-maliyet-532-milyon-dolar-h37112",
         "cnbce:https://www.cnbce.com/haberler/turkseker-182-isci-alacak-basvuru-tarihleri-belli-oldu-h37109",
         "cnbce:https://www.cnbce.com/haberler/savasin-en-buyuk-kazanani-yilbasindan-beri-yuzde-3780-yukseldi-h37103",
+        "cnbce:https://www.cnbce.com/egitim/oecdnin-pisa-raporunda-turkiye-vurgusu-onlar-neyi-farkli-yapiyor-h37069",
+        "cnbce:https://www.cnbce.com/otomotiv/forddan-223-bin-arac-icin-geri-cagirma-karari-yakit-deposu-riski-h37070",
         "cnbce:https://www.cnbce.com/haberler/10-yil-once-pahaliya-aldim-demisti-warren-buffettin-o-yatirimi-3-kat-degerlendi-h37100",
         "cnbce:https://www.cnbce.com/haberler/savcilik-harekete-gecti-sermaye-piyasalarini-etkileyen-paylasimlara-sorusturma-h37095",
         "cnbce:https://www.cnbce.com/haberler/bakan-kurum-paylasti-iste-istanbuldaki-kiralik-sosyal-konutlar-h37094",
-        "cnbce:https://www.cnbce.com/egitim/oecdnin-pisa-raporunda-turkiye-vurgusu-onlar-neyi-farkli-yapiyor-h37069",
-        "cnbce:https://www.cnbce.com/otomotiv/forddan-223-bin-arac-icin-geri-cagirma-karari-yakit-deposu-riski-h37070",
         "cnbce:https://www.cnbce.com/haberler/bakan-simsek-duyurdu-vergide-odak-simdi-buyuk-ve-yuksek-gelirli-mukellefler-h37091",
         "cnbce:https://www.cnbce.com/haberler/istanbul-havalimaninda-pist-sayisi-6ya-cikiyor-4-ana-pist-18-eylulde-acilacak-h37088",
         "cnbce:https://www.cnbce.com/dunya/almanyada-calisanlar-daha-fazla-calismak-istiyor-iste-beklentileri-h37086",
@@ -1032,6 +1035,7 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/evlenecek-genclere-indirim-destegi-saglayan-firma-sayisi-1191e-yukseldi/4055700",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/toki-egitim-yatirimlariyla-31-bin-782-dersligi-hizmete-sundu/4055627",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/enerji-guvenligi-baskisi-avrupa-ve-asyayi-yenilenebilir-enerjiye-yoneltiyor/4055707",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/samda-yeniden-imar-fuari-turkiye-ve-bolge-ulkelerini-bulusturdu/4056152",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/almanya-tarim-bakani-tarim-ve-gida-sektorunde-turkiye-ile-isbirligini-gelistirmek-istediklerini-belirtti/4055803",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbul-havalimaninin-yeni-pisti-18-eylulde-acilacak/4055691",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-kuresel-cip-yarisinda-milli-projeler-ve-yeni-tesislerle-one-cikacak/4055664",
@@ -1374,8 +1378,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/vergi-denetimlerinde-odak-buyuk-mukellefler-oldu-956715.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkseker-fabrikalarina-182-isci-alimi-yapilacak-956727.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkseker-fabrikalarina-182-isci-alimi-yapilacak-956727.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/vergi-denetimlerinde-odak-buyuk-mukellefler-oldu-956715.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/evlilik-hazirligindaki-genclere-1191-firmadan-indirim-destegi-956699.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/kirsal-kalkinma-yatirimlarina-125-milyar-liralik-hibe-destegi-956693.html",
@@ -1604,6 +1609,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "turkseker fabrikalar na 182 isci al m yap lacak turkseker bunyesindeki fabrikalarda istihdam edilmek uzere 182 isci al m gerceklestirilecek",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkseker-fabrikalarina-182-isci-alimi-yapilacak-956727.html"
+    },
     {
       "source": "kap",
       "text": "ktest test bildirimi test bildirimi sirket kap test a s",
