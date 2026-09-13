@@ -1087,8 +1087,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/bessent-getiri-5i-asarsa-bazukasn-atesleyecek-mi-4064061",
+      "last_seen_key": "investing:https://tr.investing.com/news/politics-news/trump-zelenskiye-rus-dizel-tesislerine-saldrlar-durdurmasn-soyledi-4064063",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/politics-news/trump-zelenskiye-rus-dizel-tesislerine-saldrlar-durdurmasn-soyledi-4064063",
         "investing:https://tr.investing.com/news/economy-news/bessent-getiri-5i-asarsa-bazukasn-atesleyecek-mi-4064061",
         "investing:https://tr.investing.com/news/economy-news/merkez-bankalar-politika-belirlerken-piyasa-enflasyon-beklentilerini-tercih-etmeli--ubs-4064059",
         "investing:https://tr.investing.com/news/economy-news/trumpn-kurtulus-gunu-20-2028de-sert-politika-degisikligi-riski-tasyor--bca-research-4064052",
@@ -1098,7 +1099,6 @@
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-inspire-medicalda-65-kazanc-yakalad-93CH-4064045",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-rackspace-technologyde-57lik-dususu-ongordu-93CH-4064044",
         "investing:https://tr.investing.com/news/economy-news/xi-brics-zirvesinde-cinin-ack-kaynak-yapay-zeka-vizyonunu-one-ckard-4064042",
-        "investing:https://tr.investing.com/news/stock-market-news/fransann-yapay-zeka-patlamas-avrupann-fon-acgn-ortaya-ckard-4064040",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1119,6 +1119,7 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-artemis-imzas-bistte-bu-hisseleri-one-ckarabilir-200505970",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1-dakikada-ucuz-hisseleri-kesfedin-200505934",
         "investing:https://tr.investing.com/analysis/borsada-para-kazanmann-formulunu-cozdum-200505910",
+        "investing:https://tr.investing.com/news/stock-market-news/fransann-yapay-zeka-patlamas-avrupann-fon-acgn-ortaya-ckard-4064040",
         "investing:https://tr.investing.com/news/stock-market-news/guney-kore-kuresel-yatrmclar-icin-islem-saatlerini-uzatyor-4064039",
         "investing:https://tr.investing.com/news/stock-market-news/citiye-gore-yatrmclarn-goz-ard-edemeyegi-5-piyasa-endisesi-4064037",
         "investing:https://tr.investing.com/news/economy-news/rusya-ukraynay-zaporijyada-yakt-saldrsyla-suclad-4064034",
@@ -1458,8 +1459,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:c91c5fa5ed9e8:0",
+      "last_seen_key": "tradingview:beincrypto:cbdf61216d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:cbdf61216d9e8:0",
         "tradingview:beincrypto:c91c5fa5ed9e8:0",
         "tradingview:beincrypto:e8783f1d2d9e8:0",
         "tradingview:beincrypto:53b7bc878d9e8:0",
@@ -1609,6 +1611,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kevin o leary nin yeni yat r m bitcoin hisse senedi",
+      "link": "https://tr.tradingview.com/news/beincrypto:cbdf61216d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "trump zelenskiy e rus dizel tesislerine sald r lar durdurmas n soyledi",
+      "link": "https://tr.investing.com/news/politics-news/trump-zelenskiye-rus-dizel-tesislerine-saldrlar-durdurmasn-soyledi-4064063"
+    },
     {
       "source": "trthaber",
       "text": "turkseker fabrikalar na 182 isci al m yap lacak turkseker bunyesindeki fabrikalarda istihdam edilmek uzere 182 isci al m gerceklestirilecek",
