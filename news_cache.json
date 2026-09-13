@@ -1069,18 +1069,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/xi-brics-zirvesinde-cinin-ack-kaynak-yapay-zeka-vizyonunu-one-ckard-4064042",
+      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpronun-deva-holding-onerisi-22-ayda-47-kazandrd-93CH-4064047",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-deva-holding-onerisi-22-ayda-47-kazandrd-93CH-4064047",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-gundogdu-gda-hissesinde-50-dususu-isaretledi-93CH-4064046",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-inspire-medicalda-65-kazanc-yakalad-93CH-4064045",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-rackspace-technologyde-57lik-dususu-ongordu-93CH-4064044",
         "investing:https://tr.investing.com/news/economy-news/xi-brics-zirvesinde-cinin-ack-kaynak-yapay-zeka-vizyonunu-one-ckard-4064042",
         "investing:https://tr.investing.com/news/stock-market-news/fransann-yapay-zeka-patlamas-avrupann-fon-acgn-ortaya-ckard-4064040",
         "investing:https://tr.investing.com/news/stock-market-news/guney-kore-kuresel-yatrmclar-icin-islem-saatlerini-uzatyor-4064039",
         "investing:https://tr.investing.com/news/stock-market-news/citiye-gore-yatrmclarn-goz-ard-edemeyegi-5-piyasa-endisesi-4064037",
         "investing:https://tr.investing.com/news/economy-news/rusya-ukraynay-zaporijyada-yakt-saldrsyla-suclad-4064034",
         "investing:https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zekaya-5-buyuk-hamle-jpmorgan-metay-yukseltti-4064033",
-        "investing:https://tr.investing.com/news/economy-news/fransa-secimleri-mevcut-durum-4064031",
-        "investing:https://tr.investing.com/news/stock-market-news/alman-sirketleri-cindeki-yatrmlarn-ucte-bir-artrd-4064028",
-        "investing:https://tr.investing.com/news/forex-news/spekulatorler-subattan-bu-yana-ilk-kez-yende-yukselise-gecti-4064026",
-        "investing:https://tr.investing.com/news/company-news/tesla-uzun-suredir-ertelenen-roadster-1-ekimde-tantacak-4064025",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1101,6 +1101,10 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-artemis-imzas-bistte-bu-hisseleri-one-ckarabilir-200505970",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1-dakikada-ucuz-hisseleri-kesfedin-200505934",
         "investing:https://tr.investing.com/analysis/borsada-para-kazanmann-formulunu-cozdum-200505910",
+        "investing:https://tr.investing.com/news/economy-news/fransa-secimleri-mevcut-durum-4064031",
+        "investing:https://tr.investing.com/news/stock-market-news/alman-sirketleri-cindeki-yatrmlarn-ucte-bir-artrd-4064028",
+        "investing:https://tr.investing.com/news/forex-news/spekulatorler-subattan-bu-yana-ilk-kez-yende-yukselise-gecti-4064026",
+        "investing:https://tr.investing.com/news/company-news/tesla-uzun-suredir-ertelenen-roadster-1-ekimde-tantacak-4064025",
         "investing:https://tr.investing.com/news/economy-news/avrupa-hisse-senetleri-dogal-gaz-fiyat-soklarna-ne-kadar-savunmasz-4064023",
         "investing:https://tr.investing.com/news/economy-news/guney-kore-casusluk-yasasn-cip-teknolojisini-korumak-icin-genisletti-4064021",
         "investing:https://tr.investing.com/news/company-news/en-buyuk-cikolata-sirketi-kakao-fiyatlar-hakknda-ne-diyor-4064019",
@@ -1296,8 +1300,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-et-urunlerine-yeni-yasaklar-geliyor-burger-sucuk-doner-ve-pastirmada-yeni-donem-1741674",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/her-3-buyuk-mukelleften-biri-denetim-altinda-vergide-yeni-donem-1741672",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/her-3-buyuk-mukelleften-biri-denetim-altinda-vergide-yeni-donem-1741672",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-et-urunlerine-yeni-yasaklar-geliyor-burger-sucuk-doner-ve-pastirmada-yeni-donem-1741674",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-istanbul-havalimaninda-ucuslari-hizlandiracak-hamle-acilisi-cumhurbaskani-erdogan-yapacak-1741652",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-istanbulda-10-bin-liraya-kiralik-daire-iste-ornek-daireden-fotograflar-1741641",
@@ -1575,6 +1580,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "her 3 buyuk mukelleften biri denetim alt nda vergide yeni donem vergi denetim kurulu vdk baskanl g y l yuruttugu cal smalarla buyuk olcekli vergi mukelleflerine yonelik inceleme oran n yuzde 31 3 e yukseltti",
+      "link": "https://www.ntv.com.tr/ntvpara/her-3-buyuk-mukelleften-biri-denetim-altinda-vergide-yeni-donem-1741672"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro nun deva holding onerisi 22 ayda 47 kazand rd",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpronun-deva-holding-onerisi-22-ayda-47-kazandrd-93CH-4064047"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro adil deger gundogdu g hissesinde 50 dususu isaretledi",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-gundogdu-gda-hissesinde-50-dususu-isaretledi-93CH-4064046"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro nun gercege uygun degeri inspire medical 65 kazanc yakalad",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-inspire-medicalda-65-kazanc-yakalad-93CH-4064045"
+    },
+    {
+      "source": "investing",
+      "text": "investingpro rackspace technology 57 lik dususu ongordu",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpro-rackspace-technologyde-57lik-dususu-ongordu-93CH-4064044"
+    },
     {
       "source": "tradingview",
       "text": "eski ripplex yoneticisinden xrp yorumu killer use case dikkat cekiyor",
