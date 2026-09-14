@@ -2,8 +2,33 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1662160",
+      "last_seen_key": "kap:1662197",
       "seen_keys": [
+        "kap:1662197",
+        "kap:1662196",
+        "kap:1662195",
+        "kap:1662194",
+        "kap:1662193",
+        "kap:1662192",
+        "kap:1662191",
+        "kap:1662189",
+        "kap:1662185",
+        "kap:1662184",
+        "kap:1662183",
+        "kap:1662182",
+        "kap:1662181",
+        "kap:1662180",
+        "kap:1662179",
+        "kap:1662178",
+        "kap:1662177",
+        "kap:1662175",
+        "kap:1662170",
+        "kap:1662169",
+        "kap:1662168",
+        "kap:1662167",
+        "kap:1662166",
+        "kap:1662163",
+        "kap:1662161",
         "kap:1662160",
         "kap:1662159",
         "kap:1662154",
@@ -17,7 +42,6 @@
         "kap:1662146",
         "kap:1662145",
         "kap:1662144",
-        "kap:1662143",
         "kap:1662142",
         "kap:1662141",
         "kap:1662140",
@@ -26,6 +50,7 @@
         "kap:1662137",
         "kap:1662136",
         "kap:1662135",
+        "kap:1662143",
         "kap:1662134",
         "kap:1662132",
         "kap:1662131",
@@ -478,32 +503,7 @@
         "kap:1661397",
         "kap:1661396",
         "kap:1661395",
-        "kap:1661394",
-        "kap:1661393",
-        "kap:1661392",
-        "kap:1661391",
-        "kap:1661380",
-        "kap:1661379",
-        "kap:1661378",
-        "kap:1661377",
-        "kap:1661365",
-        "kap:1661364",
-        "kap:1661363",
-        "kap:1661362",
-        "kap:1661361",
-        "kap:1661352",
-        "kap:1661338",
-        "kap:1661337",
-        "kap:1661336",
-        "kap:1661334",
-        "kap:1661333",
-        "kap:1661329",
-        "kap:1661328",
-        "kap:1661327",
-        "kap:1661326",
-        "kap:1661325",
-        "kap:1661324",
-        "kap:1661294"
+        "kap:1661394"
       ]
     },
     "bist": {
@@ -596,8 +596,13 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6739090:0",
+      "last_seen_key": "matriks:matriks:6739107:0",
       "seen_keys": [
+        "matriks:matriks:6739107:0",
+        "matriks:matriks:6739104:0",
+        "matriks:matriks:6739099:0",
+        "matriks:matriks:6739098:0",
+        "matriks:matriks:6739097:0",
         "matriks:matriks:6739090:0",
         "matriks:matriks:6739086:0",
         "matriks:matriks:6739077:0",
@@ -1663,6 +1668,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "matriks",
+      "text": "fitch pozitif faiz oranlar japon bankac l k sektorunun faaliyet ortam n iyilestiriyor",
+      "link": "https://tr.tradingview.com/news/matriks:6739107:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten icbc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6739104:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ecb kazaks c kt ac g kapan yor fiyatlara ucretlere geciskenligin guclenebilecegi anlam na geliyor",
+      "link": "https://tr.tradingview.com/news/matriks:6739099:0"
+    },
+    {
+      "source": "matriks",
+      "text": "hafta ac klanacak onemli veriler takvim",
+      "link": "https://tr.tradingview.com/news/matriks:6739098:0"
+    },
+    {
+      "source": "matriks",
+      "text": "haftal k bulten piramit menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6739097:0"
+    },
+    {
+      "source": "kap",
+      "text": "armgd pay baz nda devre kesici bildirimi armgd e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662197"
+    },
+    {
+      "source": "kap",
+      "text": "mrshl pay baz nda devre kesici bildirimi mrshl e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662196"
+    },
+    {
+      "source": "kap",
+      "text": "bsoke pay baz nda devre kesici bildirimi bsoke e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662195"
+    },
+    {
+      "source": "kap",
+      "text": "mrgyo pay baz nda devre kesici bildirimi mrgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662194"
+    },
+    {
+      "source": "kap",
+      "text": "etyat pay baz nda devre kesici bildirimi etyat e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662193"
+    },
+    {
+      "source": "kap",
+      "text": "info pay baz nda devre kesici bildirimi info e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662192"
+    },
+    {
+      "source": "kap",
+      "text": "sohoe pay baz nda devre kesici bildirimi sohoe e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662191"
+    },
+    {
+      "source": "kap",
+      "text": "tknka pay baz nda devre kesici bildirimi tknka e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662189"
+    },
+    {
+      "source": "kap",
+      "text": "fzlgy pay baz nda devre kesici bildirimi fzlgy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662185"
+    },
+    {
+      "source": "kap",
+      "text": "mogan pay baz nda devre kesici bildirimi mogan e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662184"
+    },
+    {
+      "source": "kap",
+      "text": "egepo pay baz nda devre kesici bildirimi egepo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662183"
+    },
+    {
+      "source": "kap",
+      "text": "grnyo ozel durum ac klamas genel paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket garanti yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662182"
+    },
+    {
+      "source": "kap",
+      "text": "grnyo haftal k rapor 11 09 2026 tarihli haftal k rapordur sirket garanti yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662181"
+    },
+    {
+      "source": "kap",
+      "text": "krtek pay baz nda devre kesici bildirimi krtek e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662180"
+    },
+    {
+      "source": "kap",
+      "text": "grnyo pay baz nda devre kesici bildirimi grnyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662179"
+    },
+    {
+      "source": "kap",
+      "text": "epy pay al m sat m bildirimi pay sahipligi hk sirket deniz portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662178"
+    },
+    {
+      "source": "kap",
+      "text": "cates pay baz nda devre kesici bildirimi cates e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662177"
+    },
+    {
+      "source": "kap",
+      "text": "smrtg ozel durum ac klamas genel uretim tesislerimizin cesitlendirilmesi sirket smart gunes enerjisi teknolojileri arastirma gelistirme uretim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662175"
+    },
+    {
+      "source": "kap",
+      "text": "dcttr ozel durum ac klamas genel bagl ortakl k pay sat s hakk nda sirket dct trading dis ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662170"
+    },
+    {
+      "source": "kap",
+      "text": "emirv kredi derecelendirmesi kredi derecelendirme notlar na iliskin bildirim 2026 sirket emir varlik yonetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662169"
+    },
+    {
+      "source": "kap",
+      "text": "ekgyo ozel durum ac klamas genel istanbul umraniye tepeustu sozlesme imzalanmas sirket emlak konut gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662168"
+    },
+    {
+      "source": "kap",
+      "text": "ttkom paylar n geri al nmas na iliskin bildirim pay geri al m program karar sirket turk telekomunikasyon a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662167"
+    },
+    {
+      "source": "kap",
+      "text": "tby tebyt yat r m kurulusu varant sertifika senetlerine iliskin bildirim haftalik varant alim satim sirket teb yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662166"
+    },
+    {
+      "source": "kap",
+      "text": "deniz dnz ozel durum ac klamas genel takipteki kredi portfoyunden sat s sirket denizbank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662163"
+    },
+    {
+      "source": "kap",
+      "text": "eup pay al m sat m bildirimi pay sahipligi hk sirket global md portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1662161"
+    },
     {
       "source": "matriks",
       "text": "ecb kazaks acele etmeden kademeli ad mlar atabiliriz",
@@ -7837,29 +7992,33 @@
     "deniz": {
       "gunluk_bulten": {
         "seen_keys": [
+          "c5a17379797cc5842b26af84d0aa5e837ec2c8bd",
           "d5bc1eecc6643f095d3844e65ba4653d095e17b7",
           "8431e0938e01bac95ff2141a6e4c0c6299d4c2c1"
         ],
         "seen_semantic_keys": [
+          "30c0f221f98f4ca9d4c91f69b09f1ea8ff6d5237",
           "243dfa7dbdafeddaf374bfc52ff1a3e59d4d1a9f",
           "bec040e846e91e419d4e9f56f7c11d5c2f6b3bb9"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-09-11",
-        "sent_at": "2026-09-11T09:38:47.808925+03:00"
+        "last_published_date": "2026-09-14",
+        "sent_at": "2026-09-14T10:16:31.663986+03:00"
       }
     },
     "phillipcapital": {
       "gunluk_bulten": {
         "seen_keys": [
+          "07d8d29216a3adb3f6ff87c9cfa4ffc077ae11cf",
           "20bf2f90a78d90fb69c81810d66bb9ce2bd0070c"
         ],
         "seen_semantic_keys": [
+          "4a30580e03d508ebe480de21bf7c87b3b919665d",
           "1c703589d8395c671d8582a57ca57b351db87067"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-09-10",
-        "sent_at": "2026-09-10T17:35:19.375102+03:00"
+        "last_published_date": "2026-09-14",
+        "sent_at": "2026-09-14T10:16:37.284339+03:00"
       },
       "sirket_raporu": {
         "seen_keys": [
