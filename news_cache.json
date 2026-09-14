@@ -1090,8 +1090,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-ortadogudaki-gelismeler-ve-hurmuz-gorusmesinin-ertelenmesiyle-3un-uzerinde-scrad-4064077",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/amazon-olumcul-kazann-ardndan-21air-ile-operasyonlar-durdurdu-4064086",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/amazon-olumcul-kazann-ardndan-21air-ile-operasyonlar-durdurdu-4064086",
+        "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-yapay-zeka-ve-ortadogu-endiseleriyle-dustu-4064085",
+        "investing:https://tr.investing.com/news/stock-market-news/anthropic-yatrmclara-ust-uste-ikinci-ceyrekte-kar-acklayacagn-soyledi-4064082",
         "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-ortadogudaki-gelismeler-ve-hurmuz-gorusmesinin-ertelenmesiyle-3un-uzerinde-scrad-4064077",
         "investing:https://tr.investing.com/news/company-news/zipalertinib-ve-kemoterapi-kombinasyonu-akciger-kanseri-calsmasnda-yasam-suresini-uzatt-93CH-4064074",
         "investing:https://tr.investing.com/news/technology-news/anthropicin-beklenen-halka-arz-icin-nasdaq-sectigi-bildirdi-4064073",
@@ -1099,9 +1102,6 @@
         "investing:https://tr.investing.com/news/company-news/definium-pazartesi-anksiyete-bozuklugu-calsma-sonuclarn-acklayacak-93CH-4064067",
         "investing:https://tr.investing.com/news/stock-market-news/wall-streetin-yapay-zeka-ticareti-dikkatle-izleniyor-4064066",
         "investing:https://tr.investing.com/news/politics-news/trump-zelenskiye-rus-dizel-tesislerine-saldrlar-durdurmasn-soyledi-4064063",
-        "investing:https://tr.investing.com/news/economy-news/bessent-getiri-5i-asarsa-bazukasn-atesleyecek-mi-4064061",
-        "investing:https://tr.investing.com/news/economy-news/merkez-bankalar-politika-belirlerken-piyasa-enflasyon-beklentilerini-tercih-etmeli--ubs-4064059",
-        "investing:https://tr.investing.com/news/economy-news/trumpn-kurtulus-gunu-20-2028de-sert-politika-degisikligi-riski-tasyor--bca-research-4064052",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1122,6 +1122,9 @@
         "investing:https://tr.investing.com/analysis/turkiyenin-artemis-imzas-bistte-bu-hisseleri-one-ckarabilir-200505970",
         "investing:https://tr.investing.com/analysis/investing-pro-ile-1-dakikada-ucuz-hisseleri-kesfedin-200505934",
         "investing:https://tr.investing.com/analysis/borsada-para-kazanmann-formulunu-cozdum-200505910",
+        "investing:https://tr.investing.com/news/economy-news/bessent-getiri-5i-asarsa-bazukasn-atesleyecek-mi-4064061",
+        "investing:https://tr.investing.com/news/economy-news/merkez-bankalar-politika-belirlerken-piyasa-enflasyon-beklentilerini-tercih-etmeli--ubs-4064059",
+        "investing:https://tr.investing.com/news/economy-news/trumpn-kurtulus-gunu-20-2028de-sert-politika-degisikligi-riski-tasyor--bca-research-4064052",
         "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-etflerinden-45-milyar-dolar-cks-yasand-4064049",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-deva-holding-onerisi-22-ayda-47-kazandrd-93CH-4064047",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-gundogdu-gda-hissesinde-50-dususu-isaretledi-93CH-4064046",
@@ -1468,8 +1471,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:69af7aa18d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:714ed0e2ad9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:714ed0e2ad9e8:0",
+        "tradingview:fxstreet:959e186a4d9e8:0",
         "tradingview:fxstreet:69af7aa18d9e8:0",
         "tradingview:fxstreet:8ffb301abd9e8:0",
         "tradingview:beincrypto:0ffb06817d9e8:0",
@@ -1626,6 +1631,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "revolut sald rganlar her gun musteri verilerini s zd rmakla tehdit ediyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:714ed0e2ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro piyasalar n fed faiz art r m n fiyatlamas yla 1 1600 seviyesinin alt nda zay fl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:959e186a4d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "amazon olumcul kazan n ard ndan 21air operasyonlar durdurdu",
+      "link": "https://tr.investing.com/news/stock-market-news/amazon-olumcul-kazann-ardndan-21air-ile-operasyonlar-durdurdu-4064086"
+    },
+    {
+      "source": "investing",
+      "text": "abd hisse senedi vadeli islemleri yapay zeka ortadogu endiseleriyle dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-yapay-zeka-ve-ortadogu-endiseleriyle-dustu-4064085"
+    },
+    {
+      "source": "investing",
+      "text": "anthropic yat r mc lara ust uste ikinci ceyrekte kar ac klayacag n soyledi",
+      "link": "https://tr.investing.com/news/stock-market-news/anthropic-yatrmclara-ust-uste-ikinci-ceyrekte-kar-acklayacagn-soyledi-4064082"
+    },
     {
       "source": "investing",
       "text": "petrol fiyatlar ortadogu daki gelismeler hurmuz gorusmesinin ertelenmesiyle 3 un uzerinde s crad",
