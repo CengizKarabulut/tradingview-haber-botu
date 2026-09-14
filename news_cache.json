@@ -700,8 +700,9 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aa65d6495016b5817e59bed/PICNEWS/tr/pezeskiyan-dan-trump-a-sert-yanit-iran-teslim-olmayacak-13-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aa65ec095016b5817e59bee/PICNEWS/tr/supertanker-navlunlari-rekor-kirdi-gunluk-800-bin-dolar-13-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6aa65ec095016b5817e59bee/PICNEWS/tr/supertanker-navlunlari-rekor-kirdi-gunluk-800-bin-dolar-13-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aa65d6495016b5817e59bed/PICNEWS/tr/pezeskiyan-dan-trump-a-sert-yanit-iran-teslim-olmayacak-13-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aa65bc995016b5817e59bec/PICNEWS/tr/pezeskiyan-iran-ile-umman-in-hurmuz-bogazi-anlasmasi-yarin-sonuclanacak-13-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aa6592f24008d7d43730b13/PICNEWS/tr/turkiye-den-ukrayna-gorusmeleri-icin-ev-sahipligi-teklifi-moskova-uclu-toplantinin-yapilmasini-bekliyor-13-09-26/",
@@ -1032,10 +1033,6 @@
       "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/enerji-guvenligi-baskisi-avrupa-ve-asyayi-yenilenebilir-enerjiye-yoneltiyor/4055707",
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/enerji-guvenligi-baskisi-avrupa-ve-asyayi-yenilenebilir-enerjiye-yoneltiyor/4055707",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/fede-iliskin-faiz-artirim-beklentisi-emtia-piyasasinda-satis-baskisini-yukseltti/4055686",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/vergi-denetimlerinde-odak-buyuk-mukellefler-oldu/4055722",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kitlerde-yonetisim-reformuyla-hesap-verebilirlik-ve-kuresel-rekabet-gucu-artacak/4055668",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/evlenecek-genclere-indirim-destegi-saglayan-firma-sayisi-1191e-yukseldi/4055700",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-kurum-istanbuldaki-kiralik-sosyal-konutlarin-goruntulerini-paylasti/4055719",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/toki-egitim-yatirimlariyla-31-bin-782-dersligi-hizmete-sundu/4055627",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/samda-yeniden-imar-fuari-turkiye-ve-bolge-ulkelerini-bulusturdu/4056152",
@@ -1047,6 +1044,10 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-kacirdan-tekstil-sektorunde-yesil-ve-dijital-donusum-mesaji/4055607",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/enerji-ve-tabii-kaynaklar-bakani-bayraktar-azerbaycanla-enerji-isbirliginde-yeni-hedefleri-anlatti/4055001",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kapali-sulama-sebekesinin-uzunlu-barajindaki-su-kayiplarini-yari-yariya-azaltmasi-hedefleniyor/4055034",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/fede-iliskin-faiz-artirim-beklentisi-emtia-piyasasinda-satis-baskisini-yukseltti/4055686",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/vergi-denetimlerinde-odak-buyuk-mukellefler-oldu/4055722",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kitlerde-yonetisim-reformuyla-hesap-verebilirlik-ve-kuresel-rekabet-gucu-artacak/4055668",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/evlenecek-genclere-indirim-destegi-saglayan-firma-sayisi-1191e-yukseldi/4055700",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbulda-kiralik-sosyal-konut-basvurulari-pazartesi-basliyor/4055003",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/openai-ceosu-altman-sirketin-bu-yil-halka-acilmayacagini-soyledi/4055573",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ankara-barajlarindaki-doluluk-orani-gecen-yila-gore-yuzde-108-artti/4054995",
@@ -1471,8 +1472,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:714ed0e2ad9e8:0",
+      "last_seen_key": "tradingview:fxstreet:0e0a9f3f1d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:0e0a9f3f1d9e8:0",
+        "tradingview:fxstreet:316d26f6bd9e8:0",
+        "tradingview:fxstreet:73463ac6ed9e8:0",
         "tradingview:cointelegraph:714ed0e2ad9e8:0",
         "tradingview:fxstreet:959e186a4d9e8:0",
         "tradingview:fxstreet:69af7aa18d9e8:0",
@@ -1631,6 +1635,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "wti ham petrol suudi arabistan boru hatt kapan s n n ard ndan yaklas k dort ay n zirvelerine dogru toparland",
+      "link": "https://tr.tradingview.com/news/fxstreet:0e0a9f3f1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini haftaki ingiltere verileri fed boe oncesinde usd kars s nda 1 3500 uzerinde konsolide oluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:316d26f6bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7743 seviyesine k yasla 6 7698 olarak belirledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:73463ac6ed9e8:0"
+    },
+    {
+      "source": "forinvest",
+      "text": "supertanker navlunlar rekor k rd gunluk 800 bin dolar orta dogu daki gerilimin deniz tas mac l g na yans mas yla supertanker navlunlar rekor seviyelere c kt baltic exchange in orta dogu dan cin e vlcc tas mac l g izledigi gosterge gunluk yaklas",
+      "link": "https://www.foreks.com/haber/detay/6aa65ec095016b5817e59bee/PICNEWS/tr/supertanker-navlunlari-rekor-kirdi-gunluk-800-bin-dolar-13-09-26"
+    },
     {
       "source": "tradingview",
       "text": "revolut sald rganlar her gun musteri verilerini s zd rmakla tehdit ediyor",
