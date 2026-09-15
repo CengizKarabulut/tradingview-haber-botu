@@ -2,8 +2,15 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1663241",
+      "last_seen_key": "kap:1663253",
       "seen_keys": [
+        "kap:1663253",
+        "kap:1663252",
+        "kap:1663251",
+        "kap:1663250",
+        "kap:1663249",
+        "kap:1663248",
+        "kap:1663247",
         "kap:1663241",
         "kap:1663240",
         "kap:1663238",
@@ -38,7 +45,6 @@
         "kap:1663208",
         "kap:1663207",
         "kap:1663206",
-        "kap:1663205",
         "kap:1663203",
         "kap:1663202",
         "kap:1663201",
@@ -94,6 +100,7 @@
         "kap:1663103",
         "kap:1663102",
         "kap:1663101",
+        "kap:1663205",
         "kap:1663100",
         "kap:1663099",
         "kap:1663098",
@@ -496,14 +503,7 @@
         "kap:1662214",
         "kap:1662213",
         "kap:1662210",
-        "kap:1662209",
-        "kap:1662208",
-        "kap:1662207",
-        "kap:1662206",
-        "kap:1662205",
-        "kap:1662204",
-        "kap:1662203",
-        "kap:1662202"
+        "kap:1662209"
       ]
     },
     "bist": {
@@ -611,6 +611,10 @@
         "matriks:matriks:6744245:0",
         "matriks:matriks:6744243:0",
         "matriks:matriks:6744241:0",
+        "matriks:matriks:6744238:0",
+        "matriks:matriks:6744235:0",
+        "matriks:matriks:6744232:0",
+        "matriks:matriks:6744230:0",
         "matriks:matriks:6744228:0",
         "matriks:matriks:6744225:0",
         "matriks:matriks:6744222:0",
@@ -623,6 +627,7 @@
         "matriks:matriks:6744203:0",
         "matriks:matriks:6744186:0",
         "matriks:matriks:6744180:0",
+        "matriks:matriks:6744153:0",
         "matriks:matriks:6744128:0",
         "matriks:matriks:6744122:0",
         "matriks:matriks:6744111:0",
@@ -670,8 +675,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-de-hanehalki-geliri-rekor-seviyeye-ulasti-3788324",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/rusya-dan-trump-in-enerji-ateskesi-teklifine-yanit-3788326",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/rusya-dan-trump-in-enerji-ateskesi-teklifine-yanit-3788326",
         "bloomberght:https://www.bloomberght.com/abd-de-hanehalki-geliri-rekor-seviyeye-ulasti-3788324",
         "bloomberght:https://www.bloomberght.com/fransa-da-butce-alarmi-her-seyi-finanse-edemeyiz-3788323",
         "bloomberght:https://www.bloomberght.com/abd-ordusu-dunya-yorungesine-uzay-silahi-yerlestirdi-3788322",
@@ -906,12 +912,11 @@
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupa-parlamentosu-sinirda-karbon-duzenlemesinin-kapsamini-genisletmek-istiyor/4058110",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-ara-secimler-yaklasirken-ekonomideki-zorlu-tablo-dikkati-cekiyor/4057489",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligindan-dtonun-otomotiv-sektorune-yonelik-duzenlemelere-dair-panel-raporuna-iliskin-aciklama/4058050",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/rusyada-benzin-sikintisi-yeniden-gundemde/4057958",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdnin-10-yillik-tahvillerindeki-sert-satis-baskisi-kuresel-capta-tehdit-olusturuyor/4057718",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligindan-dtonun-otomotiv-sektorune-yonelik-duzenlemelere-dair-panel-raporuna-iliskin-aciklama/4058050",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/butce-uygulama-sonuclari-aciklandi/4057512",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/calisma-ve-sosyal-guvenlik-bakani-isikhan-bir-yil-icerisinde-500-gencimizi-kovan-alaninda-uzmanlastirmayi-hedefliyoruz/4057983",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-23-yilda-esnafimiza-853-milyar-lira-finansman-destegi-ve-kolayligi-sagladik/4058176",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/uaea-baskani-grossiden-turkiyenin-nukleer-enerjideki-ilerlemesine-ovgu/4057999",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-hanehalki-geliri-2025te-rekor-seviyeye-yukselirken-yoksulluk-azaldi-/4058271",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4058159",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/cop31-kapsaminda-cevre-ve-iklim-medya-turlarinin-ucuncusu-duzenlendi/4058151",
@@ -921,22 +926,24 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-bakanligimiz-1342-kadin-kooperatifini-destekliyor/4057887",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbul-kuresel-e-ihracat-zirvesi-30-ulkeden-1050-sirketi-bulusturdu/4057859",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/sifir-atik-vakfi-ve-vakifbank-stratejik-isbirligi-protokolu-imzaladi/4057822",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/calisma-ve-sosyal-guvenlik-bakani-isikhan-bir-yil-icerisinde-500-gencimizi-kovan-alaninda-uzmanlastirmayi-hedefliyoruz/4057983",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-23-yilda-esnafimiza-853-milyar-lira-finansman-destegi-ve-kolayligi-sagladik/4058176",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dto-ticarette-isbirliginin-zayiflamasi-kuresel-ekonomik-buyumede-onemli-firsat-kaybina-yol-acabilir/4057698"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/adaptive-biotechnologies-hissesi-2689-dolarda-zirve-yapt-93CH-4067113",
+      "last_seen_key": "investing:https://tr.investing.com/news/sec-filings/codiagnostics-readygo-ile-teknoloji-degerlendirme-anlasmas-imzalad-93CH-4067161",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/company-news/adaptive-biotechnologies-hissesi-2689-dolarda-zirve-yapt-93CH-4067113",
-        "investing:https://tr.investing.com/news/insider-trading-news/redwood-trust-yoneticisi-greg-kubicek-192560-dolar-degerinde-hisse-ald-93CH-4067112",
-        "investing:https://tr.investing.com/news/insider-trading-news/heritage-financial-yoneticisi-rivera-37134-dolar-degerinde-hisse-satt-93CH-4067111",
-        "investing:https://tr.investing.com/news/analyst-ratings/rosenblatt-ambarella-hissesi-icin-al-tavsiyesini-korudu-93CH-4067110",
-        "investing:https://tr.investing.com/news/cryptocurrency-news/xrp-11-orannda-geriledi-4067108",
-        "investing:https://tr.investing.com/news/company-news/elastic-security-avcomparatives-epr-testinde-en-yuksek-puan-ald-93CH-4067107",
-        "investing:https://tr.investing.com/news/stock-market-news/blackstone-rekor-fon-toplama-ve-2026da-dokuz-halka-arz-acklad-93CH-4067106",
-        "investing:https://tr.investing.com/news/economy-news/abdnin-iranla-savas-38-milyar-dolara-mal-oldu-4067104",
-        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landden-1-hisse-ald-93CH-4067102",
-        "investing:https://tr.investing.com/news/stock-market-news/factory-200-milyon-dolar-toplad-degerlemesi-5-milyara-ckt-93CH-4067101",
+        "investing:https://tr.investing.com/news/sec-filings/codiagnostics-readygo-ile-teknoloji-degerlendirme-anlasmas-imzalad-93CH-4067161",
+        "investing:https://tr.investing.com/news/stock-market-news/tempest-therapeutics-hisseleri-senlang-cart-anlasmasyla-yukseldi-93CH-4067157",
+        "investing:https://tr.investing.com/news/company-news/tempest-therapeutics-cart-platformu-icin-opsiyon-anlasmas-imzalad-93CH-4067154",
+        "investing:https://tr.investing.com/news/company-news/almanya-planetten-ozel-uydu-hizmetleri-ald-93CH-4067153",
+        "investing:https://tr.investing.com/news/company-news/bluelinx-rdi-korkuluk-dagtmn-21-lokasyona-ckaryor-93CH-4067152",
+        "investing:https://tr.investing.com/news/company-news/sabre-135-milyar-dolarlk-tahvil-ihracn-9875-faizle-fiyatlad-93CH-4067151",
+        "investing:https://tr.investing.com/news/company-news/kilroy-realty-hisse-basna-054-dolar-temettu-acklad-93CH-4067150",
+        "investing:https://tr.investing.com/news/company-news/credit-acceptance-kredi-tesisini-2028e-uzatt-93CH-4067149",
+        "investing:https://tr.investing.com/news/company-news/american-eagle-ceyreklik-0125-dolar-temettu-acklad-93CH-4067148",
+        "investing:https://tr.investing.com/news/company-news/tfi-international-047-dolar-temettu-acklad-93CH-4067147",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -957,6 +964,16 @@
         "investing:https://tr.investing.com/analysis/3-ayda-99-getiren-yapay-zekann-eylul-portfoyu-200506025",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
         "investing:https://tr.investing.com/analysis/bist-endekslerinde-yeni-donem-hangi-hisseler-endeks-degisikligi-beklentisinde-200505994",
+        "investing:https://tr.investing.com/news/company-news/adaptive-biotechnologies-hissesi-2689-dolarda-zirve-yapt-93CH-4067113",
+        "investing:https://tr.investing.com/news/insider-trading-news/redwood-trust-yoneticisi-greg-kubicek-192560-dolar-degerinde-hisse-ald-93CH-4067112",
+        "investing:https://tr.investing.com/news/insider-trading-news/heritage-financial-yoneticisi-rivera-37134-dolar-degerinde-hisse-satt-93CH-4067111",
+        "investing:https://tr.investing.com/news/analyst-ratings/rosenblatt-ambarella-hissesi-icin-al-tavsiyesini-korudu-93CH-4067110",
+        "investing:https://tr.investing.com/news/cryptocurrency-news/xrp-11-orannda-geriledi-4067108",
+        "investing:https://tr.investing.com/news/company-news/elastic-security-avcomparatives-epr-testinde-en-yuksek-puan-ald-93CH-4067107",
+        "investing:https://tr.investing.com/news/stock-market-news/blackstone-rekor-fon-toplama-ve-2026da-dokuz-halka-arz-acklad-93CH-4067106",
+        "investing:https://tr.investing.com/news/economy-news/abdnin-iranla-savas-38-milyar-dolara-mal-oldu-4067104",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landden-1-hisse-ald-93CH-4067102",
+        "investing:https://tr.investing.com/news/stock-market-news/factory-200-milyon-dolar-toplad-degerlemesi-5-milyara-ckt-93CH-4067101",
         "investing:https://tr.investing.com/news/stock-market-news/hdfc-bank-hissesi-bugun-neden-yukseliyor-93CH-4065694",
         "investing:https://tr.investing.com/news/company-news/sysco-1-milyar-dolarlk-hisse-arzn-81-dolardan-fiyatlandrd-93CH-4065692",
         "investing:https://tr.investing.com/news/stock-market-news/kioxia-hissesi-bugun-neden-yukseliste-93CH-4065690",
@@ -1259,8 +1276,10 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-tazesi-cabuk-bozuldugu-icin-kurutuluyor-manisanin-tescilli-lezzeti-dunya-sofralarinda-1741950",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/pusula-portfoy-fonlari-temerrude-dustu-1741965",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/pusula-portfoy-fonlari-temerrude-dustu-1741965",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-ikinci-el-telefon-sirketinin-sitesine-ulasilamadi-musteriler-panikledi-sirketin-patronu-konustu-1741964",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-tazesi-cabuk-bozuldugu-icin-kurutuluyor-manisanin-tescilli-lezzeti-dunya-sofralarinda-1741950",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-bankalarin-promosyon-rekabeti-emekliye-yarayacak-aninda-35-bin-tl-odenecek-1741947",
         "ntvpara:https://www.ntv.com.tr/ntvpara/ucaga-binecekler-dikkat-hepsi-tek-uygulamaya-girdi-2-gb-internet-de-hediye-1741944",
@@ -1332,8 +1351,18 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/uc-aktif-madde-iceren-bitki-koruma-urunlerinin-kullanimi-sonlandirilacak-956801.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-bolat-esnafimiza-853-milyar-lira-finansman-destegi-ve-kolayligi-sagladik-956936.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-bolat-esnafimiza-853-milyar-lira-finansman-destegi-ve-kolayligi-sagladik-956936.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-dogal-gaz-ithalati-temmuzda-yuzde-2172-azaldi-956933.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/petrol-ithalati-temmuzda-yuzde-69-azaldi-956930.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyede-e-ticaret-hacmi-45-trilyon-lirayi-gecti-956928.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/borsa-gunu-dususle-tamamladi-956927.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/cocuklar-icin-2-milyar-186-milyon-liralik-sed-odemesi-956893.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/tarim-ufe-agustosta-azaldi-956872.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/hizmet-uretim-endeksi-temmuzda-artti-956868.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/gram-altinda-dusus-suruyor-956863.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/evde-bakim-odemeleri-ailelerin-hesaplarina-yatirildi-956861.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/uc-aktif-madde-iceren-bitki-koruma-urunlerinin-kullanimi-sonlandirilacak-956801.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-sivil-havacilik-filosu-yuzde-10-buyudu-956784.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/gunesin-elektrik-uretimindeki-payi-10-yilda-28-kat-artti-956772.html",
@@ -1539,6 +1568,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "bakan bolat esnaf m za 853 milyar lira finansman destegi kolayl g saglad k ticaret bakan omer bolat esnafa sunulan finansman desteklerine iliskin 480 milyar liras 3 y lda olmak uzere 23 y lda esnaf m za 853 milyar lira finansman destegi kolayl g saglad k tam 4 milyon 760 bin kez kullan m olmus ded",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-esnafimiza-853-milyar-lira-finansman-destegi-ve-kolayligi-sagladik-956936.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "turkiye nin dogal gaz ithalat temmuzda yuzde 21 72 azald turkiye nin dogal gaz ithalat temmuzda gecen y l n ayn ay na gore yuzde 21 72 azalarak yaklas k 3 milyar 63 milyon metrekup oldu",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-dogal-gaz-ithalati-temmuzda-yuzde-2172-azaldi-956933.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "petrol ithalat temmuzda yuzde 6 9 azald turkiye nin toplam petrol petrol urunleri ithalat temmuzda gecen y l n ayn ay na gore yuzde 6 9 azalarak 4 milyon 520 bin 968 ton oldu",
+      "link": "https://www.trthaber.com/haber/ekonomi/petrol-ithalati-temmuzda-yuzde-69-azaldi-956930.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "turkiye eticaret hacmi 4 5 trilyon liray gecti ticaret bakan omer bolat turkiye e ticaret hacminin 2025 itibar yla 4 5 trilyon liray gectigini ifade etti",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-e-ticaret-hacmi-45-trilyon-lirayi-gecti-956928.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "borsa gunu dususle tamamlad borsa istanbul bist 100 endeksi gunu yuzde 2 41 deger kaybederek 13 892 30 puandan tamamlad",
+      "link": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-dususle-tamamladi-956927.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "cocuklar 2 milyar 186 milyon liral k sed odemesi cocuklar n sosyal ac dan desteklenmesi egitimde f rsat esitliginin saglanmas eylul ay na iliskin 2 milyar 186 milyon lira tutar ndaki sosyal ekonomik destek sed odemesi hesaplara yatt",
+      "link": "https://www.trthaber.com/haber/ekonomi/cocuklar-icin-2-milyar-186-milyon-liralik-sed-odemesi-956893.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "tar m ufe agustosta azald tar m urunleri uretici fiyat endeksi tar m ufe agustosta onceki aya gore yuzde 0 93 azal rken gecen y l n ayn ay na k yasla yuzde 21 91 artt",
+      "link": "https://www.trthaber.com/haber/ekonomi/tarim-ufe-agustosta-azaldi-956872.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "hizmet uretim endeksi temmuzda artt hizmet uretim endeksi temmuzda y ll k bazda yuzde 3 ayl k bazda yuzde 1 art s gosterdi",
+      "link": "https://www.trthaber.com/haber/ekonomi/hizmet-uretim-endeksi-temmuzda-artti-956868.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "gram alt nda dusus suruyor gram alt n gune dususle baslamas n n ard ndan 6 bin 707 liradan islem goruyor",
+      "link": "https://www.trthaber.com/haber/ekonomi/gram-altinda-dusus-suruyor-956863.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "evde bak m odemeleri ailelerin hesaplar na yat r ld evlerinde bak lan tam bag ml vatandaslara ailelerine ekonomik destek saglamak amac yla ay toplam 7 7 milyar lira evde bak m yard m hesaplara yat r ld",
+      "link": "https://www.trthaber.com/haber/ekonomi/evde-bakim-odemeleri-ailelerin-hesaplarina-yatirildi-956861.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "pusula portfoy fonlar temerrude dustu pusula portfoy yonetimi kurucu oldugu baz yat r m fonlar n n kat lma pay iade odemelerinin temerrude dustugunu ac klad",
+      "link": "https://www.ntv.com.tr/ntvpara/pusula-portfoy-fonlari-temerrude-dustu-1741965"
+    },
+    {
+      "source": "ntvpara",
+      "text": "ikinci el telefon sirketinin sitesine ulas lamad musteriler panikledi sirketin patronu konustu cep telefonu al m sat m isi yapan easycep in kurumsal web sitesinin kapal olmas nedeniyle panikleyenler solugu sosyal medyada ald sirketin patronu yoneltilen iddialara ac klama yapt",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-ikinci-el-telefon-sirketinin-sitesine-ulasilamadi-musteriler-panikledi-sirketin-patronu-konustu-1741964"
+    },
+    {
+      "source": "investing",
+      "text": "co diagnostics readygo teknoloji degerlendirme anlasmas imzalad",
+      "link": "https://tr.investing.com/news/sec-filings/codiagnostics-readygo-ile-teknoloji-degerlendirme-anlasmas-imzalad-93CH-4067161"
+    },
+    {
+      "source": "investing",
+      "text": "tempest therapeutics hisseleri senlang car t anlasmas yla yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/tempest-therapeutics-hisseleri-senlang-cart-anlasmasyla-yukseldi-93CH-4067157"
+    },
+    {
+      "source": "investing",
+      "text": "tempest therapeutics car t platformu opsiyon anlasmas imzalad",
+      "link": "https://tr.investing.com/news/company-news/tempest-therapeutics-cart-platformu-icin-opsiyon-anlasmas-imzalad-93CH-4067154"
+    },
+    {
+      "source": "investing",
+      "text": "almanya planet ten ozel uydu hizmetleri ald",
+      "link": "https://tr.investing.com/news/company-news/almanya-planetten-ozel-uydu-hizmetleri-ald-93CH-4067153"
+    },
+    {
+      "source": "investing",
+      "text": "bluelinx rdi korkuluk dag t m n 21 lokasyona c kar yor",
+      "link": "https://tr.investing.com/news/company-news/bluelinx-rdi-korkuluk-dagtmn-21-lokasyona-ckaryor-93CH-4067152"
+    },
+    {
+      "source": "investing",
+      "text": "sabre 1 35 milyar dolarl k tahvil ihrac n 9 875 faizle fiyatlad",
+      "link": "https://tr.investing.com/news/company-news/sabre-135-milyar-dolarlk-tahvil-ihracn-9875-faizle-fiyatlad-93CH-4067151"
+    },
+    {
+      "source": "investing",
+      "text": "kilroy realty hisse bas na 0 54 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/kilroy-realty-hisse-basna-054-dolar-temettu-acklad-93CH-4067150"
+    },
+    {
+      "source": "investing",
+      "text": "credit acceptance kredi tesisini 2028 e uzatt",
+      "link": "https://tr.investing.com/news/company-news/credit-acceptance-kredi-tesisini-2028e-uzatt-93CH-4067149"
+    },
+    {
+      "source": "investing",
+      "text": "american eagle ceyreklik 0 125 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/american-eagle-ceyreklik-0125-dolar-temettu-acklad-93CH-4067148"
+    },
+    {
+      "source": "investing",
+      "text": "tfi international 0 47 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/tfi-international-047-dolar-temettu-acklad-93CH-4067147"
+    },
+    {
+      "source": "bloomberght",
+      "text": "rusya dan trump n enerji ateskesi teklifine yan t rusya d sisleri bakanl g sozcusu mariya zaharova trump n rusya ukrayna aras nda enerji ateskesi teklifinin somut ad mlara donusturulmesi gerektigini belirterek moskova n n ateskeslere uydugunu ancak ayn durumun kiev gecerli",
+      "link": "https://www.bloomberght.com/rusya-dan-trump-in-enerji-ateskesi-teklifine-yanit-3788326"
+    },
+    {
+      "source": "kap",
+      "text": "klypv kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 sirket kalyon gunes teknolojileri uretim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663253"
+    },
+    {
+      "source": "kap",
+      "text": "klypv sirket genel bilgi formu sirket kalyon gunes teknolojileri uretim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663252"
+    },
+    {
+      "source": "kap",
+      "text": "masfn sirket genel bilgi formu sirket masfen enerji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663251"
+    },
+    {
+      "source": "kap",
+      "text": "klypv yonetim kurulu komiteleri yonetim kurulu komiteleri hk sirket kalyon gunes teknolojileri uretim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663250"
+    },
+    {
+      "source": "kap",
+      "text": "enery paylar n geri al nmas na iliskin bildirim geri al m surecinin tamamlanmas hk sirket enerya enerji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663249"
+    },
+    {
+      "source": "kap",
+      "text": "ahgaz paylar n geri al nmas na iliskin bildirim geri al m surecinin tamamlanmas hk sirket ahlatci dogal gaz dagitim enerji yatirim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663248"
+    },
+    {
+      "source": "kap",
+      "text": "klypv sermaye art r m azalt m islemlerine iliskin bildirim tahsisli sermaye art r m na iliskin esas sozlesme tadili hk sirket kalyon gunes teknolojileri uretim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663247"
+    },
     {
       "source": "ntvpara",
       "text": "30 ton kuru erik satacaklar manisa n n cografi isaretli figan i efendi erigi tazesi cabuk bozuldugu ilacs z dogal yontemlerle kurutulup tum y l boyunca piyasaya sunuluyor",
@@ -8888,156 +9067,6 @@
       "source": "kap",
       "text": "hrket ihrac belgesi bedelsiz sermaye art r m na iliskin ihrac belgesi sirket hareket proje tasimaciligi yuk muhendisligi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1661812"
-    },
-    {
-      "source": "kap",
-      "text": "hrket sermaye art r m azalt m islemlerine iliskin bildirim bedelsiz sermaye art rm na iliskin spk basvuru sonucu sirket hareket proje tasimaciligi yuk muhendisligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661811"
-    },
-    {
-      "source": "kap",
-      "text": "mngfa ihrac tavan na iliskin bildirim 09 09 2026 tarihli ihrac tavan na iliskin bildirim sirket mng faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661810"
-    },
-    {
-      "source": "kap",
-      "text": "mngfa ihrac belgesi ihrac belgesi 340 000 000 tl sirket mng faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661809"
-    },
-    {
-      "source": "kap",
-      "text": "akfgy pay baz nda devre kesici bildirimi akfgy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661808"
-    },
-    {
-      "source": "kap",
-      "text": "sahar kredi derecelendirmesi kredi derecelendirme not bildirimi sirket saha kurumsal yonetim kredi derecelendirme hizmetleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661807"
-    },
-    {
-      "source": "kap",
-      "text": "trilc pay islem s ras kapatma acma pay s ras n n isleme ac lmas sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661806"
-    },
-    {
-      "source": "kap",
-      "text": "mogan pay baz nda devre kesici bildirimi mogan e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661805"
-    },
-    {
-      "source": "kap",
-      "text": "hedef pay baz nda devre kesici bildirimi hedef e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661804"
-    },
-    {
-      "source": "kap",
-      "text": "albmd alm sirket genel bilgi formu sirket pusula yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661803"
-    },
-    {
-      "source": "kap",
-      "text": "lkmnh pay baz nda devre kesici bildirimi lkmnh e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661802"
-    },
-    {
-      "source": "kap",
-      "text": "trilc finansal rapor ek sure taleplerine iliskin spk degerlendirmesi finansal rapor ek sure taleplerine iliskin spk degerlendirmesi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661800"
-    },
-    {
-      "source": "kap",
-      "text": "ismen iym kredi derecelendirmesi kredi derecelendirme ac klamas sirket is yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661799"
-    },
-    {
-      "source": "kap",
-      "text": "dmd dsyat pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfdstk92610 isin kodlu finansman bonosu itfas sirket destek yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661798"
-    },
-    {
-      "source": "kap",
-      "text": "armgd pay baz nda devre kesici bildirimi armgd e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661797"
-    },
-    {
-      "source": "kap",
-      "text": "papil pay baz nda devre kesici bildirimi papil e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661796"
-    },
-    {
-      "source": "kap",
-      "text": "krdma pay baz nda devre kesici bildirimi krdma e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661792"
-    },
-    {
-      "source": "kap",
-      "text": "grm gryat yat r m kurulusu varant sertifika senetlerine iliskin bildirim haftal k al m sat m sirket garanti yatirim menkul kiymetler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661791"
-    },
-    {
-      "source": "kap",
-      "text": "afb aktif pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren ozel sektor tahvil ihrac isin trsakyb92722 sirket aktif yatirim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661789"
-    },
-    {
-      "source": "kap",
-      "text": "mngfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfmngf92619 is n kodlu borclanma arac itfas sirket mng faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661788"
-    },
-    {
-      "source": "kap",
-      "text": "miatk pay baz nda devre kesici bildirimi miatk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661787"
-    },
-    {
-      "source": "kap",
-      "text": "garfa kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 kurumsal yonetim komitesi uye atanmas sirket garanti faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661786"
-    },
-    {
-      "source": "kap",
-      "text": "garfa sirket genel bilgi formu sirket garanti faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661785"
-    },
-    {
-      "source": "kap",
-      "text": "kords ihrac belgesi ihrac belgesi sirket kordsa teknik tekstil a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661784"
-    },
-    {
-      "source": "kap",
-      "text": "kords sermaye art r m azalt m islemlerine iliskin bildirim bedelsiz sermaye art r m na iliskin spk basvurumuzun onaylanmas bedelsiz pay alma hakk kullan m baslang c tarihinin belirlenmesi sirket kordsa teknik tekstil a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661783"
-    },
-    {
-      "source": "kap",
-      "text": "trate kredi derecelendirmesi kredi derecelendirmesi sirket istanbul uluslararasi derecelendirme hizmetleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661782"
-    },
-    {
-      "source": "kap",
-      "text": "tknka pay baz nda devre kesici bildirimi tknka e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661781"
-    },
-    {
-      "source": "kap",
-      "text": "mhrgy sirket genel bilgi formu sirket mhr gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661780"
-    },
-    {
-      "source": "kap",
-      "text": "tmpol pay baz nda devre kesici bildirimi tmpol e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661779"
-    },
-    {
-      "source": "kap",
-      "text": "grnyo ozel durum ac klamas genel paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket garanti yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661778"
-    },
-    {
-      "source": "kap",
-      "text": "unlus uns yat r m kurulusu varant sertifika senetlerine iliskin bildirim goldman sachs international varant al m sat m islem bildirimi sirket unlu menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661775"
     }
   ],
   "research_reports_v8": {
