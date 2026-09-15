@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1663253",
+      "last_seen_key": "kap:1663255",
       "seen_keys": [
+        "kap:1663255",
+        "kap:1663254",
         "kap:1663253",
         "kap:1663252",
         "kap:1663251",
@@ -501,9 +503,7 @@
         "kap:1662217",
         "kap:1662215",
         "kap:1662214",
-        "kap:1662213",
-        "kap:1662210",
-        "kap:1662209"
+        "kap:1662213"
       ]
     },
     "bist": {
@@ -675,8 +675,12 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/rusya-dan-trump-in-enerji-ateskesi-teklifine-yanit-3788326",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-16092026-3788330",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-16092026-3788330",
+        "bloomberght:https://www.bloomberght.com/iran-savasinin-pentagon-a-maliyeti-38-milyar-dolara-ulasti-3788329",
+        "bloomberght:https://www.bloomberght.com/abd-senatosu-nda-kripto-yasa-tasarisi-clarity-act-reddedildi-3788328",
+        "bloomberght:https://www.bloomberght.com/spacex-22-eylul-de-starship-i-ilk-kez-yorungeye-yerlestirmeyi-deneyecek-3788327",
         "bloomberght:https://www.bloomberght.com/rusya-dan-trump-in-enerji-ateskesi-teklifine-yanit-3788326",
         "bloomberght:https://www.bloomberght.com/abd-de-hanehalki-geliri-rekor-seviyeye-ulasti-3788324",
         "bloomberght:https://www.bloomberght.com/fransa-da-butce-alarmi-her-seyi-finanse-edemeyiz-3788323",
@@ -743,16 +747,17 @@
         "cnbce:https://www.cnbce.com/borsa/bist-sirketi-grev-soylentisini-yalanladi-hisseler-hizli-yukseldi-h37247",
         "cnbce:https://www.cnbce.com/borsa/hrketten-yuzde-1300-bedelsiz-sermaye-artirimi-karari-h37245",
         "cnbce:https://www.cnbce.com/borsa/zorlu-enerjiden-sermaye-yapisina-yonelik-kritik-adim-zorenden-finansman-ve-strateji-icin-iki-danisman-h37200",
+        "cnbce:https://www.cnbce.com/dunya/hollandada-butce-gununde-sabotaj-alarmi-raylara-boru-ve-kablo-yerlestirildi-h37307",
         "cnbce:https://www.cnbce.com/haberler/turkiyede-saglik-arastirmasi-kendimizi-iyi-hissediyoruz-ama-tablo-dusunduruyor-h37295",
         "cnbce:https://www.cnbce.com/haberler/abdde-hane-halki-geliri-rekor-kirdi-yoksulluk-orani-da-geriledi-h37293",
         "cnbce:https://www.cnbce.com/haberler/abdden-iran-ve-petrol-mesaji-tahvil-faizlerindeki-yukselisin-nedeni-belli-oldu-h37292",
         "cnbce:https://www.cnbce.com/piyasalar/tera-grubundan-pusula-holding-aciklamasi-henuz-pay-devir-islemi-tamamlanmadi-h37283",
         "cnbce:https://www.cnbce.com/haberler/hazineden-5-ve-8-yillik-tahvil-ihraci-118-milyar-tl-borclandi-h37282",
         "cnbce:https://www.cnbce.com/haberler/havalimanlarinda-yeni-donem-ucus-takibi-navigasyon-ve-ucretsiz-internet-tek-uygulamada-h37276",
-        "cnbce:https://www.cnbce.com/sirket-haberleri/revolutta-hack-krizi-buyuyor-hackerlar-785-milyon-dolarlik-bitcoin-istiyor-h37271",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbul-acikladi-3-hisseye-1-aylik-yasak-h37196",
         "cnbce:https://www.cnbce.com/piyasalar/fed-karari-oncesi-abd-faizinde-kritik-esik-asildi-h37193",
         "cnbce:https://www.cnbce.com/haberler/ibbden-ogrencilere-dev-destek-paketi-ilk-abonman-1-tlye-dusuyor-h37171",
+        "cnbce:https://www.cnbce.com/sirket-haberleri/revolutta-hack-krizi-buyuyor-hackerlar-785-milyon-dolarlik-bitcoin-istiyor-h37271",
         "cnbce:https://www.cnbce.com/haberler/trump-durdurun-demisti-ukraynadan-petrol-tesislerine-kritik-saldiri-h37264",
         "cnbce:https://www.cnbce.com/haberler/eylul-sed-odemeleri-ne-zaman-yatacak-yatti-mi-bakan-goktastan-aciklama-h37263",
         "cnbce:https://www.cnbce.com/haberler/cevrimici-ilan-sitesi-duyurdu-turkiye-genelinde-ortalama-konut-kirasi-28-bin-tlyi-asti-h37243",
@@ -912,10 +917,12 @@
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupa-parlamentosu-sinirda-karbon-duzenlemesinin-kapsamini-genisletmek-istiyor/4058110",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-ara-secimler-yaklasirken-ekonomideki-zorlu-tablo-dikkati-cekiyor/4057489",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligindan-dtonun-otomotiv-sektorune-yonelik-duzenlemelere-dair-panel-raporuna-iliskin-aciklama/4058050",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/rusyada-benzin-sikintisi-yeniden-gundemde/4057958",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdnin-10-yillik-tahvillerindeki-sert-satis-baskisi-kuresel-capta-tehdit-olusturuyor/4057718",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligindan-dtonun-otomotiv-sektorune-yonelik-duzenlemelere-dair-panel-raporuna-iliskin-aciklama/4058050",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/butce-uygulama-sonuclari-aciklandi/4057512",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/calisma-ve-sosyal-guvenlik-bakani-isikhan-bir-yil-icerisinde-500-gencimizi-kovan-alaninda-uzmanlastirmayi-hedefliyoruz/4057983",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-23-yilda-esnafimiza-853-milyar-lira-finansman-destegi-ve-kolayligi-sagladik/4058176",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/uaea-baskani-grossiden-turkiyenin-nukleer-enerjideki-ilerlemesine-ovgu/4057999",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-hanehalki-geliri-2025te-rekor-seviyeye-yukselirken-yoksulluk-azaldi-/4058271",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4058159",
@@ -926,24 +933,22 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-bakanligimiz-1342-kadin-kooperatifini-destekliyor/4057887",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbul-kuresel-e-ihracat-zirvesi-30-ulkeden-1050-sirketi-bulusturdu/4057859",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/sifir-atik-vakfi-ve-vakifbank-stratejik-isbirligi-protokolu-imzaladi/4057822",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/calisma-ve-sosyal-guvenlik-bakani-isikhan-bir-yil-icerisinde-500-gencimizi-kovan-alaninda-uzmanlastirmayi-hedefliyoruz/4057983",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-23-yilda-esnafimiza-853-milyar-lira-finansman-destegi-ve-kolayligi-sagladik/4058176",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dto-ticarette-isbirliginin-zayiflamasi-kuresel-ekonomik-buyumede-onemli-firsat-kaybina-yol-acabilir/4057698"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/sec-filings/codiagnostics-readygo-ile-teknoloji-degerlendirme-anlasmas-imzalad-93CH-4067161",
+      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/kuzeybat-avrupa-benzin-marjlar-ham-petrol-artsyla-7-dolar-dustu-93CH-4067259",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/sec-filings/codiagnostics-readygo-ile-teknoloji-degerlendirme-anlasmas-imzalad-93CH-4067161",
-        "investing:https://tr.investing.com/news/stock-market-news/tempest-therapeutics-hisseleri-senlang-cart-anlasmasyla-yukseldi-93CH-4067157",
-        "investing:https://tr.investing.com/news/company-news/tempest-therapeutics-cart-platformu-icin-opsiyon-anlasmas-imzalad-93CH-4067154",
-        "investing:https://tr.investing.com/news/company-news/almanya-planetten-ozel-uydu-hizmetleri-ald-93CH-4067153",
-        "investing:https://tr.investing.com/news/company-news/bluelinx-rdi-korkuluk-dagtmn-21-lokasyona-ckaryor-93CH-4067152",
-        "investing:https://tr.investing.com/news/company-news/sabre-135-milyar-dolarlk-tahvil-ihracn-9875-faizle-fiyatlad-93CH-4067151",
-        "investing:https://tr.investing.com/news/company-news/kilroy-realty-hisse-basna-054-dolar-temettu-acklad-93CH-4067150",
-        "investing:https://tr.investing.com/news/company-news/credit-acceptance-kredi-tesisini-2028e-uzatt-93CH-4067149",
-        "investing:https://tr.investing.com/news/company-news/american-eagle-ceyreklik-0125-dolar-temettu-acklad-93CH-4067148",
-        "investing:https://tr.investing.com/news/company-news/tfi-international-047-dolar-temettu-acklad-93CH-4067147",
+        "investing:https://tr.investing.com/news/commodities-news/kuzeybat-avrupa-benzin-marjlar-ham-petrol-artsyla-7-dolar-dustu-93CH-4067259",
+        "investing:https://tr.investing.com/news/sec-filings/volitionrx-senet-donusumu-icin-hisse-ihrac-etti-93CH-4067258",
+        "investing:https://tr.investing.com/news/company-news/goldquest-mining-dennis-kwongu-cfo-olarak-atad-93CH-4067256",
+        "investing:https://tr.investing.com/news/sec-filings/ryman-hospitality-120-dolar-temettu-acklad-93CH-4067255",
+        "investing:https://tr.investing.com/news/transcripts/dine-brands-cift-marka-stratejisiyle-buyume-hedefliyor-93CH-4067254",
+        "investing:https://tr.investing.com/news/stock-market-news/venu-holding-hissesi-iceriden-almlarda-yukseldi-93CH-4067253",
+        "investing:https://tr.investing.com/news/company-news/nventin-yan-kurulusu-800-milyon-dolarlk-tahvil-ihrac-yapt-93CH-4067251",
+        "investing:https://tr.investing.com/news/sec-filings/safety-insurance-ve-mapfre-birlesmesi-ilerliyor-93CH-4067250",
+        "investing:https://tr.investing.com/news/company-news/heartland-express-uc-aylk-002-dolar-temettu-acklad-93CH-4067249",
+        "investing:https://tr.investing.com/news/analyst-ratings/goldman-sachs-teslann-teslimat-tahminini-dusurdu-93CH-4067248",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -964,6 +969,16 @@
         "investing:https://tr.investing.com/analysis/3-ayda-99-getiren-yapay-zekann-eylul-portfoyu-200506025",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
         "investing:https://tr.investing.com/analysis/bist-endekslerinde-yeni-donem-hangi-hisseler-endeks-degisikligi-beklentisinde-200505994",
+        "investing:https://tr.investing.com/news/sec-filings/codiagnostics-readygo-ile-teknoloji-degerlendirme-anlasmas-imzalad-93CH-4067161",
+        "investing:https://tr.investing.com/news/stock-market-news/tempest-therapeutics-hisseleri-senlang-cart-anlasmasyla-yukseldi-93CH-4067157",
+        "investing:https://tr.investing.com/news/company-news/tempest-therapeutics-cart-platformu-icin-opsiyon-anlasmas-imzalad-93CH-4067154",
+        "investing:https://tr.investing.com/news/company-news/almanya-planetten-ozel-uydu-hizmetleri-ald-93CH-4067153",
+        "investing:https://tr.investing.com/news/company-news/bluelinx-rdi-korkuluk-dagtmn-21-lokasyona-ckaryor-93CH-4067152",
+        "investing:https://tr.investing.com/news/company-news/sabre-135-milyar-dolarlk-tahvil-ihracn-9875-faizle-fiyatlad-93CH-4067151",
+        "investing:https://tr.investing.com/news/company-news/kilroy-realty-hisse-basna-054-dolar-temettu-acklad-93CH-4067150",
+        "investing:https://tr.investing.com/news/company-news/credit-acceptance-kredi-tesisini-2028e-uzatt-93CH-4067149",
+        "investing:https://tr.investing.com/news/company-news/american-eagle-ceyreklik-0125-dolar-temettu-acklad-93CH-4067148",
+        "investing:https://tr.investing.com/news/company-news/tfi-international-047-dolar-temettu-acklad-93CH-4067147",
         "investing:https://tr.investing.com/news/company-news/adaptive-biotechnologies-hissesi-2689-dolarda-zirve-yapt-93CH-4067113",
         "investing:https://tr.investing.com/news/insider-trading-news/redwood-trust-yoneticisi-greg-kubicek-192560-dolar-degerinde-hisse-ald-93CH-4067112",
         "investing:https://tr.investing.com/news/insider-trading-news/heritage-financial-yoneticisi-rivera-37134-dolar-degerinde-hisse-satt-93CH-4067111",
@@ -1447,111 +1462,108 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6741574:0",
+      "last_seen_key": "tradingview:fxstreet:a48a6d7f7d9e8:0",
       "seen_keys": [
-        "tradingview:matriks:6741574:0",
-        "tradingview:matriks:6741530:0",
-        "tradingview:matriks:6741366:0",
-        "tradingview:matriks:6741200:0",
-        "tradingview:matriks:6741198:0",
-        "tradingview:matriks:6741192:0",
-        "tradingview:matriks:6741190:0",
-        "tradingview:matriks:6741186:0",
-        "tradingview:matriks:6741182:0",
-        "tradingview:matriks:6741175:0",
-        "tradingview:matriks:6741173:0",
-        "tradingview:matriks:6741171:0",
-        "tradingview:matriks:6741167:0",
-        "tradingview:matriks:6741161:0",
-        "tradingview:matriks:6741159:0",
-        "tradingview:matriks:6741155:0",
-        "tradingview:matriks:6741153:0",
-        "tradingview:matriks:6741149:0",
-        "tradingview:matriks:6741148:0",
-        "tradingview:matriks:6741144:0",
-        "tradingview:matriks:6741142:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N4561GC:0",
-        "tradingview:matriks:6741139:0",
-        "tradingview:matriks:6741137:0",
-        "tradingview:matriks:6741136:0",
-        "tradingview:matriks:6741133:0",
-        "tradingview:matriks:6741129:0",
-        "tradingview:matriks:6741126:0",
-        "tradingview:matriks:6741117:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N4561FU:0",
-        "tradingview:matriks:6741114:0",
-        "tradingview:matriks:6741112:0",
-        "tradingview:matriks:6741109:0",
-        "tradingview:matriks:6741099:0",
-        "tradingview:matriks:6741093:0",
-        "tradingview:matriks:6741090:0",
-        "tradingview:matriks:6741081:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N4560WG:0",
-        "tradingview:matriks:6740994:0",
-        "tradingview:matriks:6740989:0",
-        "tradingview:matriks:6740985:0",
-        "tradingview:matriks:6740982:0",
-        "tradingview:matriks:6740980:0",
-        "tradingview:matriks:6740978:0",
-        "tradingview:matriks:6740973:0",
-        "tradingview:matriks:6740972:0",
-        "tradingview:matriks:6740942:0",
-        "tradingview:matriks:6740940:0",
-        "tradingview:matriks:6740926:0",
-        "tradingview:matriks:6740922:0",
-        "tradingview:matriks:6740920:0",
-        "tradingview:matriks:6740865:0",
-        "tradingview:matriks:6740861:0",
-        "tradingview:matriks:6740792:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N4560SG:0",
-        "tradingview:matriks:6740742:0",
-        "tradingview:matriks:6740739:0",
-        "tradingview:matriks:6740723:0",
-        "tradingview:matriks:6740722:0",
-        "tradingview:matriks:6740717:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N45612H:0",
-        "tradingview:matriks:6740714:0",
-        "tradingview:matriks:6740682:0",
-        "tradingview:matriks:6740679:0",
-        "tradingview:matriks:6740668:0",
-        "tradingview:matriks:6740665:0",
-        "tradingview:matriks:6740667:0",
-        "tradingview:matriks:6740666:0",
-        "tradingview:matriks:6740664:0",
-        "tradingview:matriks:6740661:0",
-        "tradingview:matriks:6740663:0",
-        "tradingview:matriks:6740662:0",
-        "tradingview:matriks:6740637:0",
-        "tradingview:matriks:6740622:0",
-        "tradingview:fxstreet:d9f4c166bd9e8:0",
-        "tradingview:matriks:6740570:0",
-        "tradingview:fxstreet:deff4c9aed9e8:0",
-        "tradingview:matriks:6740557:0",
-        "tradingview:matriks:6740550:0",
-        "tradingview:fxstreet:83600cdf6d9e8:0",
-        "tradingview:matriks:6740502:0",
-        "tradingview:matriks:6740492:0",
-        "tradingview:matriks:6740468:0",
-        "tradingview:fxstreet:0e9d32050d9e8:0",
-        "tradingview:fxstreet:90cfd0e3dd9e8:0",
-        "tradingview:fxstreet:4dd6a6c07d9e8:0",
-        "tradingview:matriks:6740426:0",
-        "tradingview:fxstreet:06ae75766d9e8:0",
-        "tradingview:matriks:6740397:0",
-        "tradingview:matriks:6740378:0",
-        "tradingview:matriks:6740365:0",
-        "tradingview:fxstreet:b9e4805dad9e8:0",
-        "tradingview:fxstreet:b96d0bebdd9e8:0",
-        "tradingview:matriks:6740328:0",
-        "tradingview:matriks:6740308:0",
-        "tradingview:matriks:6740303:0",
-        "tradingview:fxstreet:38fe21281d9e8:0",
-        "tradingview:fxstreet:7c1d6eb3cd9e8:0",
-        "tradingview:cointelegraph:6ed6542b9d9e8:0",
-        "tradingview:matriks:6740288:0",
-        "tradingview:matriks:6740287:0",
-        "tradingview:matriks:6740275:0",
-        "tradingview:matriks:6740271:0"
+        "tradingview:fxstreet:a48a6d7f7d9e8:0",
+        "tradingview:fxstreet:918fa0b7fd9e8:0",
+        "tradingview:fxstreet:76b020ac5d9e8:0",
+        "tradingview:cointelegraph:b95c2cab9d9e8:0",
+        "tradingview:fxstreet:02b541bf4d9e8:0",
+        "tradingview:fxstreet:93a2c435dd9e8:0",
+        "tradingview:fxstreet:184517205d9e8:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:fxstreet:617c2790fd9e8:0",
+        "tradingview:fxstreet:73d7cb2ddd9e8:0",
+        "tradingview:fxstreet:b5af6eb13d9e8:0",
+        "tradingview:fxstreet:999bd69acd9e8:0",
+        "tradingview:beincrypto:f71614a46d9e8:0",
+        "tradingview:cointelegraph:6a5004ca5d9e8:0",
+        "tradingview:fxstreet:327285aabd9e8:0",
+        "tradingview:fxstreet:a87c6f987d9e8:0",
+        "tradingview:fxstreet:bf2b925edd9e8:0",
+        "tradingview:fxstreet:0b90f7153d9e8:0",
+        "tradingview:cointelegraph:a6d811d18d9e8:0",
+        "tradingview:fxstreet:ef728b477d9e8:0",
+        "tradingview:beincrypto:f333fdfd6d9e8:0",
+        "tradingview:cointelegraph:3dd0fb06fd9e8:0",
+        "tradingview:fxstreet:2e05d7f3fd9e8:0",
+        "tradingview:beincrypto:e4711991ad9e8:0",
+        "tradingview:fxstreet:3de9ebc88d9e8:0",
+        "tradingview:beincrypto:4f509be5fd9e8:0",
+        "tradingview:fxstreet:379a24390d9e8:0",
+        "tradingview:fxstreet:2250e58f5d9e8:0",
+        "tradingview:fxstreet:94e9b4e0ad9e8:0",
+        "tradingview:beincrypto:3fe3f1e91d9e8:0",
+        "tradingview:matriks:6744266:0",
+        "tradingview:matriks:6744263:0",
+        "tradingview:matriks:6744262:0",
+        "tradingview:matriks:6744261:0",
+        "tradingview:cointelegraph:f44a8ed22d9e8:0",
+        "tradingview:matriks:6744258:0",
+        "tradingview:matriks:6744257:0",
+        "tradingview:matriks:6744254:0",
+        "tradingview:matriks:6744249:0",
+        "tradingview:matriks:6744247:0",
+        "tradingview:matriks:6744245:0",
+        "tradingview:matriks:6744243:0",
+        "tradingview:matriks:6744241:0",
+        "tradingview:matriks:6744238:0",
+        "tradingview:matriks:6744235:0",
+        "tradingview:matriks:6744232:0",
+        "tradingview:matriks:6744230:0",
+        "tradingview:matriks:6744228:0",
+        "tradingview:matriks:6744225:0",
+        "tradingview:matriks:6744222:0",
+        "tradingview:fxstreet:cb1e17d6cd9e8:0",
+        "tradingview:matriks:6744219:0",
+        "tradingview:beincrypto:c88214577d9e8:0",
+        "tradingview:matriks:6744217:0",
+        "tradingview:matriks:6744214:0",
+        "tradingview:matriks:6744211:0",
+        "tradingview:matriks:6744209:0",
+        "tradingview:matriks:6744206:0",
+        "tradingview:matriks:6744203:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N4571A9:0",
+        "tradingview:cointelegraph:6c885613ad9e8:0",
+        "tradingview:matriks:6744186:0",
+        "tradingview:matriks:6744180:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N45717V:0",
+        "tradingview:matriks:6744153:0",
+        "tradingview:matriks:6744128:0",
+        "tradingview:fxstreet:511e51a32d9e8:0",
+        "tradingview:matriks:6744122:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N45714K:0",
+        "tradingview:matriks:6744111:0",
+        "tradingview:beincrypto:713deb06dd9e8:0",
+        "tradingview:matriks:6744099:0",
+        "tradingview:fxstreet:60b3a1b29d9e8:0",
+        "tradingview:matriks:6744082:0",
+        "tradingview:matriks:6744073:0",
+        "tradingview:matriks:6744069:0",
+        "tradingview:fxstreet:5752cae49d9e8:0",
+        "tradingview:fxstreet:16fd20554d9e8:0",
+        "tradingview:matriks:6744060:0",
+        "tradingview:matriks:6744051:0",
+        "tradingview:matriks:6744046:0",
+        "tradingview:matriks:6744028:0",
+        "tradingview:fxstreet:ad3fbbd22d9e8:0",
+        "tradingview:matriks:6744002:0",
+        "tradingview:fxstreet:ea0bcefafd9e8:0",
+        "tradingview:matriks:6743983:0",
+        "tradingview:matriks:6743979:0",
+        "tradingview:matriks:6743972:0",
+        "tradingview:matriks:6743970:0",
+        "tradingview:matriks:6743969:0",
+        "tradingview:matriks:6743967:0",
+        "tradingview:matriks:6743964:0",
+        "tradingview:fxstreet:2cbe74481d9e8:0",
+        "tradingview:matriks:6743951:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N4570WC:0",
+        "tradingview:fxstreet:b0b51224dd9e8:0",
+        "tradingview:matriks:6743889:0",
+        "tradingview:matriks:6743869:0",
+        "tradingview:matriks:6743862:0",
+        "tradingview:fxstreet:0c80d68a9d9e8:0"
       ]
     },
     "forexfactory": {
@@ -1568,6 +1580,86 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "kuzeybat avrupa benzin marjlar ham petrol art s yla 7 dolar dustu",
+      "link": "https://tr.investing.com/news/commodities-news/kuzeybat-avrupa-benzin-marjlar-ham-petrol-artsyla-7-dolar-dustu-93CH-4067259"
+    },
+    {
+      "source": "investing",
+      "text": "volitionrx senet donusumu hisse ihrac etti",
+      "link": "https://tr.investing.com/news/sec-filings/volitionrx-senet-donusumu-icin-hisse-ihrac-etti-93CH-4067258"
+    },
+    {
+      "source": "investing",
+      "text": "goldquest mining dennis kwong u cfo olarak atad",
+      "link": "https://tr.investing.com/news/company-news/goldquest-mining-dennis-kwongu-cfo-olarak-atad-93CH-4067256"
+    },
+    {
+      "source": "investing",
+      "text": "ryman hospitality 1 20 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/sec-filings/ryman-hospitality-120-dolar-temettu-acklad-93CH-4067255"
+    },
+    {
+      "source": "investing",
+      "text": "dine brands cift marka stratejisiyle buyume hedefliyor",
+      "link": "https://tr.investing.com/news/transcripts/dine-brands-cift-marka-stratejisiyle-buyume-hedefliyor-93CH-4067254"
+    },
+    {
+      "source": "investing",
+      "text": "venu holding hissesi iceriden al mlarda yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/venu-holding-hissesi-iceriden-almlarda-yukseldi-93CH-4067253"
+    },
+    {
+      "source": "investing",
+      "text": "nvent in yan kurulusu 800 milyon dolarl k tahvil ihrac yapt",
+      "link": "https://tr.investing.com/news/company-news/nventin-yan-kurulusu-800-milyon-dolarlk-tahvil-ihrac-yapt-93CH-4067251"
+    },
+    {
+      "source": "investing",
+      "text": "safety insurance mapfre birlesmesi ilerliyor",
+      "link": "https://tr.investing.com/news/sec-filings/safety-insurance-ve-mapfre-birlesmesi-ilerliyor-93CH-4067250"
+    },
+    {
+      "source": "investing",
+      "text": "heartland express uc ayl k 0 02 dolar temettu ac klad",
+      "link": "https://tr.investing.com/news/company-news/heartland-express-uc-aylk-002-dolar-temettu-acklad-93CH-4067249"
+    },
+    {
+      "source": "investing",
+      "text": "goldman sachs tesla n n teslimat tahminini dusurdu",
+      "link": "https://tr.investing.com/news/analyst-ratings/goldman-sachs-teslann-teslimat-tahminini-dusurdu-93CH-4067248"
+    },
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 16 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-16092026-3788330"
+    },
+    {
+      "source": "bloomberght",
+      "text": "iran savas n n pentagon a maliyeti 38 milyar dolara ulast abd kongresi butce ofisi iran savas n n pentagon a operasyonel maliyetinin 1 agustos itibar yla yaklas k 38 milyar dolara ulast g n cat smalar n devam etmesi halinde tutara her ay 2 ila 3 milyar dolar daha eklenebilecegini bildirdi",
+      "link": "https://www.bloomberght.com/iran-savasinin-pentagon-a-maliyeti-38-milyar-dolara-ulasti-3788329"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd senatosu nda kripto yasa tasar s clarity act reddedildi abd senatosu nda kripto para piyasas na yonelik kapsaml duzenlemeler iceren yasa tasar s clarity act reddedildi",
+      "link": "https://www.bloomberght.com/abd-senatosu-nda-kripto-yasa-tasarisi-clarity-act-reddedildi-3788328"
+    },
+    {
+      "source": "bloomberght",
+      "text": "spacex 22 eylul starship i ilk kez yorungeye yerlestirmeyi deneyecek spacex starship mega roketinin 14 test ucusunu gerceklestirmeye haz r spacex test ucusu s ras nda 10 bin internet uydusundan olusan ag na ucuncu nesil starlink uydular n n ilk grubunu yerlestirmeyi planl yor",
+      "link": "https://www.bloomberght.com/spacex-22-eylul-de-starship-i-ilk-kez-yorungeye-yerlestirmeyi-deneyecek-3788327"
+    },
+    {
+      "source": "kap",
+      "text": "balat paylar n geri al nmas na iliskin bildirim 15 09 2026 tarihli pay geri al m hakk nda sirket balatacilar balatacilik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663255"
+    },
+    {
+      "source": "kap",
+      "text": "pcilt paylar n geri al nmas na iliskin bildirim 15 09 2026 tarihli pay geri al m islemleri sirket pc iletisim medya hizmetleri sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663254"
+    },
     {
       "source": "trthaber",
       "text": "bakan bolat esnaf m za 853 milyar lira finansman destegi kolayl g saglad k ticaret bakan omer bolat esnafa sunulan finansman desteklerine iliskin 480 milyar liras 3 y lda olmak uzere 23 y lda esnaf m za 853 milyar lira finansman destegi kolayl g saglad k tam 4 milyon 760 bin kez kullan m olmus ded",
@@ -8987,86 +9079,6 @@
       "source": "kap",
       "text": "mcard kar pay dag t m islemlerine iliskin bildirim genel kurula sunulacak kar pay na iliskin yonetim kurulu teklifi sirket metropal kurumsal hizmetler a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1661829"
-    },
-    {
-      "source": "kap",
-      "text": "eplas ozel durum ac klamas genel tmsf guc yap a s aras nda mutab k kal nan nihai protokolun imzalanmas hakk nda sirket egeplast ege plastik ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661828"
-    },
-    {
-      "source": "kap",
-      "text": "kntfa ihrac tavan na iliskin bildirim borclanma arac ihrac na basvurlmas hakk nda yonetim kurulu karar sirket kent finans faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661827"
-    },
-    {
-      "source": "kap",
-      "text": "emvar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdemvk62730 isin kodlu kira sertifikas n n 5 donemsel getiri odemesi hk sirket emlak varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661826"
-    },
-    {
-      "source": "kap",
-      "text": "tdgyo pay baz nda devre kesici bildirimi tdgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661825"
-    },
-    {
-      "source": "kap",
-      "text": "pgsus pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren yurt d s tahvil 4 kupon odemesi sirket pegasus hava tasimaciligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661824"
-    },
-    {
-      "source": "kap",
-      "text": "jants pay baz nda devre kesici bildirimi jants e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661822"
-    },
-    {
-      "source": "kap",
-      "text": "tmks kredi derecelendirmesi birlesik ipotek finansman a s derecelendirme raporu sirket birlesik ipotek finansmani a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661821"
-    },
-    {
-      "source": "kap",
-      "text": "akfis pay baz nda devre kesici bildirimi akfis e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661820"
-    },
-    {
-      "source": "kap",
-      "text": "betae pay baz nda devre kesici bildirimi betae e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661819"
-    },
-    {
-      "source": "kap",
-      "text": "bvsan pay baz nda devre kesici bildirimi bvsan e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661818"
-    },
-    {
-      "source": "kap",
-      "text": "frigo pay baz nda devre kesici bildirimi frigo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661817"
-    },
-    {
-      "source": "kap",
-      "text": "lidfa esas sozlesme tadil sonras esas sozlesme sirket lider faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661816"
-    },
-    {
-      "source": "kap",
-      "text": "lidfa esas sozlesme tadili esas sozlesme tadili sirket lider faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661815"
-    },
-    {
-      "source": "kap",
-      "text": "mintf kredi derecelendirmesi kredi derecelendirme raporu sirket mint finansman a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661814"
-    },
-    {
-      "source": "kap",
-      "text": "isatr isbtr isctr iskur tib pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren tlref turk liras gecelik referans faiz oran na endeksli bono kupon odemesi sirket turkiye is bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661813"
-    },
-    {
-      "source": "kap",
-      "text": "hrket ihrac belgesi bedelsiz sermaye art r m na iliskin ihrac belgesi sirket hareket proje tasimaciligi yuk muhendisligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661812"
     }
   ],
   "research_reports_v8": {
