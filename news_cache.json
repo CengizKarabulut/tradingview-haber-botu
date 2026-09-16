@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1663257",
+      "last_seen_key": "kap:1663261",
       "seen_keys": [
+        "kap:1663261",
+        "kap:1663260",
+        "kap:1663259",
+        "kap:1663258",
         "kap:1663257",
         "kap:1663256",
         "kap:1663255",
@@ -499,11 +503,7 @@
         "kap:1662225",
         "kap:1662223",
         "kap:1662222",
-        "kap:1662221",
-        "kap:1662219",
-        "kap:1662218",
-        "kap:1662217",
-        "kap:1662215"
+        "kap:1662221"
       ]
     },
     "bist": {
@@ -597,8 +597,31 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6744806:0",
+      "last_seen_key": "matriks:matriks:6744859:0",
       "seen_keys": [
+        "matriks:matriks:6744859:0",
+        "matriks:matriks:6744858:0",
+        "matriks:matriks:6744857:0",
+        "matriks:matriks:6744855:0",
+        "matriks:matriks:6744852:0",
+        "matriks:matriks:6744849:0",
+        "matriks:matriks:6744848:0",
+        "matriks:matriks:6744846:0",
+        "matriks:matriks:6744845:0",
+        "matriks:matriks:6744844:0",
+        "matriks:matriks:6744841:0",
+        "matriks:matriks:6744840:0",
+        "matriks:matriks:6744839:0",
+        "matriks:matriks:6744826:0",
+        "matriks:matriks:6744825:0",
+        "matriks:matriks:6744824:0",
+        "matriks:matriks:6744823:0",
+        "matriks:matriks:6744821:0",
+        "matriks:matriks:6744820:0",
+        "matriks:matriks:6744818:0",
+        "matriks:matriks:6744817:0",
+        "matriks:matriks:6744813:0",
+        "matriks:matriks:6744810:0",
         "matriks:matriks:6744806:0",
         "matriks:matriks:6744796:0",
         "matriks:matriks:6744793:0",
@@ -682,8 +705,11 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aaa209524008d7d437321bb/PICNEWS/tr/standard-chartered-dan-fed-oncesi-dolar-tahmini-dxy-icin-100-seviyesi-gundemde-16-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aaa247e95016b5817e5b2ef/PICNEWS/tr/nissan-kicks-e-power-avrupa-ya-geliyor-16-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6aaa247e95016b5817e5b2ef/PICNEWS/tr/nissan-kicks-e-power-avrupa-ya-geliyor-16-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aaa247495016b5817e5b2ee/PICNEWS/tr/fransa-dan-ecb-baskanligi-icin-kritik-hamle-knot-a-sartli-destek-16-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aaa23c395016b5817e5b2eb/PICNEWS/tr/nippon-steel-den-slovakya-ya-900-milyon-euroluk-yatirim-dusuk-karbonlu-celik-kapasitesi-artacak-16-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aaa209524008d7d437321bb/PICNEWS/tr/standard-chartered-dan-fed-oncesi-dolar-tahmini-dxy-icin-100-seviyesi-gundemde-16-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aaa1fd224008d7d437321b6/PICNEWS/tr/hurmuz-bogazi-nda-gemi-gecisleri-tek-hanede-kaldi-sali-gunu-yalnizca-4-gemi-gecti-16-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aaa1ea524008d7d437321b3/PICNEWS/tr/hsbc-den-yil-sonu-yatirim-stratejisi-yapay-zeka-firsatlari-teknoloji-disina-yayiliyor-16-09-26/",
@@ -1714,6 +1740,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "forinvest",
+      "text": "nissan kicks e power avrupa ya geliyor nissan kicks e power modelini avrupa pazar na getirecegini arac n ingiltere deki sunderland fabrikas nda uretilecegini ac klad sirket yeni model tesise 170 milyon sterlin yat r m yapacak",
+      "link": "https://www.foreks.com/haber/detay/6aaa247e95016b5817e5b2ef/PICNEWS/tr/nissan-kicks-e-power-avrupa-ya-geliyor-16-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "fransa dan ecb baskanl g kritik hamle knot a sartl destek fransa n n avrupa merkez bankas ecb baskanl g hollandal klaas knot u desteklemeye haz r oldugu ancak bunun kars l g nda ecb basekonomistligi gorevine frans z aday n getirilmesini isted",
+      "link": "https://www.foreks.com/haber/detay/6aaa247495016b5817e5b2ee/PICNEWS/tr/fransa-dan-ecb-baskanligi-icin-kritik-hamle-knot-a-sartli-destek-16-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "nippon steel den slovakya ya 900 milyon euroluk yat r m dusuk karbonlu celik kapasitesi artacak nippon steel slovakya daki u s steel kosice tesisine yaklas k 900 milyon euro yani yaklas k 1 04 milyar dolar yat r m yapacag n ac klad yat r m kapsam nda yeni elektrik ark ocag hava ay",
+      "link": "https://www.foreks.com/haber/detay/6aaa23c395016b5817e5b2eb/PICNEWS/tr/nippon-steel-den-slovakya-ya-900-milyon-euroluk-yatirim-dusuk-karbonlu-celik-kapasitesi-artacak-16-09-26"
+    },
+    {
+      "source": "matriks",
+      "text": "fx bulteni destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744859:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744858:0"
+    },
+    {
+      "source": "matriks",
+      "text": "info yat r m asels hedef fiyat 510 tl tavsiye endeks ustu getiri",
+      "link": "https://tr.tradingview.com/news/matriks:6744857:0"
+    },
+    {
+      "source": "matriks",
+      "text": "motorine zam bekleniyor",
+      "link": "https://tr.tradingview.com/news/matriks:6744855:0"
+    },
+    {
+      "source": "matriks",
+      "text": "sirket raporu asels info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744852:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay c kt fiyatl ufe y ll k 3 7 onceki 3 3",
+      "link": "https://tr.tradingview.com/news/matriks:6744849:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6744848:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten icbc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744846:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay c kt fiyatl cekirdek ufe y ll k 2 7 onceki 2 8",
+      "link": "https://tr.tradingview.com/news/matriks:6744845:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay tufe y ll k 3 1 beklenti 3 1 onceki 2 9",
+      "link": "https://tr.tradingview.com/news/matriks:6744844:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay c kt fiyatl cekirdek ufe ayl k 0 3 onceki 0 6",
+      "link": "https://tr.tradingview.com/news/matriks:6744841:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay tufe ayl k 0 5 beklenti 0 5 onceki 0 3",
+      "link": "https://tr.tradingview.com/news/matriks:6744840:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay c kt fiyatl ufe ayl k 0 7 beklenti 0 6 onceki 0 2",
+      "link": "https://tr.tradingview.com/news/matriks:6744839:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay hizmet sektoru tufe y ll k 3 4 beklenti 3 5 onceki 3 4",
+      "link": "https://tr.tradingview.com/news/matriks:6744826:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay girdi fiyatl ufe y ll k 6 1 beklenti 5 4 onceki 4 9",
+      "link": "https://tr.tradingview.com/news/matriks:6744825:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay hizmet sektoru tufe ayl k 0 2 beklenti 0 3 onceki 0 6",
+      "link": "https://tr.tradingview.com/news/matriks:6744824:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay cekirdek tufe y ll k 2 6 beklenti 2 6 onceki 2 6",
+      "link": "https://tr.tradingview.com/news/matriks:6744823:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay girdi fiyatl ufe ayl k 0 3 beklenti 0 4 onceki 1 7",
+      "link": "https://tr.tradingview.com/news/matriks:6744821:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay perakende fiyat endeksi y ll k 3 4 beklenti 3 5 onceki 3 2",
+      "link": "https://tr.tradingview.com/news/matriks:6744820:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay perakende fiyat endeksi ayl k 0 6 beklenti 0 7 onceki 0 6",
+      "link": "https://tr.tradingview.com/news/matriks:6744818:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ingiltere agustos ay cekirdek tufe ayl k 0 3 beklenti 0 3 onceki 0 2",
+      "link": "https://tr.tradingview.com/news/matriks:6744817:0"
+    },
+    {
+      "source": "matriks",
+      "text": "husiler yemen in marib vilayeti uzerinde suudi arabistan a ait f 15 savas ucag n dusurduklerini iddia etti",
+      "link": "https://tr.tradingview.com/news/matriks:6744813:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten halk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744810:0"
+    },
+    {
+      "source": "kap",
+      "text": "bnppi tby bistech pay piyasas al m sat m sistemi duyurusu isleme ac lan varantlar sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663261"
+    },
+    {
+      "source": "kap",
+      "text": "genil pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663260"
+    },
+    {
+      "source": "kap",
+      "text": "gwind kurumsal yonetim ilkelerine uyum derecelendirmesi kurumsal yonetim ilkelerine uyum derecelendirme sozlesmesi sirket galata wind enerji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663259"
+    },
+    {
+      "source": "kap",
+      "text": "hrket yeni is iliskisi yeni is iliskisi hk sirket hareket proje tasimaciligi yuk muhendisligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663258"
+    },
     {
       "source": "ntvpara",
       "text": "f r n ocak s t c uretiyordu konkordato ilan etti finansal darbogaza giren sirketler konkordato muessesine s g narak iflastan kurtulmaya cal s yor",
@@ -9063,156 +9239,6 @@
       "source": "kap",
       "text": "akm akmen ihrac tavan na iliskin bildirim kira sertifikas ihrac na iliskin yonetim kurulu karar sirket ak yatirim menkul degerler a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1662005"
-    },
-    {
-      "source": "kap",
-      "text": "trate kredi derecelendirmesi kredi derecelendirme notu bildirimi sirket istanbul uluslararasi derecelendirme hizmetleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661998"
-    },
-    {
-      "source": "kap",
-      "text": "manas pay baz nda devre kesici bildirimi manas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661997"
-    },
-    {
-      "source": "kap",
-      "text": "alklc dnyva dsyat dtbmk emvar hdffl isatr lidfa mngfa skbnk tmks tryki vakvk ykyat borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri borclanma araclar yat r m fonlar varant itfa kupon getiri nakdi uzlas odeme islemleri sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661996"
-    },
-    {
-      "source": "kap",
-      "text": "krgyo ozel durum ac klamas genel bag ms z yonetim kurulu uyesi atamas hk sirket korfez gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661995"
-    },
-    {
-      "source": "kap",
-      "text": "crfsa pay baz nda devre kesici bildirimi crfsa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661994"
-    },
-    {
-      "source": "kap",
-      "text": "ismen iym piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi borsa yat r m fonu piyasa yap c l g islemleri sirket is yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661992"
-    },
-    {
-      "source": "kap",
-      "text": "ismen iym yat r m kurulusu varant sertifika senetlerine iliskin bildirim is yat r m sertifika varant al m sat m islemleri sirket is yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661990"
-    },
-    {
-      "source": "kap",
-      "text": "tryki pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trstryk92710 isin kodlu tahvilin 2 kupon odemesi sirket tiryaki agro gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661989"
-    },
-    {
-      "source": "kap",
-      "text": "takasbank odunc pay piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661987"
-    },
-    {
-      "source": "kap",
-      "text": "ruzye pay baz nda devre kesici bildirimi ruzye e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661986"
-    },
-    {
-      "source": "kap",
-      "text": "fpy sirket genel bilgi formu sirket qnb portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661985"
-    },
-    {
-      "source": "kap",
-      "text": "eksun sirket genel bilgi formu sirket eksun gida tarim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661984"
-    },
-    {
-      "source": "kap",
-      "text": "eksun ozel durum ac klamas genel ust duzey yonetici degisikligi sirket eksun gida tarim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661983"
-    },
-    {
-      "source": "kap",
-      "text": "fby sirket genel bilgi formu sirket fiba yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661982"
-    },
-    {
-      "source": "kap",
-      "text": "emvar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdemvk62755 isin kodlu kira sertifikas ihrac n n 1 kupon oran n n belirlenmesi hk sirket emlak varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661979"
-    },
-    {
-      "source": "kap",
-      "text": "cwene ozel durum ac klamas genel sermaye avans odemesi hk sirket cw enerji muhendislik ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661978"
-    },
-    {
-      "source": "kap",
-      "text": "cagfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfcgdfa2611 isin kodlu ihrac n 1 kupon faiz oran n n belirlenmesi sirket cagdas faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661976"
-    },
-    {
-      "source": "kap",
-      "text": "smrfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfsumfa2622 isin kodlu finansman bonosunun 1 kuponuna iliskin faiz oranlar n n bildirimi sirket sumer faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661975"
-    },
-    {
-      "source": "kap",
-      "text": "ykr ykyat pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren borclanma arac n n kupon odemesi itfas sirket yapi kredi yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661974"
-    },
-    {
-      "source": "kap",
-      "text": "dkyvk ihrac tavan na iliskin bildirim kira sertifikas ihrac tavan onay sirket dk yildiz varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661973"
-    },
-    {
-      "source": "kap",
-      "text": "dkyvk ihrac belgesi kira sertifikas ihrac tavan onay sirket dk yildiz varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661972"
-    },
-    {
-      "source": "kap",
-      "text": "hatek pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661971"
-    },
-    {
-      "source": "kap",
-      "text": "manas pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661970"
-    },
-    {
-      "source": "kap",
-      "text": "tgsas pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661969"
-    },
-    {
-      "source": "kap",
-      "text": "info iyf sermaye art r m azalt m islemlerine iliskin bildirim bedelsiz sermaye art r m na iliskin pay dag t m tarihinin belirlenmesi sirket info yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661968"
-    },
-    {
-      "source": "kap",
-      "text": "kords onryt hak kullan m sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661967"
-    },
-    {
-      "source": "kap",
-      "text": "balsu gelecege donuk degerlendirmeler 2025 2026 finansal y l sonuclar n n degerlendirilmesi 2026 2027 finansal y l beklentileri hk sirket balsu gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661966"
-    },
-    {
-      "source": "kap",
-      "text": "ekofa ihrac tavan na iliskin bildirim ihrac belgesinin spk tarafindan onaylanmasi sirket eko faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661955"
-    },
-    {
-      "source": "kap",
-      "text": "entra pay baz nda devre kesici bildirimi entra e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661952"
-    },
-    {
-      "source": "kap",
-      "text": "netcd pay baz nda devre kesici bildirimi netcd e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1661951"
     }
   ],
   "research_reports_v8": {
@@ -9313,20 +9339,22 @@
     "qnb": {
       "gunluk_bulten": {
         "seen_keys": [
+          "a7a67016579d59148445274a73f36ac479b7611a",
           "b9bfce39f98763bf14cfa69f3ad89ef20cc2f730",
           "0df208168df9d0dc24d737ccbecd59d19634f972",
           "d9548d11291d6c688612a0fdbf825cf4a745f6c7",
           "d4e4c3313c6153dce9d6fb2f93c2ab87427d4595"
         ],
         "seen_semantic_keys": [
+          "ac46df2605e951743b87e95f9e36b53a1763aac8",
           "69abad34be16b51fd3058c4c947fa134764b4213",
           "c6339fd4afecb7edaaf6200135cbac46ef096328",
           "43c7b952b67ec2c23c689b1e3c438e5d1e172f2e",
           "a5b1908a48b81d06cc3487f1ea80d566e55e2010"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-09-15",
-        "sent_at": "2026-09-15T10:56:55.517165+03:00"
+        "last_published_date": "2026-09-16",
+        "sent_at": "2026-09-16T09:13:28.569374+03:00"
       }
     },
     "seker": {
@@ -9381,20 +9409,22 @@
     "yapikredi": {
       "gunluk_bulten": {
         "seen_keys": [
+          "fb2a81967ff21e82a5c2f5d6bfcc22b4611d7bbb",
           "8eac0183fdcf313ed3182b02f522ae51d4f43c83",
           "7d3b29b538a7d765574f8639f92a2d95e58ad1c4",
           "f1bb7662503975e7412aef97710398f2bf5c91a5",
           "77ed8d49e3c13116c96d53bac3b647a1fd45faac"
         ],
         "seen_semantic_keys": [
+          "de89ab8ce9034d5dca46928069f09f8cfe22579d",
           "67bc99d7ca5a86afae92b002db79af92c084977d",
           "40656e8a6efa58324cdcf23ff64fa33f2e50e567",
           "4af46d5472076405b0f8a150376839f7c06f659f",
           "bb423a5f9b3cb0e0a99059abb938ace67aefd93e"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-09-15",
-        "sent_at": "2026-09-15T09:52:11.405751+03:00"
+        "last_published_date": "2026-09-16",
+        "sent_at": "2026-09-16T09:13:34.220406+03:00"
       }
     },
     "ziraat": {
