@@ -2,8 +2,23 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1663261",
+      "last_seen_key": "kap:1663280",
       "seen_keys": [
+        "kap:1663280",
+        "kap:1663279",
+        "kap:1663278",
+        "kap:1663277",
+        "kap:1663276",
+        "kap:1663275",
+        "kap:1663270",
+        "kap:1663269",
+        "kap:1663268",
+        "kap:1663267",
+        "kap:1663266",
+        "kap:1663265",
+        "kap:1663264",
+        "kap:1663263",
+        "kap:1663262",
         "kap:1663261",
         "kap:1663260",
         "kap:1663259",
@@ -57,7 +72,6 @@
         "kap:1663202",
         "kap:1663201",
         "kap:1663200",
-        "kap:1663199",
         "kap:1663198",
         "kap:1663197",
         "kap:1663196",
@@ -86,6 +100,7 @@
         "kap:1663143",
         "kap:1663138",
         "kap:1663137",
+        "kap:1663199",
         "kap:1663136",
         "kap:1663135",
         "kap:1663134",
@@ -488,22 +503,7 @@
         "kap:1662250",
         "kap:1662249",
         "kap:1662248",
-        "kap:1662247",
-        "kap:1662243",
-        "kap:1662242",
-        "kap:1662240",
-        "kap:1662239",
-        "kap:1662236",
-        "kap:1662235",
-        "kap:1662234",
-        "kap:1662233",
-        "kap:1662232",
-        "kap:1662231",
-        "kap:1662226",
-        "kap:1662225",
-        "kap:1662223",
-        "kap:1662222",
-        "kap:1662221"
+        "kap:1662247"
       ]
     },
     "bist": {
@@ -597,8 +597,23 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6744859:0",
+      "last_seen_key": "matriks:matriks:6744989:0",
       "seen_keys": [
+        "matriks:matriks:6744989:0",
+        "matriks:matriks:6744987:0",
+        "matriks:matriks:6744981:0",
+        "matriks:matriks:6744951:0",
+        "matriks:matriks:6744945:0",
+        "matriks:matriks:6744928:0",
+        "matriks:matriks:6744927:0",
+        "matriks:matriks:6744922:0",
+        "matriks:matriks:6744921:0",
+        "matriks:matriks:6744914:0",
+        "matriks:matriks:6744913:0",
+        "matriks:matriks:6744911:0",
+        "matriks:matriks:6744904:0",
+        "matriks:matriks:6744900:0",
+        "matriks:matriks:6744893:0",
         "matriks:matriks:6744859:0",
         "matriks:matriks:6744858:0",
         "matriks:matriks:6744857:0",
@@ -1740,6 +1755,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "matriks",
+      "text": "guney kore kospi endeksi 1 37 art sla 6717 97 puandan kapand",
+      "link": "https://tr.tradingview.com/news/matriks:6744989:0"
+    },
+    {
+      "source": "matriks",
+      "text": "japonya nikkei 225 endeksi 0 69 art sla 63923 00 puandan kapand",
+      "link": "https://tr.tradingview.com/news/matriks:6744987:0"
+    },
+    {
+      "source": "matriks",
+      "text": "kaynaktan duzeltme sirket raporu asels info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744981:0"
+    },
+    {
+      "source": "matriks",
+      "text": "uluslararas piyasalar gunluk bulten burgan yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744951:0"
+    },
+    {
+      "source": "matriks",
+      "text": "piyasa dan k sa notlar baskent menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6744945:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk oneri destek direnc tablosu gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744928:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744927:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744922:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten global menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6744921:0"
+    },
+    {
+      "source": "matriks",
+      "text": "fx fikirleri tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6744914:0"
+    },
+    {
+      "source": "matriks",
+      "text": "alman milletvekili frei benzin uzerindeki sat s vergisini dusurmek at lmas gereken somut ad m olur",
+      "link": "https://tr.tradingview.com/news/matriks:6744913:0"
+    },
+    {
+      "source": "matriks",
+      "text": "alman milletvekili frei benzin vergisini dusurmek secenek olabilir",
+      "link": "https://tr.tradingview.com/news/matriks:6744911:0"
+    },
+    {
+      "source": "matriks",
+      "text": "anket matriks haber bist sentiment anketi borsa ac l s beklentisi 22 20 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6744904:0"
+    },
+    {
+      "source": "matriks",
+      "text": "alman milletvekili frei ekim ay nda yururluge girecek enerji destek onlemleri uzerinde dusunmeliyiz",
+      "link": "https://tr.tradingview.com/news/matriks:6744900:0"
+    },
+    {
+      "source": "matriks",
+      "text": "alman milletvekili frei enerji fiyatlar konusunda acilen rahatlama saglanmal rtl",
+      "link": "https://tr.tradingview.com/news/matriks:6744893:0"
+    },
+    {
+      "source": "kap",
+      "text": "mekmd msa sirket genel bilgi formu sirket meksa yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663280"
+    },
+    {
+      "source": "kap",
+      "text": "pa1 pay al m sat m bildirimi pay al m sat m hk sirket pardus portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663279"
+    },
+    {
+      "source": "kap",
+      "text": "opet ozel durum ac klamas genel 3 500 000 000 tl tahvil ihrac sirket opet petrolculuk a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663278"
+    },
+    {
+      "source": "kap",
+      "text": "opet pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 3 500 000 000 tl tahvil ihrac sirket opet petrolculuk a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663277"
+    },
+    {
+      "source": "kap",
+      "text": "huner pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663276"
+    },
+    {
+      "source": "kap",
+      "text": "kgyo pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663275"
+    },
+    {
+      "source": "kap",
+      "text": "tkfen pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663270"
+    },
+    {
+      "source": "kap",
+      "text": "aksgy pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663269"
+    },
+    {
+      "source": "kap",
+      "text": "as1 asj beh bs1 dnp dnyva dth fbb fbbnk fck ffz fpk gaf gbc gbz har hmc ifv kig kls ksv ktr lat nzt pa2 pbr pip pk1 ppv ptp rg4 rkv rr7 thd thv vkv vpe vpf kamuyu ayd nlatma platformu duyurusu yat r m fonlar na iliskin rehberin 9 8 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663268"
+    },
+    {
+      "source": "kap",
+      "text": "bhn dgnmo dunyh frigo grnyo gsdho hedef info iyf ktlev lidfa lkmnh mas miatk mrgyo mul nnf ozatd paseu pkz pry tehol tera thf tmpol tra ver kamuyu ayd nlatma platformu duyurusu ozel durumlar tebligi nin 12 4 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663267"
+    },
+    {
+      "source": "kap",
+      "text": "ismdl piyasa yap c atanmas piyasa yap c atanmas sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663266"
+    },
+    {
+      "source": "kap",
+      "text": "ismdl bistech pay piyasas al m sat m sistemi duyurusu isleme ac lan borsa yat r m fonu s ras sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663265"
+    },
+    {
+      "source": "kap",
+      "text": "magen pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663264"
+    },
+    {
+      "source": "kap",
+      "text": "akm akmen bistech pay piyasas al m sat m sistemi duyurusu isleme ac lan varantlar sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663263"
+    },
+    {
+      "source": "kap",
+      "text": "bimas bistech pay piyasas al m sat m sistemi duyurusu hak kullan m sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1663262"
+    },
     {
       "source": "forinvest",
       "text": "nissan kicks e power avrupa ya geliyor nissan kicks e power modelini avrupa pazar na getirecegini arac n ingiltere deki sunderland fabrikas nda uretilecegini ac klad sirket yeni model tesise 170 milyon sterlin yat r m yapacak",
@@ -9089,156 +9254,6 @@
       "source": "kap",
       "text": "vkf ozel durum ac klamas genel surdurulebilir yesil kira sertifikas ihrac na iliskin al nan yonetim kurulu karar sirket vakif katilim bankasi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1662029"
-    },
-    {
-      "source": "kap",
-      "text": "halkb thl sirket genel bilgi formu sirket turkiye halk bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662028"
-    },
-    {
-      "source": "kap",
-      "text": "akfye pay baz nda devre kesici bildirimi akfye e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662023"
-    },
-    {
-      "source": "kap",
-      "text": "islem iptali bap islem iptali sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662021"
-    },
-    {
-      "source": "kap",
-      "text": "krgyo kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 yeni atanan bag ms z yonetim kurulu uyesi sonras komiteler sirket korfez gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662020"
-    },
-    {
-      "source": "kap",
-      "text": "krgyo sirket genel bilgi formu sirket korfez gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662019"
-    },
-    {
-      "source": "kap",
-      "text": "alves merkezi kay t kurulusu a s duyurusu gerceklesmeyen itfa kupon getiri odemesi sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662018"
-    },
-    {
-      "source": "kap",
-      "text": "algyo altny brko cante etyat isbir izmdc kocmt kstur mrshl nthol ozatd pgsus sonme tdgyo umpas ushol ybtas zedur borsada islem goren tipe donusum duyurusu donusum sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662017"
-    },
-    {
-      "source": "investing",
-      "text": "hippo ceo su richard mccathron 161 149 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/hippo-ceosu-richard-mccathron-161149-dolar-degerinde-hisse-satt-93CH-4063585"
-    },
-    {
-      "source": "cnbce",
-      "text": "hisse senetleri borsadan tarihi kac s buyuk sirketlerden 32 milyar dolar c kt abd hisse senedi fonlar ndan haftada 32 27 milyar dolar c karken buyuk sirket hisselerine yat r m yapan fonlarda haftal k c k s 40 44 milyar dolarla rekor k rd petrol fiyatlar faiz endiseleri yat r mc lar tahvillere yoneltti",
-      "link": "https://www.cnbce.com/borsa/hisse-senetleri-ve-borsadan-tarihi-kacis-buyuk-sirketlerden-32-milyar-dolar-cikti-h37022"
-    },
-    {
-      "source": "cnbce",
-      "text": "alman otomobil devi besiktas guclerini birlestirdi is birligi 2028 e kadar surecek opel turkiye besiktas jk iki y ll k stratejik is birligine imza att 2028 sezon sonuna kadar surecek anlasma kapsam nda opel kulubun otomotiv kategorisindeki partneri olurken futbol basketbol tak mlar na mobilite destegi saglay",
-      "link": "https://www.cnbce.com/borsa/alman-otomobil-devi-ve-besiktas-guclerini-birlestirdi-is-birligi-2028e-kadar-surecek-h37007"
-    },
-    {
-      "source": "cnbce",
-      "text": "borsa haftan n gununde yukseliste borsa istanbul bist 100 endeksi gune 7 13 puan yuzde 0 05 art sla 14 400 98 puandan baslad endeks saat 13 00 itibar yla onceki kapan sa gore 27 05 puan yuzde 0 19 art sla 14 420 91 puana c kt",
-      "link": "https://www.cnbce.com/borsa/borsa-haftanin-son-gununde-yukseliste-seansin-one-cikan-hisse-ve-sektorleri-hangileri-h36987"
-    },
-    {
-      "source": "cnbce",
-      "text": "borsa istanbul ac klad trilc hisseleri yeniden isleme ac l yor borsa istanbul finansal raporlar n kap a bildirilmesi sirkete 10 ekim 2026 ya kadar ek sure verilmesinin spk taraf ndan uygun gorulmesinin ard ndan trilc islem s ras n n yeniden ac lacag n duyurdu",
-      "link": "https://www.cnbce.com/borsa/borsa-istanbul-acikladi-trilc-hisseleri-yeniden-isleme-aciliyor-h36986"
-    },
-    {
-      "source": "bloomberght",
-      "text": "abd tuketici guveni motorin fiyatlar yla eylul geriledi abd tuketici guveni yukselen benzin fiyatlar yeniden alevlenen ticaret gerilimlerinin sat n alma gucune dair endiseleri art rmas yla eylul ay bas nda geriledi",
-      "link": "https://www.bloomberght.com/abd-de-tuketici-guveni-motorin-fiyatlariyla-eylul-de-geriledi-3788059"
-    },
-    {
-      "source": "bloomberght",
-      "text": "avrupa dogalgaz fiyatlar nda yuzde 13 2 lik art s avrupa dogalgaz fiyatlar basra korfezi nden s v last r lm s dogalgaz lng arz nda yasanan kesintiler hurmuz bogaz ndaki guvenlik riskleriyle haftay yuzde 13 2 lik yukselisle surduruyor",
-      "link": "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlarinda-yuzde-13-2-lik-artis-3788056"
-    },
-    {
-      "source": "bloomberght",
-      "text": "piyasalar tufe sonras fed den faiz art s beklentisini yukseltti abd agustyos ay enflasyon verilerinin ac klanmas ndan sonra piyasalarda fed den faiz art s beklentisi guncellendi",
-      "link": "https://www.bloomberght.com/piyasalar-tufe-sonrasi-fed-den-faiz-artisi-beklentisini-yukseltti-3788052"
-    },
-    {
-      "source": "bloomberght",
-      "text": "levi s mavi ye kumas veren 73 y ll k sirket fabrika kapatt orta anadolu kuresel tekstil sektorundeki zorlu kosullar nedeniyle kayseri deki uretim tesislerini kapatma karar ald uretim faaliyetleri 11 eylul durdurulurken tum tesislerin 12 ekim itibar yla kapat lacag ac kland",
-      "link": "https://www.bloomberght.com/levi-s-ve-mavi-ye-kumas-veren-73-yillik-sirket-fabrika-kapatti-3788050"
-    },
-    {
-      "source": "bloomberght",
-      "text": "abd ayl k enflasyon h zland abd enflasyon agustos ta beklentilere paralel artt cekirdek enflasyon ayl k bazda artarak fed yetkililerinin gelecek hafta faiz oranlar n art rmas yonundeki gorusu guclendirdi",
-      "link": "https://www.bloomberght.com/abd-de-aylik-enflasyon-hizlandi-3788043"
-    },
-    {
-      "source": "bloomberght",
-      "text": "tmo dan hububat arz na iliskin kritik ac klama tmo 2026 27 sat s sezonunda piyasada olusan ihtiyaclar arz talep dengesindeki gelismeleri dikkate alarak sat s baslang c n one cekti piyasaya urun arz na baslad",
-      "link": "https://www.bloomberght.com/tmo-dan-hububat-arzina-iliskin-kritik-aciklama-3788042"
-    },
-    {
-      "source": "bloomberght",
-      "text": "hindistan n rezervlerinde tarihi rekor hindistan n brut rezervleri 785 7 milyar dolarla rekor seviyeyi gordu",
-      "link": "https://www.bloomberght.com/hindistanin-rezervlerinde-tarihi-rekor-3788041"
-    },
-    {
-      "source": "bloomberght",
-      "text": "husilerin babulmendep teki kontrolu enerji piyasalar risk almanya d sisleri bakanl g husilerin k z ldeniz in girisinde bulunan stratejik babulmendep bogaz ndaki kontrolunun artmas n n enerji piyasalar ac s ndan ciddi risk olusturdugu sevkiyatlar n daha fazla k s tlanabilecegi uyar s nda bulun",
-      "link": "https://www.bloomberght.com/husilerin-babulmendep-teki-kontrolu-enerji-piyasalari-icin-risk-3788040"
-    },
-    {
-      "source": "bloomberght",
-      "text": "rusya 15 ay sonra ilk kez faizi degistirmedi rusya merkez bankas yak t tedarikindeki aksakl klar artan kamu harcamalar ndan kaynaklanan enflasyon riskleriyle mucadele etmek amac yla borclanma maliyetlerini yuzde 14 te tuttu",
-      "link": "https://www.bloomberght.com/rusya-15-ay-sonra-ilk-kez-faizi-degistirmedi-3788039"
-    },
-    {
-      "source": "bloomberght",
-      "text": "husiler stratejik oneme sahip aday ele gecirdi yemen deki iran destekli husilerin babulmendep bogaz ndaki stratejik oneme sahip meyyun perim adas n ele gecirdigi belirtildi",
-      "link": "https://www.bloomberght.com/husiler-stratejik-oneme-sahip-adayi-ele-gecirdi-3788038"
-    },
-    {
-      "source": "bloomberght",
-      "text": "almanya sirket iflaslar 13 y l n zirvesinde almanya kurumsal iflaslar ekonomideki toparlanma sinyallerine ragmen y l n ilk yar s nda 13 y l n en yuksek seviyesine ulast",
-      "link": "https://www.bloomberght.com/almanya-da-sirket-iflaslari-13-yilin-zirvesinde-3788037"
-    },
-    {
-      "source": "bloomberght",
-      "text": "milyarderler listesinde dengeler degisti luksun patronu art k ilk 10 degil louis vuitton gibi luks markalar n patronu bernard arnault art k dunyan n en zengin 10 kisisi aras nda yer alm yor iste teknoloji sirketi patronlar n n one c kt g yeni s ralama",
-      "link": "https://www.bloomberght.com/milyarderler-listesinde-dengeler-degisti-luksun-patronu-artik-ilk-10-da-degil-3788036"
-    },
-    {
-      "source": "bloomberght",
-      "text": "simsek ten cari denge ac klamas hazine maliye bakan mehmet simsek cari ac g n temmuz ay nda y ll kland r lm s 40 7 milyar dolar oldugunu belirterek ihracatc lar n kuresel ticaretteki belirsizlik maliyet bask lar na ragmen konumunu korudugunu ifade etti",
-      "link": "https://www.bloomberght.com/simsek-ihracatci-belirsizligi-ragmen-konumunu-korudu-3788035"
-    },
-    {
-      "source": "bloomberght",
-      "text": "yeni fiili dolas m oranlar n n ilan nda tarih belli oldu merkezi kay t kurulusu yeni fiili dolas m oranlar n 14 eylul pazartesi gunu duyuracak",
-      "link": "https://www.bloomberght.com/yeni-fiili-dolasim-oranlarinin-ilaninda-tarih-belli-oldu-3788034"
-    },
-    {
-      "source": "kap",
-      "text": "sekfa ihrac belgesi sermaye piyasas kurulu taraf ndan onaylanan ihrac belgesi sirket seker faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662016"
-    },
-    {
-      "source": "kap",
-      "text": "sekfa ihrac tavan na iliskin bildirim yurt ici borclanma arac sermaye piyasas kurulu onay sirket seker faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662015"
-    },
-    {
-      "source": "kap",
-      "text": "blsmd brkt dkvrl ergli halkb borclanma araclar n n kira sertifikalar n n islem gormeye baslamas borclanma araclar n n kira sertifikalar n n islem gormeye baslamas sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662014"
-    },
-    {
-      "source": "kap",
-      "text": "akm akmen ihrac tavan na iliskin bildirim kira sertifikas ihrac na iliskin yonetim kurulu karar sirket ak yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662005"
     }
   ],
   "research_reports_v8": {
@@ -9285,20 +9300,22 @@
     "deniz": {
       "gunluk_bulten": {
         "seen_keys": [
+          "2bdd6ff55a1b04c9f59ae1c13481eaedb20bcade",
           "ccd71d1c5e2175582a96cdf71aa56a957c513aa7",
           "c5a17379797cc5842b26af84d0aa5e837ec2c8bd",
           "d5bc1eecc6643f095d3844e65ba4653d095e17b7",
           "8431e0938e01bac95ff2141a6e4c0c6299d4c2c1"
         ],
         "seen_semantic_keys": [
+          "43fc1b49cb166fcfa257fcbb03b691910f8d23ef",
           "e5490d088009f666c94293f56dfcc7a5e9dc2d90",
           "30c0f221f98f4ca9d4c91f69b09f1ea8ff6d5237",
           "243dfa7dbdafeddaf374bfc52ff1a3e59d4d1a9f",
           "bec040e846e91e419d4e9f56f7c11d5c2f6b3bb9"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-09-15",
-        "sent_at": "2026-09-15T09:51:58.238891+03:00"
+        "last_published_date": "2026-09-16",
+        "sent_at": "2026-09-16T09:41:25.886805+03:00"
       }
     },
     "phillipcapital": {
@@ -9430,20 +9447,22 @@
     "ziraat": {
       "strateji_raporu": {
         "seen_keys": [
+          "ab6acb2f897d1102b4a62764d981e178e9845f94",
           "fb1593d51a0c03ae1adcc59273a3ecf6546578e4",
           "e0c6a3c25bfc962643c53504038505a614174e64",
           "a706323e16c0b9f55f546e4bf7532b033831a849",
           "fb3973caa203e1f714550008803acee48d79832b"
         ],
         "seen_semantic_keys": [
+          "c640b325cdb69b8a26a5c01955540b5919d166e0",
           "264030fb7a528dfae3c357b68eec970de8977b23",
           "5c81ff55a6a5737b2da0cf76d3eb550149cbf4fe",
           "85370f5dd5085f9061609e66fd8d139333f2feaa",
           "094a6b836186974a412e8441b8a0dd20591a57a3"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-09-15",
-        "sent_at": "2026-09-15T09:52:21.746389+03:00"
+        "last_published_date": "2026-09-16",
+        "sent_at": "2026-09-16T09:41:38.066028+03:00"
       }
     },
     "gedik": {
