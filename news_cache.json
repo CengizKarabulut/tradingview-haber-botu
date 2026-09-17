@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1664693",
+      "last_seen_key": "kap:1664709",
       "seen_keys": [
+        "kap:1664709",
+        "kap:1664701",
+        "kap:1664698",
+        "kap:1664694",
         "kap:1664693",
         "kap:1664692",
         "kap:1664691",
@@ -149,9 +153,8 @@
       ]
     },
     "tcmb": {
-      "last_seen_key": "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-42",
+      "last_seen_key": "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-41",
       "seen_keys": [
-        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-42",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-41",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-40",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-39",
@@ -171,11 +174,7 @@
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-27",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-26",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-25",
-        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-24",
-        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-23",
-        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-22",
-        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-21",
-        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-20"
+        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-24"
       ]
     },
     "spk": {
@@ -216,8 +215,9 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6750580:0",
+      "last_seen_key": "matriks:matriks:6750625:0",
       "seen_keys": [
+        "matriks:matriks:6750625:0",
         "matriks:matriks:6750580:0",
         "matriks:matriks:6750562:0",
         "matriks:matriks:6750475:0",
@@ -340,8 +340,13 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aabd04595016b5817e5c196/PICNEWS/tr/yabancilardan-hissede-277-7-milyon-dolarlik-alim-17-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aabdec895016b5817e5c23e/PICNEWS/tr/abd-de-konut-baslangiclari-agustosta-geriledi-17-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6aabdec895016b5817e5c23e/PICNEWS/tr/abd-de-konut-baslangiclari-agustosta-geriledi-17-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aabdd96859c73528774383e/PICNEWS/tr/abd-de-issizlik-maasi-basvurulari-geriledi-17-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aabdc3b24008d7d4373316f/PICNEWS/tr/cumhurbaskani-basdanismani-ucum-dan-2028-secimi-ve-erdogan-in-adayligina-iliskin-dikkat-ceken-aciklama-17-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aabd16b95016b5817e5c1a1/PICNEWS/tr/parite-etkisinden-arindirildiginda-doviz-mevduatlari-1-8-milyar-dolar-artti-17-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aabd05d859c7352877437b1/PICNEWS/tr/tcmb-rezervlerinde-sert-dusus-toplam-rezerv-178-7-milyar-dolara-geriledi-17-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aabd04595016b5817e5c196/PICNEWS/tr/yabancilardan-hissede-277-7-milyon-dolarlik-alim-17-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aabceb324008d7d437330f5/PICNEWS/tr/boe-uzun-vadeli-tahvil-satislarindan-vazgecti-17-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aabce3595016b5817e5c17c/PICNEWS/tr/sdt-uzay-dan-2-21-milyon-dolarlik-yeni-savunma-sanayi-siparisi-17-09-26/",
@@ -353,8 +358,15 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/doviz-mevduatlari-guclu-artisa-dondu-3788657",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/goldman-sachs-sahin-fed-sonrasi-beklentisini-revize-etti-3788672",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/goldman-sachs-sahin-fed-sonrasi-beklentisini-revize-etti-3788672",
+        "bloomberght:https://www.bloomberght.com/abd-konut-baslangiclarinda-surpriz-dusus-3788671",
+        "bloomberght:https://www.bloomberght.com/bddk-dan-bankalara-hisse-geri-alimlari-icin-esneklik-3788670",
+        "bloomberght:https://www.bloomberght.com/abd-de-issizlik-maasi-basvurularinda-beklentilerin-uzerinde-dusus-3788669",
+        "bloomberght:https://www.bloomberght.com/isvec-te-genel-secimi-merkez-sol-blok-kazandi-3788663",
+        "bloomberght:https://www.bloomberght.com/tcmb-rezervlerinde-gerileme-surdu-3788661",
+        "bloomberght:https://www.bloomberght.com/yabanci-yatirimci-gecen-hafta-hisse-ve-tahvil-aldi-3788660",
         "bloomberght:https://www.bloomberght.com/doviz-mevduatlari-guclu-artisa-dondu-3788657",
         "bloomberght:https://www.bloomberght.com/tcmb-enerji-fiyatlari-enflasyon-gorunumu-icin-yukari-yonlu-risk-3788650",
         "bloomberght:https://www.bloomberght.com/rehn-savas-sokundan-kaynaklanan-ikinci-tur-etki-gormuyorum-3788649",
@@ -392,6 +404,8 @@
         "bloomberght:https://www.bloomberght.com/trump-umarim-iran-la-savasin-sonuna-dogru-ilerliyoruz-3788559",
         "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-17-eylul-2026-3788558",
         "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-17092026-3788557",
+        "bloomberght:https://www.bloomberght.com/guncel-altin-fiyatlari-17-eylul-2026-persembe-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3788594",
+        "bloomberght:https://www.bloomberght.com/dolar-ne-kadar-oldu-17-eylul-2026-dolar-kurunda-son-durum-ne-pkh2-3788579",
         "bloomberght:https://www.bloomberght.com/trump-tan-fed-kararina-tepki-3788556",
         "bloomberght:https://www.bloomberght.com/beyaz-saray-dan-fed-karari-yorumu-oldukca-talihsiz-3788555",
         "bloomberght:https://www.bloomberght.com/fed-2023-ten-bu-yana-ilk-kez-faiz-artirdi-3788522",
@@ -498,31 +512,60 @@
       ]
     },
     "cnbce": {
-      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/spkdan-borsada-dikkat-ceken-karar-lisanslar-iptal-edildi-islem-yasagi-geldi-borsada-spk-karari-cok-sayida-kisiye-suc-duyurusu-ve-islem-yasagi-h37398",
+      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/alves-kabloya-yonetim-kayyimi-atandi-h37464",
       "seen_keys": [
+        "cnbce:https://www.cnbce.com/borsa/alves-kabloya-yonetim-kayyimi-atandi-h37464",
+        "cnbce:https://www.cnbce.com/borsa/hedef-portfoyden-spk-karari-sonrasi-aciklama-likidite-problemimiz-yok-h37439",
+        "cnbce:https://www.cnbce.com/borsa/tasfiye-edilen-fonlarin-portfoyu-belli-oldu-iste-en-cok-payin-bulundugu-hisseler-h37435",
+        "cnbce:https://www.cnbce.com/borsa/hangi-fonlar-temerrute-dustu-hangi-fonlarin-takas-prensipleri-degisti-tera-portfoy-fonlari-pusula-portfoy-fon-tera-temerrut-h37424",
+        "cnbce:https://www.cnbce.com/borsa/borsa-sert-satis-sonrasi-pozitife-dondu-iste-one-cikan-gelismeler-h37418",
+        "cnbce:https://www.cnbce.com/piyasalar/merkez-bankasindan-likidite-kosullarina-yonelik-yeni-adimlar-h37417",
+        "cnbce:https://www.cnbce.com/piyasalar/fed-faiz-artirdi-korfez-ulkeleri-de-harekete-gecti-iste-4-ulkede-yeni-oranlar-h37414",
+        "cnbce:https://www.cnbce.com/borsa/borsada-sert-dusus-teminat-tamamlama-cagrilarini-artirdi-3-ayin-zirvesi-goruldu-h37413",
+        "cnbce:https://www.cnbce.com/piyasalar/3-dev-bankadan-fed-faiz-karari-sonrasi-yeni-tahmin-pes-pese-artis-beklentisi-h37409",
+        "cnbce:https://www.cnbce.com/borsa/dev-bankadan-yatirimciya-mesaj-alimlara-hizlica-basladik-rekor-geliyor-h37406",
+        "cnbce:https://www.cnbce.com/borsa/ft-yazdi-borsa-istanbulda-fon-panigi-1-milyar-dolarlik-cikis-msci-alarmini-buyuttu-h37403",
         "cnbce:https://www.cnbce.com/borsa/spkdan-borsada-dikkat-ceken-karar-lisanslar-iptal-edildi-islem-yasagi-geldi-borsada-spk-karari-cok-sayida-kisiye-suc-duyurusu-ve-islem-yasagi-h37398",
         "cnbce:https://www.cnbce.com/borsa/besiktastan-milyonlarca-liralik-pay-satisi-icin-kritik-hamle-spkya-basvuru-h37393",
         "cnbce:https://www.cnbce.com/haberler/hedef-holdingde-kritik-gelisme-namik-kemal-gokalp-emniyete-cagrildi-namik-kemal-gokalp-kimdir-h37390",
         "cnbce:https://www.cnbce.com/borsa/peker-gyo-ve-tera-cephesinde-kritik-gelisme-zorunlu-pay-alim-teklifi-ertelenebilir-h37389",
+        "cnbce:https://www.cnbce.com/haberler/dunya-bankasinin-ozel-sermaye-mobilizasyonunda-tarihi-seviye-112-milyar-dolar-h37466",
+        "cnbce:https://www.cnbce.com/haberler/bddk-bankalarin-hisse-geri-alimlarina-kolaylik-getirdi-h37460",
+        "cnbce:https://www.cnbce.com/haberler/adnan-dalgakiran-istanbul-sanayi-odasi-iso-baskan-adayligini-acikladi-h37457",
+        "cnbce:https://www.cnbce.com/haberler/yabanci-yatirimci-borsada-satistan-alima-gecti-2777-milyon-dolarlik-net-alim-h37456",
+        "cnbce:https://www.cnbce.com/haberler/tuketici-hakem-heyetinden-emsal-karar-iptal-edilen-turun-ucret-farki-iade-edildi-h37451",
+        "cnbce:https://www.cnbce.com/haberler/merkez-bankasindan-enflasyon-mesaji-enerji-fiyatlari-risk-olusturuyor-h37449",
+        "cnbce:https://www.cnbce.com/haberler/yesil-ve-dijital-donusum-icin-meslek-haritasi-etkilenecek-meslekler-mercek-altinda-h37447",
+        "cnbce:https://www.cnbce.com/haberler/boe-faiz-kararini-acikladi-sabit-tuttu-h37445",
+        "cnbce:https://www.cnbce.com/haberler/spkdan-7-portfoy-yonetim-sirketinin-fonlarina-tasfiye-karari-h37428",
+        "cnbce:https://www.cnbce.com/haberler/bimden-bankacilik-hamlesi-dost-katilim-bankasi-resmen-kuruldu-h37373",
+        "cnbce:https://www.cnbce.com/borsa/katilimevimden-kapa-kritik-aciklama-yonetim-kurulunda-degisiklik-yok-h37377",
+        "cnbce:https://www.cnbce.com/piyasalar/kap-aciklamasi-geldi-emlak-katilim-katilimevim-ve-birevimi-satin-almak-icin-gorusmelere-basladi-h37426",
+        "cnbce:https://www.cnbce.com/haberler/127-milyon-dolarlik-bahis-sorusturmasi-o-ulkede-18-polymarket-kullanicisi-savcilikta-h37437",
+        "cnbce:https://www.cnbce.com/haberler/spkdan-130-fon-icin-tasfiye-karari-surec-nasil-isleyecek-yatirimcilarin-haklari-ne-parasi-ne-olacak-h37434",
+        "cnbce:https://www.cnbce.com/haberler/borsada-yaniltici-paylasim-sorusturmasi-5-supheliye-adli-kontrol-h37427",
+        "cnbce:https://www.cnbce.com/haberler/merkez-bankasi-haftalik-repo-ihalelerinde-fonlama-miktarini-artirdi-h37425",
+        "cnbce:https://www.cnbce.com/haberler/finansal-istikrar-komitesi-duyurdu-piyasalarda-temel-veya-yapisal-risk-bulunmuyor-h37416",
+        "cnbce:https://www.cnbce.com/haberler/bddk-135-personel-alacak-basvurular-ve-sinav-tarihleri-belli-oldu-h37411",
+        "cnbce:https://www.cnbce.com/haberler/piyasalar-dikkatle-izliyor-finansal-istikrar-komitesi-toplandi-h37381",
+        "cnbce:https://www.cnbce.com/enerji/akaryakitta-zam-pompaya-yansidi-motorinde-tarihi-esik-asildi-iste-100-tllik-fiyatlar-h37402",
+        "cnbce:https://www.cnbce.com/enerji/akaryakitta-tarihi-esik-motorin-100-lirayi-asti-motorin-fiyatlarinda-tarihi-rekor-100-tl-siniri-asildi-h37397",
+        "cnbce:https://www.cnbce.com/haberler/hakim-ve-savci-atamalarinda-yeni-donem-dogu-bati-ayrimi-kalkiyor-puan-sistemi-geliyor-h37395",
+        "cnbce:https://www.cnbce.com/haberler/trumptan-fede-faiz-baskisi-hizlica-dusurun-trumptan-fede-faiz-cagrisi-yuzde-1-veya-daha-dusuk-olmali-h37392",
+        "cnbce:https://www.cnbce.com/piyasalar/fed-faiz-artirdi-warshdan-dikkat-ceken-mesaj-geldi-enflasyon-cok-yuksek-h37391",
         "cnbce:https://www.cnbce.com/borsa/tera-portfoyun-para-piyasasi-fonunda-temerrut-iade-odemelerinde-sorun-cikti-tera-portfoyun-tly-tmv-ve-doh-fonlarinda-yeni-donem-odeme-suresi-degisti-h37382",
         "cnbce:https://www.cnbce.com/borsa/borsanin-gyo-sirketinden-birlesme-hamlesi-spkye-basvuru-yapildi-torunlar-gyodan-iki-sirket-icin-birlesme-hamlesi-spkye-basvuru-yapildi-h37380",
         "cnbce:https://www.cnbce.com/borsa/borsadaki-giyim-sirketinden-bilanco-sonrasi-dikkat-ceken-karar-1-milyar-tllik-geri-alim-mavi-giyimin-kari-yuzde-33-dustu-1-milyar-tllik-geri-alim-h37379",
         "cnbce:https://www.cnbce.com/borsa/zorlu-enerjiden-dikkat-ceken-karar-25-milyon-euroluk-artirimda-yok-h37378",
-        "cnbce:https://www.cnbce.com/borsa/katilimevimden-kapa-kritik-aciklama-yonetim-kurulunda-degisiklik-yok-h37377",
         "cnbce:https://www.cnbce.com/borsa/borsa-sert-dususle-kapandi-16-eylul-2026-h37328",
         "cnbce:https://www.cnbce.com/borsa/kap-aciklamasi-sonrasi-sert-yukseldi-borsada-akisa-karsi-yuzen-hisse-h37355",
         "cnbce:https://www.cnbce.com/borsa/spacex-hisselerinde-kritik-tarih-328-milyon-hisse-satisa-aciliyor-h37353",
         "cnbce:https://www.cnbce.com/borsa/elmas-piyasasinin-dev-borsalari-dunyanin-en-buyuk-ureticileri-hangi-ulkeler-h37326",
         "cnbce:https://www.cnbce.com/borsa/fitch-sasa-polyesterin-notunu-yukseltti-yatirimlar-ve-karlilik-vurgusu-h37319",
         "cnbce:https://www.cnbce.com/piyasalar/hsbcden-kuresel-hisse-senetleri-icin-iyimser-gorunum-uc-sektor-one-cikti-h37317",
-        "cnbce:https://www.cnbce.com/enerji/akaryakitta-tarihi-esik-motorin-100-lirayi-asti-motorin-fiyatlarinda-tarihi-rekor-100-tl-siniri-asildi-h37397",
-        "cnbce:https://www.cnbce.com/haberler/hakim-ve-savci-atamalarinda-yeni-donem-dogu-bati-ayrimi-kalkiyor-puan-sistemi-geliyor-h37395",
-        "cnbce:https://www.cnbce.com/haberler/trumptan-fede-faiz-baskisi-hizlica-dusurun-trumptan-fede-faiz-cagrisi-yuzde-1-veya-daha-dusuk-olmali-h37392",
-        "cnbce:https://www.cnbce.com/piyasalar/fed-faiz-artirdi-warshdan-dikkat-ceken-mesaj-geldi-enflasyon-cok-yuksek-h37391",
         "cnbce:https://www.cnbce.com/haberler/ticaret-bakanligi-acikladi-cocuk-urununde-iki-ciddi-risk-tespit-edildi-cocuklarin-elinden-dusurmedigi-urun-icin-kritik-karar-satisi-yasaklandi-h37387",
         "cnbce:https://www.cnbce.com/piyasalar/fed-faiz-kararini-acikladi-fed-faiz-artirdi-politika-faizi-yuzde-375-400-araligina-cikti-h37384",
         "cnbce:https://www.cnbce.com/haberler/hazine-ve-maliye-bakanligi-duyurdu-finansal-istikrar-komitesi-toplanacak-h37381",
-        "cnbce:https://www.cnbce.com/haberler/bimden-bankacilik-hamlesi-dost-katilim-bankasi-resmen-kuruldu-h37373",
         "cnbce:https://www.cnbce.com/piyasalar/pusula-portfoyun-bazi-fonlarinda-temerrut-olustu-yatirimcilarin-paralarina-ne-olacak-h37281",
         "cnbce:https://www.cnbce.com/enerji/polonya-400-milyon-dolar-odedi-petrolu-alamadi-paranin-akibeti-arastiriliyor-h37251",
         "cnbce:https://www.cnbce.com/sirket-haberleri/revolutta-hack-krizi-buyuyor-hackerlar-785-milyon-dolarlik-bitcoin-istiyor-h37271",
@@ -723,33 +766,32 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abd-menkul-kiymetler-ve-borsa-komisyonundan-dijital-varlik-duzenlemelerinde-harekete-gecme-sozu-/4059391",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/emlak-katilim-tasarruf-finansman-katilimevim-ve-birevimi-satin-almak-icin-gorusmelere-basladi/4059726",
       "seen_keys": [
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abd-menkul-kiymetler-ve-borsa-komisyonundan-dijital-varlik-duzenlemelerinde-harekete-gecme-sozu-/4059391",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/konut-fiyat-endeksi-agustosta-yuzde-0-9-artti/4059102",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-enflasyonun-uzun-suredir-cok-yuksek-oldugunu-soyledi/4059535",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/fransada-balikcilarin-akaryakit-fiyatlarini-protestosu-suruyor/4059333",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglundan-surdurulebilir-havacilikta-emisyon-azaltim-hedefi/4058594",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyedeki-firmalarin-aktif-buyuklugu-gecen-yil-123-trilyon-970-milyar-539-milyon-lira-oldu/4058573",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/fed-faiz-oranini-25-baz-puan-artirdi-/4059423",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/finansal-istikrar-komitesi-bakan-simsek-baskanliginda-toplanacak/4059401",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4059267",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-16-eylul-2026/4059100",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsada-surekli-islemler-devam-ediyor/4059091",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turka-ve-altinay-robottan-arac-muayenesi-teknolojileri-alaninda-stratejik-isbirligi/4059065",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-kurum-cenevrede-temaslarda-bulundu/4058968",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ajetten-yurt-disi-ucuslarda-indirimli-bilet-kampanyasi/4058934",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/alpla-izmirde-20-milyon-avroluk-fabrikayi-hizmete-aldi/4058921",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-secim-surecinde-de-dezenflasyondan-vazgecmeyecegiz/4058907",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-kurum-wmonun-herkes-icin-erken-uyari-girisimini-cop31-baskanligi-olarak-destekliyoruz/4059203",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/fransada-yil-basindan-bu-yana-4-bin-900den-fazla-restoran-iflasini-acikladi/4059255",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/jeopolitik-gelismeler-hibrit-ve-elektrikli-otomobile-yonelimi-artiriyor/4058622",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/finansal-istikrar-komitesi-bakan-simsek-baskanliginda-yarin-toplanacak/4059401"
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/emlak-katilim-tasarruf-finansman-katilimevim-ve-birevimi-satin-almak-icin-gorusmelere-basladi/4059726",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/spk-7-portfoy-yonetim-sirketinin-bazi-fonlarinin-tasfiyesine-karar-verdi/4059849",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tspbden-sermaye-piyasalarindaki-son-gelismelere-iliskin-aciklama/4059949",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsadaki-yukselis-bankacilik-hisseleri-onculugunde-yuzde-2yi-asti/4059790",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bddk-bankalarin-hisse-geri-alimlarini-duzenledi/4060179",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupada-elektrikli-otomobillerin-pazar-payi-yuzde-30u-asti/4059745",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/sakarya-yilin-8-ayinda-97-bin-201-araci-yurt-disina-gonderdi/4059806",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/thynin-tatil-platformunda-statu-mili-kazanma-donemi/4060185",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-toplanti-ozeti-yayimlandi/4060050",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ingiltere-merkez-bankasi-politika-faizini-yuzde-3-75te-sabit-birakti/4060029",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/alman-mahkemesi-meta-yi-platformlarindaki-dolandiricilik-amacli-reklamlardan-sorumlu-tuttu/4059944",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/net-global-halka-arz-gelirleriyle-vagon-ve-boru-uretim-yatirimlarini-hizlandiracak/4059920",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yemendeki-catismalar-babulmendebde-gemi-gecislerini-durma-noktasina-getirdi/4059915",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kartli-odemeler-agustosta-3-trilyon-liraya-dayandi/4059908",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-net-global-endustriyel-yatirimlar-as-icin-caldi/4059904",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kahverengi-kokarcayla-mucadelede-samuray-arisinin-salim-yontemlerinin-etkisi-arastirilacak/4059860",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mevsimsel-yagislar-zengin-floraya-sahip-licede-bal-verimini-katladi/4059830"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/dst-global-advisors-chime-financial-hisselerinden-1093-milyon-dolar-satt-93CH-4069060",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/creative-medical-ultrasome-platformu-icin-patent-basvurusu-yapt-93CH-4070086",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/creative-medical-ultrasome-platformu-icin-patent-basvurusu-yapt-93CH-4070086",
+        "investing:https://tr.investing.com/news/company-news/faraday-future-nasdaq-ozkaynak-uyumunu-yeniden-saglad-93CH-4070085",
         "investing:https://tr.investing.com/news/insider-trading-news/dst-global-advisors-chime-financial-hisselerinden-1093-milyon-dolar-satt-93CH-4069060",
         "investing:https://tr.investing.com/news/insider-trading-news/atinin-kdemli-baskan-yardmcs-318-milyon-dolarlk-hisse-satt-93CH-4069059",
         "investing:https://tr.investing.com/news/insider-trading-news/sandisk-ceosu-david-goeckeler-517-milyon-dolarlk-hisse-satt-93CH-4069057",
@@ -1247,9 +1289,7 @@
         "investing:https://tr.investing.com/news/analyst-ratings/needham-guclu-2c-sonuclarn-gerekce-gostererek-navan-hissesi-icin-tavsiyesini-yineledi-93CH-4061380",
         "investing:https://tr.investing.com/news/stock-market-news/jetblue-airways-hissesi-bugun-neden-yukseliyor-93CH-4061379",
         "investing:https://tr.investing.com/news/company-news/copa-holdings-agustosta-168-trafik-arts-bildirdi-93CH-4061378",
-        "investing:https://tr.investing.com/news/stock-market-news/rackspace-hisseleri-nvidia-ortaklgyla-yuzde-13-yukseldi-93CH-4061362",
-        "investing:https://tr.investing.com/news/company-news/gresham-houseun-cerilliondaki-pay-yuzde-1131e-yukseldi-93CH-4061361",
-        "investing:https://tr.investing.com/news/stock-market-news/ingiltere-spacex-uydu-hizmetlerine-40-milyon-dolar-harcad-4061360"
+        "investing:https://tr.investing.com/news/stock-market-news/rackspace-hisseleri-nvidia-ortaklgyla-yuzde-13-yukseldi-93CH-4061362"
       ]
     },
     "ntvpara": {
@@ -1639,6 +1679,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "creative medical ultrasome platformu patent basvurusu yapt",
+      "link": "https://tr.investing.com/news/company-news/creative-medical-ultrasome-platformu-icin-patent-basvurusu-yapt-93CH-4070086"
+    },
+    {
+      "source": "investing",
+      "text": "faraday future nasdaq ozkaynak uyumunu yeniden saglad",
+      "link": "https://tr.investing.com/news/company-news/faraday-future-nasdaq-ozkaynak-uyumunu-yeniden-saglad-93CH-4070085"
+    },
+    {
+      "source": "cnbce",
+      "text": "alves kablo ya yonetim kayy m atand ankara cumhuriyet bassavc l g n n sorusturmas kapsam nda alves kablo ya yonetim kayy m atand",
+      "link": "https://www.cnbce.com/borsa/alves-kabloya-yonetim-kayyimi-atandi-h37464"
+    },
+    {
+      "source": "cnbce",
+      "text": "hedef portfoy den spk karar sonras ac klama likidite problemimiz yok hedef portfoy spk n n 17 eylul tarihli karar kapsam nda tefas ta islem goren fonlar n n al m sat m islemlerinin durdurulmas n n ard ndan ac klama yapt sirket karar n finansal yukumluluklerini yerine getirme kapasitesi veya temerrut",
+      "link": "https://www.cnbce.com/borsa/hedef-portfoyden-spk-karari-sonrasi-aciklama-likidite-problemimiz-yok-h37439"
+    },
+    {
+      "source": "cnbce",
+      "text": "tasfiye edilen fonlar n portfoyu belli oldu iste en cok pay n bulundugu hisseler spk bulteni 2026 60 kapsam nda baz yat r m fonlar n n isleme kapat lmas tasfiye edilmesine karar verildi tasfiye surecindeki fonlar n portfoylerinde yuksek fiili dolas m oran na sahip hisseler bulunuyor iste fonlar n elindeki dikk",
+      "link": "https://www.cnbce.com/borsa/tasfiye-edilen-fonlarin-portfoyu-belli-oldu-iste-en-cok-payin-bulundugu-hisseler-h37435"
+    },
+    {
+      "source": "cnbce",
+      "text": "hangi fonlar temerrute dustu hangi fonlar n takas prensipleri degisti sermaye piyasalar nda baz yat r m fonlar temerrut takas prensiplerinde degisiklik basl klar one c kt listede tera portfoy pusula portfoy e ait fonlar n yan s ra atlas portfoy den fon yer ald iste ad ac klanan",
+      "link": "https://www.cnbce.com/borsa/hangi-fonlar-temerrute-dustu-hangi-fonlarin-takas-prensipleri-degisti-tera-portfoy-fonlari-pusula-portfoy-fon-tera-temerrut-h37424"
+    },
+    {
+      "source": "cnbce",
+      "text": "borsa sert sat s sonras h zl toparland iste one c kan gelismeler borsa istanbul bist 100 endeksi gune 173 74 puan yuzde 1 32 azal sla 12 948 83 puandan baslad bist 100 endeksi 16 eylul seans n fon piyasas nda yasanan gelismelerin ard ndan gorulen sert sat slarla yuzde 5 54 dususle 13 122 58 puan",
+      "link": "https://www.cnbce.com/borsa/borsa-sert-satis-sonrasi-pozitife-dondu-iste-one-cikan-gelismeler-h37418"
+    },
+    {
+      "source": "cnbce",
+      "text": "merkez bankas ndan likidite kosullar na yonelik yeni ad mlar tcmb finansal piyasalardaki gelismeler dogrultusunda likidite imkanlar n gozden gecirdi haftal k repo ihaleleriyle saglanacak fonlama art r l rken bankalar n borclanma limitleri guncellenecek teminat iskonto oranlar azalt lacak",
+      "link": "https://www.cnbce.com/piyasalar/merkez-bankasindan-likidite-kosullarina-yonelik-yeni-adimlar-h37417"
+    },
+    {
+      "source": "cnbce",
+      "text": "fed faiz art rd korfez ulkeleri harekete gecti iste yeni oranlar fed faiz karar sonras suudi arabistan bae umman bahreyn faizler 25 baz puan art r l rken kararlar n dolar baglant l para birimleri finansal istikrar hedefi dogrultusunda al nd g belirtildi",
+      "link": "https://www.cnbce.com/piyasalar/fed-faiz-artirdi-korfez-ulkeleri-de-harekete-gecti-iste-4-ulkede-yeni-oranlar-h37414"
+    },
+    {
+      "source": "cnbce",
+      "text": "borsada sert dusus teminat tamamlama cagr lar n art rd 3 ay n zirvesi goruldu borsa istanbul bist 100 endeksi 16 eylul yuzde 5 54 gerileyerek 13 122 58 puandan kapan rken takasbank verilerine gore teminat tamamlama cagr lar 1 76 milyar tl ye yukseldi boylece 15 haziran dan yana en yuksek seviye kaydedildi",
+      "link": "https://www.cnbce.com/borsa/borsada-sert-dusus-teminat-tamamlama-cagrilarini-artirdi-3-ayin-zirvesi-goruldu-h37413"
+    },
+    {
+      "source": "cnbce",
+      "text": "3 dev bankadan fed faiz karar sonras yeni tahmin fed in eylul toplant s nda 25 baz puanl k faiz art s na gitmesinin ard ndan 3 dev banka yeni tahminlerini ac klad",
+      "link": "https://www.cnbce.com/piyasalar/3-dev-bankadan-fed-faiz-karari-sonrasi-yeni-tahmin-pes-pese-artis-beklentisi-h37409"
+    },
+    {
+      "source": "cnbce",
+      "text": "dev bankadan yat r mc ya mesaj al mlara h zl ca baslad k rekor geliyor jpmorgan asset management tan bob michele ekibinin uzun vadeli abd japonya avustralya tahvillerinde al ma gectigini ac klad michele tahvil fiyatlar n n cok ucuz oldugunu piyasan n azami ac noktas na ulast g n soyledi",
+      "link": "https://www.cnbce.com/borsa/dev-bankadan-yatirimciya-mesaj-alimlara-hizlica-basladik-rekor-geliyor-h37406"
+    },
+    {
+      "source": "cnbce",
+      "text": "ft yazd bist te fon panigi 1 milyar dolarl k c k s msci alarm n buyuttu financial times n haberine gore borsa istanbul bist 100 endeksi yuzde 5 in uzerinde gerilerken yat r m fonlar ndan yaklas k 1 milyar dolarl k c k s yasand piyasadaki sert dalgalanma msci nin turkiye nin gelisen piyasa statusunu yenid",
+      "link": "https://www.cnbce.com/borsa/ft-yazdi-borsa-istanbulda-fon-panigi-1-milyar-dolarlik-cikis-msci-alarmini-buyuttu-h37403"
+    },
+    {
+      "source": "bloomberght",
+      "text": "goldman sachs sahin fed sonras beklentisini revize etti kurum abd merkez bankas n n carsamba gunu verdigi sahin mesajlar n ard ndan art k ekim ay nda art s daha ongoruyor",
+      "link": "https://www.bloomberght.com/goldman-sachs-sahin-fed-sonrasi-beklentisini-revize-etti-3788672"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd konut baslang clar nda surpriz dusus abd yeni konut insaatlar agustos ay nda beklenmedik sekilde gerileyerek pandemi doneminden yana kaydedilen en dusuk seviyelerine indi",
+      "link": "https://www.bloomberght.com/abd-konut-baslangiclarinda-surpriz-dusus-3788671"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bddk dan bankalara hisse geri al mlar esneklik bankac l k duzenleme denetleme kurumu bddk duyurusuna gore bankalar n hisse geri al mlar cekirdek sermayeden dusulmeyecek",
+      "link": "https://www.bloomberght.com/bddk-dan-bankalara-hisse-geri-alimlari-icin-esneklik-3788670"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd issizlik maas basvurular nda beklentilerin uzerinde dusus abd ilk kez issizlik maas na basvuranlar n say s 12 eylul biten haftada 196 bine duserek piyasa beklentilerinin cok uzerinde gerceklesti",
+      "link": "https://www.bloomberght.com/abd-de-issizlik-maasi-basvurularinda-beklentilerin-uzerinde-dusus-3788669"
+    },
+    {
+      "source": "bloomberght",
+      "text": "isvec te genel secimi merkez sol blok kazand isvec te 13 eylul yap lan genel secimi sosyal demokratlar liderligindeki merkez parti yesiller partisi sol partiden olusan merkez sol blok parlamentoda 3 sandalye farkla kazand",
+      "link": "https://www.bloomberght.com/isvec-te-genel-secimi-merkez-sol-blok-kazandi-3788663"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tcmb rezervlerinde gerileme surdu turkiye cumhuriyet merkez bankas n n brut rezervleri 5 5 milyar dolar gerilemeyle 178 7 milyar dolara cekildi",
+      "link": "https://www.bloomberght.com/tcmb-rezervlerinde-gerileme-surdu-3788661"
+    },
+    {
+      "source": "bloomberght",
+      "text": "yabanc yat r mc gecen hafta hisse tahvil ald yabanc yat r mc 11 eylul haftas nda 277 7 milyon dolarl k hisse ald",
+      "link": "https://www.bloomberght.com/yabanci-yatirimci-gecen-hafta-hisse-ve-tahvil-aldi-3788660"
+    },
+    {
+      "source": "forinvest",
+      "text": "abd konut baslang clar agustosta geriledi abd yeni konut insaat na iliskin agustos verileri konut baslang clar yap izinlerinde dususe isaret ederken tek ailelik konut baslang clar nda art s goruldu",
+      "link": "https://www.foreks.com/haber/detay/6aabdec895016b5817e5c23e/PICNEWS/tr/abd-de-konut-baslangiclari-agustosta-geriledi-17-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "abd issizlik maas basvurular geriledi abd ilk kez issizlik maas basvurusunda bulunanlar n say s 12 eylul sona eren haftada dusus gosterdi",
+      "link": "https://www.foreks.com/haber/detay/6aabdd96859c73528774383e/PICNEWS/tr/abd-de-issizlik-maasi-basvurulari-geriledi-17-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "cumhurbaskan basdan sman ucum dan 2028 secimi erdogan n adayl g na iliskin dikkat ceken ac klama cumhurbaskan basdan sman cumhurbaskanl g hukuk politikalar kurulu baskanvekili mehmet ucum cumhurbaskan recep tayyip erdogan n onumuzdeki secimlerde yeniden adayl g na iliskin degerlendirmel",
+      "link": "https://www.foreks.com/haber/detay/6aabdc3b24008d7d4373316f/PICNEWS/tr/cumhurbaskani-basdanismani-ucum-dan-2028-secimi-ve-erdogan-in-adayligina-iliskin-dikkat-ceken-aciklama-17-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "parite etkisinden ar nd r ld g nda doviz mevduatlar 1 8 milyar dolar artt turkiye cumhuriyet merkez bankas tcmb verilerine gore yurt ici yerlesiklerin yabanc para mevduatlar 11 eylul haftas nda parite etkisinden ar nd r lm s olarak 1 milyar 802 milyon dolar artt top",
+      "link": "https://www.foreks.com/haber/detay/6aabd16b95016b5817e5c1a1/PICNEWS/tr/parite-etkisinden-arindirildiginda-doviz-mevduatlari-1-8-milyar-dolar-artti-17-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "tcmb rezervlerinde sert dusus toplam rezerv 178 7 milyar dolara geriledi tcmb rezervlerinde sert dusus toplam rezerv 178 7 milyar dolara geriledi",
+      "link": "https://www.foreks.com/haber/detay/6aabd05d859c7352877437b1/PICNEWS/tr/tcmb-rezervlerinde-sert-dusus-toplam-rezerv-178-7-milyar-dolara-geriledi-17-09-26"
+    },
+    {
+      "source": "matriks",
+      "text": "usdjpy teknik analizi integral yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6750625:0"
+    },
+    {
+      "source": "kap",
+      "text": "ekim esas sozlesme esas sozlesme sirket ekim turizm ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664709"
+    },
+    {
+      "source": "kap",
+      "text": "ayes ozel durum ac klamas genel yonetim kurulu uyemiz say n kenan yesilhark taraf ndan tamam na sahip oldugu cesan a s deki paylar n n tamam n n vakfa bag slanmas na yonelik sozlesmenin imzaland g n n sirketimize bildirilmesi sirket ayes celik hasir cit sanayi a",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664701"
+    },
+    {
+      "source": "kap",
+      "text": "rysas pay baz nda devre kesici bildirimi rysas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664698"
+    },
+    {
+      "source": "kap",
+      "text": "binbn pay baz nda devre kesici bildirimi binbn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664694"
+    },
     {
       "source": "forinvest",
       "text": "yabanc lardan hissede 277 7 milyon dolarl k al m yurt d s nda yerlesik yat r mc lar 11 eylul haftas nda turkiye piyasalar nda hisse senedi devlet ic borclanma senetlerinde net al m yapt verilere gore yabanc yat r mc lar n fiyat kur hareket",
@@ -8988,156 +9178,6 @@
       "source": "kap",
       "text": "klypv bistech pay piyasas al m sat m sistemi duyurusu toptan al s sat s islemi sirket borsa istanbul a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1662205"
-    },
-    {
-      "source": "kap",
-      "text": "mogan pay baz nda devre kesici bildirimi mogan e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662204"
-    },
-    {
-      "source": "kap",
-      "text": "hdfgs pay baz nda devre kesici bildirimi hdfgs e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662203"
-    },
-    {
-      "source": "kap",
-      "text": "avtur pay baz nda devre kesici bildirimi avtur e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662202"
-    },
-    {
-      "source": "kap",
-      "text": "crdfa pay baz nda devre kesici bildirimi crdfa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662201"
-    },
-    {
-      "source": "kap",
-      "text": "bvsan pay baz nda devre kesici bildirimi bvsan e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662200"
-    },
-    {
-      "source": "kap",
-      "text": "smrfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfsumfa2622 isin kodlu finansman bonosunun 1 kupon odemesinin yap lmas hakk nda sirket sumer faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662199"
-    },
-    {
-      "source": "matriks",
-      "text": "fitch pozitif faiz oranlar japon bankac l k sektorunun faaliyet ortam n iyilestiriyor",
-      "link": "https://tr.tradingview.com/news/matriks:6739107:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk bulten icbc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6739104:0"
-    },
-    {
-      "source": "matriks",
-      "text": "ecb kazaks c kt ac g kapan yor fiyatlara ucretlere geciskenligin guclenebilecegi anlam na geliyor",
-      "link": "https://tr.tradingview.com/news/matriks:6739099:0"
-    },
-    {
-      "source": "matriks",
-      "text": "hafta ac klanacak onemli veriler takvim",
-      "link": "https://tr.tradingview.com/news/matriks:6739098:0"
-    },
-    {
-      "source": "matriks",
-      "text": "haftal k bulten piramit menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6739097:0"
-    },
-    {
-      "source": "kap",
-      "text": "armgd pay baz nda devre kesici bildirimi armgd e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662197"
-    },
-    {
-      "source": "kap",
-      "text": "mrshl pay baz nda devre kesici bildirimi mrshl e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662196"
-    },
-    {
-      "source": "kap",
-      "text": "bsoke pay baz nda devre kesici bildirimi bsoke e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662195"
-    },
-    {
-      "source": "kap",
-      "text": "mrgyo pay baz nda devre kesici bildirimi mrgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662194"
-    },
-    {
-      "source": "kap",
-      "text": "etyat pay baz nda devre kesici bildirimi etyat e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662193"
-    },
-    {
-      "source": "kap",
-      "text": "info pay baz nda devre kesici bildirimi info e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662192"
-    },
-    {
-      "source": "kap",
-      "text": "sohoe pay baz nda devre kesici bildirimi sohoe e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662191"
-    },
-    {
-      "source": "kap",
-      "text": "tknka pay baz nda devre kesici bildirimi tknka e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662189"
-    },
-    {
-      "source": "kap",
-      "text": "fzlgy pay baz nda devre kesici bildirimi fzlgy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662185"
-    },
-    {
-      "source": "kap",
-      "text": "mogan pay baz nda devre kesici bildirimi mogan e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662184"
-    },
-    {
-      "source": "kap",
-      "text": "egepo pay baz nda devre kesici bildirimi egepo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662183"
-    },
-    {
-      "source": "kap",
-      "text": "grnyo ozel durum ac klamas genel paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket garanti yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662182"
-    },
-    {
-      "source": "kap",
-      "text": "grnyo haftal k rapor 11 09 2026 tarihli haftal k rapordur sirket garanti yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662181"
-    },
-    {
-      "source": "kap",
-      "text": "krtek pay baz nda devre kesici bildirimi krtek e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662180"
-    },
-    {
-      "source": "kap",
-      "text": "grnyo pay baz nda devre kesici bildirimi grnyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662179"
-    },
-    {
-      "source": "kap",
-      "text": "epy pay al m sat m bildirimi pay sahipligi hk sirket deniz portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662178"
-    },
-    {
-      "source": "kap",
-      "text": "cates pay baz nda devre kesici bildirimi cates e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662177"
-    },
-    {
-      "source": "kap",
-      "text": "smrtg ozel durum ac klamas genel uretim tesislerimizin cesitlendirilmesi sirket smart gunes enerjisi teknolojileri arastirma gelistirme uretim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662175"
-    },
-    {
-      "source": "kap",
-      "text": "dcttr ozel durum ac klamas genel bagl ortakl k pay sat s hakk nda sirket dct trading dis ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662170"
     }
   ],
   "research_reports_v8": {
