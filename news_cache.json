@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1664409",
+      "last_seen_key": "kap:1664417",
       "seen_keys": [
+        "kap:1664417",
+        "kap:1664416",
+        "kap:1664413",
+        "kap:1664411",
+        "kap:1664410",
         "kap:1664409",
         "kap:1664408",
         "kap:1664407",
@@ -225,8 +230,28 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6748730:0",
+      "last_seen_key": "matriks:matriks:6748825:0",
       "seen_keys": [
+        "matriks:matriks:6748825:0",
+        "matriks:matriks:6748823:0",
+        "matriks:matriks:6748822:0",
+        "matriks:matriks:6748817:0",
+        "matriks:matriks:6748813:0",
+        "matriks:matriks:6748805:0",
+        "matriks:matriks:6748788:0",
+        "matriks:matriks:6748785:0",
+        "matriks:matriks:6748784:0",
+        "matriks:matriks:6748783:0",
+        "matriks:matriks:6748782:0",
+        "matriks:matriks:6748777:0",
+        "matriks:matriks:6748776:0",
+        "matriks:matriks:6748750:0",
+        "matriks:matriks:6748741:0",
+        "matriks:matriks:6748740:0",
+        "matriks:matriks:6748737:0",
+        "matriks:matriks:6748736:0",
+        "matriks:matriks:6748734:0",
+        "matriks:matriks:6748732:0",
         "matriks:matriks:6748730:0",
         "matriks:matriks:6748727:0",
         "matriks:matriks:6748719:0",
@@ -304,8 +329,11 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aab81e424008d7d43732e1b/PICNEWS/tr/fed-de-tartisma-artik-artis-olur-mu-degil-kac-kez-olur-17-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aab89bb24008d7d43732e7b/PICNEWS/tr/ab-den-mmg-anglo-american-anlasmasina-itiraz-nikel-fiyatlarini-yukseltebilir-17-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6aab89bb24008d7d43732e7b/PICNEWS/tr/ab-den-mmg-anglo-american-anlasmasina-itiraz-nikel-fiyatlarini-yukseltebilir-17-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aab890924008d7d43732e74/PICNEWS/tr/yurt-ici-piyasalarda-sert-satislar-sonrasi-viob-da-teminat-tamamlama-cagrilari-yukseldi-17-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aab8574859c735287743510/PICNEWS/tr/goldman-sachs-yonunu-benzine-cevirdi-kuresel-yakit-sikisikliginda-yeni-fiyat-artisi-beklentisi-17-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aab81e424008d7d43732e1b/PICNEWS/tr/fed-de-tartisma-artik-artis-olur-mu-degil-kac-kez-olur-17-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aab7db824008d7d43732e01/PICNEWS/tr/spk-dan-uc-sirketeki-islemler-sonrasi-lisans-iptali-karari-11-kisinin-tum-lisanslari-askiya-alindi-17-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aab7d3a24008d7d43732dfc/PICNEWS/tr/gune-baslarken-bilinmesi-gerekenler-gozler-yurt-ici-piyasalarda-fonlar-yurt-disinda-ise-boe-petrol-ve-altinda-17-09-26/",
@@ -316,8 +344,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trumptan-kanadanin-ab-hamlesine-tarife-tehdidi-3788563",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/stratejistler-fedin-sahin-faiz-artisi-asya-para-birimleri-uzerinde-baski-yaratacak-3788570",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/stratejistler-fedin-sahin-faiz-artisi-asya-para-birimleri-uzerinde-baski-yaratacak-3788570",
+        "bloomberght:https://www.bloomberght.com/imf-enflasyon-risklerine-karsi-rbanin-sahin-durusunu-korumasini-istedi-3788564",
         "bloomberght:https://www.bloomberght.com/trumptan-kanadanin-ab-hamlesine-tarife-tehdidi-3788563",
         "bloomberght:https://www.bloomberght.com/altin-fedin-faiz-karari-ve-petrol-fiyatlarindaki-dususle-yukseldi-3788562",
         "bloomberght:https://www.bloomberght.com/petrol-suudi-arabistanin-ek-ham-petrol-arzi-haberleriyle-geriledi-3788561",
@@ -1572,6 +1602,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "stratejistler fed in sahin faiz art s asya para birimleri uzerinde bask yaratacak abd merkez bankas n n fed sahin faiz art s ozellikle cuma gunu japonya merkez bankas n n boj para politikas toplant s oncesinde yen basta olmak uzere asya para birimleri uzerinde bask yaratacak",
+      "link": "https://www.bloomberght.com/stratejistler-fedin-sahin-faiz-artisi-asya-para-birimleri-uzerinde-baski-yaratacak-3788570"
+    },
+    {
+      "source": "bloomberght",
+      "text": "imf enflasyon risklerine kars rba n n sahin durusunu korumas n istedi uluslararas para fonu imf enflasyon risklerinin yukar yonlu olmaya devam ettigine dikkat cekerek avustralya merkez bankas n n rba gerektiginde faiz art rmaya haz r olmas gerektigini belirtti",
+      "link": "https://www.bloomberght.com/imf-enflasyon-risklerine-karsi-rbanin-sahin-durusunu-korumasini-istedi-3788564"
+    },
+    {
+      "source": "forinvest",
+      "text": "ab den mmg anglo american anlasmas na itiraz nikel fiyatlar n yukseltebilir avrupa komisyonu mmg ltd nin anglo american plc nin nikel is kolunu sat n alma plan n n avrupa rekabeti s n rlayabilecegi paslanmaz celik ureticilerinin maliyetlerini art rabilecegi uyar s nda",
+      "link": "https://www.foreks.com/haber/detay/6aab89bb24008d7d43732e7b/PICNEWS/tr/ab-den-mmg-anglo-american-anlasmasina-itiraz-nikel-fiyatlarini-yukseltebilir-17-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "yurt ici piyasalarda sert sat slar sonras viob teminat tamamlama cagr lar yukseldi yurt ici piyasalarda baz fonlarda yasanan temerrut gelismelerinin ard ndan gorulen sert asag yonlu hareketlere paralel olarak teminat tamamlama cagr lar nda belirgin art s yasand takasbank veriler",
+      "link": "https://www.foreks.com/haber/detay/6aab890924008d7d43732e74/PICNEWS/tr/yurt-ici-piyasalarda-sert-satislar-sonrasi-viob-da-teminat-tamamlama-cagrilari-yukseldi-17-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "goldman sachs yonunu benzine cevirdi kuresel yak t s k s kl g nda yeni fiyat art s beklentisi goldman sachs kuresel yak t piyasalar ndaki s k s kl g n dizelden benzine kaymaya baslad g n belirterek onceki dizel ag rl kl islem gorusunu kapatt avrupa benzini uzun pozisyon onerdi",
+      "link": "https://www.foreks.com/haber/detay/6aab8574859c735287743510/PICNEWS/tr/goldman-sachs-yonunu-benzine-cevirdi-kuresel-yakit-sikisikliginda-yeni-fiyat-artisi-beklentisi-17-09-26"
+    },
+    {
+      "source": "matriks",
+      "text": "borsa istanbul gune 173 75 puan 1 32 dususle baslad matriks haber anketi 174 44 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6748825:0"
+    },
+    {
+      "source": "matriks",
+      "text": "spk tedbirler k sa sure icerisinde kurulumuz internet sitesinden kamuoyuna duyurulacakt r",
+      "link": "https://tr.tradingview.com/news/matriks:6748823:0"
+    },
+    {
+      "source": "matriks",
+      "text": "spk sermaye piyasam zda donemde yasanan gelismeler kurulumuz taraf ndan takip edilmektedir kapsamda kurulumuz taraf ndan dizi tedbir al nm st r",
+      "link": "https://tr.tradingview.com/news/matriks:6748822:0"
+    },
+    {
+      "source": "matriks",
+      "text": "dbs fed faiz art s guclu dolar dongusunun baslang c degil",
+      "link": "https://tr.tradingview.com/news/matriks:6748817:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bilanco analizi mavi yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6748813:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6748805:0"
+    },
+    {
+      "source": "matriks",
+      "text": "merkez bankas likidite imkanlar gozden gecirerek cercevede al nan tedbirleri ac klad",
+      "link": "https://tr.tradingview.com/news/matriks:6748788:0"
+    },
+    {
+      "source": "matriks",
+      "text": "likidite kosullar yak ndan takip edilerek gerek gorulmesi halinde her turlu ek tedbir al nacakt r tcmb",
+      "link": "https://tr.tradingview.com/news/matriks:6748785:0"
+    },
+    {
+      "source": "matriks",
+      "text": "tcmb bunyesinde yer alan piyasalarda gecerli olan teminat iskonto oranlar gozden gecirilerek azalt lacakt r tcmb",
+      "link": "https://tr.tradingview.com/news/matriks:6748784:0"
+    },
+    {
+      "source": "matriks",
+      "text": "tcmb bunyesinde faaliyette bulunan bankalararas para piyasas nda bankalar n borc alabilme limitleri bankac l k sisteminin mevcut bilanco buyuklukleri dikkate al narak guncellenecektir tcmb",
+      "link": "https://tr.tradingview.com/news/matriks:6748783:0"
+    },
+    {
+      "source": "matriks",
+      "text": "haftal k repo ihaleleriyle saglanacak fonlama miktar likidite kosullar goz onunde bulundurularak art r lacakt r tcmb",
+      "link": "https://tr.tradingview.com/news/matriks:6748782:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bilanco analizi mavi halk yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6748777:0"
+    },
+    {
+      "source": "matriks",
+      "text": "finansal istikrar komtitesi piyasalar n sagl kl isleyisinin surdurulmesi makrofinansal istikrar n korunmas amac yla al nabilecek tedbirleri degerlendirilmis kapsamda gerekli tum tedbirler ilgili kurumlar m z taraf ndan suratle uygulanacak",
+      "link": "https://tr.tradingview.com/news/matriks:6748776:0"
+    },
+    {
+      "source": "matriks",
+      "text": "deniz yat r m mavi 61 23 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 61 23 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6748750:0"
+    },
+    {
+      "source": "matriks",
+      "text": "teknik bulten bulls yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6748741:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk hisse senedi piyasas gorunumu akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6748740:0"
+    },
+    {
+      "source": "matriks",
+      "text": "market watch seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6748737:0"
+    },
+    {
+      "source": "matriks",
+      "text": "tcmb 5 tahvil toplam 7 milyar tl tutar nda dogrudan al m ihalesi act",
+      "link": "https://tr.tradingview.com/news/matriks:6748736:0"
+    },
+    {
+      "source": "matriks",
+      "text": "uluslararas piyasalar bulteni qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6748734:0"
+    },
+    {
+      "source": "matriks",
+      "text": "uluslararas piyasalar bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6748732:0"
+    },
+    {
+      "source": "kap",
+      "text": "zkbvr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdzkbv12733 isin kodlu yurtici kira sertifikas ihrac n n sat s n n tamamlanmas hk sirket zkb varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664417"
+    },
+    {
+      "source": "kap",
+      "text": "ektvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdevksa2691 isin kodlu kira sertifikas ihrac n n nitelikli yat r mc ya sat s n n tamamlanmas hk sirket emlak katilim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664416"
+    },
+    {
+      "source": "kap",
+      "text": "pa1 pay al m sat m bildirimi pay al m sat m hk sirket pardus portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664413"
+    },
+    {
+      "source": "kap",
+      "text": "dstkf gundg ktlev sermaye piyasas kurulu tedbir karar sermaye piyasas kurulu tedbir karar sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664411"
+    },
+    {
+      "source": "kap",
+      "text": "mrbas mrs likidite saglay c l k kapsam ndaki islemler makim makina teknolojileri sanayi ticaret a s makim paylar nda likidite saglay c l k kapsam nda gerceklestirilen islemler sirket marbas menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664410"
+    },
     {
       "source": "bloomberght",
       "text": "trump tan kanada n n ab hamlesine tarife tehdidi abd baskan donald trump kanada n n avrupa birligi ab olas ortak uye yap lmas na yonelik girisimin abd ye zarar verdigini dusunmesi halinde avrupa baz ticareti durdurabilecegini soyledi",
@@ -8921,156 +9101,6 @@
       "source": "tradingview",
       "text": "microstrategy den bitcoin uyar s yat r mc ya 93 dusus alarm",
       "link": "https://tr.tradingview.com/news/beincrypto:7ba328488d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "revolut musteri verilerinin sahte devlet e postas arac l g yla ifsa edildigini soyledi",
-      "link": "https://tr.tradingview.com/news/cointelegraph:256c47e6ad9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "lsk sert yukselis 500 luk ralli sonras dususun nedeni",
-      "link": "https://tr.tradingview.com/news/beincrypto:a75feb597d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "yapay zekada fren rakipler neden yavasl yor rusya neden kars c k yor",
-      "link": "https://tr.tradingview.com/news/beincrypto:787a91340d9e8:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "evlilik haz rl g ndaki genclere 1191 firmadan indirim destegi aile sosyal hizmetler bakanl g nca hayata gecirilen evlenecek genclerin desteklenmesi projesi kapsam nda genclere indirim destegi saglayan firma say s yerel duzeyde 1147 ulusal duzeyde 44 olmak uzere 1191 e ulast",
-      "link": "https://www.trthaber.com/haber/ekonomi/evlilik-hazirligindaki-genclere-1191-firmadan-indirim-destegi-956699.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "k rsal kalk nma yat r mlar na 12 5 milyar liral k hibe destegi 2026 y l k rsal kalk nma yat r m program kkyp kapsam nda toplamda 12 5 milyar liral k hibe destegi saglanacak",
-      "link": "https://www.trthaber.com/haber/ekonomi/kirsal-kalkinma-yatirimlarina-125-milyar-liralik-hibe-destegi-956693.html"
-    },
-    {
-      "source": "ntvpara",
-      "text": "et urunlerine yeni yasaklar geliyor burger sucuk doner past rmada yeni donem et et urunlerine yeni standartlar geliyor duzenlemeye gore sucuk past rma kavurmada f st k peynir gibi cesnilerin kullan m yasaklan yor donerde ise tur zorunlulugu getiriliyor",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-et-urunlerine-yeni-yasaklar-geliyor-burger-sucuk-doner-ve-pastirmada-yeni-donem-1741674"
-    },
-    {
-      "source": "ntvpara",
-      "text": "istanbul havaliman nda yeni pist 18 eylul ac lacak istanbul havaliman n n 4 uncu ana pistini cumhurbaskan recep tayyip erdogan n kat l m yla 18 eylul hizmete ac lacak",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-istanbul-havalimaninda-ucuslari-hizlandiracak-hamle-acilisi-cumhurbaskani-erdogan-yapacak-1741652"
-    },
-    {
-      "source": "ntvpara",
-      "text": "istanbul 10 bin liraya kiral k konut istanbul toki kiral k konutlar toki kiral k konut fiyatlar",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-istanbulda-10-bin-liraya-kiralik-daire-iste-ornek-daireden-fotograflar-1741641"
-    },
-    {
-      "source": "ntvpara",
-      "text": "faizsiz 100 bin tl basvuran n hesab na an nda yat yor bankalarda s f r faizli kredi avantajlar surmeye devam ediyor baz bankalar musteri cekebilmek 6 ay vadeyle faizsiz 100 bin lira kredi imkan tan yor",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-faizsiz-100-bin-tl-basvuranin-hesabina-aninda-yatiyor-1741622"
-    },
-    {
-      "source": "ntvpara",
-      "text": "bakan yumakl duyurdu 12 5 milyar liral k hibe destegi verilecek tar m orman bakan ibrahim yumakl k rsal kalk nmaya 12 5 milyar liral k hibe destegi verilecegini duyurdu",
-      "link": "https://www.ntv.com.tr/ntvpara/bakan-yumakli-duyurdu-125-milyar-liralik-hibe-destegi-verilecek-1741614"
-    },
-    {
-      "source": "investing",
-      "text": "xi brics zirvesinde cin in ac k kaynak yapay zeka vizyonunu one c kard",
-      "link": "https://tr.investing.com/news/economy-news/xi-brics-zirvesinde-cinin-ack-kaynak-yapay-zeka-vizyonunu-one-ckard-4064042"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bakan kurum dan kiral k konut paylas m cevre sehircilik iklim degisikligi bakan murat kurum istanbul daki kiral k sosyal konut projesine iliskin ornek dairenin goruntulerini paylast bakan kurum atasehir deki 3 1 kiral k sosyal konutun icinden goruntuleri paylast g mesa",
-      "link": "https://www.bloomberght.com/bakan-kurum-dan-kiralik-konut-paylasimi-3788114"
-    },
-    {
-      "source": "bloomberght",
-      "text": "7 basl kla gecen hafta kuresel piyasalarda gecen avrupa merkez bankas faiz karar abd enflasyonun h zlanmas hurmuz gerilimi gundem olustururken yurt icinde tcmb nin faiz karar spk uygulamalar izlendi",
-      "link": "https://www.bloomberght.com/7-baslikla-gecen-hafta-3788113"
-    },
-    {
-      "source": "kap",
-      "text": "ktlev ozel durum ac klamas genel yonetim kurulu degisiklikleri pusula grubu pay devir surecindeki gelismeler hakk nda sirket katilimevim tasarruf finansman a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662136"
-    },
-    {
-      "source": "investing",
-      "text": "fransa n n yapay zeka patlamas avrupa n n fon ac g n ortaya c kard",
-      "link": "https://tr.investing.com/news/stock-market-news/fransann-yapay-zeka-patlamas-avrupann-fon-acgn-ortaya-ckard-4064040"
-    },
-    {
-      "source": "investing",
-      "text": "guney kore kuresel yat r mc lar borsa islem saatlerini uzat yor",
-      "link": "https://tr.investing.com/news/stock-market-news/guney-kore-kuresel-yatrmclar-icin-islem-saatlerini-uzatyor-4064039"
-    },
-    {
-      "source": "investing",
-      "text": "citi ye gore yat r mc lar n goz ard edemeyegi 5 piyasa endisesi",
-      "link": "https://tr.investing.com/news/stock-market-news/citiye-gore-yatrmclarn-goz-ard-edemeyegi-5-piyasa-endisesi-4064037"
-    },
-    {
-      "source": "investing",
-      "text": "rusya ukrayna y zaporijya yak t sald r s yla suclad",
-      "link": "https://tr.investing.com/news/economy-news/rusya-ukraynay-zaporijyada-yakt-saldrsyla-suclad-4064034"
-    },
-    {
-      "source": "investing",
-      "text": "analistlerden yapay zekaya 5 buyuk hamle jpmorgan meta y yukseltti",
-      "link": "https://tr.investing.com/news/stock-market-news/analistlerden-yapay-zekaya-5-buyuk-hamle-jpmorgan-metay-yukseltti-4064033"
-    },
-    {
-      "source": "investing",
-      "text": "fransa 2027 secimleri mevcut tablo",
-      "link": "https://tr.investing.com/news/economy-news/fransa-secimleri-mevcut-durum-4064031"
-    },
-    {
-      "source": "investing",
-      "text": "alman sirketleri cin deki yat r mlar n ucte art rd",
-      "link": "https://tr.investing.com/news/stock-market-news/alman-sirketleri-cindeki-yatrmlarn-ucte-bir-artrd-4064028"
-    },
-    {
-      "source": "investing",
-      "text": "spekulatorler yen subat tan yana ilk kez yukselise gecti",
-      "link": "https://tr.investing.com/news/forex-news/spekulatorler-subattan-bu-yana-ilk-kez-yende-yukselise-gecti-4064026"
-    },
-    {
-      "source": "investing",
-      "text": "tesla uzun suredir ertelenen roadster 1 ekim tan tacak",
-      "link": "https://tr.investing.com/news/company-news/tesla-uzun-suredir-ertelenen-roadster-1-ekimde-tantacak-4064025"
-    },
-    {
-      "source": "aaekonomi",
-      "text": "almanya tar m bakan tar m g sektorunde turkiye isbirligini gelistirmek istediklerini belirtti almanya tar m bakan alois rainer tar m g sektorunde turkiye isbirligini ticari iliskileri gelistirmeyi hedeflediklerini belirtti anadolu ajans",
-      "link": "https://www.aa.com.tr/tr/ekonomi/almanya-tarim-bakani-tarim-ve-gida-sektorunde-turkiye-ile-isbirligini-gelistirmek-istediklerini-belirtti/4055803"
-    },
-    {
-      "source": "aaekonomi",
-      "text": "vergi denetimlerinde odak buyuk mukellefler oldu vergi denetim kurulu vdk baskanl g y l yuruttugu cal smalarla buyuk olcekli vergi mukelleflerine yonelik inceleme oran n yuzde 31 3 e yukseltti anadolu ajans",
-      "link": "https://www.aa.com.tr/tr/ekonomi/vergi-denetimlerinde-odak-buyuk-mukellefler-oldu/4055722"
-    },
-    {
-      "source": "aaekonomi",
-      "text": "istanbul havaliman n n yeni pisti 18 eylul ac lacak ulast rma altyap bakan abdulkadir uraloglu istanbul havaliman n n 4 ana pistini cumhurbaskan recep tayyip erdogan n tesrifleriyle 18 eylul hizmete acacaklar n bildirdi anadolu ajans",
-      "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimaninin-yeni-pisti-18-eylulde-acilacak/4055691"
-    },
-    {
-      "source": "aaekonomi",
-      "text": "turkiye kuresel cip yar s nda milli projeler yeni tesislerle one c kacak turkiye kimlik pasaport endustriyel uygulamalarda kullan lan ciplerin yurt icinde uretilmesini saglayacak modern uretim tesisleri milli projelerle kuresel yar sta one c kmay hedefliyor anadolu ajans",
-      "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-kuresel-cip-yarisinda-milli-projeler-ve-yeni-tesislerle-one-cikacak/4055664"
-    },
-    {
-      "source": "aaekonomi",
-      "text": "ticaret bakanl g yeni egitim ogretim doneminde k rtasiye denetimlerini yogunlast rd ticaret bakan omer bolat agustos boyunca eylulun ilk 10 gununde toplam 33 bin 182 firman n denetlendigini 5 milyon 952 bin urunun incelendigini toplam 182 milyon 559 bin lira idari yapt r m uyguland g n bildirdi anadolu ajans",
-      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-yeni-egitim-ogretim-doneminde-kirtasiye-denetimlerini-yogunlastirdi/4055631"
-    },
-    {
-      "source": "aaekonomi",
-      "text": "bakan yumakl k rsal kalk nmaya 12 5 milyar liral k hibe destegi vereceklerini duyurdu tar m orman bakan ibrahim yumakl 2026 y l k rsal kalk nma yat r m program kkyp kapsam nda toplamda 12 5 milyar liral k hibe destegi saglayacaklar n bildirdi anadolu ajans",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-kirsal-kalkinmaya-12-5-milyar-liralik-hibe-destegi-vereceklerini-duyurdu/4055625"
-    },
-    {
-      "source": "aaekonomi",
-      "text": "bakan kac r dan tekstil sektorunde yesil dijital donusum mesaj bakan kac r tekstil sektorunun yesil dijital donusumunu h zland racak verimliligini teknolojik yetkinligini art racak yuksek katma degerli uretim ihracat kapasitesini guclendirecek ad mlar kararl l kla hayata gecireceklerini bi",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacirdan-tekstil-sektorunde-yesil-ve-dijital-donusum-mesaji/4055607"
     }
   ],
   "research_reports_v8": {
@@ -9100,6 +9130,7 @@
     "bulls": {
       "gunluk_bulten": {
         "seen_keys": [
+          "38074603f6e642273def1f1d9a9975d7ccf4cc0b",
           "be12f5c14246fde76b3f0ea2cc463ebd5a903827",
           "5181e8558e11cac31db500cf88b84d6505122278",
           "1eae75954dd7aa08c4a22b16afa0d05c25dae69d",
@@ -9107,6 +9138,7 @@
           "d853ac58d282dd0a910bbefc9953bf4525af6098"
         ],
         "seen_semantic_keys": [
+          "0193f91c005f49c29bfd80fc223625d041029925",
           "c63e75096243f7dbad6a5cf49fa12280a2146c9c",
           "c9fc77b2bc3a464f18abef00b7920c1c039bdd0c",
           "670fb58ffd9964ce0f7ba956130e42699cdba68b",
@@ -9114,8 +9146,8 @@
           "de7f5127648e471ef3c55d7fea3246b0f5a1bb85"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-09-16",
-        "sent_at": "2026-09-16T09:57:04.694452+03:00"
+        "last_published_date": "2026-09-17",
+        "sent_at": "2026-09-17T10:00:52.279591+03:00"
       }
     },
     "deniz": {
