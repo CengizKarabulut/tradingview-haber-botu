@@ -2,11 +2,19 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1664673",
+      "last_seen_key": "kap:1664693",
       "seen_keys": [
+        "kap:1664693",
+        "kap:1664692",
+        "kap:1664691",
+        "kap:1664690",
+        "kap:1664689",
+        "kap:1664680",
+        "kap:1664676",
+        "kap:1664675",
+        "kap:1664674",
         "kap:1664673",
         "kap:1664672",
-        "kap:1664671",
         "kap:1664670",
         "kap:1664669",
         "kap:1664668",
@@ -14,7 +22,6 @@
         "kap:1664665",
         "kap:1664664",
         "kap:1664663",
-        "kap:1664662",
         "kap:1664661",
         "kap:1664660",
         "kap:1664659",
@@ -85,6 +92,8 @@
         "kap:1664550",
         "kap:1664549",
         "kap:1664548",
+        "kap:1664671",
+        "kap:1664662",
         "kap:1664545",
         "kap:1664544",
         "kap:1664543",
@@ -140,8 +149,9 @@
       ]
     },
     "tcmb": {
-      "last_seen_key": "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-41",
+      "last_seen_key": "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-42",
       "seen_keys": [
+        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-42",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-41",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-40",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-39",
@@ -206,8 +216,27 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6750407:0",
+      "last_seen_key": "matriks:matriks:6750580:0",
       "seen_keys": [
+        "matriks:matriks:6750580:0",
+        "matriks:matriks:6750562:0",
+        "matriks:matriks:6750475:0",
+        "matriks:matriks:6750463:0",
+        "matriks:matriks:6750454:0",
+        "matriks:matriks:6750450:0",
+        "matriks:matriks:6750445:0",
+        "matriks:matriks:6750442:0",
+        "matriks:matriks:6750423:0",
+        "matriks:matriks:6750422:0",
+        "matriks:matriks:6750420:0",
+        "matriks:matriks:6750418:0",
+        "matriks:matriks:6750417:0",
+        "matriks:matriks:6750416:0",
+        "matriks:matriks:6750415:0",
+        "matriks:matriks:6750414:0",
+        "matriks:matriks:6750412:0",
+        "matriks:matriks:6750411:0",
+        "matriks:matriks:6750410:0",
         "matriks:matriks:6750407:0",
         "matriks:matriks:6750401:0",
         "matriks:matriks:6750392:0",
@@ -311,8 +340,9 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aabceb324008d7d437330f5/PICNEWS/tr/boe-uzun-vadeli-tahvil-satislarindan-vazgecti-17-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aabd04595016b5817e5c196/PICNEWS/tr/yabancilardan-hissede-277-7-milyon-dolarlik-alim-17-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6aabd04595016b5817e5c196/PICNEWS/tr/yabancilardan-hissede-277-7-milyon-dolarlik-alim-17-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aabceb324008d7d437330f5/PICNEWS/tr/boe-uzun-vadeli-tahvil-satislarindan-vazgecti-17-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aabce3595016b5817e5c17c/PICNEWS/tr/sdt-uzay-dan-2-21-milyon-dolarlik-yeni-savunma-sanayi-siparisi-17-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aabcc5624008d7d437330e4/PICNEWS/tr/tcmb-den-5-tahvilde-dogrudan-alim-5-85-milyar-tl-kabul-edildi-17-09-26/",
@@ -1609,6 +1639,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "forinvest",
+      "text": "yabanc lardan hissede 277 7 milyon dolarl k al m yurt d s nda yerlesik yat r mc lar 11 eylul haftas nda turkiye piyasalar nda hisse senedi devlet ic borclanma senetlerinde net al m yapt verilere gore yabanc yat r mc lar n fiyat kur hareket",
+      "link": "https://www.foreks.com/haber/detay/6aabd04595016b5817e5c196/PICNEWS/tr/yabancilardan-hissede-277-7-milyon-dolarlik-alim-17-09-26"
+    },
+    {
+      "source": "matriks",
+      "text": "alves kablo ankara 5 sulh ceza hakimligi nin 16 09 2026 tarihli karar sirketimize yonetim kayy m atanmas na karar verildigi sirketimize teblig edilmistir",
+      "link": "https://tr.tradingview.com/news/matriks:6750580:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bist k ymetli madenler piyasas nda bugun 658 kg alt n 119 kg gumus islemi yap ld",
+      "link": "https://tr.tradingview.com/news/matriks:6750562:0"
+    },
+    {
+      "source": "matriks",
+      "text": "golda g n makarna urunlerinin sat s na iliskin yurt d s nda yerlesik musteriler toplam 2 983 897 abd dolar tutar nda anlasmaya vard",
+      "link": "https://tr.tradingview.com/news/matriks:6750475:0"
+    },
+    {
+      "source": "matriks",
+      "text": "crypto com abd tek hisse vadeli islemler sec kayd ald",
+      "link": "https://tr.tradingview.com/news/matriks:6750463:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bddk borsa istanbul islem goren bankalara piyasadan geri al m yoluyla edindikleri kendi hisse senetlerinin 31 aral k 2026 ya kadar cekirdek sermayeden indirim kalemi olarak dikkate al nmamas na karar verdi",
+      "link": "https://tr.tradingview.com/news/matriks:6750454:0"
+    },
+    {
+      "source": "matriks",
+      "text": "takasbank para piyasas nda bugun 87 milyar 78 milyon tl lik islem hacmi gerceklesti",
+      "link": "https://tr.tradingview.com/news/matriks:6750450:0"
+    },
+    {
+      "source": "matriks",
+      "text": "almanya n n 2 y ll k tahvil getirisi yatay seyirle 3 209 seviyesinde erken saatlerde 4 baz puan n uzerinde art s yasanm st",
+      "link": "https://tr.tradingview.com/news/matriks:6750445:0"
+    },
+    {
+      "source": "matriks",
+      "text": "borsa istanbul islem goren bankalara hisse geri al mlar nda belli sure cekirdek sermayeden indirilmemesi imkan saglanarak sermaye yeterliligi oran hesaplamas nda esneklik tan nd bddk",
+      "link": "https://tr.tradingview.com/news/matriks:6750442:0"
+    },
+    {
+      "source": "matriks",
+      "text": "kanada agustos ay ufe ayl k 1 3 onceki 0 6",
+      "link": "https://tr.tradingview.com/news/matriks:6750423:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd eylul ay philadelphia fed 6 ayl k endeks 52 90 onceki 73 60",
+      "link": "https://tr.tradingview.com/news/matriks:6750422:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd eylul ay philadelphia fed yeni siparisler endeksi 29 20 onceki 30 10",
+      "link": "https://tr.tradingview.com/news/matriks:6750420:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd eylul ay philadelphia fed odenmis fiyatlar endeksi endeksi 48 60 onceki 40 90",
+      "link": "https://tr.tradingview.com/news/matriks:6750418:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd agustos ay insaat izinleri degisimi 2 7 beklenti onceki 4 3",
+      "link": "https://tr.tradingview.com/news/matriks:6750417:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd eylul ay philadelphia fed istihdam endeksi 11 80 onceki 27 90",
+      "link": "https://tr.tradingview.com/news/matriks:6750416:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd agustos ay insaat izinleri toplam 1 394 milyon beklenti 1 410 milyon onceki 1 433 milyon",
+      "link": "https://tr.tradingview.com/news/matriks:6750415:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd eylul ay philadelphia fed sermaye harcamalar endeksi 37 10 onceki 48 20",
+      "link": "https://tr.tradingview.com/news/matriks:6750414:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd issizlik basvurular 4 haftal k ortalama 203 25 bin onceki 206 00 bin",
+      "link": "https://tr.tradingview.com/news/matriks:6750412:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd eylul ay philadelphia fed isletme endeksi 37 8 beklenti 30 5 onceki 47 4",
+      "link": "https://tr.tradingview.com/news/matriks:6750411:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd agustos ay yeni konut baslang clar degisimi 26 onceki 12 4",
+      "link": "https://tr.tradingview.com/news/matriks:6750410:0"
+    },
+    {
+      "source": "tcmb",
+      "text": "para politikas kurulu toplant ozeti 2026 42 turkiye cumhuriyet merkez bankas resmi duyurusu",
+      "link": "http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-42"
+    },
+    {
+      "source": "kap",
+      "text": "alves ozel durum ac klamas genel t c ankara 5 sulh ceza hakimligi karar sirket alves kablo sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664693"
+    },
+    {
+      "source": "kap",
+      "text": "kgy sirket genel bilgi formu sirket kalkinma girisim sermayesi portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664692"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym yat r m kurulusu varant sertifika senetlerine iliskin bildirim is yat r m sertifika varant al m sat m islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664691"
+    },
+    {
+      "source": "kap",
+      "text": "genkm pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664690"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi borsa yat r m fonu piyasa yap c l g islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664689"
+    },
+    {
+      "source": "kap",
+      "text": "sirket genel bilgi formu sirket tenet bagimsiz denetim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664680"
+    },
+    {
+      "source": "kap",
+      "text": "papil pay baz nda devre kesici bildirimi papil e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664676"
+    },
+    {
+      "source": "kap",
+      "text": "oncsm ozel durum ac klamas genel 2026 y l alt ayl k finansal sonuclar hk sirket oncosem onkolojik sistemler sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664675"
+    },
+    {
+      "source": "kap",
+      "text": "grm gryat yat r m kurulusu varant sertifika senetlerine iliskin bildirim yat r m kurulusu varantlar ilk sat s fiyatlar sirket garanti yatirim menkul kiymetler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1664674"
+    },
     {
       "source": "matriks",
       "text": "abd agustos ay yeni konut baslang clar toplam 1 275 milyon beklenti 1 309 milyon onceki 1 239 milyon",
@@ -8958,156 +9138,6 @@
       "source": "kap",
       "text": "dcttr ozel durum ac klamas genel bagl ortakl k pay sat s hakk nda sirket dct trading dis ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1662170"
-    },
-    {
-      "source": "kap",
-      "text": "emirv kredi derecelendirmesi kredi derecelendirme notlar na iliskin bildirim 2026 sirket emir varlik yonetim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662169"
-    },
-    {
-      "source": "kap",
-      "text": "ekgyo ozel durum ac klamas genel istanbul umraniye tepeustu sozlesme imzalanmas sirket emlak konut gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662168"
-    },
-    {
-      "source": "kap",
-      "text": "ttkom paylar n geri al nmas na iliskin bildirim pay geri al m program karar sirket turk telekomunikasyon a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662167"
-    },
-    {
-      "source": "kap",
-      "text": "tby tebyt yat r m kurulusu varant sertifika senetlerine iliskin bildirim haftalik varant alim satim sirket teb yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662166"
-    },
-    {
-      "source": "kap",
-      "text": "deniz dnz ozel durum ac klamas genel takipteki kredi portfoyunden sat s sirket denizbank a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662163"
-    },
-    {
-      "source": "kap",
-      "text": "eup pay al m sat m bildirimi pay sahipligi hk sirket global md portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662161"
-    },
-    {
-      "source": "matriks",
-      "text": "ecb kazaks acele etmeden kademeli ad mlar atabiliriz",
-      "link": "https://tr.tradingview.com/news/matriks:6739090:0"
-    },
-    {
-      "source": "matriks",
-      "text": "ecb kazaks daha fazla s k last rma gerekceler gucleniyor",
-      "link": "https://tr.tradingview.com/news/matriks:6739086:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk bulten kuveyt turk yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6739077:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunun piyasa haritas trive yat r m menkul degerler",
-      "link": "https://tr.tradingview.com/news/matriks:6739062:0"
-    },
-    {
-      "source": "matriks",
-      "text": "uluslararas piyasalar bulteni qnb invest",
-      "link": "https://tr.tradingview.com/news/matriks:6739061:0"
-    },
-    {
-      "source": "matriks",
-      "text": "ocak agustos doneminde onceki y l n ayn donemine gore otomotivde toplam uretim 7 otomobil uretimi 19 oran nda azald",
-      "link": "https://tr.tradingview.com/news/matriks:6739058:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunun pusulas pusula yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6739049:0"
-    },
-    {
-      "source": "matriks",
-      "text": "motorine zam bekleniyor",
-      "link": "https://tr.tradingview.com/news/matriks:6739048:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk bulten info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6739043:0"
-    },
-    {
-      "source": "matriks",
-      "text": "hsbc fed in eylul aral k 2026 toplant lar nda politika faizini 25 er baz puan art rmas n bekledigini ac klad banka daha once faizlerde degisiklik ongormuyordu",
-      "link": "https://tr.tradingview.com/news/matriks:6739041:0"
-    },
-    {
-      "source": "matriks",
-      "text": "ced duyurusu turk alt n isletmeleri",
-      "link": "https://tr.tradingview.com/news/matriks:6739039:0"
-    },
-    {
-      "source": "matriks",
-      "text": "yurt ici bulten ikon menkul",
-      "link": "https://tr.tradingview.com/news/matriks:6739036:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk bulten fibayat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6739035:0"
-    },
-    {
-      "source": "matriks",
-      "text": "haftaya makro bak s veriden gorunume",
-      "link": "https://tr.tradingview.com/news/matriks:6739034:0"
-    },
-    {
-      "source": "matriks",
-      "text": "teknik bulten kuveyt turk yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6739030:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk bulten tfg istanbul menkul degerler",
-      "link": "https://tr.tradingview.com/news/matriks:6739027:0"
-    },
-    {
-      "source": "matriks",
-      "text": "hazine bugun iki tahvil ihalesi duzenleyecek",
-      "link": "https://tr.tradingview.com/news/matriks:6739026:0"
-    },
-    {
-      "source": "kap",
-      "text": "ac1 bip bls blsmd bvk dap dnyva gls hmc icm ipp mpata mpf pa2 pbr phe pkd pkr pkz ppp raa rbb rel rg4 rrp sti vpd vpf zvb kamuyu ayd nlatma platformu duyurusu yat r m fonlar na iliskin rehberin 9 8 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662160"
-    },
-    {
-      "source": "kap",
-      "text": "a1cap acp alctl anele artms bigen binbn brh brlsm bsoke burva bvsan bzy ditas dunyh ekiz entra ersu escar hla icugs ieyho ihaas kaplm kartn kgyo klsyn klypv kuvva lkmnh lxgyo lydho lydye mmcas oncsm po7 pyi rsz smart tdgyo tera tgsas thf tmv tra trcas trhol ulker yatas kamuyu ayd nlatma platformu duyurusu ozel durumlar tebligi nin 12 4 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662159"
-    },
-    {
-      "source": "kap",
-      "text": "tkfen pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662154"
-    },
-    {
-      "source": "kap",
-      "text": "kords onryt bistech pay piyasas al m sat m sistemi duyurusu hak kullan m sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662153"
-    },
-    {
-      "source": "kap",
-      "text": "entra pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662152"
-    },
-    {
-      "source": "kap",
-      "text": "genil pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662151"
-    },
-    {
-      "source": "kap",
-      "text": "alves sirket genel bilgi formu sirket alves kablo sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662150"
     }
   ],
   "research_reports_v8": {
@@ -9183,20 +9213,22 @@
     "phillipcapital": {
       "gunluk_bulten": {
         "seen_keys": [
+          "8d72ba620835de649a487372bead183e21430a4f",
           "8c2a547dfc19cc2d1664dde6914c5c2f8a4e5951",
           "6ee3a4f47ed4d139c5be99d62612585c21f1ce25",
           "07d8d29216a3adb3f6ff87c9cfa4ffc077ae11cf",
           "20bf2f90a78d90fb69c81810d66bb9ce2bd0070c"
         ],
         "seen_semantic_keys": [
+          "d1f830e3688e585fc09c28be1e3b14e6b787e07b",
           "9cbc00b551ffa1efeba35b7a79169d361b2434e9",
           "079042a4aab483bf63b6a8ab6065cd88cfa713c4",
           "4a30580e03d508ebe480de21bf7c87b3b919665d",
           "1c703589d8395c671d8582a57ca57b351db87067"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-09-16",
-        "sent_at": "2026-09-16T15:51:38.448527+03:00"
+        "last_published_date": "2026-09-17",
+        "sent_at": "2026-09-17T16:25:25.651036+03:00"
       },
       "sirket_raporu": {
         "seen_keys": [
