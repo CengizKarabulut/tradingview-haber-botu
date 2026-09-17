@@ -2,126 +2,103 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1664709",
+      "last_seen_key": "kap:1664936",
       "seen_keys": [
-        "kap:1664709",
-        "kap:1664701",
-        "kap:1664698",
-        "kap:1664694",
-        "kap:1664693",
-        "kap:1664692",
-        "kap:1664691",
-        "kap:1664690",
-        "kap:1664689",
-        "kap:1664680",
-        "kap:1664676",
-        "kap:1664675",
-        "kap:1664674",
-        "kap:1664673",
-        "kap:1664672",
-        "kap:1664670",
-        "kap:1664669",
-        "kap:1664668",
-        "kap:1664666",
-        "kap:1664665",
-        "kap:1664664",
-        "kap:1664663",
-        "kap:1664661",
-        "kap:1664660",
-        "kap:1664659",
-        "kap:1664658",
-        "kap:1664657",
-        "kap:1664655",
-        "kap:1664652",
-        "kap:1664639",
-        "kap:1664629",
-        "kap:1664625",
-        "kap:1664624",
-        "kap:1664623",
-        "kap:1664622",
-        "kap:1664621",
-        "kap:1664620",
-        "kap:1664619",
-        "kap:1664618",
-        "kap:1664617",
-        "kap:1664616",
-        "kap:1664615",
-        "kap:1664614",
-        "kap:1664613",
-        "kap:1664612",
-        "kap:1664611",
-        "kap:1664610",
-        "kap:1664609",
-        "kap:1664608",
-        "kap:1664607",
-        "kap:1664605",
-        "kap:1664604",
-        "kap:1664603",
-        "kap:1664602",
-        "kap:1664601",
-        "kap:1664599",
-        "kap:1664598",
-        "kap:1664597",
-        "kap:1664596",
-        "kap:1664589",
-        "kap:1664588",
-        "kap:1664583",
-        "kap:1664582",
-        "kap:1664580",
-        "kap:1664579",
-        "kap:1664578",
-        "kap:1664577",
-        "kap:1664575",
-        "kap:1664574",
-        "kap:1664573",
-        "kap:1664571",
-        "kap:1664570",
-        "kap:1664569",
-        "kap:1664567",
-        "kap:1664566",
-        "kap:1664565",
-        "kap:1664564",
-        "kap:1664563",
-        "kap:1664562",
-        "kap:1664561",
-        "kap:1664560",
-        "kap:1664559",
-        "kap:1664558",
-        "kap:1664557",
-        "kap:1664556",
-        "kap:1664555",
-        "kap:1664554",
-        "kap:1664553",
-        "kap:1664552",
-        "kap:1664550",
-        "kap:1664549",
-        "kap:1664548",
-        "kap:1664671",
-        "kap:1664662",
-        "kap:1664545",
-        "kap:1664544",
-        "kap:1664543",
-        "kap:1664541",
-        "kap:1664540",
-        "kap:1664539",
-        "kap:1664538",
-        "kap:1664537",
-        "kap:1664536",
-        "kap:1664535",
-        "kap:1664576",
-        "kap:1664534",
-        "kap:1664533",
-        "kap:1664532",
-        "kap:1664531",
-        "kap:1664529",
-        "kap:1664528",
-        "kap:1664527",
-        "kap:1664526",
-        "kap:1664525",
-        "kap:1664524",
-        "kap:1664523",
-        "kap:1664522",
-        "kap:1664521"
+        "kap:1664936",
+        "kap:1664935",
+        "kap:1664934",
+        "kap:1664933",
+        "kap:1664931",
+        "kap:1664930",
+        "kap:1664929",
+        "kap:1664928",
+        "kap:1664927",
+        "kap:1664926",
+        "kap:1664925",
+        "kap:1664924",
+        "kap:1664923",
+        "kap:1664922",
+        "kap:1664921",
+        "kap:1664889",
+        "kap:1664886",
+        "kap:1664885",
+        "kap:1664884",
+        "kap:1664883",
+        "kap:1664882",
+        "kap:1664881",
+        "kap:1664880",
+        "kap:1664879",
+        "kap:1664878",
+        "kap:1664877",
+        "kap:1664876",
+        "kap:1664875",
+        "kap:1664874",
+        "kap:1664873",
+        "kap:1664872",
+        "kap:1664871",
+        "kap:1664870",
+        "kap:1664869",
+        "kap:1664868",
+        "kap:1664867",
+        "kap:1664866",
+        "kap:1664865",
+        "kap:1664864",
+        "kap:1664863",
+        "kap:1664862",
+        "kap:1664860",
+        "kap:1664859",
+        "kap:1664858",
+        "kap:1664857",
+        "kap:1664856",
+        "kap:1664855",
+        "kap:1664854",
+        "kap:1664853",
+        "kap:1664852",
+        "kap:1664849",
+        "kap:1664848",
+        "kap:1664846",
+        "kap:1664845",
+        "kap:1664844",
+        "kap:1664843",
+        "kap:1664842",
+        "kap:1664841",
+        "kap:1664840",
+        "kap:1664838",
+        "kap:1664828",
+        "kap:1664826",
+        "kap:1664821",
+        "kap:1664816",
+        "kap:1664815",
+        "kap:1664814",
+        "kap:1664813",
+        "kap:1664811",
+        "kap:1664791",
+        "kap:1664790",
+        "kap:1664789",
+        "kap:1664788",
+        "kap:1664787",
+        "kap:1664786",
+        "kap:1664784",
+        "kap:1664783",
+        "kap:1664782",
+        "kap:1664781",
+        "kap:1664780",
+        "kap:1664778",
+        "kap:1664777",
+        "kap:1664776",
+        "kap:1664775",
+        "kap:1664774",
+        "kap:1664773",
+        "kap:1664772",
+        "kap:1664770",
+        "kap:1664769",
+        "kap:1664766",
+        "kap:1664765",
+        "kap:1664764",
+        "kap:1664763",
+        "kap:1664761",
+        "kap:1664760",
+        "kap:1664756"
       ]
     },
     "bist": {
@@ -153,8 +130,9 @@
       ]
     },
     "tcmb": {
-      "last_seen_key": "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-41",
+      "last_seen_key": "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-42",
       "seen_keys": [
+        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-42",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-41",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-40",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-39",
@@ -215,8 +193,37 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6750625:0",
+      "last_seen_key": "matriks:matriks:6750995:0",
       "seen_keys": [
+        "matriks:matriks:6750995:0",
+        "matriks:matriks:6750991:0",
+        "matriks:matriks:6750990:0",
+        "matriks:matriks:6750988:0",
+        "matriks:matriks:6750984:0",
+        "matriks:matriks:6750982:0",
+        "matriks:matriks:6750981:0",
+        "matriks:matriks:6750977:0",
+        "matriks:matriks:6750972:0",
+        "matriks:matriks:6750968:0",
+        "matriks:matriks:6750967:0",
+        "matriks:matriks:6750963:0",
+        "matriks:matriks:6750958:0",
+        "matriks:matriks:6750956:0",
+        "matriks:matriks:6750954:0",
+        "matriks:matriks:6750951:0",
+        "matriks:matriks:6750945:0",
+        "matriks:matriks:6750933:0",
+        "matriks:matriks:6750930:0",
+        "matriks:matriks:6750927:0",
+        "matriks:matriks:6750876:0",
+        "matriks:matriks:6750822:0",
+        "matriks:matriks:6750771:0",
+        "matriks:matriks:6750730:0",
+        "matriks:matriks:6750726:0",
+        "matriks:matriks:6750663:0",
+        "matriks:matriks:6750648:0",
+        "matriks:matriks:6750647:0",
+        "matriks:matriks:6750639:0",
         "matriks:matriks:6750625:0",
         "matriks:matriks:6750580:0",
         "matriks:matriks:6750562:0",
@@ -1679,6 +1686,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "matriks",
+      "text": "youth awards 2026 dan beymen prom se e s lver odul",
+      "link": "https://tr.tradingview.com/news/matriks:6750995:0"
+    },
+    {
+      "source": "matriks",
+      "text": "y ld zlar yat r m holding gonullu y ld zlar cal san gonullulugu program n hayata gecirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6750991:0"
+    },
+    {
+      "source": "matriks",
+      "text": "yandex turkiye super lig en cok aranan transferleri agustos ay n n en cok ilgi goren maclar n ac klad",
+      "link": "https://tr.tradingview.com/news/matriks:6750990:0"
+    },
+    {
+      "source": "matriks",
+      "text": "lenzing tekstilin yolculugunu izlenebilir k l yor",
+      "link": "https://tr.tradingview.com/news/matriks:6750988:0"
+    },
+    {
+      "source": "matriks",
+      "text": "youth awards 2026 kazananlar ac kland",
+      "link": "https://tr.tradingview.com/news/matriks:6750984:0"
+    },
+    {
+      "source": "matriks",
+      "text": "doyfarm 2026 webawards ta best food industry website kategorisinde odule lay k goruldu",
+      "link": "https://tr.tradingview.com/news/matriks:6750982:0"
+    },
+    {
+      "source": "matriks",
+      "text": "l oreal turkiye yurt d s na yeni yonetici transferi gerceklestirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6750981:0"
+    },
+    {
+      "source": "matriks",
+      "text": "karaca ucuncu surdurulebilirlik raporu nu yay mlad",
+      "link": "https://tr.tradingview.com/news/matriks:6750977:0"
+    },
+    {
+      "source": "matriks",
+      "text": "kaspersky macos kullan c lar n n verilerini kripto varl klar n hedef alan yeni macsync surumunu kesfetti",
+      "link": "https://tr.tradingview.com/news/matriks:6750972:0"
+    },
+    {
+      "source": "matriks",
+      "text": "multinet up etik itibar dernegi uyesi oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6750968:0"
+    },
+    {
+      "source": "matriks",
+      "text": "turknet monster notebook oyuncular guclerini birlestirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6750967:0"
+    },
+    {
+      "source": "matriks",
+      "text": "eyewear by dav d beckham yeni fw26 gozluk kampanyas n sunuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6750963:0"
+    },
+    {
+      "source": "matriks",
+      "text": "samsung un sekiz y ll k katlanabilir telefon deneyimi galaxy z fold8 galaxy z fold8 ultra galaxy z flip8 yeni seviyeye tas n yor",
+      "link": "https://tr.tradingview.com/news/matriks:6750958:0"
+    },
+    {
+      "source": "matriks",
+      "text": "unico sigorta gelecek yol haritas n yapay zeka destekli strateji toplant s sekillendirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6750956:0"
+    },
+    {
+      "source": "matriks",
+      "text": "birlesmis milletler genel kurulu haftas nda new york turkiye abd aras ndaki diplomatik iliskilerin 100 y l n kutlayacak ozel etkinlige ev sahipligi yapacak",
+      "link": "https://tr.tradingview.com/news/matriks:6750954:0"
+    },
+    {
+      "source": "matriks",
+      "text": "opella yeni daha kapsaml standartlar dogrultusunda b corp sertifikas n yeniledi",
+      "link": "https://tr.tradingview.com/news/matriks:6750951:0"
+    },
+    {
+      "source": "matriks",
+      "text": "turkish tastes abd mutfak profesyonellerine ulas yor",
+      "link": "https://tr.tradingview.com/news/matriks:6750945:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bist 100 endeksi bugun 2 95 yukseldi 13509 toplam gunluk islem hacmi 324 milyar 513 milyon tl oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6750933:0"
+    },
+    {
+      "source": "matriks",
+      "text": "borsa istanbul gunu 387 18 puan 2 95 yukselisle kapatt matriks haber anketi 120 43 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6750930:0"
+    },
+    {
+      "source": "matriks",
+      "text": "chp istanbul il kongresi ilgili tedbir karar kald r ld gursel tekin in gorevi sona erdi ntv",
+      "link": "https://tr.tradingview.com/news/matriks:6750927:0"
+    },
+    {
+      "source": "matriks",
+      "text": "sosyal medyada sermaye araclar yla ilgili spekulatif paylas m yapan 246 hesap kapat ld haberturk",
+      "link": "https://tr.tradingview.com/news/matriks:6750876:0"
+    },
+    {
+      "source": "matriks",
+      "text": "tuncay tursucu analiz gunlugu aksam saat 20 00 matriks youtube kanal nda",
+      "link": "https://tr.tradingview.com/news/matriks:6750822:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bakan bayraktar osman gazi yuzer uretim platformu nu ekim ay n n sonuna dogru karadeniz deki gorev yerine ugurlayacag z",
+      "link": "https://tr.tradingview.com/news/matriks:6750771:0"
+    },
+    {
+      "source": "matriks",
+      "text": "merkez bankas n n sonraki is gunu ac klad g gecici rezerv 825033 1 milyon tl",
+      "link": "https://tr.tradingview.com/news/matriks:6750730:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd agustos ay ask konut sat slar y ll k 4 7",
+      "link": "https://tr.tradingview.com/news/matriks:6750726:0"
+    },
+    {
+      "source": "matriks",
+      "text": "yurt d s aksam teknik bulteni ikon menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6750663:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bulls portfoy gelismeler ilgili bas n ac klamas yapt",
+      "link": "https://tr.tradingview.com/news/matriks:6750648:0"
+    },
+    {
+      "source": "matriks",
+      "text": "new york borsas yukselisle ac ld",
+      "link": "https://tr.tradingview.com/news/matriks:6750647:0"
+    },
+    {
+      "source": "matriks",
+      "text": "yurt d s gunluk bulten global menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6750639:0"
+    },
+    {
+      "source": "tcmb",
+      "text": "para politikas kurulu toplant ozeti 2026 42 turkiye cumhuriyet merkez bankas resmi duyurusu",
+      "link": "http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-42"
+    },
     {
       "source": "investing",
       "text": "creative medical ultrasome platformu patent basvurusu yapt",
@@ -9028,156 +9185,6 @@
       "source": "kap",
       "text": "oyayo haftal k rapor 11 09 2026 tarihli haftal k rapor sirket oyak yatirim ortakligi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1662250"
-    },
-    {
-      "source": "kap",
-      "text": "info iyf yat r m kurulusu varant sertifika senetlerine iliskin bildirim info yat r m varantlar piyasa yap c al m sat m islemleri bildirimi sirket info yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662249"
-    },
-    {
-      "source": "kap",
-      "text": "goknr sirket genel bilgi formu sirket goknur gida maddeleri enerji imalat ithalat ihracat ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662248"
-    },
-    {
-      "source": "kap",
-      "text": "ktsvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdktsk62811 isin kodlu ihrac 1 kupon oran belirlenmesi revize sirket kt sukuk varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662247"
-    },
-    {
-      "source": "kap",
-      "text": "atlas haftal k rapor haftal k rapor sirket atlas menkul kiymetler yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662243"
-    },
-    {
-      "source": "kap",
-      "text": "hubvc pay baz nda devre kesici bildirimi hubvc e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662242"
-    },
-    {
-      "source": "kap",
-      "text": "genkm pay baz nda devre kesici bildirimi genkm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662240"
-    },
-    {
-      "source": "kap",
-      "text": "vpy pay al m sat m bildirimi pay sahipligi hakk nda sirket vega portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662239"
-    },
-    {
-      "source": "kap",
-      "text": "oyayo ozel durum ac klamas genel ortakl k paylar n n bias ta olusan ag rl kl ortalama fiyat n n pay bas na net aktif degerinin 2 kat n asmas hakk nda sirket oyak yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662236"
-    },
-    {
-      "source": "kap",
-      "text": "ensri pay baz nda devre kesici bildirimi ensri e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662235"
-    },
-    {
-      "source": "kap",
-      "text": "ykb ykbnk sirket genel bilgi formu sirket yapi kredi bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662234"
-    },
-    {
-      "source": "kap",
-      "text": "ykb ykbnk kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 icra kurulunda guncelleme sirket yapi kredi bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662233"
-    },
-    {
-      "source": "kap",
-      "text": "ktsvk ihrac tavan na iliskin bildirim kira sertifikas ihrac tavan na iliskin spk onay sirket kt sukuk varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662232"
-    },
-    {
-      "source": "kap",
-      "text": "ktsvk ihrac belgesi kira sertifikas ihrac tavan na iliskin spk onay sirket kt sukuk varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662231"
-    },
-    {
-      "source": "kap",
-      "text": "ebebk pay baz nda devre kesici bildirimi ebebk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662226"
-    },
-    {
-      "source": "kap",
-      "text": "aksue pay baz nda devre kesici bildirimi aksue e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662225"
-    },
-    {
-      "source": "kap",
-      "text": "mtryo haftal k rapor haftal k rapor sirket metro yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662223"
-    },
-    {
-      "source": "kap",
-      "text": "dofrb ozel durum ac klamas genel konak r ht m isletmesi ihalesine kat l m hakk nda sirket dof robotik sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662222"
-    },
-    {
-      "source": "kap",
-      "text": "veyas pay baz nda devre kesici bildirimi veyas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662221"
-    },
-    {
-      "source": "kap",
-      "text": "akm akmen yat r m kurulusu varant sertifika senetlerine iliskin bildirim varant sertifika py al m sat m bildirimi sirket ak yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662219"
-    },
-    {
-      "source": "kap",
-      "text": "akm akmen piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi 07 09 2026 11 09 2026 tarih aral g nda gerceklesen borsa yat r m fonlar piyasa yap c islemleri sirket ak yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662218"
-    },
-    {
-      "source": "kap",
-      "text": "akm akmen likidite saglay c l k kapsam ndaki islemler agesa paylar nda likidite saglay c l g kapsam nda gerceklestirilen islemler 31 08 2026 11 09 2026 sirket ak yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662217"
-    },
-    {
-      "source": "kap",
-      "text": "psp genel ac klama genel mudurun gorevden ayr lmas sirket pusula portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662215"
-    },
-    {
-      "source": "kap",
-      "text": "usak pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon odemesi hakk nda sirket usak seramik sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662214"
-    },
-    {
-      "source": "kap",
-      "text": "dtbmk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren 14 09 2026 tarihli kupon odeme bildirim sirket destek yatirim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662213"
-    },
-    {
-      "source": "kap",
-      "text": "halki hly likidite saglay c l k kapsam ndaki islemler emlak konut damlakent projesi gayrimenkul sertifikalar nda dmlkt g likidite saglayac l k kapsam nda gerceklestirilen islemler 31 08 2026 11 09 2026 sirket halk yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662210"
-    },
-    {
-      "source": "kap",
-      "text": "izmdc pay baz nda devre kesici bildirimi izmdc e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662209"
-    },
-    {
-      "source": "kap",
-      "text": "bsoke pay baz nda devre kesici bildirimi bsoke e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662208"
-    },
-    {
-      "source": "kap",
-      "text": "krdmb pay baz nda devre kesici bildirimi krdmb e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662207"
-    },
-    {
-      "source": "kap",
-      "text": "pkart pay baz nda devre kesici bildirimi pkart e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662206"
-    },
-    {
-      "source": "kap",
-      "text": "klypv bistech pay piyasas al m sat m sistemi duyurusu toptan al s sat s islemi sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1662205"
     }
   ],
   "research_reports_v8": {
