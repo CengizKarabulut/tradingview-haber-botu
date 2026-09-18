@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1665590",
+      "last_seen_key": "kap:1665595",
       "seen_keys": [
+        "kap:1665595",
         "kap:1665590",
         "kap:1665589",
         "kap:1665588",
@@ -228,6 +229,8 @@
         "matriks:matriks:6753606:0",
         "matriks:matriks:6753589:0",
         "matriks:matriks:6753577:0",
+        "matriks:matriks:6753568:0",
+        "matriks:matriks:6753562:0",
         "matriks:matriks:6753527:0",
         "matriks:matriks:6753522:0",
         "matriks:matriks:6753500:0",
@@ -352,8 +355,10 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aad652d24008d7d43733d83/PICNEWS/tr/bofa-fed-faizi-yeniden-yuzde-5-in-uzerine-cikabilir-18-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aad667a95016b5817e5ce3c/PICNEWS/tr/tera-finansal-yatirimlar-holding-de-ceo-erkan-kilimci-gorevinden-ayrildi-18-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6aad667a95016b5817e5ce3c/PICNEWS/tr/tera-finansal-yatirimlar-holding-de-ceo-erkan-kilimci-gorevinden-ayrildi-18-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aad65cb95016b5817e5ce38/PICNEWS/tr/vakif-gyo-halk-gyo-ve-ziraat-gyo-dan-kartal-da-ortak-proje-18-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aad652d24008d7d43733d83/PICNEWS/tr/bofa-fed-faizi-yeniden-yuzde-5-in-uzerine-cikabilir-18-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aad646024008d7d43733d7a/PICNEWS/tr/fed-schmid-para-politikasinin-ana-odagi-enflasyon-olmali-18-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aad57d095016b5817e5cd72/PICNEWS/tr/piyasaya-bakis-borsa-haftayi-dususle-kapatti-18-09-26/",
@@ -1323,8 +1328,20 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/yazarlar/dogan-ozkan/avrupanin-sessiz-cokusu-1742305",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/piyasalarin-efsanesi-warren-buffett-gorevinden-ayrildi-1742437",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/piyasalarin-efsanesi-warren-buffett-gorevinden-ayrildi-1742437",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-calisma-saatleri-degisiyor-mu-bakan-simsek-gundeme-getirdi-esnek-calisma-gundeme-geldi-1742436",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/900-liraya-ucak-bileti-ustelik-yurt-disi-ucuslarda-1742408",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/emre-tezmen-gorevinden-ayrildi-1742392",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-kurum-tokiye-kalan-borcunu-kapatanlara-yuzde-25-indirim-yapacagiz-1742366",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/bakan-simsek-fon-krizini-yorumladi-planlari-tek-tek-acikladi-1742360",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/akin-gurlekten-borsa-ve-fon-aciklamasi-1742353",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/motorine-indirim-yarin-devreye-giriyor-1742350",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-500-binden-fazla-kisiyi-etkiledi-fon-krizi-nasil-gelisti-bundan-sonra-ne-olacak-1742343",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/faiz-31-yilin-zirvesine-cikti-1742332",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/besiktas-terayi-formadan-cikardi-klubun-hisseleri-de-etkilendi-1742335",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/131-fonun-tasfiye-yontemi-belirlendi-paralar-nasil-geri-alinacak-1742334",
         "ntvpara:https://www.ntv.com.tr/yazarlar/dogan-ozkan/avrupanin-sessiz-cokusu-1742305",
         "ntvpara:https://www.ntv.com.tr/ntvpara/golden-global-portfoyun-3-fonunda-pay-satimi-gecici-olarak-durduruldu-1742299",
         "ntvpara:https://www.ntv.com.tr/ntvpara/piyasalarda-gun-sonu-borsa-ve-altinda-son-durum-ne-1742296",
@@ -1431,9 +1448,19 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/spk-130-yatirim-fonunda-tasfiye-surecini-baslatti-2-banka-yetkilendirdi-957225.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/ticaret-bakanligi-ordu-ve-giresundaki-ticaret-borsalarini-incelemeye-aldi-957300.html",
       "seen_keys": [
-        "trthaber:https://www.trthaber.com/haber/ekonomi/spk-130-yatirim-fonunda-tasfiye-surecini-baslatti-2-banka-yetkilendirdi-957225.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/ticaret-bakanligi-ordu-ve-giresundaki-ticaret-borsalarini-incelemeye-aldi-957300.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-isikhan-issizligi-2029-yilinda-yuzde-76ya-indirmeyi-hedefliyoruz-957292.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-yumakli-789-bin-dekarlik-ortu-alti-uretim-alanina-sahibiz-957291.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-6-milyon-823-bin-liraya-yukseldi-957288.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/tuna-portfoyden-fon-sureclerine-iliskin-aciklama-957272.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/tokiden-ev-ve-is-yeri-alanlara-yuzde-25-indirim-kampanyasi-957260.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/trafikteki-elektrikli-otomobil-sayisi-472-bini-gecti-957255.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/temmuz-ayi-uluslararasi-yatirim-pozisyonu-verileri-aciklandi-957246.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-bahar-havasi-957240.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/gram-altin-6-bin-885-liradan-islem-goruyor-957239.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/spk-131-yatirim-fonunda-tasfiye-surecini-baslatti-2-banka-yetkilendirdi-957225.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bakan-bolat-yarin-romaya-gidecek-957182.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/borsa-gunu-yukselisle-tamamladi-957181.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/tmonun-arpa-satislari-basladi-957178.html",
@@ -1483,6 +1510,7 @@
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-komsularina-ihracati-182-milyar-dolari-asti-956771.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/temmuz-ayi-dis-ticaret-endeksleri-aciklandi-956762.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/gram-altin-haftaya-dususle-basladi-956755.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/spk-130-yatirim-fonunda-tasfiye-surecini-baslatti-2-banka-yetkilendirdi-957225.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkseker-fabrikalarina-182-isci-alimi-yapilacak-956727.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/vergi-denetimlerinde-odak-buyuk-mukellefler-oldu-956715.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/evlilik-hazirligindaki-genclere-1191-firmadan-indirim-destegi-956699.html",
@@ -1561,8 +1589,26 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6751500:0",
+      "last_seen_key": "tradingview:matriks:6753887:0",
       "seen_keys": [
+        "tradingview:matriks:6753887:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N45A0W2:0",
+        "tradingview:fxstreet:7a0504607d9e8:0",
+        "tradingview:cointelegraph:5a42da821d9e8:0",
+        "tradingview:fxstreet:1ed8ccc61d9e8:0",
+        "tradingview:matriks:6753784:0",
+        "tradingview:matriks:6753772:0",
+        "tradingview:matriks:6753769:0",
+        "tradingview:matriks:6753733:0",
+        "tradingview:fxstreet:b27c9f839d9e8:0",
+        "tradingview:matriks:6753718:0",
+        "tradingview:fxstreet:d72762f2fd9e8:0",
+        "tradingview:tag:reuters.com,2026:newsml_L6N45A0TR:0",
+        "tradingview:matriks:6753685:0",
+        "tradingview:matriks:6753682:0",
+        "tradingview:matriks:6753681:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N45A135:0",
+        "tradingview:matriks:6753675:0",
         "tradingview:matriks:6751500:0",
         "tradingview:matriks:6751499:0",
         "tradingview:matriks:6751498:0",
@@ -1874,6 +1920,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "yapay zeka yar s nda aray kapatmaya cal san avrupal sirketler abd li sirketlerin yavaslama cagr lar na kars c k yor",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N45A0W2:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada dolar abd dolar kars s nda 1 40 civar nda bask art yor scotiabank",
+      "link": "https://tr.tradingview.com/news/fxstreet:7a0504607d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bankalar paylar 23 e ulas rken ab mica kripto saglay c lar listesindeki varl klar n ikiye katlad",
+      "link": "https://tr.tradingview.com/news/cointelegraph:5a42da821d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada merkez bankas faiz patikas riskleri daha erken tarafa kay yor rbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:1ed8ccc61d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avrupa merkez bankas ceyreklik faiz art r mlar hala temel senaryo nordea",
+      "link": "https://tr.tradingview.com/news/fxstreet:b27c9f839d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro s k lasmac fed gorunumuyle abd dolar kars s nda haftal k kayba yoneliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d72762f2fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cinli robot beyni girisimi gelecek y l chatgpt benzeri at l m gerceklestirmeyi hedefliyor",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L6N45A0TR:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tvf fon sektorundeki krizin ard ndan borsada al ma gecti bloomberg",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N45A135:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "ticaret bakanl g ordu giresun daki ticaret borsalar n incelemeye ald ticaret bakanl g f nd k uretimi ticaretinin yogun olarak gerceklestirildigi ordu giresun illerindeki ticaret borsalar nda piyasa isleyisinin incelenmesi amac yla mufettis gorevlendirdi",
+      "link": "https://www.trthaber.com/haber/ekonomi/ticaret-bakanligi-ordu-ve-giresundaki-ticaret-borsalarini-incelemeye-aldi-957300.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "bakan is khan issizligi 2029 y l nda yuzde 7 6 ya indirmeyi hedefliyoruz cal sma sosyal guvenlik bakan vedat is khan 2027 2029 doneminde ulkemizde yaklas k 2 1 milyon ilave istihdam olusturmay issizlik oran n ise kademeli olarak dusurerek 2029 y l nda yuzde 7 6 ya indirmeyi hedefliyoruz dedi",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-isikhan-issizligi-2029-yilinda-yuzde-76ya-indirmeyi-hedefliyoruz-957292.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "bakan yumakl 789 bin dekarl k ortu alt uretim alan na sahibiz tar m orman bakan ibrahim yumakl ortu alt uretimin tar m onemli olduguna isaret ederek turkiye 789 bin dekarl k ortu alt uretim alan na sahibiz alanlar n yuzde 92 sinde sebze yuzde 7 sinde meyve yuzde 1 inde ise sus",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-yumakli-789-bin-dekarlik-ortu-alti-uretim-alanina-sahibiz-957291.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "alt n n kilogram fiyat 6 milyon 823 bin liraya yukseldi borsa istanbul k ymetli madenler k ymetli taslar piyasas nda kmktp standart alt n n kilogram fiyat gunun sonunda 6 milyon 823 bin liraya c kt",
+      "link": "https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-6-milyon-823-bin-liraya-yukseldi-957288.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "toki den ev is yeri alanlara yuzde 25 indirim kampanyas cevre sehircilik iklim degisikligi bakan murat kurum toplu konut idaresi baskanl g ndan toki ev is yeri sat n alan vatandaslara borclar n pesin kapatmalar halinde yuzde 25 indirim yap lacag n duyurdu",
+      "link": "https://www.trthaber.com/haber/ekonomi/tokiden-ev-ve-is-yeri-alanlara-yuzde-25-indirim-kampanyasi-957260.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "gram alt n 6 bin 885 liradan islem goruyor gram alt n gune deger kazanc yla baslamas n n ard ndan 6 bin 885 liradan islem goruyor",
+      "link": "https://www.trthaber.com/haber/ekonomi/gram-altin-6-bin-885-liradan-islem-goruyor-957239.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "spk 131 yat r m fonunda tasfiye surecini baslatt 2 banka yetkilendirdi sermaye piyasas kurulu spk aralar nda tera a1 capital atlas n bulundugu 7 portfoy yonetim sirketinin kurucusu oldugu 131 yat r m fonunun tasfiye surecine iliskin usul esaslar belirledi surec kapsam nda fonlar n tasfiyesi i",
+      "link": "https://www.trthaber.com/haber/ekonomi/spk-131-yatirim-fonunda-tasfiye-surecini-baslatti-2-banka-yetkilendirdi-957225.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "piyasalar n efsanesi warren buffett gorevinden ayr ld milyarder is insan warren buffett berkshire hathaway in baskanl g ndan ayr ld g n ac klad",
+      "link": "https://www.ntv.com.tr/ntvpara/piyasalarin-efsanesi-warren-buffett-gorevinden-ayrildi-1742437"
+    },
+    {
+      "source": "ntvpara",
+      "text": "cal sma saatleri degisiyor mu bakan simsek gundeme getirdi esnek cal sma masada suredir gundemde olan ancak hayata gecirilmeyen esnek cal sma modeline yonelik olarak hazine maliye bakan mehmet simsek yeni mesajlar verdi",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-calisma-saatleri-degisiyor-mu-bakan-simsek-gundeme-getirdi-esnek-calisma-gundeme-geldi-1742436"
+    },
+    {
+      "source": "ntvpara",
+      "text": "900 liraya ucak bileti ustelik yurt d s ucuslarda pegasus 15 99 euro dan yaklas k 900 lira baslayan fiyatlarla ucak bileti satmaya baslad",
+      "link": "https://www.ntv.com.tr/ntvpara/900-liraya-ucak-bileti-ustelik-yurt-disi-ucuslarda-1742408"
+    },
+    {
+      "source": "ntvpara",
+      "text": "fon tasfiyesinin odag ndayd emre tezmen gorevinden ayr ld tera grubu nun yonetim kurulu baskan emre tezmen pusula finans holding e iliskin yonetim kurulu uyeliginden ayr ld g n ac klad",
+      "link": "https://www.ntv.com.tr/ntvpara/emre-tezmen-gorevinden-ayrildi-1742392"
+    },
+    {
+      "source": "ntvpara",
+      "text": "bakan kurum duyurdu toki ye kalan borcunu kapatanlara yuzde 25 indirim cevre sehircilik iklim degisikligi bakan murat kurum toki ye kalan borcunu kapatan vatandaslara yuzde 25 indirim yap lacag n ac klad",
+      "link": "https://www.ntv.com.tr/ntvpara/bakan-kurum-tokiye-kalan-borcunu-kapatanlara-yuzde-25-indirim-yapacagiz-1742366"
+    },
+    {
+      "source": "ntvpara",
+      "text": "bakan simsek fon krizini yorumlad planlar tek tek ac klad hazine maliye bakan mehmet simsek fon sorusturmalar n degerlendirdi krize yonelik planlar ac klad simsek ntv ye konustu",
+      "link": "https://www.ntv.com.tr/ntvpara/bakan-simsek-fon-krizini-yorumladi-planlari-tek-tek-acikladi-1742360"
+    },
+    {
+      "source": "ntvpara",
+      "text": "gurlek sorusturma basvurusu agustos ay nda yap ld aklama sucu kapsam nda adalet bakan ak n gurlek borsa sorusturmas na yonelik basvurunun aklama suclar sorusturma burosu nca agustos ay nda yap ld g n ac klad",
+      "link": "https://www.ntv.com.tr/ntvpara/akin-gurlekten-borsa-ve-fon-aciklamasi-1742353"
+    },
+    {
+      "source": "ntvpara",
+      "text": "motorine indirim yar n devreye giriyor akaryak t fiyatlar petroldeki dususle birlikte geriledi",
+      "link": "https://www.ntv.com.tr/ntvpara/motorine-indirim-yarin-devreye-giriyor-1742350"
+    },
+    {
+      "source": "ntvpara",
+      "text": "500 binden fazla kisiyi etkileyen fon krizi pusula portfoy un fonlar ndaki fiyat erimesiyle baslayan surec 1 trilyon liral k portfoye sahip tera yat r m a s crad 500 binden fazla yat r mc paras n n ak betini merak ediyor",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-500-binden-fazla-kisiyi-etkiledi-fon-krizi-nasil-gelisti-bundan-sonra-ne-olacak-1742343"
+    },
+    {
+      "source": "ntvpara",
+      "text": "faiz 31 y l n zirvesine c kt japonya merkez bankas faiz oran n 31 y l n en yuksek seviyesine c kard",
+      "link": "https://www.ntv.com.tr/ntvpara/faiz-31-yilin-zirvesine-cikti-1742332"
+    },
+    {
+      "source": "ntvpara",
+      "text": "besiktas tera y formadan c kard m kulubun hisseleri etkilendi besiktas avrupa ligi ndeki marsilya mac nda forma s rt nda sponsor olmadan sahaya c kt tera yaz s n n yerine futbolcular n isimleri yer ald yorumlara neden oldu",
+      "link": "https://www.ntv.com.tr/ntvpara/besiktas-terayi-formadan-cikardi-klubun-hisseleri-de-etkilendi-1742335"
+    },
+    {
+      "source": "ntvpara",
+      "text": "131 fonun tasfiye yontemi belirlendi paralar nas l geri al nacak sermaye piyasas kurulu tasfiye edilecek fonlara iliskin usulleri ac klad 3 ayl k sure icinde tasfiye gerceklesecek kurul sureyi uzatmada yetkili olacak",
+      "link": "https://www.ntv.com.tr/ntvpara/131-fonun-tasfiye-yontemi-belirlendi-paralar-nasil-geri-alinacak-1742334"
+    },
+    {
+      "source": "forinvest",
+      "text": "tera finansal yat r mlar holding ceo erkan kilimci gorevinden ayr ld tera finansal yat r mlar holding a s trhol yonetim kurulu baskan vekili genel mudur ceo erkan kilimci nin gorevlerinden ayr ld g n ac klad",
+      "link": "https://www.foreks.com/haber/detay/6aad667a95016b5817e5ce3c/PICNEWS/tr/tera-finansal-yatirimlar-holding-de-ceo-erkan-kilimci-gorevinden-ayrildi-18-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "vak f gyo halk gyo ziraat gyo dan kartal ortak proje vak f gayrimenkul yat r m ortakl g vkgyo halk gayrimenkul yat r m ortakl g ziraat gayrimenkul yat r m ortakl g istanbul kartal karma kullan ml gayrimenkul projesi gelistirmek amac yla",
+      "link": "https://www.foreks.com/haber/detay/6aad65cb95016b5817e5ce38/PICNEWS/tr/vakif-gyo-halk-gyo-ve-ziraat-gyo-dan-kartal-da-ortak-proje-18-09-26"
+    },
+    {
+      "source": "kap",
+      "text": "avgyo paylar n geri al nmas na iliskin bildirim 18 09 2026 tarihinde gerceklestirilen pay geri al m islemleri sirket avrasya gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665595"
+    },
     {
       "source": "investing",
       "text": "hb fuller hissesi 48 6 dolarda 52 haftal k dibe vurdu",
@@ -9223,156 +9419,6 @@
       "source": "kap",
       "text": "otkar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsotkr62722 isin kodlu 3 500 000 000 tl tutar ndaki tahvilin 1 kupon odemesi sirket otokar otomotiv savunma sanayi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1663159"
-    },
-    {
-      "source": "kap",
-      "text": "atagy ozel durum ac klamas genel genel mudur degisikligi sirket ata gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663158"
-    },
-    {
-      "source": "kap",
-      "text": "isatr isbtr isctr iskur tib ozel durum ac klamas genel tahsili gecikmis alacak sat s sirket turkiye is bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663157"
-    },
-    {
-      "source": "kap",
-      "text": "brlsm ozel durum ac klamas genel yat r mc sunumu sirket birlesim muhendislik isitma sogutma havalandirma sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663156"
-    },
-    {
-      "source": "kap",
-      "text": "netgl paylar n islem gormeye baslamas paylar n islem gormeye baslamas sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663155"
-    },
-    {
-      "source": "kap",
-      "text": "sumas ozel durum ac klamas genel yonetim kurulu uye degisikligi sirket sumas suni tahta mobilya sanayii a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663154"
-    },
-    {
-      "source": "kap",
-      "text": "nurvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdnvka92626 isin kodlu kira sertifikas n n 2 kupon oran n n belirlenmesi sirket nurol varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663153"
-    },
-    {
-      "source": "kap",
-      "text": "euhol ortakl k aleyhine dava ac lmas veya davaya iliskin gelismeler davaya iliskin gelismeler hk sirket euro yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663150"
-    },
-    {
-      "source": "kap",
-      "text": "sahol pay baz nda devre kesici bildirimi sahol e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663149"
-    },
-    {
-      "source": "kap",
-      "text": "ismen iym piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi borsa yat r m fonu piyasa yap c l g islemleri sirket is yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663148"
-    },
-    {
-      "source": "kap",
-      "text": "cante pay baz nda devre kesici bildirimi cante e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663147"
-    },
-    {
-      "source": "kap",
-      "text": "algyo pay baz nda devre kesici bildirimi algyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663145"
-    },
-    {
-      "source": "kap",
-      "text": "sasa pay baz nda devre kesici bildirimi sasa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663143"
-    },
-    {
-      "source": "kap",
-      "text": "forte pay baz nda devre kesici bildirimi forte e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663138"
-    },
-    {
-      "source": "kap",
-      "text": "eygyo pay baz nda devre kesici bildirimi eygyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663137"
-    },
-    {
-      "source": "kap",
-      "text": "fonet pay baz nda devre kesici bildirimi fonet e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663136"
-    },
-    {
-      "source": "kap",
-      "text": "frmpl pay baz nda devre kesici bildirimi frmpl e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663135"
-    },
-    {
-      "source": "kap",
-      "text": "tby tebyt yat r m kurulusu varant sertifika senetlerine iliskin bildirim bnpp 2 tertip 15 eylul 2026 ihrac gosterge niteligindeki sat s fiyatlar sirket teb yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663134"
-    },
-    {
-      "source": "kap",
-      "text": "sarae pay baz nda devre kesici bildirimi sarae e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663133"
-    },
-    {
-      "source": "kap",
-      "text": "hekts pay baz nda devre kesici bildirimi hekts e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663131"
-    },
-    {
-      "source": "kap",
-      "text": "ayes sirket genel bilgi formu sirket ayes celik hasir cit sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663130"
-    },
-    {
-      "source": "kap",
-      "text": "ayes ozel durum ac klamas genel bagl ortakl g m z n yeniden yap land r lmas na iliskin bagl ortakl g n genel kurul karar n n tescil ilan sirket ayes celik hasir cit sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663129"
-    },
-    {
-      "source": "kap",
-      "text": "ssaat pay baz nda devre kesici bildirimi ssaat e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663128"
-    },
-    {
-      "source": "kap",
-      "text": "takasbank odunc pay piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663127"
-    },
-    {
-      "source": "kap",
-      "text": "arsan pay baz nda devre kesici bildirimi arsan e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663125"
-    },
-    {
-      "source": "kap",
-      "text": "tmks ozel durum ac klamas genel tmks vakifbank ikinci varlik finansmani fonu ictuzugu sirket birlesik ipotek finansmani a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663124"
-    },
-    {
-      "source": "kap",
-      "text": "mdasm mds ihrac tavan na iliskin bildirim borclanma arac ihrac na iliskin yonetim kurulu karar sirket midas menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663121"
-    },
-    {
-      "source": "kap",
-      "text": "turgg pay baz nda devre kesici bildirimi turgg e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663120"
-    },
-    {
-      "source": "kap",
-      "text": "intem pay baz nda devre kesici bildirimi intem e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663118"
-    },
-    {
-      "source": "kap",
-      "text": "eximb thr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren gmtn program cercevesinde yurt d s nda borclanma arac ihrac sirket turkiye ihracat kredi bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663117"
-    },
-    {
-      "source": "kap",
-      "text": "islem iptali bap islem iptali sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663116"
     }
   ],
   "research_reports_v8": {
