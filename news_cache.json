@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1665612",
+      "last_seen_key": "kap:1665616",
       "seen_keys": [
+        "kap:1665616",
+        "kap:1665615",
+        "kap:1665614",
+        "kap:1665613",
         "kap:1665612",
         "kap:1665611",
         "kap:1665610",
@@ -809,15 +813,8 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4061429",
       "seen_keys": [
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-hizmet-ihracatinin-yuzde-56sini-dijital-hizmetler-olusturuyor/4060843",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-ortu-alti-uretimde-dunyada-dorduncu-avrupada-ikinci-siradayiz/4061341",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bati-akdeniz-ihracatinda-almanya-pazari-yuzde-41-abd-yuzde-26-5-buyudu/4060867",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/5-ab-ulkesinden-yeni-butcede-kesinti-cagrisi/4060899",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-yeni-pistimiz-istanbulun-kuresel-hava-trafigindeki-iddiasini-daha-da-yuksege-tasiyacak/4061321",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-borsada-ve-piyasada-yapisal-sorun-yok/4060771",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4061429",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4061400",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-18-eylul-2026/4061263",
@@ -828,6 +825,13 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tuna-portfoyden-fon-sureclerine-iliskin-aciklama/4060993",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/orta-dogu-daki-petrol-soku-avro-bolgesinde-enflasyon-beklentilerini-artirdi/4060960",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-yollarindaki-elektrikli-otomobil-sayisi-470-bini-gecti/4060849",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-hizmet-ihracatinin-yuzde-56sini-dijital-hizmetler-olusturuyor/4060843",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bati-akdeniz-ihracatinda-almanya-pazari-yuzde-41-abd-yuzde-26-5-buyudu/4060867",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/5-ab-ulkesinden-yeni-butcede-kesinti-cagrisi/4060899",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-borsada-ve-piyasada-yapisal-sorun-yok/4060771",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-ortu-alti-uretimde-dunyada-dorduncu-avrupada-ikinci-siradayiz/4061341",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-yeni-pistimiz-istanbulun-kuresel-hava-trafigindeki-iddiasini-daha-da-yuksege-tasiyacak/4061321",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kamu-hizmeti-verilen-demir-yolu-hatlari-yeniden-duzenlendi/4060719",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dto-genel-direktoru-okonjo-iweala-kuresel-ticarette-80-yilin-en-buyuk-aksakliginin-yasandigini-belirtti/4060845",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/petrol-fiyatlarindaki-yukselis-abdde-akaryakit-maliyetleri-uzerinden-ekonomiyi-zorluyor/4060839",
@@ -1632,9 +1636,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:971911435d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:4cec45081d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:4cec45081d9e8:0",
         "tradingview:fxstreet:971911435d9e8:0",
+        "tradingview:beincrypto:78824926dd9e8:0",
         "tradingview:cointelegraph:ed760e0f5d9e8:0",
         "tradingview:fxstreet:bbb388f9cd9e8:0",
         "tradingview:fxstreet:95a9fd0a6d9e8:0",
@@ -2044,6 +2050,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "malezya ringgiti d s bask var ancak donus alan mevcut ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:4cec45081d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "reedr kat l m finans ilkeleri bilgi formu sirket reeder teknoloji sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665616"
+    },
+    {
+      "source": "kap",
+      "text": "reedr faaliyet raporu konsolide konsolide faaliyet raporu sirket reeder teknoloji sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665615"
+    },
+    {
+      "source": "kap",
+      "text": "reedr sorumluluk beyan konsolide sorumluluk beyan konsolide sirket reeder teknoloji sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665614"
+    },
+    {
+      "source": "kap",
+      "text": "reedr finansal rapor sirket reeder teknoloji sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665613"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini s k lasmac boe pas gecmesinin ard ndan s n rl yukselis potansiyeli scotiabank",
@@ -9518,31 +9549,6 @@
       "source": "kap",
       "text": "klypv kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 sirket kalyon gunes teknolojileri uretim a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1663253"
-    },
-    {
-      "source": "kap",
-      "text": "klypv sirket genel bilgi formu sirket kalyon gunes teknolojileri uretim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663252"
-    },
-    {
-      "source": "kap",
-      "text": "masfn sirket genel bilgi formu sirket masfen enerji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663251"
-    },
-    {
-      "source": "kap",
-      "text": "klypv yonetim kurulu komiteleri yonetim kurulu komiteleri hk sirket kalyon gunes teknolojileri uretim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663250"
-    },
-    {
-      "source": "kap",
-      "text": "enery paylar n geri al nmas na iliskin bildirim geri al m surecinin tamamlanmas hk sirket enerya enerji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663249"
-    },
-    {
-      "source": "kap",
-      "text": "ahgaz paylar n geri al nmas na iliskin bildirim geri al m surecinin tamamlanmas hk sirket ahlatci dogal gaz dagitim enerji yatirim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663248"
     }
   ],
   "research_reports_v8": {
