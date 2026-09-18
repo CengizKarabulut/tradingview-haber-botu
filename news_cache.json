@@ -2,8 +2,12 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1665616",
+      "last_seen_key": "kap:1665620",
       "seen_keys": [
+        "kap:1665620",
+        "kap:1665619",
+        "kap:1665618",
+        "kap:1665617",
         "kap:1665616",
         "kap:1665615",
         "kap:1665614",
@@ -386,8 +390,10 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aad693224008d7d43733d9a/PICNEWS/tr/info-yatirim-da-yonetim-kurulu-baskani-degisti-18-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aad6b5795016b5817e5ce5f/PICNEWS/tr/bank-of-america-dan-borsa-istanbul-da-dikkat-ceken-islemler-18-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6aad6b5795016b5817e5ce5f/PICNEWS/tr/bank-of-america-dan-borsa-istanbul-da-dikkat-ceken-islemler-18-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aad69d724008d7d43733da0/PICNEWS/tr/namik-kemal-gokalp-uc-sirketteki-yonetim-kurulu-gorevlerinden-istifa-etti-18-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aad693224008d7d43733d9a/PICNEWS/tr/info-yatirim-da-yonetim-kurulu-baskani-degisti-18-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aad67f324008d7d43733d93/PICNEWS/tr/msci-ve-ftse-russell-turkiye-piyasasini-izliyor-18-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aad667a95016b5817e5ce3c/PICNEWS/tr/tera-finansal-yatirimlar-holding-de-ceo-erkan-kilimci-gorevinden-ayrildi-18-09-26/",
@@ -403,8 +409,14 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/dolar-yuksek-faiz-beklentisiyle-200-gunluk-ortalamasini-asti-3788849",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/bddk-dan-bir-banka-icin-faaliyet-izni-kaldirma-karari-3788856",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/bddk-dan-bir-banka-icin-faaliyet-izni-kaldirma-karari-3788856",
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-19092026-3788855",
+        "bloomberght:https://www.bloomberght.com/savas-dizel-arzindaki-kayiplari-artirdi-3788854",
+        "bloomberght:https://www.bloomberght.com/trump-tan-cnn-ms-now-ve-politico-ya-beyaz-saray-yasagi-3788853",
+        "bloomberght:https://www.bloomberght.com/wp-pentagon-un-acikladigindan-daha-fazla-abd-askeri-oldu-3788852",
+        "bloomberght:https://www.bloomberght.com/almanya-ilk-f-35-savas-ucagini-abd-de-teslim-aldi-3788851",
         "bloomberght:https://www.bloomberght.com/dolar-yuksek-faiz-beklentisiyle-200-gunluk-ortalamasini-asti-3788849",
         "bloomberght:https://www.bloomberght.com/volkswagen-cin-etkisiyle-kr-beklentilerini-dusurdu-3788848",
         "bloomberght:https://www.bloomberght.com/ucak-yakiti-fiyatlari-zirveye-yakin-3788847",
@@ -525,17 +537,21 @@
         "cnbce:https://www.cnbce.com/borsa/tera-portfoyden-kapa-kritik-aciklama-3-fonda-temerrut-olustu-h37486",
         "cnbce:https://www.cnbce.com/borsa/a1-capital-ve-pardus-fonlarinda-kritik-karar-bazi-fonlar-tasfiye-edilecek-a1-capitalden-kritik-fon-aciklamasi-tefasta-alim-ve-satimlar-durduruldu-h37484",
         "cnbce:https://www.cnbce.com/borsa/sabancinin-sanayi-devi-sermayesini-2-katina-cikariyor-37-milyar-tllik-artirim-karari-kordsadan-kritik-sermaye-artirimi-739-milyar-tlye-cikacak-h37482",
+        "cnbce:https://www.cnbce.com/dunya/putinden-ukrayna-aciklamasi-muzakere-etmek-istemiyorlar-h37588",
+        "cnbce:https://www.cnbce.com/haberler/bank-mellatin-istanbul-subesinin-faaliyet-izni-kaldirildi-h37587",
+        "cnbce:https://www.cnbce.com/teknoloji/pentagon-ufo-dosyalarini-acti-1952den-gizemli-goruntuler-ortaya-cikti-h37585",
+        "cnbce:https://www.cnbce.com/dunya/abd-iran-catismalarinda-carpici-iddia-asker-kayiplari-aciklanandan-fazla-h37584",
         "cnbce:https://www.cnbce.com/haberler/fedden-svb-itirafi-bankanin-risklerini-iflastan-once-biliyorduk-fedden-svb-aciklamasi-kirilganliklari-biliyorlardi-harekete-gecmediler-h37577",
         "cnbce:https://www.cnbce.com/haberler/ticaret-bakanligi-harekete-gecti-findik-piyasasinda-4-noktada-denetim-findik-piyasasinda-kritik-gelisme-bakanlik-mufettis-gorevlendirdi-h37574",
         "cnbce:https://www.cnbce.com/haberler/buyuk-bankalarin-stres-testlerinde-degisiklik-fed-tarih-verdi-h37569",
-        "cnbce:https://www.cnbce.com/haberler/istanbul-havalimaninda-4-pist-acildi-ilk-ucusa-kalkis-iznini-cumhurbaskani-erdogan-verdi-h37567",
-        "cnbce:https://www.cnbce.com/haberler/irandan-fede-olay-yaratan-faiz-gondermesi-taylor-kuralini-hurmuz-icin-yeniden-yazdi-h37566",
-        "cnbce:https://www.cnbce.com/haberler/fon-krizinin-bilancosu-belli-oldu-tcmb-carsamba-gunu-5-milyar-dolar-doviz-satti-h37562",
-        "cnbce:https://www.cnbce.com/haberler/orman-alanlari-arsa-vasfina-gecirildi-haberlerine-dmmden-aciklama-h37552",
         "cnbce:https://www.cnbce.com/haberler/spkdan-7-portfoy-yonetim-sirketinin-fonlarina-tasfiye-karari-h37428",
         "cnbce:https://www.cnbce.com/piyasalar/merkez-bankasindan-likidite-kosullarina-yonelik-yeni-adimlar-h37417",
         "cnbce:https://www.cnbce.com/piyasalar/kap-aciklamasi-geldi-emlak-katilim-katilimevim-ve-birevimi-satin-almak-icin-gorusmelere-basladi-h37426",
         "cnbce:https://www.cnbce.com/haberler/bddk-bankalarin-hisse-geri-alimlarina-kolaylik-getirdi-h37460",
+        "cnbce:https://www.cnbce.com/haberler/istanbul-havalimaninda-4-pist-acildi-ilk-ucusa-kalkis-iznini-cumhurbaskani-erdogan-verdi-h37567",
+        "cnbce:https://www.cnbce.com/haberler/irandan-fede-olay-yaratan-faiz-gondermesi-taylor-kuralini-hurmuz-icin-yeniden-yazdi-h37566",
+        "cnbce:https://www.cnbce.com/haberler/fon-krizinin-bilancosu-belli-oldu-tcmb-carsamba-gunu-5-milyar-dolar-doviz-satti-h37562",
+        "cnbce:https://www.cnbce.com/haberler/orman-alanlari-arsa-vasfina-gecirildi-haberlerine-dmmden-aciklama-h37552",
         "cnbce:https://www.cnbce.com/haberler/akom-tarih-verdi-istanbula-saganak-geliyor-h37542",
         "cnbce:https://www.cnbce.com/haberler/pusula-finansta-emre-tezmen-dahil-2-yonetici-gorevinden-ayrildi-teradan-aciklama-h37538",
         "cnbce:https://www.cnbce.com/haberler/afrika-beklenenden-daha-hizli-bolunuyor-yeni-okyanusun-olusacagi-tarih-ortaya-cikti-h37529",
@@ -813,8 +829,16 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4061429",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-hizmet-ihracatinin-yuzde-56sini-dijital-hizmetler-olusturuyor/4060843",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-ortu-alti-uretimde-dunyada-dorduncu-avrupada-ikinci-siradayiz/4061341",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/volkswagende-kriz-derinlesiyor/4061572",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-italya-basbakan-yardimcisi-tajani-ve-italyan-is-dunyasinin-temsilcileriyle-gorustu/4061334",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-yeni-pistimiz-istanbulun-kuresel-hava-trafigindeki-iddiasini-daha-da-yuksege-tasiyacak/4061321",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-borsada-ve-piyasada-yapisal-sorun-yok/4060771",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turk-savunma-sanayisinde-ekosistem-vurgusu-/4061550",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4061429",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4061400",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-18-eylul-2026/4061263",
@@ -822,16 +846,11 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/sivil-havacilikta-emniyet-olaylarinin-zorunlu-ve-gonullu-raporlanmasina-dair-sistemler-guclendirilecek/4061121",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ato-baskani-baran-ankara-raporunu-cumhurbaskani-erdogana-sundu/4061087",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/volkswagen-direksiyon-sorunu-nedeniyle-abdde-208-binden-fazla-aracini-geri-cagiriyor/4061044",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/5-ab-ulkesinden-yeni-butcede-kesinti-cagrisi/4060899",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tuna-portfoyden-fon-sureclerine-iliskin-aciklama/4060993",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/orta-dogu-daki-petrol-soku-avro-bolgesinde-enflasyon-beklentilerini-artirdi/4060960",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-yollarindaki-elektrikli-otomobil-sayisi-470-bini-gecti/4060849",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-hizmet-ihracatinin-yuzde-56sini-dijital-hizmetler-olusturuyor/4060843",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bati-akdeniz-ihracatinda-almanya-pazari-yuzde-41-abd-yuzde-26-5-buyudu/4060867",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/5-ab-ulkesinden-yeni-butcede-kesinti-cagrisi/4060899",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-borsada-ve-piyasada-yapisal-sorun-yok/4060771",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-ortu-alti-uretimde-dunyada-dorduncu-avrupada-ikinci-siradayiz/4061341",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-yeni-pistimiz-istanbulun-kuresel-hava-trafigindeki-iddiasini-daha-da-yuksege-tasiyacak/4061321",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kamu-hizmeti-verilen-demir-yolu-hatlari-yeniden-duzenlendi/4060719",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dto-genel-direktoru-okonjo-iweala-kuresel-ticarette-80-yilin-en-buyuk-aksakliginin-yasandigini-belirtti/4060845",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/petrol-fiyatlarindaki-yukselis-abdde-akaryakit-maliyetleri-uzerinden-ekonomiyi-zorluyor/4060839",
@@ -868,18 +887,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/world-news/fitch-silinin-notunu-a-olarak-teyit-etti-93CH-4071843",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/first-atlantic-nickel-62-milyon-dolarlk-finansman-kapatt-93CH-4071902",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/world-news/fitch-silinin-notunu-a-olarak-teyit-etti-93CH-4071843",
-        "investing:https://tr.investing.com/news/stock-market-news/moodys-hsbcnin-notunu-teyit-etti-gorunumu-pozitife-cevirdi-93CH-4071842",
-        "investing:https://tr.investing.com/news/stock-market-news/boeing-ve-nasa-starliner-icin-10-yeni-gorev-gorusuyor--wsj-93CH-4071841",
-        "investing:https://tr.investing.com/news/stock-market-news/autonation-hissesi-neden-yeni-52-haftalk-dibe-indi-93CH-4071840",
-        "investing:https://tr.investing.com/news/company-news/molson-coors-hissesi-3773-dolarda-52-haftalk-dibe-vurdu-93CH-4071839",
-        "investing:https://tr.investing.com/news/stock-market-news/lam-research-hisseleri-neden-yukseliste-93CH-4071837",
-        "investing:https://tr.investing.com/news/stock-market-news/abd-iran-savas-nedeniyle-silah-teslimatlarnda-gecikme-yasanacagn-soyledi-93CH-4071836",
-        "investing:https://tr.investing.com/news/insider-trading-news/nutex-health-yoneticisi-scott-saunders-43492-dolar-degerinde-hisse-satt-93CH-4071835",
-        "investing:https://tr.investing.com/news/stock-market-news/trumpn-msnowu-yasaklamasnn-ardndan-versant-media-dustu-93CH-4071834",
-        "investing:https://tr.investing.com/news/stock-market-news/amsted-industries-veri-merkezi-talebiyle-baltimore-aircoili-satmay-degerlendiriyor--bloomberg-93CH-4071833",
+        "investing:https://tr.investing.com/news/company-news/first-atlantic-nickel-62-milyon-dolarlk-finansman-kapatt-93CH-4071902",
+        "investing:https://tr.investing.com/news/company-news/axion-minerals-440000-dolar-toplamak-icin-ozel-yerlestirme-planlyor-93CH-4071901",
+        "investing:https://tr.investing.com/news/company-news/reto-ecosolutions-15-milyon-dolarlk-halka-arz-tamamlad-93CH-4071900",
+        "investing:https://tr.investing.com/news/economy-news/japonya-merkez-bankas-faiz-artrd-kuresel-sklasma-sekilleniyor-93CH-4071899",
+        "investing:https://tr.investing.com/news/world-news/bolivya-senatosu-19-milyar-dolarlk-imf-anlasmasn-onaylad-93CH-4071898",
+        "investing:https://tr.investing.com/news/world-news/moodys-reform-ilerlemesi-nedeniyle-yunanistan-gorunumunu-pozitife-cevirdi-93CH-4071897",
+        "investing:https://tr.investing.com/news/company-news/inmed-nasdaqtan-ozkaynak-sart-konusunda-uyar-ald-93CH-4071896",
+        "investing:https://tr.investing.com/news/world-news/moodys-mozambikin-notunu-yeniden-yaplandrma-riski-nedeniyle-caa3e-dusurdu-93CH-4071895",
+        "investing:https://tr.investing.com/news/world-news/moodys-arnavutlukun-gorunumunu-mali-guc-nedeniyle-pozitife-cevirdi-93CH-4071894",
+        "investing:https://tr.investing.com/news/world-news/moodys-polonyann-kredi-notunu-mali-bozulma-nedeniyle-a3e-dusurdu-93CH-4071893",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -900,6 +919,16 @@
         "investing:https://tr.investing.com/analysis/3-ayda-99-getiren-yapay-zekann-eylul-portfoyu-200506025",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
         "investing:https://tr.investing.com/analysis/bist-endekslerinde-yeni-donem-hangi-hisseler-endeks-degisikligi-beklentisinde-200505994",
+        "investing:https://tr.investing.com/news/world-news/fitch-silinin-notunu-a-olarak-teyit-etti-93CH-4071843",
+        "investing:https://tr.investing.com/news/stock-market-news/moodys-hsbcnin-notunu-teyit-etti-gorunumu-pozitife-cevirdi-93CH-4071842",
+        "investing:https://tr.investing.com/news/stock-market-news/boeing-ve-nasa-starliner-icin-10-yeni-gorev-gorusuyor--wsj-93CH-4071841",
+        "investing:https://tr.investing.com/news/stock-market-news/autonation-hissesi-neden-yeni-52-haftalk-dibe-indi-93CH-4071840",
+        "investing:https://tr.investing.com/news/company-news/molson-coors-hissesi-3773-dolarda-52-haftalk-dibe-vurdu-93CH-4071839",
+        "investing:https://tr.investing.com/news/stock-market-news/lam-research-hisseleri-neden-yukseliste-93CH-4071837",
+        "investing:https://tr.investing.com/news/stock-market-news/abd-iran-savas-nedeniyle-silah-teslimatlarnda-gecikme-yasanacagn-soyledi-93CH-4071836",
+        "investing:https://tr.investing.com/news/insider-trading-news/nutex-health-yoneticisi-scott-saunders-43492-dolar-degerinde-hisse-satt-93CH-4071835",
+        "investing:https://tr.investing.com/news/stock-market-news/trumpn-msnowu-yasaklamasnn-ardndan-versant-media-dustu-93CH-4071834",
+        "investing:https://tr.investing.com/news/stock-market-news/amsted-industries-veri-merkezi-talebiyle-baltimore-aircoili-satmay-degerlendiriyor--bloomberg-93CH-4071833",
         "investing:https://tr.investing.com/news/stock-market-news/general-motors-hisseleri-neden-bugun-dusuyor-93CH-4071832",
         "investing:https://tr.investing.com/news/stock-market-news/partners-group-kredi-kredileri-icin-800-milyon-euroluk-fon-degerlendiriyor--bloomberg-93CH-4071829",
         "investing:https://tr.investing.com/news/stock-market-news/coinbase-hissesi-bugun-neden-yukseliyor-93CH-4071828",
@@ -1359,22 +1388,13 @@
         "investing:https://tr.investing.com/news/economy-news/citi-fedin-gelecek-hafta-yumusak-zam-yapacagn-ongoruyor-4063973",
         "investing:https://tr.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-203613-dolarlk-fsly-hissesi-satt-93CH-4063969",
         "investing:https://tr.investing.com/news/insider-trading-news/toro-18-holdings-universal-electronics-hisselerini-satt-93CH-4063968",
-        "investing:https://tr.investing.com/news/insider-trading-news/global-industrial-svp-claudia-hughes-3966-dolar-degerinde-hisse-ald-93CH-4063967",
-        "investing:https://tr.investing.com/news/insider-trading-news/marzetti-co-stratejik-dansman-100512-dolar-degerinde-hisse-satt-93CH-4063966",
-        "investing:https://tr.investing.com/news/economy-news/avrupallarn-tasarruf-sekli-ekonomiyi-etkiliyor-4063964",
-        "investing:https://tr.investing.com/news/insider-trading-news/ptc-therapeutics-yoneticisi-schmertzler-135-milyon-dolarlk-hisse-satt-93CH-4063963",
-        "investing:https://tr.investing.com/news/insider-trading-news/sharon-binnun-heritage-insurance-hisselerinden-221995-dolar-satt-93CH-4063962",
-        "investing:https://tr.investing.com/news/economy-news/lagarde-fransa-secim-tartsmasna-giriyor-ecbden-ayrlk-spekulasyonlar-artyor-4063960",
-        "investing:https://tr.investing.com/news/economy-news/husiler-kzldeniz-kysn-ele-gecirdi-petrol-riskleri-artt-4063957",
-        "investing:https://tr.investing.com/news/economy-news/burnham-butce-gunu-yaklasrken-ekonomik-snavla-kars-karsya-4063955",
-        "investing:https://tr.investing.com/news/economy-news/suudi-arabistan-husi-saldrs-sonras-petrol-hattn-kapatt-4063951",
-        "investing:https://tr.investing.com/news/insider-trading-news/nuscale-power-cfosu-hamady-189800-dolarlk-hisse-satt-93CH-4063950",
-        "investing:https://tr.investing.com/news/economy-news/ubs-cinli-otomobil-ureticileri-2030da-37-paya-ulasacak-4063948"
+        "investing:https://tr.investing.com/news/insider-trading-news/global-industrial-svp-claudia-hughes-3966-dolar-degerinde-hisse-ald-93CH-4063967"
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/piyasalarin-efsanesi-warren-buffett-gorevinden-ayrildi-1742437",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/iran-bankasi-bank-mellatin-turkiyedeki-faaliyet-izni-kaldirildi-1742478",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/iran-bankasi-bank-mellatin-turkiyedeki-faaliyet-izni-kaldirildi-1742478",
         "ntvpara:https://www.ntv.com.tr/ntvpara/piyasalarin-efsanesi-warren-buffett-gorevinden-ayrildi-1742437",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-calisma-saatleri-degisiyor-mu-bakan-simsek-gundeme-getirdi-esnek-calisma-gundeme-geldi-1742436",
         "ntvpara:https://www.ntv.com.tr/ntvpara/900-liraya-ucak-bileti-ustelik-yurt-disi-ucuslarda-1742408",
@@ -1636,8 +1656,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:4cec45081d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:03ae76296d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:03ae76296d9e8:0",
+        "tradingview:fxstreet:03c0ccf3fd9e8:0",
+        "tradingview:fxstreet:7897c068ed9e8:0",
+        "tradingview:fxstreet:aae2b992cd9e8:0",
         "tradingview:fxstreet:4cec45081d9e8:0",
         "tradingview:fxstreet:971911435d9e8:0",
         "tradingview:beincrypto:78824926dd9e8:0",
@@ -2050,6 +2074,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "birlesik devletler cftc petrol nc net pozisyonlar 135 9k beklenti 136 6k",
+      "link": "https://tr.tradingview.com/news/fxstreet:03ae76296d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya cftc aud nc net pozisyonlar 34 9k seviyesinden 38 9k seviyesine dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:03c0ccf3fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "birlesik krallik cftc gbp nc net pozisyonlar 58 8k seviyesinden 58 7k seviyesine art s gosterdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:7897c068ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya cftc jpy nc net pozisyonlar 10 8k seviyesinden 120 4k seviyesine artt",
+      "link": "https://tr.tradingview.com/news/fxstreet:aae2b992cd9e8:0"
+    },
+    {
+      "source": "ntvpara",
+      "text": "iran bankas bank mellat n turkiye deki faaliyet izni kald r ld bankac l k duzenleme denetleme kurulu bddk iran merkezli bank mellat n istanbul daki turkiye merkez subesi nin faaliyet izninin kald r lmas na karar verdi",
+      "link": "https://www.ntv.com.tr/ntvpara/iran-bankasi-bank-mellatin-turkiyedeki-faaliyet-izni-kaldirildi-1742478"
+    },
+    {
+      "source": "investing",
+      "text": "first atlantic nickel 6 2 milyon dolarl k finansman kapatt",
+      "link": "https://tr.investing.com/news/company-news/first-atlantic-nickel-62-milyon-dolarlk-finansman-kapatt-93CH-4071902"
+    },
+    {
+      "source": "investing",
+      "text": "axion minerals 440 000 dolar toplamak ozel yerlestirme planl yor",
+      "link": "https://tr.investing.com/news/company-news/axion-minerals-440000-dolar-toplamak-icin-ozel-yerlestirme-planlyor-93CH-4071901"
+    },
+    {
+      "source": "investing",
+      "text": "reto eco solutions 15 milyon dolarl k halka arz tamamlad",
+      "link": "https://tr.investing.com/news/company-news/reto-ecosolutions-15-milyon-dolarlk-halka-arz-tamamlad-93CH-4071900"
+    },
+    {
+      "source": "investing",
+      "text": "japonya merkez bankas faiz art rd kuresel s k lasma sekilleniyor",
+      "link": "https://tr.investing.com/news/economy-news/japonya-merkez-bankas-faiz-artrd-kuresel-sklasma-sekilleniyor-93CH-4071899"
+    },
+    {
+      "source": "investing",
+      "text": "bolivya senatosu 1 9 milyar dolarl k imf anlasmas n onaylad",
+      "link": "https://tr.investing.com/news/world-news/bolivya-senatosu-19-milyar-dolarlk-imf-anlasmasn-onaylad-93CH-4071898"
+    },
+    {
+      "source": "investing",
+      "text": "moody s reform ilerlemesi nedeniyle yunanistan gorunumunu pozitife cevirdi",
+      "link": "https://tr.investing.com/news/world-news/moodys-reform-ilerlemesi-nedeniyle-yunanistan-gorunumunu-pozitife-cevirdi-93CH-4071897"
+    },
+    {
+      "source": "investing",
+      "text": "inmed nasdaq tan ozkaynak sart konusunda uyar ald",
+      "link": "https://tr.investing.com/news/company-news/inmed-nasdaqtan-ozkaynak-sart-konusunda-uyar-ald-93CH-4071896"
+    },
+    {
+      "source": "investing",
+      "text": "moody s mozambik in notunu yeniden yap land rma riski nedeniyle caa3 e dusurdu",
+      "link": "https://tr.investing.com/news/world-news/moodys-mozambikin-notunu-yeniden-yaplandrma-riski-nedeniyle-caa3e-dusurdu-93CH-4071895"
+    },
+    {
+      "source": "investing",
+      "text": "moody s arnavutluk un gorunumunu mali guc nedeniyle pozitife cevirdi",
+      "link": "https://tr.investing.com/news/world-news/moodys-arnavutlukun-gorunumunu-mali-guc-nedeniyle-pozitife-cevirdi-93CH-4071894"
+    },
+    {
+      "source": "investing",
+      "text": "moody s polonya n n kredi notunu mali bozulma nedeniyle a3 e dusurdu",
+      "link": "https://tr.investing.com/news/world-news/moodys-polonyann-kredi-notunu-mali-bozulma-nedeniyle-a3e-dusurdu-93CH-4071893"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "volkswagen kriz derinlesiyor alman otomotiv ureticisi volkswagen luks spor otomobil markas porsche kaynakl milyarlarca avroluk deger dusuklugu kotulesen pazar kosullar nedeniyle kar marj hedeflerini sert sekilde dusurdu anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/volkswagende-kriz-derinlesiyor/4061572"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "ticaret bakan bolat italya basbakan yard mc s tajani italyan is dunyas n n temsilcileriyle gorustu ticaret bakan omer bolat italya d s ticaretten sorumlu basbakan yard mc s d sisleri bakan antonio tajani gorusmesinin yan s ra italyan is dunyas ndan temsilcilerle araya geldi anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-italya-basbakan-yardimcisi-tajani-ve-italyan-is-dunyasinin-temsilcileriyle-gorustu/4061334"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "turk savunma sanayisinde ekosistem vurgusu cumhurbaskanl g savunma sanayii baskan gorgun kaan 750 siper yaklas k bin firman n gorev yapt g n belirterek sistemler sistemi olan tum savunma sanayisi urunlerine platformlar na yeni tedarikciler olusturman n onemine dikkati",
+      "link": "https://www.aa.com.tr/tr/ekonomi/turk-savunma-sanayisinde-ekosistem-vurgusu-/4061550"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bddk dan banka faaliyet izni kald rma karar bankac l k duzenleme denetleme kurulu bddk bank mellat n istanbul daki merkez subesinin faaliyet izninin kald r lmas na karar verdi",
+      "link": "https://www.bloomberght.com/bddk-dan-bir-banka-icin-faaliyet-izni-kaldirma-karari-3788856"
+    },
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 19 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-19092026-3788855"
+    },
+    {
+      "source": "bloomberght",
+      "text": "savas dizel arz ndaki kay plar art rd bloomberg taraf ndan derlenen verilere gore iran savas nedeniyle orta dogu dan gunluk ortalama 770 bin varillik petrol arz kayb yasan rken rusya dan kaynaklanan kay p yaklas k 350 bin varil oldu dizel piyasas nda ise rusya n n ayl",
+      "link": "https://www.bloomberght.com/savas-dizel-arzindaki-kayiplari-artirdi-3788854"
+    },
+    {
+      "source": "bloomberght",
+      "text": "trump tan cnn ms now politico ya beyaz saray yasag abd baskan donald trump haber kanallar cnn ms now politico internet sitesinin surekli yalan haber yapt klar gerekcesiyle beyaz saray a erisiminin yasakland g n bildirdi",
+      "link": "https://www.bloomberght.com/trump-tan-cnn-ms-now-ve-politico-ya-beyaz-saray-yasagi-3788853"
+    },
+    {
+      "source": "bloomberght",
+      "text": "wp pentagon un ac klad g ndan daha fazla abd askeri oldu abd iran aras ndaki cat smalarda bugune kadar pentagon un kamuoyuna ac klad g ndan daha fazla abd askerinin hayat n kaybettigi iddia edildi",
+      "link": "https://www.bloomberght.com/wp-pentagon-un-acikladigindan-daha-fazla-abd-askeri-oldu-3788852"
+    },
+    {
+      "source": "bloomberght",
+      "text": "almanya ilk f 35 savas ucag n abd teslim ald abd ulkesinin ilk f 35 ucag n teslim alan almanya savunma bakan boris pistorius f 35 savas ucaklar n n al m yla alman hava kuvvetleri yeni donem baslad g n soyledi",
+      "link": "https://www.bloomberght.com/almanya-ilk-f-35-savas-ucagini-abd-de-teslim-aldi-3788851"
+    },
+    {
+      "source": "forinvest",
+      "text": "bank of america dan borsa istanbul dikkat ceken islemler bank of america corporation yuzde 100 kontrolundeki istirakleri merrill lynch international bofa securities bank of america national association uzerinden borsa istanbul 16 17 eylul 2026 tarih",
+      "link": "https://www.foreks.com/haber/detay/6aad6b5795016b5817e5ce5f/PICNEWS/tr/bank-of-america-dan-borsa-istanbul-da-dikkat-ceken-islemler-18-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "nam k kemal gokalp uc sirketteki yonetim kurulu gorevlerinden istifa etti uc sirketteki istifalar tek haberde birlestirerek soyle yazabiliriz",
+      "link": "https://www.foreks.com/haber/detay/6aad69d724008d7d43733da0/PICNEWS/tr/namik-kemal-gokalp-uc-sirketteki-yonetim-kurulu-gorevlerinden-istifa-etti-18-09-26"
+    },
+    {
+      "source": "kap",
+      "text": "reedr surdurulebilirlik raporu 2025 tsrs uyumlu surdurulebilirlik raporu sirket reeder teknoloji sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665620"
+    },
+    {
+      "source": "kap",
+      "text": "emvar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz sirketimiz taraf ndan ihrac edilmis olan trdemvk92679 isin kodlu kira sertifikas n n itfas hk sirket emlak varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665619"
+    },
+    {
+      "source": "kap",
+      "text": "tbarv finansal rapor sirket teb arval arac filo kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665618"
+    },
+    {
+      "source": "kap",
+      "text": "bls blsmd sirket genel bilgi formu sirket bulls yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665617"
+    },
     {
       "source": "tradingview",
       "text": "malezya ringgiti d s bask var ancak donus alan mevcut ocbc",
@@ -9399,156 +9573,6 @@
       "source": "investing",
       "text": "goldman sachs tesla n n teslimat tahminini dusurdu",
       "link": "https://tr.investing.com/news/analyst-ratings/goldman-sachs-teslann-teslimat-tahminini-dusurdu-93CH-4067248"
-    },
-    {
-      "source": "bloomberght",
-      "text": "resmi gazete bugun 16 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
-      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-16092026-3788330"
-    },
-    {
-      "source": "bloomberght",
-      "text": "iran savas n n pentagon a maliyeti 38 milyar dolara ulast abd kongresi butce ofisi iran savas n n pentagon a operasyonel maliyetinin 1 agustos itibar yla yaklas k 38 milyar dolara ulast g n cat smalar n devam etmesi halinde tutara her ay 2 ila 3 milyar dolar daha eklenebilecegini bildirdi",
-      "link": "https://www.bloomberght.com/iran-savasinin-pentagon-a-maliyeti-38-milyar-dolara-ulasti-3788329"
-    },
-    {
-      "source": "bloomberght",
-      "text": "abd senatosu nda kripto yasa tasar s clarity act reddedildi abd senatosu nda kripto para piyasas na yonelik kapsaml duzenlemeler iceren yasa tasar s clarity act reddedildi",
-      "link": "https://www.bloomberght.com/abd-senatosu-nda-kripto-yasa-tasarisi-clarity-act-reddedildi-3788328"
-    },
-    {
-      "source": "bloomberght",
-      "text": "spacex 22 eylul starship i ilk kez yorungeye yerlestirmeyi deneyecek spacex starship mega roketinin 14 test ucusunu gerceklestirmeye haz r spacex test ucusu s ras nda 10 bin internet uydusundan olusan ag na ucuncu nesil starlink uydular n n ilk grubunu yerlestirmeyi planl yor",
-      "link": "https://www.bloomberght.com/spacex-22-eylul-de-starship-i-ilk-kez-yorungeye-yerlestirmeyi-deneyecek-3788327"
-    },
-    {
-      "source": "kap",
-      "text": "balat paylar n geri al nmas na iliskin bildirim 15 09 2026 tarihli pay geri al m hakk nda sirket balatacilar balatacilik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663255"
-    },
-    {
-      "source": "kap",
-      "text": "pcilt paylar n geri al nmas na iliskin bildirim 15 09 2026 tarihli pay geri al m islemleri sirket pc iletisim medya hizmetleri sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663254"
-    },
-    {
-      "source": "trthaber",
-      "text": "bakan bolat esnaf m za 853 milyar lira finansman destegi kolayl g saglad k ticaret bakan omer bolat esnafa sunulan finansman desteklerine iliskin 480 milyar liras 3 y lda olmak uzere 23 y lda esnaf m za 853 milyar lira finansman destegi kolayl g saglad k tam 4 milyon 760 bin kez kullan m olmus ded",
-      "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-esnafimiza-853-milyar-lira-finansman-destegi-ve-kolayligi-sagladik-956936.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "turkiye nin dogal gaz ithalat temmuzda yuzde 21 72 azald turkiye nin dogal gaz ithalat temmuzda gecen y l n ayn ay na gore yuzde 21 72 azalarak yaklas k 3 milyar 63 milyon metrekup oldu",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-dogal-gaz-ithalati-temmuzda-yuzde-2172-azaldi-956933.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "petrol ithalat temmuzda yuzde 6 9 azald turkiye nin toplam petrol petrol urunleri ithalat temmuzda gecen y l n ayn ay na gore yuzde 6 9 azalarak 4 milyon 520 bin 968 ton oldu",
-      "link": "https://www.trthaber.com/haber/ekonomi/petrol-ithalati-temmuzda-yuzde-69-azaldi-956930.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "turkiye eticaret hacmi 4 5 trilyon liray gecti ticaret bakan omer bolat turkiye e ticaret hacminin 2025 itibar yla 4 5 trilyon liray gectigini ifade etti",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-e-ticaret-hacmi-45-trilyon-lirayi-gecti-956928.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "borsa gunu dususle tamamlad borsa istanbul bist 100 endeksi gunu yuzde 2 41 deger kaybederek 13 892 30 puandan tamamlad",
-      "link": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-dususle-tamamladi-956927.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "cocuklar 2 milyar 186 milyon liral k sed odemesi cocuklar n sosyal ac dan desteklenmesi egitimde f rsat esitliginin saglanmas eylul ay na iliskin 2 milyar 186 milyon lira tutar ndaki sosyal ekonomik destek sed odemesi hesaplara yatt",
-      "link": "https://www.trthaber.com/haber/ekonomi/cocuklar-icin-2-milyar-186-milyon-liralik-sed-odemesi-956893.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "tar m ufe agustosta azald tar m urunleri uretici fiyat endeksi tar m ufe agustosta onceki aya gore yuzde 0 93 azal rken gecen y l n ayn ay na k yasla yuzde 21 91 artt",
-      "link": "https://www.trthaber.com/haber/ekonomi/tarim-ufe-agustosta-azaldi-956872.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "hizmet uretim endeksi temmuzda artt hizmet uretim endeksi temmuzda y ll k bazda yuzde 3 ayl k bazda yuzde 1 art s gosterdi",
-      "link": "https://www.trthaber.com/haber/ekonomi/hizmet-uretim-endeksi-temmuzda-artti-956868.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "gram alt nda dusus suruyor gram alt n gune dususle baslamas n n ard ndan 6 bin 707 liradan islem goruyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/gram-altinda-dusus-suruyor-956863.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "evde bak m odemeleri ailelerin hesaplar na yat r ld evlerinde bak lan tam bag ml vatandaslara ailelerine ekonomik destek saglamak amac yla ay toplam 7 7 milyar lira evde bak m yard m hesaplara yat r ld",
-      "link": "https://www.trthaber.com/haber/ekonomi/evde-bakim-odemeleri-ailelerin-hesaplarina-yatirildi-956861.html"
-    },
-    {
-      "source": "ntvpara",
-      "text": "pusula portfoy fonlar temerrude dustu pusula portfoy yonetimi kurucu oldugu baz yat r m fonlar n n kat lma pay iade odemelerinin temerrude dustugunu ac klad",
-      "link": "https://www.ntv.com.tr/ntvpara/pusula-portfoy-fonlari-temerrude-dustu-1741965"
-    },
-    {
-      "source": "ntvpara",
-      "text": "ikinci el telefon sirketinin sitesine ulas lamad musteriler panikledi sirketin patronu konustu cep telefonu al m sat m isi yapan easycep in kurumsal web sitesinin kapal olmas nedeniyle panikleyenler solugu sosyal medyada ald sirketin patronu yoneltilen iddialara ac klama yapt",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-ikinci-el-telefon-sirketinin-sitesine-ulasilamadi-musteriler-panikledi-sirketin-patronu-konustu-1741964"
-    },
-    {
-      "source": "investing",
-      "text": "co diagnostics readygo teknoloji degerlendirme anlasmas imzalad",
-      "link": "https://tr.investing.com/news/sec-filings/codiagnostics-readygo-ile-teknoloji-degerlendirme-anlasmas-imzalad-93CH-4067161"
-    },
-    {
-      "source": "investing",
-      "text": "tempest therapeutics hisseleri senlang car t anlasmas yla yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/tempest-therapeutics-hisseleri-senlang-cart-anlasmasyla-yukseldi-93CH-4067157"
-    },
-    {
-      "source": "investing",
-      "text": "tempest therapeutics car t platformu opsiyon anlasmas imzalad",
-      "link": "https://tr.investing.com/news/company-news/tempest-therapeutics-cart-platformu-icin-opsiyon-anlasmas-imzalad-93CH-4067154"
-    },
-    {
-      "source": "investing",
-      "text": "almanya planet ten ozel uydu hizmetleri ald",
-      "link": "https://tr.investing.com/news/company-news/almanya-planetten-ozel-uydu-hizmetleri-ald-93CH-4067153"
-    },
-    {
-      "source": "investing",
-      "text": "bluelinx rdi korkuluk dag t m n 21 lokasyona c kar yor",
-      "link": "https://tr.investing.com/news/company-news/bluelinx-rdi-korkuluk-dagtmn-21-lokasyona-ckaryor-93CH-4067152"
-    },
-    {
-      "source": "investing",
-      "text": "sabre 1 35 milyar dolarl k tahvil ihrac n 9 875 faizle fiyatlad",
-      "link": "https://tr.investing.com/news/company-news/sabre-135-milyar-dolarlk-tahvil-ihracn-9875-faizle-fiyatlad-93CH-4067151"
-    },
-    {
-      "source": "investing",
-      "text": "kilroy realty hisse bas na 0 54 dolar temettu ac klad",
-      "link": "https://tr.investing.com/news/company-news/kilroy-realty-hisse-basna-054-dolar-temettu-acklad-93CH-4067150"
-    },
-    {
-      "source": "investing",
-      "text": "credit acceptance kredi tesisini 2028 e uzatt",
-      "link": "https://tr.investing.com/news/company-news/credit-acceptance-kredi-tesisini-2028e-uzatt-93CH-4067149"
-    },
-    {
-      "source": "investing",
-      "text": "american eagle ceyreklik 0 125 dolar temettu ac klad",
-      "link": "https://tr.investing.com/news/company-news/american-eagle-ceyreklik-0125-dolar-temettu-acklad-93CH-4067148"
-    },
-    {
-      "source": "investing",
-      "text": "tfi international 0 47 dolar temettu ac klad",
-      "link": "https://tr.investing.com/news/company-news/tfi-international-047-dolar-temettu-acklad-93CH-4067147"
-    },
-    {
-      "source": "bloomberght",
-      "text": "rusya dan trump n enerji ateskesi teklifine yan t rusya d sisleri bakanl g sozcusu mariya zaharova trump n rusya ukrayna aras nda enerji ateskesi teklifinin somut ad mlara donusturulmesi gerektigini belirterek moskova n n ateskeslere uydugunu ancak ayn durumun kiev gecerli",
-      "link": "https://www.bloomberght.com/rusya-dan-trump-in-enerji-ateskesi-teklifine-yanit-3788326"
-    },
-    {
-      "source": "kap",
-      "text": "klypv kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 sirket kalyon gunes teknolojileri uretim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663253"
     }
   ],
   "research_reports_v8": {
