@@ -834,8 +834,13 @@
       "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-borsada-ve-piyasada-yapisal-sorun-yok/4060771",
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-borsada-ve-piyasada-yapisal-sorun-yok/4060771",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kucukbas-hayvan-varligindaki-yukselis-yetistiriciyi-memnun-etti/4061631",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/volkswagende-kriz-derinlesiyor/4061572",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-italya-basbakan-yardimcisi-tajani-ve-italyan-is-dunyasinin-temsilcileriyle-gorustu/4061334",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-ortu-alti-uretimde-dunyada-dorduncu-avrupada-ikinci-siradayiz/4061341",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-yeni-pistimiz-istanbulun-kuresel-hava-trafigindeki-iddiasini-daha-da-yuksege-tasiyacak/4061321",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-findik-piyasasina-yonelik-denetim-baslatti/4061652",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turk-savunma-sanayisinde-ekosistem-vurgusu-/4061550",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4061429",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4061400",
@@ -846,10 +851,6 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/volkswagen-direksiyon-sorunu-nedeniyle-abdde-208-binden-fazla-aracini-geri-cagiriyor/4061044",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/5-ab-ulkesinden-yeni-butcede-kesinti-cagrisi/4060899",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tuna-portfoyden-fon-sureclerine-iliskin-aciklama/4060993",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kucukbas-hayvan-varligindaki-yukselis-yetistiriciyi-memnun-etti/4061631",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/volkswagende-kriz-derinlesiyor/4061572",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-italya-basbakan-yardimcisi-tajani-ve-italyan-is-dunyasinin-temsilcileriyle-gorustu/4061334",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-hizmet-ihracatinin-yuzde-56sini-dijital-hizmetler-olusturuyor/4060843",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/orta-dogu-daki-petrol-soku-avro-bolgesinde-enflasyon-beklentilerini-artirdi/4060960",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-yollarindaki-elektrikli-otomobil-sayisi-470-bini-gecti/4060849",
@@ -1659,8 +1660,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:fae23a07cd9e8:0",
+      "last_seen_key": "tradingview:beincrypto:647670636d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:647670636d9e8:0",
         "tradingview:fxstreet:fae23a07cd9e8:0",
         "tradingview:fxstreet:ff6dfa5fcd9e8:0",
         "tradingview:fxstreet:f439fd5d5d9e8:0",
@@ -2088,6 +2090,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "bitcoin robinhood islemde 2 spread trader lar neden endiselendiriyor",
+      "link": "https://tr.tradingview.com/news/beincrypto:647670636d9e8:0"
+    },
     {
       "source": "investing",
       "text": "synaptics baskan yard mc s 5 835 dolarl k hisse satt",
@@ -9582,11 +9589,6 @@
       "source": "investing",
       "text": "ibex ltd coo su david afdahl 433 482 dolar degerinde hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/ibex-ltd-coosu-david-afdahl-433482-dolar-degerinde-hisse-satt-93CH-4067310"
-    },
-    {
-      "source": "investing",
-      "text": "inhibrx yoneticisi kimberly manhard 163 542 dolar degerinde hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/inhibrx-yoneticisi-kimberly-manhard-163542-dolar-degerinde-hisse-satt-93CH-4067309"
     }
   ],
   "research_reports_v8": {
