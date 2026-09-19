@@ -926,8 +926,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/citi-sahin-fed-yapay-zeka-ds-ekonomiyi-yavaslatacak-4072061",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-endiseleri-yapay-zeka-patlamasn-bitirir-mi-4072067",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-endiseleri-yapay-zeka-patlamasn-bitirir-mi-4072067",
+        "investing:https://tr.investing.com/news/stock-market-news/analist-buyuk-dususe-ragmen-nike-hissesinden-uzak-durulmasn-oneriyor-4072065",
         "investing:https://tr.investing.com/news/economy-news/citi-sahin-fed-yapay-zeka-ds-ekonomiyi-yavaslatacak-4072061",
         "investing:https://tr.investing.com/news/stock-market-news/spacexin-nasdaq-100deki-agrlg-ceyreklik-yeniden-dengelemede-282ye-scrayacak-4072060",
         "investing:https://tr.investing.com/news/economy-news/trump-federal-yz-gucu-kurma-planlarn-duyurdu-4072058",
@@ -936,8 +938,6 @@
         "investing:https://tr.investing.com/news/economy-news/ab-ukraynann-27-milyar-dolarlk-acgn-kapatmak-istiyor-4072052",
         "investing:https://tr.investing.com/news/economy-news/ecb-enflasyonda-tetikte-olmal-ancak-aceleci-faiz-admlarndan-kacnmal-4072050",
         "investing:https://tr.investing.com/news/general-news/abd-ve-cin-ust-duzey-yetkilileri-new-yorkta-gorusecek-4072047",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpro-koc-holdingin-2024teki-43luk-kazancn-nasl-tespit-etti-93CH-4072045",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpro-bigtkdaki-57lik-dususu-13-ay-onceden-nasl-gordu-93CH-4072044",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -958,6 +958,8 @@
         "investing:https://tr.investing.com/analysis/3-ayda-99-getiren-yapay-zekann-eylul-portfoyu-200506025",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
         "investing:https://tr.investing.com/analysis/bist-endekslerinde-yeni-donem-hangi-hisseler-endeks-degisikligi-beklentisinde-200505994",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-koc-holdingin-2024teki-43luk-kazancn-nasl-tespit-etti-93CH-4072045",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-bigtkdaki-57lik-dususu-13-ay-onceden-nasl-gordu-93CH-4072044",
         "investing:https://tr.investing.com/news/investment-ideas/geopark-investingpronun-deger-tespitinden-sonra-67-getiri-saglad-93CH-4072043",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-degeri-sterling-infrastructuren-40-dususunu-ongordu-93CH-4072042",
         "investing:https://tr.investing.com/news/company-news/anduril-trumpn-tayvan-silah-satsn-geciktirmesi-isimize-zarar-veriyor-4072038",
@@ -1425,9 +1427,7 @@
         "investing:https://tr.investing.com/news/sec-filings/centerpoint-energy-musteri-veri-ihlali-bildirdi-hizmetler-devam-ediyor-93CH-4065595",
         "investing:https://tr.investing.com/news/company-news/ascendis-pharma-400-milyon-dolarlk-geri-alm-program-onaylad-93CH-4065594",
         "investing:https://tr.investing.com/news/sec-filings/xcf-global-birlesme-anlasmasn-degistirdi-93CH-4065485",
-        "investing:https://tr.investing.com/news/company-news/dlocal-uyumluluk-operasyonlar-icin-oscilar-secti-93CH-4065484",
-        "investing:https://tr.investing.com/news/stock-market-news/enova-hisseleri-grasshopper-satn-alma-teklifini-cekmesiyle-dustu-93CH-4065482",
-        "investing:https://tr.investing.com/news/transcripts/apollo-barclays-konferansnda-yapay-zeka-finansman-ve-ozel-kredi-93CH-4065481"
+        "investing:https://tr.investing.com/news/company-news/dlocal-uyumluluk-operasyonlar-icin-oscilar-secti-93CH-4065484"
       ]
     },
     "ntvpara": {
@@ -2172,6 +2172,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "yapay zeka endiseleri yapay zeka patlamas n bitirir",
+      "link": "https://tr.investing.com/news/stock-market-news/yapay-zeka-endiseleri-yapay-zeka-patlamasn-bitirir-mi-4072067"
+    },
+    {
+      "source": "investing",
+      "text": "analist buyuk dususe ragmen nike hissesinden uzak durulmas n oneriyor",
+      "link": "https://tr.investing.com/news/stock-market-news/analist-buyuk-dususe-ragmen-nike-hissesinden-uzak-durulmasn-oneriyor-4072065"
+    },
     {
       "source": "tradingview",
       "text": "rex bitcoin hazine sirketi strive a bagl 2 kat kald racl etf yi piyasaya surdu",
@@ -9661,16 +9671,6 @@
       "source": "matriks",
       "text": "gunluk piyasa ozeti garanti bbva yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6745010:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk bulten tskb ekonomik arast rmalar",
-      "link": "https://tr.tradingview.com/news/matriks:6745007:0"
-    },
-    {
-      "source": "matriks",
-      "text": "stellantis ticari arac birimi stellantis pro one yeni konseptini hayata gecirmeye haz rlan yor",
-      "link": "https://tr.tradingview.com/news/matriks:6744996:0"
     }
   ],
   "research_reports_v8": {
