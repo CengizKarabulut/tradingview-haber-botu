@@ -399,8 +399,13 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aada70295016b5817e5cfe3/PICNEWS/tr/dbrs-fransa-nin-ve-moody-s-polonya-nin-notunu-kirdil-19-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aae1dab24008d7d437340d1/PICNEWS/tr/golden-global-portfoy-de-6-fon-icin-tasfiye-sureci-belli-oldu-19-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6aae1dab24008d7d437340d1/PICNEWS/tr/golden-global-portfoy-de-6-fon-icin-tasfiye-sureci-belli-oldu-19-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aae19ea95016b5817e5d197/PICNEWS/tr/motorine-indirim-fiyat-100-tl-nin-altina-dondu-19-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aae171795016b5817e5d18e/PICNEWS/tr/bddk-iran-merkezli-bankanin-istanbul-subesinin-faaliyet-iznini-kaldirdi-19-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aae14ca24008d7d437340c1/PICNEWS/tr/resmi-gazete-de-bugun-19-eylul-19-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6aadaa2824008d7d43733fa0/PICNEWS/tr/trump-iran-la-savas-yakinda-bitebilir-19-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aada70295016b5817e5cfe3/PICNEWS/tr/dbrs-fransa-nin-ve-moody-s-polonya-nin-notunu-kirdil-19-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aad6d0c95016b5817e5ce6c/PICNEWS/tr/kordsa-sermaye-artirimina-gidiyor-18-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aad6b5795016b5817e5ce5f/PICNEWS/tr/bank-of-america-dan-borsa-istanbul-da-dikkat-ceken-islemler-18-09-26/",
@@ -2118,6 +2123,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "forinvest",
+      "text": "golden global portfoy 6 fon tasfiye sureci belli oldu golden global portfoy un kurucusu oldugu 6 fonun tasfiye edilmesine yonelik talep sermaye piyasas kurulu nun spk 16 eylul 2026 tarih 56 1693 say l toplant s nda olumlu kars land fonlar n tas",
+      "link": "https://www.foreks.com/haber/detay/6aae1dab24008d7d437340d1/PICNEWS/tr/golden-global-portfoy-de-6-fon-icin-tasfiye-sureci-belli-oldu-19-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "motorine indirim fiyat 100 tl nin alt na dondu uluslararas piasalarda ham petrol fiyatlar n n miktar geri cekilmesinin destegi motorin fiyatlar nda 4 10 tl indirim yap ld",
+      "link": "https://www.foreks.com/haber/detay/6aae19ea95016b5817e5d197/PICNEWS/tr/motorine-indirim-fiyat-100-tl-nin-altina-dondu-19-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "bddk iran merkezli bankan n istanbul subesinin faaliyet iznini kald rd bddk bank mellat n istanbul subesinin faaliyet iznini kald rd",
+      "link": "https://www.foreks.com/haber/detay/6aae171795016b5817e5d18e/PICNEWS/tr/bddk-iran-merkezli-bankanin-istanbul-subesinin-faaliyet-iznini-kaldirdi-19-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "resmi gazete bugun 19 eylul yurutme idare bolumuyonetmelikler",
+      "link": "https://www.foreks.com/haber/detay/6aae14ca24008d7d437340c1/PICNEWS/tr/resmi-gazete-de-bugun-19-eylul-19-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "trump iran la savas yak nda bitebilir abd baskan donald trump abd nin iran la savas kolayca kazand g n belirterek cat sman n yak nda sona ermesini bekledigini soyledi",
+      "link": "https://www.foreks.com/haber/detay/6aadaa2824008d7d43733fa0/PICNEWS/tr/trump-iran-la-savas-yakinda-bitebilir-19-09-26"
+    },
     {
       "source": "ntvpara",
       "text": "aramco avrupa ya petrol sevkiyat n durdurdu iran destekli husilerin hedef ald g suudi arabistan n milli petrol sirketi saudi aramco avrupa daki en az iki rafineriye gelecek ay ham petrol sevkiyat yap lmayacag n bildirdi",
@@ -9592,31 +9622,6 @@
       "source": "kap",
       "text": "tezol paylar n geri al nmas na iliskin bildirim pay geri al m islemleri sirket europap tezol kagit sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1663256"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dolar endeksi fed faiz oran karar oncesinde deger kazand",
-      "link": "https://tr.tradingview.com/news/fxstreet:825a75e6ed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro fed karar oncesinde usd bogalar n n kontrolu elinde tutmas yla ayl k dusuk seviyeye yak n kay plar n surduruyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:cc6350aecd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiliz sterlini yat r mc lar ingiltere tufe verisi fed in faiz karar n beklerken 1 3500 seviyesinin alt nda zay fl yor",
-      "link": "https://tr.tradingview.com/news/fxstreet:96b43dfb5d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7670 seviyesine k yasla 6 7628 olarak belirledi",
-      "link": "https://tr.tradingview.com/news/fxstreet:bb195008ad9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar fed oncesinde yukselen petrol fiyatlar n dengeleyen yukselis yonlu abd dolar nedeniyle iki haftan n en dusuk seviyesi yak nlar nda seyrediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:80f49ff75d9e8:0"
     }
   ],
   "research_reports_v8": {
