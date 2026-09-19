@@ -403,8 +403,9 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aae21fe24008d7d437340d9/PICNEWS/tr/oracle-baglantili-18-milyar-dolarlik-veri-merkezi-kredileri-baski-altinda-19-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6aae238195016b5817e5d1a3/PICNEWS/tr/elektrikli-arac-sarjinda-tuketim-bir-ayda-yuzde-8-36-artti-19-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6aae238195016b5817e5d1a3/PICNEWS/tr/elektrikli-arac-sarjinda-tuketim-bir-ayda-yuzde-8-36-artti-19-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aae21fe24008d7d437340d9/PICNEWS/tr/oracle-baglantili-18-milyar-dolarlik-veri-merkezi-kredileri-baski-altinda-19-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aae205c95016b5817e5d1a0/PICNEWS/tr/abd-danimarka-ve-gronland-ile-anlasti-askeri-varligini-artiracak-19-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6aae1fe695016b5817e5d19f/PICNEWS/tr/abd-den-ukrayna-ya-2-7-milyar-dolarlik-hava-savunma-paketi-onayi-19-09-26/",
@@ -2161,6 +2162,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "forinvest",
+      "text": "elektrikli arac sarj nda tuketim ayda yuzde 8 36 artt openai n bilgi islem gucu altyap harcamalar n art r rken 2026 2030 doneminde toplam 278 milyar dolar negatif serbest nakit ak s yaratmay bekledigi bildirildi sirketin ayn donemde gelirlerin openai n bilgi islem gucu altyap harcamalar n art r rken 2026 2030 doneminde toplam 278 milyar dolar negatif serbest nakit ak s yaratmay bekledigi bildirildi sirketin ayn donemde gelirlerin",
+      "link": "https://www.foreks.com/haber/detay/6aae238195016b5817e5d1a3/PICNEWS/tr/elektrikli-arac-sarjinda-tuketim-bir-ayda-yuzde-8-36-artti-19-09-26"
+    },
     {
       "source": "bloomberght",
       "text": "iran dan abd ye hurmuz yalanlamas iran abd nin hurmuz bogaz ndan 1 milyar varilden fazla ham petrolun gectigi yonundeki iddialar n yalanlad",
@@ -9655,11 +9661,6 @@
       "source": "matriks",
       "text": "fx fikirleri tacirler yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6744914:0"
-    },
-    {
-      "source": "matriks",
-      "text": "alman milletvekili frei benzin uzerindeki sat s vergisini dusurmek at lmas gereken somut ad m olur",
-      "link": "https://tr.tradingview.com/news/matriks:6744913:0"
     }
   ],
   "research_reports_v8": {
