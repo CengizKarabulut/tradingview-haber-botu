@@ -594,13 +594,13 @@
         "cnbce:https://www.cnbce.com/dunya/putinden-ukrayna-aciklamasi-muzakere-etmek-istemiyorlar-h37588",
         "cnbce:https://www.cnbce.com/haberler/bank-mellatin-istanbul-subesinin-faaliyet-izni-kaldirildi-h37587",
         "cnbce:https://www.cnbce.com/teknoloji/pentagon-ufo-dosyalarini-acti-1952den-gizemli-goruntuler-ortaya-cikti-h37585",
-        "cnbce:https://www.cnbce.com/haberler/fon-krizinin-bilancosu-belli-oldu-tcmb-carsamba-gunu-5-milyar-dolar-doviz-satti-h37562",
         "cnbce:https://www.cnbce.com/dunya/abd-iran-catismalarinda-carpici-iddia-asker-kayiplari-aciklanandan-fazla-h37584",
         "cnbce:https://www.cnbce.com/haberler/fedden-svb-itirafi-bankanin-risklerini-iflastan-once-biliyorduk-fedden-svb-aciklamasi-kirilganliklari-biliyorlardi-harekete-gecmediler-h37577",
         "cnbce:https://www.cnbce.com/haberler/ticaret-bakanligi-harekete-gecti-findik-piyasasinda-4-noktada-denetim-findik-piyasasinda-kritik-gelisme-bakanlik-mufettis-gorevlendirdi-h37574",
         "cnbce:https://www.cnbce.com/haberler/buyuk-bankalarin-stres-testlerinde-degisiklik-fed-tarih-verdi-h37569",
         "cnbce:https://www.cnbce.com/haberler/istanbul-havalimaninda-4-pist-acildi-ilk-ucusa-kalkis-iznini-cumhurbaskani-erdogan-verdi-h37567",
         "cnbce:https://www.cnbce.com/haberler/irandan-fede-olay-yaratan-faiz-gondermesi-taylor-kuralini-hurmuz-icin-yeniden-yazdi-h37566",
+        "cnbce:https://www.cnbce.com/haberler/fon-krizinin-bilancosu-belli-oldu-tcmb-carsamba-gunu-5-milyar-dolar-doviz-satti-h37562",
         "cnbce:https://www.cnbce.com/haberler/orman-alanlari-arsa-vasfina-gecirildi-haberlerine-dmmden-aciklama-h37552",
         "cnbce:https://www.cnbce.com/haberler/akom-tarih-verdi-istanbula-saganak-geliyor-h37542",
         "cnbce:https://www.cnbce.com/haberler/pusula-finansta-emre-tezmen-dahil-2-yonetici-gorevinden-ayrildi-teradan-aciklama-h37538",
@@ -928,8 +928,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-guvenligi-calsmalar-daha-fazla-hesaplama-gucu-gerektirecek-4072070",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/pfizer-yurtds-ilac-gelirini-hhs-ile-paylasacak-4072073",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/pfizer-yurtds-ilac-gelirini-hhs-ile-paylasacak-4072073",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-guvenligi-calsmalar-daha-fazla-hesaplama-gucu-gerektirecek-4072070",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-endiseleri-yapay-zeka-patlamasn-bitirir-mi-4072067",
         "investing:https://tr.investing.com/news/stock-market-news/analist-buyuk-dususe-ragmen-nike-hissesinden-uzak-durulmasn-oneriyor-4072065",
@@ -939,7 +940,6 @@
         "investing:https://tr.investing.com/news/economy-news/fed-arz-sokuna-ragmen-neden-faiz-artrd-4072056",
         "investing:https://tr.investing.com/news/company-news/ares-management-copenhagen-infrastructure-partnersta-aznlk-hissesi-icin-gorusuyor-4072054",
         "investing:https://tr.investing.com/news/economy-news/ab-ukraynann-27-milyar-dolarlk-acgn-kapatmak-istiyor-4072052",
-        "investing:https://tr.investing.com/news/economy-news/ecb-enflasyonda-tetikte-olmal-ancak-aceleci-faiz-admlarndan-kacnmal-4072050",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -960,6 +960,7 @@
         "investing:https://tr.investing.com/analysis/3-ayda-99-getiren-yapay-zekann-eylul-portfoyu-200506025",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
         "investing:https://tr.investing.com/analysis/bist-endekslerinde-yeni-donem-hangi-hisseler-endeks-degisikligi-beklentisinde-200505994",
+        "investing:https://tr.investing.com/news/economy-news/ecb-enflasyonda-tetikte-olmal-ancak-aceleci-faiz-admlarndan-kacnmal-4072050",
         "investing:https://tr.investing.com/news/general-news/abd-ve-cin-ust-duzey-yetkilileri-new-yorkta-gorusecek-4072047",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-koc-holdingin-2024teki-43luk-kazancn-nasl-tespit-etti-93CH-4072045",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-bigtkdaki-57lik-dususu-13-ay-onceden-nasl-gordu-93CH-4072044",
@@ -1428,8 +1429,7 @@
         "investing:https://tr.investing.com/news/transcripts/zevra-morgan-stanley-konferansnda-nadir-hastalk-pazar-daha-buyuk-gorunuyor-93CH-4065598",
         "investing:https://tr.investing.com/news/company-news/twenty-mile-metals-2-milyon-kanada-dolar-icin-ozel-yerlestirme-planlyor-93CH-4065597",
         "investing:https://tr.investing.com/news/sec-filings/centerpoint-energy-musteri-veri-ihlali-bildirdi-hizmetler-devam-ediyor-93CH-4065595",
-        "investing:https://tr.investing.com/news/company-news/ascendis-pharma-400-milyon-dolarlk-geri-alm-program-onaylad-93CH-4065594",
-        "investing:https://tr.investing.com/news/sec-filings/xcf-global-birlesme-anlasmasn-degistirdi-93CH-4065485"
+        "investing:https://tr.investing.com/news/company-news/ascendis-pharma-400-milyon-dolarlk-geri-alm-program-onaylad-93CH-4065594"
       ]
     },
     "ntvpara": {
@@ -2174,6 +2174,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "pfizer yurtd s ilac gelirini hhs paylasacak",
+      "link": "https://tr.investing.com/news/company-news/pfizer-yurtds-ilac-gelirini-hhs-ile-paylasacak-4072073"
+    },
     {
       "source": "investing",
       "text": "yapay zeka guvenligi cal smalar daha fazla hesaplama gucu gerektirecek",
@@ -9668,11 +9673,6 @@
       "source": "matriks",
       "text": "fx bulten seker yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6745014:0"
-    },
-    {
-      "source": "matriks",
-      "text": "bilanco analizi gubrf gedik yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6745011:0"
     }
   ],
   "research_reports_v8": {
