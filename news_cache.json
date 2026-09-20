@@ -620,7 +620,7 @@
         "cnbce:https://www.cnbce.com/borsa/morgan-stanleyden-borsa-istanbul-icin-kritik-mesaj-krize-ragmen-tepki-sinirli-h37522",
         "cnbce:https://www.cnbce.com/dunya/trumpin-gronland-anlasmasi-sonrasi-danimarkadan-ilk-aciklama-h37650",
         "cnbce:https://www.cnbce.com/dunya/zelenskiy-duyurdu-trump-ile-gorusme-tarihi-belli-oldu-h37649",
-        "cnbce:https://www.cnbce.com/haberler/sermaye-piyasasi-sorusturmasinda-yeni-gozalti-doga-sigorta-baskani-nihat-kirmizi-gozaltinda-h37647",
+        "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasi-genisliyor-nihat-kirmizi-ve-2-tera-yoneticisi-gozaltinda-h37647",
         "cnbce:https://www.cnbce.com/haberler/gida-fiyatlarinda-kritik-yukselis-2022den-bu-yana-en-yuksek-seviyede-h37643",
         "cnbce:https://www.cnbce.com/haberler/yargitaydan-milyonlari-ilgilendiren-nafaka-karari-geliri-denk-olana-nafaka-yok-h37641",
         "cnbce:https://www.cnbce.com/dunya/iran-ve-abd-arasinda-gerilim-tirmaniyor-tahrandan-yeni-saldiri-uyarisi-h37638",
@@ -644,6 +644,7 @@
         "cnbce:https://www.cnbce.com/teknoloji/pentagon-ufo-dosyalarini-acti-1952den-gizemli-goruntuler-ortaya-cikti-h37585",
         "cnbce:https://www.cnbce.com/dunya/abd-iran-catismalarinda-carpici-iddia-asker-kayiplari-aciklanandan-fazla-h37584",
         "cnbce:https://www.cnbce.com/haberler/fedden-svb-itirafi-bankanin-risklerini-iflastan-once-biliyorduk-fedden-svb-aciklamasi-kirilganliklari-biliyorlardi-harekete-gecmediler-h37577",
+        "cnbce:https://www.cnbce.com/haberler/sermaye-piyasasi-sorusturmasinda-yeni-gozalti-doga-sigorta-baskani-nihat-kirmizi-gozaltinda-h37647",
         "cnbce:https://www.cnbce.com/borsa/borsanin-yeni-enerji-sirketinden-950-milyon-tllil-siparis-duyurusu-h37515",
         "cnbce:https://www.cnbce.com/haberler/ticaret-bakanligi-harekete-gecti-findik-piyasasinda-4-noktada-denetim-findik-piyasasinda-kritik-gelisme-bakanlik-mufettis-gorevlendirdi-h37574",
         "cnbce:https://www.cnbce.com/haberler/buyuk-bankalarin-stres-testlerinde-degisiklik-fed-tarih-verdi-h37569",
@@ -944,13 +945,13 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-yaklasik-4-yilin-en-yuksek-seviyesinde-seyrediyor/4062374",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-is-dunyasi-cop31-icin-new-yorkta-bulusacak/4062432",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-is-dunyasi-cop31-icin-new-yorkta-bulusacak/4062432",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-yaklasik-4-yilin-en-yuksek-seviyesinde-seyrediyor/4062374",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbulda-agustosta-en-cok-palamut-satildi/4062387",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/iklim-krizi-ve-jeopolitik-gerilimler-alternatif-yakitlara-yonelimi-hizlandiriyor/4062381",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/fedin-faiz-artirdigi-haftada-emtia-fiyatlari-ayristi/4062369",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-is-dunyasi-cop31-icin-new-yorkta-bulusacak/4062432",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-ucus-sayisinda-dunyada-ilk-5te-avrupada-zirvede/4062528",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/financial-times-suudi-arabistan-cin-onculugundeki-sinir-otesi-dijital-para-platformundan-cekildi/4062525",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/sabanci-holding-cop31in-elektrifikasyon-partneri-oldu/4062399",
@@ -1792,8 +1793,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:957c63d32d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:9c7c28363d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:9c7c28363d9e8:0",
         "tradingview:beincrypto:957c63d32d9e8:0",
         "tradingview:beincrypto:aae83dd36d9e8:0",
         "tradingview:beincrypto:21b1656e6d9e8:0",
@@ -2263,6 +2265,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "trump n icc yi dolar ag ndan ay rma plan kripto para boslugu doldurabilir",
+      "link": "https://tr.tradingview.com/news/beincrypto:9c7c28363d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "michael saylor dan ipucu dead cat bounce tart smas sonras microstrategy bitcoin al m gundemde",
@@ -9757,11 +9764,6 @@
       "source": "kap",
       "text": "avtur pay baz nda devre kesici bildirimi avtur e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
       "link": "https://www.kap.org.tr/tr/Bildirim/1663940"
-    },
-    {
-      "source": "kap",
-      "text": "cante ozel durum ac klamas genel yat r m planlamas stratejileri sirket can2 termik a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663939"
     }
   ],
   "research_reports_v8": {
