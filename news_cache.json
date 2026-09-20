@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1665627",
+      "last_seen_key": "kap:1665629",
       "seen_keys": [
+        "kap:1665629",
+        "kap:1665628",
         "kap:1665627",
         "kap:1665626",
         "kap:1665625",
@@ -449,8 +451,11 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/taik-19-turkiye-yatirim-konferansi-ni-new-york-ta-duzenleyecek-3788887",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/pusula-holding-in-baskani-nin-isvicre-ye-para-transferi-tespit-edildi-3788890",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/pusula-holding-in-baskani-nin-isvicre-ye-para-transferi-tespit-edildi-3788890",
+        "bloomberght:https://www.bloomberght.com/tera-portfoy-den-fon-odemelerine-iliskin-aciklama-3788889",
+        "bloomberght:https://www.bloomberght.com/almanya-da-asiri-sag-bir-eyalette-daha-ilk-sirada-berlin-de-sol-parti-nin-turk-adayi-kazandi-3788888",
         "bloomberght:https://www.bloomberght.com/taik-19-turkiye-yatirim-konferansi-ni-new-york-ta-duzenleyecek-3788887",
         "bloomberght:https://www.bloomberght.com/gelisen-piyasalarda-yerel-para-cinsinden-borclanma-egilimi-3788886",
         "bloomberght:https://www.bloomberght.com/suudiler-den-dikkat-ceken-cin-karari-3788885",
@@ -609,15 +614,17 @@
         "cnbce:https://www.cnbce.com/borsa/mscidan-turkiye-icin-kritik-aciklama-kasim-ayini-isaret-etti-h37568",
         "cnbce:https://www.cnbce.com/borsa/morgan-stanleyden-borsa-istanbul-icin-kritik-mesaj-krize-ragmen-tepki-sinirli-h37522",
         "cnbce:https://www.cnbce.com/borsa/borsanin-yeni-enerji-sirketinden-950-milyon-tllil-siparis-duyurusu-h37515",
+        "cnbce:https://www.cnbce.com/haberler/gida-fiyatlarinda-kritik-yukselis-2022den-bu-yana-en-yuksek-seviyede-h37643",
+        "cnbce:https://www.cnbce.com/haberler/yargitaydan-milyonlari-ilgilendiren-nafaka-karari-geliri-denk-olana-nafaka-yok-h37641",
         "cnbce:https://www.cnbce.com/dunya/iran-ve-abd-arasinda-gerilim-tirmaniyor-tahrandan-yeni-saldiri-uyarisi-h37638",
         "cnbce:https://www.cnbce.com/dunya/trumpin-washington-plani-gundem-oldu-zafer-taki-askeri-us-olacak-h37637",
         "cnbce:https://www.cnbce.com/haberler/istanbul-havalimani-avrupanin-zirvesinde-dunyada-da-yeni-bir-basari-geldi-h37634",
         "cnbce:https://www.cnbce.com/haberler/bakan-duyurdu-yerli-ve-milli-hizli-trende-seri-uretim-resmen-basladi-h37631",
         "cnbce:https://www.cnbce.com/haberler/kuzey-koreden-dogu-denizine-iki-fuze-bolgede-gerilim-yeniden-yukseldi-h37630",
         "cnbce:https://www.cnbce.com/haberler/ed-sheerandan-macklemore-krizi-sonrasi-ozur-krizi-yonetemedim-cok-uzgunum-h37625",
+        "cnbce:https://www.cnbce.com/sirket-haberleri/converseten-ozur-ku-klux-klan-cagristiran-reklam-geri-cekildi-h37624",
         "cnbce:https://www.cnbce.com/yapay-zeka/yapay-zeka-icin-acil-durdurma-dugmesi-mumkun-mu-uzmanlar-aci-tabloyu-resmetti-h37623",
         "cnbce:https://www.cnbce.com/haberler/irandan-hurmuz-bogazi-kapali-kalacak-aciklamasi-hem-savas-hem-muzakere-h37622",
-        "cnbce:https://www.cnbce.com/sirket-haberleri/converseten-ozur-ku-klux-klan-cagristiran-reklam-geri-cekildi-h37624",
         "cnbce:https://www.cnbce.com/haberler/fransa-sarabinda-70-yilin-dibi-iklim-krizi-sektoru-koseye-sikistirdi-h37621",
         "cnbce:https://www.cnbce.com/haberler/rusya-duyurdu-ukraynanin-saldirisinda-moskova-petrol-rafinerisi-hasar-aldi-h37616",
         "cnbce:https://www.cnbce.com/haberler/karsandan-iettye-150-atak-teslimatlar-ocak-2027de-baslayacak-h37602",
@@ -2244,6 +2251,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "pusula holding in baskan n n isvicre ye para transferi tespit edildi pusula holding yonetim kurulu baskan serdar turhan n isvicre deki hesaba para gonderdigi tespit edildi",
+      "link": "https://www.bloomberght.com/pusula-holding-in-baskani-nin-isvicre-ye-para-transferi-tespit-edildi-3788890"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tera portfoy den fon odemelerine iliskin ac klama tera portfoy yonetimi a s fon iade talepleri odeme sureclerine iliskin guncel durumu ac klad",
+      "link": "https://www.bloomberght.com/tera-portfoy-den-fon-odemelerine-iliskin-aciklama-3788889"
+    },
+    {
+      "source": "bloomberght",
+      "text": "almanya as r sag eyalette daha ilk s rada berlin sol parti nin turk aday kazand sand k c k s anketlerine gore afd mecklenburg vorpommern eyaletinde 37 oy oran na ulasarak 35 5 alan merkez sol sosyal demokratlar n onunde yer ald",
+      "link": "https://www.bloomberght.com/almanya-da-asiri-sag-bir-eyalette-daha-ilk-sirada-berlin-de-sol-parti-nin-turk-adayi-kazandi-3788888"
+    },
+    {
+      "source": "kap",
+      "text": "ushol kat l m finans ilkeleri bilgi formu sirket us yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665629"
+    },
+    {
+      "source": "kap",
+      "text": "logo paylar n geri al nmas na iliskin bildirim pay geri al m program cercevesinde pay al m sirket logo yazilim sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1665628"
+    },
     {
       "source": "tradingview",
       "text": "binance wallet ta pre ipo f rsat ancak sorun var",
@@ -9718,31 +9750,6 @@
       "source": "forinvest",
       "text": "abd mortgage basvurular geriledi 30 y ll k faiz may s 2025 ten yana gorulen en yuksek seviyede abd mortgage basvurular yukselen tahvil getirileri konut kredisi faizlerinin etkisiyle 11 eylul haftas nda yuzde 4 1 geriledi mortgage bankers association a mba gore 30 y l vadeli sabit mor",
       "link": "https://www.foreks.com/haber/detay/6aaa76b224008d7d4373258f/PICNEWS/tr/abd-de-mortgage-basvurulari-geriledi-30-yillik-faiz-mayis-2025-ten-bu-yana-gorulen-en-yuksek-seviyede-16-09-26"
-    },
-    {
-      "source": "matriks",
-      "text": "global piyasalar bulteni tacirler yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6746796:0"
-    },
-    {
-      "source": "matriks",
-      "text": "yemen li husiler sald r lar sona erene ulkemiz uzerindeki kusatma kald r lana kadar suudi arabistan n ic kesimlerine yonelik askeri operasyonlar m za devam edecegiz",
-      "link": "https://tr.tradingview.com/news/matriks:6746793:0"
-    },
-    {
-      "source": "matriks",
-      "text": "yemen li husiler diger operasyonda ise khamis mushait hava ussu dizi balistik fuzeyle hedef al nd",
-      "link": "https://tr.tradingview.com/news/matriks:6746790:0"
-    },
-    {
-      "source": "matriks",
-      "text": "yemen li husiler ilk operasyonda yanbu daki aramco tesisleri onlarca balistik fuze insans z hava arac yla hedef al nd buyuk yang nlara genis capl y k ma yol act",
-      "link": "https://tr.tradingview.com/news/matriks:6746786:0"
-    },
-    {
-      "source": "matriks",
-      "text": "yemen li husiler suudi arabistan a iki ayr askeri operasyon gerceklestirdik",
-      "link": "https://tr.tradingview.com/news/matriks:6746784:0"
     }
   ],
   "research_reports_v8": {
