@@ -237,8 +237,9 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6754766:0",
+      "last_seen_key": "matriks:matriks:6756470:0",
       "seen_keys": [
+        "matriks:matriks:6756470:0",
         "matriks:matriks:6754766:0",
         "matriks:matriks:6754386:0",
         "matriks:matriks:6754347:0",
@@ -995,8 +996,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/jefferies-sp-500-icin-iyimser-2027-sonu-hedefi-9000-4072132",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/avustralyal-telix-almanyal-itm-isotopeu-165-milyar-dolara-alyor-4072135",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/avustralyal-telix-almanyal-itm-isotopeu-165-milyar-dolara-alyor-4072135",
         "investing:https://tr.investing.com/news/stock-market-news/jefferies-sp-500-icin-iyimser-2027-sonu-hedefi-9000-4072132",
         "investing:https://tr.investing.com/news/stock-market-news/ara-secimler-hisse-senedi-piyasalar-ne-yapar-ve-ne-fiyatlanr-4072130",
         "investing:https://tr.investing.com/news/company-news/specialised-therapeutics-incyte-ortaklgn-avustralyaya-genisletiyor-93CH-4072127",
@@ -1006,7 +1008,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/volvo-carsn-yeni-ceosu-klaus-zellmer-oldu-93CH-4072114",
         "investing:https://tr.investing.com/news/investment-ideas/turk-gayrimenkul-hissesi-avpgy-gercege-uygun-deger-sinyali-sonras-43-kazandrd-93CH-4072113",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-magendeki-52lik-dususu-onceden-tespit-etti-93CH-4072112",
-        "investing:https://tr.investing.com/news/stock-market-news/hisse-senedi-degerlemelerine-yonelik-onemli-riskler-devam-ediyor-4072111",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1027,6 +1028,7 @@
         "investing:https://tr.investing.com/analysis/3-ayda-99-getiren-yapay-zekann-eylul-portfoyu-200506025",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
         "investing:https://tr.investing.com/analysis/bist-endekslerinde-yeni-donem-hangi-hisseler-endeks-degisikligi-beklentisinde-200505994",
+        "investing:https://tr.investing.com/news/stock-market-news/hisse-senedi-degerlemelerine-yonelik-onemli-riskler-devam-ediyor-4072111",
         "investing:https://tr.investing.com/news/investment-ideas/stanley-black--decker-gercege-uygun-deger-cagrs-sonras-64-getiri-saglad-93CH-4072109",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-quantum-computingin-48lik-dususunu-11-ay-once-tahmin-etti-93CH-4072108",
         "investing:https://tr.investing.com/news/cryptocurrency-news/eos-11-orannda-geriledi-4072107",
@@ -1495,8 +1497,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/cpi-card-group-yoneticisi-marc-sheinbaum-99996-dolar-hisse-ald-93CH-4065645",
         "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-husiler-suudi-arabistana-saldrrken-yukseldi-4065644",
         "investing:https://tr.investing.com/news/insider-trading-news/jonathan-r-scott-first-interstate-bancsystem-hissesinden-300967-dolar-satt-93CH-4065640",
-        "investing:https://tr.investing.com/news/insider-trading-news/mannkind-yoneticisi-steven-binder-127855-dolar-degerinde-hisse-satt-93CH-4065635",
-        "investing:https://tr.investing.com/news/insider-trading-news/tenet-healthcare-yoneticisi-richard-mark-263-milyon-dolarlk-hisse-satt-93CH-4065634"
+        "investing:https://tr.investing.com/news/insider-trading-news/mannkind-yoneticisi-steven-binder-127855-dolar-degerinde-hisse-satt-93CH-4065635"
       ]
     },
     "ntvpara": {
@@ -1794,10 +1795,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:412a5b7b1d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:43e3f54aed9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:43e3f54aed9e8:0",
+        "tradingview:fxstreet:1ab775515d9e8:0",
+        "tradingview:fxstreet:03f0cdbc9d9e8:0",
         "tradingview:fxstreet:412a5b7b1d9e8:0",
         "tradingview:beincrypto:8b9906291d9e8:0",
+        "tradingview:matriks:6756470:0",
         "tradingview:beincrypto:9c7c28363d9e8:0",
         "tradingview:beincrypto:957c63d32d9e8:0",
         "tradingview:beincrypto:aae83dd36d9e8:0",
@@ -2268,6 +2273,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "fed den kashkari enflasyon abd ekonomisinin tum yonlerinde hala cok yuksek",
+      "link": "https://tr.tradingview.com/news/fxstreet:43e3f54aed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd cin trump xi zirvesi oncesinde ust duzey gorusmelere baslad",
+      "link": "https://tr.tradingview.com/news/fxstreet:1ab775515d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar trump xi zirvesi oncesinde fed faiz art r m beklentileri artt kca dususe gecti",
+      "link": "https://tr.tradingview.com/news/fxstreet:03f0cdbc9d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "avustralya l telix almanya l itm isotope u 1 65 milyar dolara al yor",
+      "link": "https://tr.investing.com/news/stock-market-news/avustralyal-telix-almanyal-itm-isotopeu-165-milyar-dolara-alyor-4072135"
+    },
+    {
+      "source": "matriks",
+      "text": "kuyas kuyas yat r m konsolide bilanco 2026 6 ayl k net zarar 1 049 330 437 tl onceki 412 943 042 tl net kar",
+      "link": "https://tr.tradingview.com/news/matriks:6756470:0"
+    },
     {
       "source": "tradingview",
       "text": "katar basbakan korfez devletlerinin iran konusunda birlikte hareket etmesi gerektigini soyluyor",
@@ -9742,31 +9772,6 @@
       "source": "kap",
       "text": "algyo pay baz nda devre kesici bildirimi algyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
       "link": "https://www.kap.org.tr/tr/Bildirim/1663954"
-    },
-    {
-      "source": "kap",
-      "text": "akyho pay baz nda devre kesici bildirimi akyho e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663953"
-    },
-    {
-      "source": "kap",
-      "text": "karsn pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfkrsn92613 isin kodlu tahvilin 4 kupon odemesi itfas sirket karsan otomotiv sanayii ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663952"
-    },
-    {
-      "source": "kap",
-      "text": "bkrgy esas sozlesme tadili esas sozlesme tadili spk ya basvuruda bulunulmas sirket bakirci gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663951"
-    },
-    {
-      "source": "kap",
-      "text": "gsdde pay baz nda devre kesici bildirimi gsdde e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663950"
-    },
-    {
-      "source": "kap",
-      "text": "vakfa pay baz nda devre kesici bildirimi vakfa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663949"
     }
   ],
   "research_reports_v8": {
