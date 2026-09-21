@@ -1795,8 +1795,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:43e3f54aed9e8:0",
+      "last_seen_key": "tradingview:fxstreet:9fdfa9bf0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:9fdfa9bf0d9e8:0",
+        "tradingview:fxstreet:0278d8165d9e8:0",
+        "tradingview:fxstreet:4167f71b7d9e8:0",
+        "tradingview:fxstreet:031753b9ed9e8:0",
         "tradingview:fxstreet:43e3f54aed9e8:0",
         "tradingview:fxstreet:1ab775515d9e8:0",
         "tradingview:fxstreet:03f0cdbc9d9e8:0",
@@ -2273,6 +2277,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni al c lar fed beklentileri usd yi desteklerken boj un guvercin faiz art r m nedeniyle tereddutlu gorunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:9fdfa9bf0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini fed in s k lasmac gorunumunun abd dolar n desteklemesiyle geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:0278d8165d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro fed in s k lasmac durusuna ragmen 1 1450 nin uzerine yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:4167f71b7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dogruland pboc eylulde kredi referans faiz oranlar n degistirmedi",
+      "link": "https://tr.tradingview.com/news/fxstreet:031753b9ed9e8:0"
+    },
     {
       "source": "investing",
       "text": "abd hisse senedi endeks vadeli islemleri yukseliste",
@@ -9752,26 +9776,6 @@
       "source": "kap",
       "text": "doas pay baz nda devre kesici bildirimi doas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
       "link": "https://www.kap.org.tr/tr/Bildirim/1663962"
-    },
-    {
-      "source": "kap",
-      "text": "froto pay baz nda devre kesici bildirimi froto e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663961"
-    },
-    {
-      "source": "kap",
-      "text": "yunsa pay baz nda devre kesici bildirimi yunsa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663960"
-    },
-    {
-      "source": "kap",
-      "text": "desa pay baz nda devre kesici bildirimi desa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663959"
-    },
-    {
-      "source": "kap",
-      "text": "eker pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon odemesi sirket eker sut urunleri gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1663955"
     }
   ],
   "research_reports_v8": {
