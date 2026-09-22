@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1666500",
+      "last_seen_key": "kap:1666502",
       "seen_keys": [
+        "kap:1666502",
         "kap:1666500",
         "kap:1666499",
         "kap:1666496",
@@ -52,7 +53,6 @@
         "kap:1666431",
         "kap:1666430",
         "kap:1666429",
-        "kap:1666428",
         "kap:1666427",
         "kap:1666426",
         "kap:1666424",
@@ -92,6 +92,7 @@
         "kap:1666371",
         "kap:1666370",
         "kap:1666369",
+        "kap:1666428",
         "kap:1666366"
       ]
     },
@@ -917,6 +918,7 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/asyaportta-tek-gemi-ugraginda-22-bin-896-teu-konteyner-ellecleme-ile-turkiye-rekoru-kirildi/4063981",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kamu-ozel-isbirligi-yatirimlarinda-oncelik-yerli-mali-olacak/4064108",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bu-yilin-6-ayinda-tasinan-posta-kolisi-ve-kargo-gonderileri-728-milyonu-gecti/4064228",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ruzgar-enerjisinde-uluslararasi-isbirligini-artirmayi-hedefliyor/4064284",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/gelismekte-olan-ulkelerin-yeni-veri-merkezi-yatirimlarindan-aldigi-pay-yuzde-40a-yaklasti/4064161",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/makine-sektorunden-8-ayda-18-8-milyar-dolar-ihracat/4064155",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-celik-ihracatinda-cin-liderligini-surdurdu-turkiye-6nci-sirada-yer-aldi/4064152",
@@ -1609,8 +1611,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/yatirimlarda-oncelik-yerli-mali-olacak-957637.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-celik-ihracatinda-dunyada-6nci-siraya-yukseldi-957649.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-celik-ihracatinda-dunyada-6nci-siraya-yukseldi-957649.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/yatirimlarda-oncelik-yerli-mali-olacak-957637.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-ile-abd-arasinda-nukleer-enerji-anlasmasi-957628.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/tuketici-guveni-eylulde-7-yilin-zirvesine-cikti-957626.html",
@@ -1786,8 +1789,37 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6759673:0",
+      "last_seen_key": "tradingview:matriks:6760554:0",
       "seen_keys": [
+        "tradingview:matriks:6760554:0",
+        "tradingview:matriks:6760551:0",
+        "tradingview:fxstreet:b7998bc29d9e8:0",
+        "tradingview:matriks:6760537:0",
+        "tradingview:matriks:6760532:0",
+        "tradingview:cointelegraph:7c61d4893d9e8:0",
+        "tradingview:fxstreet:4c2297b77d9e8:0",
+        "tradingview:fxstreet:ac63aba2cd9e8:0",
+        "tradingview:matriks:6760516:0",
+        "tradingview:matriks:6760513:0",
+        "tradingview:tag:reuters.com,2026:newsml_L8N45E0C6:0",
+        "tradingview:matriks:6760511:0",
+        "tradingview:matriks:6760509:0",
+        "tradingview:fxstreet:724689930d9e8:0",
+        "tradingview:fxstreet:25337dd97d9e8:0",
+        "tradingview:fxstreet:bc89cbd56d9e8:0",
+        "tradingview:matriks:6760500:0",
+        "tradingview:fxstreet:e0f6e3795d9e8:0",
+        "tradingview:matriks:6760484:0",
+        "tradingview:fxstreet:e928a8376d9e8:0",
+        "tradingview:fxstreet:e5312e972d9e8:0",
+        "tradingview:matriks:6760443:0",
+        "tradingview:matriks:6760442:0",
+        "tradingview:beincrypto:e54017a55d9e8:0",
+        "tradingview:fxstreet:5bf0c8b10d9e8:0",
+        "tradingview:matriks:6760427:0",
+        "tradingview:fxstreet:f37201081d9e8:0",
+        "tradingview:matriks:6760413:0",
+        "tradingview:matriks:6760406:0",
         "tradingview:matriks:6759673:0",
         "tradingview:matriks:6759669:0",
         "tradingview:matriks:6759668:0",
@@ -2036,6 +2068,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "cinli yapay zeka sirketi deepseek yapay zeka riskleri konusunda carsamba gunu bm guvenlik konseyi brifing verecek kaynaklar",
+      "link": "https://tr.tradingview.com/news/matriks:6760554:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yeni zelanda dolar s k lasmac rbnz fiyatlamas kiwi yi destekliyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:b7998bc29d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "oyak yalc ntas ekonomi turkiye dunyada gulluk gulistanl k tum sektorler gibi zorlan yoruz cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6760537:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "oyak yalc ntas elektrik uretimindeki yat r m m z onumuzdeki gunler duyacaks n z gorusuyoruz cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6760532:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "beyaz sapkal lar 52 bitcoin lik tahliyede coldcard hacker lar n geride b rakt",
+      "link": "https://tr.tradingview.com/news/cointelegraph:7c61d4893d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti ham petrol iran n hurmuz u yeniden acmay onerdigine dair haberlerin ard ndan 90 00 civar na dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:4c2297b77d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi dxy iran n hurmuz u yeniden acmay teklif etmesiyle 30 temmuz daki zirveden gevsedi",
+      "link": "https://tr.tradingview.com/news/fxstreet:ac63aba2cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iran hurmuz bogaz n 7 gun icinde yeniden acmay teklif etti kyodo",
+      "link": "https://tr.tradingview.com/news/matriks:6760516:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kyodo nun iran n hurmuz bogaz n 7 gun icinde yeniden acmay teklif ettigine dair haberinin ard ndan brent abd ham petrol vadeli kontratlar 1 in uzerinde geriledi",
+      "link": "https://tr.tradingview.com/news/matriks:6760513:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "onumuzdeki y llarda daha fazla oyak sirketinin halka arz oldugunu goreceksiniz oyak gm yalc ntas",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N45E0C6:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "volkswagen cin binek otomobil pazar 2026 20 daralabilir",
+      "link": "https://tr.tradingview.com/news/matriks:6760511:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "29 09 2026 vadeli repo ihalesine gelen tekliflerin toplam 115 31 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6760509:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "belgium consumer confidence index eylul 7 seviyesinden 10 seviyesine geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:724689930d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar abd dolar kars s nda direnc alt nda konsolidasyon devam ediyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:25337dd97d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iran hurmuz bogaz n 7 gun icinde yeniden acmay teklif ediyor kyodo news",
+      "link": "https://tr.tradingview.com/news/fxstreet:bc89cbd56d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya n n 10 y ll k tahvil faizi 2 baz puan dususle 3 43 e geriledi",
+      "link": "https://tr.tradingview.com/news/matriks:6760500:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "hindistan rupisi erken kazanclar n geri veriyor bm genel kurulu bekleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:e0f6e3795d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "oyak yalc ntas enerji sektorunde buyuyecegiiz uluslararas oyuncu olacag z cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6760484:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro alman siyasi belirsizliginin risk istah yuksek hissiyat golgelemesiyle yeni yedi haftan n en dusuk seviyelerine geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:e928a8376d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd daha uzun sure yuksek kalacak fed faiz oranlar anlat s nedeniyle 65 n alt na dustu",
+      "link": "https://tr.tradingview.com/news/fxstreet:e5312e972d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "otokar daimler buses mercedes benz turk mercedes benz conecto nun seri uretimi baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6760443:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "goldman sachs analistlerine gore para piyasas fonlar ndan c kan turk yat r mc lar birikimlerinin buyuk bolumunu buyuk olas l kla tl mevduata aktard bn",
+      "link": "https://tr.tradingview.com/news/matriks:6760442:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "peter brandt tan xrp eth uzun vadeli grafik uyar s iste detaylar",
+      "link": "https://tr.tradingview.com/news/beincrypto:e54017a55d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "federal rezerv faiz art rma patikas arz soklar yla s n rl bny",
+      "link": "https://tr.tradingview.com/news/fxstreet:5bf0c8b10d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk fx teknik analiz raporu is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6760427:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "usd jpy fiyat analizi 50 gunluk ema yak n nda 158 00 civar na yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f37201081d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "oyak yalc ntas onumuzdeki donemde tekfen in uluslararas anlasmalar n n duyurusunu yapabiliriz cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6760413:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "oyak yalc ntas y l n sonunda veya onumuzdeki y l n bas nda net fotograf ortaya c kacak cnbc e",
+      "link": "https://tr.tradingview.com/news/matriks:6760406:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "turkiye celik ihracat nda dunyada 6 nc s raya yukseldi turkiye 2025 te gerceklestirdigi 17 5 milyon tonluk celik ihracat yla dunyan n en fazla celik ihrac eden 6 nc ulkesi oldu cin 133 6 milyon tonla kuresel ihracatta liderligini surdurdu",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-celik-ihracatinda-dunyada-6nci-siraya-yukseldi-957649.html"
+    },
+    {
+      "source": "kap",
+      "text": "ceoem pay baz nda devre kesici bildirimi ceoem e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1666502"
+    },
     {
       "source": "trthaber",
       "text": "turkiye abd aras nda nukleer enerji anlasmas turkiye abd aras nda nukleer enerji alan nda isbirligi anlasmas yap ld",
@@ -9385,156 +9567,6 @@
       "source": "trthaber",
       "text": "merkez bankas ndan piyasalara likidite guvencesi turkiye cumhuriyet merkez bankas tcmb finansal piyasalardaki gelismeleri dikkate alarak turk liras likidite yonetimine iliskin dizi onlem karar ald banka haftal k repo ihaleleriyle saglanan fonlama miktar n art r rken tem",
       "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasindan-piyasalara-likidite-guvencesi-957103.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "spk gelismeler takip edilmektedir kurulumuz taraf ndan dizi tedbir al nm st r spk dan yap lan ac klamada sermaye piyasam zda donemde yasanan gelismeler kurulumuz taraf ndan takip edilmektedir kapsamda kurulumuz taraf ndan dizi tedbir al nm st r tedbirler k sa sure icerisinde kurulumuz internet site",
-      "link": "https://www.trthaber.com/haber/ekonomi/spk-gelismeler-takip-edilmektedir-kurulumuz-tarafindan-bir-dizi-tedbir-alinmistir-957101.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "spk 38 kisi hakk nda suc duyurusunda bulundu sermaye piyasas kurulu spk sirketin sermaye art r m na 7 sirketin ise borclanma arac ihrac basvurusuna onay verdi kurul kat l mevim gundogdu g destek finans faktoring pay piyasalar ndaki islemleri nedeniyle 38 kisi hakk n",
-      "link": "https://www.trthaber.com/haber/ekonomi/spk-38-kisi-hakkinda-suc-duyurusunda-bulundu-957100.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "finansal istikrar komitesi piyasalarda yap sal risk bulunmuyor finansal istikrar komitesi hazine maliye bakan mehmet simsek baskanl g nda topland bakanl ktan yap lan ac klamada sermaye piyasalar ndaki hareketliligin s n rl say portfoy yonetim sirketindeki fonlardan kaynakland g durumun",
-      "link": "https://www.trthaber.com/haber/ekonomi/finansal-istikrar-komitesi-piyasalarda-yapisal-bir-risk-bulunmuyor-957097.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "bddk 135 personel alacak bankac l k duzenleme denetleme kurumu bddk 135 personel al m yapacak",
-      "link": "https://www.trthaber.com/haber/ekonomi/bddk-135-personel-alacak-957093.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "gumruklerde 81 milyar 970 milyon lira degerinde kacakc l k onlendi ticaret bakanl g y l n ocak agustos doneminde gerceklestirilen 4 bin 397 farkl operasyonda 81 milyar 970 milyon lira degerinde ticari esya uyusturucu madde yakaland g n duyurdu",
-      "link": "https://www.trthaber.com/haber/ekonomi/gumruklerde-81-milyar-970-milyon-lira-degerinde-kacakcilik-onlendi-957092.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "tigem 17 safkan arap kosu tay sat s yapacak tar m isletmeleri genel mudurlugu tigem anadolu tar m isletmesi mudurlugu 17 safkan arap kosu tay n n sat s n yapacak",
-      "link": "https://www.trthaber.com/haber/ekonomi/tigem-17-safkan-arap-kosu-tayi-satisi-yapacak-957091.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "finansal istikrar komitesi topland finansal istikrar komitesi fik 08 00 hazine maliye bakan mehmet simsek baskanl g nda topland",
-      "link": "https://www.trthaber.com/haber/ekonomi/finansal-istikrar-komitesi-toplandi-957088.html"
-    },
-    {
-      "source": "ntvpara",
-      "text": "avrupa n n sessiz cokusu konforlu refah havuzunda katman katman orulmus sosyal devlet masallar yla uyutulan avrupa uyanmak zorunda kald eski avrupa merkez bankas baskan mario draghi nin masaya koydugu recete yerini soguk gerceklige b rakt",
-      "link": "https://www.ntv.com.tr/yazarlar/dogan-ozkan/avrupanin-sessiz-cokusu-1742305"
-    },
-    {
-      "source": "ntvpara",
-      "text": "piyasalarda gun sonu borsa alt nda durum borsa istanbul bist 100 endeksi 387 19 puan artarak 13 509 76 puandan kapand",
-      "link": "https://www.ntv.com.tr/ntvpara/piyasalarda-gun-sonu-borsa-ve-altinda-son-durum-ne-1742296"
-    },
-    {
-      "source": "investing",
-      "text": "crusoe bulut enerji uzmanl g na sahip uc yonetici atad",
-      "link": "https://tr.investing.com/news/company-news/crusoe-bulut-ve-enerji-uzmanlgna-sahip-uc-yonetici-atad-93CH-4070428"
-    },
-    {
-      "source": "investing",
-      "text": "ingersoll rand morgan stanley konferans nda buyume genisliyor",
-      "link": "https://tr.investing.com/news/transcripts/ingersoll-rand-morgan-stanley-konferansnda-buyume-genisliyor-93CH-4070427"
-    },
-    {
-      "source": "investing",
-      "text": "abd tarife ac klamas n xi trump zirvesine erteledi bloomberg",
-      "link": "https://tr.investing.com/news/economy-news/abd-tarife-acklamasn-xitrump-zirvesine-erteledi--bloomberg-93CH-4070426"
-    },
-    {
-      "source": "investing",
-      "text": "blossom gold hissesi bugun neden yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/blossom-gold-hissesi-bugun-neden-yukseldi-93CH-4070425"
-    },
-    {
-      "source": "investing",
-      "text": "pbf energy 2032 vadeli 550 milyon dolarl k senet ihrac etti",
-      "link": "https://tr.investing.com/news/sec-filings/pbf-energy-2032-vadeli-550-milyon-dolarlk-senet-ihrac-etti-93CH-4070423"
-    },
-    {
-      "source": "investing",
-      "text": "bnp paribas exane fluence energy hedef fiyat 5 dolara dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/bnp-paribas-exane-fluence-energy-icin-hedef-fiyat-5-dolara-dusurdu-93CH-4070422"
-    },
-    {
-      "source": "investing",
-      "text": "newcore gold hissesi bugun neden yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/newcore-gold-hissesi-bugun-neden-yukseldi-93CH-4070421"
-    },
-    {
-      "source": "investing",
-      "text": "celestica hisseleri neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/celestica-hisseleri-neden-yukseliyor-93CH-4070420"
-    },
-    {
-      "source": "investing",
-      "text": "avrupa dizel marjlar rekor seviyelerden 3 geriledi",
-      "link": "https://tr.investing.com/news/commodities-news/avrupa-dizel-marjlar-rekor-seviyelerden-3-geriledi-93CH-4070418"
-    },
-    {
-      "source": "cnbce",
-      "text": "tera portfoy den kap a kritik ac klama 3 fonda temerrut olustu tera portfoy yonetim a s bunyesindeki uc fonda kat lma pay iade odemelerinde temerrut durumu olustugu ac kland kap bildiriminde arac kurumlarla mutabakat likidite yonetim surecinin surdugu gerekli tedbirlerin al nd g belirtildi",
-      "link": "https://www.cnbce.com/borsa/tera-portfoyden-kapa-kritik-aciklama-3-fonda-temerrut-olustu-h37486"
-    },
-    {
-      "source": "ntvpara",
-      "text": "tera n n patronu dahil 48 kisiye yurt d s yasag yeni gozalt lar var yar z tutukland pusula portfoy yonetim kurulu baskan muhammet yar z n tutukland g bildirildi tera n n patronu tezmen dahil 48 kisiye ise yurt d s yasag getirildi yeni gozalt lar var",
-      "link": "https://www.ntv.com.tr/ntvpara/teranin-yoneticisi-emre-tezmen-hakkinda-yurt-disina-cikis-yasagi-yeni-gozaltilar-var-1742290"
-    },
-    {
-      "source": "ntvpara",
-      "text": "7 sirketin 130 fonu tasfiye edilecek yat r mc fondaki pay n nas l alacak sermaye piyasas kurulu spk 7 portfoy sirketinin 130 fonunu tasfiye etme karar ald fonlarda on binlerce yat r mc var paralar nas l zaman geri al nacak yat r mc lar n haklar",
-      "link": "https://www.ntv.com.tr/ntvpara/7-sirketin-130-fonu-tasfiye-edilecek-yatirimci-fondaki-payini-nasil-alacak-1742270"
-    },
-    {
-      "source": "ntvpara",
-      "text": "bddk dan bankalara hisse al m kolayl g bankac l k duzenleme denetleme kurulu bddk bankalar n kendi hisselerini al mlar na iliskin onemli karar ac klad",
-      "link": "https://www.ntv.com.tr/ntvpara/bddkdan-bankalara-hisse-alim-kolayligi-1742273"
-    },
-    {
-      "source": "ntvpara",
-      "text": "65 bin tl yetmedi 35 bin tl daha istediler hakem heyeti noktay koydu tuketici hakem heyeti kayseri sat n ald g paket turun iptal edilmesinin ard ndan baska tura yonlendirilen tuketiciden al nan 34 bin 825 liral k ucret fark n n iade edilmesine karar verdi",
-      "link": "https://www.ntv.com.tr/ntvpara/tur-sirketi-iptal-etti-faturayi-tuketiciye-cikardi-hakem-heyeti-noktayi-koydu-1742238"
-    },
-    {
-      "source": "ntvpara",
-      "text": "spk dan 38 kisi hakk nda suc duyurusu sermaye piyasas kurulu spk kat l mevim gundogdu g destek finans faktoring pay piyasalar ndaki islemleri nedeniyle 38 kisi hakk nda suc duyurusunda bulunulmas na karar verdi",
-      "link": "https://www.ntv.com.tr/ntvpara/spkdan-38-kisi-hakkinda-suc-duyurusu-1742242"
-    },
-    {
-      "source": "ntvpara",
-      "text": "spk duyurdu pusula tera n n yer ald g 7 portfoy sirketinin fonlar isleme kapat ld sermaye piyasas kurulu spk icerisinde pusula tera n n yer ald g 7 portfoy sirketinin baz fonlar n n isleme kapat ld g n duyurdu isleme kapat lan fonlar n tam listesi soyle",
-      "link": "https://www.ntv.com.tr/ntvpara/spk-duyurdu-pusula-ve-teranin-da-yer-aldigi-7-portfoy-sirketinin-fonlari-isleme-kapatildi-1742219"
-    },
-    {
-      "source": "ntvpara",
-      "text": "spk dan piyasalara mesaj tedbirler k sa surede ac klanacak sermaye piyasas kurulu piyasalarda yasanan dalgalanmalara iliskin tedbir ald g n duyurdu",
-      "link": "https://www.ntv.com.tr/ntvpara/spkdan-piyasalara-mesaj-tedbirler-kisa-surede-aciklanacak-1742197"
-    },
-    {
-      "source": "ntvpara",
-      "text": "merkez bankas ndan likidite hamlesi turkiye cumhuriyet merkez bankas haftal k repo ihaleleriyle saglanacak fonlama miktar likidite kosullar goz onunde bulundurularak art r lacag n ac klad",
-      "link": "https://www.ntv.com.tr/ntvpara/merkez-bankasindan-likidite-hamlesi-1742194"
-    },
-    {
-      "source": "ntvpara",
-      "text": "8 ayda 81 9 milyar liral k kacakc l k onlendi gumruklerde y l n ilk 8 ay nda duzenlenen operasyonlarda kacakc l ga darbe vuruldu ocak agustos doneminde 81 milyar 970 milyon lira degerinde ticari esya uyusturucu madde ele gecirildi",
-      "link": "https://www.ntv.com.tr/ntvpara/8-ayda-819-milyar-liralik-kacakcilik-onlendi-1742186"
-    },
-    {
-      "source": "ntvpara",
-      "text": "tera portfoy neler yasand neden buralara gelindi sirket durumu nas l degerlendiriyor trilyon liraya yaklasan portfoy buyuklugunu yoneten tera portfoy gunluk dususte temerrude dustu sirket spekulatif sald r alt nda oldugunu ac klad",
-      "link": "https://www.ntv.com.tr/ntvpara/tera-portfoyde-neler-yasandi-neden-buralara-gelindi-1742176"
-    },
-    {
-      "source": "ntvpara",
-      "text": "finansal istikrar komitesi topland tedbirler suratle uygulamaya konulacak piyasalarda yasanan gelismeler sonras nda finansal istikrar komitesi toplant karar ald toplant sonras ac klama yap ld",
-      "link": "https://www.ntv.com.tr/ntvpara/finansal-istikrar-komitesi-toplandi-tedbirler-suratle-uygulamaya-konulacak-1742172"
     }
   ],
   "research_reports_v8": {
