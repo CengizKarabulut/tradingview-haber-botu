@@ -4,8 +4,11 @@ v10'un PDF gönderimini, tarih/tekrar filtrelerini ve extractive özetini korur.
 Yeni katman yalnız PDF içinde bulunan somut öneri, hedef, destek/direnç, kırılım/stop
 ve model-portföy değişimlerinden kısa bir anlam çıkarır; serbest yatırım tavsiyesi üretmez.
 
-Ayrıca KAP bildirimlerini Telegram'da okunabilir hale getirir: KAP'ın teknik oda_ alanları,
-İngilizce tekrarları ve form metadatası gösterilmez; önemli alanlar ve açıklama ayrı satırlarda sunulur.
+Telegram haber akışı da tek bir okunabilir kart düzenine getirilir:
+- KAP'ın teknik oda_ alanları, İngilizce tekrarları ve form metadatası temizlenir.
+- Resmî duyuru, hızlı piyasa, ekonomi, global haber ve ekonomik takvim kaynakları
+  aynı görsel hiyerarşiyi kullanır.
+- Başlık/kaynak tekrarları bastırılır; uzun ham metin yerine kısa ve okunabilir özet verilir.
 """
 
 import html
@@ -20,7 +23,6 @@ from investor_takeaway import summarize_report_text
 
 SUMMARY_CAPTION_LIMIT = v10.SUMMARY_CAPTION_LIMIT
 ORIGINAL_KAP_COMPACT = v4.compact_kap_detail
-ORIGINAL_LAYERED_BUILD_MESSAGE = v6.layered_build_message
 
 KAP_ODA_FIELDS = (
     ("oda_DefaultTransactionTransactionType", "İşlem Türü"),
@@ -28,6 +30,27 @@ KAP_ODA_FIELDS = (
     ("oda_SettlementDate", "Takas Tarihi"),
     ("oda_DateOfThePreviousNotificationAboutTheSameSubject", "Önceki Açıklama"),
 )
+
+GENERIC_SUMMARIES = {
+    "borsa istanbul resmî duyurusu",
+    "borsa istanbul resmi duyurusu",
+    "türkiye cumhuriyet merkez bankası resmî duyurusu",
+    "türkiye cumhuriyet merkez bankası resmi duyurusu",
+    "sermaye piyasası kurulu resmî bülteni",
+    "sermaye piyasası kurulu resmi bülteni",
+}
+
+SOURCE_HEADER_OVERRIDES = {
+    "bloomberght": ("📰", "PİYASA HABERİ", "Bloomberg HT"),
+    "cnbce": ("📰", "PİYASA HABERİ", "CNBC-e"),
+    "aaekonomi": ("📰", "EKONOMİ", "Anadolu Ajansı"),
+    "investing": ("📰", "PİYASA HABERİ", "Investing.com Türkiye"),
+    "ntvpara": ("📰", "PİYASA HABERİ", "NTV Para"),
+    "trthaber": ("📰", "EKONOMİ", "TRT Haber Ekonomi"),
+    "tradingview": ("⚡", "PİYASA AKIŞI", "TradingView"),
+}
+
+OFFICIAL_SOURCES = {"bist", "tcmb", "tuik", "spk"}
 
 
 def clean(value):
@@ -112,7 +135,6 @@ def _clean_explanation(value):
     value = clean(value)
     if not value:
         return ""
-    # KAP'ın standart hukuki kapanış metinleri Telegram özetine taşınmasın.
     lowered = value.lower()
     cut_points = []
     for prefix in v4.KAP_BOILERPLATE_STARTS:
@@ -152,7 +174,6 @@ def compact_kap_detail(soup):
     if lines:
         return "\n".join(lines)[:1600]
 
-    # ODA anahtarları olmayan eski KAP şablonlarında mevcut güvenli yedeği koru.
     fallback = ORIGINAL_KAP_COMPACT(soup)
     fallback = v4.KAP_SYSTEM_TOKEN.sub(" ", fallback)
     return clean(fallback)[:900]
@@ -180,10 +201,93 @@ def _split_kap_detail(detail):
     return fields, explanation
 
 
-def layered_build_message(item):
-    if item.get("source") != "kap":
-        return ORIGINAL_LAYERED_BUILD_MESSAGE(item)
+def _excerpt(value, max_chars):
+    """Metni kelime/cümle ortasında sert kesmeden Telegram için kısalt."""
+    value = clean(value)
+    if len(value) <= max_chars:
+        return value
 
+    window = value[: max_chars + 1]
+    sentence_cut = max(window.rfind(". "), window.rfind("! "), window.rfind("? "))
+    if sentence_cut >= int(max_chars * 0.55):
+        return window[: sentence_cut + 1].rstrip()
+
+    word_cut = window.rfind(" ")
+    if word_cut < int(max_chars * 0.55):
+        word_cut = max_chars
+    return window[:word_cut].rstrip(" ,;:-") + "…"
+
+
+def _plain_compare(value):
+    return re.sub(r"\s+", " ", clean(value)).strip().casefold().replace("i̇", "i")
+
+
+def _strip_title_prefix(value, title):
+    value = clean(value)
+    title = clean(title)
+    if not value or not title:
+        return value
+    lower_value, lower_title = value.casefold(), title.casefold()
+    if lower_value == lower_title:
+        return ""
+    if lower_value.startswith(lower_title):
+        remainder = value[len(title):].lstrip(" \t\r\n-—:|·")
+        if len(remainder) >= 20:
+            return remainder
+    return value
+
+
+def _prepare_news_texts(item):
+    title = clean(item.get("title"))
+    summary = _strip_title_prefix(item.get("summary"), title)
+    detail = _strip_title_prefix(item.get("detail"), title)
+
+    if _plain_compare(summary) in GENERIC_SUMMARIES:
+        summary = ""
+
+    if summary and detail:
+        summary_cmp = _plain_compare(summary)
+        detail_cmp = _plain_compare(detail)
+        if summary_cmp == detail_cmp:
+            detail = ""
+        elif detail_cmp.startswith(summary_cmp):
+            detail = clean(detail[len(summary):]).lstrip(" .·-—:|")
+        elif summary_cmp.startswith(detail_cmp):
+            detail = ""
+
+    return _excerpt(summary, 520), _excerpt(detail, 760)
+
+
+def _source_header(item):
+    source = item.get("source", "")
+    if source in SOURCE_HEADER_OVERRIDES:
+        return SOURCE_HEADER_OVERRIDES[source]
+
+    layer = v6.LAYER_INFO.get(source)
+    if layer:
+        return layer
+
+    label = base.SOURCE_LABELS.get(source) or clean(item.get("provider")) or source or "Haber"
+    return "📰", "HABER", label
+
+
+def _provider_is_redundant(provider, label):
+    provider_cmp = _plain_compare(provider)
+    label_cmp = _plain_compare(label)
+    if not provider_cmp or not label_cmp:
+        return True
+    return provider_cmp == label_cmp or label_cmp in provider_cmp or provider_cmp in label_cmp
+
+
+def _news_link_label(source):
+    if source in OFFICIAL_SOURCES:
+        return "Resmî duyuruyu aç"
+    if source == "forexfactory":
+        return "Ekonomik takvim kaynağını aç"
+    return "Haberi kaynağında aç"
+
+
+def _build_kap_message(item):
     title = clean(item.get("title")) or "KAP Bildirimi"
     ticker, subject = "", title
     if " — " in title:
@@ -212,21 +316,21 @@ def layered_build_message(item):
     parts.extend(meta)
 
     if summary and summary.lower() not in {subject.lower(), title.lower()}:
-        parts.extend(["", f"📝 <b>Özet:</b> {html.escape(summary)}"])
+        parts.extend(["", f"📝 <b>Özet:</b> {html.escape(_excerpt(summary, 520))}"])
 
     if fields:
         parts.extend(["", "📌 <b>İşlem bilgileri</b>"])
         for label, value in fields[:6]:
-            parts.append(f"• <b>{html.escape(label)}:</b> {html.escape(value)}")
+            parts.append(f"• <b>{html.escape(label)}:</b> {html.escape(_excerpt(value, 260))}")
     elif facts:
         parts.extend(["", "🔎 <b>Öne çıkan:</b> " + " · ".join(html.escape(value) for value in facts)])
 
     if explanation:
-        parts.extend(["", "ℹ️ <b>Açıklama</b>", html.escape(explanation[:900])])
+        parts.extend(["", "ℹ️ <b>Açıklama</b>", html.escape(_excerpt(explanation, 900))])
     elif item.get("detail"):
         compact = clean(item.get("detail"))
         if compact and compact.lower() != summary.lower():
-            parts.extend(["", "ℹ️ <b>Detay</b>", html.escape(compact[:700])])
+            parts.extend(["", "ℹ️ <b>Detay</b>", html.escape(_excerpt(compact, 700))])
 
     if item.get("attachment_count"):
         parts.extend(["", f"📎 {int(item['attachment_count'])} ek"])
@@ -235,16 +339,109 @@ def layered_build_message(item):
         "",
         f'<a href="{html.escape(item["link"], quote=True)}">KAP bildiriminin tamamını aç</a>',
     ])
+    return _fit_message(parts)
 
+
+def _build_calendar_message(item, icon, layer_name, label):
+    title = clean(item.get("title")) or "Ekonomik Takvim"
+    published = base.format_date(item.get("published"))
+    provider = clean(item.get("provider"))
+    summary = clean(item.get("summary"))
+    values = [clean(value) for value in re.split(r"\s*·\s*", summary) if clean(value)]
+
+    parts = [
+        f"{icon} <b>{html.escape(layer_name)} | {html.escape(label)}</b>",
+        f"<b>{html.escape(title)}</b>",
+    ]
+    if published:
+        parts.append(f"🕒 {html.escape(published)}")
+    if provider and not _provider_is_redundant(provider, label):
+        parts.append(f"🔔 {html.escape(provider)}")
+
+    if values:
+        parts.extend(["", "📌 <b>Takvim bilgileri</b>"])
+        for value in values[:6]:
+            parts.append(f"• {html.escape(_excerpt(value, 220))}")
+
+    parts.extend([
+        "",
+        f'<a href="{html.escape(item["link"], quote=True)}">{_news_link_label(item.get("source"))}</a>',
+    ])
+    return _fit_message(parts)
+
+
+def _build_news_message(item):
+    source = item.get("source", "")
+    icon, layer_name, label = _source_header(item)
+
+    if source == "forexfactory":
+        return _build_calendar_message(item, icon, layer_name, label)
+
+    title = clean(item.get("title")) or "Haber"
+    published = base.format_date(item.get("published"))
+    provider = clean(item.get("provider"))
+    category = clean(item.get("category"))
+    summary, detail = _prepare_news_texts(item)
+
+    parts = [
+        f"{icon} <b>{html.escape(layer_name)} | {html.escape(label)}</b>",
+        f"<b>{html.escape(title)}</b>",
+    ]
+
+    meta = []
+    if published:
+        meta.append(f"🕒 {html.escape(published)}")
+    if category and _plain_compare(category) not in {
+        _plain_compare(layer_name),
+        _plain_compare(label),
+        "resmî duyuru",
+        "resmi duyuru",
+    }:
+        meta.append(f"🏷 {html.escape(category)}")
+    if provider and not _provider_is_redundant(provider, label):
+        meta.append(f"🏢 {html.escape(provider)}")
+    parts.extend(meta)
+
+    if summary:
+        parts.extend(["", "📝 <b>Özet</b>", html.escape(summary)])
+    if detail:
+        parts.extend(["", "ℹ️ <b>Detay</b>", html.escape(detail)])
+
+    if item.get("attachment_count"):
+        parts.extend(["", f"📎 {int(item['attachment_count'])} ek"])
+
+    parts.extend([
+        "",
+        f'<a href="{html.escape(item["link"], quote=True)}">{_news_link_label(source)}</a>',
+    ])
+    return _fit_message(parts)
+
+
+def _fit_message(parts, limit=3900):
+    """HTML etiketlerini bölmeden Telegram sınırına sığdır."""
     message = "\n".join(parts)
-    if len(message) <= 3900:
+    if len(message) <= limit:
         return message
 
-    link = parts[-1]
-    return message[:3700].rstrip() + "…\n\n" + link
+    link = parts[-1] if parts else ""
+    kept = []
+    reserve = len(link) + 2
+    for line in parts[:-1]:
+        candidate = "\n".join(kept + [line])
+        if len(candidate) + reserve <= limit:
+            kept.append(line)
+    while kept and not kept[-1]:
+        kept.pop()
+    return "\n".join(kept + ["", link])
 
 
-def install_kap_formatting():
+def layered_build_message(item):
+    if item.get("source") == "kap":
+        return _build_kap_message(item)
+    return _build_news_message(item)
+
+
+def install_message_formatting():
     if not any(rule[0] == "temerrut" for rule in v6.KAP_KIND_RULES):
         v6.KAP_KIND_RULES = (
             (
@@ -257,14 +454,18 @@ def install_kap_formatting():
     v6.layered_build_message = layered_build_message
 
 
+def install_kap_formatting():
+    """Eski test/çağrılar için geriye dönük uyum."""
+    install_message_formatting()
+
+
 def install_takeaway_layer():
-    # v10.send_research_item bu iki ismi kendi modül globalinden runtime'da okur.
     v10.summarize_report_text = summarize_report_text
     v10._summary_caption = _summary_caption
 
 
 def main():
-    install_kap_formatting()
+    install_message_formatting()
     install_takeaway_layer()
     v10.main()
 
