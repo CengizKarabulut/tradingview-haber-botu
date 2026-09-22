@@ -193,6 +193,8 @@
       "last_seen_key": "matriks:matriks:6761803:0",
       "seen_keys": [
         "matriks:matriks:6761803:0",
+        "matriks:matriks:6761796:0",
+        "matriks:matriks:6761790:0",
         "matriks:matriks:6761784:0",
         "matriks:matriks:6761780:0",
         "matriks:matriks:6761777:0",
@@ -329,6 +331,7 @@
         "cnbce:https://www.cnbce.com/borsa/dort-buyuklerden-sadece-bir-takim-kaldi-galatasaray-da-bist-100e-veda-etti-h37766",
         "cnbce:https://www.cnbce.com/borsa/wall-streetta-yapay-zeka-rallisi-nasdaq-rekor-kirdi-h37758",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-pazar-dagilimi-degisti-bist-100de-27-degisiklik-h37752",
+        "cnbce:https://www.cnbce.com/dunya/trump-acikladi-abd-ve-iran-heyetleri-3-saat-gorustu-h37832",
         "cnbce:https://www.cnbce.com/dunya/hurmuz-bogazinda-dikkat-ceken-karar-yukun-yuzde-20sine-el-konulabilecek-h37828",
         "cnbce:https://www.cnbce.com/haberler/erdogandan-dunyaya-cagri-bm-guvenlik-konseyi-mutlaka-reforma-edilmelidir-h37824",
         "cnbce:https://www.cnbce.com/haberler/oyaktan-saudi-aramco-iddialarina-net-yanit-yalcintas-anlasma-icin-tarih-verdi-h37821",
@@ -336,8 +339,8 @@
         "cnbce:https://www.cnbce.com/haberler/new-yorkta-turkiye-yatirim-konferansi-ekonomi-yonetimi-abdli-yatirimcilar-ile-bulustu-h37816",
         "cnbce:https://www.cnbce.com/haberler/seddkden-acnturk-sigorta-aciklamasi-23-gozalti-1-kisi-icin-yakalama-karari-h37813",
         "cnbce:https://www.cnbce.com/haberler/zayiflama-ilaclarinda-100-milyar-dolarlik-yaris-dev-sirketler-yeni-tedaviler-gelistiriyor-h37812",
-        "cnbce:https://www.cnbce.com/haberler/disneyta-reklamsiz-donem-bitiyor-en-pahali-pakete-bile-reklam-geliyor-h37808",
         "cnbce:https://www.cnbce.com/sirket-haberleri/metro-holdingden-suc-duyurusu-tera-portfoy-ve-tera-yoneticileri-de-listede-h37817",
+        "cnbce:https://www.cnbce.com/haberler/disneyta-reklamsiz-donem-bitiyor-en-pahali-pakete-bile-reklam-geliyor-h37808",
         "cnbce:https://www.cnbce.com/haberler/spkdan-pay-geri-alimlarinda-yeni-karar-ust-sinir-kaldirildi-h37803",
         "cnbce:https://www.cnbce.com/haberler/kremlin-duyurdu-erdogan-ve-putin-karadenizi-gorustu-h37800",
         "cnbce:https://www.cnbce.com/haberler/istanbulda-siddetli-yagis-alarmi-7-bin-38-personel-teyakkuzda-h37799",
@@ -357,8 +360,15 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4064746",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yenilenebilir-elektrikte-buyumenin-onundeki-darbogaz-sebeke-baglantilari-oldu/4064128",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yenilenebilir-elektrikte-buyumenin-onundeki-darbogaz-sebeke-baglantilari-oldu/4064128",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/asyaportta-tek-gemi-ugraginda-22-bin-896-teu-konteyner-ellecleme-ile-turkiye-rekoru-kirildi/4063981",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kamu-ozel-isbirligi-yatirimlarinda-oncelik-yerli-mali-olacak/4064108",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-uc-haftanin-en-dusuk-seviyesine-geriledi/4064385",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bu-yilin-6-ayinda-tasinan-posta-kolisi-ve-kargo-gonderileri-728-milyonu-gecti/4064228",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiyenin-2040-enerji-vizyonunun-temelinde-elektrifikasyon-olacak/4065117",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ile-abd-arasinda-nukleer-enerji-alaninda-anlasma-imzalandi/4064083",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4064746",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-22-eylul-2026/4064581",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/un-sektorunun-kuresel-aktorleri-taskentte-bulusacak/4064565",
@@ -368,14 +378,7 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-ruzgar-enerjisi-kapasitesinde-yil-sonuna-kadar-180-gigavattan-fazla-artis-bekleniyor/4064391",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ruzgar-enerjisinde-uluslararasi-isbirligini-artirmayi-hedefliyor/4064284",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/gelismekte-olan-ulkelerin-yeni-veri-merkezi-yatirimlarindan-aldigi-pay-yuzde-40a-yaklasti/4064161",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/makine-sektorunden-8-ayda-18-8-milyar-dolar-ihracat/4064155",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ile-abd-arasinda-nukleer-enerji-alaninda-anlasma-imzalandi/4064083",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kamu-ozel-isbirligi-yatirimlarinda-oncelik-yerli-mali-olacak/4064108",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiyenin-2040-enerji-vizyonunun-temelinde-elektrifikasyon-olacak/4065117",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yenilenebilir-elektrikte-buyumenin-onundeki-darbogaz-sebeke-baglantilari-oldu/4064128",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/asyaportta-tek-gemi-ugraginda-22-bin-896-teu-konteyner-ellecleme-ile-turkiye-rekoru-kirildi/4063981",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-uc-haftanin-en-dusuk-seviyesine-geriledi/4064385",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bu-yilin-6-ayinda-tasinan-posta-kolisi-ve-kargo-gonderileri-728-milyonu-gecti/4064228"
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/makine-sektorunden-8-ayda-18-8-milyar-dolar-ihracat/4064155"
       ]
     },
     "investing": {
@@ -539,6 +542,8 @@
         "tradingview:fxstreet:dcba31768d9e8:0",
         "tradingview:cointelegraph:f99c959ddd9e8:0",
         "tradingview:matriks:6761803:0",
+        "tradingview:matriks:6761796:0",
+        "tradingview:matriks:6761790:0",
         "tradingview:matriks:6761784:0",
         "tradingview:matriks:6761780:0",
         "tradingview:matriks:6761777:0",
