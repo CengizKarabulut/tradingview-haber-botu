@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1666867",
+      "last_seen_key": "kap:1666868",
       "seen_keys": [
+        "kap:1666868",
         "kap:1666867",
         "kap:1666862",
         "kap:1666861",
@@ -249,8 +250,11 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ab2a2b424008d7d43735571/PICNEWS/tr/masfen-enerji-den-75-bin-adet-pay-geri-alimi-22-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ab2b9b124008d7d437356d1/PICNEWS/tr/fed-barkin-enflasyon-riskleri-istihdam-risklerinin-onunde-22-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6ab2b9b124008d7d437356d1/PICNEWS/tr/fed-barkin-enflasyon-riskleri-istihdam-risklerinin-onunde-22-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ab2b72295016b5817e5e7ae/PICNEWS/tr/abd-de-2-yillik-tahvil-ihalesinde-faiz-yukseldi-22-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ab2a52995016b5817e5e64a/PICNEWS/tr/iran-da-hurmuz-bogazi-ndan-gecis-kurallarini-ihlal-eden-gemilere-ceza-duzenlemesi-22-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ab2a2b424008d7d43735571/PICNEWS/tr/masfen-enerji-den-75-bin-adet-pay-geri-alimi-22-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ab29fd895016b5817e5e622/PICNEWS/tr/blume-metal-den-30-milyon-tl-lik-pay-geri-alim-programi-22-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ab29e8f24008d7d43735534/PICNEWS/tr/bank-of-america-dan-iki-hissede-net-alim-golda-ve-petkm-de-pay-oranlari-yukseldi-22-09-26/",
@@ -261,8 +265,14 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/trump-iran-ile-gorusmeler-cok-verimli-gecti-3789094",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/fon-sorusturmasinda-5-supheli-tutuklandi-3789104",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/fon-sorusturmasinda-5-supheli-tutuklandi-3789104",
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-23092026-3789103",
+        "bloomberght:https://www.bloomberght.com/tcmb-den-bir-elektronik-para-kurulusuna-faaliyet-izni-iptali-3789102",
+        "bloomberght:https://www.bloomberght.com/zelenskiy-savas-kis-gelmeden-sona-ermeli-3789101",
+        "bloomberght:https://www.bloomberght.com/suudi-arabistan-irak-in-25-petrol-tankeri-iddiasini-yalanladi-3789100",
+        "bloomberght:https://www.bloomberght.com/karahan-dis-soklar-ve-ic-dinamikler-enflasyonun-seyrini-belirleyecek-3789099",
         "bloomberght:https://www.bloomberght.com/trump-iran-ile-gorusmeler-cok-verimli-gecti-3789094",
         "bloomberght:https://www.bloomberght.com/fedbarkin-enflasyonist-baskilar-kalici-hale-gelebilir-3789093",
         "bloomberght:https://www.bloomberght.com/iran-hurmuz-de-kurallara-uymayan-gemilerin-yuklerine-el-koyacak-3789091",
@@ -331,15 +341,20 @@
         "cnbce:https://www.cnbce.com/borsa/dort-buyuklerden-sadece-bir-takim-kaldi-galatasaray-da-bist-100e-veda-etti-h37766",
         "cnbce:https://www.cnbce.com/borsa/wall-streetta-yapay-zeka-rallisi-nasdaq-rekor-kirdi-h37758",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-pazar-dagilimi-degisti-bist-100de-27-degisiklik-h37752",
+        "cnbce:https://www.cnbce.com/haberler/tcmbden-bir-elektronik-para-kurulusuna-faaliyet-izni-iptali-h37839",
+        "cnbce:https://www.cnbce.com/dunya/shinyhunterstan-fbia-saldiri-iddiasi-binlerce-kisinin-verileri-ele-gecirildi-h37838",
+        "cnbce:https://www.cnbce.com/dunya/iran-abd-gorusmesinde-hurmuz-pazarligi-tahran-sartlarini-acikladi-h37837",
+        "cnbce:https://www.cnbce.com/haberler/tcmb-baskani-karahandan-enflasyon-mesaji-dezenflasyon-sureci-devam-ediyor-h37836",
+        "cnbce:https://www.cnbce.com/haberler/sermaye-piyasasi-sorusturmasinda-5-tutuklama-tera-yoneticileri-de-listede-h37834",
         "cnbce:https://www.cnbce.com/dunya/trump-acikladi-abd-ve-iran-heyetleri-3-saat-gorustu-h37832",
         "cnbce:https://www.cnbce.com/dunya/hurmuz-bogazinda-dikkat-ceken-karar-yukun-yuzde-20sine-el-konulabilecek-h37828",
         "cnbce:https://www.cnbce.com/haberler/erdogandan-dunyaya-cagri-bm-guvenlik-konseyi-mutlaka-reforma-edilmelidir-h37824",
+        "cnbce:https://www.cnbce.com/sirket-haberleri/metro-holdingden-suc-duyurusu-tera-portfoy-ve-tera-yoneticileri-de-listede-h37817",
         "cnbce:https://www.cnbce.com/haberler/oyaktan-saudi-aramco-iddialarina-net-yanit-yalcintas-anlasma-icin-tarih-verdi-h37821",
         "cnbce:https://www.cnbce.com/dunya/trumptan-bm-kursusunde-iran-cagrisi-baskiyi-artirmaliyiz-h37820",
         "cnbce:https://www.cnbce.com/haberler/new-yorkta-turkiye-yatirim-konferansi-ekonomi-yonetimi-abdli-yatirimcilar-ile-bulustu-h37816",
         "cnbce:https://www.cnbce.com/haberler/seddkden-acnturk-sigorta-aciklamasi-23-gozalti-1-kisi-icin-yakalama-karari-h37813",
         "cnbce:https://www.cnbce.com/haberler/zayiflama-ilaclarinda-100-milyar-dolarlik-yaris-dev-sirketler-yeni-tedaviler-gelistiriyor-h37812",
-        "cnbce:https://www.cnbce.com/sirket-haberleri/metro-holdingden-suc-duyurusu-tera-portfoy-ve-tera-yoneticileri-de-listede-h37817",
         "cnbce:https://www.cnbce.com/haberler/disneyta-reklamsiz-donem-bitiyor-en-pahali-pakete-bile-reklam-geliyor-h37808",
         "cnbce:https://www.cnbce.com/haberler/spkdan-pay-geri-alimlarinda-yeni-karar-ust-sinir-kaldirildi-h37803",
         "cnbce:https://www.cnbce.com/haberler/kremlin-duyurdu-erdogan-ve-putin-karadenizi-gorustu-h37800",
@@ -360,15 +375,16 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yenilenebilir-elektrikte-buyumenin-onundeki-darbogaz-sebeke-baglantilari-oldu/4064128",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ile-abd-arasinda-nukleer-enerji-alaninda-anlasma-imzalandi/4064083",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ile-abd-arasinda-nukleer-enerji-alaninda-anlasma-imzalandi/4064083",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yenilenebilir-elektrikte-buyumenin-onundeki-darbogaz-sebeke-baglantilari-oldu/4064128",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/asyaportta-tek-gemi-ugraginda-22-bin-896-teu-konteyner-ellecleme-ile-turkiye-rekoru-kirildi/4063981",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kamu-ozel-isbirligi-yatirimlarinda-oncelik-yerli-mali-olacak/4064108",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-uc-haftanin-en-dusuk-seviyesine-geriledi/4064385",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bu-yilin-6-ayinda-tasinan-posta-kolisi-ve-kargo-gonderileri-728-milyonu-gecti/4064228",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-new-yorkta-enflasyon-ve-makroekonomik-gorunum-baslikli-sunum-yapti/4065484",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiyenin-2040-enerji-vizyonunun-temelinde-elektrifikasyon-olacak/4065117",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ile-abd-arasinda-nukleer-enerji-alaninda-anlasma-imzalandi/4064083",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ekonomi-yonetiminden-cumhurbaskani-erdoganin-bm-genel-kurulundaki-hitabina-iliskin-paylasim/4065493",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4064746",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-22-eylul-2026/4064581",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/un-sektorunun-kuresel-aktorleri-taskentte-bulusacak/4064565",
@@ -378,22 +394,23 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-ruzgar-enerjisi-kapasitesinde-yil-sonuna-kadar-180-gigavattan-fazla-artis-bekleniyor/4064391",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ruzgar-enerjisinde-uluslararasi-isbirligini-artirmayi-hedefliyor/4064284",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/gelismekte-olan-ulkelerin-yeni-veri-merkezi-yatirimlarindan-aldigi-pay-yuzde-40a-yaklasti/4064161",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kamu-ozel-isbirligi-yatirimlarinda-oncelik-yerli-mali-olacak/4064108",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/makine-sektorunden-8-ayda-18-8-milyar-dolar-ihracat/4064155"
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/stifel-meta-museun-shopify-ve-twilio-hisselerini-yukseltecegini-dusunuyor-93CH-4074903",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/raytheon-fuze-parcalar-icin-1056-milyon-dolarlk-sozlesme-ald-93CH-4075073",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/analyst-ratings/stifel-meta-museun-shopify-ve-twilio-hisselerini-yukseltecegini-dusunuyor-93CH-4074903",
-        "investing:https://tr.investing.com/news/stock-market-news/lpl-financial-hisseleri-neden-dusuyor-93CH-4074902",
-        "investing:https://tr.investing.com/news/insider-trading-news/bcb-bancorp-cfosu-77500-dolarlk-hisse-senedi-satn-ald-93CH-4074901",
-        "investing:https://tr.investing.com/news/stock-market-news/jpmorgan-chase-hisseleri-neden-dusuyor-93CH-4074900",
-        "investing:https://tr.investing.com/news/company-news/kroger-groceryshop-konferansnda-yapay-zeka-stratejisini-acklad-93CH-4074899",
-        "investing:https://tr.investing.com/news/stock-market-news/expedia-hisseleri-neden-dusuyor-93CH-4074898",
-        "investing:https://tr.investing.com/news/commodities-news/soya-vadeli-islemleri-abdcin-zirvesi-oncesi-sakin-93CH-4074896",
-        "investing:https://tr.investing.com/news/stock-market-news/suudi-arabistan-irakn-petrol-tankeri-iddiasn-yalanlad-93CH-4074895",
-        "investing:https://tr.investing.com/news/insider-trading-news/evp-maureen-hemhauser-104109-dolarlk-hisse-satt-93CH-4074894",
-        "investing:https://tr.investing.com/news/insider-trading-news/butler-national-yoneticisi-joseph-p-daly-25509-dolar-degerinde-hisse-ald-93CH-4074893",
+        "investing:https://tr.investing.com/news/stock-market-news/raytheon-fuze-parcalar-icin-1056-milyon-dolarlk-sozlesme-ald-93CH-4075073",
+        "investing:https://tr.investing.com/news/stock-market-news/general-dynamics-493-milyon-dolarlk-ordu-sozlesmesi-ald-93CH-4075072",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-hca-healthcare-hissesini-buyume-gorunumuyle-outperformda-baslatt-93CH-4075071",
+        "investing:https://tr.investing.com/news/economy-news/fedin-perlisi-hazine-bonosu-almlar-piyasa-kosullarna-gore-uyarlanacak-4075070",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-ardent-health-hissesine-notr-notla-baslad-93CH-4075068",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-community-health-hissesine-notr-onerisiyle-baslad-93CH-4075067",
+        "investing:https://tr.investing.com/news/analyst-ratings/bmo-capital-tenet-healthcare-hissesine-notr-onerisiyle-baslad-93CH-4075066",
+        "investing:https://tr.investing.com/news/company-news/solaris-energy-125-milyar-dolarlk-tahvili-7-faizle-fiyatlad-93CH-4075061",
+        "investing:https://tr.investing.com/news/stock-market-news/apollo-itfalar-snrlandryor-talepler-147ye-ulast-4075064",
+        "investing:https://tr.investing.com/news/company-news/dynex-capital-120-milyon-dolarlk-imtiyazl-hisse-arzn-fiyatlad-93CH-4075060",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -414,6 +431,16 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/analyst-ratings/stifel-meta-museun-shopify-ve-twilio-hisselerini-yukseltecegini-dusunuyor-93CH-4074903",
+        "investing:https://tr.investing.com/news/stock-market-news/lpl-financial-hisseleri-neden-dusuyor-93CH-4074902",
+        "investing:https://tr.investing.com/news/insider-trading-news/bcb-bancorp-cfosu-77500-dolarlk-hisse-senedi-satn-ald-93CH-4074901",
+        "investing:https://tr.investing.com/news/stock-market-news/jpmorgan-chase-hisseleri-neden-dusuyor-93CH-4074900",
+        "investing:https://tr.investing.com/news/company-news/kroger-groceryshop-konferansnda-yapay-zeka-stratejisini-acklad-93CH-4074899",
+        "investing:https://tr.investing.com/news/stock-market-news/expedia-hisseleri-neden-dusuyor-93CH-4074898",
+        "investing:https://tr.investing.com/news/commodities-news/soya-vadeli-islemleri-abdcin-zirvesi-oncesi-sakin-93CH-4074896",
+        "investing:https://tr.investing.com/news/stock-market-news/suudi-arabistan-irakn-petrol-tankeri-iddiasn-yalanlad-93CH-4074895",
+        "investing:https://tr.investing.com/news/insider-trading-news/evp-maureen-hemhauser-104109-dolarlk-hisse-satt-93CH-4074894",
+        "investing:https://tr.investing.com/news/insider-trading-news/butler-national-yoneticisi-joseph-p-daly-25509-dolar-degerinde-hisse-ald-93CH-4074893",
         "investing:https://tr.investing.com/news/economy-news/bessent-trumpn-yapay-zeka-car-rolunde-favori-olarak-one-ckyor-4074881",
         "investing:https://tr.investing.com/news/stock-market-news/goldman-sachstan-yapay-zeka-icin-en-iyi-hisse-onerisi-93CH-4074879",
         "investing:https://tr.investing.com/news/sec-filings/network1-technologies-hissedarlar-yonetim-kurulunu-yeniden-secti-93CH-4074878",
@@ -427,8 +454,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/spk-hisse-geri-aliminda-siniri-kaldirdi-1743008",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/merkez-bankasi-papelin-faaliyet-iznini-iptal-etti-1743047",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/merkez-bankasi-papelin-faaliyet-iznini-iptal-etti-1743047",
         "ntvpara:https://www.ntv.com.tr/ntvpara/spk-hisse-geri-aliminda-siniri-kaldirdi-1743008",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-fiyatlari-canli-22-eylul-2026-gram-ceyrek-yarim-ve-tam-altin-fiyatlari-ne-kadar-oldu-1742960",
         "ntvpara:https://www.ntv.com.tr/ntvpara/onlarca-noktaya-sefer-duzenliyordu-otobus-firmasi-kapandi-1742929",
@@ -452,8 +480,11 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-2040-enerji-rotasi-belli-oldu-300-milyar-dolarlik-yatirim-hamlesi-957719.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/tcmb-papelin-faaliyet-iznini-iptal-etti-957743.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/tcmb-papelin-faaliyet-iznini-iptal-etti-957743.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-icao-denetiminde-yuzde-9545-basariya-ulasti-957738.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/sermaye-piyasasi-sorusturmasinda-5-supheli-tutuklandi-957736.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-2040-enerji-rotasi-belli-oldu-300-milyar-dolarlik-yatirim-hamlesi-957719.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/abdli-dogrudan-yatirimcilar-new-yorkta-turkiyenin-ekonomi-yonetimiyle-bulustu-957679.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/spk-pay-geri-alimlarinda-bedel-ust-sinirini-kaldirdi-957670.html",
@@ -517,8 +548,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:2539bacc7d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:2cadbaa84d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:2cadbaa84d9e8:0",
+        "tradingview:fxstreet:0b2c9c0c3d9e8:0",
+        "tradingview:fxstreet:59d00735cd9e8:0",
+        "tradingview:cointelegraph:f992b94a2d9e8:0",
+        "tradingview:beincrypto:32b89f650d9e8:0",
+        "tradingview:fxstreet:084d6b492d9e8:0",
+        "tradingview:fxstreet:aa606f377d9e8:0",
+        "tradingview:fxstreet:63b426786d9e8:0",
         "tradingview:fxstreet:2539bacc7d9e8:0",
         "tradingview:fxstreet:32cd197c5d9e8:0",
         "tradingview:fxstreet:6574f0cced9e8:0",
@@ -626,6 +665,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "amb den nagel k s tlay c politikan n goz ard edilemeyecegini soyluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2cadbaa84d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "meksika pesosu tas ma tamponu usd mxn 100 gunluk sma n n alt na k rmas yla inceliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:0b2c9c0c3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu ihracat art s bok un durusunu destekliyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:59d00735cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kanada n n en buyuk alt bankas tokenize edilmis kanada dolar mevduatlar n arast r yor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:f992b94a2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yapay zekada durgunluk bitti openai anthropic yeni modellerini duyurdu",
+      "link": "https://tr.tradingview.com/news/beincrypto:32b89f650d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tayvan dolar hisse senedi girisleri twd yi abd dolar kars s nda destekliyor ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:084d6b492d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n bar s umutlar s k lasmac fed beklentileriyle kars las nca deger kaybediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:aa606f377d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "asya dovizleri bolgesel para birimleri yapay zeka kaynakl destek mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:63b426786d9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "turkiye icao denetiminde yuzde 95 45 basar ya ulast turkiye uluslararas sivil havac l k teskilat n n icao gerceklestirdigi emniyet gozetim denetiminde yuzde 95 45 lik etkin uygulama ei seviyesine ulasarak uluslararas alanda onemli basar ya imza att",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-icao-denetiminde-yuzde-9545-basariya-ulasti-957738.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "sermaye piyasas sorusturmas nda 5 supheli tutukland istanbul sermaye piyasas nda gerceklestirilen islemlere iliskin yurutulen sorusturmalar kapsam nda duzenlenen operasyonda gozalt na al nan 5 supheli tutukland",
+      "link": "https://www.trthaber.com/haber/ekonomi/sermaye-piyasasi-sorusturmasinda-5-supheli-tutuklandi-957736.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "merkez bankas papel in faaliyet iznini iptal etti turkiye cumhuriyet merkez bankas papel elektronik para odeme hizmetleri a s nin elektronik para kurulusu olarak faaliyet gosterme iznini iptal etti",
+      "link": "https://www.ntv.com.tr/ntvpara/merkez-bankasi-papelin-faaliyet-iznini-iptal-etti-1743047"
+    },
+    {
+      "source": "investing",
+      "text": "raytheon fuze parcalar 105 6 milyon dolarl k sozlesme ald",
+      "link": "https://tr.investing.com/news/stock-market-news/raytheon-fuze-parcalar-icin-1056-milyon-dolarlk-sozlesme-ald-93CH-4075073"
+    },
+    {
+      "source": "investing",
+      "text": "general dynamics 49 3 milyon dolarl k ordu sozlesmesi ald",
+      "link": "https://tr.investing.com/news/stock-market-news/general-dynamics-493-milyon-dolarlk-ordu-sozlesmesi-ald-93CH-4075072"
+    },
+    {
+      "source": "investing",
+      "text": "bmo hca healthcare hissesini buyume gorunumuyle outperform baslatt",
+      "link": "https://tr.investing.com/news/analyst-ratings/bmo-hca-healthcare-hissesini-buyume-gorunumuyle-outperformda-baslatt-93CH-4075071"
+    },
+    {
+      "source": "investing",
+      "text": "fed in perli si hazine bonosu al mlar piyasa kosullar na gore uyarlanacak",
+      "link": "https://tr.investing.com/news/economy-news/fedin-perlisi-hazine-bonosu-almlar-piyasa-kosullarna-gore-uyarlanacak-4075070"
+    },
+    {
+      "source": "investing",
+      "text": "bmo ardent health hissesine notr notla baslad",
+      "link": "https://tr.investing.com/news/analyst-ratings/bmo-ardent-health-hissesine-notr-notla-baslad-93CH-4075068"
+    },
+    {
+      "source": "investing",
+      "text": "bmo capital community health hissesine notr onerisiyle baslad",
+      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-community-health-hissesine-notr-onerisiyle-baslad-93CH-4075067"
+    },
+    {
+      "source": "investing",
+      "text": "bmo capital tenet healthcare hissesine notr onerisiyle baslad",
+      "link": "https://tr.investing.com/news/analyst-ratings/bmo-capital-tenet-healthcare-hissesine-notr-onerisiyle-baslad-93CH-4075066"
+    },
+    {
+      "source": "investing",
+      "text": "solaris energy 1 25 milyar dolarl k tahvili 7 faizle fiyatlad",
+      "link": "https://tr.investing.com/news/company-news/solaris-energy-125-milyar-dolarlk-tahvili-7-faizle-fiyatlad-93CH-4075061"
+    },
+    {
+      "source": "investing",
+      "text": "apollo itfalar s n rland r yor talepler 14 7 ye ulast",
+      "link": "https://tr.investing.com/news/stock-market-news/apollo-itfalar-snrlandryor-talepler-147ye-ulast-4075064"
+    },
+    {
+      "source": "investing",
+      "text": "dynex capital 120 milyon dolarl k imtiyazl hisse arz n fiyatlad",
+      "link": "https://tr.investing.com/news/company-news/dynex-capital-120-milyon-dolarlk-imtiyazl-hisse-arzn-fiyatlad-93CH-4075060"
+    },
+    {
+      "source": "bloomberght",
+      "text": "fon sorusturmas nda 5 supheli tutukland sermaye piyasas nda gerceklestirilen islemlere iliskin yurutulen sorusturma kapsam nda tera yat r m pusula yoneticilerinin aralar nda bulundugu 5 supheli tutukland",
+      "link": "https://www.bloomberght.com/fon-sorusturmasinda-5-supheli-tutuklandi-3789104"
+    },
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 23 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-23092026-3789103"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tcmb den elektronik para kurulusuna faaliyet izni iptali tcmb papel elektronik para odeme hizmetleri a s nin faaliyet izninin iptaline karar verdi",
+      "link": "https://www.bloomberght.com/tcmb-den-bir-elektronik-para-kurulusuna-faaliyet-izni-iptali-3789102"
+    },
+    {
+      "source": "bloomberght",
+      "text": "zelenskiy savas k s gelmeden sona ermeli ukrayna devlet baskan volodimir zelenskiy abd baskan donald trump n savas n sona erdirilmesine yard mc olacag n belirterek rusya ukrayna savas n n k s gelmeden mumkun olan en k sa surede bitirilmesi gerektigini soyledi",
+      "link": "https://www.bloomberght.com/zelenskiy-savas-kis-gelmeden-sona-ermeli-3789101"
+    },
+    {
+      "source": "bloomberght",
+      "text": "karahan kuresel soklar ic dinamikler enflasyonun seyrini belirleyecek tcmb baskan fatih karahan turkiye abd is konseyi taik taraf ndan duzenlenen konferansta gerceklestirdigi sunumda d s soklar yurt ici dinamiklerin onumuzdeki donemde enflasyonun seyrini sekillendirecegini belirtti",
+      "link": "https://www.bloomberght.com/karahan-dis-soklar-ve-ic-dinamikler-enflasyonun-seyrini-belirleyecek-3789099"
+    },
+    {
+      "source": "forinvest",
+      "text": "fed barkin enflasyon riskleri istihdam risklerinin onunde fed uyesi thomas barkin gecen haftaki faiz art r m n n fiyat istikrar n yeniden saglama surecine katk verecegini belirterek ek faiz art r mlar na ihtiyac olup olmad g n gormek verilerin izle",
+      "link": "https://www.foreks.com/haber/detay/6ab2b9b124008d7d437356d1/PICNEWS/tr/fed-barkin-enflasyon-riskleri-istihdam-risklerinin-onunde-22-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "abd 2 y ll k tahvil ihalesinde faiz yukseldi abd hazinesi nin 22 eylul tarihli 2 y ll k tahvil ihalesinde yuksek getiri oran 4 787 oldu onceki ihalede oran 4 20 seviyesindeydi",
+      "link": "https://www.foreks.com/haber/detay/6ab2b72295016b5817e5e7ae/PICNEWS/tr/abd-de-2-yillik-tahvil-ihalesinde-faiz-yukseldi-22-09-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "iran hurmuz bogaz ndan gecis kurallar n ihlal eden gemilere ceza duzenlemesi iran meclisi ulusal guvenlik komisyonu hurmuz bogaz n n guvenligi ilerlemesine yonelik stratejik eylem plan n n baz maddelerini kabul etti",
+      "link": "https://www.foreks.com/haber/detay/6ab2a52995016b5817e5e64a/PICNEWS/tr/iran-da-hurmuz-bogazi-ndan-gecis-kurallarini-ihlal-eden-gemilere-ceza-duzenlemesi-22-09-26"
+    },
+    {
+      "source": "kap",
+      "text": "usak ozel durum ac klamas genel borclanma arac itfa kupon odemesi hakk nda sirket usak seramik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1666868"
+    },
     {
       "source": "tradingview",
       "text": "foreks piyasas nda bugun ileri pmi lar ilgi odag nda peki ya bm genel kurulu",
