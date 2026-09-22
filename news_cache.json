@@ -341,6 +341,7 @@
         "cnbce:https://www.cnbce.com/borsa/dort-buyuklerden-sadece-bir-takim-kaldi-galatasaray-da-bist-100e-veda-etti-h37766",
         "cnbce:https://www.cnbce.com/borsa/wall-streetta-yapay-zeka-rallisi-nasdaq-rekor-kirdi-h37758",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-pazar-dagilimi-degisti-bist-100de-27-degisiklik-h37752",
+        "cnbce:https://www.cnbce.com/haberler/masaktan-para-islemlerine-yeni-duzenleme-limitler-guncellendi-h37840",
         "cnbce:https://www.cnbce.com/haberler/tcmbden-bir-elektronik-para-kurulusuna-faaliyet-izni-iptali-h37839",
         "cnbce:https://www.cnbce.com/dunya/shinyhunterstan-fbia-saldiri-iddiasi-binlerce-kisinin-verileri-ele-gecirildi-h37838",
         "cnbce:https://www.cnbce.com/dunya/iran-abd-gorusmesinde-hurmuz-pazarligi-tahran-sartlarini-acikladi-h37837",
@@ -348,8 +349,8 @@
         "cnbce:https://www.cnbce.com/haberler/sermaye-piyasasi-sorusturmasinda-5-tutuklama-tera-yoneticileri-de-listede-h37834",
         "cnbce:https://www.cnbce.com/dunya/trump-acikladi-abd-ve-iran-heyetleri-3-saat-gorustu-h37832",
         "cnbce:https://www.cnbce.com/dunya/hurmuz-bogazinda-dikkat-ceken-karar-yukun-yuzde-20sine-el-konulabilecek-h37828",
-        "cnbce:https://www.cnbce.com/haberler/erdogandan-dunyaya-cagri-bm-guvenlik-konseyi-mutlaka-reforma-edilmelidir-h37824",
         "cnbce:https://www.cnbce.com/sirket-haberleri/metro-holdingden-suc-duyurusu-tera-portfoy-ve-tera-yoneticileri-de-listede-h37817",
+        "cnbce:https://www.cnbce.com/haberler/erdogandan-dunyaya-cagri-bm-guvenlik-konseyi-mutlaka-reforma-edilmelidir-h37824",
         "cnbce:https://www.cnbce.com/haberler/oyaktan-saudi-aramco-iddialarina-net-yanit-yalcintas-anlasma-icin-tarih-verdi-h37821",
         "cnbce:https://www.cnbce.com/dunya/trumptan-bm-kursusunde-iran-cagrisi-baskiyi-artirmaliyiz-h37820",
         "cnbce:https://www.cnbce.com/haberler/new-yorkta-turkiye-yatirim-konferansi-ekonomi-yonetimi-abdli-yatirimcilar-ile-bulustu-h37816",
@@ -375,15 +376,15 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ile-abd-arasinda-nukleer-enerji-alaninda-anlasma-imzalandi/4064083",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yenilenebilir-elektrikte-buyumenin-onundeki-darbogaz-sebeke-baglantilari-oldu/4064128",
       "seen_keys": [
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ile-abd-arasinda-nukleer-enerji-alaninda-anlasma-imzalandi/4064083",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yenilenebilir-elektrikte-buyumenin-onundeki-darbogaz-sebeke-baglantilari-oldu/4064128",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/asyaportta-tek-gemi-ugraginda-22-bin-896-teu-konteyner-ellecleme-ile-turkiye-rekoru-kirildi/4063981",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-new-yorkta-enflasyon-ve-makroekonomik-gorunum-baslikli-sunum-yapti/4065484",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-uc-haftanin-en-dusuk-seviyesine-geriledi/4064385",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bu-yilin-6-ayinda-tasinan-posta-kolisi-ve-kargo-gonderileri-728-milyonu-gecti/4064228",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiyenin-2040-enerji-vizyonunun-temelinde-elektrifikasyon-olacak/4065117",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-ile-abd-arasinda-nukleer-enerji-alaninda-anlasma-imzalandi/4064083",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ekonomi-yonetiminden-cumhurbaskani-erdoganin-bm-genel-kurulundaki-hitabina-iliskin-paylasim/4065493",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4064746",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-22-eylul-2026/4064581",
@@ -551,8 +552,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:159a86499d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:fe8cad9e6d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:fe8cad9e6d9e8:0",
         "tradingview:fxstreet:159a86499d9e8:0",
         "tradingview:fxstreet:34311d388d9e8:0",
         "tradingview:fxstreet:0b6925a3cd9e8:0",
@@ -677,6 +679,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro abd dolar yukselmeye devam ederken temmuz ay ndan yana en dusuk seviyesine geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:fe8cad9e6d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "ingiliz sterlini fed yetkililerinin daha fazlas n savunmas yla yeni eylul dip seviyesine ulast",
