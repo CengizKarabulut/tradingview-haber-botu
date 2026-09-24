@@ -760,18 +760,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/dycom-industries-yoneticisi-carmen-sabater-98217-dolarlk-hisse-ald-93CH-4078497",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/applen-svpsi-jennifer-newstead-815803-dolar-degerinde-hisse-satt-93CH-4078506",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/applen-svpsi-jennifer-newstead-815803-dolar-degerinde-hisse-satt-93CH-4078506",
+        "investing:https://tr.investing.com/news/sec-filings/amc-entertainment-hissedarlar-hisse-plann-onaylad-93CH-4078505",
+        "investing:https://tr.investing.com/news/sec-filings/atlas-energy-guc-projesi-icin-6135-milyon-dolarlk-anlasma-imzalad-93CH-4078504",
+        "investing:https://tr.investing.com/news/sec-filings/darden-restaurants-hissedarlar-yonetim-kurulunu-secti-93CH-4078503",
+        "investing:https://tr.investing.com/news/sec-filings/cnl-strategic-capital-agustos-varlk-degerlerini-acklad-93CH-4078502",
+        "investing:https://tr.investing.com/news/insider-trading-news/revolution-medicines-yoneticisi-196-milyon-dolarlk-hisse-satt-93CH-4078501",
+        "investing:https://tr.investing.com/news/company-news/faraday-future-29-eylulde-is-ortaklar-konferans-duzenleyecek-93CH-4078500",
+        "investing:https://tr.investing.com/news/sec-filings/venu-holding-hissedarlar-yonetim-kurulu-secimlerini-onaylad-93CH-4078499",
         "investing:https://tr.investing.com/news/insider-trading-news/dycom-industries-yoneticisi-carmen-sabater-98217-dolarlk-hisse-ald-93CH-4078497",
         "investing:https://tr.investing.com/news/company-news/cotec-donusturulebilir-tahvil-arz-icin-son-tarihi-uzatt-93CH-4078496",
-        "investing:https://tr.investing.com/news/insider-trading-news/snowflake-yoneticisi-dageville-1695-milyon-dolarlk-hisse-satt-93CH-4078495",
-        "investing:https://tr.investing.com/news/insider-trading-news/butterfly-network-ceosu-devivo-59866-dolarlk-hisse-satt-93CH-4078494",
-        "investing:https://tr.investing.com/news/insider-trading-news/snowflake-cro-jonathan-beaulier-253953-dolarlk-hisse-satt-93CH-4078493",
-        "investing:https://tr.investing.com/news/transcripts/ittnin-buyumesi-genisliyor-25-yllk-konferans-93CH-4078491",
-        "investing:https://tr.investing.com/news/stock-market-news/anthropic-kurucu-ortaklara-cogunluk-kontrolu-verecek-super-oy-hisseleri-oneriyor-4078492",
-        "investing:https://tr.investing.com/news/company-news/cardinal-infrastructure-kredi-imkann-550-milyon-dolara-ckard-93CH-4078489",
-        "investing:https://tr.investing.com/news/company-news/centerpoint-energyye-sebeke-yukseltmesi-icin-50-milyon-dolar-93CH-4078485",
-        "investing:https://tr.investing.com/news/transcripts/telus-cibc-konferansnda-odak-daraltld-temettu-dusuruldu-93CH-4078483",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -792,6 +792,14 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/insider-trading-news/snowflake-yoneticisi-dageville-1695-milyon-dolarlk-hisse-satt-93CH-4078495",
+        "investing:https://tr.investing.com/news/insider-trading-news/butterfly-network-ceosu-devivo-59866-dolarlk-hisse-satt-93CH-4078494",
+        "investing:https://tr.investing.com/news/insider-trading-news/snowflake-cro-jonathan-beaulier-253953-dolarlk-hisse-satt-93CH-4078493",
+        "investing:https://tr.investing.com/news/transcripts/ittnin-buyumesi-genisliyor-25-yllk-konferans-93CH-4078491",
+        "investing:https://tr.investing.com/news/stock-market-news/anthropic-kurucu-ortaklara-cogunluk-kontrolu-verecek-super-oy-hisseleri-oneriyor-4078492",
+        "investing:https://tr.investing.com/news/company-news/cardinal-infrastructure-kredi-imkann-550-milyon-dolara-ckard-93CH-4078489",
+        "investing:https://tr.investing.com/news/company-news/centerpoint-energyye-sebeke-yukseltmesi-icin-50-milyon-dolar-93CH-4078485",
+        "investing:https://tr.investing.com/news/transcripts/telus-cibc-konferansnda-odak-daraltld-temettu-dusuruldu-93CH-4078483",
         "investing:https://tr.investing.com/news/transcripts/element-fleet-cibc-konferansnda-buyume-acg-93CH-4078482",
         "investing:https://tr.investing.com/news/company-news/clover-health-yonetim-kuruluna-iki-yonetici-ekledi-93CH-4078480",
         "investing:https://tr.investing.com/news/stock-market-news/mgm-resorts-barry-dillerin-people-inci-satn-almay-degerlendiriyor-4078479",
@@ -1036,10 +1044,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:66db5596ad9e8:0",
+      "last_seen_key": "tradingview:fxstreet:5510a82f4d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:5510a82f4d9e8:0",
+        "tradingview:fxstreet:df4cbbcbed9e8:0",
+        "tradingview:fxstreet:475f7790dd9e8:0",
+        "tradingview:beincrypto:9cacc23d8d9e8:0",
         "tradingview:fxstreet:66db5596ad9e8:0",
+        "tradingview:beincrypto:12e00ebfbd9e8:0",
         "tradingview:fxstreet:c6598c296d9e8:0",
+        "tradingview:beincrypto:697a5b5a2d9e8:0",
         "tradingview:fxstreet:4aa151515d9e8:0",
         "tradingview:cointelegraph:9f0e8a036d9e8:0",
         "tradingview:fxstreet:664860deed9e8:0",
@@ -1476,6 +1490,66 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ons alt n yukselen petrol fiyatlar fed in s k lasmac durusunun cazibeyi azaltmas yla 4 300 n alt na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:5510a82f4d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japon yeni tokyo nun uyar s n yinelemesi mudahaleden kac nmas yla dususunu surduruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:df4cbbcbed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar yukselen abd getirileri aras nda 200 gunluk sma y test ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:475f7790dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin fiyat 100 000 dolar a kosacak m hafta tek mum belirleyici",
+      "link": "https://tr.tradingview.com/news/beincrypto:9cacc23d8d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "apple n svp si jennifer newstead 815 803 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/applen-svpsi-jennifer-newstead-815803-dolar-degerinde-hisse-satt-93CH-4078506"
+    },
+    {
+      "source": "investing",
+      "text": "amc entertainment hissedarlar hisse plan n onaylad",
+      "link": "https://tr.investing.com/news/sec-filings/amc-entertainment-hissedarlar-hisse-plann-onaylad-93CH-4078505"
+    },
+    {
+      "source": "investing",
+      "text": "atlas energy guc projesi 613 5 milyon dolarl k anlasma imzalad",
+      "link": "https://tr.investing.com/news/sec-filings/atlas-energy-guc-projesi-icin-6135-milyon-dolarlk-anlasma-imzalad-93CH-4078504"
+    },
+    {
+      "source": "investing",
+      "text": "darden restaurants hissedarlar yonetim kurulunu secti",
+      "link": "https://tr.investing.com/news/sec-filings/darden-restaurants-hissedarlar-yonetim-kurulunu-secti-93CH-4078503"
+    },
+    {
+      "source": "investing",
+      "text": "cnl strategic capital agustos varl k degerlerini ac klad",
+      "link": "https://tr.investing.com/news/sec-filings/cnl-strategic-capital-agustos-varlk-degerlerini-acklad-93CH-4078502"
+    },
+    {
+      "source": "investing",
+      "text": "revolution medicines yoneticisi 1 96 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/revolution-medicines-yoneticisi-196-milyon-dolarlk-hisse-satt-93CH-4078501"
+    },
+    {
+      "source": "investing",
+      "text": "faraday future 29 eylul is ortaklar konferans duzenleyecek",
+      "link": "https://tr.investing.com/news/company-news/faraday-future-29-eylulde-is-ortaklar-konferans-duzenleyecek-93CH-4078500"
+    },
+    {
+      "source": "investing",
+      "text": "venu holding hissedarlar yonetim kurulu secimlerini onaylad",
+      "link": "https://tr.investing.com/news/sec-filings/venu-holding-hissedarlar-yonetim-kurulu-secimlerini-onaylad-93CH-4078499"
+    },
     {
       "source": "tradingview",
       "text": "meksika pesosu abd dolar kars s nda asag yonlu risklerle birlikte yatay gorunum rabobank",
