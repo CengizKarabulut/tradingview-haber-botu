@@ -2,8 +2,18 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1667594",
+      "last_seen_key": "kap:1667604",
       "seen_keys": [
+        "kap:1667604",
+        "kap:1667603",
+        "kap:1667602",
+        "kap:1667601",
+        "kap:1667600",
+        "kap:1667599",
+        "kap:1667598",
+        "kap:1667597",
+        "kap:1667596",
+        "kap:1667595",
         "kap:1667594",
         "kap:1667593",
         "kap:1667592",
@@ -77,12 +87,12 @@
         "kap:1667511",
         "kap:1667510",
         "kap:1667509",
-        "kap:1667508",
         "kap:1667507",
         "kap:1667505",
         "kap:1667504",
         "kap:1667503",
         "kap:1667502",
+        "kap:1667508",
         "kap:1667501",
         "kap:1667500",
         "kap:1667499",
@@ -320,106 +330,107 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6765397:0",
+      "last_seen_key": "matriks:matriks:6766714:0",
       "seen_keys": [
-        "matriks:matriks:6765397:0",
-        "matriks:matriks:6765396:0",
-        "matriks:matriks:6765393:0",
-        "matriks:matriks:6765385:0",
-        "matriks:matriks:6765378:0",
-        "matriks:matriks:6765377:0",
-        "matriks:matriks:6765376:0",
-        "matriks:matriks:6765375:0",
-        "matriks:matriks:6765374:0",
-        "matriks:matriks:6765370:0",
-        "matriks:matriks:6765369:0",
-        "matriks:matriks:6765360:0",
-        "matriks:matriks:6765359:0",
-        "matriks:matriks:6765358:0",
-        "matriks:matriks:6765357:0",
-        "matriks:matriks:6765354:0",
-        "matriks:matriks:6765350:0",
-        "matriks:matriks:6765348:0",
-        "matriks:matriks:6765347:0",
-        "matriks:matriks:6765345:0",
-        "matriks:matriks:6765337:0",
-        "matriks:matriks:6765332:0",
-        "matriks:matriks:6765321:0",
-        "matriks:matriks:6765317:0",
-        "matriks:matriks:6765314:0",
-        "matriks:matriks:6765307:0",
-        "matriks:matriks:6765305:0",
-        "matriks:matriks:6765306:0",
-        "matriks:matriks:6765304:0",
-        "matriks:matriks:6765302:0",
-        "matriks:matriks:6765292:0",
-        "matriks:matriks:6765286:0",
-        "matriks:matriks:6765280:0",
-        "matriks:matriks:6765284:0",
-        "matriks:matriks:6765291:0",
-        "matriks:matriks:6765281:0",
-        "matriks:matriks:6765288:0",
-        "matriks:matriks:6765285:0",
-        "matriks:matriks:6765289:0",
-        "matriks:matriks:6765293:0",
-        "matriks:matriks:6765290:0",
-        "matriks:matriks:6765300:0",
-        "matriks:matriks:6765299:0",
-        "matriks:matriks:6765297:0",
-        "matriks:matriks:6765295:0",
-        "matriks:matriks:6765296:0",
-        "matriks:matriks:6765294:0",
-        "matriks:matriks:6765301:0",
-        "matriks:matriks:6765298:0",
-        "matriks:matriks:6765282:0",
-        "matriks:matriks:6765287:0",
-        "matriks:matriks:6765283:0",
-        "matriks:matriks:6765303:0",
-        "matriks:matriks:6765272:0",
-        "matriks:matriks:6765277:0",
-        "matriks:matriks:6765276:0",
-        "matriks:matriks:6765271:0",
-        "matriks:matriks:6765275:0",
-        "matriks:matriks:6765269:0",
-        "matriks:matriks:6765267:0",
-        "matriks:matriks:6765270:0",
-        "matriks:matriks:6765268:0",
-        "matriks:matriks:6765256:0",
-        "matriks:matriks:6765255:0",
-        "matriks:matriks:6765253:0",
-        "matriks:matriks:6765254:0",
-        "matriks:matriks:6765257:0",
-        "matriks:matriks:6765260:0",
-        "matriks:matriks:6765259:0",
-        "matriks:matriks:6765265:0",
-        "matriks:matriks:6765263:0",
-        "matriks:matriks:6765264:0",
-        "matriks:matriks:6765262:0",
-        "matriks:matriks:6765246:0",
-        "matriks:matriks:6765248:0",
-        "matriks:matriks:6765250:0",
-        "matriks:matriks:6765249:0",
-        "matriks:matriks:6765191:0"
+        "matriks:matriks:6766714:0",
+        "matriks:matriks:6766712:0",
+        "matriks:matriks:6766705:0",
+        "matriks:matriks:6766700:0",
+        "matriks:matriks:6766691:0",
+        "matriks:matriks:6766677:0",
+        "matriks:matriks:6766675:0",
+        "matriks:matriks:6766672:0",
+        "matriks:matriks:6766666:0",
+        "matriks:matriks:6766647:0",
+        "matriks:matriks:6766646:0",
+        "matriks:matriks:6766642:0",
+        "matriks:matriks:6766602:0",
+        "matriks:matriks:6766599:0",
+        "matriks:matriks:6766598:0",
+        "matriks:matriks:6766596:0",
+        "matriks:matriks:6766498:0",
+        "matriks:matriks:6766497:0",
+        "matriks:matriks:6766495:0",
+        "matriks:matriks:6766487:0",
+        "matriks:matriks:6766483:0",
+        "matriks:matriks:6766447:0",
+        "matriks:matriks:6766440:0",
+        "matriks:matriks:6766429:0",
+        "matriks:matriks:6766418:0",
+        "matriks:matriks:6766407:0",
+        "matriks:matriks:6766396:0",
+        "matriks:matriks:6766367:0",
+        "matriks:matriks:6766366:0",
+        "matriks:matriks:6766350:0",
+        "matriks:matriks:6766347:0",
+        "matriks:matriks:6766346:0",
+        "matriks:matriks:6766345:0",
+        "matriks:matriks:6766339:0",
+        "matriks:matriks:6766324:0",
+        "matriks:matriks:6766313:0",
+        "matriks:matriks:6766303:0",
+        "matriks:matriks:6766300:0",
+        "matriks:matriks:6766241:0",
+        "matriks:matriks:6766240:0",
+        "matriks:matriks:6766239:0",
+        "matriks:matriks:6766233:0",
+        "matriks:matriks:6766231:0",
+        "matriks:matriks:6766230:0",
+        "matriks:matriks:6766227:0",
+        "matriks:matriks:6766225:0",
+        "matriks:matriks:6766223:0",
+        "matriks:matriks:6766222:0",
+        "matriks:matriks:6766209:0",
+        "matriks:matriks:6766201:0",
+        "matriks:matriks:6766199:0",
+        "matriks:matriks:6766147:0",
+        "matriks:matriks:6766129:0",
+        "matriks:matriks:6766127:0",
+        "matriks:matriks:6766125:0",
+        "matriks:matriks:6766117:0",
+        "matriks:matriks:6766116:0",
+        "matriks:matriks:6766113:0",
+        "matriks:matriks:6766111:0",
+        "matriks:matriks:6766109:0",
+        "matriks:matriks:6766095:0",
+        "matriks:matriks:6766087:0"
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ab4aeba24008d7d437364fe/PICNEWS/tr/honda-dan-abd-ye-dev-yatirim-24-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ab4f053b951084cfae8248c/PICNEWS/tr/goldman-sachs-sp-500-kar-buyumesinin-neredeyse-yapay-zeka-yatirimlarindan-ancak-bu-azalacak-24-09-26/",
       "seen_keys": [
-        "forinvest:https://www.foreks.com/haber/detay/6ab4aeba24008d7d437364fe/PICNEWS/tr/honda-dan-abd-ye-dev-yatirim-24-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ab4ae3524008d7d437364f7/PICNEWS/tr/hazine-tasinmazlarinda-yeni-donem-turkiye-varlik-fonu-na-da-yol-acildi-24-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ab4ad9c95016b5817e5f60b/PICNEWS/tr/morgan-stanley-den-abd-ara-secimleri-icin-yatirimcilara-uyari-hayat-pahaliligi-one-cikiyor-24-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ab4ace695016b5817e5f609/PICNEWS/tr/tesla-nin-surucusuz-sistemi-belcika-da-sinifta-kaldi-hiz-sinirlarini-asti-bisikletlileri-riske-atti-24-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ab4ac3424008d7d437364f2/PICNEWS/tr/spk-dan-hidropar-paylarindaki-islemler-nedeniyle-71-milyon-tl-yi-asan-ceza-24-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ab4abd795016b5817e5f605/PICNEWS/tr/avrupa-semalarinda-zirve-istanbul-un-turk-havaciligi-rekor-ayda-da-liderligi-birakmadi-24-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ab4a86224008d7d437364e1/PICNEWS/tr/kanser-taramasinda-yeni-donemin-kapisi-aralaniyor-kanser-tespit-testi-onaya-bir-adim-daha-yaklasti-24-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ab4a51c24008d7d437364b7/PICNEWS/tr/avrupa-otomobil-pazarinda-dengeler-degisiyor-byd-yuzde-128-buyudu-24-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ab4a45a95016b5817e5f5cb/PICNEWS/tr/bakirda-faiz-baskisi-fed-beklentileri-fiyatlari-asagi-cekti-24-09-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ab4a39f24008d7d437364b1/PICNEWS/tr/japonya-dan-yene-mudahale-sinyali-abd-ile-ortak-adim-yeniden-masada-24-09-26/"
+        "forinvest:https://www.foreks.com/haber/detay/6ab4f053b951084cfae8248c/PICNEWS/tr/goldman-sachs-sp-500-kar-buyumesinin-neredeyse-yapay-zeka-yatirimlarindan-ancak-bu-azalacak-24-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ab4ef4924008d7d43736705/PICNEWS/tr/cin-in-hong-kong-uzerinden-net-altin-ithalati-agustosta-artti-24-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ab4eec695016b5817e5f819/PICNEWS/tr/cin-merkez-bankasi-ndan-buyumeye-destek-mesaji-gevsek-para-politikasi-surecek-24-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ab4ee1624008d7d43736701/PICNEWS/tr/kremlin-den-ab-ye-sert-tepki-dondurulan-rus-varliklarinin-gelirini-ukrayna-ya-aktarmak-hirsizlik-24-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ab4ed1e24008d7d437366fb/PICNEWS/tr/kremlin-den-trump-putin-zirvesi-aciklamasi-aralik-icin-henuz-karar-yok-24-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ab4ecdb95016b5817e5f811/PICNEWS/tr/jpmorgan-meta-icin-hedef-fiyati-820-dolarda-tuttu-muse-ilgisi-hizla-artiyor-24-09-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ab4ec3f24008d7d437366f5/PICNEWS/tr/euroda-1-14-dolar-esigi-kirildi-ing-ye-gore-deger-kaybi-asiri-bolgeye-tasindi-24-09-26/"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/ebrd-turkiyenin-2026-buyume-tahminini-yuzde-3e-cekti-3789253",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/norvec-merkez-bankasi-ndan-ikinci-kere-faiz-artirimi-3789300",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/norvec-merkez-bankasi-ndan-ikinci-kere-faiz-artirimi-3789300",
+        "bloomberght:https://www.bloomberght.com/turkiye-nin-ilk-denizustu-yeka-sinda-3-milyar-dolarlik-yatirim-potansiyeli-3789294",
+        "bloomberght:https://www.bloomberght.com/almanya-da-is-dunyasi-gorunumu-2025-ten-beri-en-yuksek-seviyede-3789293",
+        "bloomberght:https://www.bloomberght.com/ab-de-yeni-otomobil-satislari-agustosta-yuzde-4-5-artti-3789289",
+        "bloomberght:https://www.bloomberght.com/faizi-sabit-tutan-isvec-merkez-bankasi-ndan-artis-sinyali-3789288",
+        "bloomberght:https://www.bloomberght.com/katar-hurmuz-bogazi-uzerinden-lng-trafigini-artirdi-3789285",
+        "bloomberght:https://www.bloomberght.com/masak-tan-savciliga-fon-bilgilendirmesi-3789283",
+        "bloomberght:https://www.bloomberght.com/cop31-surecinde-is-dunyasindan-surdurulebilirlik-ve-gida-guvenligi-vurgusu-3789280",
+        "bloomberght:https://www.bloomberght.com/nijerya-ueaya-ortak-ulke-olarak-katildi-3789279",
+        "bloomberght:https://www.bloomberght.com/sektorel-guven-perakendede-artti-3789278",
+        "bloomberght:https://www.bloomberght.com/ambkocher-avrupa-ekonomisi-beklenenden-daha-guclu-3789274",
+        "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-petrol-baskisi-3789271",
+        "bloomberght:https://www.bloomberght.com/politico-beyaz-saray-90-gunluk-dizel-ihracati-yasagina-hazirlaniyor-3789267",
+        "bloomberght:https://www.bloomberght.com/iran-cumhurbaskanindan-abdye-sert-mesajlar-3789266",
+        "bloomberght:https://www.bloomberght.com/kuresel-devlet-tahvili-getiri-ortalamasi-yuzde-4e-yaklasti-3789265",
+        "bloomberght:https://www.bloomberght.com/bakan-simsek-baskanliginda-fon-yatirimcilarinin-haklari-icin-kritik-toplanti-3789264",
+        "bloomberght:https://www.bloomberght.com/turkiye-abd-ticaretinde-hedef-buyudu-2028de-50-milyar-dolar-beklentisi-3789263",
+        "bloomberght:https://www.bloomberght.com/motorine-indirim-geldi-3789262",
+        "bloomberght:https://www.bloomberght.com/iklim-icin-dogru-olanla-ekonomik-acidan-surdurulebilir-olan-yakinlasmali-3789260",
+        "bloomberght:https://www.bloomberght.com/cop31-yolunda-new-york-ta-kritik-zirve-bakan-kurum-dan-is-dunyasina-somut-adim-cagrisi-3789259",
         "bloomberght:https://www.bloomberght.com/ebrd-turkiyenin-2026-buyume-tahminini-yuzde-3e-cekti-3789253",
         "bloomberght:https://www.bloomberght.com/abd-ve-cin-ticaret-ateskesini-uzatti-3789252",
         "bloomberght:https://www.bloomberght.com/altin-fiyatlari-fed-beklentileriyle-yatay-seyretti-3789251",
@@ -1209,6 +1220,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "norvec merkez bankas ndan ikinci kere faiz art r m norvec merkez bankas norges bank y l ikinci kez borclanma maliyetlerini art rd tuketici fiyatlar n dizginlemek gerekirse faizleri yeniden yukseltmeye haz r oldugunu belirtti",
+      "link": "https://www.bloomberght.com/norvec-merkez-bankasi-ndan-ikinci-kere-faiz-artirimi-3789300"
+    },
+    {
+      "source": "bloomberght",
+      "text": "denizustu yeka s nda 3 milyar dolarl k yat r m potansiyeli turkiye ruzgar enerjisi birligi tureb baskan ibrahim erden 2027 nin ilk ceyreginde yap lmas planlanan 1000 megavatl k denizustu ruzgar enerjisi yenilenebilir enerji kaynak alan yeka projesinin hayata gecmesiyle 3 milyar dolarl k yat",
+      "link": "https://www.bloomberght.com/turkiye-nin-ilk-denizustu-yeka-sinda-3-milyar-dolarlik-yatirim-potansiyeli-3789294"
+    },
+    {
+      "source": "bloomberght",
+      "text": "almanya is dunyas gorunumu 2025 ten beri en yuksek seviyede avrupa n n en buyuk ekonomisinde is dunyas gorunumu 2025 sonundan yana en yuksek seviyeye ulast",
+      "link": "https://www.bloomberght.com/almanya-da-is-dunyasi-gorunumu-2025-ten-beri-en-yuksek-seviyede-3789293"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ab yeni otomobil sat slar agustos ta yuzde 4 5 artt avrupa birligi ab pazar nda yeni otomobil sat slar agustosta y ll k bazda yuzde 4 5 artarak 708 bin 211 e c kt",
+      "link": "https://www.bloomberght.com/ab-de-yeni-otomobil-satislari-agustosta-yuzde-4-5-artti-3789289"
+    },
+    {
+      "source": "bloomberght",
+      "text": "faizi sabit tutan isvec merkez bankas ndan art s sinyali isvec merkez bankas riksbank ekonomideki toparlanmayla birlikte y l faiz art s n n art k daha muhtemel oldugunu isaret ederken faizi ust uste on ikinci ayda sabit tuttu",
+      "link": "https://www.bloomberght.com/faizi-sabit-tutan-isvec-merkez-bankasi-ndan-artis-sinyali-3789288"
+    },
+    {
+      "source": "bloomberght",
+      "text": "katar hurmuz bogaz uzerinden lng trafigini art rd katar hurmuz bogaz uzerinden s v last r lm s dogalgaz lng tankeri trafigini iki ay ask n suredir gorulen en yuksek seviyeye c kard",
+      "link": "https://www.bloomberght.com/katar-hurmuz-bogazi-uzerinden-lng-trafigini-artirdi-3789285"
+    },
+    {
+      "source": "bloomberght",
+      "text": "masak tan savc l ga fon bilgilendirmesi masak incelenen fonlar n tefas ta islem gormedigi yat r mc erisiminin s n rl oldugu donemdeki pay sahiplerine iliskin bilgileri istanbul cumhuriyet bassavc l g na iletti",
+      "link": "https://www.bloomberght.com/masak-tan-savciliga-fon-bilgilendirmesi-3789283"
+    },
+    {
+      "source": "bloomberght",
+      "text": "cop31 surecinde is dunyas ndan surdurulebilirlik g guvenligi vurgusu new york ta kuresel is dunyas finans kuruluslar uluslararas kuruluslar n ust duzey temsilcilerini araya getiren cop31 is forumu new york diyalogu toplant s na kat ld",
+      "link": "https://www.bloomberght.com/cop31-surecinde-is-dunyasindan-surdurulebilirlik-ve-gida-guvenligi-vurgusu-3789280"
+    },
+    {
+      "source": "bloomberght",
+      "text": "nijerya uea ya ortak ulke olarak kat ld nijerya uluslararas enerji ajans na uea ortak ulke statusuyle kat ld uea baskan fatih birol un abuja ziyareti kapsam nda iki taraf aras nda ilk ortak cal sma program imzalan rken is birliginin enerji yat r mlar ndan elektrik sek",
+      "link": "https://www.bloomberght.com/nijerya-ueaya-ortak-ulke-olarak-katildi-3789279"
+    },
+    {
+      "source": "bloomberght",
+      "text": "sektorel guven perakendede artt tuik verilerine gore guven endeksi eylul hizmet sektorunde ayn kald perakende ticaret sektorunde yuzde 1 1 artt insaat sektorunde yuzde 0 2 azald",
+      "link": "https://www.bloomberght.com/sektorel-guven-perakendede-artti-3789278"
+    },
+    {
+      "source": "bloomberght",
+      "text": "amb kocher avrupa ekonomisi beklenenden daha guclu avrupa merkez bankas amb yonetim kurulu uyesi martin kocher avrupa ekonomisinin beklenenden daha dayan kl oldugunu belirterek gerekirse faiz oranlar n n daha art r lmas durumunda ekonominin buna dayanabilecegine isaret etti",
+      "link": "https://www.bloomberght.com/ambkocher-avrupa-ekonomisi-beklenenden-daha-guclu-3789274"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kuresel piyasalarda petrol bask s petrol fiyatlar ndaki yukselisin enflasyon bask lar na iliskin endiseleri art rmas yla abd hisse senetleri dun tahvillerle birlikte geriledi",
+      "link": "https://www.bloomberght.com/kuresel-piyasalarda-petrol-baskisi-3789271"
+    },
+    {
+      "source": "bloomberght",
+      "text": "politico beyaz saray 90 gunluk dizel ihracat yasag na haz rlan yor abd baskan donald trump yonetiminin 90 gunluk dizel ihracat yasag koymaya haz rland g one suruldu",
+      "link": "https://www.bloomberght.com/politico-beyaz-saray-90-gunluk-dizel-ihracati-yasagina-hazirlaniyor-3789267"
+    },
+    {
+      "source": "bloomberght",
+      "text": "iran cumhurbaskan ndan abd ye sert mesajlar iran cumhurbaskan mesud pezeskiyan yapt r mlar abd ablukas surdugu surece ulkesinin hurmuz bogaz ndan serbest gecise izin vermeyecegini soyledi",
+      "link": "https://www.bloomberght.com/iran-cumhurbaskanindan-abdye-sert-mesajlar-3789266"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd tahvil getirilerinde tarihi seviyeler giderek derinlesen sat s dalgas kuresel tahvillerin ortalama getirisini 2007 den yana gorulmeyen 4 seviyesinin hemen esigine tas d",
+      "link": "https://www.bloomberght.com/kuresel-devlet-tahvili-getiri-ortalamasi-yuzde-4e-yaklasti-3789265"
+    },
+    {
+      "source": "bloomberght",
+      "text": "bakan simsek baskanl g nda fon yat r mc lar n n haklar kritik toplant hazine maliye bakan mehmet simsek baskanl g nda ilgili kurum kuruluslar n kat l m yla 7 portfoy yonetim sirketinin 131 yat r m fonuna iliskin tasfiye odeme sureclerine yonelik teknik cal smalar ele al nacak",
+      "link": "https://www.bloomberght.com/bakan-simsek-baskanliginda-fon-yatirimcilarinin-haklari-icin-kritik-toplanti-3789264"
+    },
+    {
+      "source": "bloomberght",
+      "text": "turkiye abd ticaretinde hedef buyudu 2028 50 milyar dolar beklentisi ticaret bakan abd ticaret hacminin 2026 42 43 milyar dolara ulasmas n n beklendigini mevcut egilimin korunmas halinde 2028 sonunda y ll k 50 milyar dolarl k seviyenin yakalanabilecegini soyledi",
+      "link": "https://www.bloomberght.com/turkiye-abd-ticaretinde-hedef-buyudu-2028de-50-milyar-dolar-beklentisi-3789263"
+    },
+    {
+      "source": "bloomberght",
+      "text": "motorine indirim geldi 24 eylul motorine mazot 5 lira 57 kurusluk indirim geldi",
+      "link": "https://www.bloomberght.com/motorine-indirim-geldi-3789262"
+    },
+    {
+      "source": "bloomberght",
+      "text": "iklim dogru olanla ekonomik ac dan surdurulebilir olan yak nlasmal koc holding yonetim kurulu baskan vekili ali y koc new york iklim haftas kapsam nda duzenlenen cop31 is forumu new york diyalogu etkinliginde iklim gundeminde ozel sektorun rolunu degerlendirdi",
+      "link": "https://www.bloomberght.com/iklim-icin-dogru-olanla-ekonomik-acidan-surdurulebilir-olan-yakinlasmali-3789260"
+    },
+    {
+      "source": "bloomberght",
+      "text": "cop31 yolunda new york ta kritik zirve bakan kurum dan is dunyas na somut ad m cagr s new york ta duzenlenen cop31 eylem gundemi toplant s nda cevre sehircilik iklim degisikligi bakan murat kurum iklim krizinin ekonomik insani maliyetinin devasa boyutlara ulast g na dikkat cekerek is dunyas n lafta kalan vaatler",
+      "link": "https://www.bloomberght.com/cop31-yolunda-new-york-ta-kritik-zirve-bakan-kurum-dan-is-dunyasina-somut-adim-cagrisi-3789259"
+    },
+    {
+      "source": "kap",
+      "text": "crfsa pay baz nda devre kesici bildirimi crfsa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667604"
+    },
+    {
+      "source": "kap",
+      "text": "dcttr pay baz nda devre kesici bildirimi dcttr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667603"
+    },
+    {
+      "source": "kap",
+      "text": "mercn pay baz nda devre kesici bildirimi mercn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667602"
+    },
+    {
+      "source": "kap",
+      "text": "ksfin pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trskftf92615 isin kodlu tahvil itfa kupon odemesi sirket koc stellantis finansman a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667601"
+    },
+    {
+      "source": "kap",
+      "text": "sanfm pay baz nda devre kesici bildirimi sanfm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667600"
+    },
+    {
+      "source": "kap",
+      "text": "atlas pay baz nda devre kesici bildirimi atlas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667599"
+    },
+    {
+      "source": "kap",
+      "text": "akcns pay baz nda devre kesici bildirimi akcns e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667598"
+    },
+    {
+      "source": "kap",
+      "text": "akenr pay baz nda devre kesici bildirimi akenr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667597"
+    },
+    {
+      "source": "kap",
+      "text": "bmsch pay baz nda devre kesici bildirimi bmsch e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667596"
+    },
+    {
+      "source": "kap",
+      "text": "gubrf ozel durum ac klamas genel bagl ortakl g n kar dag t m karar sirket gubre fabrikalari t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1667595"
+    },
     {
       "source": "kap",
       "text": "atatp pay baz nda devre kesici bildirimi atatp e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
