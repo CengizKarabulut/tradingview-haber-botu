@@ -701,9 +701,9 @@
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyede-gecen-yil-22-bin-113-mali-araci-kurulus-faaliyet-gosterdi/4068836",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/emlak-katilimdan-katilimevim-birevim-ve-iktisat-katilim-bankasi-aciklamasi/4068809",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbulda-konut-tercihinde-metrekare-kuculurken-ihtiyaclar-cesitleniyor/4068863",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/volkswagen-grubu-2-8-milyon-araci-geri-cagiracak/4069006",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbulda-balikcilik-sezonunda-tezgahlara-bolluk-geldi/4068957",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbulda-konut-tercihinde-metrekare-kuculurken-ihtiyaclar-cesitleniyor/4068863",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/alman-turbin-ureticisinden-turkiyenin-ruzgarina-70-milyon-avroluk-teknoloji-yatirimi/4068867",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-savunma-sanayinde-yaptigimiz-devrimi-saglik-endustrilerinde-de-saglamaya-kararliyiz/4069484",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-butun-ulkelerle-dis-ekonomik-iliskilerimizi-buyuk-bir-gayretle-yurutuyoruz/4069571",
@@ -759,8 +759,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/humana-yukseliste-barclays-medicare-yldz-notlarnda-toparlanmaya-buyuk-bahis-oynuyor-4079704",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/dycom-industries-hissesi-2720-dolarda-52-haftalk-dibe-vurdu-93CH-4079709",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/dycom-industries-hissesi-2720-dolarda-52-haftalk-dibe-vurdu-93CH-4079709",
+        "investing:https://tr.investing.com/news/company-news/bending-spoons-125-milyar-dolarlk-kredi-ek-dilimini-fiyatlad-93CH-4079707",
+        "investing:https://tr.investing.com/news/stock-market-news/humana-hisseleri-neden-bugun-yukseliyor-93CH-4079706",
         "investing:https://tr.investing.com/news/stock-market-news/humana-yukseliste-barclays-medicare-yldz-notlarnda-toparlanmaya-buyuk-bahis-oynuyor-4079704",
         "investing:https://tr.investing.com/news/economy-news/fedin-hammack-halkn-enflasyon-beklentilerinin-kotulesebilecegini-soyledi-4079705",
         "investing:https://tr.investing.com/news/stock-market-news/power-corporation-hissesi-bugun-neden-yukseliyor-93CH-4079700",
@@ -768,9 +771,6 @@
         "investing:https://tr.investing.com/news/company-news/iss-atgnin-empery-digital-yonetimi-icin-iki-adayn-destekledi-93CH-4079698",
         "investing:https://tr.investing.com/news/stock-market-news/cvs-health-hissesi-bugun-neden-yukseliste-93CH-4079697",
         "investing:https://tr.investing.com/news/analyst-ratings/costco-hisse-hedef-fiyat-degerleme-nedeniyle-1010-dolara-dusuruldu-93CH-4079695",
-        "investing:https://tr.investing.com/news/company-news/canopy-growth-hissedar-toplantsn-yeterli-katlm-olmadg-icin-erteledi-93CH-4079694",
-        "investing:https://tr.investing.com/news/economy-news/putin-ukrayna-uzlasma-onerilerinin-incelenmekte-oldugunu-soyledi-93CH-4079692",
-        "investing:https://tr.investing.com/news/stock-market-news/haftann-hisse-senetleri-4079693",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -791,6 +791,9 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/company-news/canopy-growth-hissedar-toplantsn-yeterli-katlm-olmadg-icin-erteledi-93CH-4079694",
+        "investing:https://tr.investing.com/news/economy-news/putin-ukrayna-uzlasma-onerilerinin-incelenmekte-oldugunu-soyledi-93CH-4079692",
+        "investing:https://tr.investing.com/news/stock-market-news/haftann-hisse-senetleri-4079693",
         "investing:https://tr.investing.com/news/company-news/zentra-manchester-projesinde-yeni-yuklenici-ile-anlast-93CH-4079503",
         "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-costconun-hisse-hedefini-yukseltti-93CH-4079500",
         "investing:https://tr.investing.com/news/stock-market-news/stifel-almonty-icin-25-dolarlk-hedef-fiyatla-kapsama-baslad-4079501",
@@ -1119,8 +1122,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:64ec651b7d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:508550d3ad9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:fxstreet:3f19cefb7d9e8:0",
+        "tradingview:cointelegraph:ebbcfb6b5d9e8:0",
+        "tradingview:fxstreet:b4ab0590bd9e8:0",
+        "tradingview:fxstreet:16f051f1cd9e8:0",
+        "tradingview:fxstreet:5488d90b2d9e8:0",
         "tradingview:fxstreet:64ec651b7d9e8:0",
         "tradingview:fxstreet:bbd526a9cd9e8:0",
         "tradingview:fxstreet:4831688d4d9e8:0",
@@ -1161,6 +1170,7 @@
         "tradingview:fxstreet:57245368bd9e8:0",
         "tradingview:matriks:6770330:0",
         "tradingview:matriks:6770310:0",
+        "tradingview:fxstreet:cb7c7bc84d9e8:0",
         "tradingview:matriks:6770307:0",
         "tradingview:fxstreet:c53615f16d9e8:0",
         "tradingview:matriks:6770303:0",
@@ -1187,13 +1197,17 @@
         "tradingview:matriks:6770128:0",
         "tradingview:matriks:6770127:0",
         "tradingview:matriks:6770123:0",
+        "tradingview:matriks:6770121:0",
         "tradingview:fxstreet:7797a06d8d9e8:0",
+        "tradingview:matriks:6770117:0",
+        "tradingview:matriks:6770114:0",
+        "tradingview:matriks:6770109:0",
         "tradingview:matriks:6770094:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N45H0NS:0",
         "tradingview:fxstreet:26e331239d9e8:0",
         "tradingview:matriks:6770086:0",
         "tradingview:matriks:6770085:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:beincrypto:9e9e838fad9e8:0",
         "tradingview:fxstreet:d616bfc4ed9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N45H0PG:0",
         "tradingview:matriks:6770054:0",
@@ -1207,6 +1221,9 @@
         "tradingview:tag:reuters.com,2026:newsml_L8N45H0RQ:0",
         "tradingview:fxstreet:e53f8165dd9e8:0",
         "tradingview:matriks:6770006:0",
+        "tradingview:matriks:6770002:0",
+        "tradingview:matriks:6769994:0",
+        "tradingview:matriks:6769990:0",
         "tradingview:beincrypto:5ce868118d9e8:0",
         "tradingview:fxstreet:87b2849d0d9e8:0",
         "tradingview:matriks:6769935:0",
@@ -1218,7 +1235,6 @@
         "tradingview:matriks:6769914:0",
         "tradingview:beincrypto:906b11792d9e8:0",
         "tradingview:matriks:6769899:0",
-        "tradingview:fxstreet:cb7c7bc84d9e8:0",
         "tradingview:fxstreet:e8dab1389d9e8:0",
         "tradingview:matriks:6769886:0",
         "tradingview:matriks:6769875:0",
@@ -1492,7 +1508,6 @@
         "tradingview:fxstreet:cfb258cced9e8:0",
         "tradingview:beincrypto:15e436db5d9e8:0",
         "tradingview:fxstreet:f14df9f7dd9e8:0",
-        "tradingview:cointelegraph:ebbcfb6b5d9e8:0",
         "tradingview:cointelegraph:57a2c3fb7d9e8:0",
         "tradingview:beincrypto:55edaa5e9d9e8:0",
         "tradingview:fxstreet:e58670f48d9e8:0",
@@ -1608,19 +1623,7 @@
         "tradingview:matriks:6762520:0",
         "tradingview:matriks:6762519:0",
         "tradingview:matriks:6762516:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N45F08A:0",
-        "tradingview:matriks:6762506:0",
-        "tradingview:beincrypto:243dbdfb2d9e8:0",
-        "tradingview:beincrypto:3d216e851d9e8:0",
-        "tradingview:fxstreet:b5c25de32d9e8:0",
-        "tradingview:fxstreet:bc06de5bed9e8:0",
-        "tradingview:fxstreet:2dc8f82c6d9e8:0",
-        "tradingview:fxstreet:6db16abdcd9e8:0",
-        "tradingview:fxstreet:e79888b7dd9e8:0",
-        "tradingview:beincrypto:6e5eb6a82d9e8:0",
-        "tradingview:fxstreet:db16c7a65d9e8:0",
-        "tradingview:beincrypto:e04afd5a0d9e8:0",
-        "tradingview:cointelegraph:3c945e48ed9e8:0"
+        "tradingview:tag:reuters.com,2026:newsml_L8N45F08A:0"
       ]
     },
     "forexfactory": {
@@ -1631,6 +1634,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "amb den vujcic enerji sokunun enflasyonu s cak tutabilecegi konusunda uyard",
+      "link": "https://tr.tradingview.com/news/fxstreet:3f19cefb7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "asya dovizleri daha yuksek getiriler petrol bask olusturuyor ocbc",
+      "link": "https://tr.tradingview.com/news/fxstreet:b4ab0590bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed den hammack en buyuk riskin enflasyon zihniyeti oldugu konusunda uyar yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:16f051f1cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd rsi adx zay f momentum sinyali verirken yon bulmakta zorlan yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5488d90b2d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "dycom industries hissesi 272 0 dolarda 52 haftal k dibe vurdu",
+      "link": "https://tr.investing.com/news/company-news/dycom-industries-hissesi-2720-dolarda-52-haftalk-dibe-vurdu-93CH-4079709"
+    },
+    {
+      "source": "investing",
+      "text": "bending spoons 1 25 milyar dolarl k kredi ek dilimini fiyatlad",
+      "link": "https://tr.investing.com/news/company-news/bending-spoons-125-milyar-dolarlk-kredi-ek-dilimini-fiyatlad-93CH-4079707"
+    },
+    {
+      "source": "investing",
+      "text": "humana hisseleri neden bugun yukseliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/humana-hisseleri-neden-bugun-yukseliyor-93CH-4079706"
+    },
     {
       "source": "tradingview",
       "text": "wti deki dusus abd dolar uzerindeki bask y hafifletirken alt n toparlan yor",
