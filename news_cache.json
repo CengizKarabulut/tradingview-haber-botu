@@ -744,15 +744,15 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yurt-ici-hayvan-varligi-artiyor-ithalat-ihtiyaci-kademeli-azaliyor/4069972",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/maden-sahalarinda-uretim-sonrasi-donem-denetim-altinda/4069935",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/maden-sahalarinda-uretim-sonrasi-donem-denetim-altinda/4069935",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/yurt-ici-hayvan-varligi-artiyor-ithalat-ihtiyaci-kademeli-azaliyor/4069972",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kurutma-isleminde-ideal-oran-findigin-raf-omrunu-uzatiyor/4069957",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/hurmuz-krizinde-petrol-ve-gaz-arzi-kesintisi-yuzde-14u-buldu/4069923",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-abdde-aciklanacak-onemli-verilere-cevrildi/4069932",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/baas-rejiminin-yatirim-engellerini-kaldiran-suriye-sanayisi-turk-yatirimcilari-bekliyor/4070016",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/hurmuz-krizinde-petrol-ve-gaz-arzi-kesintisi-yuzde-14u-buldu/4069923",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abd-israil-iran-ve-rusya-ukrayna-savaslari-riyad-ile-moskova-petrolunu-sert-vurdu/4069931",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/maden-sahalarinda-uretim-sonrasi-donem-denetim-altinda/4069935",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-musiad-expo-2026da-aciklamalarda-bulundu/4070068",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/musiad-expo-2026-uluslararasi-ticaret-fuari-bugun-sona-erecek/4070029",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ilk-yerli-ve-milli-tarama-gemisi-uab-mavi-vatan-suya-indirildi/4069960",
@@ -821,8 +821,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/ab-enerji-fiyat-krizine-kars-uyard-gaz-talebinde-kesinti-istedi-4079948",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/gold-fields-northern-stara-devralma-teklifi-sundu-4079950",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/gold-fields-northern-stara-devralma-teklifi-sundu-4079950",
         "investing:https://tr.investing.com/news/commodities-news/ab-enerji-fiyat-krizine-kars-uyard-gaz-talebinde-kesinti-istedi-4079948",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-yenilenebilir-enerji-hissesinde-44-kazanc-tespit-etti-93CH-4079946",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-gyosunun-53luk-dususunu-nasl-erken-fark-etti-93CH-4079945",
@@ -832,7 +833,6 @@
         "investing:https://tr.investing.com/news/economy-news/ukrayna-rus-rafinerisini-vurdugunu-acklad-4079939",
         "investing:https://tr.investing.com/news/economy-news/cin-ve-abd-30-milyar-dolarlk-tarife-indirimi-konusunda-anlast-4079937",
         "investing:https://tr.investing.com/news/economy-news/singapurda-enflasyonu-ne-yukseltiyor-4079936",
-        "investing:https://tr.investing.com/news/company-news/kuehnenagel-yapay-zeka-veri-merkezi-lojistiginde-2029a-kadar-buyume-bekliyor-4079934",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -853,6 +853,7 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/company-news/kuehnenagel-yapay-zeka-veri-merkezi-lojistiginde-2029a-kadar-buyume-bekliyor-4079934",
         "investing:https://tr.investing.com/news/insider-trading-news/bny-mellon-high-yield-strategies-fonu-yoneticisi-44400-dolar-degerinde-hisse-ald-93CH-4079932",
         "investing:https://tr.investing.com/news/insider-trading-news/proto-labs-cfosu-476604-dolarlk-hisse-satt-93CH-4079920",
         "investing:https://tr.investing.com/news/economy-news/almanya-mali-paket-nihayet-ekonomiye-ulast-m-4079922",
@@ -1763,6 +1764,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "gold fields northern star a devralma teklifi sundu",
+      "link": "https://tr.investing.com/news/stock-market-news/gold-fields-northern-stara-devralma-teklifi-sundu-4079950"
+    },
     {
       "source": "bloomberght",
       "text": "ingiltere palantir anlasmas n n feshi gundemde ingiltere isci partisi nin baz uyeleri israil ordusuna saglad g destek insan haklar ihlali iddialar nedeniyle abd li palantir in ulusal sagl k hizmetleri nhs yapt g 330 milyon sterlinlik anlasman n feshedilmesi onerge",
@@ -9257,11 +9263,6 @@
       "source": "kap",
       "text": "vdfas pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon odemesi sirket volkswagen dogus finansman a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1666872"
-    },
-    {
-      "source": "tradingview",
-      "text": "bessent e yapay zeka liderligi hazine cat sma m geliyor",
-      "link": "https://tr.tradingview.com/news/beincrypto:243dbdfb2d9e8:0"
     }
   ],
   "research_reports_v8": {
