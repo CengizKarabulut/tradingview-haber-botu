@@ -581,11 +581,11 @@
         "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-2-kisi-daha-tutuklandi-h38082",
         "cnbce:https://www.cnbce.com/dunya/putinden-kritik-ukrayna-mesaji-muzakerelerin-yeniden-baslatilmasi-mumkun-h38081",
         "cnbce:https://www.cnbce.com/faiz/fed-faiz-artirimlarina-devam-ederse-bankalar-nasil-etkilenecek-h38070",
-        "cnbce:https://www.cnbce.com/dunya/trump-ve-siden-yapay-zeka-gorusmesi-super-zeka-donemi-mi-basliyor-h38062",
         "cnbce:https://www.cnbce.com/haberler/cumhurbaskani-erdogandan-fon-sorusturmasina-iliskin-aciklama-hukuk-onunde-hesap-verecekler-h37985",
         "cnbce:https://www.cnbce.com/veriler/abdde-issizlik-maasi-basvurulari-beklentilerin-altinda-kaldi-h37975",
         "cnbce:https://www.cnbce.com/haberler/emlak-katilim-kapa-bildirdi-katilimevim-birevim-ve-iktisat-katilim-icin-resmi-basvuru-h38021",
         "cnbce:https://www.cnbce.com/enerji/iraktan-enerji-koridoru-hamlesi-turkiye-urdun-ve-suriye-uzerinden-yeni-guzergahlar-h38063",
+        "cnbce:https://www.cnbce.com/dunya/trump-ve-siden-yapay-zeka-gorusmesi-super-zeka-donemi-mi-basliyor-h38062",
         "cnbce:https://www.cnbce.com/haberler/abdde-tuketici-guveni-481-oldu-enflasyon-beklentisi-yuzde-46ya-cikti-h38058",
         "cnbce:https://www.cnbce.com/faiz/jpmorgandan-turkiye-icin-faiz-ve-enflasyon-tahmini-ekim-ve-aralikta-ust-uste-gelecek-h38057",
         "cnbce:https://www.cnbce.com/dunya/otomotivden-ciplere-hurmuz-krizi-dunyayi-sikistiriyor-h38055",
@@ -1023,8 +1023,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-toki-kiralik-sosyal-konut-basvurulari-sona-erdi-kuralar-ne-zaman-cekilecek-1743541",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/erken-tahliye-tazminatina-yargitay-ayari-kiraci-alti-aylik-odeme-yapacak-1743545",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/erken-tahliye-tazminatina-yargitay-ayari-kiraci-alti-aylik-odeme-yapacak-1743545",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-toki-kiralik-sosyal-konut-basvurulari-sona-erdi-kuralar-ne-zaman-cekilecek-1743541",
         "ntvpara:https://www.ntv.com.tr/ntvpara/spkdan-ozata-denizcilik-incelemesi-11-kisi-hakkinda-suc-duyurusu-5-kisinin-lisansi-iptal-edildi-1743494",
         "ntvpara:https://www.ntv.com.tr/ntvpara/borsa-haftayi-nasil-kapatti-iste-piyasalarin-bilancosu-1743482",
@@ -1712,6 +1713,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "erken tahliye tazminat na yarg tay ayar kirac alt ayl k odeme yapacak yarg tay sozlesmede alt ayl k fesih ihbar suresi bulunmas na ragmen is yerini haber vermeden tahliye eden kirac yla ilgili karar bozdu",
+      "link": "https://www.ntv.com.tr/ntvpara/erken-tahliye-tazminatina-yargitay-ayari-kiraci-alti-aylik-odeme-yapacak-1743545"
+    },
     {
       "source": "tradingview",
       "text": "cftc cash fx e dava acarak 950 milyon dolarl k kripto baglant l forex plan iddias nda bulundu",
@@ -9206,11 +9212,6 @@
       "source": "tradingview",
       "text": "cftc riskli tahmin piyasas bahsetme sozlesmeleri konusunda uyard",
       "link": "https://tr.tradingview.com/news/cointelegraph:3c945e48ed9e8:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "ticaret bakan bolat turkiye kuresel buyume guclu bolgesel merkez ticaret bakan omer bolat new york ta duzenlenen 19 turkiye yat r m konferans na kat ld klar n belirterek yeni is birligi turkiye ye yat r m imkanlar n degerlendirdiklerini soyledi",
-      "link": "https://www.trthaber.com/haber/ekonomi/ticaret-bakani-bolat-turkiye-kuresel-buyume-icin-guclu-bir-bolgesel-merkez-957747.html"
     }
   ],
   "research_reports_v8": {
