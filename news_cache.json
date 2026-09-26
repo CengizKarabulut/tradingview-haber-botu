@@ -574,17 +574,18 @@
         "cnbce:https://www.cnbce.com/borsa/teknoloji-hisselerinde-akamai-etkisi-borsalarda-hareketli-hafta-kapanisi-hazirligi-h38054",
         "cnbce:https://www.cnbce.com/borsa/spk-basvuruyu-kabul-etmedi-teranin-aracilik-ettigi-peker-gyo-zorunlu-pay-alim-teklifi-sureci-durduruldu-h38042",
         "cnbce:https://www.cnbce.com/borsa/alves-kabloda-tmsf-donemi-yeni-yonetim-goreve-basladi-h38032",
+        "cnbce:https://www.cnbce.com/haberler/dunyanin-vergi-acisindan-en-avantajli-ulkeleri-belli-oldu-almanya-son-sirada-h38092",
         "cnbce:https://www.cnbce.com/haberler/uc-cesit-yemek-1-euro-fransadaki-yemekhane-uygulamasi-krize-mi-donusuyor-h38090",
         "cnbce:https://www.cnbce.com/haberler/devasa-artis-dunyanin-en-buyuk-petrol-ihracatcisi-iran-savasi-cenderesini-asti-h38088",
         "cnbce:https://www.cnbce.com/dunya/trumpin-ekonomi-sinavinda-5-rakami-bir-kabus-haline-geliyor-h38087",
         "cnbce:https://www.cnbce.com/haberler/pezeskiyandan-abdye-mesaj-islamabad-mutabakatina-donmek-onemli-h38083",
         "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-2-kisi-daha-tutuklandi-h38082",
         "cnbce:https://www.cnbce.com/dunya/putinden-kritik-ukrayna-mesaji-muzakerelerin-yeniden-baslatilmasi-mumkun-h38081",
-        "cnbce:https://www.cnbce.com/faiz/fed-faiz-artirimlarina-devam-ederse-bankalar-nasil-etkilenecek-h38070",
         "cnbce:https://www.cnbce.com/haberler/cumhurbaskani-erdogandan-fon-sorusturmasina-iliskin-aciklama-hukuk-onunde-hesap-verecekler-h37985",
         "cnbce:https://www.cnbce.com/veriler/abdde-issizlik-maasi-basvurulari-beklentilerin-altinda-kaldi-h37975",
         "cnbce:https://www.cnbce.com/haberler/emlak-katilim-kapa-bildirdi-katilimevim-birevim-ve-iktisat-katilim-icin-resmi-basvuru-h38021",
         "cnbce:https://www.cnbce.com/enerji/iraktan-enerji-koridoru-hamlesi-turkiye-urdun-ve-suriye-uzerinden-yeni-guzergahlar-h38063",
+        "cnbce:https://www.cnbce.com/faiz/fed-faiz-artirimlarina-devam-ederse-bankalar-nasil-etkilenecek-h38070",
         "cnbce:https://www.cnbce.com/dunya/trump-ve-siden-yapay-zeka-gorusmesi-super-zeka-donemi-mi-basliyor-h38062",
         "cnbce:https://www.cnbce.com/haberler/abdde-tuketici-guveni-481-oldu-enflasyon-beklentisi-yuzde-46ya-cikti-h38058",
         "cnbce:https://www.cnbce.com/faiz/jpmorgandan-turkiye-icin-faiz-ve-enflasyon-tahmini-ekim-ve-aralikta-ust-uste-gelecek-h38057",
@@ -1076,8 +1077,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/spkdan-ozata-denizcilik-islemleri-icin-11-kisi-hakkinda-suc-duyurusu-958178.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/kiralik-sosyal-konut-projesinde-basvuru-sureci-tamamlandi-958202.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/kiralik-sosyal-konut-projesinde-basvuru-sureci-tamamlandi-958202.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/spkdan-ozata-denizcilik-islemleri-icin-11-kisi-hakkinda-suc-duyurusu-958178.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/elektrikli-araclarda-yeni-vergi-sistemi-iddiasina-yalanlama-958146.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/fon-sorusturmalarinda-45-supheli-tutuklandi-958142.html",
@@ -1713,6 +1715,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "trthaber",
+      "text": "kiral k sosyal konut projesi nde basvuru sureci tamamland toplu konut idaresi baskanl g n n toki kiral k sosyal konut projesi nde basvuru asamas tamamland inceleme surecinin ard ndan kosullar saglayan vatandaslar aras ndan hak sahipleri kurayla belirlenecek",
+      "link": "https://www.trthaber.com/haber/ekonomi/kiralik-sosyal-konut-projesinde-basvuru-sureci-tamamlandi-958202.html"
+    },
     {
       "source": "ntvpara",
       "text": "erken tahliye tazminat na yarg tay ayar kirac alt ayl k odeme yapacak yarg tay sozlesmede alt ayl k fesih ihbar suresi bulunmas na ragmen is yerini haber vermeden tahliye eden kirac yla ilgili karar bozdu",
@@ -9207,11 +9214,6 @@
       "source": "investing",
       "text": "six flags entertainment hissesi neden yukseliste",
       "link": "https://tr.investing.com/news/stock-market-news/six-flags-entertainment-hissesi-neden-yukseliste-93CH-4075109"
-    },
-    {
-      "source": "tradingview",
-      "text": "cftc riskli tahmin piyasas bahsetme sozlesmeleri konusunda uyard",
-      "link": "https://tr.tradingview.com/news/cointelegraph:3c945e48ed9e8:0"
     }
   ],
   "research_reports_v8": {
