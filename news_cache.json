@@ -760,8 +760,11 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/civista-bancshares-baskan-charles-parcher-10700-dolar-hisse-ald-93CH-4079967",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/trump-hurmuz-bars-plann-reddetti-iran-diplomaside-srar-ediyor-4079972",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/trump-hurmuz-bars-plann-reddetti-iran-diplomaside-srar-ediyor-4079972",
+        "investing:https://tr.investing.com/news/economy-news/yatrmclar-ecbden-cok-fazla-faiz-artrm-m-bekliyor-4079971",
+        "investing:https://tr.investing.com/news/economy-news/ubs-almanyada-yukselen-riskler-arasnda-olas-senaryolar-tartsyor-4079968",
         "investing:https://tr.investing.com/news/insider-trading-news/civista-bancshares-baskan-charles-parcher-10700-dolar-hisse-ald-93CH-4079967",
         "investing:https://tr.investing.com/news/economy-news/fedin-sklasmas-gelisen-piyasalar-icin-oyun-degistirici-mi-4079964",
         "investing:https://tr.investing.com/news/stock-market-news/boeing-737-maxte-otomatik-navigasyonu-etkileyen-yazlm-hatas-buldu-4079962",
@@ -769,9 +772,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-williamson-56570-dolarlk-hisse-ald-93CH-4079959",
         "investing:https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-johnston-rgco-hissesine-22193-dolar-yatrd-93CH-4079958",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fund-hisselerinden-2298-dolar-ald-93CH-4079957",
-        "investing:https://tr.investing.com/news/stock-market-news/nehir-seyahatleri-iklim-degisikliginden-uzun-vadede-risk-altnda-m-4079956",
-        "investing:https://tr.investing.com/news/stock-market-news/aramco-gaz-birimine-100-milyar-dolarlk-degerleme-olaslg-4079954",
-        "investing:https://tr.investing.com/news/insider-trading-news/nuveen-nea-portfoy-yoneticisi-26572-dolar-degerinde-hisse-satt-93CH-4079951",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -792,6 +792,9 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/stock-market-news/nehir-seyahatleri-iklim-degisikliginden-uzun-vadede-risk-altnda-m-4079956",
+        "investing:https://tr.investing.com/news/stock-market-news/aramco-gaz-birimine-100-milyar-dolarlk-degerleme-olaslg-4079954",
+        "investing:https://tr.investing.com/news/insider-trading-news/nuveen-nea-portfoy-yoneticisi-26572-dolar-degerinde-hisse-satt-93CH-4079951",
         "investing:https://tr.investing.com/news/stock-market-news/gold-fields-northern-stara-devralma-teklifi-sundu-4079950",
         "investing:https://tr.investing.com/news/commodities-news/ab-enerji-fiyat-krizine-kars-uyard-gaz-talebinde-kesinti-istedi-4079948",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-yenilenebilir-enerji-hissesinde-44-kazanc-tespit-etti-93CH-4079946",
@@ -1713,6 +1716,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "trump hurmuz bar s plan n reddetti iran diplomaside srar ediyor",
+      "link": "https://tr.investing.com/news/economy-news/trump-hurmuz-bars-plann-reddetti-iran-diplomaside-srar-ediyor-4079972"
+    },
+    {
+      "source": "investing",
+      "text": "yat r mc lar ecb den cok fazla faiz art r m m bekliyor",
+      "link": "https://tr.investing.com/news/economy-news/yatrmclar-ecbden-cok-fazla-faiz-artrm-m-bekliyor-4079971"
+    },
+    {
+      "source": "investing",
+      "text": "ubs almanya yukselen riskler aras nda olas senaryolar tart s yor",
+      "link": "https://tr.investing.com/news/economy-news/ubs-almanyada-yukselen-riskler-arasnda-olas-senaryolar-tartsyor-4079968"
+    },
     {
       "source": "investing",
       "text": "civista bancshares baskan charles parcher 10 700 dolar hisse ald",
@@ -9197,21 +9215,6 @@
       "source": "tradingview",
       "text": "eur jpy fiyat analizi dokuz gunluk ema civar ndaki 180 00 destegini test ediyor",
       "link": "https://tr.tradingview.com/news/fxstreet:4f47d9b9ad9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "emlak konut geri al m ayr lan fon tutar 1 milyar tl olan geri al m program n n uygulanmas na baslad kap",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N45F08A:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "viop gunluk bulten gedik yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6762506:0"
-    },
-    {
-      "source": "ntvpara",
-      "text": "merkez bankas baskan enflasyon mesaj verdi kira art slar na dikkat cekti abd ekonomiye dair onemli mesajlar veren merkez bankas baskan fatih karahan kira enflasyonundaki yavaslaman n dezenflasyon surecini destekledigini belirtti",
-      "link": "https://www.ntv.com.tr/ntvpara/merkez-bankasi-baskani-enflasyon-mesaji-verdi-kira-artislarina-dikkat-cekti-1743077"
     }
   ],
   "research_reports_v8": {
