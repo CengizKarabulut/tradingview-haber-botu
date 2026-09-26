@@ -760,18 +760,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/nehir-seyahatleri-iklim-degisikliginden-uzun-vadede-risk-altnda-m-4079956",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/civista-bancshares-baskan-charles-parcher-10700-dolar-hisse-ald-93CH-4079967",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/civista-bancshares-baskan-charles-parcher-10700-dolar-hisse-ald-93CH-4079967",
+        "investing:https://tr.investing.com/news/economy-news/fedin-sklasmas-gelisen-piyasalar-icin-oyun-degistirici-mi-4079964",
+        "investing:https://tr.investing.com/news/stock-market-news/boeing-737-maxte-otomatik-navigasyonu-etkileyen-yazlm-hatas-buldu-4079962",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-land-hissesi-icin-340-dolar-odedi-93CH-4079960",
+        "investing:https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-williamson-56570-dolarlk-hisse-ald-93CH-4079959",
+        "investing:https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-johnston-rgco-hissesine-22193-dolar-yatrd-93CH-4079958",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fund-hisselerinden-2298-dolar-ald-93CH-4079957",
         "investing:https://tr.investing.com/news/stock-market-news/nehir-seyahatleri-iklim-degisikliginden-uzun-vadede-risk-altnda-m-4079956",
         "investing:https://tr.investing.com/news/stock-market-news/aramco-gaz-birimine-100-milyar-dolarlk-degerleme-olaslg-4079954",
         "investing:https://tr.investing.com/news/insider-trading-news/nuveen-nea-portfoy-yoneticisi-26572-dolar-degerinde-hisse-satt-93CH-4079951",
-        "investing:https://tr.investing.com/news/stock-market-news/gold-fields-northern-stara-devralma-teklifi-sundu-4079950",
-        "investing:https://tr.investing.com/news/commodities-news/ab-enerji-fiyat-krizine-kars-uyard-gaz-talebinde-kesinti-istedi-4079948",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-yenilenebilir-enerji-hissesinde-44-kazanc-tespit-etti-93CH-4079946",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-gyosunun-53luk-dususunu-nasl-erken-fark-etti-93CH-4079945",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-capital-bancorpta-68-kazanc-saglad-93CH-4079942",
-        "investing:https://tr.investing.com/news/commodities-news/super-el-nino-lng-talebini-nasl-etkiler-4079944",
-        "investing:https://tr.investing.com/news/investment-ideas/maplight-hissesi-46-dustu-investingpro-uyarmst-93CH-4079941",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -792,6 +792,13 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/stock-market-news/gold-fields-northern-stara-devralma-teklifi-sundu-4079950",
+        "investing:https://tr.investing.com/news/commodities-news/ab-enerji-fiyat-krizine-kars-uyard-gaz-talebinde-kesinti-istedi-4079948",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-yenilenebilir-enerji-hissesinde-44-kazanc-tespit-etti-93CH-4079946",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-turk-gyosunun-53luk-dususunu-nasl-erken-fark-etti-93CH-4079945",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-capital-bancorpta-68-kazanc-saglad-93CH-4079942",
+        "investing:https://tr.investing.com/news/commodities-news/super-el-nino-lng-talebini-nasl-etkiler-4079944",
+        "investing:https://tr.investing.com/news/investment-ideas/maplight-hissesi-46-dustu-investingpro-uyarmst-93CH-4079941",
         "investing:https://tr.investing.com/news/economy-news/ukrayna-rus-rafinerisini-vurdugunu-acklad-4079939",
         "investing:https://tr.investing.com/news/economy-news/cin-ve-abd-30-milyar-dolarlk-tarife-indirimi-konusunda-anlast-4079937",
         "investing:https://tr.investing.com/news/economy-news/singapurda-enflasyonu-ne-yukseltiyor-4079936",
@@ -1706,6 +1713,41 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "civista bancshares baskan charles parcher 10 700 dolar hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/civista-bancshares-baskan-charles-parcher-10700-dolar-hisse-ald-93CH-4079967"
+    },
+    {
+      "source": "investing",
+      "text": "fed in s k lasmas gelisen piyasalar oyun degistirici",
+      "link": "https://tr.investing.com/news/economy-news/fedin-sklasmas-gelisen-piyasalar-icin-oyun-degistirici-mi-4079964"
+    },
+    {
+      "source": "investing",
+      "text": "boeing 737 max te otomatik navigasyonu etkileyen yaz l m hatas buldu",
+      "link": "https://tr.investing.com/news/stock-market-news/boeing-737-maxte-otomatik-navigasyonu-etkileyen-yazlm-hatas-buldu-4079962"
+    },
+    {
+      "source": "investing",
+      "text": "horizon kinetics texas pacific land hissesi 340 dolar odedi",
+      "link": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-land-hissesi-icin-340-dolar-odedi-93CH-4079960"
+    },
+    {
+      "source": "investing",
+      "text": "rgc resources yoneticisi williamson 56 570 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-williamson-56570-dolarlk-hisse-ald-93CH-4079959"
+    },
+    {
+      "source": "investing",
+      "text": "rgc resources yoneticisi johnston rgco hissesine 22 193 dolar yat rd",
+      "link": "https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-johnston-rgco-hissesine-22193-dolar-yatrd-93CH-4079958"
+    },
+    {
+      "source": "investing",
+      "text": "horizon kinetics renn fund hisselerinden 2 298 dolar ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fund-hisselerinden-2298-dolar-ald-93CH-4079957"
+    },
     {
       "source": "tradingview",
       "text": "michael saylor bitcoin i bankalara tas mak 100 trilyon dolar l k dijital varl k hedefi",
@@ -9170,41 +9212,6 @@
       "source": "ntvpara",
       "text": "merkez bankas baskan enflasyon mesaj verdi kira art slar na dikkat cekti abd ekonomiye dair onemli mesajlar veren merkez bankas baskan fatih karahan kira enflasyonundaki yavaslaman n dezenflasyon surecini destekledigini belirtti",
       "link": "https://www.ntv.com.tr/ntvpara/merkez-bankasi-baskani-enflasyon-mesaji-verdi-kira-artislarina-dikkat-cekti-1743077"
-    },
-    {
-      "source": "ntvpara",
-      "text": "motorine indirim geliyor iste yeni tarife motorin grubunda 5 57 tl fiyat indirimi bekleniyor",
-      "link": "https://www.ntv.com.tr/ntvpara/motorine-indirim-geliyor-iste-yeni-tarife-1743080"
-    },
-    {
-      "source": "aaekonomi",
-      "text": "balon bal g avc l g nda destekleme ust limiti 1 milyon adede c kar ld istilac balon bal g avlayan bal kc lara yap lan destekleme odemelerinde ust limit 1 milyon adede yukseltildi anadolu ajans",
-      "link": "https://www.aa.com.tr/tr/ekonomi/balon-baligi-avciliginda-destekleme-ust-limiti-1-milyon-adede-cikarildi/4065721"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bulls yat r m yonetim kurulu baskan sorgu sonras serbest b rak ld bulls yat r m menkul degerler den kap a yap lan ac klamaya gore kurumun yonetim kurulu baskan kemal akkaya savc l ktaki ifade alma isleminin ard ndan serbest b rak ld",
-      "link": "https://www.bloomberght.com/bulls-yatirim-yonetim-kurulu-baskani-sorgu-sonrasi-serbest-birakildi-3789112"
-    },
-    {
-      "source": "bloomberght",
-      "text": "kuresel piyasalara cip dopingi kuresel piyasalarda cip sirketlerinde yasanan yukselis genele yay lan risk istah n destekledi",
-      "link": "https://www.bloomberght.com/kuresel-piyasalara-cip-dopingi-3789111"
-    },
-    {
-      "source": "forinvest",
-      "text": "gune baslarken bilinmesi gerekenler fon sorusturmas nda tutuklamalar adb den turkiye buyume revizyonu yeni gune yurt icinde sermaye piyasalar na yonelik fon sorusturmas ndaki tutuklamalar asya kalk nma bankas n n turkiye tahminleri damga vuruyor gunun veri takviminde ise saat 10 00 tcmb nin fi",
-      "link": "https://www.foreks.com/haber/detay/6ab3670124008d7d43735a19/PICNEWS/tr/gune-baslarken-bilinmesi-gerekenler-fon-sorusturmasinda-tutuklamalar-adb-den-turkiye-icin-buyume-revizyonu-23-09-26"
-    },
-    {
-      "source": "forinvest",
-      "text": "abd ham petrol stoklar artt benzin dam t lm s urun sert dusus abd ham petrol stoklar artt benzin dam t lm s urunlarda sert dusus",
-      "link": "https://www.foreks.com/haber/detay/6ab3658895016b5817e5eb11/PICNEWS/tr/abd-de-ham-petrol-stoklari-artti-benzin-ve-damitilmis-urun-sert-dusus-23-09-26"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk bulten akbank ekonomik arast rmalar ak yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6762559:0"
     }
   ],
   "research_reports_v8": {
