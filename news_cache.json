@@ -1190,8 +1190,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:ad53b4af3d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:80f587209d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:80f587209d9e8:0",
         "tradingview:beincrypto:ad53b4af3d9e8:0",
         "tradingview:beincrypto:180eeed1bd9e8:0",
         "tradingview:cointelegraph:4f4428a33d9e8:0",
@@ -1690,8 +1691,7 @@
         "tradingview:matriks:6764376:0",
         "tradingview:matriks:6764374:0",
         "tradingview:matriks:6764368:0",
-        "tradingview:matriks:6764365:0",
-        "tradingview:matriks:6764362:0"
+        "tradingview:matriks:6764365:0"
       ]
     },
     "forexfactory": {
@@ -1702,6 +1702,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "xrp balinalar hafta 742 milyon dolar ald fiyat nas l tepki verir",
+      "link": "https://tr.tradingview.com/news/beincrypto:80f587209d9e8:0"
+    },
     {
       "source": "investing",
       "text": "nehir seyahatleri iklim degisikliginden uzun vadede risk alt nda m",
@@ -9196,11 +9201,6 @@
       "source": "matriks",
       "text": "uluslararas piyasalar bulteni qnb invest",
       "link": "https://tr.tradingview.com/news/matriks:6762537:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk yabanc oranlar tablosu is yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6762534:0"
     }
   ],
   "research_reports_v8": {
