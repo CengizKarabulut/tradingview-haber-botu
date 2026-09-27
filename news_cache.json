@@ -634,7 +634,7 @@
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-bir-hisseye-daha-tedbir-aciga-satis-ve-kredili-islem-yasagi-h38068",
         "cnbce:https://www.cnbce.com/borsa/birevimde-pay-devri-sureci-basladi-emlak-katilim-icin-resmi-basvurular-yapildi-h38066",
         "cnbce:https://www.cnbce.com/borsa/borsa-haftayi-yukselisle-kapatti-25-eylul-2026-h38022",
-        "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-astor-enerji-yoneticilerinin-de-aralarinda-oldugu-106-kisi-listede-h38144",
+        "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-106-kisi-ve-kurulus-icin-malvarligi-tedbiri-talebi-h38144",
         "cnbce:https://www.cnbce.com/haberler/unlu-tatil-adasindan-salgin-alarmi-vakalar-40-gunde-1400e-yaklasti-h38141",
         "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-karar-45-firma-ve-19-fon-icin-tedbir-kaldirildi-h38140",
         "cnbce:https://www.cnbce.com/dunya/kalibaftan-bessente-hurmuz-bogazi-tepkisi-petrol-fiyatlarini-ornek-gosterdi-h38138",
@@ -656,6 +656,7 @@
         "cnbce:https://www.cnbce.com/haberler/turkiyenin-elektrik-kurulu-gucunde-yeni-esik-yenilenebilirin-payi-yuzde-629-oldu-h38097",
         "cnbce:https://www.cnbce.com/haberler/suriyede-yeniden-yapilanma-icin-turkiye-modeli-sanayi-bolgeleri-artirilacak-h38096",
         "cnbce:https://www.cnbce.com/haberler/dunyanin-vergi-acisindan-en-avantajli-ulkeleri-belli-oldu-almanya-son-sirada-h38092",
+        "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-astor-enerji-yoneticilerinin-de-aralarinda-oldugu-106-kisi-listede-h38144",
         "cnbce:https://www.cnbce.com/haberler/uc-cesit-yemek-1-euro-fransadaki-yemekhane-uygulamasi-krize-mi-donusuyor-h38090",
         "cnbce:https://www.cnbce.com/haberler/devasa-artis-dunyanin-en-buyuk-petrol-ihracatcisi-iran-savasi-cenderesini-asti-h38088",
         "cnbce:https://www.cnbce.com/dunya/trumpin-ekonomi-sinavinda-5-rakami-bir-kabus-haline-geliyor-h38087",
@@ -822,8 +823,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/real-remax-yoneticisi-liniger-101-milyon-dolarlk-hisse-satt-93CH-4080100",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/dell-technologies-genel-musaviri-233-milyon-dolarlk-hisse-satt-93CH-4080103",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/dell-technologies-genel-musaviri-233-milyon-dolarlk-hisse-satt-93CH-4080103",
+        "investing:https://tr.investing.com/news/insider-trading-news/equitable-holdings-yoneticisi-151-bin-dolarlk-hisse-satt-93CH-4080102",
         "investing:https://tr.investing.com/news/insider-trading-news/real-remax-yoneticisi-liniger-101-milyon-dolarlk-hisse-satt-93CH-4080100",
         "investing:https://tr.investing.com/news/company-news/mirum-pazartesi-gunu-hepatit-delta-calsma-sonuclarn-sunacak-93CH-4080098",
         "investing:https://tr.investing.com/news/insider-trading-news/redwood-trust-ik-direktoru-macomber-19967-dolarlk-hisse-senedi-ald-93CH-4080097",
@@ -832,8 +835,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/medpace-holdings-ceosu-675-milyon-dolarlk-hisse-satt-93CH-4080093",
         "investing:https://tr.investing.com/news/stock-market-news/anthropic-ceosu-amodei-yapay-zeka-zirvesi-oncesi-trump-ile-ozel-gorusecek-4080092",
         "investing:https://tr.investing.com/news/insider-trading-news/kaltura-yetkilisi-eynav-azaria-5771-dolar-degerinde-hisse-satt-93CH-4080089",
-        "investing:https://tr.investing.com/news/insider-trading-news/stock-yards-bancorp-kdemli-baskan-yardmcs-10983-dolarlk-hisse-satt-93CH-4080088",
-        "investing:https://tr.investing.com/news/insider-trading-news/exponent-grup-baskan-yardmcs-souri-12593-dolar-degerinde-expo-hissesi-ald-93CH-4080087",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -854,6 +855,8 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/insider-trading-news/stock-yards-bancorp-kdemli-baskan-yardmcs-10983-dolarlk-hisse-satt-93CH-4080088",
+        "investing:https://tr.investing.com/news/insider-trading-news/exponent-grup-baskan-yardmcs-souri-12593-dolar-degerinde-expo-hissesi-ald-93CH-4080087",
         "investing:https://tr.investing.com/news/stock-market-news/tahvil-getirilerinin-avrupa-hisse-senetlerine-etkisi-nedir-ubs-yantlyor-4080086",
         "investing:https://tr.investing.com/news/stock-market-news/cin-alibaba-ve-bytedancein-yeni-nvidia-ciplerini-almasna-izin-verebilir-4080084",
         "investing:https://tr.investing.com/news/insider-trading-news/neostellar-capital-baskan-klein-39550-dolar-hisse-ald-93CH-4080082",
@@ -1842,6 +1845,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "dell technologies genel musaviri 2 33 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/dell-technologies-genel-musaviri-233-milyon-dolarlk-hisse-satt-93CH-4080103"
+    },
+    {
+      "source": "investing",
+      "text": "equitable holdings yoneticisi 151 bin dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/equitable-holdings-yoneticisi-151-bin-dolarlk-hisse-satt-93CH-4080102"
+    },
     {
       "source": "investing",
       "text": "real remax yoneticisi liniger 1 01 milyon dolarl k hisse satt",
@@ -9331,16 +9344,6 @@
       "source": "kap",
       "text": "zpy sirket genel bilgi formu sirket ziraat portfoy yonetimi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1667043"
-    },
-    {
-      "source": "kap",
-      "text": "turex paylar n geri al nmas na iliskin bildirim geri al m program hakk nda sirket tureks turizm tasimacilik a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1667042"
-    },
-    {
-      "source": "kap",
-      "text": "patek pay baz nda devre kesici bildirimi patek e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1667041"
     }
   ],
   "research_reports_v8": {
