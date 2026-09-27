@@ -347,8 +347,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/uraloglu-istanbul-un-toplam-1000-kilometre-metroya-ihtiyaci-var-3789549",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/koc-holding-den-cop31-oncesi-new-york-ta-iklim-mesaisi-3789550",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/koc-holding-den-cop31-oncesi-new-york-ta-iklim-mesaisi-3789550",
         "bloomberght:https://www.bloomberght.com/uraloglu-istanbul-un-toplam-1000-kilometre-metroya-ihtiyaci-var-3789549",
         "bloomberght:https://www.bloomberght.com/iran-dan-hurmuz-bogazi-uzerinden-ticaret-uyarisi-3789548",
         "bloomberght:https://www.bloomberght.com/borsa-istanbul-a-fon-darbesi-3789547",
@@ -619,14 +620,15 @@
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-bir-hisseye-daha-tedbir-aciga-satis-ve-kredili-islem-yasagi-h38068",
         "cnbce:https://www.cnbce.com/borsa/birevimde-pay-devri-sureci-basladi-emlak-katilim-icin-resmi-basvurular-yapildi-h38066",
         "cnbce:https://www.cnbce.com/borsa/borsa-haftayi-yukselisle-kapatti-25-eylul-2026-h38022",
+        "cnbce:https://www.cnbce.com/turizm/rus-turistlerin-tercihi-degismedi-turkiye-yine-zirvede-h38129",
         "cnbce:https://www.cnbce.com/haberler/ticaret-bakanligi-harekete-gecti-simit-fiyatlari-mercek-altinda-h38128",
         "cnbce:https://www.cnbce.com/haberler/istanbullular-dikkat-akom-uyardi-bu-aksam-baslayacak-3-gun-surecek-h38125",
         "cnbce:https://www.cnbce.com/haberler/akaryakitta-esel-mobil-sona-eriyor-benzin-fiyatlarinda-gozler-1-ekimde-h38123",
         "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-gelisme-iki-yonetici-daha-gozaltinda-h38114",
         "cnbce:https://www.cnbce.com/haberler/eglenmek-pahalilasti-harcamalar-hiz-kesmedi-funflation-donemi-yukseliyor-h38118",
         "cnbce:https://www.cnbce.com/haberler/trump-bomba-iran-arabulucu-dedi-hurmuz-konusunda-sessizlik-duruyor-h38117",
-        "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasi-46-tuzel-kisi-18-fon-ve-42-kisinin-malvarliklari-donduruldu-h38112",
         "cnbce:https://www.cnbce.com/borsa/hisseler-tavana-yakin-borsada-820-milyon-tllik-sermaye-artirimi-hamlesi-iptal-edildi-h38061",
+        "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasi-46-tuzel-kisi-18-fon-ve-42-kisinin-malvarliklari-donduruldu-h38112",
         "cnbce:https://www.cnbce.com/haberler/fon-sorusturmasinda-tutuklu-sayisi-51e-yukseldi-h38101",
         "cnbce:https://www.cnbce.com/haberler/son-3-aya-mercek-tutuluyor-bassavciliktan-mkkya-fon-sorusturmasinda-yeni-inceleme-talebi-h38100",
         "cnbce:https://www.cnbce.com/haberler/cevdet-yilmazdan-fon-sorusturmasi-aciklamasi-kurumlar-koordinasyon-icinde-h38098",
@@ -1803,6 +1805,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "koc holding den cop31 oncesi new york ta iklim mesaisi koc holding yonetim kurulu baskan vekili ali y koc ceo levent cak roglu cop31 oncesinde new york iklim haftas kapsam nda duzenlenen toplant lara kat larak ozel sektorun yesil donusumdeki rolu elektrifikasyon su dayan kl l g konul",
+      "link": "https://www.bloomberght.com/koc-holding-den-cop31-oncesi-new-york-ta-iklim-mesaisi-3789550"
+    },
     {
       "source": "tradingview",
       "text": "avustralya bas bos hack olay yla ilgili senato sorusturmas na openai anthropic yoneticilerini cag rd rapor",
@@ -9297,11 +9304,6 @@
       "source": "kap",
       "text": "kront pay baz nda devre kesici bildirimi kront e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
       "link": "https://www.kap.org.tr/tr/Bildirim/1666958"
-    },
-    {
-      "source": "kap",
-      "text": "jcrav kredi derecelendirmesi kredi derecelendirme bildirimi sirket jcr avrasya derecelendirme a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1666954"
     }
   ],
   "research_reports_v8": {
