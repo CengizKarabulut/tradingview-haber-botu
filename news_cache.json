@@ -760,8 +760,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/trump-hurmuz-bars-plann-reddetti-iran-diplomaside-srar-ediyor-4079972",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landde-352-dolar-degerinde-hisse-ald-93CH-4079977",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landde-352-dolar-degerinde-hisse-ald-93CH-4079977",
+        "investing:https://tr.investing.com/news/insider-trading-news/adlai-nortye-yoneticisi-ji-ping-83150-dolarlk-hisse-satt-93CH-4079974",
         "investing:https://tr.investing.com/news/economy-news/trump-hurmuz-bars-plann-reddetti-iran-diplomaside-srar-ediyor-4079972",
         "investing:https://tr.investing.com/news/economy-news/yatrmclar-ecbden-cok-fazla-faiz-artrm-m-bekliyor-4079971",
         "investing:https://tr.investing.com/news/economy-news/ubs-almanyada-yukselen-riskler-arasnda-olas-senaryolar-tartsyor-4079968",
@@ -770,8 +772,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/boeing-737-maxte-otomatik-navigasyonu-etkileyen-yazlm-hatas-buldu-4079962",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-land-hissesi-icin-340-dolar-odedi-93CH-4079960",
         "investing:https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-williamson-56570-dolarlk-hisse-ald-93CH-4079959",
-        "investing:https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-johnston-rgco-hissesine-22193-dolar-yatrd-93CH-4079958",
-        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fund-hisselerinden-2298-dolar-ald-93CH-4079957",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -792,6 +792,8 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-johnston-rgco-hissesine-22193-dolar-yatrd-93CH-4079958",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-renn-fund-hisselerinden-2298-dolar-ald-93CH-4079957",
         "investing:https://tr.investing.com/news/stock-market-news/nehir-seyahatleri-iklim-degisikliginden-uzun-vadede-risk-altnda-m-4079956",
         "investing:https://tr.investing.com/news/stock-market-news/aramco-gaz-birimine-100-milyar-dolarlk-degerleme-olaslg-4079954",
         "investing:https://tr.investing.com/news/insider-trading-news/nuveen-nea-portfoy-yoneticisi-26572-dolar-degerinde-hisse-satt-93CH-4079951",
@@ -1716,6 +1718,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "horizon kinetics texas pacific land 352 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-texas-pacific-landde-352-dolar-degerinde-hisse-ald-93CH-4079977"
+    },
+    {
+      "source": "investing",
+      "text": "adlai nortye yoneticisi ji ping 83 150 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/adlai-nortye-yoneticisi-ji-ping-83150-dolarlk-hisse-satt-93CH-4079974"
+    },
     {
       "source": "investing",
       "text": "trump hurmuz bar s plan n reddetti iran diplomaside srar ediyor",
@@ -9205,16 +9217,6 @@
       "source": "kap",
       "text": "meten pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
       "link": "https://www.kap.org.tr/tr/Bildirim/1666877"
-    },
-    {
-      "source": "tradingview",
-      "text": "bas nda bugun 23 eylul carsamba",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N45F086:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "eur jpy fiyat analizi dokuz gunluk ema civar ndaki 180 00 destegini test ediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:4f47d9b9ad9e8:0"
     }
   ],
   "research_reports_v8": {
