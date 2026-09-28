@@ -824,8 +824,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/dell-cfo-david-kennedy-14-milyon-dolarlk-hisse-satt-93CH-4080104",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/nio-batarya-biriminin-30unu-geelyye-satt-93CH-4080107",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/nio-batarya-biriminin-30unu-geelyye-satt-93CH-4080107",
+        "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-10-hissedar-texas-pacific-land-hissesi-ald-93CH-4080105",
         "investing:https://tr.investing.com/news/insider-trading-news/dell-cfo-david-kennedy-14-milyon-dolarlk-hisse-satt-93CH-4080104",
         "investing:https://tr.investing.com/news/insider-trading-news/dell-technologies-genel-musaviri-233-milyon-dolarlk-hisse-satt-93CH-4080103",
         "investing:https://tr.investing.com/news/insider-trading-news/equitable-holdings-yoneticisi-151-bin-dolarlk-hisse-satt-93CH-4080102",
@@ -834,8 +836,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/redwood-trust-ik-direktoru-macomber-19967-dolarlk-hisse-senedi-ald-93CH-4080097",
         "investing:https://tr.investing.com/news/insider-trading-news/butler-national-corp-yoneticisi-joseph-daly-16400-dolar-degerinde-hisse-ald-93CH-4080096",
         "investing:https://tr.investing.com/news/economy-news/barclays-goc-yavasladkca-ve-nufus-yaslandkca-kalc-isgucu-basklar-goruyor-4080095",
-        "investing:https://tr.investing.com/news/insider-trading-news/medpace-holdings-ceosu-675-milyon-dolarlk-hisse-satt-93CH-4080093",
-        "investing:https://tr.investing.com/news/stock-market-news/anthropic-ceosu-amodei-yapay-zeka-zirvesi-oncesi-trump-ile-ozel-gorusecek-4080092",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -856,6 +856,8 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/insider-trading-news/medpace-holdings-ceosu-675-milyon-dolarlk-hisse-satt-93CH-4080093",
+        "investing:https://tr.investing.com/news/stock-market-news/anthropic-ceosu-amodei-yapay-zeka-zirvesi-oncesi-trump-ile-ozel-gorusecek-4080092",
         "investing:https://tr.investing.com/news/insider-trading-news/kaltura-yetkilisi-eynav-azaria-5771-dolar-degerinde-hisse-satt-93CH-4080089",
         "investing:https://tr.investing.com/news/insider-trading-news/stock-yards-bancorp-kdemli-baskan-yardmcs-10983-dolarlk-hisse-satt-93CH-4080088",
         "investing:https://tr.investing.com/news/insider-trading-news/exponent-grup-baskan-yardmcs-souri-12593-dolar-degerinde-expo-hissesi-ald-93CH-4080087",
@@ -1335,9 +1337,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:be2cf1b92d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:4fa5d9c35d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:4fa5d9c35d9e8:0",
+        "tradingview:fxstreet:07b49c6fed9e8:0",
         "tradingview:fxstreet:be2cf1b92d9e8:0",
+        "tradingview:beincrypto:482783491d9e8:0",
         "tradingview:fxstreet:55512f32fd9e8:0",
         "tradingview:beincrypto:c2534f201d9e8:0",
         "tradingview:beincrypto:26aa7a0bad9e8:0",
@@ -1833,10 +1838,7 @@
         "tradingview:fxstreet:4cc87be8cd9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L6N45F0T1:0",
         "tradingview:fxstreet:464fb0894d9e8:0",
-        "tradingview:fxstreet:465c611abd9e8:0",
-        "tradingview:fxstreet:4be120012d9e8:0",
-        "tradingview:fxstreet:3725da235d9e8:0",
-        "tradingview:fxstreet:db86e54b7d9e8:0"
+        "tradingview:fxstreet:465c611abd9e8:0"
       ]
     },
     "forexfactory": {
@@ -1847,6 +1849,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd baskan donald trump iran a yonelik daha fazla sald r y d slamayacag n soyledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:4fa5d9c35d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "boj tutanaklar uyeler finansal kosullar n destekleyici olmaya devam ettigi konusunda hemfikir",
+      "link": "https://tr.tradingview.com/news/fxstreet:07b49c6fed9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "nio batarya biriminin 30 unu geely ye satt",
+      "link": "https://tr.investing.com/news/company-news/nio-batarya-biriminin-30unu-geelyye-satt-93CH-4080107"
+    },
+    {
+      "source": "investing",
+      "text": "horizon kinetics 10 hissedar texas pacific land hissesi ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-10-hissedar-texas-pacific-land-hissesi-ald-93CH-4080105"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar s k lasmac fed sinyalleriyle 0 7000 seviyesine yak n zay fl yor rba faiz karar yaklas rken",
@@ -9326,26 +9348,6 @@
       "source": "bloomberght",
       "text": "aselsan roketsan aras nda sozlesme aselsan roketsan aras nda hava savunma sistemlerine yonelik alt bilesenlerin tedariki kapsam nda 1 milyar 234 milyon 210 bin euro tutar nda sozlesme imzaland",
       "link": "https://www.bloomberght.com/aselsan-ile-roketsan-arasinda-sozlesme-3789114"
-    },
-    {
-      "source": "kap",
-      "text": "btcim kredi derecelendirmesi kredi derecelendirme notuna iliskin sirket baticim bati anadolu sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1667050"
-    },
-    {
-      "source": "kap",
-      "text": "glryh pay baz nda devre kesici bildirimi glryh e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1667049"
-    },
-    {
-      "source": "kap",
-      "text": "bsoke kredi derecelendirmesi kredi derecelendirme notuna iliskin sirket baticim cimento sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1667048"
-    },
-    {
-      "source": "kap",
-      "text": "krgyo pay baz nda devre kesici bildirimi krgyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1667047"
     }
   ],
   "research_reports_v8": {
