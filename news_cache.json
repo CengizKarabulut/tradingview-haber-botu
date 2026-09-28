@@ -2,186 +2,105 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1668479",
+      "last_seen_key": "kap:1668680",
       "seen_keys": [
-        "kap:1668479",
-        "kap:1668478",
-        "kap:1668477",
-        "kap:1668476",
-        "kap:1668475",
-        "kap:1668474",
-        "kap:1668473",
-        "kap:1668472",
-        "kap:1668471",
-        "kap:1668470",
-        "kap:1668469",
-        "kap:1668468",
-        "kap:1668466",
-        "kap:1668465",
-        "kap:1668464",
-        "kap:1668463",
-        "kap:1668462",
-        "kap:1668461",
-        "kap:1668460",
-        "kap:1668459",
-        "kap:1668458",
-        "kap:1668457",
-        "kap:1668456",
-        "kap:1668455",
-        "kap:1668454",
-        "kap:1668453",
-        "kap:1668452",
-        "kap:1668451",
-        "kap:1668450",
-        "kap:1668449",
-        "kap:1668448",
-        "kap:1668447",
-        "kap:1668446",
-        "kap:1668445",
-        "kap:1668444",
-        "kap:1668443",
-        "kap:1668442",
-        "kap:1668441",
-        "kap:1668440",
-        "kap:1668439",
-        "kap:1668437",
-        "kap:1668436",
-        "kap:1668435",
-        "kap:1668434",
-        "kap:1668433",
-        "kap:1668431",
-        "kap:1668430",
-        "kap:1668429",
-        "kap:1668428",
-        "kap:1668427",
-        "kap:1668426",
-        "kap:1668425",
-        "kap:1668424",
-        "kap:1668423",
-        "kap:1668422",
-        "kap:1668421",
-        "kap:1668420",
-        "kap:1668418",
-        "kap:1668417",
-        "kap:1668416",
-        "kap:1668415",
-        "kap:1668413",
-        "kap:1668412",
-        "kap:1668407",
-        "kap:1668405",
-        "kap:1668403",
-        "kap:1668402",
-        "kap:1668401",
-        "kap:1668400",
-        "kap:1668399",
-        "kap:1668397",
-        "kap:1668396",
-        "kap:1668395",
-        "kap:1668394",
-        "kap:1668393",
-        "kap:1668392",
-        "kap:1668391",
-        "kap:1668390",
-        "kap:1668389",
-        "kap:1668388",
-        "kap:1668387",
-        "kap:1668386",
-        "kap:1668385",
-        "kap:1668373",
-        "kap:1668372",
-        "kap:1668369",
-        "kap:1668368",
-        "kap:1668367",
-        "kap:1668366",
-        "kap:1668365",
-        "kap:1668364",
-        "kap:1668363",
-        "kap:1668361",
-        "kap:1668360",
-        "kap:1668359",
-        "kap:1668358",
-        "kap:1668357",
-        "kap:1668356",
-        "kap:1668355",
-        "kap:1668354",
-        "kap:1668353",
-        "kap:1668352",
-        "kap:1668351",
-        "kap:1668350",
-        "kap:1668349",
-        "kap:1668348",
-        "kap:1668347",
-        "kap:1668345",
-        "kap:1668344",
-        "kap:1668343",
-        "kap:1668342",
-        "kap:1668341",
-        "kap:1668340",
-        "kap:1668339",
-        "kap:1668338",
-        "kap:1668337",
-        "kap:1668335",
-        "kap:1668334",
-        "kap:1668332",
-        "kap:1668331",
-        "kap:1668330",
-        "kap:1668329",
-        "kap:1668328",
-        "kap:1668327",
-        "kap:1668326",
-        "kap:1668325",
-        "kap:1668324",
-        "kap:1668323",
-        "kap:1668322",
-        "kap:1668321",
-        "kap:1668320",
-        "kap:1668319",
-        "kap:1668318",
-        "kap:1668317",
-        "kap:1668316",
-        "kap:1668315",
-        "kap:1668314",
-        "kap:1668313",
-        "kap:1668312",
-        "kap:1668311",
-        "kap:1668310",
-        "kap:1668309",
-        "kap:1668307",
-        "kap:1668305",
-        "kap:1668301",
-        "kap:1668300",
-        "kap:1668299",
-        "kap:1668298",
-        "kap:1668297",
-        "kap:1668296",
-        "kap:1668295",
-        "kap:1668294",
-        "kap:1668293",
-        "kap:1668291",
-        "kap:1668290",
-        "kap:1668288",
-        "kap:1668287",
-        "kap:1668286",
-        "kap:1668285",
-        "kap:1668284",
-        "kap:1668283",
-        "kap:1668282",
-        "kap:1668281",
-        "kap:1668280",
-        "kap:1668279",
-        "kap:1668278",
-        "kap:1668276",
-        "kap:1668275",
-        "kap:1668274",
-        "kap:1668272",
-        "kap:1668271",
-        "kap:1668270",
-        "kap:1668269",
-        "kap:1668268",
-        "kap:1668267",
-        "kap:1668266",
-        "kap:1668264",
-        "kap:1668263"
+        "kap:1668680",
+        "kap:1668679",
+        "kap:1668678",
+        "kap:1668677",
+        "kap:1668676",
+        "kap:1668675",
+        "kap:1668674",
+        "kap:1668673",
+        "kap:1668672",
+        "kap:1668671",
+        "kap:1668670",
+        "kap:1668669",
+        "kap:1668668",
+        "kap:1668666",
+        "kap:1668665",
+        "kap:1668664",
+        "kap:1668662",
+        "kap:1668661",
+        "kap:1668655",
+        "kap:1668654",
+        "kap:1668653",
+        "kap:1668652",
+        "kap:1668651",
+        "kap:1668650",
+        "kap:1668649",
+        "kap:1668648",
+        "kap:1668646",
+        "kap:1668645",
+        "kap:1668644",
+        "kap:1668643",
+        "kap:1668642",
+        "kap:1668641",
+        "kap:1668640",
+        "kap:1668639",
+        "kap:1668638",
+        "kap:1668637",
+        "kap:1668636",
+        "kap:1668635",
+        "kap:1668634",
+        "kap:1668633",
+        "kap:1668632",
+        "kap:1668631",
+        "kap:1668630",
+        "kap:1668629",
+        "kap:1668628",
+        "kap:1668627",
+        "kap:1668626",
+        "kap:1668625",
+        "kap:1668624",
+        "kap:1668623",
+        "kap:1668622",
+        "kap:1668621",
+        "kap:1668620",
+        "kap:1668619",
+        "kap:1668618",
+        "kap:1668617",
+        "kap:1668616",
+        "kap:1668615",
+        "kap:1668614",
+        "kap:1668613",
+        "kap:1668612",
+        "kap:1668611",
+        "kap:1668610",
+        "kap:1668609",
+        "kap:1668608",
+        "kap:1668607",
+        "kap:1668606",
+        "kap:1668603",
+        "kap:1668602",
+        "kap:1668601",
+        "kap:1668600",
+        "kap:1668599",
+        "kap:1668598",
+        "kap:1668597",
+        "kap:1668596",
+        "kap:1668595",
+        "kap:1668594",
+        "kap:1668593",
+        "kap:1668592",
+        "kap:1668591",
+        "kap:1668590",
+        "kap:1668589",
+        "kap:1668588",
+        "kap:1668587",
+        "kap:1668586",
+        "kap:1668585",
+        "kap:1668584",
+        "kap:1668583",
+        "kap:1668582",
+        "kap:1668581",
+        "kap:1668580",
+        "kap:1668579",
+        "kap:1668578",
+        "kap:1668577",
+        "kap:1668576",
+        "kap:1668575",
+        "kap:1668574"
       ]
     },
     "bist": {
@@ -274,8 +193,38 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6773176:0",
+      "last_seen_key": "matriks:matriks:6773607:0",
       "seen_keys": [
+        "matriks:matriks:6773607:0",
+        "matriks:matriks:6773551:0",
+        "matriks:matriks:6773452:0",
+        "matriks:matriks:6773443:0",
+        "matriks:matriks:6773423:0",
+        "matriks:matriks:6773420:0",
+        "matriks:matriks:6773405:0",
+        "matriks:matriks:6773367:0",
+        "matriks:matriks:6773365:0",
+        "matriks:matriks:6773330:0",
+        "matriks:matriks:6773281:0",
+        "matriks:matriks:6773282:0",
+        "matriks:matriks:6773256:0",
+        "matriks:matriks:6773255:0",
+        "matriks:matriks:6773252:0",
+        "matriks:matriks:6773249:0",
+        "matriks:matriks:6773245:0",
+        "matriks:matriks:6773243:0",
+        "matriks:matriks:6773227:0",
+        "matriks:matriks:6773226:0",
+        "matriks:matriks:6773225:0",
+        "matriks:matriks:6773219:0",
+        "matriks:matriks:6773213:0",
+        "matriks:matriks:6773205:0",
+        "matriks:matriks:6773203:0",
+        "matriks:matriks:6773202:0",
+        "matriks:matriks:6773200:0",
+        "matriks:matriks:6773195:0",
+        "matriks:matriks:6773187:0",
+        "matriks:matriks:6773181:0",
         "matriks:matriks:6773176:0",
         "matriks:matriks:6773172:0",
         "matriks:matriks:6773170:0",
@@ -1875,6 +1824,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "matriks",
+      "text": "forex gunluk bulten gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773607:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gyo sektoru prim iskonto analizi raporu seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773551:0"
+    },
+    {
+      "source": "matriks",
+      "text": "destek yat r m destek yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773452:0"
+    },
+    {
+      "source": "matriks",
+      "text": "haftal k bulten oyak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773443:0"
+    },
+    {
+      "source": "matriks",
+      "text": "fx fikirleri tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773423:0"
+    },
+    {
+      "source": "matriks",
+      "text": "uluslararas piyasalar bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773420:0"
+    },
+    {
+      "source": "matriks",
+      "text": "avm metrekare verimlilik endeksi agustos 2026 doneminde onceki y l n ayn ay na gore nominal olarak 22 9 artt",
+      "link": "https://tr.tradingview.com/news/matriks:6773405:0"
+    },
+    {
+      "source": "matriks",
+      "text": "piyasa gunlugu is bankas",
+      "link": "https://tr.tradingview.com/news/matriks:6773367:0"
+    },
+    {
+      "source": "matriks",
+      "text": "spot gumus 5 civar nda dususle 61 15 dolar ons",
+      "link": "https://tr.tradingview.com/news/matriks:6773365:0"
+    },
+    {
+      "source": "matriks",
+      "text": "avrupa borsalar yukselisle ac ld",
+      "link": "https://tr.tradingview.com/news/matriks:6773330:0"
+    },
+    {
+      "source": "matriks",
+      "text": "merkez bankas nca ac klanan rezerv verilerine gore bugun piyasa 2903062 4 milyon tl art",
+      "link": "https://tr.tradingview.com/news/matriks:6773281:0"
+    },
+    {
+      "source": "matriks",
+      "text": "merkez bankas nca ac klanan verilere gore bankalar n serbest depolar toplam 1860396 4 milyon tl",
+      "link": "https://tr.tradingview.com/news/matriks:6773282:0"
+    },
+    {
+      "source": "matriks",
+      "text": "borsa istanbul gune 209 48 puan 1 62 dususle baslad matriks haber anketi 85 90 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6773256:0"
+    },
+    {
+      "source": "matriks",
+      "text": "yat r m fikirleri garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773255:0"
+    },
+    {
+      "source": "matriks",
+      "text": "forex bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773252:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773249:0"
+    },
+    {
+      "source": "matriks",
+      "text": "uluslararas piyasalar gunluk bulten burgan yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773245:0"
+    },
+    {
+      "source": "matriks",
+      "text": "fx bulteni qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6773243:0"
+    },
+    {
+      "source": "matriks",
+      "text": "liderlikte kad n yuz u program ilk donemini tamamlad",
+      "link": "https://tr.tradingview.com/news/matriks:6773227:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk hisse senedi piyasas gorunumu akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773226:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bain co bulgular na gore oyun sektorunun gelecekteki kazananlar n oyuncu odag yapay zeka destekli kisisellestirme oyuncular dogrudan iliskiler belirleyecek",
+      "link": "https://tr.tradingview.com/news/matriks:6773225:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bist gunluk bulten integral yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6773219:0"
+    },
+    {
+      "source": "matriks",
+      "text": "hazine gunluk piyasa bulteni gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773213:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773205:0"
+    },
+    {
+      "source": "matriks",
+      "text": "haftal k takip listesi aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773203:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bist50 gostergeler analizi aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773202:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bist50 volatilite analizi aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773200:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773195:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten yap kredi yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773187:0"
+    },
+    {
+      "source": "matriks",
+      "text": "teknik bulten bulls yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6773181:0"
+    },
     {
       "source": "kap",
       "text": "izenr pay baz nda devre kesici bildirimi izenr e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
@@ -9224,156 +9323,6 @@
       "source": "tradingview",
       "text": "almanya n n 10 y ll k tahvil getirisi 7 baz puan art sla 3 5233 seviyesine yukseldi",
       "link": "https://tr.tradingview.com/news/matriks:6764362:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd s p global bilesik pmi eylulde 58 4 olarak gerceklesti",
-      "link": "https://tr.tradingview.com/news/fxstreet:0237e8df5d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "k ymetli madenler piyasas bulteni troy k ymetli maden",
-      "link": "https://tr.tradingview.com/news/matriks:6764345:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd nin 10 y ll k tahvil getirisi verilerin ard ndan 5 81 baz puan art sla 5 025 e c kt",
-      "link": "https://tr.tradingview.com/news/matriks:6764332:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd bilesik pmi eylul 58 4 onceki 54 0",
-      "link": "https://tr.tradingview.com/news/matriks:6764288:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd hizmet sektoru pmi eylul 58 7 beklenti 56 0 onceki 54 5",
-      "link": "https://tr.tradingview.com/news/matriks:6764287:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar dusus trendi 1 4125 i hedefliyor scotiabank",
-      "link": "https://tr.tradingview.com/news/fxstreet:70749ded7d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd imalat sektoru pmi eylul 57 0 beklenti 53 6 onceki 53 9",
-      "link": "https://tr.tradingview.com/news/matriks:6764286:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "birlesik devletler s p global bilesik pmi eylul 0 beklentisi uzerinde kald eylul gerceklesen 58 4",
-      "link": "https://tr.tradingview.com/news/fxstreet:3accfbe7cd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "birlesik devletler s p global imalat pmi eylul 53 5 beklentisini gecti eylul gerceklesen 57",
-      "link": "https://tr.tradingview.com/news/fxstreet:558a9064ed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "birlesik devletler s p global hizmetler pmi eylul 56 beklentisi uzerinde 58 7 seviyesinde ac kland",
-      "link": "https://tr.tradingview.com/news/fxstreet:31ad4fe60d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "esma 2027 ab genelinde yapay zeka tokenizasyon denetimine oncelik verecek",
-      "link": "https://tr.tradingview.com/news/cointelegraph:f4cd022a2d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "italya ekonomi bakan ab ulkeleri aras nda enerji sektorune yonelik beklenmedik kazanc vergisi konusunda uzlas n n buyudugunu soyledi",
-      "link": "https://tr.tradingview.com/news/matriks:6764269:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "19 turkiye yat r m konferans new yorkta gerceklesti d s ekonomik iliskiler kurulu deik turkiye abd is konseyi taik taraf ndan duzenlenen 19 turkiye yat r m konferans 21 23 eylul 2026 tarihlerinde new york ta gerceklesti",
-      "link": "https://www.trthaber.com/haber/ekonomi/19-turkiye-yatirim-konferansi-new-yorkta-gerceklesti-957873.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "turkiye y l 97100 bin ton bal uretimi bekleniyor turkiye 2026 y l bal uretiminin 97 100 bin ton olmas bekleniyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-bu-yil-97-100-bin-ton-bal-uretimi-bekleniyor-957854.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "cumhurbaskan yard mc s y lmaz sermaye piyasalar m zda yap sal sorun yok cumhurbaskan yard mc s cevdet y lmaz bizim sermaye piyasalar m zda yap sal sorun yok k s tl alanda spesifik baz sorunlarla kars kars yay z bunlar ast g m zda sermaye piyasalar m z eskisinden daha guclu sekilde yol",
-      "link": "https://www.trthaber.com/haber/ekonomi/cumhurbaskani-yardimcisi-yilmaz-sermaye-piyasalarimizda-yapisal-bir-sorun-yok-957852.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "fransa daki istasyonlar n yuzde 11 inde en az yak t turunde tedarik s k nt s yasan yor fransa orta dogu daki gerilimin enerji tedarik zincirlerinde yol act g kriz nedeniyle akaryak t fiyatlar rekor seviyelere yukselirken ulke genelindeki benzin istasyonlar n n yuzde 11 inde yak t sorunu bulunuyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/fransadaki-istasyonlarin-yuzde-11inde-en-az-bir-yakit-turunde-tedarik-sikintisi-yasaniyor-957845.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "bakan kac r ilk 10 savunma sanayi ihracatc s ulkeden biri olacag z sanayi teknoloji bakan mehmet fatih kac r turkiye nin dunyan n en buyuk 11 savunma sanayii ihracatc s oldugunu belirterek insallah az kald onumuzdeki y l ilk 10 savunma sanayii ihracatc s ulkeden biri olacag z dedi",
-      "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-ilk-10-savunma-sanayi-ihracatcisi-ulkeden-biri-olacagiz-957840.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "siirt havaliman yenilendi yeni terminal binas hizmete girdi ulast rma altyap bakan abdulkadir uraloglu siirt havaliman n n y ll k 100 bin olan yolcu kapasitesini 250 bine c kararak daha ferah duzenli konforlu guvenli hava ulas m altyap s kazand rd klar n soyledi",
-      "link": "https://www.trthaber.com/haber/ekonomi/siirt-havalimani-yenilendi-yeni-terminal-binasi-hizmete-girdi-957838.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "fatf tan turkiye nin mali suclarla mucadelesine tam not hazine maliye bakanl g mali eylem gorev gucu fatf 5 inci tur kars l kl degerlendirme raporu nun yay mland g n belirterek turkiye nin suc gelirlerinin aklanmas terorizmin finansman mucadelede stratejik eksikliginin bul",
-      "link": "https://www.trthaber.com/haber/ekonomi/fatftan-turkiyenin-mali-suclarla-mucadelesine-tam-not-957826.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "tubitak tan yesil donusum projelerine 51 5 milyon liraya kadar destek tubitak sanayide enerji su tasarrufu saglayacak at klar azaltacak yesil teknolojilerin ticarilesmesini h zland racak ar ge projeleriyle birlikte surdurulebilir tar m ak ll ulas m projelerine 51 5 milyon liraya kadar destek sagl",
-      "link": "https://www.trthaber.com/haber/ekonomi/tubitaktan-yesil-donusum-projelerine-515-milyon-liraya-kadar-destek-957819.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "tdt ulkelerinin ekonomisi 2 11 trilyon dolara ulast turk devletleri teskilat tdt uyesi gozlemci ulkelerin toplam gayri safi yurt ici has las gsyh 2 11 trilyon dolara ulas rken bolgedeki ekonomik entegrasyon lojistik baglant lar gucleniyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/tdt-ulkelerinin-ekonomisi-211-trilyon-dolara-ulasti-957818.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "airbus tan turkiye ye stratejik is birligi mesaj airbus savunma uzay kurumsal is buyumesi is gelistirme birimi sat s direktoru carlo mirra turkiye baz olas isbirligi f rsatlar uzerine tubitak gorusmeler yapt klar n belirterek alanlardan biri kuskusuz uzay ozellikle",
-      "link": "https://www.trthaber.com/haber/ekonomi/airbustan-turkiyeye-stratejik-is-birligi-mesaji-957817.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "enerjide iki kritik esik finansman sebeke kapasitesi enerji tabii kaynaklar bakan yard mc s zafer demircan yenilenebilir enerji yat r mlar na iliskin finansman kosullar nda yap lacak iyilestirmenin yat r mlar ikiye katlayabilecegini belirtirken turkiye nin ilk denizustu ruzgar ihal",
-      "link": "https://www.trthaber.com/haber/ekonomi/enerjide-iki-kritik-esik-finansman-ve-sebeke-kapasitesi-957807.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "isvicre cop31w turkiye uzun vadeli ortakl klara haz rlan yor isvicre ankara buyukelcisi guillaume bertrand scheurer turkiye nin gunes ruzgar enerjisindeki deneyimi isvicre nin temiz teknoloji inovasyon kapasitesinin cop3 kapsam nda somut uzun vadeli isbirliklerine donusturulebilecegini be",
-      "link": "https://www.trthaber.com/haber/ekonomi/isvicre-cop31wde-turkiye-ile-uzun-vadeli-ortakliklara-hazirlaniyor-957805.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "tihek ten televizyon kanallar na engelli dostu yay n uyar s tihek engelli bireylerin yay n hizmetlerine erisimini kolaylast racak yukumluluklerin yerine getirilmedigi gerekcesiyle kanal 7 atv show tv now tv star tv rtuk u uyard",
-      "link": "https://www.trthaber.com/haber/ekonomi/tihekten-televizyon-kanallarina-engelli-dostu-yayin-uyarisi-957802.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "eticaret ruzgar yla posta sektorunde cift haneli buyume e ticaret hacmindeki h zl yukselis posta sektorunu rekor seviyelere tas d btk verilerine gore sektorun toplam geliri y l n ilk yar s nda gecen y l n ayn donemine gore yuzde 34 4 artarak 104 45 milyar liraya ulast",
-      "link": "https://www.trthaber.com/haber/ekonomi/e-ticaret-ruzgariyla-posta-sektorunde-cift-haneli-buyume-957799.html"
-    },
-    {
-      "source": "kap",
-      "text": "icugs sirket genel bilgi formu sirket icu girisim sermayesi yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1667400"
-    },
-    {
-      "source": "kap",
-      "text": "kutpo ozel durum ac klamas genel sube ac l s hk sirket kutahya porselen sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1667399"
-    },
-    {
-      "source": "trthaber",
-      "text": "tmo ciftcilere 3 6 milyar lira odeme yapt toprak mahsulleri ofisi tmo 27 agustos 8 eylul doneminde ciftcilere 3 milyar 592 milyon lira odeme yap ld g n belirtti",
-      "link": "https://www.trthaber.com/haber/ekonomi/tmo-ciftcilere-36-milyar-lira-odeme-yapti-957798.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "seyahatsever projesi nden 628 bin 241 genc yararland genclere yaz aylar nda konaklama maliyeti olmadan turkiye nin 81 ilini gezme imkan sunan seyahatsever projesi nden 628 bin 241 genc yararland",
-      "link": "https://www.trthaber.com/haber/ekonomi/seyahatsever-projesinden-628-bin-241-genc-yararlandi-957797.html"
     }
   ],
   "research_reports_v8": {
