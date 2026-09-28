@@ -824,8 +824,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/nio-batarya-biriminin-30unu-geelyye-satt-93CH-4080107",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/centuri-holdings-yoneticisi-dustin-demaria-100204-dolar-ctri-ald-93CH-4080110",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/centuri-holdings-yoneticisi-dustin-demaria-100204-dolar-ctri-ald-93CH-4080110",
+        "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-iran-gerilimleri-ve-openainin-egitimi-durdurmasyla-dustu-4080111",
         "investing:https://tr.investing.com/news/company-news/nio-batarya-biriminin-30unu-geelyye-satt-93CH-4080107",
         "investing:https://tr.investing.com/news/insider-trading-news/horizon-kinetics-10-hissedar-texas-pacific-land-hissesi-ald-93CH-4080105",
         "investing:https://tr.investing.com/news/insider-trading-news/dell-cfo-david-kennedy-14-milyon-dolarlk-hisse-satt-93CH-4080104",
@@ -834,8 +836,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/real-remax-yoneticisi-liniger-101-milyon-dolarlk-hisse-satt-93CH-4080100",
         "investing:https://tr.investing.com/news/company-news/mirum-pazartesi-gunu-hepatit-delta-calsma-sonuclarn-sunacak-93CH-4080098",
         "investing:https://tr.investing.com/news/insider-trading-news/redwood-trust-ik-direktoru-macomber-19967-dolarlk-hisse-senedi-ald-93CH-4080097",
-        "investing:https://tr.investing.com/news/insider-trading-news/butler-national-corp-yoneticisi-joseph-daly-16400-dolar-degerinde-hisse-ald-93CH-4080096",
-        "investing:https://tr.investing.com/news/economy-news/barclays-goc-yavasladkca-ve-nufus-yaslandkca-kalc-isgucu-basklar-goruyor-4080095",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -856,6 +856,8 @@
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
         "investing:https://tr.investing.com/analysis/net-global-endustriyel-yatrmlar-halka-arz-oluyor-200506024",
+        "investing:https://tr.investing.com/news/insider-trading-news/butler-national-corp-yoneticisi-joseph-daly-16400-dolar-degerinde-hisse-ald-93CH-4080096",
+        "investing:https://tr.investing.com/news/economy-news/barclays-goc-yavasladkca-ve-nufus-yaslandkca-kalc-isgucu-basklar-goruyor-4080095",
         "investing:https://tr.investing.com/news/insider-trading-news/medpace-holdings-ceosu-675-milyon-dolarlk-hisse-satt-93CH-4080093",
         "investing:https://tr.investing.com/news/stock-market-news/anthropic-ceosu-amodei-yapay-zeka-zirvesi-oncesi-trump-ile-ozel-gorusecek-4080092",
         "investing:https://tr.investing.com/news/insider-trading-news/kaltura-yetkilisi-eynav-azaria-5771-dolar-degerinde-hisse-satt-93CH-4080089",
@@ -1337,8 +1339,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:4fa5d9c35d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:fc5d02430d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:fc5d02430d9e8:0",
+        "tradingview:beincrypto:9d2ae2c04d9e8:0",
         "tradingview:fxstreet:4fa5d9c35d9e8:0",
         "tradingview:fxstreet:07b49c6fed9e8:0",
         "tradingview:fxstreet:be2cf1b92d9e8:0",
@@ -1836,9 +1840,7 @@
         "tradingview:fxstreet:b5dd83490d9e8:0",
         "tradingview:beincrypto:21195e932d9e8:0",
         "tradingview:fxstreet:4cc87be8cd9e8:0",
-        "tradingview:tag:reuters.com,2026:newsml_L6N45F0T1:0",
-        "tradingview:fxstreet:464fb0894d9e8:0",
-        "tradingview:fxstreet:465c611abd9e8:0"
+        "tradingview:tag:reuters.com,2026:newsml_L6N45F0T1:0"
       ]
     },
     "forexfactory": {
@@ -1849,6 +1851,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro fed in s k lasmac durusu orta dogu daki suregelen gerilimler nedeniyle 1 1400 nin alt na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:fc5d02430d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "petrol duserse wall street ten 10 hisse rallisi tahmini",
+      "link": "https://tr.tradingview.com/news/beincrypto:9d2ae2c04d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "centuri holdings yoneticisi dustin demaria 100 204 dolar ctri ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/centuri-holdings-yoneticisi-dustin-demaria-100204-dolar-ctri-ald-93CH-4080110"
+    },
+    {
+      "source": "investing",
+      "text": "abd hisse senedi vadeli islemleri iran gerilimleri openai nin egitimi durdurmas yla dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-iran-gerilimleri-ve-openainin-egitimi-durdurmasyla-dustu-4080111"
+    },
     {
       "source": "tradingview",
       "text": "abd baskan donald trump iran a yonelik daha fazla sald r y d slamayacag n soyledi",
@@ -9328,26 +9350,6 @@
       "source": "bloomberght",
       "text": "sektorel enflasyon beklentilerinde yatay seyir tcmb nin sektorel enflasyon beklentileri anketine gore eylul ay nda 12 ay sonras y ll k enflasyon beklentileri piyasa kat l mc lar hanehalk hafif yukseldi reel sektor beklentisi ise geriledi",
       "link": "https://www.bloomberght.com/sektorel-enflasyon-beklentilerinde-yatay-seyir-3789127"
-    },
-    {
-      "source": "bloomberght",
-      "text": "cin menseli gunes paneli baglant kutular ithalat nda damping onlemi cin menseli gunes solar panelleri baglant kutular ithalat na yonelik dampinge kars kesin onlem uygulanmas kararlast r ld",
-      "link": "https://www.bloomberght.com/cin-menseli-baglanti-kutulari-ithalatinda-damping-onlemi-3789119"
-    },
-    {
-      "source": "bloomberght",
-      "text": "tasfiye edilen 131 fondaki yat r mc say s ac kland spk tasfiye edilen 131 fonda 455 bin 758 tekil yat r mc bulundugunu ac klad",
-      "link": "https://www.bloomberght.com/tasfiye-edilen-131-fondaki-yatirimci-sayisi-aciklandi-3789117"
-    },
-    {
-      "source": "bloomberght",
-      "text": "para piyasas fonlar ndan c k s boyutta fon manipulasyonu dolay s yla sorusturmalar devam ederken durumun fon piyasas na etkileri merak konusu",
-      "link": "https://www.bloomberght.com/para-piyasasi-fonlarindan-cikis-ne-boyutta-3789125"
-    },
-    {
-      "source": "bloomberght",
-      "text": "aselsan roketsan aras nda sozlesme aselsan roketsan aras nda hava savunma sistemlerine yonelik alt bilesenlerin tedariki kapsam nda 1 milyar 234 milyon 210 bin euro tutar nda sozlesme imzaland",
-      "link": "https://www.bloomberght.com/aselsan-ile-roketsan-arasinda-sozlesme-3789114"
     }
   ],
   "research_reports_v8": {
