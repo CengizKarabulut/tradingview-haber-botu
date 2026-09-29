@@ -364,8 +364,9 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ababafd24008d7d43738788/PICNEWS/tr/fed-cook-yapay-zeka-ve-yuksek-petrol-fiyatlari-enflasyon-baskisini-surdurecek-28-09-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ababbd895016b5817e61844/PICNEWS/tr/anthropic-claude-sonnet-55-i-piyasaya-surdu-selefiyle-ayni-fiyata-yuzde-30-daha-hizli-ve-daha-ucuz-28-09-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6ababbd895016b5817e61844/PICNEWS/tr/anthropic-claude-sonnet-55-i-piyasaya-surdu-selefiyle-ayni-fiyata-yuzde-30-daha-hizli-ve-daha-ucuz-28-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ababafd24008d7d43738788/PICNEWS/tr/fed-cook-yapay-zeka-ve-yuksek-petrol-fiyatlari-enflasyon-baskisini-surdurecek-28-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6abab9fe95016b5817e61838/PICNEWS/tr/trump-teknoloji-devleriyle-yapay-zekada-denge-arayacak-28-09-26/",
         "forinvest:https://www.foreks.com/haber/detay/6abab9a995016b5817e61836/PICNEWS/tr/trump-tan-iran-a-nukleer-taviz-karsiliginda-yaptirim-hafifletme-teklifi-28-09-26/",
@@ -2037,6 +2038,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "forinvest",
+      "text": "anthropic claude sonnet 5 5 i piyasaya surdu selefiyle ayn fiyata yuzde 30 daha h zl daha ucuz anthropic claude 5 5 model ailesinin ikinci uyesi claude sonnet 5 5 i piyasaya surdu sirket yeni modelin claude sonnet 5 e gore yuzde 30 dan fazla daha h zl cal st g n ayn gorevlerde daha az",
+      "link": "https://www.foreks.com/haber/detay/6ababbd895016b5817e61844/PICNEWS/tr/anthropic-claude-sonnet-55-i-piyasaya-surdu-selefiyle-ayni-fiyata-yuzde-30-daha-hizli-ve-daha-ucuz-28-09-26"
+    },
     {
       "source": "tradingview",
       "text": "abd dolar endeksi petrol fiyatlar ndaki yukselisin fed faiz art r m beklentilerini desteklemesiyle gucleniyor",
@@ -9531,11 +9537,6 @@
       "source": "matriks",
       "text": "kanada basbakan carney abd ticaret anlasmas na ac g z ancak ab iliskileri derinlestirme hakk m zdan vazgecmeyecegiz",
       "link": "https://tr.tradingview.com/news/matriks:6765347:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd bugun bilanco ac klayacak sirketler",
-      "link": "https://tr.tradingview.com/news/matriks:6765246:0"
     }
   ],
   "research_reports_v8": {
