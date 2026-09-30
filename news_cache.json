@@ -2,158 +2,98 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1670331",
+      "last_seen_key": "kap:1670561",
       "seen_keys": [
-        "kap:1670331",
-        "kap:1670330",
-        "kap:1670329",
-        "kap:1670328",
-        "kap:1670327",
-        "kap:1670316",
-        "kap:1670314",
-        "kap:1670313",
-        "kap:1670311",
-        "kap:1670308",
-        "kap:1670306",
-        "kap:1670300",
-        "kap:1670299",
-        "kap:1670298",
-        "kap:1670297",
-        "kap:1670296",
-        "kap:1670295",
-        "kap:1670292",
-        "kap:1670290",
-        "kap:1670289",
-        "kap:1670288",
-        "kap:1670285",
-        "kap:1670284",
-        "kap:1670283",
-        "kap:1670282",
-        "kap:1670281",
-        "kap:1670280",
-        "kap:1670279",
-        "kap:1670278",
-        "kap:1670277",
-        "kap:1670276",
-        "kap:1670275",
-        "kap:1670274",
-        "kap:1670273",
-        "kap:1670272",
-        "kap:1670270",
-        "kap:1670269",
-        "kap:1670268",
-        "kap:1670267",
-        "kap:1670266",
-        "kap:1670262",
-        "kap:1670261",
-        "kap:1670260",
-        "kap:1670259",
-        "kap:1670258",
-        "kap:1670254",
-        "kap:1670253",
-        "kap:1670252",
-        "kap:1670251",
-        "kap:1670250",
-        "kap:1670249",
-        "kap:1670248",
-        "kap:1670247",
-        "kap:1670246",
-        "kap:1670245",
-        "kap:1670244",
-        "kap:1670243",
-        "kap:1670242",
-        "kap:1670241",
-        "kap:1670226",
-        "kap:1670216",
-        "kap:1670215",
-        "kap:1670214",
-        "kap:1670206",
-        "kap:1670205",
-        "kap:1670204",
-        "kap:1670203",
-        "kap:1670202",
-        "kap:1670201",
-        "kap:1670200",
-        "kap:1670198",
-        "kap:1670197",
-        "kap:1670196",
-        "kap:1670195",
-        "kap:1670194",
-        "kap:1670193",
-        "kap:1670192",
-        "kap:1670191",
-        "kap:1670189",
-        "kap:1670188",
-        "kap:1670186",
-        "kap:1670185",
-        "kap:1670183",
-        "kap:1670182",
-        "kap:1670181",
-        "kap:1670180",
-        "kap:1670179",
-        "kap:1670178",
-        "kap:1670177",
-        "kap:1670175",
-        "kap:1670173",
-        "kap:1670172",
-        "kap:1670171",
-        "kap:1670170",
-        "kap:1670162",
-        "kap:1670154",
-        "kap:1670153",
-        "kap:1670152",
-        "kap:1670151",
-        "kap:1670148",
-        "kap:1670146",
-        "kap:1670145",
-        "kap:1670143",
-        "kap:1670140",
-        "kap:1670139",
-        "kap:1670138",
-        "kap:1670135",
-        "kap:1670133",
-        "kap:1670125",
-        "kap:1670124",
-        "kap:1670122",
-        "kap:1670121",
-        "kap:1670120",
-        "kap:1670119",
-        "kap:1670118",
-        "kap:1670117",
-        "kap:1670116",
-        "kap:1670115",
-        "kap:1670114",
-        "kap:1670113",
-        "kap:1670112",
-        "kap:1670111",
-        "kap:1670158",
-        "kap:1670147",
-        "kap:1670105",
-        "kap:1670103",
-        "kap:1670100",
-        "kap:1670099",
-        "kap:1670098",
-        "kap:1670097",
-        "kap:1670095",
-        "kap:1670094",
-        "kap:1670093",
-        "kap:1670092",
-        "kap:1670091",
-        "kap:1670089",
-        "kap:1670087",
-        "kap:1670083",
-        "kap:1670082",
-        "kap:1670077",
-        "kap:1670076",
-        "kap:1670075",
-        "kap:1670074",
-        "kap:1670073",
-        "kap:1670069",
-        "kap:1670068",
-        "kap:1670067",
-        "kap:1670066",
-        "kap:1670065",
-        "kap:1670064"
+        "kap:1670561",
+        "kap:1670560",
+        "kap:1670559",
+        "kap:1670558",
+        "kap:1670557",
+        "kap:1670556",
+        "kap:1670555",
+        "kap:1670554",
+        "kap:1670553",
+        "kap:1670552",
+        "kap:1670551",
+        "kap:1670550",
+        "kap:1670549",
+        "kap:1670548",
+        "kap:1670547",
+        "kap:1670546",
+        "kap:1670536",
+        "kap:1670535",
+        "kap:1670534",
+        "kap:1670530",
+        "kap:1670529",
+        "kap:1670528",
+        "kap:1670527",
+        "kap:1670526",
+        "kap:1670525",
+        "kap:1670524",
+        "kap:1670523",
+        "kap:1670522",
+        "kap:1670512",
+        "kap:1670511",
+        "kap:1670510",
+        "kap:1670509",
+        "kap:1670508",
+        "kap:1670507",
+        "kap:1670506",
+        "kap:1670505",
+        "kap:1670504",
+        "kap:1670503",
+        "kap:1670502",
+        "kap:1670501",
+        "kap:1670500",
+        "kap:1670499",
+        "kap:1670498",
+        "kap:1670497",
+        "kap:1670496",
+        "kap:1670495",
+        "kap:1670494",
+        "kap:1670493",
+        "kap:1670492",
+        "kap:1670491",
+        "kap:1670490",
+        "kap:1670489",
+        "kap:1670488",
+        "kap:1670487",
+        "kap:1670486",
+        "kap:1670485",
+        "kap:1670484",
+        "kap:1670483",
+        "kap:1670482",
+        "kap:1670481",
+        "kap:1670480",
+        "kap:1670479",
+        "kap:1670478",
+        "kap:1670477",
+        "kap:1670476",
+        "kap:1670474",
+        "kap:1670473",
+        "kap:1670472",
+        "kap:1670471",
+        "kap:1670457",
+        "kap:1670456",
+        "kap:1670455",
+        "kap:1670454",
+        "kap:1670453",
+        "kap:1670452",
+        "kap:1670451",
+        "kap:1670450",
+        "kap:1670449",
+        "kap:1670447",
+        "kap:1670446",
+        "kap:1670444",
+        "kap:1670443",
+        "kap:1670442",
+        "kap:1670441",
+        "kap:1670439",
+        "kap:1670438",
+        "kap:1670433",
+        "kap:1670431",
+        "kap:1670429",
+        "kap:1670428"
       ]
     },
     "bist": {
@@ -250,8 +190,39 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6781134:0",
+      "last_seen_key": "matriks:matriks:6781513:0",
       "seen_keys": [
+        "matriks:matriks:6781513:0",
+        "matriks:matriks:6781512:0",
+        "matriks:matriks:6781507:0",
+        "matriks:matriks:6781505:0",
+        "matriks:matriks:6781503:0",
+        "matriks:matriks:6781502:0",
+        "matriks:matriks:6781497:0",
+        "matriks:matriks:6781494:0",
+        "matriks:matriks:6781487:0",
+        "matriks:matriks:6781485:0",
+        "matriks:matriks:6781478:0",
+        "matriks:matriks:6781475:0",
+        "matriks:matriks:6781470:0",
+        "matriks:matriks:6781466:0",
+        "matriks:matriks:6781459:0",
+        "matriks:matriks:6781456:0",
+        "matriks:matriks:6781434:0",
+        "matriks:matriks:6781425:0",
+        "matriks:matriks:6781417:0",
+        "matriks:matriks:6781415:0",
+        "matriks:matriks:6781353:0",
+        "matriks:matriks:6781350:0",
+        "matriks:matriks:6781336:0",
+        "matriks:matriks:6781321:0",
+        "matriks:matriks:6781315:0",
+        "matriks:matriks:6781303:0",
+        "matriks:matriks:6781294:0",
+        "matriks:matriks:6781263:0",
+        "matriks:matriks:6781208:0",
+        "matriks:matriks:6781195:0",
+        "matriks:matriks:6781192:0",
         "matriks:matriks:6781134:0",
         "matriks:matriks:6781125:0",
         "matriks:matriks:6781110:0",
@@ -2286,6 +2257,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "matriks",
+      "text": "surdurulebilirlik inovasyon zirvesi s summ t 2026 1 ekim basl yor",
+      "link": "https://tr.tradingview.com/news/matriks:6781513:0"
+    },
+    {
+      "source": "matriks",
+      "text": "connected tv buyuk ekran dijitalin imkanlar yla bulusturuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6781512:0"
+    },
+    {
+      "source": "matriks",
+      "text": "network florentia village istanbul al sveris merkezi koru florya daki yeni magazalar yla istanbul daki yayg nl g n guclendiriyor",
+      "link": "https://tr.tradingview.com/news/matriks:6781507:0"
+    },
+    {
+      "source": "matriks",
+      "text": "polat gayrimenkul expo real 2026 yerini al yor",
+      "link": "https://tr.tradingview.com/news/matriks:6781505:0"
+    },
+    {
+      "source": "matriks",
+      "text": "colakoglu metalurji 2025 surdurulebilirlik raporu nu yay mlad",
+      "link": "https://tr.tradingview.com/news/matriks:6781503:0"
+    },
+    {
+      "source": "matriks",
+      "text": "tarfin flex turkiye nin ilk hemen al sonra ode platformlar ndan haso yu bunyesine katt",
+      "link": "https://tr.tradingview.com/news/matriks:6781502:0"
+    },
+    {
+      "source": "matriks",
+      "text": "catmod deprem modelinin sundugu yuksek hassasiyetli modelleme kabiliyetleri axa n n risk yonetim sureclerine entegre edilecek",
+      "link": "https://tr.tradingview.com/news/matriks:6781497:0"
+    },
+    {
+      "source": "matriks",
+      "text": "fastener expo eurasia avrasya endustriyel baglant sabitleme elemanlar fuar 50 ulkeden 5 bine yak n sektor profesyonelini istanbul bulusturdu",
+      "link": "https://tr.tradingview.com/news/matriks:6781494:0"
+    },
+    {
+      "source": "matriks",
+      "text": "panasonic klima mechtalks 2026 n n alt n sponsoru oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6781487:0"
+    },
+    {
+      "source": "matriks",
+      "text": "epson tekstil ureticilerinin h zla artan ozel giyim taleplerini kars l yor",
+      "link": "https://tr.tradingview.com/news/matriks:6781485:0"
+    },
+    {
+      "source": "matriks",
+      "text": "yapay zeka kod yaz yor guvenlik ac klar gozden kac yor",
+      "link": "https://tr.tradingview.com/news/matriks:6781478:0"
+    },
+    {
+      "source": "matriks",
+      "text": "asas zak world of facades taskent te yenilenen naturalbond urun grubunu tan tt",
+      "link": "https://tr.tradingview.com/news/matriks:6781475:0"
+    },
+    {
+      "source": "matriks",
+      "text": "intermob 28 inci edisyonunu 29 binin uzerinde sektor profesyonelinin kat l m yla tamamlad",
+      "link": "https://tr.tradingview.com/news/matriks:6781470:0"
+    },
+    {
+      "source": "matriks",
+      "text": "melih sahiner ekici peynir fabrika direktoru olarak goreve baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6781466:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ebebek romer guvenli yolculukta yeniden araya geldi",
+      "link": "https://tr.tradingview.com/news/matriks:6781459:0"
+    },
+    {
+      "source": "matriks",
+      "text": "saint gobain in kuresel surdurulebilir insaat platformu sustainable construction talks turkiye ilk kez duzenleniyor",
+      "link": "https://tr.tradingview.com/news/matriks:6781456:0"
+    },
+    {
+      "source": "matriks",
+      "text": "istanbul al sveris merkezi birlikte beymen club magaza say s 77 ye ulast",
+      "link": "https://tr.tradingview.com/news/matriks:6781434:0"
+    },
+    {
+      "source": "matriks",
+      "text": "tuvturk 200 den fazla istasyonunu dogal afet risklerine kars analiz ederek kapsaml guvenlik projesi baslatt",
+      "link": "https://tr.tradingview.com/news/matriks:6781425:0"
+    },
+    {
+      "source": "matriks",
+      "text": "paytr sosyal medya uzerinden sat s yapan veya e ticarete ilk kez ad m atmak isteyen kucuk isletmeler paytr kolay magaza y hayata gecirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6781417:0"
+    },
+    {
+      "source": "matriks",
+      "text": "logitech yeni zone vibe pro urununu duyurdu",
+      "link": "https://tr.tradingview.com/news/matriks:6781415:0"
+    },
+    {
+      "source": "matriks",
+      "text": "israil basbakanl k ofisi sozcusu netanyahu flydubai ucag ndaki olay n ard ndan hem israil hem yabanc havayolu sirketlerinde guvenligin art r lmas talimat n verdi",
+      "link": "https://tr.tradingview.com/news/matriks:6781353:0"
+    },
+    {
+      "source": "matriks",
+      "text": "suudi arabistan daki tebuk havaliman flydubai ucag ndaki tum yolcular aktarma seferiyle nihai var s noktalar na hareket etti",
+      "link": "https://tr.tradingview.com/news/matriks:6781336:0"
+    },
+    {
+      "source": "matriks",
+      "text": "sec bireysel yat r mc lar n ozel varl klara yat r m n tesvik etmek amac yla kapal uclu fonlar n pay sahiplerine net aktif deger uzerinden ayl k geri al m imkan sunmas na izin verilmesini onerdi",
+      "link": "https://tr.tradingview.com/news/matriks:6781321:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd menkul k ymetler borsa komisyonu sec bireysel yat r mc lar n ozel varl klara yat r m n tesvik etmek amac yla yat r m dan smanlar n n daha fazla musteriden performans ucreti almas na izin verilmesini onerdi",
+      "link": "https://tr.tradingview.com/news/matriks:6781315:0"
+    },
+    {
+      "source": "matriks",
+      "text": "suudi arabistan ulkeye acil inis yapan flydubai ucag ndaki israilli yolcular almak uzere israil ucaklar na izin verilmesi talebini reddetti guvenlik kaynaklar",
+      "link": "https://tr.tradingview.com/news/matriks:6781303:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ukrayna ocak agustos doneminde cari islemler ac g 15 milyar dolar",
+      "link": "https://tr.tradingview.com/news/matriks:6781294:0"
+    },
+    {
+      "source": "matriks",
+      "text": "otogaza otv kaynakl 1 45 liral k zam geldi",
+      "link": "https://tr.tradingview.com/news/matriks:6781263:0"
+    },
+    {
+      "source": "matriks",
+      "text": "motorine otv kaynakl 3 60 liral k zam yap ld",
+      "link": "https://tr.tradingview.com/news/matriks:6781208:0"
+    },
+    {
+      "source": "matriks",
+      "text": "link bilgisayar deloitte turkiye fast 50 zirvenin sahibi oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6781195:0"
+    },
+    {
+      "source": "matriks",
+      "text": "direncli ekonomi il ml pce nasdaq100 trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6781192:0"
+    },
     {
       "source": "investing",
       "text": "rbc dow hissesi hedef fiyat dusurdu",
@@ -9635,156 +9756,6 @@
       "source": "ntvpara",
       "text": "kahve zincirinin sahibi olan sirket sat l yor abu dabi merkezli mair group espressolab markas n n sahibi eslab n yuzde 70 ini almak hisse devir anlasmas imzalad",
       "link": "https://www.ntv.com.tr/ntvpara/kahve-zincirinin-sahibi-olan-sirket-satiliyor-1743452"
-    },
-    {
-      "source": "investing",
-      "text": "generation income properties 4 2 milyon dolarl k yukumlulugu kapatt",
-      "link": "https://tr.investing.com/news/company-news/generation-income-properties-42-milyon-dolarlk-yukumlulugu-kapatt-93CH-4079470"
-    },
-    {
-      "source": "investing",
-      "text": "tesla n n tam otonom surus onay ab oylamas aral k a ertelendi",
-      "link": "https://tr.investing.com/news/stock-market-news/teslann-tam-otonom-surus-onay-icin-ab-oylamas-aralka-ertelendi-93CH-4079468"
-    },
-    {
-      "source": "investing",
-      "text": "hsbc yapay zeka buyume gorunumuyle synopsys hissesini al a yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/hsbc-yapay-zeka-buyume-gorunumuyle-synopsys-hissesini-ala-yukseltti-93CH-4079467"
-    },
-    {
-      "source": "investing",
-      "text": "rbc capital navlun maliyeti endiseleriyle conagra hisse notunu korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-navlun-maliyeti-endiseleriyle-conagra-hisse-notunu-korudu-93CH-4079464"
-    },
-    {
-      "source": "investing",
-      "text": "rbc capital ameren hissesi fiyat hedefini dusurdu",
-      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-ameren-hissesi-icin-fiyat-hedefini-dusurdu-93CH-4079463"
-    },
-    {
-      "source": "investing",
-      "text": "rbc capital zscaler hisse hedefini yukseltti",
-      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-zscaler-icin-hisse-hedefini-yukseltti-93CH-4079462"
-    },
-    {
-      "source": "investing",
-      "text": "rbc capital anthropic anlasmas sonras akamai hissesi gorusunu korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/rbc-capital-anthropic-anlasmas-sonras-akamai-hissesi-icin-gorusunu-korudu-93CH-4079461"
-    },
-    {
-      "source": "investing",
-      "text": "hindistan n devlet lpg ithalatc lar abd den 2 75 milyon ton talep ediyor",
-      "link": "https://tr.investing.com/news/commodities-news/hindistann-devlet-lpg-ithalatclar-abdden-275-milyon-ton-talep-ediyor-93CH-4079457"
-    },
-    {
-      "source": "investing",
-      "text": "nektar therapeutics hisseleri lilly ye kars 90 milyon dolarl k juri karar yla yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/nektar-therapeutics-hisseleri-lillyye-kars-90-milyon-dolarlk-juri-kararyla-yukseldi-4079459"
-    },
-    {
-      "source": "investing",
-      "text": "piper sandler park national hissesi notr gorusunu korudu",
-      "link": "https://tr.investing.com/news/analyst-ratings/piper-sandler-park-national-hissesi-icin-notr-gorusunu-korudu-93CH-4079452"
-    },
-    {
-      "source": "cnbce",
-      "text": "teknoloji hisselerinde akamai etkisi borsalarda hareketli hafta kapan s haz rl g abd borsalar nda vadeli endeksler haftan n islem gununde yukseldi s p 500 vadeli kontratlar yuzde 0 3 nasdaq 100 yuzde 0 5 artarken dow vadeli islemleri 136 puan yukseldi tahvil faizlerindeki yukselis ise piyasalar n odag nda kalma",
-      "link": "https://www.cnbce.com/borsa/teknoloji-hisselerinde-akamai-etkisi-borsalarda-hareketli-hafta-kapanisi-hazirligi-h38054"
-    },
-    {
-      "source": "bloomberght",
-      "text": "fitch turkiye yuksek enflasyon soklara kars hassasiyet dengelenmeyi zorluyor fitch turkiye ilgili yeni analizinde rezervlerdeki iyilesme s k politikan n riskleri s n rlad g n ancak siyasi enflasyonist bask lar n surdugunu belirtti",
-      "link": "https://www.bloomberght.com/fitch-turkiye-de-yuksek-enflasyon-ve-soklara-karsi-hassasiyet-dengelenmeyi-zorluyor-3789479"
-    },
-    {
-      "source": "bloomberght",
-      "text": "iran dan hurmuz ac klamas iran d sisleri bakan abbas erakci rusya d sisleri bakan sergey lavrov gorusmesinde hurmuz bogaz ndaki mevcut guvensizligin abd nin iran a verdigi sozu tutmamas n n suc islemesinin dogrudan sonucu oldugu degerlendirmesinde",
-      "link": "https://www.bloomberght.com/iran-dan-hurmuz-aciklamasi-3789476"
-    },
-    {
-      "source": "bloomberght",
-      "text": "trump si verimli toplant gerceklestirdik abd baskan donald trump cin devlet baskan si cinping cok verimli toplant gerceklestirdigini belirtti",
-      "link": "https://www.bloomberght.com/trump-si-ile-verimli-bir-toplanti-gerceklestirdik-3789475"
-    },
-    {
-      "source": "bloomberght",
-      "text": "avrupa dogalgaz fiyatlar haftal k bazda yuzde 10 5 geriledi avrupa dogalgaz fiyatlar abd iran aras nda hafta new york ta yurutulen gorusmelerin hurmuz bogaz ndaki arz risklerinin azalabilecegi beklentisini guclendirmesi k s oncesi mevsimsel talebin s n rl seyretmesiyle haftal k bazda",
-      "link": "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlari-haftalik-bazda-yuzde-10-5-geriledi-3789471"
-    },
-    {
-      "source": "bloomberght",
-      "text": "abd cekirdek sermaye mal siparislerinde yukselis abd sirketlerin sermaye yat r mlar nda devam eden ivmeye isaret eden is ekipmanlar siparisleri agustos ay nda beklentilerin uzerinde art s kaydetti",
-      "link": "https://www.bloomberght.com/abd-de-cekirdek-sermaye-mali-siparislerinde-yukselis-3789469"
-    },
-    {
-      "source": "bloomberght",
-      "text": "ab den ingiltere ye made in eu on sart ingiltere ye urunlerinin made in eu duzenlemeleri kapsam nda degerlendirilmesini istemesine kars l k avrupa birligi ab yetkililerinin gumruk birligi kat lmas n onerdigi one suruldu",
-      "link": "https://www.bloomberght.com/ab-den-ingiltere-ye-made-in-eu-icin-on-sart-3789468"
-    },
-    {
-      "source": "bloomberght",
-      "text": "omer koc kuresel piyasalar n istikrar savas n etkisine bagl turk is dunyas konfederasyonu turkonfed zirvesinde konusan koc holding yonetim kurulu baskan omer m koc kuresel piyasalar n istikrar n n bolgesel savas n etkisine bagl oldugunu soyledi",
-      "link": "https://www.bloomberght.com/omer-koc-kuresel-piyasalarin-istikrari-savasin-etkisine-bagli-3789466"
-    },
-    {
-      "source": "bloomberght",
-      "text": "ust orta duzey pozisyonlarda kad nlar n oran yuzde 21 5 lead network turkiye nin liderlikte cesitlilik kapsay c l k konferans nda y l n temas kapsay c liderlikte rol model etkisi oldu",
-      "link": "https://www.bloomberght.com/ust-ve-orta-duzey-pozisyonlarda-kadinlarin-orani-yuzde-21-5-3789458"
-    },
-    {
-      "source": "bloomberght",
-      "text": "basf rakibi evonik e birlesme teklifi sundu basf n k sa sure once alman rakibi evonik industries ag ye birlesme teklifi sundugu bildirildi",
-      "link": "https://www.bloomberght.com/basf-rakibi-evonike-birlesme-teklifi-sundu-3789457"
-    },
-    {
-      "source": "bloomberght",
-      "text": "orzax g takviyesi kategorisinde turkiye nin en itibarl markas secildi arast rmac bekir ag rd r liderliginde y l ilk kez gerceklestirilen turkiye itibar arast rmas n n sonuclar na gore orzax g takviyesi kategorisinde turkiye nin en itibarl markas secildi",
-      "link": "https://www.bloomberght.com/orzax-gida-takviyesi-kategorisinde-turkiyenin-en-itibarli-markasi-secildi-3789456"
-    },
-    {
-      "source": "bloomberght",
-      "text": "fed williams para politikas arz soklar n gormezden gelemez new york fed baskan john williams fiyatlar uzerinde kal c etki yaratmalar halinde merkez bankas n n arz soklar n gormezden gelemeyecegini belirterek merkez bankas n n enflasyonu hedefe geri dondurmesi gerektigini ifade etti",
-      "link": "https://www.bloomberght.com/fedwilliams-para-politikasi-arz-soklarini-gormezden-gelemez-3789455"
-    },
-    {
-      "source": "bloomberght",
-      "text": "fed banka denetim esiklerini yukseltmeyi planl yor abd merkez bankas n n fed buyuk bankalar uzerinde daha s k denetimin devreye girmesini saglayacak varl k esiklerini yukseltmeye yonelik plan uzerinde cal st g bildirildi",
-      "link": "https://www.bloomberght.com/fed-banka-denetim-esiklerini-yukseltmeyi-planliyor-3789453"
-    },
-    {
-      "source": "bloomberght",
-      "text": "trump s n r d s uygulamas yuksek mahkemeye basvurdu abd baskan donald trump yonetimi gocmenlerin herhangi baglar n n bulunmad g ucuncu ulkelere s n r d s edilmesine yeniden izin verilmesi yuksek mahkemeye basvurdu",
-      "link": "https://www.bloomberght.com/trump-sinir-disi-uygulamasi-icin-yuksek-mahkemeye-basvurdu-3789451"
-    },
-    {
-      "source": "bloomberght",
-      "text": "euro bolgesi nde sirket kredileri yavaslad avrupa merkez bankas n n amb y l yapt g faiz art r mlar n n ard ndan euro bolgesi ndeki bankalar n sirketlere saglad g kredi hacminin buyume h z agustos ay nda hafif yavaslarken para arz ndaki yukselis surdu",
-      "link": "https://www.bloomberght.com/euro-bolgesi-nde-sirket-kredileri-yavasladi-3789442"
-    },
-    {
-      "source": "bloomberght",
-      "text": "ak ll telefon pazar n n 1 milyar adet seviyesine gerilemesi bekleniyor artan donan m maliyetleri sebebiyle 2026 y l genelinde global ak ll telefon pazar n n 1 milyar adet seviyelerine gerilemesi bekleniyor huawei turkiye marka pazarlama direktoru mustafa can akbas cin pazar nda sektor daralmas na ragme",
-      "link": "https://www.bloomberght.com/akilli-telefon-pazarinin-1-milyar-adet-seviyesine-gerilemesi-bekleniyor-3789441"
-    },
-    {
-      "source": "bloomberght",
-      "text": "morgan stanley dolarda gorusunu degistirdi morgan stanley analistleri dolar n deger kaybedecegi gorusunde yan ld klar n belirtti",
-      "link": "https://www.bloomberght.com/morgan-stanley-dolarda-gorusunu-degistirdi-3789440"
-    },
-    {
-      "source": "bloomberght",
-      "text": "turist say s y ll k bazda degisim gostermedi kultur turizm bakanl g verilerine gore turkiye yi ziyaret eden yabanc say s agustos 2026 gecen y l n ayn ay na gore yuzde 0 03 azalarak 6 milyon 963 bin 65 oldu ocak agustos doneminde ise yabanc ziyaretci say s yuzde 1 84 dusu",
-      "link": "https://www.bloomberght.com/ziyaretci-sayisi-yillik-bazda-degisim-gostermedi-3789438"
-    },
-    {
-      "source": "ntvpara",
-      "text": "epdk dan duzenleme elektrikli arac sarj istasyonlar yeni donem basl yor enerji piyasas duzenleme kurumu yuksek guclu sarj istasyonlar nda depolama sistemlerinin onunu act",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-epdkdan-duzenleme-elektrikli-arac-sarj-istasyonlari-icin-yeni-donem-basliyor-1743403"
-    },
-    {
-      "source": "ntvpara",
-      "text": "kat l mevim birevim ac klama geldi basvurular yap ld emlak kat l m dan kap a yap lan ac klamada kat l mevim birevim in devri gerekli basvurular n yap ld g duyuruldu",
-      "link": "https://www.ntv.com.tr/ntvpara/katilimevim-ve-birevim-icin-aciklama-geldi-basvurular-yapildi-1743400"
     }
   ],
   "research_reports_v8": {
