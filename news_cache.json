@@ -975,18 +975,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/transcripts/trekor-metals-lytham-partnersda-florence-uretime-gecerken-bakr-arz-sk-93CH-4083747",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-amd-hissesi-satt-nvidia-ve-tesla-ald-93CH-4083754",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-amd-hissesi-satt-nvidia-ve-tesla-ald-93CH-4083754",
+        "investing:https://tr.investing.com/news/insider-trading-news/pagaya-technologies-baskan-sanjiv-das-243672-dolar-degerinde-hisse-satt-93CH-4083753",
+        "investing:https://tr.investing.com/news/transcripts/standard-lithium-2029a-odaklanyor-riskler-azalyor-93CH-4083751",
+        "investing:https://tr.investing.com/news/economic-indicators/japonyada-sanayi-uretimi-agustosta-beklenmedik-sekilde-dustu-4083752",
         "investing:https://tr.investing.com/news/transcripts/trekor-metals-lytham-partnersda-florence-uretime-gecerken-bakr-arz-sk-93CH-4083747",
         "investing:https://tr.investing.com/news/stock-market-news/robinhood-otomatik-ticaret-icin-yapay-zeka-ajanlar-tantt-4083746",
         "investing:https://tr.investing.com/news/transcripts/aquafil-lytham-partnersta-econyl-ivme-kazanrken-maliyetler-dusuyor-93CH-4083744",
         "investing:https://tr.investing.com/news/transcripts/franconevada-mining-forum-americas-2026da-buyume-kaldraclar-gorunumde-93CH-4083743",
         "investing:https://tr.investing.com/news/transcripts/sba-communications-rbc-konferansnda-6g-geri-almlar-ve-buyume-93CH-4083742",
         "investing:https://tr.investing.com/news/stock-market-news/google-yapay-zeka-destekli-arama-icerigi-icin-100-yayncya-odeme-yapyor--the-information-93CH-4083741",
-        "investing:https://tr.investing.com/news/transcripts/robinhood-hood-summit-26da-ticareti-yasam-saatlerine-tasyor-93CH-4083740",
-        "investing:https://tr.investing.com/news/transcripts/gatekeeper-systems-lytham-partnersda-tekrar-eden-gelir-ivme-kazanyor-93CH-4083739",
-        "investing:https://tr.investing.com/news/insider-trading-news/arista-networks-ceosu-trostlerden-132-milyon-dolarlk-hisse-satt-93CH-4083738",
-        "investing:https://tr.investing.com/news/insider-trading-news/oric-pharma-cfosu-181-bin-dolarlk-hisse-satt-93CH-4083737",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1007,6 +1007,10 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/transcripts/robinhood-hood-summit-26da-ticareti-yasam-saatlerine-tasyor-93CH-4083740",
+        "investing:https://tr.investing.com/news/transcripts/gatekeeper-systems-lytham-partnersda-tekrar-eden-gelir-ivme-kazanyor-93CH-4083739",
+        "investing:https://tr.investing.com/news/insider-trading-news/arista-networks-ceosu-trostlerden-132-milyon-dolarlk-hisse-satt-93CH-4083738",
+        "investing:https://tr.investing.com/news/insider-trading-news/oric-pharma-cfosu-181-bin-dolarlk-hisse-satt-93CH-4083737",
         "investing:https://tr.investing.com/news/transcripts/digital-realty-trust-rbc-konferansnda-yapay-zeka-talebi-buyume-gorunumunu-destekliyor-93CH-4083561",
         "investing:https://tr.investing.com/news/sec-filings/blackstone-infrastructure-strategies-birim-satsyla-366-milyon-dolar-toplad-93CH-4083559",
         "investing:https://tr.investing.com/news/transcripts/alliance-entertainment-lytham-partnersta-fiziksel-medya-ve-yapay-zeka-buyumeyi-destekliyor-93CH-4083560",
@@ -2152,6 +2156,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "cathie wood un ark amd hissesi satt nvidia tesla ald",
+      "link": "https://tr.investing.com/news/company-news/cathie-woodun-ark-amd-hissesi-satt-nvidia-ve-tesla-ald-93CH-4083754"
+    },
+    {
+      "source": "investing",
+      "text": "pagaya technologies baskan sanjiv das 243 672 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/pagaya-technologies-baskan-sanjiv-das-243672-dolar-degerinde-hisse-satt-93CH-4083753"
+    },
+    {
+      "source": "investing",
+      "text": "standard lithium 2029 a odaklan yor riskler azal yor",
+      "link": "https://tr.investing.com/news/transcripts/standard-lithium-2029a-odaklanyor-riskler-azalyor-93CH-4083751"
+    },
+    {
+      "source": "investing",
+      "text": "japonya sanayi uretimi agustos ta beklenmedik sekilde dustu",
+      "link": "https://tr.investing.com/news/economic-indicators/japonyada-sanayi-uretimi-agustosta-beklenmedik-sekilde-dustu-4083752"
+    },
     {
       "source": "tradingview",
       "text": "arabulucular abd iran aras nda bar s anlasmas bask yap yor ft",
@@ -9631,26 +9655,6 @@
       "source": "cnbce",
       "text": "borsa istanbul 2 hissede tedbirler yar n sona eriyor iste o sirketler borsa istanbul volatilite bazl tedbir sistemi kapsam nda tedbir uygulanan 2 hissenin uzerindeki k s tlamalar 25 eylul cuma gunu sona erecek yayla tmpol yar ndan itibaren tedbirsiz islem gorecek",
       "link": "https://www.cnbce.com/borsa/borsa-istanbulda-2-hissede-tedbirler-yarin-sona-eriyor-iste-o-sirketler-h37995"
-    },
-    {
-      "source": "cnbce",
-      "text": "hisseler bugun tavan olmustu citlekci magazac l k tan dev pay geri al m citlekci magazac l k pay fiyat istikrar n desteklemek amac yla 24 eylul 6 milyon 609 bin 171 adet pay geri ald geri al nan paylar n sermayeye oran yuzde 3 67 olurken sirketin sahip oldugu toplam citas pay 6 82 milyona c kt",
-      "link": "https://www.cnbce.com/borsa/hisseler-bugun-tavan-olmustu-citlekci-magazaciliktan-dev-pay-geri-alimi-h37991"
-    },
-    {
-      "source": "cnbce",
-      "text": "bist 100 kritik destek test edildi endeks yuzde 2 74 geriledi bist 100 endeksi kuresel piyasalardaki risk istah kayb n n etkisiyle gunu yuzde 2 74 dususle 12 888 33 puandan tamamlad bankac l k endeksi yuzde 3 06 holding endeksi yuzde 3 87 geriledi",
-      "link": "https://www.cnbce.com/borsa/bist-100de-kritik-destek-test-edildi-endeks-yuzde-274-geriledi-h37954"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bofa meta n n muse u bankalar uzun vadeli risk bank of america bofa meta n n muse u gibi kullan c lar ad na finansal islemler gerceklestirebilen yapay zeka asistanlar n n musterilerin paralar n daha yuksek getirili yat r mlara yonlendirerek bankalar n geleneksel gelir modelleri ici",
-      "link": "https://www.bloomberght.com/bofa-meta-nin-muse-u-bankalar-icin-uzun-vadeli-risk-3789383"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bakan simsek ten istifa iddialar na yalanlama hazine maliye bakan mehmet simsek hakk nda yay lan istifa iddialar n yalanlad",
-      "link": "https://www.bloomberght.com/bakan-simsek-ten-istifa-iddialarina-yalanlama-3789381"
     }
   ],
   "research_reports_v8": {
