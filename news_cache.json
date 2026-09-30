@@ -1637,8 +1637,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:5e8d1ae40d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:c01e5df4ed9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:c01e5df4ed9e8:0",
+        "tradingview:beincrypto:df0c9f1fbd9e8:0",
+        "tradingview:fxstreet:f844a93f4d9e8:0",
         "tradingview:fxstreet:5e8d1ae40d9e8:0",
         "tradingview:fxstreet:33c7af431d9e8:0",
         "tradingview:fxstreet:41f224c5dd9e8:0",
@@ -2135,10 +2138,7 @@
         "tradingview:fxstreet:5a93d3370d9e8:0",
         "tradingview:fxstreet:df4cbbcbed9e8:0",
         "tradingview:fxstreet:475f7790dd9e8:0",
-        "tradingview:beincrypto:9cacc23d8d9e8:0",
-        "tradingview:fxstreet:66db5596ad9e8:0",
-        "tradingview:beincrypto:12e00ebfbd9e8:0",
-        "tradingview:fxstreet:c6598c296d9e8:0"
+        "tradingview:beincrypto:9cacc23d8d9e8:0"
       ]
     },
     "forexfactory": {
@@ -2152,6 +2152,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "arabulucular abd iran aras nda bar s anlasmas bask yap yor ft",
+      "link": "https://tr.tradingview.com/news/fxstreet:c01e5df4ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "goldman sachs te 27 y l tecrubeli isim polymarket e gecti",
+      "link": "https://tr.tradingview.com/news/beincrypto:df0c9f1fbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ons alt n fiyat yat r mc lar n fed in faiz patikas n degerlendirmesiyle sekiz haftan n en dusuk seviyesinden toparland",
+      "link": "https://tr.tradingview.com/news/fxstreet:f844a93f4d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar bullock un rba faiz art r m beklentilerini zay flatmas yla 0 70 seviyesinin alt na indi tufe verileri bekleniyor",
@@ -9636,21 +9651,6 @@
       "source": "bloomberght",
       "text": "bakan simsek ten istifa iddialar na yalanlama hazine maliye bakan mehmet simsek hakk nda yay lan istifa iddialar n yalanlad",
       "link": "https://www.bloomberght.com/bakan-simsek-ten-istifa-iddialarina-yalanlama-3789381"
-    },
-    {
-      "source": "bloomberght",
-      "text": "kalibaf tan abd nin yukselen tahvil faizlerine alayc yorum iran meclis baskan muhammed bak r kalibaf abd nin 10 y ll k tahvil faizinin 2007 den yana ilk kez yuzde 5 14 e yukselmesini alayc paylas mla degerlendirerek abd nin 1970 lerdeki yuksek faiz enerji fiyatlar ortam na geri donec",
-      "link": "https://www.bloomberght.com/kalibaf-tan-abd-nin-yukselen-tahvil-faizlerine-alayci-yorum-3789380"
-    },
-    {
-      "source": "bloomberght",
-      "text": "usak seramik hisselerine ac ga sat s kredili islem yasag borsa istanbul volatilite bazl tedbir sistemi kapsam nda usak seramik usak paylar na 25 eylul 23 ekim tarihleri aras nda ac ga sat s kredili islem yasag uygulanacag n duyurdu",
-      "link": "https://www.bloomberght.com/usak-seramik-hisselerine-aciga-satis-ve-kredili-islem-yasagi-3789379"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bae iran hava yolu sirketlerinin ucuslar n durdurdu birlesik arap emirlikleri bae abd nin iran hava yolu sirketlerine yonelik yapt r mlar kapsam nda sirketlerin ulkeye ulkeden gerceklestirdigi tum ucuslar ikinci duyuruya kadar ask ya ald g n ac klad",
-      "link": "https://www.bloomberght.com/bae-iran-hava-yolu-sirketlerinin-ucuslarini-durdurdu-3789378"
     }
   ],
   "research_reports_v8": {
