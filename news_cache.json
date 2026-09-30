@@ -1641,8 +1641,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:c01e5df4ed9e8:0",
+      "last_seen_key": "tradingview:fxstreet:7e7530f42d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:7e7530f42d9e8:0",
         "tradingview:fxstreet:c01e5df4ed9e8:0",
         "tradingview:beincrypto:df0c9f1fbd9e8:0",
         "tradingview:fxstreet:f844a93f4d9e8:0",
@@ -2141,8 +2142,7 @@
         "tradingview:beincrypto:d58a281fbd9e8:0",
         "tradingview:fxstreet:5a93d3370d9e8:0",
         "tradingview:fxstreet:df4cbbcbed9e8:0",
-        "tradingview:fxstreet:475f7790dd9e8:0",
-        "tradingview:beincrypto:9cacc23d8d9e8:0"
+        "tradingview:fxstreet:475f7790dd9e8:0"
       ]
     },
     "forexfactory": {
@@ -2156,6 +2156,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro lagarde n guvercin egilimi almanya perakende sat slar verisinin odaga al nmas yla 1 1350 nin alt na geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:7e7530f42d9e8:0"
+    },
     {
       "source": "investing",
       "text": "cathie wood un ark amd hissesi satt nvidia tesla ald",
@@ -9650,11 +9655,6 @@
       "source": "investing",
       "text": "magna cibc konferans nda marjlar nakit ak s yukseliyor",
       "link": "https://tr.investing.com/news/transcripts/magna-cibc-konferansnda-marjlar-ve-nakit-aks-yukseliyor-93CH-4078302"
-    },
-    {
-      "source": "cnbce",
-      "text": "borsa istanbul 2 hissede tedbirler yar n sona eriyor iste o sirketler borsa istanbul volatilite bazl tedbir sistemi kapsam nda tedbir uygulanan 2 hissenin uzerindeki k s tlamalar 25 eylul cuma gunu sona erecek yayla tmpol yar ndan itibaren tedbirsiz islem gorecek",
-      "link": "https://www.cnbce.com/borsa/borsa-istanbulda-2-hissede-tedbirler-yarin-sona-eriyor-iste-o-sirketler-h37995"
     }
   ],
   "research_reports_v8": {
