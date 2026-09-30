@@ -1858,8 +1858,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:e0508fb63d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:a04c2347dd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:a04c2347dd9e8:0",
         "tradingview:fxstreet:e0508fb63d9e8:0",
         "tradingview:fxstreet:cc7f2de5dd9e8:0",
         "tradingview:fxstreet:db5af4583d9e8:0",
@@ -1993,6 +1994,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya s p global imalat pmi eylul 49 3 beklentisi uzerinde kald eylul gerceklesen 49 6",
+      "link": "https://tr.tradingview.com/news/fxstreet:a04c2347dd9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar bullock un guvercinligi zay f pce yi golgede b rak rken 0 70 in alt na indi",
@@ -9487,11 +9493,6 @@
       "source": "investing",
       "text": "fed in hammack halk n enflasyon beklentilerinin kotulesebilecegini soyledi",
       "link": "https://tr.investing.com/news/economy-news/fedin-hammack-halkn-enflasyon-beklentilerinin-kotulesebilecegini-soyledi-4079705"
-    },
-    {
-      "source": "investing",
-      "text": "power corporation hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/power-corporation-hissesi-bugun-neden-yukseliyor-93CH-4079700"
     }
   ],
   "research_reports_v8": {
