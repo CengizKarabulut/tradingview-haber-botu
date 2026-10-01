@@ -1138,8 +1138,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/altn-abd-pce-verisi-fed-faiz-arts-beklentilerini-azaltrken-eyluldeki-6lk-dususun-ardndan-degismedi-4085536",
+      "last_seen_key": "investing:https://tr.investing.com/news/economic-indicators/avustralyann-ticaret-fazlas-agustosta-495-milyon-dolara-geriledi-4085539",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economic-indicators/avustralyann-ticaret-fazlas-agustosta-495-milyon-dolara-geriledi-4085539",
+        "investing:https://tr.investing.com/news/stock-market-news/tsmc-abddeki-cip-uretimini-genisletmek-icin-teksasa-yatrm-yapabilir-4085538",
         "investing:https://tr.investing.com/news/commodities-news/altn-abd-pce-verisi-fed-faiz-arts-beklentilerini-azaltrken-eyluldeki-6lk-dususun-ardndan-degismedi-4085536",
         "investing:https://tr.investing.com/news/insider-trading-news/conifer-management-group-1-automotivete-663-milyon-dolarlk-hisse-ald-93CH-4085534",
         "investing:https://tr.investing.com/news/company-news/paramount-skydance-warner-bros-anlasmas-icin-42-milyar-dolar-borc-fiyatlad-93CH-4085531",
@@ -1148,8 +1150,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/billiontoone-ceosu-atay-13-milyon-dolarlk-hisse-satt-93CH-4085528",
         "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-micronun-guclu-kazancyla-yukseldi-4085527",
         "investing:https://tr.investing.com/news/insider-trading-news/medifast-yonetim-kurulu-uyesi-daniel-chard-226288-dolar-degerinde-hisse-satt-93CH-4085525",
-        "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-516-milyon-dolarlk-hisse-satt-93CH-4085524",
-        "investing:https://tr.investing.com/news/stock-market-news/transurban-cpp-investmentstan-45-milyar-dolarlk-hisse-alyor-4085523",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1170,6 +1170,8 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-516-milyon-dolarlk-hisse-satt-93CH-4085524",
+        "investing:https://tr.investing.com/news/stock-market-news/transurban-cpp-investmentstan-45-milyar-dolarlk-hisse-alyor-4085523",
         "investing:https://tr.investing.com/news/insider-trading-news/clipper-realty-coo-jacob-bistricer-246-bin-dolarlk-hisse-ald-93CH-4085512",
         "investing:https://tr.investing.com/news/insider-trading-news/costconun-kdemli-baskan-yardmcs-733328-dolarlk-hisse-satt-93CH-4085511",
         "investing:https://tr.investing.com/news/insider-trading-news/kingsway-yoneticisi-joshua-horowitz-33121-dolar-hisse-ald-93CH-4085510",
@@ -1879,9 +1881,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:caf5968eed9e8:0",
+      "last_seen_key": "tradingview:fxstreet:3331c6abfd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:3331c6abfd9e8:0",
+        "tradingview:fxstreet:8437c8b06d9e8:0",
         "tradingview:fxstreet:caf5968eed9e8:0",
+        "tradingview:fxstreet:48a4a5244d9e8:0",
+        "tradingview:fxstreet:d991f594ad9e8:0",
+        "tradingview:fxstreet:a5404ac4ad9e8:0",
         "tradingview:fxstreet:7a58e1df7d9e8:0",
         "tradingview:fxstreet:7350d3ee5d9e8:0",
         "tradingview:fxstreet:6b5aee3edd9e8:0",
@@ -2045,6 +2052,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar ticaret fazlas n n keskin sekilde daralmas yla 0 6959 un alt na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:3331c6abfd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya merkez bankas hanehalklar isletmeler daha yavas ekonomiye dusen konut fiyatlar na dayanabilir",
+      "link": "https://tr.tradingview.com/news/fxstreet:8437c8b06d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "avustralya n n ticaret fazlas agustos ta 495 milyon dolara geriledi",
+      "link": "https://tr.investing.com/news/economic-indicators/avustralyann-ticaret-fazlas-agustosta-495-milyon-dolara-geriledi-4085539"
+    },
+    {
+      "source": "investing",
+      "text": "tsmc abd deki cip uretimini genisletmek teksas a yat r m yapabilir",
+      "link": "https://tr.investing.com/news/stock-market-news/tsmc-abddeki-cip-uretimini-genisletmek-icin-teksasa-yatrm-yapabilir-4085538"
+    },
     {
       "source": "tradingview",
       "text": "aud495 milyon avustralya n n ticaret dengesi agustos ta fazla verdi",
@@ -9524,26 +9551,6 @@
       "source": "investing",
       "text": "co diagnostics y ll k toplant s yine yeter say eksikligi nedeniyle ertelendi",
       "link": "https://tr.investing.com/news/sec-filings/codiagnostics-yllk-toplants-yine-yeter-say-eksikligi-nedeniyle-ertelendi-93CH-4079828"
-    },
-    {
-      "source": "cnbce",
-      "text": "spk dan tera ozatd islemleri yeni karar 11 kisiye suc duyurusu spk ozata denizcilik ozatd pay piyasas ndaki islemler nedeniyle 11 kisi hakk nda suc duyurusunda bulunurken ilgili kisi kurumlara 2 y l islem yasag getirdi 5 kisinin ise tum lisanslar islem yasag suresince iptal edilecek",
-      "link": "https://www.cnbce.com/borsa/spkdan-tera-ve-ozatd-islemleri-icin-yeni-karar-11-kisi-hakkinda-suc-duyurusu-h38078"
-    },
-    {
-      "source": "bloomberght",
-      "text": "resmi gazete bugun 26 09 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
-      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-26092026-3789517"
-    },
-    {
-      "source": "bloomberght",
-      "text": "iran dan nato avrupa ya savas suclamas iran d sisleri bakanl g sozcusu ismail bekayi nato genel sekreteri mark rutte nin ac klamalar n n avrupa n n iran a yonelik savasa kat ld g n n itiraf oldugunu savunarak nato ab ulkelerinin sald r lardaki rolleri nedeniyle hesap verm",
-      "link": "https://www.bloomberght.com/iran-dan-nato-ve-avrupa-ya-savas-suclamasi-3789516"
-    },
-    {
-      "source": "bloomberght",
-      "text": "fon sorusturmas nda 2 kisi daha tutukland istanbul sermaye piyasas nda gerceklestirilen islemlere iliskin sorusturmalar kapsam nda gozalt na al nan 8 supheliden 2 si tutuklan rken diger suphelilerin hakimlikteki islemleri suruyor",
-      "link": "https://www.bloomberght.com/fon-sorusturmasinda-2-kisi-daha-tutuklandi-3789515"
     }
   ],
   "research_reports_v8": {
