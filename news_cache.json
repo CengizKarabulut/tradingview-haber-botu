@@ -2,255 +2,103 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1671374",
+      "last_seen_key": "kap:1671588",
       "seen_keys": [
-        "kap:1671374",
-        "kap:1671373",
-        "kap:1671370",
-        "kap:1671369",
-        "kap:1671368",
-        "kap:1671367",
-        "kap:1671366",
-        "kap:1671363",
-        "kap:1671362",
-        "kap:1671361",
-        "kap:1671360",
-        "kap:1671358",
-        "kap:1671357",
-        "kap:1671356",
-        "kap:1671353",
-        "kap:1671352",
-        "kap:1671351",
-        "kap:1671350",
-        "kap:1671347",
-        "kap:1671343",
-        "kap:1671330",
-        "kap:1671326",
-        "kap:1671322",
-        "kap:1671320",
-        "kap:1671319",
-        "kap:1671318",
-        "kap:1671316",
-        "kap:1671315",
-        "kap:1671314",
-        "kap:1671313",
-        "kap:1671312",
-        "kap:1671295",
-        "kap:1671294",
-        "kap:1671293",
-        "kap:1671292",
-        "kap:1671284",
-        "kap:1671278",
-        "kap:1671277",
-        "kap:1671276",
-        "kap:1671275",
-        "kap:1671272",
-        "kap:1671271",
-        "kap:1671270",
-        "kap:1671269",
-        "kap:1671268",
-        "kap:1671267",
-        "kap:1671266",
-        "kap:1671265",
-        "kap:1671264",
-        "kap:1671262",
-        "kap:1671261",
-        "kap:1671259",
-        "kap:1671258",
-        "kap:1671257",
-        "kap:1671256",
-        "kap:1671254",
-        "kap:1671252",
-        "kap:1671251",
-        "kap:1671239",
-        "kap:1671238",
-        "kap:1671237",
-        "kap:1671234",
-        "kap:1671226",
-        "kap:1671200",
-        "kap:1671196",
-        "kap:1671188",
-        "kap:1671187",
-        "kap:1671186",
-        "kap:1671185",
-        "kap:1671184",
-        "kap:1671183",
-        "kap:1671178",
-        "kap:1671177",
-        "kap:1671176",
-        "kap:1671175",
-        "kap:1671174",
-        "kap:1671172",
-        "kap:1671171",
-        "kap:1671170",
-        "kap:1671168",
-        "kap:1671159",
-        "kap:1671248",
-        "kap:1671181",
-        "kap:1671158",
-        "kap:1671157",
-        "kap:1671155",
-        "kap:1671153",
-        "kap:1671152",
-        "kap:1671151",
-        "kap:1671149",
-        "kap:1671148",
-        "kap:1671146",
-        "kap:1671143",
-        "kap:1671142",
-        "kap:1671141",
-        "kap:1671140",
-        "kap:1671139",
-        "kap:1671138",
-        "kap:1671137",
-        "kap:1671136",
-        "kap:1671135",
-        "kap:1671134",
-        "kap:1671133",
-        "kap:1671132",
-        "kap:1671131",
-        "kap:1671129",
-        "kap:1671125",
-        "kap:1671120",
-        "kap:1671119",
-        "kap:1671115",
-        "kap:1671105",
-        "kap:1671104",
-        "kap:1671103",
-        "kap:1671102",
-        "kap:1671101",
-        "kap:1671100",
-        "kap:1671099",
-        "kap:1671098",
-        "kap:1671097",
-        "kap:1671096",
-        "kap:1671095",
-        "kap:1671094",
-        "kap:1671093",
-        "kap:1671092",
-        "kap:1671091",
-        "kap:1671090",
-        "kap:1671089",
-        "kap:1671088",
-        "kap:1671087",
-        "kap:1671086",
-        "kap:1671084",
-        "kap:1671083",
-        "kap:1671082",
-        "kap:1671081",
-        "kap:1671080",
-        "kap:1671079",
-        "kap:1671078",
-        "kap:1671077",
-        "kap:1671039",
-        "kap:1671038",
-        "kap:1671037",
-        "kap:1671036",
-        "kap:1671035",
-        "kap:1671034",
-        "kap:1671033",
-        "kap:1671032",
-        "kap:1671031",
-        "kap:1671030",
-        "kap:1671029",
-        "kap:1671028",
-        "kap:1671027",
-        "kap:1671026",
-        "kap:1671025",
-        "kap:1671024",
-        "kap:1671018",
-        "kap:1671010",
-        "kap:1671000",
-        "kap:1670999",
-        "kap:1670998",
-        "kap:1670997",
-        "kap:1670996",
-        "kap:1670995",
-        "kap:1670994",
-        "kap:1670993",
-        "kap:1670992",
-        "kap:1670991",
-        "kap:1670990",
-        "kap:1670989",
-        "kap:1670988",
-        "kap:1670987",
-        "kap:1670986",
-        "kap:1670985",
-        "kap:1670984",
-        "kap:1670983",
-        "kap:1670981",
-        "kap:1670976",
-        "kap:1670975",
-        "kap:1670973",
-        "kap:1670972",
-        "kap:1670971",
-        "kap:1670970",
-        "kap:1670969",
-        "kap:1670968",
-        "kap:1670967",
-        "kap:1670966",
-        "kap:1670965",
-        "kap:1670963",
-        "kap:1670962",
-        "kap:1670961",
-        "kap:1670960",
-        "kap:1670959",
-        "kap:1670958",
-        "kap:1670957",
-        "kap:1670956",
-        "kap:1670955",
-        "kap:1670954",
-        "kap:1670953",
-        "kap:1670952",
-        "kap:1670951",
-        "kap:1670950",
-        "kap:1670949",
-        "kap:1670948",
-        "kap:1670947",
-        "kap:1670946",
-        "kap:1670945",
-        "kap:1670944",
-        "kap:1670943",
-        "kap:1670942",
-        "kap:1670941",
-        "kap:1670940",
-        "kap:1670938",
-        "kap:1670937",
-        "kap:1670936",
-        "kap:1670935",
-        "kap:1670934",
-        "kap:1670933",
-        "kap:1670932",
-        "kap:1670931",
-        "kap:1670930",
-        "kap:1670929",
-        "kap:1670928",
-        "kap:1670927",
-        "kap:1670926",
-        "kap:1670925",
-        "kap:1670924",
-        "kap:1670923",
-        "kap:1670922",
-        "kap:1670921",
-        "kap:1670920",
-        "kap:1670919",
-        "kap:1670918",
-        "kap:1670917",
-        "kap:1670910",
-        "kap:1670909",
-        "kap:1670907",
-        "kap:1670905",
-        "kap:1670902",
-        "kap:1670898",
-        "kap:1670897",
-        "kap:1670896",
-        "kap:1670895",
-        "kap:1670894",
-        "kap:1670891",
-        "kap:1670890",
-        "kap:1670889",
-        "kap:1670888",
-        "kap:1670887"
+        "kap:1671588",
+        "kap:1671583",
+        "kap:1671582",
+        "kap:1671581",
+        "kap:1671580",
+        "kap:1671577",
+        "kap:1671574",
+        "kap:1671572",
+        "kap:1671567",
+        "kap:1671566",
+        "kap:1671563",
+        "kap:1671562",
+        "kap:1671561",
+        "kap:1671559",
+        "kap:1671556",
+        "kap:1671554",
+        "kap:1671547",
+        "kap:1671546",
+        "kap:1671545",
+        "kap:1671544",
+        "kap:1671543",
+        "kap:1671542",
+        "kap:1671541",
+        "kap:1671540",
+        "kap:1671539",
+        "kap:1671538",
+        "kap:1671537",
+        "kap:1671536",
+        "kap:1671535",
+        "kap:1671534",
+        "kap:1671533",
+        "kap:1671531",
+        "kap:1671530",
+        "kap:1671529",
+        "kap:1671528",
+        "kap:1671527",
+        "kap:1671526",
+        "kap:1671525",
+        "kap:1671524",
+        "kap:1671523",
+        "kap:1671522",
+        "kap:1671521",
+        "kap:1671520",
+        "kap:1671519",
+        "kap:1671518",
+        "kap:1671517",
+        "kap:1671516",
+        "kap:1671514",
+        "kap:1671512",
+        "kap:1671511",
+        "kap:1671510",
+        "kap:1671509",
+        "kap:1671508",
+        "kap:1671506",
+        "kap:1671505",
+        "kap:1671504",
+        "kap:1671503",
+        "kap:1671502",
+        "kap:1671501",
+        "kap:1671500",
+        "kap:1671499",
+        "kap:1671498",
+        "kap:1671497",
+        "kap:1671496",
+        "kap:1671494",
+        "kap:1671493",
+        "kap:1671492",
+        "kap:1671491",
+        "kap:1671490",
+        "kap:1671486",
+        "kap:1671485",
+        "kap:1671484",
+        "kap:1671483",
+        "kap:1671482",
+        "kap:1671478",
+        "kap:1671473",
+        "kap:1671472",
+        "kap:1671471",
+        "kap:1671470",
+        "kap:1671462",
+        "kap:1671455",
+        "kap:1671453",
+        "kap:1671451",
+        "kap:1671450",
+        "kap:1671449",
+        "kap:1671448",
+        "kap:1671446",
+        "kap:1671445",
+        "kap:1671444",
+        "kap:1671443",
+        "kap:1671442",
+        "kap:1671441",
+        "kap:1671440",
+        "kap:1671429",
+        "kap:1671428"
       ]
     },
     "bist": {
@@ -349,8 +197,41 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6787191:0",
+      "last_seen_key": "matriks:matriks:6787476:0",
       "seen_keys": [
+        "matriks:matriks:6787476:0",
+        "matriks:matriks:6787468:0",
+        "matriks:matriks:6787465:0",
+        "matriks:matriks:6787461:0",
+        "matriks:matriks:6787435:0",
+        "matriks:matriks:6787411:0",
+        "matriks:matriks:6787409:0",
+        "matriks:matriks:6787407:0",
+        "matriks:matriks:6787400:0",
+        "matriks:matriks:6787399:0",
+        "matriks:matriks:6787394:0",
+        "matriks:matriks:6787392:0",
+        "matriks:matriks:6787391:0",
+        "matriks:matriks:6787367:0",
+        "matriks:matriks:6787366:0",
+        "matriks:matriks:6787363:0",
+        "matriks:matriks:6787360:0",
+        "matriks:matriks:6787359:0",
+        "matriks:matriks:6787349:0",
+        "matriks:matriks:6787339:0",
+        "matriks:matriks:6787335:0",
+        "matriks:matriks:6787329:0",
+        "matriks:matriks:6787326:0",
+        "matriks:matriks:6787325:0",
+        "matriks:matriks:6787320:0",
+        "matriks:matriks:6787297:0",
+        "matriks:matriks:6787285:0",
+        "matriks:matriks:6787282:0",
+        "matriks:matriks:6787270:0",
+        "matriks:matriks:6787245:0",
+        "matriks:matriks:6787243:0",
+        "matriks:matriks:6787238:0",
+        "matriks:matriks:6787230:0",
         "matriks:matriks:6787191:0",
         "matriks:matriks:6787190:0",
         "matriks:matriks:6787188:0",
@@ -2199,6 +2080,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "matriks",
+      "text": "g7 kapsamda uluslararas enerji ajans koordinasyonunda 100 milyon varillik petrol rezervi serbest b rak lacak uygulama onumuzdeki 4 ayl k donem derhal baslayacak",
+      "link": "https://tr.tradingview.com/news/matriks:6787476:0"
+    },
+    {
+      "source": "matriks",
+      "text": "g7 uluslararas enerji ajans ndan mart 2026 taahhutlerinin derhal eksiksiz uygulanmas n izlemesini talep etti",
+      "link": "https://tr.tradingview.com/news/matriks:6787468:0"
+    },
+    {
+      "source": "matriks",
+      "text": "g7 liderleri ortak ac klamas g7 ulkelerindeki rafinerilerin bak m programlar n koordine edecegiz",
+      "link": "https://tr.tradingview.com/news/matriks:6787465:0"
+    },
+    {
+      "source": "matriks",
+      "text": "macron g7 100 milyon varile kadar dizel ham petrolu serbest b rakacak",
+      "link": "https://tr.tradingview.com/news/matriks:6787461:0"
+    },
+    {
+      "source": "matriks",
+      "text": "fransa cumhurbaskan macron hurmuz bogaz ndan tedarik ak s n n surdurulebilmesine yard mc olmak amac yla yurutulen eylemlerin koordinasyonuna devam etme konusunda anlast k",
+      "link": "https://tr.tradingview.com/news/matriks:6787435:0"
+    },
+    {
+      "source": "matriks",
+      "text": "trump surec derhal baslayacak",
+      "link": "https://tr.tradingview.com/news/matriks:6787411:0"
+    },
+    {
+      "source": "matriks",
+      "text": "trump avrupa yogun stoklar ndaki dizel yak t n buyuk k sm n serbest b rakmay az once kabul etti",
+      "link": "https://tr.tradingview.com/news/matriks:6787409:0"
+    },
+    {
+      "source": "matriks",
+      "text": "zay f istihdam s k lasma beklentilerini gevsetti trive yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6787407:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd savunma sanayi haric siparisler agustos ta 0 1",
+      "link": "https://tr.tradingview.com/news/matriks:6787400:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd ulas m haric fabrika siparisleri agustos ta ayl k 0 3 onceki 0 6",
+      "link": "https://tr.tradingview.com/news/matriks:6787399:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd fabrika siparisleri agustos ta 0 1 beklenti 0 1 onceki 0 9",
+      "link": "https://tr.tradingview.com/news/matriks:6787394:0"
+    },
+    {
+      "source": "matriks",
+      "text": "macron 100 milyon varile kadar serbest b rakacag z",
+      "link": "https://tr.tradingview.com/news/matriks:6787392:0"
+    },
+    {
+      "source": "matriks",
+      "text": "macron dizel ham petrol stoklar 4 ay boyunca serbest b rak lacak",
+      "link": "https://tr.tradingview.com/news/matriks:6787391:0"
+    },
+    {
+      "source": "matriks",
+      "text": "beyaz saray dan sman hassett borclar azaltmak enflasyonu sisirmek istemiyoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6787367:0"
+    },
+    {
+      "source": "matriks",
+      "text": "beyaz saray dan sman hassett baskan ac klar azaltma konusunda cok ciddi",
+      "link": "https://tr.tradingview.com/news/matriks:6787366:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ing zay f istihdam verisi fed in ekimde faizi sabit tutmas n destekliyor rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6787363:0"
+    },
+    {
+      "source": "matriks",
+      "text": "trump n yapay zeka sorumlusu olarak jay clayton atayacak cnn",
+      "link": "https://tr.tradingview.com/news/matriks:6787360:0"
+    },
+    {
+      "source": "matriks",
+      "text": "renault ocak eylul doneminde sat slar n 11 6 oran nda art rd",
+      "link": "https://tr.tradingview.com/news/matriks:6787349:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ced duyurusu gumustas madencilik",
+      "link": "https://tr.tradingview.com/news/matriks:6787339:0"
+    },
+    {
+      "source": "matriks",
+      "text": "astor enerji sirketimiz abd tesis edilmek uzere guc transformatorlerinin tedarigine yonelik yurutulen surec kapsam nda toplam 90 milyon usd tutar ndaki siparis teyidine iliskin olarak 5 milyon usd on odeme ald",
+      "link": "https://tr.tradingview.com/news/matriks:6787335:0"
+    },
+    {
+      "source": "matriks",
+      "text": "beyaz saray dan sman hassett mortgage faizlerinin dusmesini istiyoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6787329:0"
+    },
+    {
+      "source": "matriks",
+      "text": "beyaz saray dan sman hassett donanma hurmuz u act ham petrol geciyor",
+      "link": "https://tr.tradingview.com/news/matriks:6787320:0"
+    },
+    {
+      "source": "matriks",
+      "text": "new york borsas yukselisle ac ld",
+      "link": "https://tr.tradingview.com/news/matriks:6787297:0"
+    },
+    {
+      "source": "matriks",
+      "text": "piyasalara makro bak s gcm yat r m kudret ayy ld r ekim ay nda veri ak s politika ad mlar fiyatlamalarda belirleyici olacak",
+      "link": "https://tr.tradingview.com/news/matriks:6787285:0"
+    },
+    {
+      "source": "matriks",
+      "text": "sec nin inovasyon muafiyeti hisse tokenlar n n abd ye getirilmesini k s tl yor robinhood kripto yoneticisi",
+      "link": "https://tr.tradingview.com/news/matriks:6787282:0"
+    },
+    {
+      "source": "matriks",
+      "text": "beyaz saray dan sman hassett dizel konusunda yak nda baz haberler alacag mdan umitliyim",
+      "link": "https://tr.tradingview.com/news/matriks:6787270:0"
+    },
+    {
+      "source": "matriks",
+      "text": "beyaz saray dan sman hassett dizel konusunda avrupa gorusuyoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6787245:0"
+    },
+    {
+      "source": "matriks",
+      "text": "piyasalara makro bak s ntm global advisory ceo su ozgur hatipoglu kuresel piyasalarda volatilite sinyalleri gucleniyor",
+      "link": "https://tr.tradingview.com/news/matriks:6787243:0"
+    },
+    {
+      "source": "matriks",
+      "text": "beyaz saray dan sman hassett gsyh hala 4 civar nda",
+      "link": "https://tr.tradingview.com/news/matriks:6787238:0"
+    },
+    {
+      "source": "matriks",
+      "text": "beyaz saray dan sman hassett istihdam raporu beni hayal k r kl g na ugratmad",
+      "link": "https://tr.tradingview.com/news/matriks:6787230:0"
+    },
     {
       "source": "bloomberght",
       "text": "bakan simsek finansal sisteme reel ekonomiye destek veriyoruz hazine maliye bakan mehmet simsek makroihtiyati ad mlarla finansal sisteme reel ekonomiye destek veriyoruz dedi",
@@ -9548,156 +9579,6 @@
       "source": "investing",
       "text": "inr hisselerinden 299 993 dolar degerinde al m yap ld",
       "link": "https://tr.investing.com/news/insider-trading-news/inr-hisselerinden-299993-dolar-degerinde-alm-yapld-93CH-4081887"
-    },
-    {
-      "source": "investing",
-      "text": "1911 gold mining forum americas 2026 buyume art s",
-      "link": "https://tr.investing.com/news/transcripts/1911-gold-mining-forum-americas-2026da-buyume-ve-arts-93CH-4081886"
-    },
-    {
-      "source": "investing",
-      "text": "seabridge gold mining forum americas 2026 ksm ortakl g na odakland",
-      "link": "https://tr.investing.com/news/transcripts/seabridge-gold-mining-forum-americas-2026da-ksm-ortaklgna-odakland-93CH-4081885"
-    },
-    {
-      "source": "investing",
-      "text": "buenaventura madencilik forumu amerika 2026 bak r odakl buyume plan n ac klad",
-      "link": "https://tr.investing.com/news/transcripts/buenaventura-madencilik-forumu-amerika-2026da-bakr-odakl-buyume-plann-acklad-93CH-4081884"
-    },
-    {
-      "source": "investing",
-      "text": "skeena resources mining forum americas 2026 insaat tamamlanmak uzere",
-      "link": "https://tr.investing.com/news/transcripts/skeena-resources-mining-forum-americas-2026da-insaat-tamamlanmak-uzere-93CH-4081883"
-    },
-    {
-      "source": "investing",
-      "text": "glucotrack varant senet sozlesmelerinde degisiklik yapt",
-      "link": "https://tr.investing.com/news/sec-filings/glucotrack-varant-ve-senet-sozlesmelerinde-degisiklik-yapt-93CH-4081882"
-    },
-    {
-      "source": "investing",
-      "text": "newbury street ii olaganustu genel kurul oncesi tarihi belirledi",
-      "link": "https://tr.investing.com/news/sec-filings/newbury-street-ii-olaganustu-genel-kurul-oncesi-son-tarihi-belirledi-93CH-4081881"
-    },
-    {
-      "source": "investing",
-      "text": "green bay copper gold mining forum americas 2026 buyume senaryosunu sundu",
-      "link": "https://tr.investing.com/news/transcripts/green-bay-copper-gold-mining-forum-americas-2026da-buyume-senaryosunu-sundu-93CH-4081880"
-    },
-    {
-      "source": "investing",
-      "text": "usa gold corp madencilik forumu americas 2026 ck alt n projesi on planda",
-      "link": "https://tr.investing.com/news/transcripts/usa-gold-corp-madencilik-forumu-americas-2026da-ck-altn-projesi-on-planda-93CH-4081879"
-    },
-    {
-      "source": "tradingview",
-      "text": "guney kore bok imalat bsi 79 ekim beklenti 81",
-      "link": "https://tr.tradingview.com/news/fxstreet:c7309ad6bd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanadal kripto kral doland r c l k davas nda kendisini temsil edecek",
-      "link": "https://tr.tradingview.com/news/cointelegraph:30aaa6787d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "dow jones industrial average boeing gecikmesiyle cuma gunku ralliyi geri veriyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:66fea31c2d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "blockchain com kripto sermaye piyasalar yeniden ac l rken 500 milyon dolarl k halka arz hedefliyor rapor",
-      "link": "https://tr.tradingview.com/news/cointelegraph:b1821bf7dd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n fiyat 2007 donemi getirilerinin sert sat s dalgas n tetiklemesiyle cak ld",
-      "link": "https://tr.tradingview.com/news/fxstreet:4a958ee5cd9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "michael dell dan uyar yapay zeka agent lar s n rlar sart",
-      "link": "https://tr.tradingview.com/news/beincrypto:319418de1d9e8:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "spk dan tera finansal yat r mlar islemleriyle ilgili 37 kisi hakk nda suc duyurusu sermaye piyasas kurulu spk tera finansal yat r mlar holding as hakk nda yap lan inceleme sonucunda 37 kisi hakk nda suc duyurusu yap lmas na 2 y l islem yasag uygulanmas na 2 tuzel kisi hakk nda 2 y l islem yasag uygulanmas na",
-      "link": "https://www.trthaber.com/haber/ekonomi/spkdan-tera-finansal-yatirimlar-islemleriyle-ilgili-37-kisi-hakkinda-suc-duyurusu-958449.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "alt n fiyatlar nda sert dusus borsa istanbul k ymetli madenler k ymetli taslar piyasas nda kmktp standart alt n n kilogram fiyat gunun sonunda 6 milyon 538 bin liraya dustu",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-sert-dusus-958436.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "toki 383 arsay ac k art rmayla satacak cevre sehircilik iklim degisikligi bakanl g toplu konut idaresi baskanl g toki 46 ilde 383 arsay 29 30 eylul ac k art rma yontemiyle sat sa sunacak",
-      "link": "https://www.trthaber.com/haber/ekonomi/toki-383-arsayi-acik-artirmayla-satacak-958425.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "turkiye azerbaycan gurcistan n 5 ortak gumruk komitesi toplant s gerceklesti turkiye azerbaycan gurcistan ortak gumruk komitesinin 5 toplant s azerbaycan n goygol ilinde gerceklestirildi",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-azerbaycan-ve-gurcistanin-5-ortak-gumruk-komitesi-toplantisi-gerceklesti-958421.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "tdt ulkelerinin ticaret hacmi 1 27 trilyon dolara ulast turk devletleri teskilat tdt uyesi gozlemci ulkelerin gecen y l toplam ticaret hacmi 1 27 trilyon dolara ulas rken toplam gayrisafi yurt ici has las 2 4 trilyon dolar ast",
-      "link": "https://www.trthaber.com/haber/ekonomi/tdt-ulkelerinin-ticaret-hacmi-127-trilyon-dolara-ulasti-958406.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "spk dan fonlar n tasfiyele surecleriyle ilgili ac klama yap ld sermaye piyasas kurulu spk tasfiyeye konu edilen fonlara iliskin 17 eylul turkiye elektronik fon al m sat m platformu tefas uzerinden iletilen platform taraf ndan iptal edilen al m sat m talimatlar n n tasfiye bakiyesinden fond",
-      "link": "https://www.trthaber.com/haber/ekonomi/spkdan-fonlarin-tasfiyele-surecleriyle-ilgili-aciklama-yapildi-958373.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "tas nmaz sat slar nda guvenli odeme sistemi 1 aral k ta basl yor ticaret bakanl g tas nmaz sat slar na yonelik zorunlu guvenli odeme sistemi uygulamas n n baslang c tarihinin teknik altyap entegrasyon surecleri ilgili kurum kuruluslar sektor paydaslar n n gerekli haz rl klar tamamlamas a",
-      "link": "https://www.trthaber.com/haber/ekonomi/tasinmaz-satislarinda-guvenli-odeme-sistemi-1-aralikta-basliyor-958371.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "alt n fiyat haftaya dususle baslad gune sat c l baslayan gram alt n onceki kapan sa gore yuzde 2 6 azal sla 6 bin 572 lira seviyesinden islem gordu ceyrek alt n 10 bin 780 liradan cumhuriyet alt n 42 bin 940 liradan sat l yor",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyati-haftaya-dususle-basladi-958370.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "tmd baskan y lmaz turkiye nin y lda 50 ton alt n uretebilecek kapasitesi bulunuyor turkiye madenciler dernegi tmd baskan mehmet y lmaz turkiye nin mevcut sahalarla y lda 50 ton alt n uretebilecek kapasiteye sahip oldugunu belirtti",
-      "link": "https://www.trthaber.com/haber/ekonomi/tmd-baskani-yilmaz-turkiyenin-yilda-50-ton-altin-uretebilecek-kapasitesi-bulunuyor-958367.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "kuresel piyasalar haftaya sat s bask s yla baslad kuresel piyasalar abd baskan donald trump n iran n hurmuz bogaz n n trafige ac lmas sundugu 7 gunluk ateskes teklifini reddetmesiyle artan jeopolitik gerilim nedeniyle haftaya sat s bask s yla baslad",
-      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-haftaya-satis-baskisiyla-basladi-958366.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "bakan simsek fon yat r mc lar n n mesru haklar n gozetiyoruz hazine maliye bakan mehmet simsek piyasa bozucu islemlere iliskin hukuki surecin surdugunu belirterek adalet bakanl g koordinasyon icinde fon yat r mc lar n n mesru haklar n n gozetildigini vurgulad",
-      "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-fon-yatirimcilarinin-mesru-haklarini-gozetiyoruz-958358.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "doviz donusum desteginde yeni donem 1 ekim basl yor hazine maliye bakan mehmet simsek firmalara yonelik doviz donusum desteginde daha esnek sade uygulama sartlar getirildigini ac klad yeni uygulama 1 ekim yururluge girecek",
-      "link": "https://www.trthaber.com/haber/ekonomi/doviz-donusum-desteginde-yeni-donem-1-ekimde-basliyor-958353.html"
-    },
-    {
-      "source": "ntvpara",
-      "text": "alt n fiyatlar canl 28 eylul 2026 gram ceyrek yar m tam alt n fiyatlar kadar oldu haftan n ilk islem gununde alt n fiyatlar ndaki durum yat r mc lar taraf ndan yak ndan takip ediliyor abd baskan donald trump n iran n hurmuz bogaz n n trafige ac lmas sundugu 7 gunluk",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-altin-fiyatlari-canli-28-eylul-2026-gram-ceyrek-yarim-ve-tam-altin-fiyatlari-ne-kadar-oldu-1743831"
-    },
-    {
-      "source": "ntvpara",
-      "text": "guvenli odeme sistemi yine ertelendi tas nmaz sat slar nda guvenli odeme sistemi yle ilgili yonetmelik degisikligi tarihi ertelendi",
-      "link": "https://www.ntv.com.tr/ntvpara/guvenli-odeme-sistemi-yine-ertelendi-1743811"
-    },
-    {
-      "source": "ntvpara",
-      "text": "futbolcunun iki sirketi iflas etti zamanlar futbol tutkusunun pesinde kosan is insan n n sirketleri iflas etti",
-      "link": "https://www.ntv.com.tr/ntvpara/futbolcunun-iki-sirketi-iflas-etti-1743806"
-    },
-    {
-      "source": "ntvpara",
-      "text": "bakan simsek ten fon ac klamas tedbir almaya devam edecegiz hazine maliye bakan mehmet simsek fon yat r mc lar n n mesru haklar n gozetiyoruz piyasan n ihtiyac duydugu likidite olmak uzere gereken tedbirleri almaya devam edecegiz dedi",
-      "link": "https://www.ntv.com.tr/ntvpara/bakan-simsekten-fon-aciklamasi-tedbir-almaya-devam-edecegiz-1743807"
     }
   ],
   "research_reports_v8": {
@@ -9789,6 +9670,7 @@
     "gedik": {
       "gunluk_bulten": {
         "seen_keys": [
+          "38926e35500835f2f349f676a55645ed5d6daafb",
           "dbff1883cd4218e5d961bee5f1f9783ec759639b",
           "7f2039a4c4101e5f186d3311d2f1bc22d8250964",
           "3207e141360075ee7d67dfa80b7648b12c156505",
@@ -9799,6 +9681,7 @@
           "91554275cce2bd759f62ad0738470132458f6927"
         ],
         "seen_semantic_keys": [
+          "03a866ef02a4445201f2b9f53167825070542c33",
           "d1d248592f88651a856d57f617631ee2e01935d8",
           "a9908232391098b9ff3c8ef068bb315fe033dbd4",
           "299216fd0e1c2eb4951fafd74d369b1f111db14a",
@@ -9809,8 +9692,8 @@
           "a0f5f42ff84d75acbaae48d88b3b218c6c3965bf"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-10-01",
-        "sent_at": "2026-10-01T18:05:49.384934+03:00"
+        "last_published_date": "2026-10-02",
+        "sent_at": "2026-10-02T18:45:40.926467+03:00"
       }
     },
     "phillipcapital": {
