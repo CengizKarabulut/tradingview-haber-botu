@@ -1350,8 +1350,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/commodities-news/irakn-devlet-tanker-sirketi-hurmuz-bogazndan-ham-petrol-tasd-93CH-4088985",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/muse-openai-dotsa-kars-nasl-bir-performans-sergiliyor-4088988",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/muse-openai-dotsa-kars-nasl-bir-performans-sergiliyor-4088988",
+        "investing:https://tr.investing.com/news/stock-market-news/nestle-indiann-urun-numunesi-gda-duzenleyicisi-tarafndan-guvenli-bulunmad-93CH-4088987",
         "investing:https://tr.investing.com/news/commodities-news/irakn-devlet-tanker-sirketi-hurmuz-bogazndan-ham-petrol-tasd-93CH-4088985",
         "investing:https://tr.investing.com/news/stock-market-news/abd-ara-secimleri-hisse-senetlerine-beklenen-etkinin-analizi-4088984",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrmnn-alslmadk-derecede-buyuk-carpan-etkileri-4088981",
@@ -1360,8 +1362,6 @@
         "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
         "investing:https://tr.investing.com/news/stock-market-news/turkiye-teminat-oran-indirimini-30-ekime-kadar-uzatt-93CH-4088973",
         "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972",
-        "investing:https://tr.investing.com/news/stock-market-news/abdnin-vistraya-nukleer-enerji-icin-42-milyar-dolar-kredi-verecegi-bildiriliyor-4088969",
-        "investing:https://tr.investing.com/news/economy-news/riyaddaki-aramco-tesisi-yaknnda-duman-ve-yangn-bildirildi-4088966",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1382,6 +1382,8 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/stock-market-news/abdnin-vistraya-nukleer-enerji-icin-42-milyar-dolar-kredi-verecegi-bildiriliyor-4088969",
+        "investing:https://tr.investing.com/news/economy-news/riyaddaki-aramco-tesisi-yaknnda-duman-ve-yangn-bildirildi-4088966",
         "investing:https://tr.investing.com/news/stock-market-news/renault-fransaya-elektrikli-araclar-icin-10-milyar-eurodan-fazla-yatrm-yapacak-93CH-4088965",
         "investing:https://tr.investing.com/news/investment-ideas/ege-profil-hissesi-gercege-uygun-deger-uyars-sonras-64-kazandrd-93CH-4088964",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-armada-gdada-48lik-dusus-oncesi-uyard-93CH-4088963",
@@ -1849,9 +1851,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/haftann-hisse-senetleri-4079693",
         "investing:https://tr.investing.com/news/company-news/zentra-manchester-projesinde-yeni-yuklenici-ile-anlast-93CH-4079503",
         "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-costconun-hisse-hedefini-yukseltti-93CH-4079500",
-        "investing:https://tr.investing.com/news/stock-market-news/stifel-almonty-icin-25-dolarlk-hedef-fiyatla-kapsama-baslad-4079501",
-        "investing:https://tr.investing.com/news/company-news/red-violet-inc-hissesi-8039-dolarla-rekor-krd-93CH-4079499",
-        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-darden-hissesi-icin-tavsiyesini-yineledi-93CH-4079498"
+        "investing:https://tr.investing.com/news/stock-market-news/stifel-almonty-icin-25-dolarlk-hedef-fiyatla-kapsama-baslad-4079501"
       ]
     },
     "ntvpara": {
@@ -2163,8 +2163,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:9898723d5d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:07a0a5f96d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:07a0a5f96d9e8:0",
         "tradingview:beincrypto:9898723d5d9e8:0",
         "tradingview:beincrypto:2dff81352d9e8:0",
         "tradingview:beincrypto:0c9cc4072d9e8:0",
@@ -2291,6 +2292,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "kripto firma lar n ulusal guven yetkisine bankac lardan dava occ ye tepki",
+      "link": "https://tr.tradingview.com/news/beincrypto:07a0a5f96d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "muse openai dots a kars nas l performans sergiliyor",
+      "link": "https://tr.investing.com/news/stock-market-news/muse-openai-dotsa-kars-nasl-bir-performans-sergiliyor-4088988"
+    },
+    {
+      "source": "investing",
+      "text": "nestle india n n urun numunesi g duzenleyicisi taraf ndan guvenli bulunmad",
+      "link": "https://tr.investing.com/news/stock-market-news/nestle-indiann-urun-numunesi-gda-duzenleyicisi-tarafndan-guvenli-bulunmad-93CH-4088987"
+    },
     {
       "source": "investing",
       "text": "irak n devlet tanker sirketi hurmuz bogaz ndan ham petrol tas d",
@@ -9775,21 +9791,6 @@
       "source": "tradingview",
       "text": "trump yapay zekan n gelisimini asla engellemeyecegim",
       "link": "https://tr.tradingview.com/news/matriks:6777988:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "kanada dolar yatay gsyh verisinin ard ndan bask alt nda kalmaya devam ediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:77cd77c37d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "perihan tantug matriks youtube arast rma 360 program nda perform portfoy fon yoneticisi altan ayd n konuk etti",
-      "link": "https://tr.tradingview.com/news/matriks:6777959:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd dallas fed hizmet sektoru gorunumu endeksi eylul 1 8 onceki 4 2",
-      "link": "https://tr.tradingview.com/news/matriks:6777955:0"
     }
   ],
   "research_reports_v8": {
