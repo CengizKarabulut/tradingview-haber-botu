@@ -222,8 +222,9 @@
       ]
     },
     "spk": {
-      "last_seen_key": "spk:2026/67",
+      "last_seen_key": "spk:2026/68",
       "seen_keys": [
+        "spk:2026/68",
         "spk:2026/67",
         "spk:2026/66",
         "spk:2026/65",
@@ -397,8 +398,9 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ac067c024008d7d4373b785/PICNEWS/tr/sgk-ilac-geri-odeme-sisteminde-yeni-donem-yuzde-1-pazar-orani-kriteri-getirildi-03-10-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ac0a81295016b5817e648ca/PICNEWS/tr/fon-sorusturmasinda-tutuklu-sayisi-85-e-yukseldi-03-10-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6ac0a81295016b5817e648ca/PICNEWS/tr/fon-sorusturmasinda-tutuklu-sayisi-85-e-yukseldi-03-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ac067c024008d7d4373b785/PICNEWS/tr/sgk-ilac-geri-odeme-sisteminde-yeni-donem-yuzde-1-pazar-orani-kriteri-getirildi-03-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ac0678195016b5817e6487b/PICNEWS/tr/lisansli-depoculukta-ucret-tarifeleri-ve-sigorta-bedellerine-yeni-duzenleme-03-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ac066ff95016b5817e6487a/PICNEWS/tr/bundesbank-baskani-nagel-almanya-ekonomisi-bu-yil-yaklasik-yuzde-1-buyuyebilir-03-10-26/",
@@ -2152,8 +2154,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:508550d3ad9e8:0",
+      "last_seen_key": "tradingview:beincrypto:0c9cc4072d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:0c9cc4072d9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:cointelegraph:b41930e0dd9e8:0",
         "tradingview:beincrypto:3c2afb70ad9e8:0",
@@ -2277,6 +2280,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "zcash etf 93 milyon dolar l k kay p zec ralli bitti",
+      "link": "https://tr.tradingview.com/news/beincrypto:0c9cc4072d9e8:0"
+    },
+    {
+      "source": "forinvest",
+      "text": "fon sorusturmas nda tutuklu say s 85 e yukseldi fonlar uzerinden sermaye piyasas nda gerceklestirilen manipulasyonlara iliskin yurutulen sorusturmalar kapsam nda gozalt na al nan 20 supheli tutukland kararla birlikte sorusturma kapsam nda tut",
+      "link": "https://www.foreks.com/haber/detay/6ac0a81295016b5817e648ca/PICNEWS/tr/fon-sorusturmasinda-tutuklu-sayisi-85-e-yukseldi-03-10-26"
+    },
+    {
+      "source": "spk",
+      "text": "spk bulteni 2026 68 sermaye piyasas kurulu resmi bulteni 03 ekim 2026",
+      "link": "https://spk.gov.tr/data/6ac0f9b58f95db2e04ee6f56/2026-68.pdf"
+    },
     {
       "source": "tradingview",
       "text": "near intents istismarc ya ultimatom verdikten sonra cal nan 3 8 milyon dolar n tamam n geri ald",
@@ -9761,21 +9779,6 @@
       "source": "kap",
       "text": "turex paylar n geri al nmas na iliskin bildirim pay geri al m islemleri sirket tureks turizm tasimacilik a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1669796"
-    },
-    {
-      "source": "kap",
-      "text": "gedik paylar n geri al nmas na iliskin bildirim 29 09 2026 tarihli pay geri al m islemleri sirket gedik yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1669790"
-    },
-    {
-      "source": "tradingview",
-      "text": "el salvador bitcoin dan 5 y l sonra vaz m geciyor",
-      "link": "https://tr.tradingview.com/news/beincrypto:4cdda5e57d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "ingiltere basbakan burnham enerji maliyetlerini 10 y l icinde komsu ulkelerle ayn seviyeye getirmek istiyoruz",
-      "link": "https://tr.tradingview.com/news/matriks:6777746:0"
     }
   ],
   "research_reports_v8": {
