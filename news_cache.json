@@ -1350,8 +1350,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
+        "investing:https://tr.investing.com/news/stock-market-news/turkiye-teminat-oran-indirimini-30-ekime-kadar-uzatt-93CH-4088973",
         "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972",
         "investing:https://tr.investing.com/news/stock-market-news/abdnin-vistraya-nukleer-enerji-icin-42-milyar-dolar-kredi-verecegi-bildiriliyor-4088969",
         "investing:https://tr.investing.com/news/economy-news/riyaddaki-aramco-tesisi-yaknnda-duman-ve-yangn-bildirildi-4088966",
@@ -1360,8 +1362,6 @@
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-armada-gdada-48lik-dusus-oncesi-uyard-93CH-4088963",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-dime-community-hissesinde-62-kazanc-yakalad-93CH-4088962",
         "investing:https://tr.investing.com/news/investment-ideas/fair-value-sable-offshoreun-51lik-dususunu-nasl-gordu-93CH-4088961",
-        "investing:https://tr.investing.com/news/commodities-news/benzin-pompasnn-otesinde-gercekte-ne-kadar-petrol-tuketiyoruz-4088960",
-        "investing:https://tr.investing.com/news/insider-trading-news/auburn-national-yoneticisi-william-ham-jr-1288-dolar-hisse-ald-93CH-4088958",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1382,6 +1382,8 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/commodities-news/benzin-pompasnn-otesinde-gercekte-ne-kadar-petrol-tuketiyoruz-4088960",
+        "investing:https://tr.investing.com/news/insider-trading-news/auburn-national-yoneticisi-william-ham-jr-1288-dolar-hisse-ald-93CH-4088958",
         "investing:https://tr.investing.com/news/insider-trading-news/qualcomm-svp-patricia-grech-18281-dolar-degerinde-hisse-satt-93CH-4088957",
         "investing:https://tr.investing.com/news/company-news/otel-devleri-orta-doguda-talebin-toparlandgn-goruyor-4088955",
         "investing:https://tr.investing.com/news/economy-news/trump-abd-askeri-varlgn-artrrken-irana-bask-artyor-4088940",
@@ -1849,9 +1851,7 @@
         "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-planet-fitness-hissesi-icin-hedefini-korudu-93CH-4079495",
         "investing:https://tr.investing.com/news/company-news/midamerica-apartment-communities-hissesi-11667-dolara-geriledi-93CH-4079494",
         "investing:https://tr.investing.com/news/company-news/installed-building-products-hissesi-19265-dolarda-dip-yapt-93CH-4079493",
-        "investing:https://tr.investing.com/news/company-news/eversource-energy-hissesi-6343-dolarda-52-haftalk-dip-yapt-93CH-4079490",
-        "investing:https://tr.investing.com/news/company-news/generation-income-properties-42-milyon-dolarlk-yukumlulugu-kapatt-93CH-4079470",
-        "investing:https://tr.investing.com/news/stock-market-news/teslann-tam-otonom-surus-onay-icin-ab-oylamas-aralka-ertelendi-93CH-4079468"
+        "investing:https://tr.investing.com/news/company-news/eversource-energy-hissesi-6343-dolarda-52-haftalk-dip-yapt-93CH-4079490"
       ]
     },
     "ntvpara": {
@@ -2291,6 +2291,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "bessent hazine tahvil getirilerindeki art s kuresel trend",
+      "link": "https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975"
+    },
+    {
+      "source": "investing",
+      "text": "turkiye teminat oran indirimini 30 ekim e kadar uzatt",
+      "link": "https://tr.investing.com/news/stock-market-news/turkiye-teminat-oran-indirimini-30-ekime-kadar-uzatt-93CH-4088973"
+    },
     {
       "source": "tradingview",
       "text": "xrp davas n n ismi beyaz saray yapay zeka gorevine geliyor",
@@ -9780,16 +9790,6 @@
       "source": "tradingview",
       "text": "bddk agustos 2026 bankac l k verileri seker yat r m",
       "link": "https://tr.tradingview.com/news/matriks:6777866:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "abd jolts ac k is pozisyonlar agustos ta 7 079 milyon a geriledi",
-      "link": "https://tr.tradingview.com/news/fxstreet:0f6367618d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "forex bulten ncm investment",
-      "link": "https://tr.tradingview.com/news/matriks:6777863:0"
     }
   ],
   "research_reports_v8": {
