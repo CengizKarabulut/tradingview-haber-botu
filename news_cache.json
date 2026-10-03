@@ -1350,8 +1350,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/genmab-yumurtalk-kanseri-ilac-aday-icin-deneme-sonuclarn-acklad-93CH-4088976",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/genmab-yumurtalk-kanseri-ilac-aday-icin-deneme-sonuclarn-acklad-93CH-4088976",
         "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
         "investing:https://tr.investing.com/news/stock-market-news/turkiye-teminat-oran-indirimini-30-ekime-kadar-uzatt-93CH-4088973",
         "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972",
@@ -1361,7 +1362,6 @@
         "investing:https://tr.investing.com/news/investment-ideas/ege-profil-hissesi-gercege-uygun-deger-uyars-sonras-64-kazandrd-93CH-4088964",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-armada-gdada-48lik-dusus-oncesi-uyard-93CH-4088963",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-dime-community-hissesinde-62-kazanc-yakalad-93CH-4088962",
-        "investing:https://tr.investing.com/news/investment-ideas/fair-value-sable-offshoreun-51lik-dususunu-nasl-gordu-93CH-4088961",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1382,6 +1382,7 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/investment-ideas/fair-value-sable-offshoreun-51lik-dususunu-nasl-gordu-93CH-4088961",
         "investing:https://tr.investing.com/news/commodities-news/benzin-pompasnn-otesinde-gercekte-ne-kadar-petrol-tuketiyoruz-4088960",
         "investing:https://tr.investing.com/news/insider-trading-news/auburn-national-yoneticisi-william-ham-jr-1288-dolar-hisse-ald-93CH-4088958",
         "investing:https://tr.investing.com/news/insider-trading-news/qualcomm-svp-patricia-grech-18281-dolar-degerinde-hisse-satt-93CH-4088957",
@@ -1850,8 +1851,7 @@
         "investing:https://tr.investing.com/news/company-news/riskified-hissesi-803-dolarda-52-haftalk-zirve-yapt-93CH-4079496",
         "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-planet-fitness-hissesi-icin-hedefini-korudu-93CH-4079495",
         "investing:https://tr.investing.com/news/company-news/midamerica-apartment-communities-hissesi-11667-dolara-geriledi-93CH-4079494",
-        "investing:https://tr.investing.com/news/company-news/installed-building-products-hissesi-19265-dolarda-dip-yapt-93CH-4079493",
-        "investing:https://tr.investing.com/news/company-news/eversource-energy-hissesi-6343-dolarda-52-haftalk-dip-yapt-93CH-4079490"
+        "investing:https://tr.investing.com/news/company-news/installed-building-products-hissesi-19265-dolarda-dip-yapt-93CH-4079493"
       ]
     },
     "ntvpara": {
@@ -2291,6 +2291,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "genmab yumurtal k kanseri ilac aday deneme sonuclar n ac klad",
+      "link": "https://tr.investing.com/news/company-news/genmab-yumurtalk-kanseri-ilac-aday-icin-deneme-sonuclarn-acklad-93CH-4088976"
+    },
     {
       "source": "bloomberght",
       "text": "erdogan turkiye ekonomisi sorunun ustesinden gelecek kapasitededir erdogan ddk hazine bakanl g m zla diger kurumlar m zla her turlu ad m at yoruz kimsenin hakk n kimseye yedirmeden adalet hakkaniyet zemininde sorunun suratle cozulmesi cal s yoruz vatandaslar m z gonullerini ferah tutsun tur",
@@ -9785,11 +9790,6 @@
       "source": "tradingview",
       "text": "abd cb tuketici guveni endeksi eylul ay nda 81 9 a geriledi",
       "link": "https://tr.tradingview.com/news/fxstreet:a77990068d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "quant qnt balinalar 3 y l sonra uyand kripto para borsalar na ak n baslad",
-      "link": "https://tr.tradingview.com/news/beincrypto:8437314f9d9e8:0"
     }
   ],
   "research_reports_v8": {
