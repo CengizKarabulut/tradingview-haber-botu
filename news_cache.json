@@ -1350,8 +1350,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/muse-openai-dotsa-kars-nasl-bir-performans-sergiliyor-4088988",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/beyaz-saray-yapay-zeka-gorev-gucu-kurdu--wsj-4088990",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/beyaz-saray-yapay-zeka-gorev-gucu-kurdu--wsj-4088990",
         "investing:https://tr.investing.com/news/stock-market-news/muse-openai-dotsa-kars-nasl-bir-performans-sergiliyor-4088988",
         "investing:https://tr.investing.com/news/stock-market-news/nestle-indiann-urun-numunesi-gda-duzenleyicisi-tarafndan-guvenli-bulunmad-93CH-4088987",
         "investing:https://tr.investing.com/news/commodities-news/irakn-devlet-tanker-sirketi-hurmuz-bogazndan-ham-petrol-tasd-93CH-4088985",
@@ -1361,7 +1362,6 @@
         "investing:https://tr.investing.com/news/company-news/genmab-yumurtalk-kanseri-ilac-aday-icin-deneme-sonuclarn-acklad-93CH-4088976",
         "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
         "investing:https://tr.investing.com/news/stock-market-news/turkiye-teminat-oran-indirimini-30-ekime-kadar-uzatt-93CH-4088973",
-        "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1382,6 +1382,7 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972",
         "investing:https://tr.investing.com/news/stock-market-news/abdnin-vistraya-nukleer-enerji-icin-42-milyar-dolar-kredi-verecegi-bildiriliyor-4088969",
         "investing:https://tr.investing.com/news/economy-news/riyaddaki-aramco-tesisi-yaknnda-duman-ve-yangn-bildirildi-4088966",
         "investing:https://tr.investing.com/news/stock-market-news/renault-fransaya-elektrikli-araclar-icin-10-milyar-eurodan-fazla-yatrm-yapacak-93CH-4088965",
@@ -1850,8 +1851,7 @@
         "investing:https://tr.investing.com/news/economy-news/putin-ukrayna-uzlasma-onerilerinin-incelenmekte-oldugunu-soyledi-93CH-4079692",
         "investing:https://tr.investing.com/news/stock-market-news/haftann-hisse-senetleri-4079693",
         "investing:https://tr.investing.com/news/company-news/zentra-manchester-projesinde-yeni-yuklenici-ile-anlast-93CH-4079503",
-        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-costconun-hisse-hedefini-yukseltti-93CH-4079500",
-        "investing:https://tr.investing.com/news/stock-market-news/stifel-almonty-icin-25-dolarlk-hedef-fiyatla-kapsama-baslad-4079501"
+        "investing:https://tr.investing.com/news/analyst-ratings/da-davidson-costconun-hisse-hedefini-yukseltti-93CH-4079500"
       ]
     },
     "ntvpara": {
@@ -2293,6 +2293,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "beyaz saray yapay zeka gorev gucu kurdu wsj",
+      "link": "https://tr.investing.com/news/economy-news/beyaz-saray-yapay-zeka-gorev-gucu-kurdu--wsj-4088990"
+    },
     {
       "source": "tradingview",
       "text": "bitcoin trump n 5 000 dolar vaadi gundemde fiyat yon degistirir",
@@ -9787,11 +9792,6 @@
       "source": "tradingview",
       "text": "trump teknoloji konusunda korkuya boyun egmeyecegiz",
       "link": "https://tr.tradingview.com/news/matriks:6778000:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "trump iran cok kotu durumda cok yak nda hresey sona erecek",
-      "link": "https://tr.tradingview.com/news/matriks:6777998:0"
     }
   ],
   "research_reports_v8": {
