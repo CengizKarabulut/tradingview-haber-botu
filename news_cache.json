@@ -1350,8 +1350,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/flydubai-yardmc-pilotu-radikal-gorusler-nedeniyle-isten-atlms-4088994",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-anlasmalar-hong-kongda-rekor-yaz-fonlamasn-tetikledi-4088997",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-anlasmalar-hong-kongda-rekor-yaz-fonlamasn-tetikledi-4088997",
         "investing:https://tr.investing.com/news/company-news/flydubai-yardmc-pilotu-radikal-gorusler-nedeniyle-isten-atlms-4088994",
         "investing:https://tr.investing.com/news/company-news/openai-guvenlik-calsan-istifa-etti-sirketin-yaklasmn-elestirdi-4088993",
         "investing:https://tr.investing.com/news/economy-news/beyaz-saray-yapay-zeka-gorev-gucu-kurdu--wsj-4088990",
@@ -1361,7 +1362,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/abd-ara-secimleri-hisse-senetlerine-beklenen-etkinin-analizi-4088984",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrmnn-alslmadk-derecede-buyuk-carpan-etkileri-4088981",
         "investing:https://tr.investing.com/news/forex-news/iran-riyali-2-milyar-dolarlk-mudahaleye-ragmen-dususte-4088980",
-        "investing:https://tr.investing.com/news/company-news/genmab-yumurtalk-kanseri-ilac-aday-icin-deneme-sonuclarn-acklad-93CH-4088976",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1382,6 +1382,7 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/company-news/genmab-yumurtalk-kanseri-ilac-aday-icin-deneme-sonuclarn-acklad-93CH-4088976",
         "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
         "investing:https://tr.investing.com/news/stock-market-news/turkiye-teminat-oran-indirimini-30-ekime-kadar-uzatt-93CH-4088973",
         "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972",
@@ -1850,8 +1851,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/cvs-health-hissesi-bugun-neden-yukseliste-93CH-4079697",
         "investing:https://tr.investing.com/news/analyst-ratings/costco-hisse-hedef-fiyat-degerleme-nedeniyle-1010-dolara-dusuruldu-93CH-4079695",
         "investing:https://tr.investing.com/news/company-news/canopy-growth-hissedar-toplantsn-yeterli-katlm-olmadg-icin-erteledi-93CH-4079694",
-        "investing:https://tr.investing.com/news/economy-news/putin-ukrayna-uzlasma-onerilerinin-incelenmekte-oldugunu-soyledi-93CH-4079692",
-        "investing:https://tr.investing.com/news/stock-market-news/haftann-hisse-senetleri-4079693"
+        "investing:https://tr.investing.com/news/economy-news/putin-ukrayna-uzlasma-onerilerinin-incelenmekte-oldugunu-soyledi-93CH-4079692"
       ]
     },
     "ntvpara": {
@@ -2294,6 +2294,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "yapay zeka anlasmalar hong kong rekor yaz fonlamas n tetikledi",
+      "link": "https://tr.investing.com/news/stock-market-news/yapay-zeka-anlasmalar-hong-kongda-rekor-yaz-fonlamasn-tetikledi-4088997"
+    },
     {
       "source": "ntvpara",
       "text": "toki nin yuzde 25 indirim kampanyas nda 15 gun toki nin geri odemeleri devam eden konut is yerleri duzenledigi yuzde 25 indirim kampanyas 19 ekim e kadar devam edecek",
@@ -9788,11 +9793,6 @@
       "source": "kap",
       "text": "lider paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket ldr turizm a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1669803"
-    },
-    {
-      "source": "kap",
-      "text": "usak pazar degisikligi paylar n yak n izleme pazar na al nmas sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1669802"
     }
   ],
   "research_reports_v8": {
