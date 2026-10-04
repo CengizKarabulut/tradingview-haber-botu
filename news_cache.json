@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1671673",
+      "last_seen_key": "kap:1671674",
       "seen_keys": [
+        "kap:1671674",
         "kap:1671673",
         "kap:1671672",
         "kap:1671671",
@@ -937,7 +938,7 @@
         "cnbce:https://www.cnbce.com/borsa/borsada-gozler-bu-hisselerde-gun-ortasinda-dikkat-ceken-hareketler-h38615",
         "cnbce:https://www.cnbce.com/borsa/borsanin-sanayi-sirketinden-finansman-hamlesi-spk-basvurusu-yapildi-h38612",
         "cnbce:https://www.cnbce.com/borsa/borsa-gunu-yukselisle-tamamladi-h38566",
-        "cnbce:https://www.cnbce.com/borsa/hedef-holdingden-kapa-bedelli-aciklamasi-surec-sonlandirildi-h38610",
+        "cnbce:https://www.cnbce.com/haberler/istanbulda-ulasim-bir-gunlugune-bedava-toplu-tasima-ucretsiz-olacak-h38687",
         "cnbce:https://www.cnbce.com/haberler/yatirimci-tazmin-merkezinde-ytm-yeni-duzenleme-iddiasi-spkdan-aciklama-geldi-h38674",
         "cnbce:https://www.cnbce.com/haberler/iranin-sundugu-7-sart-uygulanmadikca-hurmuz-bogazi-acilmayacak-h38671",
         "cnbce:https://www.cnbce.com/haberler/hazineden-yarin-5-ayri-ihrac-devlet-tahvili-ve-altin-bazli-araclar-satista-h38670",
@@ -961,6 +962,7 @@
         "cnbce:https://www.cnbce.com/haberler/ecbden-enflasyon-alarmi-enerji-fiyatlari-kritik-senaryoya-yaklasiyor-h38589",
         "cnbce:https://www.cnbce.com/haberler/jpmorgandan-turkiye-fon-krizi-aciklamasi-buyume-tahmininde-asagi-yonlu-risk-olustu-h38588",
         "cnbce:https://www.cnbce.com/sirket-haberleri/niketa-kriz-derinlesiyor-isten-cikarmalar-yeniden-gundemde-hisseler-cakildi-h38587",
+        "cnbce:https://www.cnbce.com/borsa/hedef-holdingden-kapa-bedelli-aciklamasi-surec-sonlandirildi-h38610",
         "cnbce:https://www.cnbce.com/haberler/fon-koordinasyon-kurulu-toplantisi-sona-erdi-odeme-takvimi-degerlendirildi-h38556",
         "cnbce:https://www.cnbce.com/borsa/astor-enerjiye-abdden-90-milyon-dolarlik-siparis-h38608",
         "cnbce:https://www.cnbce.com/haberler/koc-holding-ykb-vekili-ali-koc-iklim-konusunda-olmazsa-olmaz-donusum-surecine-girdik-h38586",
@@ -1362,18 +1364,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/musk-spacexin-adn-spacexsi-olarak-degistirecek-4089038",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/eski-anthropic-arastrmacs-nyc-konseyi-yapay-zeka-oturumunda-ifade-verecek-4089046",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/eski-anthropic-arastrmacs-nyc-konseyi-yapay-zeka-oturumunda-ifade-verecek-4089046",
+        "investing:https://tr.investing.com/news/stock-market-news/schneider-electric-abdli-yazlm-sirketi-ptcyi-20-milyar-dolara-alyor-4089044",
+        "investing:https://tr.investing.com/news/stock-market-news/delfin-monte-dei-paschideki-tum-hisselerini-intesaya-devredecek-4089043",
+        "investing:https://tr.investing.com/news/stock-market-news/akzonobel-guneydogu-asya-boya-birimini-nippon-painte-satyor-4089040",
         "investing:https://tr.investing.com/news/stock-market-news/musk-spacexin-adn-spacexsi-olarak-degistirecek-4089038",
         "investing:https://tr.investing.com/news/economy-news/trumpn-dansman-hassett-powella-fedden-ayrlma-cagrs-yapt-4089036",
         "investing:https://tr.investing.com/news/general-news/yemen-hukumeti-husi-kontrolundeki-topraklar-geri-almak-icin-operasyon-baslatt-4089032",
         "investing:https://tr.investing.com/news/general-news/yapay-zeka-temiz-enerjiyi-mi-yoksa-petrol-ve-gaz-m-hzlandryor-4089029",
         "investing:https://tr.investing.com/news/investment-ideas/turk-ambalaj-hissesi-adil-deger-cagrs-sonras-56-kazandrd-93CH-4089028",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-cemasn-45lik-dususunu-onceden-tespit-etti-93CH-4089027",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-adil-deger-modelleri-taskus-hissesinde-62-kazanc-yakalad-93CH-4089026",
-        "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-hawkeye-360n-56-dususunu-onceden-gordu-93CH-4089023",
-        "investing:https://tr.investing.com/news/economy-news/rusya-kyiv-koprusunu-ikinci-gun-vurdu-altyap-saldrlar-yogunlasyor-4089021",
-        "investing:https://tr.investing.com/news/general-news/yapay-zeka-ajanlar-cevrimici-seyahati-donusturuyor-kimler-kazanr-4089020",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1394,6 +1396,10 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-adil-deger-modelleri-taskus-hissesinde-62-kazanc-yakalad-93CH-4089026",
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-hawkeye-360n-56-dususunu-onceden-gordu-93CH-4089023",
+        "investing:https://tr.investing.com/news/economy-news/rusya-kyiv-koprusunu-ikinci-gun-vurdu-altyap-saldrlar-yogunlasyor-4089021",
+        "investing:https://tr.investing.com/news/general-news/yapay-zeka-ajanlar-cevrimici-seyahati-donusturuyor-kimler-kazanr-4089020",
         "investing:https://tr.investing.com/news/commodities-news/opec-kasm-kota-hedeflerini-sabit-tutmaya-hazrlanyor-4089017",
         "investing:https://tr.investing.com/news/economy-news/ingilterenin-abd-bulut-devlerine-bagmllg-stratejik-risk-olusturuyor-4089013",
         "investing:https://tr.investing.com/news/economy-news/guney-kore-veri-ihlallerinin-ardndan-guvenlik-kontrolu-emri-verdi-4089011",
@@ -1859,11 +1865,7 @@
         "investing:https://tr.investing.com/news/company-news/cdw-veri-ve-yapay-zeka-sirketi-lovelyticsi-satn-ald-93CH-4079850",
         "investing:https://tr.investing.com/news/sec-filings/tidewater-bndes-insaat-kredileri-icin-garanti-anlasmas-imzalad-93CH-4079849",
         "investing:https://tr.investing.com/news/sec-filings/marygold-companies-ozel-sirket-olma-anlasmas-imzalad-93CH-4079847",
-        "investing:https://tr.investing.com/news/world-news/moodys-botsvanann-kredi-notunu-baa2ye-dusurdu-gorunum-istikrarl-4079846",
-        "investing:https://tr.investing.com/news/sec-filings/marygold-companies-ozel-sermaye-sirketi-tarafndan-satn-alnacak-93CH-4079843",
-        "investing:https://tr.investing.com/news/world-news/moodys-karadagn-kredi-notunu-ba2ye-yukseltti-4079842",
-        "investing:https://tr.investing.com/news/sec-filings/marygold-companies-ozel-sirkete-donusuyor-93CH-4079839",
-        "investing:https://tr.investing.com/news/world-news/moodys-avrupa-birliginin-aaa-kredi-notunu-teyit-etti-4079840"
+        "investing:https://tr.investing.com/news/world-news/moodys-botsvanann-kredi-notunu-baa2ye-dusurdu-gorunum-istikrarl-4079846"
       ]
     },
     "ntvpara": {
@@ -1977,8 +1979,9 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/halkali-kapikule-hizli-tren-hattinin-cerkezkoy-kapikule-kesimi-aciliyor-959067.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/eylul-ayi-enflasyonu-bugun-aciklanacak-959101.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/eylul-ayi-enflasyonu-bugun-aciklanacak-959101.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/halkali-kapikule-hizli-tren-hattinin-cerkezkoy-kapikule-kesimi-aciliyor-959067.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyede-satilan-otomobillerin-yaridan-fazlasini-elektrikli-ve-hibritler-olusturdu-959062.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/spk-kredili-islemlerde-oz-kaynak-oranina-iliskin-uygulamanin-suresini-uzatti-959031.html",
@@ -2182,8 +2185,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:6f6a5f744d9e8:0",
+      "last_seen_key": "tradingview:beincrypto:29f720e63d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:29f720e63d9e8:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:beincrypto:fa3cfaa68d9e8:0",
         "tradingview:beincrypto:6f6a5f744d9e8:0",
         "tradingview:beincrypto:e5a35b0e1d9e8:0",
         "tradingview:cointelegraph:7ee429eb7d9e8:0",
@@ -2200,7 +2206,6 @@
         "tradingview:beincrypto:9898723d5d9e8:0",
         "tradingview:beincrypto:2dff81352d9e8:0",
         "tradingview:beincrypto:0c9cc4072d9e8:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:cointelegraph:b41930e0dd9e8:0",
         "tradingview:beincrypto:3c2afb70ad9e8:0",
         "tradingview:cointelegraph:7c194157bd9e8:0",
@@ -2323,6 +2328,46 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "iran n petrol bakan istifa etti sevkiyatlar bitmeden gorev b rakt",
+      "link": "https://tr.tradingview.com/news/beincrypto:29f720e63d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "openai istifa daha guvenlik lideri buyuk riskler nedeniyle ayr ld",
+      "link": "https://tr.tradingview.com/news/beincrypto:fa3cfaa68d9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "eylul ay enflasyonu bugun ac klanacak eylul ay na iliskin enflasyon rakamlar bugun ac klanacak tuketici fiyat endeksi agustos ay nda onceki aya k yasla yuzde 1 84 artarken y ll k bazda yuzde 31 51 olarak gerceklesmisti",
+      "link": "https://www.trthaber.com/haber/ekonomi/eylul-ayi-enflasyonu-bugun-aciklanacak-959101.html"
+    },
+    {
+      "source": "investing",
+      "text": "eski anthropic arast rmac s nyc konseyi yapay zeka oturumunda ifade verecek",
+      "link": "https://tr.investing.com/news/stock-market-news/eski-anthropic-arastrmacs-nyc-konseyi-yapay-zeka-oturumunda-ifade-verecek-4089046"
+    },
+    {
+      "source": "investing",
+      "text": "schneider electric 20 milyar dolarl k ptc anlasmas na yak n",
+      "link": "https://tr.investing.com/news/stock-market-news/schneider-electric-abdli-yazlm-sirketi-ptcyi-20-milyar-dolara-alyor-4089044"
+    },
+    {
+      "source": "investing",
+      "text": "delfin monte dei paschi deki tum hisselerini intesa ya devredecek",
+      "link": "https://tr.investing.com/news/stock-market-news/delfin-monte-dei-paschideki-tum-hisselerini-intesaya-devredecek-4089043"
+    },
+    {
+      "source": "investing",
+      "text": "akzonobel guneydogu asya boya birimini nippon paint e sat yor",
+      "link": "https://tr.investing.com/news/stock-market-news/akzonobel-guneydogu-asya-boya-birimini-nippon-painte-satyor-4089040"
+    },
+    {
+      "source": "kap",
+      "text": "ntr sirket genel bilgi formu sirket natura gayrimenkul girisim sermayesi portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1671674"
+    },
     {
       "source": "tradingview",
       "text": "fransa tahvil krizi japonya n n 8 ekim verileri bitcoin e yans r m",
@@ -9782,46 +9827,6 @@
       "source": "tradingview",
       "text": "aksa malatya dogalgaz uyard izinsiz kaz lar can mal guvenligini riske at yor",
       "link": "https://tr.tradingview.com/news/matriks:6778155:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "tbv eczac bas holding den genclerin gelisimine guclu destek baslang c noktas akademi 2027 baslad",
-      "link": "https://tr.tradingview.com/news/matriks:6778150:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "vodafone grubu telekomunikasyon altyap s n n iklim uyumu dayan kl l k alan ndaki etkisine dikkat ceken yeni rapor yay nlad",
-      "link": "https://tr.tradingview.com/news/matriks:6778147:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "oyak sirketleri teknofest guneydogu teknoloji uretim gucunu sergileyecek",
-      "link": "https://tr.tradingview.com/news/matriks:6778143:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "turkiye tuketicilerin 96 s beyaz esya tercihinde enerji verimliligini onemsiyor arcelik",
-      "link": "https://tr.tradingview.com/news/matriks:6778142:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "aktif bank ilk entegre raporu nu yay mlad",
-      "link": "https://tr.tradingview.com/news/matriks:6778138:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "hilton un 2027 trend arast rmas turkiye deki seyahat severlerin mukemmellik yerine iyi hissettiren deneyimlere neden yoneldigini ortaya koyuyor",
-      "link": "https://tr.tradingview.com/news/matriks:6778136:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "huawei papermatte ekran teknolojisi profesyonel uretkenlik araclar yla turkiye pazar ndaki guclu ivmesini pekistiriyor",
-      "link": "https://tr.tradingview.com/news/matriks:6778133:0"
-    },
-    {
-      "source": "investing",
-      "text": "digital realty trust rbc konferans nda yapay zeka talebi buyume gorunumunu destekliyor",
-      "link": "https://tr.investing.com/news/transcripts/digital-realty-trust-rbc-konferansnda-yapay-zeka-talebi-buyume-gorunumunu-destekliyor-93CH-4083561"
     }
   ],
   "research_reports_v8": {
@@ -10097,6 +10102,7 @@
     "ziraat": {
       "strateji_raporu": {
         "seen_keys": [
+          "096dd6e8fa755652ae801dd0049967a37d004f85",
           "936c8bccdddaf3b8d8b21bd941615b568afb73e1",
           "0143f84552b5c1f6efead92ccff1fb90c0334c17",
           "3653989fe89e3b4c79430c50295dec454a23c42f",
@@ -10109,6 +10115,7 @@
           "11e91290eb68975aa62460889db36f679e8c23f2"
         ],
         "seen_semantic_keys": [
+          "f2aa5f77d4e0a912dd61d66ce089b1187f9dad4b",
           "36e74bcccdcf4efc3c631cda2eed57c427ca668b",
           "493535e30720889cff33ffde85e64e944af19c72",
           "9a0c9644cf318bf44138616cc3d417389a3e4179",
@@ -10121,8 +10128,8 @@
           "58203e47d4f7943f1f63e59ca08dd3300639a129"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-10-04",
-        "sent_at": "2026-10-04T00:07:36.165412+03:00"
+        "last_published_date": "2026-10-05",
+        "sent_at": "2026-10-05T00:16:19.257596+03:00"
       }
     },
     "midas": {
