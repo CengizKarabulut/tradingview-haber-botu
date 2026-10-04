@@ -1361,8 +1361,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/trumpn-dansman-hassett-powella-fedden-ayrlma-cagrs-yapt-4089036",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/musk-spacexin-adn-spacexsi-olarak-degistirecek-4089038",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/musk-spacexin-adn-spacexsi-olarak-degistirecek-4089038",
         "investing:https://tr.investing.com/news/economy-news/trumpn-dansman-hassett-powella-fedden-ayrlma-cagrs-yapt-4089036",
         "investing:https://tr.investing.com/news/general-news/yemen-hukumeti-husi-kontrolundeki-topraklar-geri-almak-icin-operasyon-baslatt-4089032",
         "investing:https://tr.investing.com/news/general-news/yapay-zeka-temiz-enerjiyi-mi-yoksa-petrol-ve-gaz-m-hzlandryor-4089029",
@@ -1372,7 +1373,6 @@
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-hawkeye-360n-56-dususunu-onceden-gordu-93CH-4089023",
         "investing:https://tr.investing.com/news/economy-news/rusya-kyiv-koprusunu-ikinci-gun-vurdu-altyap-saldrlar-yogunlasyor-4089021",
         "investing:https://tr.investing.com/news/general-news/yapay-zeka-ajanlar-cevrimici-seyahati-donusturuyor-kimler-kazanr-4089020",
-        "investing:https://tr.investing.com/news/commodities-news/opec-kasm-kota-hedeflerini-sabit-tutmaya-hazrlanyor-4089017",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1393,6 +1393,7 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/commodities-news/opec-kasm-kota-hedeflerini-sabit-tutmaya-hazrlanyor-4089017",
         "investing:https://tr.investing.com/news/economy-news/ingilterenin-abd-bulut-devlerine-bagmllg-stratejik-risk-olusturuyor-4089013",
         "investing:https://tr.investing.com/news/economy-news/guney-kore-veri-ihlallerinin-ardndan-guvenlik-kontrolu-emri-verdi-4089011",
         "investing:https://tr.investing.com/news/economy-news/almanyann-merzi-135-milyar-euroluk-yardmla-kievde-4089009",
@@ -1861,8 +1862,7 @@
         "investing:https://tr.investing.com/news/sec-filings/marygold-companies-ozel-sermaye-sirketi-tarafndan-satn-alnacak-93CH-4079843",
         "investing:https://tr.investing.com/news/world-news/moodys-karadagn-kredi-notunu-ba2ye-yukseltti-4079842",
         "investing:https://tr.investing.com/news/sec-filings/marygold-companies-ozel-sirkete-donusuyor-93CH-4079839",
-        "investing:https://tr.investing.com/news/world-news/moodys-avrupa-birliginin-aaa-kredi-notunu-teyit-etti-4079840",
-        "investing:https://tr.investing.com/news/sec-filings/marygold-companies-madison-dearborn-partners-ile-ozel-sirket-oluyor-93CH-4079837"
+        "investing:https://tr.investing.com/news/world-news/moodys-avrupa-birliginin-aaa-kredi-notunu-teyit-etti-4079840"
       ]
     },
     "ntvpara": {
@@ -2321,6 +2321,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "musk spacex in ad n spacexsi olarak degistirecek",
+      "link": "https://tr.investing.com/news/stock-market-news/musk-spacexin-adn-spacexsi-olarak-degistirecek-4089038"
+    },
     {
       "source": "tradingview",
       "text": "bitcoin ekim baslarken grafiklere yans yabilecek 4 sorun",
@@ -9815,11 +9820,6 @@
       "source": "investing",
       "text": "alliance entertainment lytham partners ta fiziksel medya yapay zeka buyumeyi destekliyor",
       "link": "https://tr.investing.com/news/transcripts/alliance-entertainment-lytham-partnersta-fiziksel-medya-ve-yapay-zeka-buyumeyi-destekliyor-93CH-4083560"
-    },
-    {
-      "source": "investing",
-      "text": "pyxis oncology hissesi halka arz ac klamas yla dustu",
-      "link": "https://tr.investing.com/news/stock-market-news/pyxis-oncology-hissesi-halka-arz-acklamasyla-dustu-4083557"
     }
   ],
   "research_reports_v8": {
