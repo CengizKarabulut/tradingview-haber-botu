@@ -1350,8 +1350,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/openai-guvenlik-calsan-istifa-etti-sirketin-yaklasmn-elestirdi-4088993",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/flydubai-yardmc-pilotu-radikal-gorusler-nedeniyle-isten-atlms-4088994",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/flydubai-yardmc-pilotu-radikal-gorusler-nedeniyle-isten-atlms-4088994",
         "investing:https://tr.investing.com/news/company-news/openai-guvenlik-calsan-istifa-etti-sirketin-yaklasmn-elestirdi-4088993",
         "investing:https://tr.investing.com/news/economy-news/beyaz-saray-yapay-zeka-gorev-gucu-kurdu--wsj-4088990",
         "investing:https://tr.investing.com/news/stock-market-news/muse-openai-dotsa-kars-nasl-bir-performans-sergiliyor-4088988",
@@ -1361,7 +1362,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-yatrmnn-alslmadk-derecede-buyuk-carpan-etkileri-4088981",
         "investing:https://tr.investing.com/news/forex-news/iran-riyali-2-milyar-dolarlk-mudahaleye-ragmen-dususte-4088980",
         "investing:https://tr.investing.com/news/company-news/genmab-yumurtalk-kanseri-ilac-aday-icin-deneme-sonuclarn-acklad-93CH-4088976",
-        "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1382,6 +1382,7 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
         "investing:https://tr.investing.com/news/stock-market-news/turkiye-teminat-oran-indirimini-30-ekime-kadar-uzatt-93CH-4088973",
         "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972",
         "investing:https://tr.investing.com/news/stock-market-news/abdnin-vistraya-nukleer-enerji-icin-42-milyar-dolar-kredi-verecegi-bildiriliyor-4088969",
@@ -1850,13 +1851,13 @@
         "investing:https://tr.investing.com/news/analyst-ratings/costco-hisse-hedef-fiyat-degerleme-nedeniyle-1010-dolara-dusuruldu-93CH-4079695",
         "investing:https://tr.investing.com/news/company-news/canopy-growth-hissedar-toplantsn-yeterli-katlm-olmadg-icin-erteledi-93CH-4079694",
         "investing:https://tr.investing.com/news/economy-news/putin-ukrayna-uzlasma-onerilerinin-incelenmekte-oldugunu-soyledi-93CH-4079692",
-        "investing:https://tr.investing.com/news/stock-market-news/haftann-hisse-senetleri-4079693",
-        "investing:https://tr.investing.com/news/company-news/zentra-manchester-projesinde-yeni-yuklenici-ile-anlast-93CH-4079503"
+        "investing:https://tr.investing.com/news/stock-market-news/haftann-hisse-senetleri-4079693"
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/kredili-sermaye-piyasasi-islemlerinde-ozkaynak-orani-uygulamasi-uzatildi-1744659",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/tokinin-yuzde-25-indirim-kampanyasinda-son-15-gun-1744694",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/tokinin-yuzde-25-indirim-kampanyasinda-son-15-gun-1744694",
         "ntvpara:https://www.ntv.com.tr/ntvpara/kredili-sermaye-piyasasi-islemlerinde-ozkaynak-orani-uygulamasi-uzatildi-1744659",
         "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-dusuk-kira-odeyenlere-kotu-haber-5-yil-hesabi-degisti-1744626",
         "ntvpara:https://www.ntv.com.tr/ntvpara/netflix-abonelik-fiyatlarina-zam-yapti-iste-yeni-fiyatlar-1744614",
@@ -2293,6 +2294,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "toki nin yuzde 25 indirim kampanyas nda 15 gun toki nin geri odemeleri devam eden konut is yerleri duzenledigi yuzde 25 indirim kampanyas 19 ekim e kadar devam edecek",
+      "link": "https://www.ntv.com.tr/ntvpara/tokinin-yuzde-25-indirim-kampanyasinda-son-15-gun-1744694"
+    },
+    {
+      "source": "investing",
+      "text": "flydubai yard mc pilotu radikal gorusler nedeniyle isten at lm s",
+      "link": "https://tr.investing.com/news/company-news/flydubai-yardmc-pilotu-radikal-gorusler-nedeniyle-isten-atlms-4088994"
+    },
     {
       "source": "investing",
       "text": "openai guvenlik cal san istifa etti sirketin yaklas m n elestirdi",
@@ -9782,16 +9793,6 @@
       "source": "kap",
       "text": "usak pazar degisikligi paylar n yak n izleme pazar na al nmas sirket borsa istanbul a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1669802"
-    },
-    {
-      "source": "kap",
-      "text": "krvgd paylar n geri al nmas na iliskin bildirim 29 09 2026 tarihli pay geri al m islemleri sirket kervan gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1669801"
-    },
-    {
-      "source": "kap",
-      "text": "dagi paylar n geri al nmas na iliskin bildirim 29 eylul 2026 tarihli pay geri al m islemleri sirket dagi giyim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1669800"
     }
   ],
   "research_reports_v8": {
