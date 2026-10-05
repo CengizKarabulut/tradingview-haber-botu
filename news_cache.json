@@ -1365,8 +1365,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/adobe-hissesi-yeni-liderlige-dair-5-stratejik-soru-4089054",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/zayf-istihdam-verisi-fedin-faiz-artrm-beklentilerini-azaltt-4089058",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/zayf-istihdam-verisi-fedin-faiz-artrm-beklentilerini-azaltt-4089058",
         "investing:https://tr.investing.com/news/stock-market-news/adobe-hissesi-yeni-liderlige-dair-5-stratejik-soru-4089054",
         "investing:https://tr.investing.com/news/company-news/vaxcyte-as-aday-icin-faz-3-deneme-verilerini-sunacak-93CH-4089048",
         "investing:https://tr.investing.com/news/stock-market-news/eski-anthropic-arastrmacs-nyc-konseyi-yapay-zeka-oturumunda-ifade-verecek-4089046",
@@ -1376,7 +1377,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/musk-spacexin-adn-spacexsi-olarak-degistirecek-4089038",
         "investing:https://tr.investing.com/news/economy-news/trumpn-dansman-hassett-powella-fedden-ayrlma-cagrs-yapt-4089036",
         "investing:https://tr.investing.com/news/general-news/yemen-hukumeti-husi-kontrolundeki-topraklar-geri-almak-icin-operasyon-baslatt-4089032",
-        "investing:https://tr.investing.com/news/general-news/yapay-zeka-temiz-enerjiyi-mi-yoksa-petrol-ve-gaz-m-hzlandryor-4089029",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1397,6 +1397,7 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/general-news/yapay-zeka-temiz-enerjiyi-mi-yoksa-petrol-ve-gaz-m-hzlandryor-4089029",
         "investing:https://tr.investing.com/news/investment-ideas/turk-ambalaj-hissesi-adil-deger-cagrs-sonras-56-kazandrd-93CH-4089028",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-cemasn-45lik-dususunu-onceden-tespit-etti-93CH-4089027",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-adil-deger-modelleri-taskus-hissesinde-62-kazanc-yakalad-93CH-4089026",
@@ -1865,8 +1866,7 @@
         "investing:https://tr.investing.com/news/company-news/kodiak-sciences-pazartesi-gunu-faz-3-deneme-sonuclarn-acklayacak-93CH-4079853",
         "investing:https://tr.investing.com/news/sec-filings/marygold-companies-madison-dearborn-partners-ile-ozel-sirkete-donusuyor-93CH-4079852",
         "investing:https://tr.investing.com/news/insider-trading-news/ibotta-ctosu-luke-swanson-661216-dolar-degerinde-ibta-hissesi-satt-93CH-4079851",
-        "investing:https://tr.investing.com/news/company-news/cdw-veri-ve-yapay-zeka-sirketi-lovelyticsi-satn-ald-93CH-4079850",
-        "investing:https://tr.investing.com/news/sec-filings/tidewater-bndes-insaat-kredileri-icin-garanti-anlasmas-imzalad-93CH-4079849"
+        "investing:https://tr.investing.com/news/company-news/cdw-veri-ve-yapay-zeka-sirketi-lovelyticsi-satn-ald-93CH-4079850"
       ]
     },
     "ntvpara": {
@@ -2186,8 +2186,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:272cc8d26d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:35c945308d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:35c945308d9e8:0",
+        "tradingview:fxstreet:a2e675df5d9e8:0",
+        "tradingview:fxstreet:5abcc7613d9e8:0",
+        "tradingview:fxstreet:486c06414d9e8:0",
         "tradingview:beincrypto:272cc8d26d9e8:0",
         "tradingview:beincrypto:7121fc735d9e8:0",
         "tradingview:beincrypto:d9650b58ed9e8:0",
@@ -2332,6 +2336,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "rusya ukrayna ya yonelik sald r lar art rma sozu verdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:35c945308d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "opec kas m ay petrol uretim politikas n degistirmemeyi kabul etti",
+      "link": "https://tr.tradingview.com/news/fxstreet:a2e675df5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar zay f abd istihdam verileriyle 0 6950 nin uzerine yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5abcc7613d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "orta dogu savas guncellemeleri iran abd savas sona erdirmek yap lan gorusmelerin ana odag n n hurmuz bogaz oldugunu soyluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:486c06414d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "zay f istihdam verisi fed in faiz art r m beklentilerini azaltt",
+      "link": "https://tr.investing.com/news/stock-market-news/zayf-istihdam-verisi-fedin-faiz-artrm-beklentilerini-azaltt-4089058"
+    },
     {
       "source": "tradingview",
       "text": "musk tan spacexai ye yeni isim yapay zeka markas sadece ceyrek dayand",
@@ -9806,31 +9835,6 @@
       "source": "tradingview",
       "text": "euro s k lasmac fed gorunumunun bask yapmas yla uc ayl k dip seviyeye geriledi",
       "link": "https://tr.tradingview.com/news/fxstreet:c665fd829d9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "dorce musiad expo 2026 moduler yap cozumlerini tan tt",
-      "link": "https://tr.tradingview.com/news/matriks:6778198:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "segway c2 lite yeni egitim doneminde cocuklar n yeni yol arkadas",
-      "link": "https://tr.tradingview.com/news/matriks:6778193:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "enerjisa enerji finans baskan philipp ralph ulbrich in 1 kas m itibar yla gorevinden ayr lacag n ac klad kap",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N45L1R8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "pagev in deniz at klar yla mucadele cal smalar na cevre odulu",
-      "link": "https://tr.tradingview.com/news/matriks:6778192:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "candela concert ekim ay nda beyoglu sahne birbirinden ozel sanatc lar sahne performanslar n araya getiriyor",
-      "link": "https://tr.tradingview.com/news/matriks:6778184:0"
     }
   ],
   "research_reports_v8": {
