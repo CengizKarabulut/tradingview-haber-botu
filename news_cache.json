@@ -1365,8 +1365,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/zayf-istihdam-verisi-fedin-faiz-artrm-beklentilerini-azaltt-4089058",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/csl-nadir-hastalk-ilac-icin-16-milyar-dolar-odeyecek-4089062",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/csl-nadir-hastalk-ilac-icin-16-milyar-dolar-odeyecek-4089062",
+        "investing:https://tr.investing.com/news/economic-indicators/japonya-hizmet-pmi-eylulde-beklentileri-karslamad-4089061",
         "investing:https://tr.investing.com/news/stock-market-news/zayf-istihdam-verisi-fedin-faiz-artrm-beklentilerini-azaltt-4089058",
         "investing:https://tr.investing.com/news/stock-market-news/adobe-hissesi-yeni-liderlige-dair-5-stratejik-soru-4089054",
         "investing:https://tr.investing.com/news/company-news/vaxcyte-as-aday-icin-faz-3-deneme-verilerini-sunacak-93CH-4089048",
@@ -1375,8 +1377,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/delfin-monte-dei-paschideki-tum-hisselerini-intesaya-devredecek-4089043",
         "investing:https://tr.investing.com/news/stock-market-news/akzonobel-guneydogu-asya-boya-birimini-nippon-painte-satyor-4089040",
         "investing:https://tr.investing.com/news/stock-market-news/musk-spacexin-adn-spacexsi-olarak-degistirecek-4089038",
-        "investing:https://tr.investing.com/news/economy-news/trumpn-dansman-hassett-powella-fedden-ayrlma-cagrs-yapt-4089036",
-        "investing:https://tr.investing.com/news/general-news/yemen-hukumeti-husi-kontrolundeki-topraklar-geri-almak-icin-operasyon-baslatt-4089032",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1397,6 +1397,8 @@
         "investing:https://tr.investing.com/analysis/yapay-zeka-bisti-yendi-mi-portfoy-analizi-200506086",
         "investing:https://tr.investing.com/analysis/eylul-aynda-bu-hisselere-dikkat-200506042",
         "investing:https://tr.investing.com/analysis/turk-dunyasnn-devleri-ortak-bir-sermaye-piyasasnda-bulussa-ne-olur-200506023",
+        "investing:https://tr.investing.com/news/economy-news/trumpn-dansman-hassett-powella-fedden-ayrlma-cagrs-yapt-4089036",
+        "investing:https://tr.investing.com/news/general-news/yemen-hukumeti-husi-kontrolundeki-topraklar-geri-almak-icin-operasyon-baslatt-4089032",
         "investing:https://tr.investing.com/news/general-news/yapay-zeka-temiz-enerjiyi-mi-yoksa-petrol-ve-gaz-m-hzlandryor-4089029",
         "investing:https://tr.investing.com/news/investment-ideas/turk-ambalaj-hissesi-adil-deger-cagrs-sonras-56-kazandrd-93CH-4089028",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-cemasn-45lik-dususunu-onceden-tespit-etti-93CH-4089027",
@@ -1864,9 +1866,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/klaviyo-yoneticisi-ed-hallen-22126-dolarlk-hisse-satt-93CH-4079856",
         "investing:https://tr.investing.com/news/insider-trading-news/qualcomm-ceosu-amon-2-milyon-dolarlk-hisse-satt-93CH-4079855",
         "investing:https://tr.investing.com/news/company-news/kodiak-sciences-pazartesi-gunu-faz-3-deneme-sonuclarn-acklayacak-93CH-4079853",
-        "investing:https://tr.investing.com/news/sec-filings/marygold-companies-madison-dearborn-partners-ile-ozel-sirkete-donusuyor-93CH-4079852",
-        "investing:https://tr.investing.com/news/insider-trading-news/ibotta-ctosu-luke-swanson-661216-dolar-degerinde-ibta-hissesi-satt-93CH-4079851",
-        "investing:https://tr.investing.com/news/company-news/cdw-veri-ve-yapay-zeka-sirketi-lovelyticsi-satn-ald-93CH-4079850"
+        "investing:https://tr.investing.com/news/sec-filings/marygold-companies-madison-dearborn-partners-ile-ozel-sirkete-donusuyor-93CH-4079852"
       ]
     },
     "ntvpara": {
@@ -2186,10 +2186,13 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:35c945308d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:15df1db1ad9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:15df1db1ad9e8:0",
+        "tradingview:cointelegraph:e8063fc0bd9e8:0",
         "tradingview:fxstreet:35c945308d9e8:0",
         "tradingview:fxstreet:a2e675df5d9e8:0",
+        "tradingview:beincrypto:c96371bfad9e8:0",
         "tradingview:fxstreet:5abcc7613d9e8:0",
         "tradingview:fxstreet:486c06414d9e8:0",
         "tradingview:beincrypto:272cc8d26d9e8:0",
@@ -2336,6 +2339,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro fransa n n mali riski nedeniyle 1 1250 nin alt na geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:15df1db1ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "zcash kripto politikas n desteklemek washington lobici buldu",
+      "link": "https://tr.tradingview.com/news/cointelegraph:e8063fc0bd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "csl nadir hastal k ilac 1 6 milyar dolar odeyecek",
+      "link": "https://tr.investing.com/news/stock-market-news/csl-nadir-hastalk-ilac-icin-16-milyar-dolar-odeyecek-4089062"
+    },
+    {
+      "source": "investing",
+      "text": "japonya hizmet pmi eylul beklentileri kars lamad",
+      "link": "https://tr.investing.com/news/economic-indicators/japonya-hizmet-pmi-eylulde-beklentileri-karslamad-4089061"
+    },
     {
       "source": "tradingview",
       "text": "rusya ukrayna ya yonelik sald r lar art rma sozu verdi",
@@ -9815,26 +9838,6 @@
       "source": "tradingview",
       "text": "boe den taylor uzun sureli enerji sokunun faiz art r mlar gerekceyi pekistirebilecegini soyluyor",
       "link": "https://tr.tradingview.com/news/fxstreet:a750672c9d9e8:0"
-    },
-    {
-      "source": "bloomberght",
-      "text": "trump iran sonunda pes edecek abd baskan donald trump iran n sonunda pes edecegini savunurken hurmuz bogaz ndan gunlerde tarihin herhangi doneminden daha fazla petrol gecisi saglad klar n one surdu",
-      "link": "https://www.bloomberght.com/trump-iran-sonunda-pes-edecek-3789768"
-    },
-    {
-      "source": "tradingview",
-      "text": "usak seramik konkordato talebinde bulundu",
-      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N45L1RK:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "alt n fed gorunumu orta dogu risklerini degerlendiren yat r mc larla sert dususun ard ndan stabil seyrediyor",
-      "link": "https://tr.tradingview.com/news/fxstreet:3fd61975ed9e8:0"
-    },
-    {
-      "source": "tradingview",
-      "text": "euro s k lasmac fed gorunumunun bask yapmas yla uc ayl k dip seviyeye geriledi",
-      "link": "https://tr.tradingview.com/news/fxstreet:c665fd829d9e8:0"
     }
   ],
   "research_reports_v8": {
