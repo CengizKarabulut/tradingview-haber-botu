@@ -2,8 +2,9 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1673961",
+      "last_seen_key": "kap:1673962",
       "seen_keys": [
+        "kap:1673962",
         "kap:1673961",
         "kap:1673960",
         "kap:1673959",
@@ -2189,8 +2190,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:f2ac40c74d9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:cdcd9f147d9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:cdcd9f147d9e8:0",
         "tradingview:fxstreet:f2ac40c74d9e8:0",
         "tradingview:fxstreet:5840719fad9e8:0",
         "tradingview:fxstreet:dc924f4d3d9e8:0",
@@ -2304,6 +2306,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "securitize hisseleri guney kore nin tokenizasyon hamlesiyle yuzde 8 yukseldi",
+      "link": "https://tr.tradingview.com/news/cointelegraph:cdcd9f147d9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "beyaz ozel durum ac klamas genel fortune dergisi en buyuk 500 sirket listesi beyaz filo derecesi hakk nda sirket beyaz filo oto kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1673962"
+    },
     {
       "source": "investing",
       "text": "fed in daly si gelecek faiz art slar ekonominin soklara tepkisine bagl",
@@ -9793,16 +9805,6 @@
       "source": "investing",
       "text": "costco nun k demli baskan yard mc s 733 328 dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/costconun-kdemli-baskan-yardmcs-733328-dolarlk-hisse-satt-93CH-4085511"
-    },
-    {
-      "source": "investing",
-      "text": "kingsway yoneticisi joshua horowitz 33 121 dolar hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/kingsway-yoneticisi-joshua-horowitz-33121-dolar-hisse-ald-93CH-4085510"
-    },
-    {
-      "source": "investing",
-      "text": "trupanion coo su john gallagher 9 878 dolarl k hisse satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/trupanion-coosu-john-gallagher-9878-dolarlk-hisse-satt-93CH-4085509"
     }
   ],
   "research_reports_v8": {
