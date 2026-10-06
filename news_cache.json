@@ -310,8 +310,10 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/bassavciliktan-tera-daki-14-milyar-lira-iddiasina-iliskin-aciklama-3790550",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-07102026-3790552",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-07102026-3790552",
+        "bloomberght:https://www.bloomberght.com/kara-para-aklama-ve-terorun-finansmaniyla-mucadelede-sinirlar-degisti-3790551",
         "bloomberght:https://www.bloomberght.com/bassavciliktan-tera-daki-14-milyar-lira-iddiasina-iliskin-aciklama-3790550",
         "bloomberght:https://www.bloomberght.com/trump-ara-secimlerde-cok-basarili-olacagiz-3790549",
         "bloomberght:https://www.bloomberght.com/uber-2-3-milyar-dolar-harcayarak-catering-isine-giriyor-3790547",
@@ -809,9 +811,7 @@
         "bloomberght:https://www.bloomberght.com/motorinde-yeniden-zam-3789398",
         "bloomberght:https://www.bloomberght.com/abd-ve-iran-hurmuz-bogazi-icin-asamali-anlasmayi-gorusuyor-3789396",
         "bloomberght:https://www.bloomberght.com/altin-guclu-dolar-ve-yuksek-faiz-beklentileriyle-haftalik-kayba-yoneldi-3789395",
-        "bloomberght:https://www.bloomberght.com/petrol-ateskes-ihtimali-ve-suudi-arabistan-saldirilari-arasinda-geriledi-3789394",
-        "bloomberght:https://www.bloomberght.com/trump-cin-le-iliskilerimiz-hic-bu-kadar-iyi-olmamisti-3789393",
-        "bloomberght:https://www.bloomberght.com/pezeskiyan-abd-ile-anlasmaya-istekli-olduklarini-soyledi-3789392"
+        "bloomberght:https://www.bloomberght.com/petrol-ateskes-ihtimali-ve-suudi-arabistan-saldirilari-arasinda-geriledi-3789394"
       ]
     },
     "cnbce": {
@@ -2341,6 +2341,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 07 10 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-07102026-3790552"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kara para aklama terorun finansman yla mucadelede s n rlar degisti kara para aklama terorun finansman yla mucadele kapsam nda kimlik tespitine iliskin parasal s n rlar yukseltilirken finansal kuruluslar n internet mobil kanallarda kulland g musteri dogrulama yontemlerine yonelik yeni guvenlik sartl",
+      "link": "https://www.bloomberght.com/kara-para-aklama-ve-terorun-finansmaniyla-mucadelede-sinirlar-degisti-3790551"
+    },
     {
       "source": "tradingview",
       "text": "sterlin tahvil getirilerinin gevsemesiyle aral g n n zirvesine geri t rman yor",
@@ -9830,16 +9840,6 @@
       "source": "kap",
       "text": "tgsas pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
       "link": "https://www.kap.org.tr/tr/Bildirim/1670594"
-    },
-    {
-      "source": "kap",
-      "text": "meten pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1670592"
-    },
-    {
-      "source": "kap",
-      "text": "flap pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1670587"
     }
   ],
   "research_reports_v8": {
