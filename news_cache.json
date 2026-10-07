@@ -1326,8 +1326,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/lifeway-foodsun-10-hissesine-sahip-divisadero-217-milyon-dolarlk-hisse-ald-93CH-4092758",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/vance-iran-savas-bitirmek-icin-nukleer-zenginlestirme-kapasitesini-dusurmeli-4092761",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/vance-iran-savas-bitirmek-icin-nukleer-zenginlestirme-kapasitesini-dusurmeli-4092761",
+        "investing:https://tr.investing.com/news/insider-trading-news/meiragtx-bilim-direktoru-294291-dolarlk-hisse-satt-93CH-4092759",
         "investing:https://tr.investing.com/news/insider-trading-news/lifeway-foodsun-10-hissesine-sahip-divisadero-217-milyon-dolarlk-hisse-ald-93CH-4092758",
         "investing:https://tr.investing.com/news/commodities-news/altn-petrol-aks-duzelirken-kazanclarn-koruyor-4092757",
         "investing:https://tr.investing.com/news/insider-trading-news/ambiq-micro-cfosu-jeffrey-winzeler-379644-dolar-hisse-satt-93CH-4092755",
@@ -1336,8 +1338,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/dicker-data-hissesi-bugun-neden-yukseliste-93CH-4092752",
         "investing:https://tr.investing.com/news/insider-trading-news/crowdstrike-ceosu-george-kurtz-54-milyon-dolarlk-hisse-satt-93CH-4092751",
         "investing:https://tr.investing.com/news/economic-indicators/japonyada-reel-ucretler-agustosta-15-artt-sekizinci-ay-4092750",
-        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-teradyne-hissesi-satt-veracyte-ald-93CH-4092748",
-        "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-orta-dogu-arz-endiseleriyle-yukseldi-4092747",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1358,6 +1358,8 @@
         "investing:https://tr.investing.com/analysis/2-ayda-43-getiren-temettu-portfoyu-investing-pro-200506165",
         "investing:https://tr.investing.com/analysis/borsada-2-ayda-41-kazanc-investing-pro-200506134",
         "investing:https://tr.investing.com/analysis/tera-grubundan-pusula-finans-hamlesi-finansal-ekosistem-genisliyor-200506104",
+        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-teradyne-hissesi-satt-veracyte-ald-93CH-4092748",
+        "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-orta-dogu-arz-endiseleriyle-yukseldi-4092747",
         "investing:https://tr.investing.com/news/insider-trading-news/vishay-intertechnology-yoneticisi-raanan-zilberman-593696-dolar-degerinde-hisse-satt-93CH-4092702",
         "investing:https://tr.investing.com/news/stock-market-news/black-hills-hisseleri-google-veri-merkezi-anlasmasyla-5-yukseldi-4092701",
         "investing:https://tr.investing.com/news/stock-market-news/mahkeme-karar-sonras-sigma-lithium-hisseleri-yukseldi-4092697",
@@ -1825,9 +1827,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/fair-isaac-hissesi-bugun-neden-dusuyor-93CH-4081856",
         "investing:https://tr.investing.com/news/insider-trading-news/ziprecruiter-evp-sakamoto-10395-dolarlk-hisse-satt-93CH-4081855",
         "investing:https://tr.investing.com/news/company-news/atlasclear-iceriden-hisse-almlar-815000-adet-icin-162500-dolar-93CH-4081852",
-        "investing:https://tr.investing.com/news/transcripts/artemis-gold-madencilik-forumunda-buyume-ve-temettu-plann-acklad-93CH-4081851",
-        "investing:https://tr.investing.com/news/transcripts/kenmare-resources-madencilik-forumunda-uzun-omurlu-maden-zayf-fiyatlar-93CH-4081850",
-        "investing:https://tr.investing.com/news/analyst-ratings/clear-street-q32-bio-hissesine-ilac-potansiyeli-nedeniyle-al-onerisi-verdi-93CH-4081849"
+        "investing:https://tr.investing.com/news/transcripts/artemis-gold-madencilik-forumunda-buyume-ve-temettu-plann-acklad-93CH-4081851"
       ]
     },
     "ntvpara": {
@@ -2365,6 +2365,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "vance iran savas bitirmek nukleer zenginlestirme kapasitesini dusurmeli",
+      "link": "https://tr.investing.com/news/economy-news/vance-iran-savas-bitirmek-icin-nukleer-zenginlestirme-kapasitesini-dusurmeli-4092761"
+    },
+    {
+      "source": "investing",
+      "text": "meiragtx bilim direktoru 294 291 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/meiragtx-bilim-direktoru-294291-dolarlk-hisse-satt-93CH-4092759"
+    },
     {
       "source": "tradingview",
       "text": "wti ham petrol fiyat orta dogu daki arz tehditlerinin basra korfezi toparlanmas n dengelemesiyle 89 50 a yak n yukseldi",
@@ -9854,16 +9864,6 @@
       "source": "kap",
       "text": "hdfyb hyb pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfhybae2617 isin kodlu finansman bonosu kupon odemesi itfas sirket hedef yatirim bankasi a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1670616"
-    },
-    {
-      "source": "kap",
-      "text": "klkim finansal duran varl k sat s finansal duran varl k sat s irak sirket kalekim kimyevi maddeler sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1670615"
-    },
-    {
-      "source": "kap",
-      "text": "asels yeni is iliskisi sozlesme imzalanmas sirket aselsan elektronik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1670614"
     }
   ],
   "research_reports_v8": {
