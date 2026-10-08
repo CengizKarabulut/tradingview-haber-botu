@@ -1321,8 +1321,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/axion-minerals-390000-dolarlk-ozel-yerlestirmeyi-kapatt-93CH-4094720",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-sabit-seyretti-4094722",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-sabit-seyretti-4094722",
         "investing:https://tr.investing.com/news/company-news/axion-minerals-390000-dolarlk-ozel-yerlestirmeyi-kapatt-93CH-4094720",
         "investing:https://tr.investing.com/news/stock-market-news/lg-energy-solution-hisseleri-neden-yukseliste-93CH-4094718",
         "investing:https://tr.investing.com/news/insider-trading-news/billiontoone-ctosu-david-tsao-216-milyon-dolarlk-hisse-satt-93CH-4094717",
@@ -1332,7 +1333,6 @@
         "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-robinhood-hissesi-satt-coreweave-ve-kratos-ald-93CH-4094709",
         "investing:https://tr.investing.com/news/company-news/live-nation-730-milyon-dolarlk-ve-600-milyon-euroluk-tahvil-ihrac-etti-93CH-4094708",
         "investing:https://tr.investing.com/news/insider-trading-news/yonetim-kurulu-uyesi-hershberg-125-bin-dolarlk-hisse-satt-93CH-4094705",
-        "investing:https://tr.investing.com/news/insider-trading-news/pacs-group-ceosu-jason-hulse-158-milyon-dolarlk-hisse-satt-93CH-4094704",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -1353,6 +1353,7 @@
         "investing:https://tr.investing.com/analysis/2-ayda-43-getiren-temettu-portfoyu-investing-pro-200506165",
         "investing:https://tr.investing.com/analysis/borsada-2-ayda-41-kazanc-investing-pro-200506134",
         "investing:https://tr.investing.com/analysis/tera-grubundan-pusula-finans-hamlesi-finansal-ekosistem-genisliyor-200506104",
+        "investing:https://tr.investing.com/news/insider-trading-news/pacs-group-ceosu-jason-hulse-158-milyon-dolarlk-hisse-satt-93CH-4094704",
         "investing:https://tr.investing.com/news/transcripts/applied-digitalin-hisse-senedi-toparland-tahminleri-ast-93CH-4094673",
         "investing:https://tr.investing.com/news/insider-trading-news/hayward-holdings-ceosu-kevin-holleran-620045-dolar-degerinde-hisse-satt-93CH-4094672",
         "investing:https://tr.investing.com/news/insider-trading-news/generac-home-baskan-taffe-119184-dolar-degerinde-hisse-satt-93CH-4094671",
@@ -1821,8 +1822,7 @@
         "investing:https://tr.investing.com/news/stock-market-news/plug-power-hissesi-bugun-neden-yukseliyor-93CH-4083288",
         "investing:https://tr.investing.com/news/company-news/rm-plc-tts-isini-535-milyon-sterline-kadar-satt-93CH-4083285",
         "investing:https://tr.investing.com/news/stock-market-news/hapaglloyd-hissesi-bugun-neden-yukseliyor-93CH-4082227",
-        "investing:https://tr.investing.com/news/forex-news/sterlin-bugun-petrol-kaynakl-dolar-talebi-artarken-sterlin-geriledi-4082228",
-        "investing:https://tr.investing.com/news/stock-market-news/astrazeneca-hisseleri-neden-yukseliste-93CH-4082223"
+        "investing:https://tr.investing.com/news/forex-news/sterlin-bugun-petrol-kaynakl-dolar-talebi-artarken-sterlin-geriledi-4082228"
       ]
     },
     "ntvpara": {
@@ -2215,8 +2215,37 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:64efa667fd9e8:0",
+      "last_seen_key": "tradingview:beincrypto:c828b93f2d9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:c828b93f2d9e8:0",
+        "tradingview:beincrypto:b1d453ebad9e8:0",
+        "tradingview:cointelegraph:39abb9dbbd9e8:0",
+        "tradingview:fxstreet:33602c107d9e8:0",
+        "tradingview:fxstreet:4efd86e45d9e8:0",
+        "tradingview:fxstreet:c0903585dd9e8:0",
+        "tradingview:fxstreet:7a63ddc4fd9e8:0",
+        "tradingview:fxstreet:4b93742bbd9e8:0",
+        "tradingview:fxstreet:3636aa5f9d9e8:0",
+        "tradingview:fxstreet:a7a8ddd87d9e8:0",
+        "tradingview:fxstreet:b77050df3d9e8:0",
+        "tradingview:fxstreet:439210266d9e8:0",
+        "tradingview:fxstreet:65d754a13d9e8:0",
+        "tradingview:fxstreet:6f0ea3102d9e8:0",
+        "tradingview:beincrypto:c00924586d9e8:0",
+        "tradingview:fxstreet:70d197d14d9e8:0",
+        "tradingview:fxstreet:73d247f76d9e8:0",
+        "tradingview:fxstreet:eea3baf88d9e8:0",
+        "tradingview:fxstreet:6e4025191d9e8:0",
+        "tradingview:fxstreet:f0c156614d9e8:0",
+        "tradingview:beincrypto:ef2093e8bd9e8:0",
+        "tradingview:fxstreet:acd429e24d9e8:0",
+        "tradingview:beincrypto:2a60be16ed9e8:0",
+        "tradingview:beincrypto:3cc6f717fd9e8:0",
+        "tradingview:cointelegraph:e65563c07d9e8:0",
+        "tradingview:beincrypto:5edccbde8d9e8:0",
+        "tradingview:fxstreet:566eaf73fd9e8:0",
+        "tradingview:fxstreet:bc4761d97d9e8:0",
+        "tradingview:beincrypto:f85155c0ad9e8:0",
         "tradingview:fxstreet:64efa667fd9e8:0",
         "tradingview:fxstreet:30dc2dc8dd9e8:0",
         "tradingview:fxstreet:60d315c46d9e8:0",
@@ -2471,6 +2500,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "phemex card kripto dan gunluk harcamaya kopru",
+      "link": "https://tr.tradingview.com/news/beincrypto:c828b93f2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "trump hesaplar abd borsas nda 10 y ll k super dongu baslar m",
+      "link": "https://tr.tradingview.com/news/beincrypto:b1d453ebad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vitalik buterin yapay zekada matematik alan ndaki h zl ilerlemeler surerken kripto s g nak modu nu destekliyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:39abb9dbbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya tuketici enflasyon beklentisi ekim 4 9 seviyesinden 5 3 seviyesine yukselis gosterdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:33602c107d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya ticaret dengesi bop tabanli agustos 399 9b seviyesinden 687 7b seviyesine gerileme gosterdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:4efd86e45d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya cari islemler dengesi n s a agustos 3194 6b beklentisi uzerinde 4062b seviyesinde ac kland",
+      "link": "https://tr.tradingview.com/news/fxstreet:c0903585dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya japonya hisse senetlerine yabanc yat r m ekim 2 362b seviyesinden 2191 9b seviyesine artt",
+      "link": "https://tr.tradingview.com/news/fxstreet:7a63ddc4fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "japonya yabanc tahvil yat r mlar 347 6b ekim 2 beklenti 684 5b",
+      "link": "https://tr.tradingview.com/news/fxstreet:4b93742bbd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "pentagon trump zamanlamay degerlendirirken olas iran sald r lar haz rl k emri verdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:3636aa5f9d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n guclenen abd dolar 4 100 dolar civar nda iki ayl k dip seviyeye geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:a7a8ddd87d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "yen japonya ucretleri tahmini asmas n n ard ndan geri dondu",
+      "link": "https://tr.tradingview.com/news/fxstreet:b77050df3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney kore cari islemler dengesi agustos 42 08b seviyesinden 46 11b seviyesine yukselis gosterdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:439210266d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "birlesik krallik rics konut fiyatlari endeksi eylul 32 seviyesinde ac klanarak 30 beklentisinin alt nda kald",
+      "link": "https://tr.tradingview.com/news/fxstreet:65d754a13d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar fed faiz art r m beklentileri orta dogu petrol riskleriyle kars las nca geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:6f0ea3102d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "webull 20 dusus kontrol kimde cin baglant s",
+      "link": "https://tr.tradingview.com/news/beincrypto:c00924586d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "colombia consumer price index mom eylul 0 4 beklentisinin alt nda kald eylul gerceklesen 0 37",
+      "link": "https://tr.tradingview.com/news/fxstreet:70d197d14d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "colombia consumer price index yoy eylul 6 32 beklentisinin alt nda kald eylul gerceklesen 6 29",
+      "link": "https://tr.tradingview.com/news/fxstreet:73d247f76d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro frans z tahvilleri yeniden sat s bask s alt nda kal rken kaydettigi yukselisi geri veriyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:eea3baf88d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "sterlin tahvil sat s dalgas yeniden baslad kca aral g n n alt s n r na geri kay yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:6e4025191d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "meksika pesosu fomc tutanaklar n n daha fazla faiz art r m na isaret etmesiyle guclu kal yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:f0c156614d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "trump n bilim madalyalar musk huang a altman amodei nerede",
+      "link": "https://tr.tradingview.com/news/beincrypto:ef2093e8bd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin yuan abd dolar kars s nda dar aral klar suruyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:acd429e24d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "borsada rekor zirve sonras dusus gece oldu",
+      "link": "https://tr.tradingview.com/news/beincrypto:2a60be16ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "new york ta pokemon kartlar na milyonlar harcayan kripto hacker na suclu karar",
+      "link": "https://tr.tradingview.com/news/beincrypto:3cc6f717fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "circle tereina arac l g yla sap musterilerine usdc eurc odemeleri sunuyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:e65563c07d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "robinhood dan 25 milyon dolar l k bitcoin al m zamanlama anlama geliyor",
+      "link": "https://tr.tradingview.com/news/beincrypto:5edccbde8d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "vietnam dongu yap c ancak yukar yonlu potansiyel s n rl commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:566eaf73fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gumus fiyat analizi xag usd 60 k rd sat c lar 56 hedefliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:bc4761d97d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ethereum arast rmac s ndan uyar ai tabanl tehditlere kars coin lerinizi korumak 4 ad m",
+      "link": "https://tr.tradingview.com/news/beincrypto:f85155c0ad9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "wall street rekorlardan geriledi tahvil getirileri yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-sabit-seyretti-4094722"
+    },
     {
       "source": "tradingview",
       "text": "guney kore wonu abd dolar kars s nda odak noktas olan kilit seviyelerle yukar yonlu riskler ocbc",
@@ -9820,156 +9999,6 @@
       "source": "kap",
       "text": "tralt pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
       "link": "https://www.kap.org.tr/tr/Bildirim/1671089"
-    },
-    {
-      "source": "kap",
-      "text": "tkfen pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671088"
-    },
-    {
-      "source": "kap",
-      "text": "ahsgy pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671087"
-    },
-    {
-      "source": "kap",
-      "text": "reedr pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671086"
-    },
-    {
-      "source": "kap",
-      "text": "balsu pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671084"
-    },
-    {
-      "source": "kap",
-      "text": "egegy pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671083"
-    },
-    {
-      "source": "kap",
-      "text": "flap pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671082"
-    },
-    {
-      "source": "kap",
-      "text": "bioen pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671081"
-    },
-    {
-      "source": "kap",
-      "text": "brc dap def dol fs6 gmn iae iji ikv izs mbr md1 md2 mpe mtf noi nzt opf phi ppb pps prr prv ptp rgd rgh rkv rtd ssk unt yhi zp8 kamuyu ayd nlatma platformu duyurusu yat r m fonlar na iliskin rehberin 9 8 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671080"
-    },
-    {
-      "source": "trthaber",
-      "text": "ekimde ekonomi ajandas yogun olacak turkiye ekonomisi ekim ay n yogun gundemle gecirecek enflasyondan ihracat verilerine merkez bankas n n faiz karar ndan is gucu istatistiklerine kadar pek cok kritik veri yak ndan takip edilecek",
-      "link": "https://www.trthaber.com/haber/ekonomi/ekimde-ekonomi-ajandasi-yogun-olacak-958856.html"
-    },
-    {
-      "source": "ntvpara",
-      "text": "motorine indirim bekleniyor petrol fiyatlar ndaki dalgalanmalar akaryak t fiyatlar n etkiliyor",
-      "link": "https://www.ntv.com.tr/ntvpara/motorine-indirim-bekleniyor-1744427"
-    },
-    {
-      "source": "ntvpara",
-      "text": "otomobilde indirim f rsatlar baslad firmalar 1 milyon 400 bin liraya kadar arac sat yor otomobil fiyatlar doviz kurlar ndaki oynakl g n etkisinde talebin gerilemesi fiyatlar etkiledi firmalar indirime gidiyor ucuz otomobil f rsat donemi baslad",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-otomobilde-indirim-firsatlari-basladi-firmalar-1-milyon-400-bin-liraya-kadar-arac-satiyor-1744418"
-    },
-    {
-      "source": "ntvpara",
-      "text": "alt nda 2 haftad r suren kay p dalgas piyasalarda gerileme derinlesiyor alt n fiyatlar abd iran geriliminin yukselttigi petrol fiyatlar guclu dolar t rmanan hazine tahvil getirilerinin bask s yla ust uste ikinci haftay kay pla kapatmaya haz rlan yor",
-      "link": "https://www.ntv.com.tr/ntvpara/altinda-2-haftadir-suren-kayip-dalgasi-piyasalarda-gerileme-derinlesiyor-1744414"
-    },
-    {
-      "source": "ntvpara",
-      "text": "petrol piyasalar alev ald abd baskan donald trump n iran a yonelik hava operasyonlar n yogunlast rabilecegi haberleri korfez deki askeri sevkiyat planlar kuresel enerji piyasalar n sarsmaya devam ediyor",
-      "link": "https://www.ntv.com.tr/ntvpara/petrol-piyasalari-alev-aldi-1744415"
-    },
-    {
-      "source": "investing",
-      "text": "alt n guclu dolar yukselen getirilerle sabit seyrediyor abd istihdam verisi bekleniyor",
-      "link": "https://tr.investing.com/news/commodities-news/altn-guclu-dolar-ve-yukselen-getirilerle-sabit-seyrediyor-abd-istihdam-verisi-bekleniyor-4087501"
-    },
-    {
-      "source": "investing",
-      "text": "li ning hisseleri neden dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/li-ning-hisseleri-neden-dusuyor-93CH-4087499"
-    },
-    {
-      "source": "investing",
-      "text": "monzo nubank anlasmas suya dustukten sonra ozel sermaye seceneklerini degerlendiriyor ft",
-      "link": "https://tr.investing.com/news/stock-market-news/monzo-nubank-anlasmas-suya-dustukten-sonra-ozel-sermaye-seceneklerini-degerlendiriyor--ft-93CH-4087498"
-    },
-    {
-      "source": "investing",
-      "text": "asya enerji hisseleri orta dogu gerilimiyle yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/asya-enerji-hisseleri-orta-dogu-gerilimiyle-yukseldi-4087497"
-    },
-    {
-      "source": "investing",
-      "text": "broadcom anthropic cip finansman na 60 milyar dolar topluyor",
-      "link": "https://tr.investing.com/news/stock-market-news/broadcom-anthropic-icin-cip-finansmanna-60-milyar-dolar-topluyor-4087494"
-    },
-    {
-      "source": "investing",
-      "text": "temmuz dan yana uc yapay zeka secimi 22 106 artt",
-      "link": "https://tr.investing.com/news/stock-market-news/temmuzdan-bu-yana-uc-yapay-zeka-secimi-22106-artt-4087493"
-    },
-    {
-      "source": "investing",
-      "text": "procrea hissesi bugun neden yukseliyor",
-      "link": "https://tr.investing.com/news/stock-market-news/procrea-hissesi-bugun-neden-yukseliyor-93CH-4087492"
-    },
-    {
-      "source": "investing",
-      "text": "amazon 8 milyar dolarl k nvidia cipini yat r mc lara satmak istiyor",
-      "link": "https://tr.investing.com/news/stock-market-news/amazon-8-milyar-dolarlk-nvidia-cipini-yatrmclara-satmak-istiyor-4087490"
-    },
-    {
-      "source": "investing",
-      "text": "bofa cin simdilik daha agresif tesvik paketi ac klamayacak",
-      "link": "https://tr.investing.com/news/economy-news/bofa-cin-simdilik-daha-agresif-tesvik-paketi-acklamayacak-4087489"
-    },
-    {
-      "source": "investing",
-      "text": "kuzey japonya uc bolgesel bankan n hisse senetleri birlesme gorusmeleri haberiyle yukseldi",
-      "link": "https://tr.investing.com/news/stock-market-news/kuzey-japonyadaki-uc-bolgesel-banka-birlesme-gorusmelerine-baslayacak-4087487"
-    },
-    {
-      "source": "cnbce",
-      "text": "moody s vestel elektronik in uzun vadeli kredi notunu dusurdu moody s vestel elektronik in uzun vadeli cfr notunu caa3 ten ca ya dusurdu sirket taraf ndan ihrac edilen tahvillerin derecelendirmesi c ye cekildi",
-      "link": "https://www.cnbce.com/borsa/moodys-vestel-elektronikin-uzun-vadeli-kredi-notunu-dusurdu-h38554"
-    },
-    {
-      "source": "bloomberght",
-      "text": "eylul otomotiv sat slar nda sert fren otomotiv distributorleri mobilite dernegi odmd verilerine gore eylul ay nda otomotiv sat slar y ll k olarak yuzde 24 3 geriledi",
-      "link": "https://www.bloomberght.com/eylul-de-otomotiv-satislarinda-sert-fren-3790066"
-    },
-    {
-      "source": "bloomberght",
-      "text": "fed yetkilisi bowman y l yeni faiz art s aciliyet gormuyor fed baskan yard mc s michelle bowman merkez bankas n n ek faiz ad m atmadan once ekonominin temel egilimlerini daha iyi anlamas gerektigini soyledi",
-      "link": "https://www.bloomberght.com/fed-yetkilisi-bowman-bu-yil-yeni-faiz-artisi-icin-aciliyet-gormuyor-3790062"
-    },
-    {
-      "source": "bloomberght",
-      "text": "katar lng sinin piyasaya donusu yak n gorunmuyor dunyan n en buyuk lng al c s japonya merkezli jera n n ceo su yukio kani hurmuz bogaz ndaki aksakl klar n devam etmesi nedeniyle katar dan lng arz n n k sa vadede yeniden baslamas n beklemediklerini soyledi",
-      "link": "https://www.bloomberght.com/katar-lngsinin-piyasaya-donusu-yakin-gorunmuyor-3790061"
-    },
-    {
-      "source": "bloomberght",
-      "text": "fed yetkilisi logan en az 50 baz puanl k ek faiz art s ongoruyor dallas fed baskan lorie logan enflasyonu tamamen kontrol alt na almak faizlerin art r lmaya devam edilmesi gerektigini soyledi",
-      "link": "https://www.bloomberght.com/fed-yetkilisi-logan-en-az-50-baz-puanlik-ek-faiz-artisi-ongoruyor-3790060"
-    },
-    {
-      "source": "bloomberght",
-      "text": "tokyo enflasyonu h zland boj un faiz art s bask s guclendi tokyo taze g haric tuketici fiyatlar eylulde y ll k bazda 2 7 artt",
-      "link": "https://www.bloomberght.com/tokyo-enflasyonu-hizlandi-bojun-faiz-artisi-baskisi-guclendi-3790059"
-    },
-    {
-      "source": "bloomberght",
-      "text": "trump n fed e yonelik bask s artabilir abd baskan donald trump fed baskan jerome powell guvernorler lisa cook michael barr a yonelik bask s n art rabilir",
-      "link": "https://www.bloomberght.com/trumpin-fede-yonelik-baskisi-artabilir-3790058"
     }
   ],
   "research_reports_v8": {
