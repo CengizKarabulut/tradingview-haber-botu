@@ -2,9 +2,11 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1677984",
+      "last_seen_key": "kap:1678003",
       "seen_keys": [
-        "kap:1677984",
+        "kap:1678003",
+        "kap:1678002",
+        "kap:1678001",
         "kap:1677974",
         "kap:1677971",
         "kap:1677932",
@@ -93,6 +95,7 @@
         "kap:1677380",
         "kap:1677348",
         "kap:1677320",
+        "kap:1677984",
         "kap:1677310",
         "kap:1677306",
         "kap:1677269",
@@ -2234,8 +2237,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:dce1e16b1d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:9c2efe83bd9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:9c2efe83bd9e8:0",
         "tradingview:cointelegraph:dce1e16b1d9e8:0",
         "tradingview:fxstreet:d8cb0714cd9e8:0",
         "tradingview:fxstreet:088365563d9e8:0",
@@ -2350,6 +2354,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd baskan trump ara secimler oncesinde iran a sald r y d sl yor gorusmeler yeniden basl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:9c2efe83bd9e8:0"
+    },
+    {
+      "source": "kap",
+      "text": "uluun paylar n geri al nmas na iliskin bildirim 08 10 2026 tarihli pay geri al m islemleri hk sirket ulusoy un sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678003"
+    },
+    {
+      "source": "kap",
+      "text": "aagyo paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket agaoglu avrasya gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678002"
+    },
+    {
+      "source": "kap",
+      "text": "mrgyo degerleme raporu ayd n karacasu degerleme raporu sirket marti gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678001"
+    },
     {
       "source": "tradingview",
       "text": "imf tokenlestirilmis piyasalar n finansal riskleri art rabilecegi konusunda uyard",
@@ -9829,26 +9853,6 @@
       "source": "kap",
       "text": "tknka paylar n geri al nmas na iliskin bildirim pay geri al m program kapsam nda gerceklestirilen islemler hk sirket teknika plast teknik kalip plastik sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1671612"
-    },
-    {
-      "source": "kap",
-      "text": "sanko paylar n geri al nmas na iliskin bildirim 02 10 2026 tarihli pay geri al m islemleri sirket sanko pazarlama ithalat ihracat a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671611"
-    },
-    {
-      "source": "kap",
-      "text": "uluse genel kurul islemlerine iliskin bildirim olagan genel kurul daveti bilgilendirme dokuman sirket ulusoy elektrik imalat taahhut ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671610"
-    },
-    {
-      "source": "kap",
-      "text": "dofrb kurumsal yonetim bilgi formu guncelleme yonetim kurulu 2 bag ms z yonetim kurulu uyeliginin sone ermesi sirket dof robotik sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671609"
-    },
-    {
-      "source": "kap",
-      "text": "vertu ozel durum ac klamas genel yonetim kurulu uye degisikligi hakk nda sirket verusaturk girisim sermayesi yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1671608"
     }
   ],
   "research_reports_v8": {
