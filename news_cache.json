@@ -2260,10 +2260,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:0c80fa171d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:368d70486d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:368d70486d9e8:0",
         "tradingview:fxstreet:0c80fa171d9e8:0",
         "tradingview:fxstreet:b0f0a7f37d9e8:0",
+        "tradingview:beincrypto:623788756d9e8:0",
         "tradingview:beincrypto:d212902a1d9e8:0",
         "tradingview:beincrypto:94d09e4d7d9e8:0",
         "tradingview:cointelegraph:ae32b8b60d9e8:0",
@@ -2405,6 +2407,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "sterlin taban n koruyor boe uyesi greene faiz art r m bask yap yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:368d70486d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "gbp jpy fiyat analizi asag yonlu yutan mum formasyonu yaklas rken 209 00 seviyesinde zorlan yor",
@@ -9899,11 +9906,6 @@
       "source": "matriks",
       "text": "mobilya sektorunun buyuk bulusmas furnishings design istanbul ucuncu y l nda buyuk ilgi gordu",
       "link": "https://tr.tradingview.com/news/matriks:6787661:0"
-    },
-    {
-      "source": "matriks",
-      "text": "furnishings design istanbul ucuncu y l nda buyuk ilgi gordu",
-      "link": "https://tr.tradingview.com/news/matriks:6787652:0"
     }
   ],
   "research_reports_v8": {
