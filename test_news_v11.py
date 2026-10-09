@@ -218,5 +218,59 @@ class UnifiedNewsFormattingTests(unittest.TestCase):
         self.assertTrue(message.endswith("</a>"))
 
 
+    def test_market_news_contains_x_ready_share(self):
+        item = {
+            "source": "bloomberght",
+            "title": "BIST 100 güne yükselişle başladı",
+            "provider": "Bloomberg HT",
+            "published": "2026-10-09T10:05:00+03:00",
+            "category": "",
+            "summary": "BIST 100 endeksi ilk bölümde yüzde 1,2 yükseldi.",
+            "detail": "Bankacılık endeksi yüzde 2,0 prim yaparken toplam işlem hacmi 45,6 milyar TL oldu.",
+            "link": "https://www.bloomberght.com/ornek2",
+        }
+        message = v11.layered_build_message(item)
+        self.assertIn("X İÇİN HAZIR PAYLAŞIM", message)
+        self.assertIn("Kaynak: Bloomberg HT | 09.10.2026 10:05", message)
+        self.assertIn("https://www.bloomberght.com/ornek2", message)
+        self.assertLessEqual(len(message), 3900)
+
+    def test_calendar_contains_x_ready_share(self):
+        item = {
+            "source": "forexfactory",
+            "title": "USD — Tarım Dışı İstihdam",
+            "provider": "Yüksek etkili veri açıklandı",
+            "published": "2026-10-09T15:30:00+03:00",
+            "summary": "Yeni açıklandı · Etki: Yüksek · Açıklanan: 200K · Beklenti: 170K · Önceki: 165K",
+            "detail": "",
+            "link": "https://www.forexfactory.com/calendar",
+        }
+        message = v11.layered_build_message(item)
+        self.assertIn("X İÇİN HAZIR PAYLAŞIM", message)
+        self.assertIn("Açıklanan: 200K", message)
+        self.assertIn("Beklenti: 170K", message)
+        self.assertIn("Kaynak: Forex Factory", message)
+
+    def test_research_caption_contains_compact_x_ready_share(self):
+        item = {
+            "source": "akyatirim",
+            "report_type": "sirket_raporu",
+            "title": "ASELS Şirket Raporu",
+            "date_text": "09.10.2026",
+            "published_date": "2026-10-09",
+            "page_url": "https://www.akyatirim.com.tr/arastirma/rapor",
+            "document_url": "https://www.akyatirim.com.tr/arastirma/rapor.pdf",
+        }
+        summary = {
+            "takeaways": ["Kurumun rapordaki görüşü olumlu (AL); hedef fiyat 245,00 TL; getiri potansiyeli %18."],
+            "bullets": ["Öneri: AL", "Hedef fiyat: 245,00 TL"],
+            "meta": {},
+        }
+        caption = v11._summary_caption(item, summary)
+        self.assertIn("X İÇİN HAZIR PAYLAŞIM", caption)
+        self.assertIn("Kaynak:", caption)
+        self.assertLessEqual(len(caption), v11.SUMMARY_CAPTION_LIMIT)
+
+
 if __name__ == "__main__":
     unittest.main()
