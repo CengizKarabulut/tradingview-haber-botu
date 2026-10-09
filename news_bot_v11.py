@@ -23,6 +23,7 @@ from investor_takeaway import summarize_report_text
 
 SUMMARY_CAPTION_LIMIT = v10.SUMMARY_CAPTION_LIMIT
 ORIGINAL_KAP_COMPACT = v4.compact_kap_detail
+ORIGINAL_SEND_MESSAGE = base.send_message
 
 KAP_ODA_FIELDS = (
     ("oda_DefaultTransactionTransactionType", "İşlem Türü"),
@@ -57,6 +58,53 @@ def clean(value):
     return base.clean(value)
 
 
+TR_WORDS = {
+    "ve","ile","için","bu","bir","şirket","şirketin","piyasa","borsa","yatırım","açıkladı",
+    "belirtti","yükseldi","düştü","arttı","azaldı","faiz","enflasyon","ekonomi","sermaye",
+    "işlem","pay","sözleşme","ihracat","beklenti","önceki","merkez","bankası",
+}
+EN_WORDS = {
+    "the","and","for","with","from","to","as","a","an","of","in","on","at","company","market",
+    "markets","shares","stock","stocks","said","says","rose","fell","rises","falls","revenue",
+    "profit","earnings","contract","order","export","capital","acquisition","business","central",
+    "bank","inflation","rate","oil","dollar","crude","barrel","traders","supply","risks",
+}
+
+
+def _word_tokens(value):
+    return re.findall(r"[A-Za-zÇĞİÖŞÜçğıöşü]+", clean(value).lower())
+
+
+def is_mostly_english(value):
+    tokens = _word_tokens(value)
+    if len(tokens) < 5:
+        return False
+    tr = sum(token in TR_WORDS or any(ch in token for ch in "çğıöşü") for token in tokens)
+    en = sum(token in EN_WORDS for token in tokens)
+    return en >= 2 and en > tr * 1.4
+
+
+def turkish_only_text(value):
+    value = clean(value)
+    if not value or is_mostly_english(value):
+        return ""
+    value = re.sub(
+        r"(?i)\b(?:related companies|related funds|english|turkish|announcement content|"
+        r"update notification flag|correction notification flag)\b",
+        " ",
+        value,
+    )
+    return clean(value)
+
+
+def _safe_send_message(text):
+    if not clean(text):
+        print("İngilizce ağırlıklı/uygun Türkçe metin bulunamadı; Telegram gönderimi atlandı.")
+        return True
+    return ORIGINAL_SEND_MESSAGE(text)
+
+
+
 def _x_context_note(item):
     text = clean(f"{item.get('title', '')} {item.get('summary', '')} {item.get('detail', '')}").lower()
     if any(term in text for term in ("sözleşme", "sozlesme", "sipariş", "siparis", "ihale", "yeni iş ilişkisi")):
@@ -74,7 +122,8 @@ def _x_context_note(item):
 
 def _ready_x_post(item, max_chars=1200):
     source = item.get("source", "")
-    title = clean(item.get("title")) or "Finans haberi"
+    raw_title = clean(item.get("title")) or "Finans haberi"
+    title = raw_title
     published = base.format_date(item.get("published")) or clean(item.get("published"))
     link = clean(item.get("link") or item.get("page_url") or item.get("document_url"))
     icon, layer_name, label = _source_header(item)
@@ -105,8 +154,12 @@ def _ready_x_post(item, max_chars=1200):
         values = [clean(value) for value in re.split(r"\s*·\s*", item.get("summary") or "") if clean(value)]
         body_parts = ["\n".join(f"• {value}" for value in values[:6])] if values else []
     else:
-        header = f"{icon} {title}"
         summary, detail = _prepare_news_texts(item)
+        if is_mostly_english(raw_title):
+            if not summary and not detail:
+                return ""
+            title = "Finans / Piyasa Gelişmesi"
+        header = f"{icon} {title}"
         body_parts = [value for value in (summary, detail) if value]
 
     note = _x_context_note(item)
@@ -385,8 +438,8 @@ def _strip_title_prefix(value, title):
 
 def _prepare_news_texts(item):
     title = clean(item.get("title"))
-    summary = _strip_title_prefix(item.get("summary"), title)
-    detail = _strip_title_prefix(item.get("detail"), title)
+    summary = _strip_title_prefix(turkish_only_text(item.get("summary")), title)
+    detail = _strip_title_prefix(turkish_only_text(item.get("detail")), title)
 
     if _plain_compare(summary) in GENERIC_SUMMARIES:
         summary = ""
@@ -525,11 +578,17 @@ def _build_news_message(item):
     if source == "forexfactory":
         return _build_calendar_message(item, icon, layer_name, label)
 
-    title = clean(item.get("title")) or "Haber"
+    raw_title = clean(item.get("title")) or "Haber"
     published = base.format_date(item.get("published"))
     provider = clean(item.get("provider"))
     category = clean(item.get("category"))
     summary, detail = _prepare_news_texts(item)
+    if is_mostly_english(raw_title):
+        if not summary and not detail:
+            return ""
+        title = "Finans / Piyasa Gelişmesi"
+    else:
+        title = raw_title
 
     parts = [
         f"{icon} <b>{html.escape(layer_name)} | {html.escape(label)}</b>",
@@ -601,6 +660,7 @@ def install_message_formatting():
 
     v4.compact_kap_detail = compact_kap_detail
     v6.layered_build_message = layered_build_message
+    base.send_message = _safe_send_message
 
 
 def install_kap_formatting():
