@@ -161,8 +161,9 @@
       ]
     },
     "tcmb": {
-      "last_seen_key": "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-43",
+      "last_seen_key": "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-44",
       "seen_keys": [
+        "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-44",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-43",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-42",
         "tcmb:http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-41",
@@ -416,7 +417,6 @@
         "cnbce:https://www.cnbce.com/haberler/halkbank-ve-ziraat-bankasindan-ortak-karar-katilim-bankalari-tvfye-devrediliyor-h39134",
         "cnbce:https://www.cnbce.com/sirket-haberleri/netflixte-isten-cikarma-alarmi-yuzlerce-calisan-etkilenebilir-h39133",
         "cnbce:https://www.cnbce.com/haberler/rekabet-kurumundan-gozluk-devlerine-karar-atasun-magazalarinda-buyuk-degisiklik-h39084",
-        "cnbce:https://www.cnbce.com/borsa/spkdan-12-sirketin-basvurusuna-onay-hangi-sirketlerin-basvurulari-onaylandi-h38959",
         "cnbce:https://www.cnbce.com/dunya/trumpin-portfoyunden-dikkat-ceken-detay-517-alim-satim-islemi-yapildi-h39032",
         "cnbce:https://www.cnbce.com/veriler/abdde-tuketici-guveni-mayistan-bu-yana-en-dusuk-seviyeye-geriledi-h39129",
         "cnbce:https://www.cnbce.com/haberler/tcmb-baskani-karahan-duyurdu-istanbul-ekonomi-forumu-her-yil-duzenlenecek-h39125",
@@ -434,6 +434,7 @@
         "cnbce:https://www.cnbce.com/yapay-zeka/anthropicten-claude-icin-yeni-kural-yapay-zekaya-zalimce-davranmak-yasaklandi-h39105",
         "cnbce:https://www.cnbce.com/haberler/abdde-kizamik-alarmi-vaka-sayisi-ikiye-katlandi-h39104",
         "cnbce:https://www.cnbce.com/haberler/deutsche-banka-kara-para-aklama-takibi-icin-yeni-sure-h39101",
+        "cnbce:https://www.cnbce.com/borsa/spkdan-12-sirketin-basvurusuna-onay-hangi-sirketlerin-basvurulari-onaylandi-h38959",
         "cnbce:https://www.cnbce.com/borsa/bakan-simsekten-fon-tasfiyesi-aciklamasi-43-bin-yatirimcinin-paralari-ilgili-bankalara-yatirildi-h39018",
         "cnbce:https://www.cnbce.com/borsa/spkdan-odine-islemlerine-iliskin-21-kisi-hakkinda-suc-duyurusu-2-yil-islem-yasagi-h38957",
         "cnbce:https://www.cnbce.com/haberler/fonlarla-ilgili-kritik-yasa-teklifi-mecliste-iste-duzenlemenin-ayrintilari-h39100",
@@ -2092,6 +2093,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tcmb",
+      "text": "istanbul ekonomi forumu 39 na iliskin bas n duyurusu 2026 44 turkiye cumhuriyet merkez bankas resmi duyurusu",
+      "link": "http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/duyurular/basin/2026/duy2026-44"
+    },
     {
       "source": "tradingview",
       "text": "singapur dolar abd dolar kars s nda yatay yonlu islem gormeye devam ediyor uob",
@@ -9586,11 +9592,6 @@
       "source": "bloomberght",
       "text": "irak hurmuz bogaz ndan 2 milyon varil petrol tas d irak n devlete ait petrol tanker sirketi 2 milyon varil irak petrolunu cok buyuk ham petrol tas y c s vlcc hurmuz bogaz ndan gecirdi",
       "link": "https://www.bloomberght.com/irak-hurmuz-bogazindan-2-milyon-varil-petrol-tasidi-3790295"
-    },
-    {
-      "source": "bloomberght",
-      "text": "opec kas m ay petrol uretim hedeflerini sabit tuttu opec grubu pazar gunu gerceklestirdigi toplant kas m ay petrol uretim hedeflerini degistirmeme karar ald",
-      "link": "https://www.bloomberght.com/opec-kasim-ayi-petrol-uretim-hedeflerini-sabit-tuttu-3790294"
     }
   ],
   "research_reports_v8": {
