@@ -2261,12 +2261,14 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:32fe1c807d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:ae1a0f5f0d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:ae1a0f5f0d9e8:0",
         "tradingview:fxstreet:32fe1c807d9e8:0",
         "tradingview:fxstreet:e217e5bd9d9e8:0",
         "tradingview:fxstreet:34041413ad9e8:0",
         "tradingview:fxstreet:120d11fb2d9e8:0",
+        "tradingview:beincrypto:16b7ae2f8d9e8:0",
         "tradingview:cointelegraph:b36540ecad9e8:0",
         "tradingview:fxstreet:c45e80740d9e8:0",
         "tradingview:fxstreet:b6462d398d9e8:0",
@@ -2419,6 +2421,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini yenilenen ingiltere mali endiseleri odag nda 1 3250 seviyesine dogru yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:ae1a0f5f0d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "japonya n n katayama s doge girisimi nin takaichi doneminde buyumeyi mali surdurulebilirligi destekleyecegini soyluyor",
@@ -9913,11 +9920,6 @@
       "source": "bloomberght",
       "text": "euro bolgesi enflasyonu uc y l n zirvesinde euro bolgesi enflasyonu beklentilerin uzerinde h zlanarak uc y l n en yuksek seviyesine c kt",
       "link": "https://www.bloomberght.com/euro-bolgesi-enflasyonu-son-uc-yilin-zirvesinde-3790154"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bank of america dolar zirveyi gorene kadar riskten kac s surecek bank of america dan michael hartnett e gore yat r mc lar donemde yukselise gecen dolar n zirve yapt g na dair isaretler gorulene kadar riskli islemlerden uzak durmaya haz rlan yor",
-      "link": "https://www.bloomberght.com/bank-of-america-dolar-zirveyi-gorene-kadar-riskten-kacis-surecek-3790152"
     }
   ],
   "research_reports_v8": {
