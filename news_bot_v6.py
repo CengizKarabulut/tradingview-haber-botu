@@ -85,6 +85,10 @@ REPORT_TYPES = (
 
 KAP_KIND_RULES = (
     (
+        "finansal_duran_varlik", "🏢", "İŞTİRAK / FİNANSAL DURAN VARLIK",
+        ("finansal duran varlık", "iştirak", "bağlı ortaklık", "sermaye artırımına katılım"),
+    ),
+    (
         "sermaye", "💰", "SERMAYE İŞLEMİ",
         ("sermaye artır", "sermaye artir", "bedelli", "bedelsiz", "kayıtlı sermaye", "kayitli sermaye"),
     ),

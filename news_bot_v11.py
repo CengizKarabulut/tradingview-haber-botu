@@ -61,6 +61,8 @@ def _x_context_note(item):
     text = clean(f"{item.get('title', '')} {item.get('summary', '')} {item.get('detail', '')}").lower()
     if any(term in text for term in ("sözleşme", "sozlesme", "sipariş", "siparis", "ihale", "yeni iş ilişkisi")):
         return "Piyasa açısından: İş hacmine katkı potansiyeli bulunmakla birlikte finansal yansıma teslimat ve gelir tahakkuk takvimine bağlıdır."
+    if any(term in text for term in ("finansal duran varlık", "iştirak", "bağlı ortaklık", "sermaye artırımına katılım")):
+        return "Piyasa açısından: İşlemin katkısı edinilen varlığın faaliyet performansı, konsolidasyon etkisi ve sermaye kullanımına bağlıdır."
     if any(term in text for term in ("finansal sonuç", "finansal rapor", "bilanço", "bilanco", "net kâr", "net kar", "favök", "favok", "ebitda")):
         return "Piyasa açısından: Sonuçların etkisi büyüme, marj, nakit akışı ve piyasa beklentileriyle birlikte değerlendirilmelidir."
     if any(term in text for term in ("faiz", "enflasyon", "tüfe", "tufe", "istihdam", "tarım dışı", "pmi", "gsyh")):
@@ -265,14 +267,28 @@ def _clean_explanation(value):
     value = clean(value)
     if not value:
         return ""
-    lowered = value.lower()
+
     cut_points = []
-    for prefix in v4.KAP_BOILERPLATE_STARTS:
-        index = lowered.find(prefix)
-        if index >= 0:
-            cut_points.append(index)
+    for pattern in (
+        r"işbu\s+açıklama(?:mız)?ın\s+ingilizce\s+(?:çevirisi|tercümesi)",
+        r"yukarıdaki\s+açıklamalarımızın",
+        r"we\s+proclaim\s+that\s+our\s+above\s+disclosure",
+        r"this\s+statement\s+is\s+an\s+english\s+translation",
+    ):
+        match = re.search(pattern, value, flags=re.IGNORECASE)
+        if match:
+            cut_points.append(match.start())
+
+    pipe_match = re.search(
+        r"\s*\|\s*(?=(?:The|This|Our|Company|Capital|Acquisition|English)\b)",
+        value,
+        flags=re.IGNORECASE,
+    )
+    if pipe_match:
+        cut_points.append(pipe_match.start())
+
     if cut_points:
-        value = value[:min(cut_points)].strip(" .·")
+        value = value[:min(cut_points)].strip(" .·|")
     return value
 
 

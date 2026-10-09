@@ -272,5 +272,36 @@ class UnifiedNewsFormattingTests(unittest.TestCase):
         self.assertLessEqual(len(caption), v11.SUMMARY_CAPTION_LIMIT)
 
 
+    def test_financial_asset_kap_is_turkish_only_and_correctly_classified(self):
+        soup = BeautifulSoup(
+            """
+            <div class="disclosureScrollableArea">
+              <span>oda_ExplanationTextBlock1</span>
+              <span>Şirketimizin bağlı ortaklığı Cetwell'in sermayesi 100.000.000 TL'ye yükseltilmiş, 87.000.000 TL FORTE tarafından karşılanmıştır. FORTE'nin payı %93,63'e ulaşmıştır. İşbu açıklamamızın İngilizce çevirisi ekte yer almaktadır. | The share capital of Cetwell was increased and funded by FORTE.</span>
+            </div>
+            """,
+            "html.parser",
+        )
+        detail = v11.compact_kap_detail(soup)
+        self.assertIn("87.000.000 TL", detail)
+        self.assertIn("%93,63", detail)
+        self.assertNotIn("The share capital", detail)
+
+        item = {
+            "source": "kap",
+            "title": "FORTE — Finansal Duran Varlık Edinimi",
+            "provider": "FORTE",
+            "published": "2026-10-09T14:18:40+03:00",
+            "summary": "Cetwell sermaye artırımına katılım",
+            "detail": detail,
+            "link": "https://www.kap.org.tr/tr/Bildirim/1678460",
+            "attachment_count": 0,
+        }
+        message = v11.layered_build_message(item)
+        self.assertIn("İŞTİRAK / FİNANSAL DURAN VARLIK", message)
+        self.assertNotIn("SERMAYE İŞLEMİ", message)
+        self.assertNotIn("The share capital", message)
+
+
 if __name__ == "__main__":
     unittest.main()
