@@ -57,6 +57,129 @@ def clean(value):
     return base.clean(value)
 
 
+def _x_context_note(item):
+    text = clean(f"{item.get('title', '')} {item.get('summary', '')} {item.get('detail', '')}").lower()
+    if any(term in text for term in ("sözleşme", "sozlesme", "sipariş", "siparis", "ihale", "yeni iş ilişkisi")):
+        return "Piyasa açısından: İş hacmine katkı potansiyeli bulunmakla birlikte finansal yansıma teslimat ve gelir tahakkuk takvimine bağlıdır."
+    if any(term in text for term in ("finansal sonuç", "finansal rapor", "bilanço", "bilanco", "net kâr", "net kar", "favök", "favok", "ebitda")):
+        return "Piyasa açısından: Sonuçların etkisi büyüme, marj, nakit akışı ve piyasa beklentileriyle birlikte değerlendirilmelidir."
+    if any(term in text for term in ("faiz", "enflasyon", "tüfe", "tufe", "istihdam", "tarım dışı", "pmi", "gsyh")):
+        return "Piyasa açısından: Fiyatlama, gerçekleşen verinin beklenti/önceki veriyle farkı ve para politikası beklentilerine etkisine bağlıdır."
+    if any(term in text for term in ("spk", "bddk", "rekabet kurulu", "resmi gazete", "ceza", "tedbir")):
+        return "Piyasa açısından: Etki kararın kapsamı, bağlayıcılığı ve uygulama takvimine bağlıdır."
+    return ""
+
+
+def _ready_x_post(item, max_chars=1200):
+    source = item.get("source", "")
+    title = clean(item.get("title")) or "Finans haberi"
+    published = base.format_date(item.get("published")) or clean(item.get("published"))
+    link = clean(item.get("link") or item.get("page_url") or item.get("document_url"))
+    icon, layer_name, label = _source_header(item)
+
+    if source == "kap":
+        ticker, subject = "", title
+        if " — " in title:
+            ticker, subject = [part.strip() for part in title.split(" — ", 1)]
+        _, kind_icon, kind_label = v6.classify_kap(item)
+        header = f"{kind_icon} {f'#{ticker} | ' if ticker else ''}{kind_label}"
+        company = clean(item.get("provider"))
+        summary = v4._strip_company_from_summary(item.get("summary"), company)
+        fields, explanation = _split_kap_detail(item.get("detail"))
+        facts = v6.smart_kap_facts(item)
+        body_parts = []
+        if summary and summary.lower() not in {subject.lower(), title.lower()}:
+            body_parts.append(_excerpt(summary, 420))
+        if fields:
+            body_parts.append("Öne çıkanlar:\n" + "\n".join(
+                f"• {field}: {_excerpt(value, 170)}" for field, value in fields[:4]
+            ))
+        elif facts:
+            body_parts.append("Öne çıkanlar:\n" + "\n".join(f"• {fact}" for fact in facts[:4]))
+        if explanation:
+            body_parts.append(_excerpt(explanation, 600))
+    elif source == "forexfactory":
+        header = f"🌍 {title}"
+        values = [clean(value) for value in re.split(r"\s*·\s*", item.get("summary") or "") if clean(value)]
+        body_parts = ["\n".join(f"• {value}" for value in values[:6])] if values else []
+    else:
+        header = f"{icon} {title}"
+        summary, detail = _prepare_news_texts(item)
+        body_parts = [value for value in (summary, detail) if value]
+
+    note = _x_context_note(item)
+    if note:
+        body_parts.append(note)
+
+    footer = f"Kaynak: {label}" + (f" | {published}" if published else "")
+    if link:
+        footer += f"\n{link}"
+
+    post = "\n\n".join([header] + body_parts + [footer])
+    if len(post) <= max_chars:
+        return post
+
+    available = max(260, max_chars - len(header) - len(footer) - 8)
+    compact = []
+    for part in body_parts:
+        if available < 80:
+            break
+        clipped = _excerpt(part, min(len(part), available))
+        if clipped:
+            compact.append(clipped)
+            available -= len(clipped) + 2
+    return "\n\n".join([header] + compact + [footer])[:max_chars].rstrip()
+
+
+def _append_x_ready(parts, item):
+    post = _ready_x_post(item)
+    if post:
+        parts.extend([
+            "",
+            "━━━━━━━━━━━━━━━━━━",
+            "✍️ <b>X İÇİN HAZIR PAYLAŞIM</b>",
+            f"<blockquote>{html.escape(post)}</blockquote>",
+        ])
+    return parts
+
+
+def _research_x_post(item, summary, max_chars=520):
+    source = item.get("source", "")
+    label = (
+        v6.RESEARCH_PAGE_CONFIGS.get(source, {}).get("label")
+        or v4.BULLETIN_LABELS.get(source, source)
+    )
+    _, report_label = v6.report_type_meta(item)
+    title = clean(item.get("title")) or report_label
+    date_text = clean(item.get("date_text") or item.get("published_date"))
+    link = clean(item.get("page_url") or item.get("document_url"))
+
+    body = []
+    for value in list(summary.get("takeaways") or [])[:2]:
+        body.append(clean(value))
+    if not body:
+        for value in list(summary.get("bullets") or [])[:2]:
+            body.append(clean(value))
+
+    header = f"📚 {title}"
+    footer = f"Kaynak: {label}" + (f" | {date_text}" if date_text else "")
+    if link:
+        footer += f"\n{link}"
+    post = "\n\n".join([header] + body + [footer])
+
+    if len(post) <= max_chars:
+        return post
+    available = max(180, max_chars - len(header) - len(footer) - 8)
+    compact = []
+    for value in body:
+        if available < 70:
+            break
+        clipped = _excerpt(value, min(len(value), available))
+        compact.append(clipped)
+        available -= len(clipped) + 2
+    return "\n\n".join([header] + compact + [footer])[:max_chars].rstrip()
+
+
 def _summary_caption(item, summary, extraction_error=""):
     source = item.get("source", "")
     label = (
@@ -86,12 +209,19 @@ def _summary_caption(item, summary, extraction_error=""):
     bullets = list(summary.get("bullets") or [])
     if bullets:
         lines.append("🧾 <b>Rapordan öne çıkanlar:</b>")
-        for bullet in bullets[:4]:
-            lines.append("• " + html.escape(clean(bullet)[:220]))
+        for bullet in bullets[:3]:
+            lines.append("• " + html.escape(clean(bullet)[:190]))
     elif extraction_error:
         lines.append("🧾 PDF ektedir; metin katmanı otomatik okunamadığı için içerik özeti üretilmedi.")
     else:
         lines.append("🧾 PDF ektedir; güvenilir bir kısa özet çıkaracak yeterli metin bulunamadı.")
+
+    ready_post = _research_x_post(item, summary, max_chars=480)
+    if ready_post:
+        lines.extend([
+            "✍️ <b>X İÇİN HAZIR PAYLAŞIM</b>",
+            html.escape(ready_post),
+        ])
 
     link_line = f'<a href="{html.escape(page_url, quote=True)}">Resmî araştırma kaynağını aç</a>'
     return v10._fit_caption(lines, link_line, limit=SUMMARY_CAPTION_LIMIT)
@@ -335,6 +465,7 @@ def _build_kap_message(item):
     if item.get("attachment_count"):
         parts.extend(["", f"📎 {int(item['attachment_count'])} ek"])
 
+    _append_x_ready(parts, item)
     parts.extend([
         "",
         f'<a href="{html.escape(item["link"], quote=True)}">KAP bildiriminin tamamını aç</a>',
@@ -363,6 +494,7 @@ def _build_calendar_message(item, icon, layer_name, label):
         for value in values[:6]:
             parts.append(f"• {html.escape(_excerpt(value, 220))}")
 
+    _append_x_ready(parts, item)
     parts.extend([
         "",
         f'<a href="{html.escape(item["link"], quote=True)}">{_news_link_label(item.get("source"))}</a>',
@@ -410,6 +542,7 @@ def _build_news_message(item):
     if item.get("attachment_count"):
         parts.extend(["", f"📎 {int(item['attachment_count'])} ek"])
 
+    _append_x_ready(parts, item)
     parts.extend([
         "",
         f'<a href="{html.escape(item["link"], quote=True)}">{_news_link_label(source)}</a>',
