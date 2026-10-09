@@ -303,5 +303,36 @@ class UnifiedNewsFormattingTests(unittest.TestCase):
         self.assertNotIn("The share capital", message)
 
 
+    def test_english_only_market_news_is_not_rendered(self):
+        item = {
+            "source": "tradingview",
+            "title": "Stocks rise after central bank rate decision",
+            "provider": "Reuters",
+            "published": "2026-10-09T12:00:00+03:00",
+            "category": "",
+            "summary": "The market rose after the central bank said rates would remain unchanged.",
+            "detail": "Bank shares gained while the dollar index eased.",
+            "link": "https://tr.tradingview.com/news/example/",
+        }
+        self.assertTrue(v11.is_mostly_english(item["summary"]))
+        self.assertEqual(v11.layered_build_message(item), "")
+
+    def test_turkish_market_news_keeps_clean_ready_share(self):
+        item = {
+            "source": "investing",
+            "title": "BIST 100 bankacılık hisseleri öncülüğünde yükseldi",
+            "provider": "Investing.com Türkiye",
+            "published": "2026-10-09T12:00:00+03:00",
+            "category": "",
+            "summary": "BIST 100 endeksi yüzde 1,3 yükselirken bankacılık endeksi yüzde 2,1 prim yaptı.",
+            "detail": "Toplam işlem hacmi 72,4 milyar TL oldu.",
+            "link": "https://tr.investing.com/news/example",
+        }
+        message = v11.layered_build_message(item)
+        self.assertIn("X İÇİN HAZIR PAYLAŞIM", message)
+        self.assertIn("BIST 100", message)
+        self.assertNotIn("Related Companies", message)
+
+
 if __name__ == "__main__":
     unittest.main()
