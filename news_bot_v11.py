@@ -61,6 +61,8 @@ def _x_context_note(item):
     text = clean(f"{item.get('title', '')} {item.get('summary', '')} {item.get('detail', '')}").lower()
     if any(term in text for term in ("sözleşme", "sozlesme", "sipariş", "siparis", "ihale", "yeni iş ilişkisi")):
         return "Piyasa açısından: İş hacmine katkı potansiyeli bulunmakla birlikte finansal yansıma teslimat ve gelir tahakkuk takvimine bağlıdır."
+    if any(term in text for term in ("finansal duran varlık", "iştirak", "bağlı ortaklık", "sermaye artırımına katılım")):
+        return "Piyasa açısından: İşlemin katkısı edinilen varlığın faaliyet performansı, konsolidasyon etkisi ve sermaye kullanımına bağlıdır."
     if any(term in text for term in ("finansal sonuç", "finansal rapor", "bilanço", "bilanco", "net kâr", "net kar", "favök", "favok", "ebitda")):
         return "Piyasa açısından: Sonuçların etkisi büyüme, marj, nakit akışı ve piyasa beklentileriyle birlikte değerlendirilmelidir."
     if any(term in text for term in ("faiz", "enflasyon", "tüfe", "tufe", "istihdam", "tarım dışı", "pmi", "gsyh")):
@@ -267,7 +269,12 @@ def _clean_explanation(value):
         return ""
     lowered = value.lower()
     cut_points = []
-    for prefix in v4.KAP_BOILERPLATE_STARTS:
+    extra_prefixes = (
+        "işbu açıklamamızın ingilizce çevirisi",
+        "işbu açıklamamızın ingilizce tercümesi",
+        "this statement is an english translation",
+    )
+    for prefix in tuple(v4.KAP_BOILERPLATE_STARTS) + extra_prefixes:
         index = lowered.find(prefix)
         if index >= 0:
             cut_points.append(index)
