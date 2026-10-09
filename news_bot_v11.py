@@ -267,19 +267,28 @@ def _clean_explanation(value):
     value = clean(value)
     if not value:
         return ""
-    lowered = value.lower()
+
     cut_points = []
-    extra_prefixes = (
-        "işbu açıklamamızın ingilizce çevirisi",
-        "işbu açıklamamızın ingilizce tercümesi",
-        "this statement is an english translation",
+    for pattern in (
+        r"işbu\s+açıklama(?:mız)?ın\s+ingilizce\s+(?:çevirisi|tercümesi)",
+        r"yukarıdaki\s+açıklamalarımızın",
+        r"we\s+proclaim\s+that\s+our\s+above\s+disclosure",
+        r"this\s+statement\s+is\s+an\s+english\s+translation",
+    ):
+        match = re.search(pattern, value, flags=re.IGNORECASE)
+        if match:
+            cut_points.append(match.start())
+
+    pipe_match = re.search(
+        r"\s*\|\s*(?=(?:The|This|Our|Company|Capital|Acquisition|English)\b)",
+        value,
+        flags=re.IGNORECASE,
     )
-    for prefix in tuple(v4.KAP_BOILERPLATE_STARTS) + extra_prefixes:
-        index = lowered.find(prefix)
-        if index >= 0:
-            cut_points.append(index)
+    if pipe_match:
+        cut_points.append(pipe_match.start())
+
     if cut_points:
-        value = value[:min(cut_points)].strip(" .·")
+        value = value[:min(cut_points)].strip(" .·|")
     return value
 
 
