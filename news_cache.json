@@ -438,7 +438,6 @@
         "cnbce:https://www.cnbce.com/haberler/rekabet-kurumundan-gozluk-devlerine-karar-atasun-magazalarinda-buyuk-degisiklik-h39084",
         "cnbce:https://www.cnbce.com/haberler/ibb-2027-destek-paketini-duyurdu-emekliye-8-bin-tl-bayram-ve-24-bin-tl-kira-yardimi-h39135",
         "cnbce:https://www.cnbce.com/haberler/goldman-sachs-raporu-yayimlandi-tcmb-brut-rezervleri-177-milyar-dolara-yukseldi-h39124",
-        "cnbce:https://www.cnbce.com/dunya/trumpin-portfoyunden-dikkat-ceken-detay-517-alim-satim-islemi-yapildi-h39032",
         "cnbce:https://www.cnbce.com/haberler/sosyal-medya-platformlarina-cocuklar-icin-yas-dogrulama-ve-ebeveyn-kontrolu-zorunlulugu-h39144",
         "cnbce:https://www.cnbce.com/haberler/zelenskiyden-trumpa-mesaj-rus-petrolune-izin-vermek-savasa-yatirim-yapmak-demek-h39142",
         "cnbce:https://www.cnbce.com/haberler/panamada-77-buyuklugunde-deprem-tsunami-uyarisi-yapildi-h39141",
@@ -453,6 +452,7 @@
         "cnbce:https://www.cnbce.com/haberler/seyit-ardic-yeniden-ankara-sanayi-odasi-baskani-secildi-h39122",
         "cnbce:https://www.cnbce.com/haberler/fransada-borc-krizi-alarmi-nobel-odullu-ekonomistten-kritik-uyari-h39121",
         "cnbce:https://www.cnbce.com/haberler/fon-koordinasyon-kurulu-toplandi-fahis-kazanclarin-iadesi-ve-ara-odemeler-masada-h39119",
+        "cnbce:https://www.cnbce.com/dunya/trumpin-portfoyunden-dikkat-ceken-detay-517-alim-satim-islemi-yapildi-h39032",
         "cnbce:https://www.cnbce.com/borsa/bulls-portfoyden-tasfiye-edilen-fonlar-icin-aciklama-122-milyar-tl-odendi-hak-kaybi-yok-h39042",
         "cnbce:https://www.cnbce.com/borsa/kapa-duyuruldu-garanti-mtn-kapsaminda-ihrac-ettigi-100-milyon-dolarlik-tahvili-itfa-etti-h39035",
         "cnbce:https://www.cnbce.com/borsa/borsa-gunu-yukselisle-kapadi-8-ekim-2026-h38978",
@@ -930,8 +930,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/cin-gizli-kap-kollarn-ve-sanal-kontrolleri-yasaklayacak-4098107",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/saba-capital-management-blackrock-esgden-355376-dolar-satt-93CH-4098112",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/saba-capital-management-blackrock-esgden-355376-dolar-satt-93CH-4098112",
+        "investing:https://tr.investing.com/news/stock-market-news/philips-uyku-apnesi-cihaz-davasn-kazand-4098111",
         "investing:https://tr.investing.com/news/stock-market-news/cin-gizli-kap-kollarn-ve-sanal-kontrolleri-yasaklayacak-4098107",
         "investing:https://tr.investing.com/news/stock-market-news/fransz-tahvil-spreadleri-avrupa-hisse-rallisini-bozar-m-4098105",
         "investing:https://tr.investing.com/news/company-news/lb-pharmaceuticals-ecnp-kongresinde-lb102-verilerini-sundu-93CH-4098103",
@@ -940,8 +942,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/idt-yoneticisi-92570-dolarlk-hisse-satt-93CH-4098100",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-gercege-uygun-deger-sinyali-sonras-blackbaud-73-yukseldi-93CH-4098099",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-array-digitaln-49luk-dususunu-ongordu-93CH-4098097",
-        "investing:https://tr.investing.com/news/stock-market-news/hisse-senetleri-ve-tahviller-nerede-carpsabilir-4098098",
-        "investing:https://tr.investing.com/news/economy-news/ab-donem-baskanlg-20282034-icin-16-trilyon-euro-butce-onerdi-4098094",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -962,6 +962,8 @@
         "investing:https://tr.investing.com/analysis/2-ayda-43-getiren-temettu-portfoyu-investing-pro-200506165",
         "investing:https://tr.investing.com/analysis/borsada-2-ayda-41-kazanc-investing-pro-200506134",
         "investing:https://tr.investing.com/analysis/tera-grubundan-pusula-finans-hamlesi-finansal-ekosistem-genisliyor-200506104",
+        "investing:https://tr.investing.com/news/stock-market-news/hisse-senetleri-ve-tahviller-nerede-carpsabilir-4098098",
+        "investing:https://tr.investing.com/news/economy-news/ab-donem-baskanlg-20282034-icin-16-trilyon-euro-butce-onerdi-4098094",
         "investing:https://tr.investing.com/news/insider-trading-news/nuveen-portfoy-yoneticisi-michael-hamilton-26106-dolar-degerinde-hisse-ald-93CH-4098080",
         "investing:https://tr.investing.com/news/economy-news/cin-1052-milyon-istihdam-yaratt-yapay-zeka-planlar-acklad-4098078",
         "investing:https://tr.investing.com/news/stock-market-news/avrupa-banka-hisseleri-tahvil-getirileriyle-yuzde-8-dustu-4098077",
@@ -1429,9 +1431,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/liquidity-services-yoneticisi-30566-dolar-degerinde-hisse-satt-93CH-4088889",
         "investing:https://tr.investing.com/news/insider-trading-news/xometry-ceosu-sahni-1112-xmtr-hissesini-114851-dolara-satt-93CH-4088888",
         "investing:https://tr.investing.com/news/company-news/starlinkin-konut-genisbant-isi-ne-kadar-buyuyebilir-4088886",
-        "investing:https://tr.investing.com/news/insider-trading-news/newegg-hukuk-muduru-michael-chen-884-dolarlk-hisse-satt-93CH-4088884",
-        "investing:https://tr.investing.com/news/insider-trading-news/mara-holdings-ceosu-fred-thiel-308606-dolar-degerinde-hisse-satt-93CH-4088885",
-        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-hisse-alm-satmlar-cerebras-ve-bwx-technologies-almlarda-one-ckt-93CH-4088883"
+        "investing:https://tr.investing.com/news/insider-trading-news/newegg-hukuk-muduru-michael-chen-884-dolarlk-hisse-satt-93CH-4088884"
       ]
     },
     "ntvpara": {
@@ -1884,8 +1884,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:cointelegraph:508550d3ad9e8:0",
+      "last_seen_key": "tradingview:beincrypto:1ea8b97bcd9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:1ea8b97bcd9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:cointelegraph:45b5a3633d9e8:0",
         "tradingview:beincrypto:118b07227d9e8:0",
@@ -2140,6 +2141,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "wall street in en iyi hedge fund lar ndan biri yapay zeka bahsiyle 44 luk kazanc eriydi",
+      "link": "https://tr.tradingview.com/news/beincrypto:1ea8b97bcd9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "saba capital management blackrock esg den 355 376 dolar satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/saba-capital-management-blackrock-esgden-355376-dolar-satt-93CH-4098112"
+    },
+    {
+      "source": "investing",
+      "text": "philips uyku apnesi cihaz davas n kazand",
+      "link": "https://tr.investing.com/news/stock-market-news/philips-uyku-apnesi-cihaz-davasn-kazand-4098111"
+    },
     {
       "source": "cnbce",
       "text": "borsa istanbul 3 sirketten temettu karar 2 odeme tamamland biri haftaya borsa istanbul 5 9 ekim haftas nda 3 sirket temettu karar ac klad rgyas krvgd yat r mc lar na odemelerini yaparken gubrf hissedarlar na kar pay n 14 ekim dag tacak",
@@ -9624,21 +9640,6 @@
       "source": "ntvpara",
       "text": "arac sahipleri dikkat e devlet ten kontrol edilecek sigortac l k ozel emeklilik duzenleme denetleme kurumu arac sahiplerini ilgilendiren duzenlemeyi ac klad",
       "link": "https://www.ntv.com.tr/ntvpara/arac-sahipleri-dikkat-e-devletten-kontrol-edilecek-1744889"
-    },
-    {
-      "source": "ntvpara",
-      "text": "bakan simsek enflasyon 57 ay sonra yuzde 30 un alt nda hazine maliye bakan mehmet simsek eylul ay enflasyon rakamlar n degerlendirdi",
-      "link": "https://www.ntv.com.tr/ntvpara/bakan-simsek-enflasyon-57-ay-sonra-yuzde-30un-altinda-1744881"
-    },
-    {
-      "source": "ntvpara",
-      "text": "ekim ay yasl engelli ayl g odeme takvimi 2026 yasl engelli ayl klar yatt m 2026 ekim ay yasl engelli maas odeme tarihi ac kland yasl l k ayl g engelli ayl g alan vatandaslar odemeler bugun itibar yla hesaplara yat r lmaya baslanacak banka ptt hesaplar uzerinden cekilebilecek olan odemelerin",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-milyonlarca-hak-sahibinin-merakla-bekledigi-ekim-ayi-odemeleri-basladi-1744877"
-    },
-    {
-      "source": "ntvpara",
-      "text": "alt n fiyatlar kadar oldu 5 ekim gram ceyrek yar m alt n al s sat s fiyatlar piyasalarda yeni haftan n ilk saatlerinde alt n fiyatlar ndaki durum merak ediliyor serbest piyasada gram ceyrek yar m alt n al s sat s rakamlar yeni haftan n ilk gununde anl k olarak guncellendi gram alt n gune yukselisle basla",
-      "link": "https://www.ntv.com.tr/ntvpara/galeri-altin-fiyatlari-ne-kadar-oldu-5-ekim-gram-ceyrek-ve-yarim-altin-alis-satis-fiyatlari-1744869"
     }
   ],
   "research_reports_v8": {
