@@ -932,8 +932,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/rapport-therapeutics-ceosu-143272-dolar-degerinde-hisse-satt-93CH-4098127",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/skyainin-10-hissedar-bastion-trading-78262-dolar-degerinde-hisse-ald-93CH-4098129",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/skyainin-10-hissedar-bastion-trading-78262-dolar-degerinde-hisse-ald-93CH-4098129",
+        "investing:https://tr.investing.com/news/insider-trading-news/appian-ceosu-169-milyon-dolarlk-hisse-satt-93CH-4098128",
         "investing:https://tr.investing.com/news/insider-trading-news/rapport-therapeutics-ceosu-143272-dolar-degerinde-hisse-satt-93CH-4098127",
         "investing:https://tr.investing.com/news/insider-trading-news/pacific-biosciences-cfosu-205-milyon-dolarlk-hisse-satt-93CH-4098126",
         "investing:https://tr.investing.com/news/insider-trading-news/everpure-yoneticisi-mallun-yen-175-milyon-dolarlk-hisse-satt-93CH-4098125",
@@ -942,8 +944,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/pimco-dynamic-income-fund-yoneticisi-249508-dolar-hisse-ald-93CH-4098122",
         "investing:https://tr.investing.com/news/stock-market-news/abcin-ticaret-iliskileri-kritik-donemecte-4098121",
         "investing:https://tr.investing.com/news/insider-trading-news/mueller-water-products-yoneticisi-healy-29927-dolarlk-hisse-ald-93CH-4098119",
-        "investing:https://tr.investing.com/news/insider-trading-news/908-devices-cfosu-65150-dolarlk-hisse-satt-93CH-4098118",
-        "investing:https://tr.investing.com/news/economy-news/riyad-havalimanna-saldrlara-ragmen-suudi-konferanslar-devam-edecek-4098117",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -964,6 +964,8 @@
         "investing:https://tr.investing.com/analysis/2-ayda-43-getiren-temettu-portfoyu-investing-pro-200506165",
         "investing:https://tr.investing.com/analysis/borsada-2-ayda-41-kazanc-investing-pro-200506134",
         "investing:https://tr.investing.com/analysis/tera-grubundan-pusula-finans-hamlesi-finansal-ekosistem-genisliyor-200506104",
+        "investing:https://tr.investing.com/news/insider-trading-news/908-devices-cfosu-65150-dolarlk-hisse-satt-93CH-4098118",
+        "investing:https://tr.investing.com/news/economy-news/riyad-havalimanna-saldrlara-ragmen-suudi-konferanslar-devam-edecek-4098117",
         "investing:https://tr.investing.com/news/insider-trading-news/saba-capital-management-blackrock-esgden-355376-dolar-satt-93CH-4098112",
         "investing:https://tr.investing.com/news/stock-market-news/philips-uyku-apnesi-cihaz-davasn-kazand-4098111",
         "investing:https://tr.investing.com/news/stock-market-news/cin-gizli-kap-kollarn-ve-sanal-kontrolleri-yasaklayacak-4098107",
@@ -1431,9 +1433,7 @@
         "investing:https://tr.investing.com/news/insider-trading-news/docusign-cro-paula-hansen-227061-dolarlk-hisse-satt-93CH-4088904",
         "investing:https://tr.investing.com/news/insider-trading-news/snowflake-evp-christian-kleinerman-512-milyon-dolarlk-hisse-satt-93CH-4088903",
         "investing:https://tr.investing.com/news/insider-trading-news/docusign-ceosu-18-milyon-dolarlk-hisse-satt-93CH-4088902",
-        "investing:https://tr.investing.com/news/insider-trading-news/xometry-yoneticisi-randolph-altschuler-163-milyon-dolarlk-hisse-satt-93CH-4088901",
-        "investing:https://tr.investing.com/news/insider-trading-news/docusignn-hukuk-muduru-shaughnessy-825552-dolar-degerinde-hisse-satt-93CH-4088900",
-        "investing:https://tr.investing.com/news/insider-trading-news/docusign-yoneticisi-wilderotter-68800-dolarlk-hisse-satt-93CH-4088899"
+        "investing:https://tr.investing.com/news/insider-trading-news/xometry-yoneticisi-randolph-altschuler-163-milyon-dolarlk-hisse-satt-93CH-4088901"
       ]
     },
     "ntvpara": {
@@ -2144,6 +2144,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "skyai nin 10 hissedar bastion trading 78 262 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/skyainin-10-hissedar-bastion-trading-78262-dolar-degerinde-hisse-ald-93CH-4098129"
+    },
+    {
+      "source": "investing",
+      "text": "appian ceo su 1 69 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/appian-ceosu-169-milyon-dolarlk-hisse-satt-93CH-4098128"
+    },
     {
       "source": "tradingview",
       "text": "cin ulusal blockchain ag kuruyor bitcoin avantaj saglar m",
@@ -9633,16 +9643,6 @@
       "source": "investing",
       "text": "schwab ticaret aktivite endeksi eylul yukseldi",
       "link": "https://tr.investing.com/news/company-news/schwab-ticaret-aktivite-endeksi-eylulde-yukseldi-93CH-4090658"
-    },
-    {
-      "source": "bloomberght",
-      "text": "danimarka hukumetinin veri taban ndan 8 8 milyon kisinin kayd cal nd danimarka hukumeti vatandaslara ait verilerin tutuldugu merkezi veri taban na s z ld g n iceriginin buyuk k sm n n cal nd g n dogrulad veri ihlali danimarka vatandaslar ulkede ikamet eden yaklas k 8 8 milyon kisiyi etkiliyor",
-      "link": "https://www.bloomberght.com/danimarka-hukumetinin-veri-tabanindan-8-8-milyon-kisinin-kaydi-calindi-3790394"
-    },
-    {
-      "source": "bloomberght",
-      "text": "altman yapay zekan n faydalar baz riskler goze al nmal openai ceo su sam altman yapay zekan n saglayacag faydalar baz risklerin goze al nmas gerektigini savunarak yapay zeka duzenlemeleri konusunda anthropic temel yaklas m fark bulundugunu soyledi",
-      "link": "https://www.bloomberght.com/altman-yapay-zekanin-faydalari-icin-bazi-riskler-goze-alinmali-3790392"
     }
   ],
   "research_reports_v8": {
