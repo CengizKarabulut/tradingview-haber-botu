@@ -950,8 +950,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/sunrun-baskan-ve-crosu-paul-dickson-122971-dolar-hisse-satt-93CH-4098177",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/twist-bioscience-ceosu-emily-leproust-919373-dolar-degerinde-hisse-satt-93CH-4098180",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/twist-bioscience-ceosu-emily-leproust-919373-dolar-degerinde-hisse-satt-93CH-4098180",
+        "investing:https://tr.investing.com/news/economy-news/ispanyada-hukumet-degisikligi-enerji-politikasn-etkiler-mi-4098179",
         "investing:https://tr.investing.com/news/insider-trading-news/sunrun-baskan-ve-crosu-paul-dickson-122971-dolar-hisse-satt-93CH-4098177",
         "investing:https://tr.investing.com/news/insider-trading-news/ncino-ceosu-sean-desmond-150716-dolar-degerinde-ncno-hissesi-satt-93CH-4098176",
         "investing:https://tr.investing.com/news/insider-trading-news/sunrun-ceosu-mary-powell-188939-dolarlk-hisse-satt-93CH-4098175",
@@ -960,8 +962,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/sunrun-cao-maria-barak-13753-dolarlk-hisse-satt-93CH-4098170",
         "investing:https://tr.investing.com/news/insider-trading-news/workday-yoneticisi-david-duffield-185-milyon-dolarlk-hisse-satt-93CH-4098169",
         "investing:https://tr.investing.com/news/insider-trading-news/sunrun-cfosu-danny-abajian-129931-dolar-degerinde-hisse-satt-93CH-4098168",
-        "investing:https://tr.investing.com/news/economy-news/bilime-kuresel-guven-pandemi-oncesi-seviyelerin-altna-dustu-4098166",
-        "investing:https://tr.investing.com/news/insider-trading-news/twilio-ceosu-shipchandler-42-milyon-dolarlk-hisse-satt-93CH-4098165",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -982,6 +982,8 @@
         "investing:https://tr.investing.com/analysis/2-ayda-43-getiren-temettu-portfoyu-investing-pro-200506165",
         "investing:https://tr.investing.com/analysis/borsada-2-ayda-41-kazanc-investing-pro-200506134",
         "investing:https://tr.investing.com/analysis/tera-grubundan-pusula-finans-hamlesi-finansal-ekosistem-genisliyor-200506104",
+        "investing:https://tr.investing.com/news/economy-news/bilime-kuresel-guven-pandemi-oncesi-seviyelerin-altna-dustu-4098166",
+        "investing:https://tr.investing.com/news/insider-trading-news/twilio-ceosu-shipchandler-42-milyon-dolarlk-hisse-satt-93CH-4098165",
         "investing:https://tr.investing.com/news/insider-trading-news/onemednet-ceosu-aaron-green-47762-dolar-degerinde-hisse-satt-93CH-4098164",
         "investing:https://tr.investing.com/news/insider-trading-news/gapin-hukuk-direktoru-648679-dolarlk-hisse-satt-93CH-4098163",
         "investing:https://tr.investing.com/news/insider-trading-news/onemednet-cfo-robert-golden-55290-dolarlk-hisse-satt-93CH-4098162",
@@ -1449,9 +1451,7 @@
         "investing:https://tr.investing.com/news/company-news/genmab-yumurtalk-kanseri-ilac-aday-icin-deneme-sonuclarn-acklad-93CH-4088976",
         "investing:https://tr.investing.com/news/economy-news/bessent-hazine-tahvil-getirilerindeki-arts-kuresel-trend-4088975",
         "investing:https://tr.investing.com/news/stock-market-news/turkiye-teminat-oran-indirimini-30-ekime-kadar-uzatt-93CH-4088973",
-        "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972",
-        "investing:https://tr.investing.com/news/stock-market-news/abdnin-vistraya-nukleer-enerji-icin-42-milyar-dolar-kredi-verecegi-bildiriliyor-4088969",
-        "investing:https://tr.investing.com/news/economy-news/riyaddaki-aramco-tesisi-yaknnda-duman-ve-yangn-bildirildi-4088966"
+        "investing:https://tr.investing.com/news/insider-trading-news/pennymac-mortgage-cao-hendry-19209-dolarlk-hisse-satt-93CH-4088972"
       ]
     },
     "ntvpara": {
@@ -2168,6 +2168,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "twist bioscience ceo su emily leproust 919 373 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/twist-bioscience-ceosu-emily-leproust-919373-dolar-degerinde-hisse-satt-93CH-4098180"
+    },
+    {
+      "source": "investing",
+      "text": "ispanya hukumet degisikligi enerji politikas n etkiler",
+      "link": "https://tr.investing.com/news/economy-news/ispanyada-hukumet-degisikligi-enerji-politikasn-etkiler-mi-4098179"
+    },
     {
       "source": "investing",
       "text": "sunrun baskan cro su paul dickson 122 971 dolar hisse satt",
@@ -9657,16 +9667,6 @@
       "source": "investing",
       "text": "pubmatic muhendislik baskan mukul kumar 149 bin dolarl k hisse satt",
       "link": "https://tr.investing.com/news/insider-trading-news/pubmatic-muhendislik-baskan-mukul-kumar-149-bin-dolarlk-hisse-satt-93CH-4090871"
-    },
-    {
-      "source": "investing",
-      "text": "american well cfo su 55 666 dolarl k amwl hissesi satt",
-      "link": "https://tr.investing.com/news/insider-trading-news/american-well-cfosu-55666-dolarlk-amwl-hissesi-satt-93CH-4090870"
-    },
-    {
-      "source": "investing",
-      "text": "intellinetics yoneticisi paul seid 834 dolar degerinde hisse ald",
-      "link": "https://tr.investing.com/news/insider-trading-news/intellinetics-yoneticisi-paul-seid-834-dolar-degerinde-hisse-ald-93CH-4090869"
     }
   ],
   "research_reports_v8": {
