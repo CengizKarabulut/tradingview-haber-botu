@@ -218,7 +218,7 @@ class UnifiedNewsFormattingTests(unittest.TestCase):
         self.assertTrue(message.endswith("</a>"))
 
 
-    def test_market_news_contains_x_ready_share(self):
+    def test_market_news_is_clean_telegram_card_without_x_share(self):
         item = {
             "source": "bloomberght",
             "title": "BIST 100 güne yükselişle başladı",
@@ -230,12 +230,15 @@ class UnifiedNewsFormattingTests(unittest.TestCase):
             "link": "https://www.bloomberght.com/ornek2",
         }
         message = v11.layered_build_message(item)
-        self.assertIn("X İÇİN HAZIR PAYLAŞIM", message)
-        self.assertIn("Kaynak: Bloomberg HT | 09.10.2026 10:05", message)
-        self.assertIn("https://www.bloomberght.com/ornek2", message)
+        self.assertIn("PİYASA HABERİ | Bloomberg HT", message)
+        self.assertIn("09.10.2026 10:05", message)
+        self.assertIn("45,6 milyar TL", message)
+        self.assertIn("Haberi kaynağında aç", message)
+        self.assertNotIn("X İÇİN HAZIR PAYLAŞIM", message)
+        self.assertNotIn("<blockquote>", message)
         self.assertLessEqual(len(message), 3900)
 
-    def test_calendar_contains_x_ready_share(self):
+    def test_calendar_is_news_card_without_x_share(self):
         item = {
             "source": "forexfactory",
             "title": "USD — Tarım Dışı İstihdam",
@@ -246,12 +249,13 @@ class UnifiedNewsFormattingTests(unittest.TestCase):
             "link": "https://www.forexfactory.com/calendar",
         }
         message = v11.layered_build_message(item)
-        self.assertIn("X İÇİN HAZIR PAYLAŞIM", message)
         self.assertIn("Açıklanan: 200K", message)
         self.assertIn("Beklenti: 170K", message)
-        self.assertIn("Kaynak: Forex Factory", message)
+        self.assertIn("Önceki: 165K", message)
+        self.assertIn("Ekonomik takvim kaynağını aç", message)
+        self.assertNotIn("X İÇİN HAZIR PAYLAŞIM", message)
 
-    def test_research_caption_contains_compact_x_ready_share(self):
+    def test_research_caption_stays_research_only(self):
         item = {
             "source": "akyatirim",
             "report_type": "sirket_raporu",
@@ -267,8 +271,10 @@ class UnifiedNewsFormattingTests(unittest.TestCase):
             "meta": {},
         }
         caption = v11._summary_caption(item, summary)
-        self.assertIn("X İÇİN HAZIR PAYLAŞIM", caption)
-        self.assertIn("Kaynak:", caption)
+        self.assertIn("Yatırımcı için anlamı", caption)
+        self.assertIn("Rapordan öne çıkanlar", caption)
+        self.assertIn("Resmî araştırma kaynağını aç", caption)
+        self.assertNotIn("X İÇİN HAZIR PAYLAŞIM", caption)
         self.assertLessEqual(len(caption), v11.SUMMARY_CAPTION_LIMIT)
 
 
@@ -329,7 +335,8 @@ class UnifiedNewsFormattingTests(unittest.TestCase):
             "link": "https://tr.investing.com/news/example",
         }
         message = v11.layered_build_message(item)
-        self.assertIn("X İÇİN HAZIR PAYLAŞIM", message)
+        self.assertNotIn("X İÇİN HAZIR PAYLAŞIM", message)
+        self.assertNotIn("<blockquote>", message)
         self.assertIn("BIST 100", message)
         self.assertNotIn("Related Companies", message)
 
