@@ -2,8 +2,27 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1679796",
+      "last_seen_key": "kap:1679855",
       "seen_keys": [
+        "kap:1679855",
+        "kap:1679854",
+        "kap:1679853",
+        "kap:1679852",
+        "kap:1679851",
+        "kap:1679850",
+        "kap:1679840",
+        "kap:1679839",
+        "kap:1679837",
+        "kap:1679836",
+        "kap:1679835",
+        "kap:1679834",
+        "kap:1679823",
+        "kap:1679822",
+        "kap:1679821",
+        "kap:1679820",
+        "kap:1679809",
+        "kap:1679808",
+        "kap:1679807",
         "kap:1679796",
         "kap:1679795",
         "kap:1679794",
@@ -39,7 +58,6 @@
         "kap:1679705",
         "kap:1679704",
         "kap:1679703",
-        "kap:1679701",
         "kap:1679700",
         "kap:1679699",
         "kap:1679698",
@@ -80,6 +98,7 @@
         "kap:1679650",
         "kap:1679649",
         "kap:1679648",
+        "kap:1679701",
         "kap:1679647",
         "kap:1679646",
         "kap:1679645",
@@ -203,6 +222,8 @@
         "matriks:matriks:6814001:0",
         "matriks:matriks:6813985:0",
         "matriks:matriks:6813981:0",
+        "matriks:matriks:6813922:0",
+        "matriks:matriks:6813920:0",
         "matriks:matriks:6813918:0",
         "matriks:matriks:6813916:0",
         "matriks:matriks:6813908:0",
@@ -211,8 +232,11 @@
         "matriks:matriks:6813819:0",
         "matriks:matriks:6813817:0",
         "matriks:matriks:6813809:0",
+        "matriks:matriks:6813798:0",
+        "matriks:matriks:6813797:0",
         "matriks:matriks:6813771:0",
         "matriks:matriks:6813762:0",
+        "matriks:matriks:6813725:0",
         "matriks:matriks:6813679:0",
         "matriks:matriks:6813675:0",
         "matriks:matriks:6813672:0",
@@ -251,20 +275,23 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6accfac195016b5817e6a13b/PICNEWS/tr/piyasaya-bakis-borsa-gunu-dususle-kapatti-12-10-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6acd089724008d7d437411bd/PICNEWS/tr/avrupa-da-etf-lere-127-4-milyar-euro-giris-altin-yatirimlari-rekor-kirdi-12-10-26/",
       "seen_keys": [
-        "forinvest:https://www.foreks.com/haber/detay/6accfac195016b5817e6a13b/PICNEWS/tr/piyasaya-bakis-borsa-gunu-dususle-kapatti-12-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6accec3095016b5817e69fde/PICNEWS/tr/bitcoin-jeopolitik-risklerden-ayrismaya-basliyor-12-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6accea5f24008d7d43740f02/PICNEWS/tr/fitch-ten-turkiye-icin-enflasyon-ve-politika-uyarisi-yuksek-enflasyon-dengelenme-surecini-zorlayacak-12-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6accea0295016b5817e69fc1/PICNEWS/tr/fitch-ten-fransa-ya-borc-ve-butce-uyarisi-acigin-kapatilmasi-giderek-zorlasiyor-12-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6acce70c95016b5817e69f9e/PICNEWS/tr/iran-hurmuz-bogazi-nda-iki-gunde-ucuncu-super-tankerin-vuruldugunu-acikladi-12-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6acce48e95016b5817e69f65/PICNEWS/tr/jpmorgan-turkiye-icin-buyume-tahminini-dusurdu-12-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6acce25ca786db5e8f687764/PICNEWS/tr/tav-havalimanlari-nin-turkiye-de-yolcu-trafigi-9-ayda-yuzde-1-2-artti-ulasti-12-10-26/"
+        "forinvest:https://www.foreks.com/haber/detay/6acd089724008d7d437411bd/PICNEWS/tr/avrupa-da-etf-lere-127-4-milyar-euro-giris-altin-yatirimlari-rekor-kirdi-12-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acd081b24008d7d437411b8/PICNEWS/tr/ab-ingiltere-zirvesi-20-kasim-da-bruksel-de-yapilacak-12-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acd069a95016b5817e6a282/PICNEWS/tr/fenerbahce-futbol-as-nin-uc-aylik-net-kari-yuzde-536-artti-12-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acd05fb95016b5817e6a277/PICNEWS/tr/erdogan-fon-meselesini-suratle-cozmek-icin-yogun-gayret-icindeyiz-12-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acd03fc24008d7d4374115c/PICNEWS/tr/hurmuz-bogazi-nda-petrol-tankerine-saldiri-devrim-muhafizlari-sorumlulugu-ustlendi-12-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acd01f595016b5817e6a21e/PICNEWS/tr/erdogan-fon-meselesindeki-guncel-durumu-kabine-de-degerlendirdik-12-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acd005924008d7d4374110d/PICNEWS/tr/kazakistan-merkez-bankasi-altin-satisina-hazirlaniyor-rezervlerde-dolarin-payi-artirilacak-12-10-26/"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/merzden-abd-ile-rusya-arasindaki-akaryakit-anlasmasina-tepki-3791111",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/goldman-sachs-kuresel-hisse-senetleri-icin-tavsiyesini-yukseltti-3791134",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/goldman-sachs-kuresel-hisse-senetleri-icin-tavsiyesini-yukseltti-3791134",
+        "bloomberght:https://www.bloomberght.com/delta-riyad-ucuslarini-mart-2027-ye-erteledi-3791131",
+        "bloomberght:https://www.bloomberght.com/erdogan-ekim-ayinda-1-milyona-kadar-anapara-odemelerine-baslanacak-3791122",
         "bloomberght:https://www.bloomberght.com/merzden-abd-ile-rusya-arasindaki-akaryakit-anlasmasina-tepki-3791111",
         "bloomberght:https://www.bloomberght.com/opay-new-york-taki-halka-arzinda-500-milyon-dolar-hedefliyor-3791109",
         "bloomberght:https://www.bloomberght.com/almanya-nin-enerji-cikmazi-3791107",
@@ -342,16 +369,20 @@
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-islem-goren-sirketten-konkordato-basvurusu-h39199",
         "cnbce:https://www.cnbce.com/borsa/bu-hafta-7-hisse-uzerindeki-yasaklar-kalkacak-h39178",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-3-sirketten-temettu-karari-2-odeme-tamamlandi-biri-haftaya-h39172",
+        "cnbce:https://www.cnbce.com/haberler/iskur-genclik-programinda-yeni-donem-150-bin-ogrenciye-gunluk-1375-tl-destek-h39313",
+        "cnbce:https://www.cnbce.com/haberler/ankarada-yarin-bu-yollar-trafige-kapatilacak-h39312",
+        "cnbce:https://www.cnbce.com/haberler/trump-rusyadan-dizel-tedariki-kararini-savundu-dogru-secim-yaptim-h39311",
         "cnbce:https://www.cnbce.com/haberler/cumhurbaskani-erdogan-fon-meselesinin-cozumu-icin-yogun-gayret-icerisindeyiz-h39309",
         "cnbce:https://www.cnbce.com/haberler/yapay-zeka-servet-esitsizligini-artiriyor-kazanc-en-zengin-yuzde-1de-yogunlasiyor-h39307",
         "cnbce:https://www.cnbce.com/haberler/jpmorgandan-turkiye-ekonomisi-icin-yeni-tahmin-buyume-beklentisi-geriledi-h39300",
         "cnbce:https://www.cnbce.com/sirket-haberleri/starbucks-chipotleyi-satin-alacak-mi-sirketten-net-yanit-h39299",
         "cnbce:https://www.cnbce.com/haberler/tcmb-rezervlerinde-6-hafta-sonra-yukselis-bekleniyor-h39298",
+        "cnbce:https://www.cnbce.com/haberler/fonlardan-cikan-para-nereye-gitti-h39277",
+        "cnbce:https://www.cnbce.com/dunya/avrupada-borc-alarmi-fransadan-sonra-sira-italyada-mi-h39188",
+        "cnbce:https://www.cnbce.com/yapay-zeka/yapay-zeka-ve-teknoloji-devleri-hollywoodun-yeni-hedefinde-h39200",
         "cnbce:https://www.cnbce.com/haberler/otomotiv-devi-bydden-avrupada-genisleme-sinyali-ikinci-ve-ucuncu-fabrikalar-gundemde-h39297",
         "cnbce:https://www.cnbce.com/haberler/abden-kuzey-kore-ve-rusya-hattina-yaptirim-7-kisi-ve-kurulus-hedefte-h39296",
         "cnbce:https://www.cnbce.com/haberler/microsofttan-nvidiaya-rakip-cip-hamlesi-maia-300-icin-milyonluk-hedef-h39295",
-        "cnbce:https://www.cnbce.com/haberler/fonlardan-cikan-para-nereye-gitti-h39277",
-        "cnbce:https://www.cnbce.com/dunya/avrupada-borc-alarmi-fransadan-sonra-sira-italyada-mi-h39188",
         "cnbce:https://www.cnbce.com/haberler/suudi-arabistandaki-saldiri-sonrasi-hangi-hava-yolu-sirketleri-ucuslarini-iptal-etti-h39293",
         "cnbce:https://www.cnbce.com/haberler/ingden-dolartl-enflasyon-ve-faiz-tahmini-fon-krizi-sonrasi-degerlendirme-h39275",
         "cnbce:https://www.cnbce.com/haberler/kritik-minerallerde-guc-mucadelesi-avrupa-cin-ve-abd-arasindaki-yarista-nerede-h39274",
@@ -399,6 +430,7 @@
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-haftaya-yukselisle-basladi/4085627",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyedeki-havalimanlarinda-9-ayda-193-milyondan-fazla-yolcu-tasindi/4085931",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/trafik-ve-kaskoda-akilli-sistem-ile-agustostan-bu-yana-195-bini-askin-eksper-atamasi-yapildi/4085785",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-riyadda-mevkidaslariyla-enerji-is-birligini-gorustu/4086482",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4086350",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-12-ekim-2026/4086152",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ab-savunma-inovasyonunu-115-milyon-avroluk-programla-destekleyecek/4085959",
@@ -419,8 +451,16 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/microsoft-hisseleri-neden-bugun-yukseliyor-93CH-4099918",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/galantas-goldda-118-milyon-hisse-icin-varant-kullanld-93CH-4099965",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/galantas-goldda-118-milyon-hisse-icin-varant-kullanld-93CH-4099965",
+        "investing:https://tr.investing.com/news/company-news/gamestop-hissesi-2688-dolarla-52-haftalk-zirveye-ulast-93CH-4099964",
+        "investing:https://tr.investing.com/news/economy-news/fedin-hammack-kstlayc-politikaya-hzl-gecis-cagrs-yapt-4099963",
+        "investing:https://tr.investing.com/news/stock-market-news/meta-gelismis-gorev-yeteneklerine-sahip-muse-wonder-ai-modellerini-tantt-4099961",
+        "investing:https://tr.investing.com/news/stock-market-news/10x-genomics-hissesi-bugun-neden-yuzde-10-dustu-93CH-4099959",
+        "investing:https://tr.investing.com/news/company-news/leidos-abd-ordusu-entegrasyon-test-programna-katlyor-93CH-4099958",
+        "investing:https://tr.investing.com/news/stock-market-news/sp-500-etf-hisse-hacmi-sakin-takvim-nedeniyle-22-yln-dibinde-93CH-4099955",
+        "investing:https://tr.investing.com/news/transcripts/astrazenecann-yeni-kemik-ilac-nadir-hastalk-stratejisinin-merkezinde-93CH-4099954",
         "investing:https://tr.investing.com/news/stock-market-news/microsoft-hisseleri-neden-bugun-yukseliyor-93CH-4099918",
         "investing:https://tr.investing.com/news/analyst-ratings/raymond-james-deneme-verilerinin-ardndan-mirum-hissesi-icin-al-tavsiyesini-korudu-93CH-4099915",
         "investing:https://tr.investing.com/news/insider-trading-news/citizens--northern-yoneticisi-katherine-shattuck-204-dolar-hisse-ald-93CH-4099913",
@@ -657,6 +697,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "galantas gold 1 18 milyon hisse varant kullan ld",
+      "link": "https://tr.investing.com/news/company-news/galantas-goldda-118-milyon-hisse-icin-varant-kullanld-93CH-4099965"
+    },
+    {
+      "source": "investing",
+      "text": "gamestop hissesi 26 88 dolarla 52 haftal k zirveye ulast",
+      "link": "https://tr.investing.com/news/company-news/gamestop-hissesi-2688-dolarla-52-haftalk-zirveye-ulast-93CH-4099964"
+    },
+    {
+      "source": "investing",
+      "text": "fed in hammack k s tlay c politikaya h zl gecis cagr s yapt",
+      "link": "https://tr.investing.com/news/economy-news/fedin-hammack-kstlayc-politikaya-hzl-gecis-cagrs-yapt-4099963"
+    },
+    {
+      "source": "investing",
+      "text": "meta gelismis gorev yeteneklerine sahip muse wonder ai modellerini tan tt",
+      "link": "https://tr.investing.com/news/stock-market-news/meta-gelismis-gorev-yeteneklerine-sahip-muse-wonder-ai-modellerini-tantt-4099961"
+    },
+    {
+      "source": "investing",
+      "text": "10x genomics hissesi bugun neden yuzde 10 dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/10x-genomics-hissesi-bugun-neden-yuzde-10-dustu-93CH-4099959"
+    },
+    {
+      "source": "investing",
+      "text": "leidos abd ordusu entegrasyon test program na kat l yor",
+      "link": "https://tr.investing.com/news/company-news/leidos-abd-ordusu-entegrasyon-test-programna-katlyor-93CH-4099958"
+    },
+    {
+      "source": "investing",
+      "text": "s p 500 etf hisse hacmi sakin takvim nedeniyle 22 y l n dibinde",
+      "link": "https://tr.investing.com/news/stock-market-news/sp-500-etf-hisse-hacmi-sakin-takvim-nedeniyle-22-yln-dibinde-93CH-4099955"
+    },
+    {
+      "source": "investing",
+      "text": "astrazeneca n n yeni kemik ilac nadir hastal k stratejisinin merkezinde",
+      "link": "https://tr.investing.com/news/transcripts/astrazenecann-yeni-kemik-ilac-nadir-hastalk-stratejisinin-merkezinde-93CH-4099954"
+    },
+    {
+      "source": "bloomberght",
+      "text": "goldman sachs kuresel hisse senetleri tavsiyesini yukseltti goldman sachs sirket karlar ndaki buyumenin hisse senedi piyasalar n desteklemeye devam ettigini degerlemelerin daha cazip hale geldigini belirterek kuresel hisse senetlerine yonelik uc ayl k yat r m tavsiyesini yukseltti",
+      "link": "https://www.bloomberght.com/goldman-sachs-kuresel-hisse-senetleri-icin-tavsiyesini-yukseltti-3791134"
+    },
+    {
+      "source": "bloomberght",
+      "text": "delta riyad ucuslar n mart 2027 ye erteledi delta air lines orta dogu devam eden jeopolitik gerilimler nedeniyle atlanta riyad aras nda baslatmay planlad g aktarmas z ucuslar mart 2027 ye erteledi",
+      "link": "https://www.bloomberght.com/delta-riyad-ucuslarini-mart-2027-ye-erteledi-3791131"
+    },
+    {
+      "source": "bloomberght",
+      "text": "erdogan ekim ay nda 1 milyon liraya kadar anapara odemelerine baslanacak cumhurbaskan recep tayyip erdogan kabine toplant s n n ard ndan fon yat r mc lar na yonelik 1 milyon liraya kadar anapara odemelerinin kanun teklifinin meclis ten gecmesiyle birlikte ekim ay nda baslayacag n ac klad",
+      "link": "https://www.bloomberght.com/erdogan-ekim-ayinda-1-milyona-kadar-anapara-odemelerine-baslanacak-3791122"
+    },
+    {
+      "source": "kap",
+      "text": "soke paylar n geri al nmas na iliskin bildirim 12 10 2026 tarihli pay geri al m islemleri hk sirket soke degirmencilik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679855"
+    },
+    {
+      "source": "kap",
+      "text": "aksgy paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket akis gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679854"
+    },
+    {
+      "source": "kap",
+      "text": "ozatd yeni is iliskisi yeni is iliskisi hk sirket ozata denizcilik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679853"
+    },
+    {
+      "source": "kap",
+      "text": "uluun paylar n geri al nmas na iliskin bildirim 12 10 2026 tarihli pay geri al m islemleri hk sirket ulusoy un sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679852"
+    },
+    {
+      "source": "kap",
+      "text": "taten paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket tatlipinar enerji uretim a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679851"
+    },
+    {
+      "source": "kap",
+      "text": "aagyo paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket agaoglu avrasya gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679850"
+    },
+    {
+      "source": "kap",
+      "text": "hekts ozel durum ac klamas genel yeni bag ms z yonetim kurulu uyesi secimi hk sirket hektas ticaret t a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679840"
+    },
+    {
+      "source": "kap",
+      "text": "tspor sorumluluk beyan konsolide 01 06 2026 31 08 2026 finansal tablolar sorumluluk beyan sirket trabzonspor sportif yatirim futbol isletmeciligi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679839"
+    },
+    {
+      "source": "kap",
+      "text": "tspor faaliyet raporu konsolide 01 06 2026 31 08 2026 donemi faaliyet raporu sirket trabzonspor sportif yatirim futbol isletmeciligi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679837"
+    },
+    {
+      "source": "kap",
+      "text": "tspor finansal rapor sirket trabzonspor sportif yatirim futbol isletmeciligi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679836"
+    },
+    {
+      "source": "kap",
+      "text": "ercb paylar n geri al nmas na iliskin bildirim 12 10 2026 tarihli pay geri al m islemleri sirket erciyas celik boru sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679835"
+    },
+    {
+      "source": "kap",
+      "text": "oya oyyat toptan al s sat s islemi bildirimi hektas ticaret turk a s toptan al s sat s islemi bildirimi sirket oyak yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679834"
+    },
+    {
+      "source": "kap",
+      "text": "atsyh kar pay dag t m islemlerine iliskin bildirim 2025 yili hesap donemi kar dagitimi yonetim kurulu hk sirket atlantis yatirim holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679823"
+    },
+    {
+      "source": "kap",
+      "text": "armgd paylar n geri al nmas na iliskin bildirim 12 10 2026 tarihli pay al m islemleri hk sirket armada gida ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679822"
+    },
+    {
+      "source": "kap",
+      "text": "figof ihrac tavan na iliskin bildirim borclanma arac ihrac yonetim kurulu karar revizesi sirket figo finans faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679821"
+    },
+    {
+      "source": "kap",
+      "text": "ekim paylar n geri al nmas na iliskin bildirim 12 ekim 2026 tarihli pay geri al m islemleri sirket ekim turizm ticaret sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679820"
+    },
+    {
+      "source": "kap",
+      "text": "zgyo pay al m sat m bildirimi pay al m bildirimi sirket z gayrimenkul yatirim ortakligi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679809"
+    },
+    {
+      "source": "kap",
+      "text": "ekdmr paylar n geri al nmas na iliskin bildirim 12 10 2026 tarihli geri al m islemleri sirket ekinciler demir celik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679808"
+    },
+    {
+      "source": "kap",
+      "text": "borsk paylar n geri al nmas na iliskin bildirim 12 10 2026 tarihli pay geri al m islemleri sirket bor seker a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1679807"
+    },
     {
       "source": "investing",
       "text": "microsoft hisseleri neden bugun yukseliyor",
