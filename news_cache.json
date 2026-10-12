@@ -2,8 +2,20 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
+<<<<<<< Updated upstream
       "last_seen_key": "kap:1678945",
       "seen_keys": [
+=======
+      "last_seen_key": "kap:1678955",
+      "seen_keys": [
+        "kap:1678955",
+        "kap:1678954",
+        "kap:1678951",
+        "kap:1678950",
+        "kap:1678949",
+        "kap:1678948",
+        "kap:1678946",
+>>>>>>> Stashed changes
         "kap:1678945",
         "kap:1678944",
         "kap:1678942",
@@ -375,9 +387,13 @@
         "matriks:matriks:6811773:0",
         "matriks:matriks:6811763:0",
         "matriks:matriks:6811759:0",
+<<<<<<< Updated upstream
         "matriks:matriks:6811755:0",
         "matriks:matriks:6811752:0",
         "matriks:matriks:6811751:0"
+=======
+        "matriks:matriks:6811755:0"
+>>>>>>> Stashed changes
       ]
     },
     "forinvest": {
@@ -393,12 +409,17 @@
       ]
     },
     "bloomberght": {
+<<<<<<< Updated upstream
       "last_seen_key": "bloomberght:https://www.bloomberght.com/perakande-satislar-agustos-3791052",
       "seen_keys": [
         "bloomberght:https://www.bloomberght.com/perakande-satislar-agustos-3791052",
         "bloomberght:https://www.bloomberght.com/goldman-sachs-kardemir-de-yine-pay-artirdi-3791051",
         "bloomberght:https://www.bloomberght.com/likidite-fazlasinda-belirgin-gerileme-3791053",
         "bloomberght:https://www.bloomberght.com/tarsim-de-temel-sigorta-paketine-16-urun-daha-ekleniyor-3791049",
+=======
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-jeopolitik-gerilim-riski-3791047",
+      "seen_keys": [
+>>>>>>> Stashed changes
         "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-jeopolitik-gerilim-riski-3791047",
         "bloomberght:https://www.bloomberght.com/tahvil-satislari-faiz-artirim-baskisini-azaltiyor-3791046",
         "bloomberght:https://www.bloomberght.com/bbva-dan-tl-carry-trade-analizi-3791045",
@@ -2293,6 +2314,7 @@
   },
   "fingerprints": [
     {
+<<<<<<< Updated upstream
       "source": "aaekonomi",
       "text": "kuresel piyasalar haftaya temkinli iyimserlikle baslad kuresel piyasalar rusya n n dizel ihracat yasag n k smen kald rmas yla olusan iyimserlige kars n orta dogu daki cat smalar n etkisiyle haftaya temkinli baslad anadolu ajans",
       "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-haftaya-temkinli-iyimserlikle-basladi/4085563"
@@ -2328,6 +2350,8 @@
       "link": "https://www.bloomberght.com/tarsim-de-temel-sigorta-paketine-16-urun-daha-ekleniyor-3791049"
     },
     {
+=======
+>>>>>>> Stashed changes
       "source": "bloomberght",
       "text": "kuresel piyasalarda jeopolitik gerilim riski riyad n ana havaliman na hafta sonu duzenlenen olumcul sald r lar yemen deki husilerin suudi arabistan n merkezini vurabilecek kapasiteye sahip oldugunu gosterirken abd yi icine cekebilecek cat sma riskini art rd",
       "link": "https://www.bloomberght.com/kuresel-piyasalarda-jeopolitik-gerilim-riski-3791047"
@@ -2399,6 +2423,44 @@
     },
     {
       "source": "kap",
+<<<<<<< Updated upstream
+=======
+      "text": "lidfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfldfk12711 isin kodl bono kupon odemesi sirket lider faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678955"
+    },
+    {
+      "source": "kap",
+      "text": "megmt pay baz nda devre kesici bildirimi megmt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678954"
+    },
+    {
+      "source": "kap",
+      "text": "tfnvk izahname ihracc bilgi dokuman spk taraf ndan onaylanan 6 tertip kira sertifikas ihrac na iliskin spk onay hk sirket tf varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678951"
+    },
+    {
+      "source": "kap",
+      "text": "tfnvk izahname ozet spk taraf ndan onaylanan 6 tertip kira sertifikas ihrac na iliskin spk onay hk sirket tf varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678950"
+    },
+    {
+      "source": "kap",
+      "text": "kocmt pay baz nda devre kesici bildirimi kocmt e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678949"
+    },
+    {
+      "source": "kap",
+      "text": "tfnvk izahname sermaye piyasas arac notu spk taraf ndan onaylanan 6 tertip kira sertifikas ihrac na iliskin spk onay hk sirket tf varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678948"
+    },
+    {
+      "source": "kap",
+      "text": "nrl sirket genel bilgi formu sirket nurol portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1678946"
+    },
+    {
+      "source": "kap",
+>>>>>>> Stashed changes
       "text": "hlvks tertip ihrac belgesi emlak konut gyo 11 tertip ihrac belgesi sirket halk varlik kiralama a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1678945"
     },
