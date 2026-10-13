@@ -490,8 +490,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/cme-msr-vadeli-islemleri-9-ekimde-gunluk-rekor-hacme-ulast-93CH-4100129",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-personalised-hissesi-satt-compass-pathways-ald-93CH-4100132",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-personalised-hissesi-satt-compass-pathways-ald-93CH-4100132",
+        "investing:https://tr.investing.com/news/economic-indicators/japonya-ufe-eylulde-guclu-yen-ve-dusen-petrol-ile-geriledi-4100133",
         "investing:https://tr.investing.com/news/company-news/cme-msr-vadeli-islemleri-9-ekimde-gunluk-rekor-hacme-ulast-93CH-4100129",
         "investing:https://tr.investing.com/news/stock-market-news/blackrock-ksa-vadeli-tahvillerde-yukselise-gecti-abd-hisse-agrlgn-kapatt-4100127",
         "investing:https://tr.investing.com/news/analyst-ratings/evercore-isi-meta-hissesi-icin-outperform-notunu-korudu-93CH-4100125",
@@ -500,8 +502,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/google-suncatcher-projesi-uydusunu-yorungeye-gonderdi-93CH-4100121",
         "investing:https://tr.investing.com/news/company-news/inseego-sdwan-cihazlar-icin-coklu-wan-yazlm-tantt-93CH-4100120",
         "investing:https://tr.investing.com/news/stock-market-news/sp-dow-jones-indices-hkex-ile-ortak-endeks-baslatt-93CH-4100114",
-        "investing:https://tr.investing.com/news/stock-market-news/mueller-water-products-hissesi-cfo-degisikligi-ile-dustu-4100118",
-        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-viper-energy-icin-hisse-fiyat-hedefini-yukseltti-93CH-4100113",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -522,6 +522,8 @@
         "investing:https://tr.investing.com/analysis/endeks-caklrken-yesilde-kalmak-bu-stratejiyi-kimse-anlatmaz-investing-pro-200506239",
         "investing:https://tr.investing.com/analysis/halka-arzlarda-2023teki-donem-geri-mi-geliyor-200506170",
         "investing:https://tr.investing.com/analysis/2-ayda-43-getiren-temettu-portfoyu-investing-pro-200506165",
+        "investing:https://tr.investing.com/news/stock-market-news/mueller-water-products-hissesi-cfo-degisikligi-ile-dustu-4100118",
+        "investing:https://tr.investing.com/news/analyst-ratings/mizuho-viper-energy-icin-hisse-fiyat-hedefini-yukseltti-93CH-4100113",
         "investing:https://tr.investing.com/news/stock-market-news/bumble-hissesi-neden-bugun-yukseliyor-93CH-4100002",
         "investing:https://tr.investing.com/news/economy-news/nakliye-maliyetleri-ham-petrolun-ucte-birine-ulast-4100001",
         "investing:https://tr.investing.com/news/insider-trading-news/saba-capital-blackrock-ecat-hisselerinde-47076-dolar-satt-93CH-4099998",
@@ -656,8 +658,36 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6813797:0",
+      "last_seen_key": "tradingview:fxstreet:94852cda1d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:94852cda1d9e8:0",
+        "tradingview:fxstreet:cf2062618d9e8:0",
+        "tradingview:matriks:6814096:0",
+        "tradingview:matriks:6814091:0",
+        "tradingview:matriks:6814090:0",
+        "tradingview:fxstreet:6760aeda2d9e8:0",
+        "tradingview:cointelegraph:4bbe87107d9e8:0",
+        "tradingview:matriks:6814034:0",
+        "tradingview:fxstreet:586ead0a3d9e8:0",
+        "tradingview:cointelegraph:c6582a8c4d9e8:0",
+        "tradingview:matriks:6814001:0",
+        "tradingview:matriks:6813985:0",
+        "tradingview:fxstreet:36b1423abd9e8:0",
+        "tradingview:matriks:6813981:0",
+        "tradingview:matriks:6813922:0",
+        "tradingview:matriks:6813920:0",
+        "tradingview:matriks:6813918:0",
+        "tradingview:matriks:6813916:0",
+        "tradingview:beincrypto:837f0a9a6d9e8:0",
+        "tradingview:matriks:6813908:0",
+        "tradingview:matriks:6813905:0",
+        "tradingview:matriks:6813886:0",
+        "tradingview:fxstreet:7229c6842d9e8:0",
+        "tradingview:beincrypto:6d5fc3d4fd9e8:0",
+        "tradingview:matriks:6813819:0",
+        "tradingview:matriks:6813817:0",
+        "tradingview:matriks:6813809:0",
+        "tradingview:matriks:6813798:0",
         "tradingview:matriks:6813797:0",
         "tradingview:beincrypto:223b35681d9e8:0",
         "tradingview:matriks:6813771:0",
@@ -802,6 +832,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "hindistan artan enflasyon bask lar rbi yi zorluyor societe generale",
+      "link": "https://tr.tradingview.com/news/fxstreet:94852cda1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin yuan ticaret yumusamas pboc sabitlemesi yuan destekliyor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:cf2062618d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "analist toplant s sirket notu beslr oyak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6814096:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco beklentileri agesa akgrt deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6814091:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco beklentileri albrk deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6814090:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "usd chf fiyat analizi gunluk grafik kar s k momentum sinyallerine ragmen bogalar destekliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:6760aeda2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "xrp hazinesi evernorth un hisseleri nasdaq ac l s nda yuzde 5 yukseldi",
+      "link": "https://tr.tradingview.com/news/cointelegraph:4bbe87107d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "goldman sachs fed ecb den olculu faiz art r mlar boj dan daha h zl s k lasma bekliyor rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6814034:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya dolar fed in s k lasmac durusu iran geriliminin abd dolar n desteklemesiyle geri cekiliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:586ead0a3d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ledger implant bitcoin etf lerini donan m cuzdanlar ndan daha guvenli saklama secenekleri olarak s nad",
+      "link": "https://tr.tradingview.com/news/cointelegraph:c6582a8c4d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "aksa enerji kktc nin enerji arz guvenligine 35 mw l k ek yat r m karar ald",
+      "link": "https://tr.tradingview.com/news/matriks:6814001:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "merkez bankas n n sonraki is gunu ac klad g gecici rezerv 1057333 1 milyon tl",
+      "link": "https://tr.tradingview.com/news/matriks:6813985:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "almanya yapay zeka patlamas buyume bask s kars kars ya deutsche bank",
+      "link": "https://tr.tradingview.com/news/fxstreet:36b1423abd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bilanco beklentileri thyao deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6813981:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fitch ratings fransa n n 2027 butce plan daha zay f mali baslang c noktas na isaret ediyor",
+      "link": "https://tr.tradingview.com/news/matriks:6813922:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "enerji tabii kaynaklar bakan bayraktar riyad daki temaslar kapsam nda irak elektrik bakan vahib gorustu",
+      "link": "https://tr.tradingview.com/news/matriks:6813920:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar bulteni ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6813918:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "forex bulteni ncm investment",
+      "link": "https://tr.tradingview.com/news/matriks:6813916:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin standard ekonomik buyumeyi yavaslat r m willy woo dan yan t",
+      "link": "https://tr.tradingview.com/news/beincrypto:837f0a9a6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "iran devrim muhaf zlar hurmuz bogaz nda tanker daha deniz may n na carpt ktan sonra alev ald",
+      "link": "https://tr.tradingview.com/news/matriks:6813908:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "petrokimya marj degerlendirmesi ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6813905:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kuresel ak ll telefon sevkiyatlar 14 y l n en dusuk ucuncu ceyrek seviyesine indi",
+      "link": "https://tr.tradingview.com/news/matriks:6813886:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro fransa n n borc endiseleri aras nda zay f kalmaya devam ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:7229c6842d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "donan m cuzdan alarm mutfak tart s sahteciligi anlayabilir",
+      "link": "https://tr.tradingview.com/news/beincrypto:6d5fc3d4fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ukrayna enflasyon eylul y ll k merkez bankas",
+      "link": "https://tr.tradingview.com/news/matriks:6813819:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "new york borsas haftaya kar s k seyirle baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6813817:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "global piyasalar bulteni tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6813809:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "tav n turkiye islettigi havalimanlar nda ocak eylul donemi yolcu trafigi tablo",
+      "link": "https://tr.tradingview.com/news/matriks:6813798:0"
+    },
+    {
+      "source": "investing",
+      "text": "cathie wood un ark personalised hissesi satt compass pathways ald",
+      "link": "https://tr.investing.com/news/company-news/cathie-woodun-ark-personalised-hissesi-satt-compass-pathways-ald-93CH-4100132"
+    },
+    {
+      "source": "investing",
+      "text": "japonya ufe eylulde guclu yen dusen petrol geriledi",
+      "link": "https://tr.investing.com/news/economic-indicators/japonya-ufe-eylulde-guclu-yen-ve-dusen-petrol-ile-geriledi-4100133"
+    },
     {
       "source": "tradingview",
       "text": "jpmorgan turkiye 2026 buyume beklentisini 3 0 ten 2 5 e cekti cnbc e",
