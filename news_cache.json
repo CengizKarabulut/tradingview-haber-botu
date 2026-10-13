@@ -490,18 +490,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/six-flags-entertainment-hissesi-neden-dusuyor-93CH-4100139",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/jctcde-10-hissedar-23066-dolar-degerinde-hisse-ald-93CH-4100151",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/jctcde-10-hissedar-23066-dolar-degerinde-hisse-ald-93CH-4100151",
+        "investing:https://tr.investing.com/news/commodities-news/altn-orta-dogu-gerilimiyle-4160-dolar-civarnda-geriledi-4100150",
+        "investing:https://tr.investing.com/news/economy-news/rba-tutanaklar-enflasyon-riskleri-artarken-faiz-arts-sinyali-verdi-4100147",
+        "investing:https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-geriledi-4100145",
+        "investing:https://tr.investing.com/news/insider-trading-news/planet-labs-yoneticisi-ita-brennan-187478-dolar-degerinde-hisse-satt-93CH-4100143",
+        "investing:https://tr.investing.com/news/insider-trading-news/avepoint-hukuk-muduru-141100-dolarlk-hisse-satt-93CH-4100142",
+        "investing:https://tr.investing.com/news/stock-market-news/georgiada-olumcul-lunapark-kazas-sonras-six-flags-hisseleri-dustu-4100144",
+        "investing:https://tr.investing.com/news/stock-market-news/micron-technology-hissesi-neden-dusuyor-93CH-4100140",
         "investing:https://tr.investing.com/news/stock-market-news/six-flags-entertainment-hissesi-neden-dusuyor-93CH-4100139",
         "investing:https://tr.investing.com/news/insider-trading-news/alphabet-yoneticisi-frances-arnold-28257-dolar-hisse-satt-93CH-4100138",
-        "investing:https://tr.investing.com/news/commodities-news/rusyadan-dizel-ihracat-sinyali-petrol-fiyatlar-dustu-4100137",
-        "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-banka-bilanco-ve-enflasyon-oncesi-sakin-4100135",
-        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-personalised-hissesi-satt-compass-pathways-ald-93CH-4100132",
-        "investing:https://tr.investing.com/news/economic-indicators/japonya-ufe-eylulde-guclu-yen-ve-dusen-petrol-ile-geriledi-4100133",
-        "investing:https://tr.investing.com/news/company-news/cme-msr-vadeli-islemleri-9-ekimde-gunluk-rekor-hacme-ulast-93CH-4100129",
-        "investing:https://tr.investing.com/news/stock-market-news/blackrock-ksa-vadeli-tahvillerde-yukselise-gecti-abd-hisse-agrlgn-kapatt-4100127",
-        "investing:https://tr.investing.com/news/analyst-ratings/evercore-isi-meta-hissesi-icin-outperform-notunu-korudu-93CH-4100125",
-        "investing:https://tr.investing.com/news/analyst-ratings/sofi-hissesi-stonexte-al-onerisiyle-kapsama-alnd-93CH-4100123",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -522,6 +522,14 @@
         "investing:https://tr.investing.com/analysis/endeks-caklrken-yesilde-kalmak-bu-stratejiyi-kimse-anlatmaz-investing-pro-200506239",
         "investing:https://tr.investing.com/analysis/halka-arzlarda-2023teki-donem-geri-mi-geliyor-200506170",
         "investing:https://tr.investing.com/analysis/2-ayda-43-getiren-temettu-portfoyu-investing-pro-200506165",
+        "investing:https://tr.investing.com/news/commodities-news/rusyadan-dizel-ihracat-sinyali-petrol-fiyatlar-dustu-4100137",
+        "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-banka-bilanco-ve-enflasyon-oncesi-sakin-4100135",
+        "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-personalised-hissesi-satt-compass-pathways-ald-93CH-4100132",
+        "investing:https://tr.investing.com/news/economic-indicators/japonya-ufe-eylulde-guclu-yen-ve-dusen-petrol-ile-geriledi-4100133",
+        "investing:https://tr.investing.com/news/company-news/cme-msr-vadeli-islemleri-9-ekimde-gunluk-rekor-hacme-ulast-93CH-4100129",
+        "investing:https://tr.investing.com/news/stock-market-news/blackrock-ksa-vadeli-tahvillerde-yukselise-gecti-abd-hisse-agrlgn-kapatt-4100127",
+        "investing:https://tr.investing.com/news/analyst-ratings/evercore-isi-meta-hissesi-icin-outperform-notunu-korudu-93CH-4100125",
+        "investing:https://tr.investing.com/news/analyst-ratings/sofi-hissesi-stonexte-al-onerisiyle-kapsama-alnd-93CH-4100123",
         "investing:https://tr.investing.com/news/stock-market-news/sp-yapay-zeka-talebiyle-sandiski-bbbye-yukseltti-4100124",
         "investing:https://tr.investing.com/news/stock-market-news/google-suncatcher-projesi-uydusunu-yorungeye-gonderdi-93CH-4100121",
         "investing:https://tr.investing.com/news/company-news/inseego-sdwan-cihazlar-icin-coklu-wan-yazlm-tantt-93CH-4100120",
@@ -662,8 +670,30 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6814609:0",
+      "last_seen_key": "tradingview:fxstreet:857a33682d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:857a33682d9e8:0",
+        "tradingview:beincrypto:20b167419d9e8:0",
+        "tradingview:fxstreet:c466a2d6ad9e8:0",
+        "tradingview:fxstreet:309a6aa05d9e8:0",
+        "tradingview:beincrypto:6e51e04e2d9e8:0",
+        "tradingview:beincrypto:a3269f795d9e8:0",
+        "tradingview:fxstreet:0e6a37dddd9e8:0",
+        "tradingview:beincrypto:17a2bdd86d9e8:0",
+        "tradingview:fxstreet:6e39bf79ad9e8:0",
+        "tradingview:fxstreet:c5eb057a4d9e8:0",
+        "tradingview:fxstreet:877f788a1d9e8:0",
+        "tradingview:beincrypto:959396d10d9e8:0",
+        "tradingview:fxstreet:a50f0b382d9e8:0",
+        "tradingview:cointelegraph:e9ca53e87d9e8:0",
+        "tradingview:fxstreet:7671a1cb5d9e8:0",
+        "tradingview:cointelegraph:8392c3e1ed9e8:0",
+        "tradingview:fxstreet:d182e6458d9e8:0",
+        "tradingview:fxstreet:8db0c3816d9e8:0",
+        "tradingview:fxstreet:9f4780aaad9e8:0",
+        "tradingview:fxstreet:8dab49491d9e8:0",
+        "tradingview:beincrypto:cd099f811d9e8:0",
+        "tradingview:fxstreet:b3675c078d9e8:0",
         "tradingview:matriks:6814609:0",
         "tradingview:beincrypto:14f88537ed9e8:0",
         "tradingview:cointelegraph:d81b48e64d9e8:0",
@@ -863,6 +893,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "japon yeni tokyo tatilinde geriliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:857a33682d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bitcoin fiyat ath ye zaman doner dongu verileri tarih veriyor",
+      "link": "https://tr.tradingview.com/news/beincrypto:20b167419d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini ham petrolun abd dolar n yukar cekmesiyle taban na geri donuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:c466a2d6ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar fed in s k lasmac soyleminin etkisiyle yukselirken euro 1 12 nin alt na cokuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:309a6aa05d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wall street yukselise gecti hafta izlenecek 4 buyuk bankan n bilancosu",
+      "link": "https://tr.tradingview.com/news/beincrypto:6e51e04e2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "xrp devasa hazine halka arzda k rm z ya dondu",
+      "link": "https://tr.tradingview.com/news/beincrypto:a3269f795d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed den hammack ekonominin guclu oldugunu goruyor daha fazla faiz art r m n destekliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:0e6a37dddd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "broadcom ceo dan ai yat r mc lar na kripto nun meshur elestirisi gundemde",
+      "link": "https://tr.tradingview.com/news/beincrypto:17a2bdd86d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "dow jones industrial average satacak bellek cipi olmamas yla hafif yukseliyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:6e39bf79ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin yuan abd dolar kars s nda 6 6800 e dogru yukar yonlu momentum olusturuyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:c5eb057a4d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "foreks piyasas nda bugun abd dolar 17 ayl k zirveye ulast s rada rba tutanaklar fed konusmalar var",
+      "link": "https://tr.tradingview.com/news/fxstreet:877f788a1d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar 18 ay n zirvesinde bitcoin hisse sonuclar",
+      "link": "https://tr.tradingview.com/news/beincrypto:959396d10d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "alt n petrol sokunun abd dolar rallisini fed faiz art r m beklentilerini koruklemesiyle dusuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:a50f0b382d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kripto pac leri ara secimler yaklas rken temsilciler meclisi yar slar 2 7 milyon dolarl k harcama atag bildirdi",
+      "link": "https://tr.tradingview.com/news/cointelegraph:e9ca53e87d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu abd dolar kars s nda yukselis trendinin yeniden baslad g goruluyor societe generale",
+      "link": "https://tr.tradingview.com/news/fxstreet:7671a1cb5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd muhasebe reformu stablecoin leri sirketler daha cazip hale getirebilir tempo",
+      "link": "https://tr.tradingview.com/news/cointelegraph:8392c3e1ed9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "wti orta dogu daki gerilimlerin rus dizel arz n golgede b rakmas yla iki haftan n en yuksek seviyesine ulast",
+      "link": "https://tr.tradingview.com/news/fxstreet:d182e6458d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin yuan ticaret bask lar yla kademeli degerlenme mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:8db0c3816d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed den hammack daha yuksek notr faiz oran ongoruyor daha fazla politika k s tlamas cagr s nda bulunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:9f4780aaad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "singapur dolar abd dolar kars s nda 1 2835 yak nlar nda bant egilimi korunuyor uob",
+      "link": "https://tr.tradingview.com/news/fxstreet:8dab49491d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "haftal k trading verileri kripto piyasas nda dusus sinyali",
+      "link": "https://tr.tradingview.com/news/beincrypto:cd099f811d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed den hammack enflasyon bask lar genisledikce daha yuksek faizler cagr s nda bulunuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:b3675c078d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "jctc 10 hissedar 23 066 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/jctcde-10-hissedar-23066-dolar-degerinde-hisse-ald-93CH-4100151"
+    },
+    {
+      "source": "investing",
+      "text": "alt n orta dogu gerilimiyle 4 160 dolar civar nda geriledi",
+      "link": "https://tr.investing.com/news/commodities-news/altn-orta-dogu-gerilimiyle-4160-dolar-civarnda-geriledi-4100150"
+    },
+    {
+      "source": "investing",
+      "text": "rba tutanaklar enflasyon riskleri artarken faiz art s sinyali verdi",
+      "link": "https://tr.investing.com/news/economy-news/rba-tutanaklar-enflasyon-riskleri-artarken-faiz-arts-sinyali-verdi-4100147"
+    },
+    {
+      "source": "investing",
+      "text": "cardano 10 oran nda geriledi",
+      "link": "https://tr.investing.com/news/cryptocurrency-news/cardano-10-orannda-geriledi-4100145"
+    },
+    {
+      "source": "investing",
+      "text": "planet labs yoneticisi ita brennan 187 478 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/planet-labs-yoneticisi-ita-brennan-187478-dolar-degerinde-hisse-satt-93CH-4100143"
+    },
+    {
+      "source": "investing",
+      "text": "avepoint hukuk muduru 141 100 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/avepoint-hukuk-muduru-141100-dolarlk-hisse-satt-93CH-4100142"
+    },
+    {
+      "source": "investing",
+      "text": "georgia olumcul lunapark kazas sonras six flags hisseleri dustu",
+      "link": "https://tr.investing.com/news/stock-market-news/georgiada-olumcul-lunapark-kazas-sonras-six-flags-hisseleri-dustu-4100144"
+    },
+    {
+      "source": "investing",
+      "text": "micron technology hissesi neden dusuyor",
+      "link": "https://tr.investing.com/news/stock-market-news/micron-technology-hissesi-neden-dusuyor-93CH-4100140"
+    },
     {
       "source": "tradingview",
       "text": "bitmine in tom lee sinden boga piyasas tahmini detaylar",
