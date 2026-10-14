@@ -520,7 +520,6 @@
         "cnbce:https://www.cnbce.com/borsa/fon-tasfiyesinde-yeni-asama-iste-45-bin-yatirimci-icin-405-milyar-tllik-odeme-takvimi-h39398",
         "cnbce:https://www.cnbce.com/haberler/ftse-russelldan-cnbc-eye-turkiye-aciklamasi-gozler-aralik-ayinda-h39396",
         "cnbce:https://www.cnbce.com/borsa/hsbcden-anadolu-efes-ulker-bim-migros-ve-tab-gida-icin-hedef-fiyatlar-h39390",
-        "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-dip-goruldu-mu-dr-kutay-gozgor-kritik-seviyeleri-acikladi-h39350",
         "cnbce:https://www.cnbce.com/haberler/taksitli-alisveriste-yeni-donem-bakanlik-sinirlari-degistirebilecek-h39490",
         "cnbce:https://www.cnbce.com/haberler/53-kentte-saganak-alarmi-turuncu-uyari-verilen-iller-icin-kritik-cagri-h39489",
         "cnbce:https://www.cnbce.com/haberler/saganak-alarmi-buyuyor-istanbulun-ardindan-4-ilde-daha-okullar-tatil-edildi-h39488",
@@ -546,6 +545,7 @@
         "cnbce:https://www.cnbce.com/haberler/avrupanin-yeni-sanayi-politikasinda-turkiye-nerede-h39445",
         "cnbce:https://www.cnbce.com/haberler/turkiye-ab-gumruk-birligi-guncellemesinde-4-baslikta-ilerleme-saglandi-h39439",
         "cnbce:https://www.cnbce.com/haberler/gta-6-icin-heyecanlandiran-iddia-gta-5ten-kisa-surecek-h39435",
+        "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-dip-goruldu-mu-dr-kutay-gozgor-kritik-seviyeleri-acikladi-h39350",
         "cnbce:https://www.cnbce.com/haberler/fitchten-euro-bolgesi-degerlendirmesi-6-ulke-kamu-borcuna-sikisti-h39430",
         "cnbce:https://www.cnbce.com/haberler/bank-of-americaya-rekor-ceza-5-milyar-dolarlik-supheli-para-trafigi-h39429",
         "cnbce:https://www.cnbce.com/haberler/luks-tuketim-devleri-350-milyar-dolar-kaybetti-hisselerde-sert-dusus-h39428",
@@ -665,15 +665,15 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bes-fonlari-cok-katmanli-denetim-agiyla-korunuyor/4088152",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verdi/4088718",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verdi/4088718",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bes-fonlari-cok-katmanli-denetim-agiyla-korunuyor/4088152",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/antalya-yilin-basindan-bu-yana-14-milyon-yabanci-turist-agirladi/4088164",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-petrol-arzi-eylulde-gunluk-2-5-milyon-varil-artti/4088177",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-iklim-hedeflerinde-elektrifikasyonun-hizlandirilmasi-one-cikiyor/4088145",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu/4088173",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-petrol-arzi-eylulde-gunluk-2-5-milyon-varil-artti/4088177",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/sakarya-9-ayda-urettigi-araclarin-yarisindan-fazlasini-dunyaya-gonderdi/4088167",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-simsek-eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verdi/4088718",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakan-yardimcisi-hatipoglu-fon-dosyasi-kapsaminda-masak-29-farkli-ulkeden-48-ayri-talepte-bulundu/4089049",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-fiyat-baskilarinin-surdugune-ve-bazi-bolgelerde-yogunlastigina-isaret-etti/4089025",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-altin-ve-gumus-fiyatlari-abd-enflasyon-verisi-sonrasi-geriliyor/4088935",
@@ -1121,8 +1121,24 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:911d93862d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:dc94cd2f5d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:dc94cd2f5d9e8:0",
+        "tradingview:fxstreet:2e4128099d9e8:0",
+        "tradingview:fxstreet:7ca0f3ad5d9e8:0",
+        "tradingview:fxstreet:c53bdc2b2d9e8:0",
+        "tradingview:beincrypto:dcc7290ebd9e8:0",
+        "tradingview:fxstreet:9c4cb49f0d9e8:0",
+        "tradingview:beincrypto:ac605379ad9e8:0",
+        "tradingview:cointelegraph:a2132e759d9e8:0",
+        "tradingview:beincrypto:6ad8be5a7d9e8:0",
+        "tradingview:fxstreet:3811ad3c7d9e8:0",
+        "tradingview:fxstreet:a7154301fd9e8:0",
+        "tradingview:fxstreet:1842d7ec0d9e8:0",
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:fxstreet:70055087dd9e8:0",
+        "tradingview:fxstreet:5374885f0d9e8:0",
+        "tradingview:fxstreet:d2903c44ed9e8:0",
         "tradingview:fxstreet:911d93862d9e8:0",
         "tradingview:beincrypto:3caa2efe0d9e8:0",
         "tradingview:fxstreet:12fd2418bd9e8:0",
@@ -1246,7 +1262,6 @@
         "tradingview:beincrypto:8b5509646d9e8:0",
         "tradingview:fxstreet:cc236889cd9e8:0",
         "tradingview:cointelegraph:14c473c57d9e8:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:fxstreet:ea8907eabd9e8:0",
         "tradingview:fxstreet:78660a4d2d9e8:0",
         "tradingview:cointelegraph:14df263e5d9e8:0",
@@ -1564,6 +1579,81 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "aussie dolar beklentilerden yuksek gelen abd tufe sinin fed faiz art r m tehdidini yeniden canland rmas yla 0 70 te reddedildi",
+      "link": "https://tr.tradingview.com/news/fxstreet:dc94cd2f5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "avustralya issizlik oran n n eylulde 4 6 seviyesinde kalmas bekleniyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:2e4128099d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "3 7 lik abd enflasyonu sterlini 11 ay n en dusuk seviyesine gonderdi",
+      "link": "https://tr.tradingview.com/news/fxstreet:7ca0f3ad5d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gbp jpy fiyat analizi basar s z k r lma 208 00 seviyesini odaga al yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:c53bdc2b2d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bank of america alt nda 2026 sonu yeni fiyat hedefi",
+      "link": "https://tr.tradingview.com/news/beincrypto:dcc7290ebd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "guney kore wonu bok daha guclu won u memnuniyetle kars l yor commerzbank",
+      "link": "https://tr.tradingview.com/news/fxstreet:9c4cb49f0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "beyaz saray kripto konseyi nde cal san gitti simdi kim soz sahibi",
+      "link": "https://tr.tradingview.com/news/beincrypto:ac605379ad9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "kuruluslar illinois kripto vergisine kars 6 ayl k ertelemenin ard ndan guclerini birlestiriyor",
+      "link": "https://tr.tradingview.com/news/cointelegraph:a2132e759d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "blackrock tan uyar veri merkezi durag ekonomik daralma demek",
+      "link": "https://tr.tradingview.com/news/beincrypto:6ad8be5a7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "meksika pesosu abd enflasyonunun abd dolar n desteklemesiyle sert kay plar yas yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:3811ad3c7d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed den goolsbee hizmet enflasyonu etkisini gosterirken s cak tufe nin kabul edilemez oldugu konusunda uyar yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:a7154301fd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "singapur dolar mas n surpriz sabit tutma karar uzun sureli duraklamaya isaret ediyor mufg",
+      "link": "https://tr.tradingview.com/news/fxstreet:1842d7ec0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed den barkin tufe nin cok s cak geldigini soyledi ekim karar n ac k tutuyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:70055087dd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "eur usd fiyat analizi guclu abd tufe as r sat m rsi ye ragmen sat c lar n kontrolu elinde tutmas n sagl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:5374885f0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "fed bej kitab artan fiyat bask lar na isaret ediyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d2903c44ed9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "cin yuan abd dolar kars s nda 6 6900 alt nda yukar yonlu risk uob",
