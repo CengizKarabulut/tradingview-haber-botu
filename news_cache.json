@@ -2,8 +2,20 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1681670",
+      "last_seen_key": "kap:1681725",
       "seen_keys": [
+        "kap:1681725",
+        "kap:1681724",
+        "kap:1681720",
+        "kap:1681719",
+        "kap:1681718",
+        "kap:1681703",
+        "kap:1681701",
+        "kap:1681695",
+        "kap:1681691",
+        "kap:1681683",
+        "kap:1681682",
+        "kap:1681681",
         "kap:1681670",
         "kap:1681668",
         "kap:1681667",
@@ -206,103 +218,91 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6819682:0",
+      "last_seen_key": "matriks:matriks:6820595:0",
       "seen_keys": [
-        "matriks:matriks:6819682:0",
-        "matriks:matriks:6819681:0",
-        "matriks:matriks:6819678:0",
-        "matriks:matriks:6819658:0",
-        "matriks:matriks:6819651:0",
-        "matriks:matriks:6819649:0",
-        "matriks:matriks:6819631:0",
-        "matriks:matriks:6819620:0",
-        "matriks:matriks:6819616:0",
-        "matriks:matriks:6819550:0",
-        "matriks:matriks:6819528:0",
-        "matriks:matriks:6819501:0",
-        "matriks:matriks:6819468:0",
-        "matriks:matriks:6819465:0",
-        "matriks:matriks:6819436:0",
-        "matriks:matriks:6819433:0",
-        "matriks:matriks:6819406:0",
-        "matriks:matriks:6819350:0",
-        "matriks:matriks:6819312:0",
-        "matriks:matriks:6819306:0",
-        "matriks:matriks:6819303:0",
-        "matriks:matriks:6819293:0",
-        "matriks:matriks:6819294:0",
-        "matriks:matriks:6819285:0",
-        "matriks:matriks:6819281:0",
-        "matriks:matriks:6819280:0",
-        "matriks:matriks:6819276:0",
-        "matriks:matriks:6819265:0",
-        "matriks:matriks:6819264:0",
-        "matriks:matriks:6819263:0",
-        "matriks:matriks:6819262:0",
-        "matriks:matriks:6819260:0",
-        "matriks:matriks:6819256:0",
-        "matriks:matriks:6819255:0",
-        "matriks:matriks:6819249:0",
-        "matriks:matriks:6819246:0",
-        "matriks:matriks:6819239:0",
-        "matriks:matriks:6819235:0",
-        "matriks:matriks:6819234:0",
-        "matriks:matriks:6819229:0",
-        "matriks:matriks:6819228:0",
-        "matriks:matriks:6819218:0",
-        "matriks:matriks:6819210:0",
-        "matriks:matriks:6819198:0",
-        "matriks:matriks:6819186:0",
-        "matriks:matriks:6819184:0",
-        "matriks:matriks:6819177:0",
-        "matriks:matriks:6819176:0",
-        "matriks:matriks:6819142:0",
-        "matriks:matriks:6819130:0",
-        "matriks:matriks:6819127:0",
-        "matriks:matriks:6819128:0",
-        "matriks:matriks:6819126:0",
-        "matriks:matriks:6819107:0",
-        "matriks:matriks:6819106:0",
-        "matriks:matriks:6819101:0",
-        "matriks:matriks:6819087:0",
-        "matriks:matriks:6819083:0",
-        "matriks:matriks:6819078:0",
-        "matriks:matriks:6819072:0",
-        "matriks:matriks:6819061:0",
-        "matriks:matriks:6819056:0",
-        "matriks:matriks:6819054:0",
-        "matriks:matriks:6819045:0",
-        "matriks:matriks:6819043:0",
-        "matriks:matriks:6819041:0",
-        "matriks:matriks:6819034:0",
-        "matriks:matriks:6819033:0",
-        "matriks:matriks:6819032:0",
-        "matriks:matriks:6819025:0",
-        "matriks:matriks:6819020:0",
-        "matriks:matriks:6819015:0",
-        "matriks:matriks:6819012:0",
-        "matriks:matriks:6819002:0",
-        "matriks:matriks:6818997:0",
-        "matriks:matriks:6818994:0",
-        "matriks:matriks:6818993:0",
-        "matriks:matriks:6818989:0"
+        "matriks:matriks:6820595:0",
+        "matriks:matriks:6820594:0",
+        "matriks:matriks:6820587:0",
+        "matriks:matriks:6820586:0",
+        "matriks:matriks:6820578:0",
+        "matriks:matriks:6820576:0",
+        "matriks:matriks:6820575:0",
+        "matriks:matriks:6820569:0",
+        "matriks:matriks:6820566:0",
+        "matriks:matriks:6820564:0",
+        "matriks:matriks:6820500:0",
+        "matriks:matriks:6820497:0",
+        "matriks:matriks:6820480:0",
+        "matriks:matriks:6820457:0",
+        "matriks:matriks:6820456:0",
+        "matriks:matriks:6820455:0",
+        "matriks:matriks:6820451:0",
+        "matriks:matriks:6820450:0",
+        "matriks:matriks:6820447:0",
+        "matriks:matriks:6820418:0",
+        "matriks:matriks:6820392:0",
+        "matriks:matriks:6820391:0",
+        "matriks:matriks:6820389:0",
+        "matriks:matriks:6820370:0",
+        "matriks:matriks:6820319:0",
+        "matriks:matriks:6820318:0",
+        "matriks:matriks:6820317:0",
+        "matriks:matriks:6820307:0",
+        "matriks:matriks:6820306:0",
+        "matriks:matriks:6820293:0",
+        "matriks:matriks:6820289:0",
+        "matriks:matriks:6820267:0",
+        "matriks:matriks:6820233:0",
+        "matriks:matriks:6820226:0",
+        "matriks:matriks:6820213:0",
+        "matriks:matriks:6820194:0",
+        "matriks:matriks:6820181:0",
+        "matriks:matriks:6820037:0",
+        "matriks:matriks:6820036:0",
+        "matriks:matriks:6820030:0",
+        "matriks:matriks:6820029:0",
+        "matriks:matriks:6820025:0",
+        "matriks:matriks:6820023:0",
+        "matriks:matriks:6820010:0",
+        "matriks:matriks:6819960:0",
+        "matriks:matriks:6819951:0",
+        "matriks:matriks:6819948:0",
+        "matriks:matriks:6819924:0",
+        "matriks:matriks:6819920:0",
+        "matriks:matriks:6819919:0",
+        "matriks:matriks:6819918:0",
+        "matriks:matriks:6819911:0",
+        "matriks:matriks:6819906:0",
+        "matriks:matriks:6819904:0",
+        "matriks:matriks:6819870:0",
+        "matriks:matriks:6819822:0",
+        "matriks:matriks:6819821:0",
+        "matriks:matriks:6819791:0",
+        "matriks:matriks:6819763:0"
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6acf308e24008d7d437428cc/PICNEWS/tr/boe-pill-faizlerde-100-baz-puanlik-artis-gerekli-olmayabilir-14-10-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6acf63dc24008d7d43742ab7/PICNEWS/tr/rusya-abd-ile-ekonomik-isbirligi-dizel-anlasmasiyla-sinirli-kalmayacak-14-10-26/",
       "seen_keys": [
-        "forinvest:https://www.foreks.com/haber/detay/6acf308e24008d7d437428cc/PICNEWS/tr/boe-pill-faizlerde-100-baz-puanlik-artis-gerekli-olmayabilir-14-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6acf2d7124008d7d4374287f/PICNEWS/tr/gen-ilac-kazakistan-da-838-bin-dolarlik-ilac-ihalesi-kazandi-14-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6acf2caf95016b5817e6b958/PICNEWS/tr/cin-borsalarinda-sert-dusus-teknoloji-hisselerinde-satislar-derinlesti-14-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6acf2beb24008d7d43742864/PICNEWS/tr/lseg-ve-nvidia-dan-isbirligi-piyasa-verileri-saniyeler-icinde-analiz-edilecek-14-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6acf2a1ee6a77d53caabbca0/PICNEWS/tr/tarimda-uretici-fiyatlari-eylulde-geriledi-en-sert-dusus-tropikal-meyvelerde-14-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6acf29ad24008d7d43742848/PICNEWS/tr/smbc-nikko-japonya-merkez-bankasi-notr-faiz-seviyesine-daha-hizli-ulasmali-14-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6acf28c5e6a77d53caabbc80/PICNEWS/tr/russell-investments-fed-ekimde-faizi-sabit-tutacak-aralikta-artiracak-14-10-26/"
+        "forinvest:https://www.foreks.com/haber/detay/6acf63dc24008d7d43742ab7/PICNEWS/tr/rusya-abd-ile-ekonomik-isbirligi-dizel-anlasmasiyla-sinirli-kalmayacak-14-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acf630324008d7d43742aa7/PICNEWS/tr/blackrock-in-yonettigi-varliklar-15-49-trilyon-dolarla-rekor-kirdi-kari-yuzde-25-artti-14-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acf623724008d7d43742aa0/PICNEWS/tr/abd-de-3-yilin-zirvesine-cikan-mortgage-faizleri-basvurulari-azaltti-14-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acf603fe6a77d53caabbec4/PICNEWS/tr/bank-of-america-nin-bireysel-bankacilik-geliri-yuzde-4-varlik-yonetimi-geliri-yuzde-13-artti-14-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acf5f8a24008d7d43742a6b/PICNEWS/tr/ayes-celik-ten-130-milyon-tl-lik-pay-geri-alim-karari-14-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acf5f09e6a77d53caabbeb5/PICNEWS/tr/bank-of-america-bilancosu-aciklandi-kar-ucuncu-ceyrekte-dustu-14-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6acf5e5695016b5817e6bb18/PICNEWS/tr/rusya-petrol-uretimi-kademeli-artacak-akaryakit-piyasasinda-durum-iyilesiyor-14-10-26/"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/kuresel-yoksulluk-2010dan-bu-yana-ilk-kez-artti-3791320",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-li-yatirimcilarin-radari-turkiyede-3791342",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/abd-li-yatirimcilarin-radari-turkiyede-3791342",
+        "bloomberght:https://www.bloomberght.com/hurmuz-de-iki-gemi-daha-vuruldu-3791341",
+        "bloomberght:https://www.bloomberght.com/alman-ekonomisi-toparlanma-patikasinda-3791338",
+        "bloomberght:https://www.bloomberght.com/tasfiye-edilecek-yatirim-fonlarina-iliskin-kanun-teklifi-komisyonda-3791333",
+        "bloomberght:https://www.bloomberght.com/uluslararasi-enerji-ajansi-ndan-dizel-krizi-uyarisi-3791332",
+        "bloomberght:https://www.bloomberght.com/ab-liderleri-nin-ilk-gundemi-enerji-fiyatlari-ve-rekabet-gucu-3791331",
+        "bloomberght:https://www.bloomberght.com/almanyadan-abye-cin-ithalatina-kota-cagrisi-3791321",
         "bloomberght:https://www.bloomberght.com/kuresel-yoksulluk-2010dan-bu-yana-ilk-kez-artti-3791320",
         "bloomberght:https://www.bloomberght.com/asml-de-yuksek-talep-beklentisi-3791318",
         "bloomberght:https://www.bloomberght.com/tarimda-uretici-fiyatlari-eylul-de-dususunu-surdurdu-3791314",
@@ -452,9 +452,10 @@
       ]
     },
     "cnbce": {
-      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/bist100-gune-dususle-basladi-iste-borsada-one-cikan-gelismeler-h39431",
+      "last_seen_key": "cnbce:https://www.cnbce.com/borsa/bist100de-gerileme-hizlandi-iste-borsada-one-cikan-gelismeler-h39431",
       "seen_keys": [
-        "cnbce:https://www.cnbce.com/borsa/bist100-gune-dususle-basladi-iste-borsada-one-cikan-gelismeler-h39431",
+        "cnbce:https://www.cnbce.com/borsa/bist100de-gerileme-hizlandi-iste-borsada-one-cikan-gelismeler-h39431",
+        "cnbce:https://www.cnbce.com/borsa/astor-enerji-temettu-odemesi-yarin-hesaplara-ne-zaman-gececek-h39442",
         "cnbce:https://www.cnbce.com/borsa/borsa-gunu-yukselisle-kapadi-13-ekim-2026-h39343",
         "cnbce:https://www.cnbce.com/borsa/fon-tasfiyesinde-yeni-asama-iste-45-bin-yatirimci-icin-405-milyar-tllik-odeme-takvimi-h39398",
         "cnbce:https://www.cnbce.com/haberler/ftse-russelldan-cnbc-eye-turkiye-aciklamasi-gozler-aralik-ayinda-h39396",
@@ -465,15 +466,19 @@
         "cnbce:https://www.cnbce.com/borsa/mahfi-egilmezden-fon-krizi-analizi-para-nereye-gitti-borsayi-nasil-etkiledi-h39331",
         "cnbce:https://www.cnbce.com/sirket-bilancolari/dort-buyuklerin-bilancosunda-dikkat-ceken-fark-ucu-kar-etti-biri-zarar-yazdi-h39328",
         "cnbce:https://www.cnbce.com/sirket-bilancolari/galatasaraydan-yeni-finansal-sonuclar-kari-dikkat-cekti-h39326",
-        "cnbce:https://www.cnbce.com/sirket-bilancolari/fenerbahce-net-karini-7ye-katladi-nakit-akisi-ve-bilanco-buyudu-h39323",
+        "cnbce:https://www.cnbce.com/haberler/turkiyenin-petrol-ithalati-agustosta-45-milyon-tonu-asti-h39452",
+        "cnbce:https://www.cnbce.com/haberler/abd-basini-kapalicarsinin-perde-arkasini-anlatti-turistlerin-goremedigi-yuzu-h39450",
+        "cnbce:https://www.cnbce.com/haberler/hurmuz-bogazinda-kriz-derinlesti-saldirilar-zirvede-ihracat-dipte-h39447",
+        "cnbce:https://www.cnbce.com/haberler/avrupanin-yeni-sanayi-politikasinda-turkiye-nerede-h39445",
+        "cnbce:https://www.cnbce.com/haberler/turkiye-ab-gumruk-birligi-guncellemesinde-4-baslikta-ilerleme-saglandi-h39439",
         "cnbce:https://www.cnbce.com/haberler/gta-6-icin-heyecanlandiran-iddia-gta-5ten-kisa-surecek-h39435",
         "cnbce:https://www.cnbce.com/haberler/fitchten-euro-bolgesi-degerlendirmesi-6-ulke-kamu-borcuna-sikisti-h39430",
+        "cnbce:https://www.cnbce.com/dunya/macaristan-basbakani-magyar-duyurdu-42-milyar-euroluk-ab-fonu-serbest-h39394",
+        "cnbce:https://www.cnbce.com/haberler/fonlardan-cikan-para-nereye-gitti-h39277",
         "cnbce:https://www.cnbce.com/haberler/bank-of-americaya-rekor-ceza-5-milyar-dolarlik-supheli-para-trafigi-h39429",
         "cnbce:https://www.cnbce.com/haberler/luks-tuketim-devleri-350-milyar-dolar-kaybetti-hisselerde-sert-dusus-h39428",
         "cnbce:https://www.cnbce.com/haberler/dolarda-irtifa-kaybi-yok-piyasalarda-tansiyon-yuksek-h39421",
-        "cnbce:https://www.cnbce.com/haberler/mb-baskani-karahandan-fonlara-yonelik-tedbir-mesaji-olasi-riskler-sinirlandirildi-h39420",
-        "cnbce:https://www.cnbce.com/dunya/macaristan-basbakani-magyar-duyurdu-42-milyar-euroluk-ab-fonu-serbest-h39394",
-        "cnbce:https://www.cnbce.com/haberler/fonlardan-cikan-para-nereye-gitti-h39277",
+        "cnbce:https://www.cnbce.com/haberler/mb-baskani-karahandan-fon-aciklamasi-tlye-yonelik-guclu-tercih-suruyor-h39420",
         "cnbce:https://www.cnbce.com/haberler/imfden-kuresel-kriz-uyarisi-ekonomiler-icin-riskler-buyuyor-h39417",
         "cnbce:https://www.cnbce.com/haberler/goldman-sachstan-tcmbye-rezerv-uyarisi-6-haftadir-dusuyordu-h39416",
         "cnbce:https://www.cnbce.com/haberler/ameliyati-basarili-gecmisti-papa-14-leoya-akciger-kanseri-tanisi-kondu-h39414",
@@ -485,6 +490,9 @@
         "cnbce:https://www.cnbce.com/haberler/wsj-yazdi-trump-yok-demisti-ama-iran-nukleer-tesislerini-guclendirmeye-devam-ediyor-h39400",
         "cnbce:https://www.cnbce.com/haberler/hurmuz-bogazi-icin-iran-ve-umman-anlasti-acilmasi-icin-abdye-sart-h39399",
         "cnbce:https://www.cnbce.com/haberler/turkiye-ile-ab-arasinda-233-milyar-dolarlik-ticaret-brukselden-stratejik-ortaklik-mesaji-h39397",
+        "cnbce:https://www.cnbce.com/borsa/bist100-gune-dususle-basladi-iste-borsada-one-cikan-gelismeler-h39431",
+        "cnbce:https://www.cnbce.com/sirket-bilancolari/fenerbahce-net-karini-7ye-katladi-nakit-akisi-ve-bilanco-buyudu-h39323",
+        "cnbce:https://www.cnbce.com/haberler/mb-baskani-karahandan-fonlara-yonelik-tedbir-mesaji-olasi-riskler-sinirlandirildi-h39420",
         "cnbce:https://www.cnbce.com/haberler/turkiye-ile-belcika-arasinda-15-milyar-dolarlik-ticaret-hedefi-h39393",
         "cnbce:https://www.cnbce.com/haberler/thy-baskani-murat-seker-turkiye-ile-ab-iliskilerinde-buyuk-potansiyel-var-h39392",
         "cnbce:https://www.cnbce.com/haberler/istanbulda-yeni-taksi-donemi-29-yillik-plakalar-kac-liraya-satildi-h39391",
@@ -574,8 +582,17 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda/4088270",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda/4088270",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-dunyanin-en-buyuk-ve-en-gelismis-lpg-pazarlarindan-birine-sahip/4088292",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ankarada-ipa-ii-donemi-kapanis-konferansi-yapildi/4088289",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/irakin-petrol-ihracati-hurmuz-bogazindaki-krize-ragmen-gunluk-2-7-milyon-varile-ulasti/4088286",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-bangkokta-turkiyede-makroekonomik-gorunum-ve-para-politikasi-baslikli-sunum-yapti/4088205",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu/4088173",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/dolar-endeksi-abd-enflasyonu-oncesinde-yukselisine-ara-verdi/4088297",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/kuresel-petrol-arzi-eylulde-gunluk-2-5-milyon-varil-artti/4088177",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/sakarya-9-ayda-urettigi-araclarin-yarisindan-fazlasini-dunyaya-gonderdi/4088167",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/tse-17-sozlesmeli-bilisim-personeli-alacak/4088048",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4088031",
@@ -1259,6 +1276,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "aaekonomi",
+      "text": "tasfiyesine karar verilen baz yat r m fonlar na iliskin duzenlemeleri iceren kanun teklifi komisyonda tbmm plan butce komisyonunda tasfiyesine karar verilen baz yat r m fonlar hakk nda kanun teklifi nin gorusmelerine basland anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda/4088270"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "bakan bayraktar turkiye dunyan n en buyuk en gelismis lpg pazarlar ndan birine sahip enerji tabii kaynaklar bakan alparslan bayraktar turkiye dunyan n en buyuk en gelismis lpg pazarlar ndan birine sahip gecen y l itibar yla toplam lpg tuketiminde avrupa ikinci s rada yer ald k dedi anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-dunyanin-en-buyuk-ve-en-gelismis-lpg-pazarlarindan-birine-sahip/4088292"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "ankara ipa ii donemi kapan s konferans yap ld sanayi teknoloji bakanl g avrupa birligi nin ab ortak finansman yla yurutulen inovasyonu etkiye donusturmek temal rekabetci sektorler program kat l m oncesi yard m mekanizmas ipa ii donemi kapan s konferans baskentte duze",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ankarada-ipa-ii-donemi-kapanis-konferansi-yapildi/4088289"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "irak n petrol ihracat hurmuz bogaz ndaki krize ragmen gunluk 2 7 milyon varile ulast irak n ham petrol ihracat n n hurmuz bogaz ndaki krize bagl aksakl klara ragmen gunluk yaklas k 2 7 milyon varile ulast g bildirildi anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/irakin-petrol-ihracati-hurmuz-bogazindaki-krize-ragmen-gunluk-2-7-milyon-varile-ulasti/4088286"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "tcmb baskan karahan bangkok ta turkiye makroekonomik gorunum para politikas basl kl sunum yapt turkiye cumhuriyet merkez bankas tcmb baskan fatih karahan fon c k slar n n yurt ici yerlesiklerin turk liras cinsi varl klara yonelik tercihlerinde kayda deger zay flamaya yol acmad g n belirtti anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-bangkokta-turkiyede-makroekonomik-gorunum-ve-para-politikasi-baslikli-sunum-yapti/4088205"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "orta dogu nun petrol petrol urunleri ihracat haftada sert dustu hurmuz bogaz ndan gunluk ticari gemi gecislerinin yeniden keskin sekilde azalmas babulmendeb bogaz ndan gecislere yonelik endiseler orta dogu nun petrol petrol urunleri ihracat n yeniden bask alt na ald anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu/4088173"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "dolar endeksi abd enflasyonu oncesinde yukselisine ara verdi dolar endeksi abd bugun ac klanacak enflasyon verileri oncesinde yat r mc lar n temkinli durus sergilemesiyle yatay seyrediyor anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/dolar-endeksi-abd-enflasyonu-oncesinde-yukselisine-ara-verdi/4088297"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "kuresel petrol arz eylulde gunluk 2 5 milyon varil artt uluslararas enerji ajans iea korfez deki ureticilerin uretim ihracat n art rmas yla kuresel petrol arz n n eylulde onceki aya gore gunluk 2 milyon 500 bin varil artarak 102 milyon 320 bin varile yukseldigini bildirdi anadolu aja",
+      "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-petrol-arzi-eylulde-gunluk-2-5-milyon-varil-artti/4088177"
+    },
+    {
+      "source": "aaekonomi",
+      "text": "sakarya 9 ayda urettigi araclar n yar s ndan fazlas n dunyaya gonderdi sakarya y l n 9 ay nda uretilen 162 bin 696 arac n 108 bin 841 i ihrac edildi anadolu ajans",
+      "link": "https://www.aa.com.tr/tr/ekonomi/sakarya-9-ayda-urettigi-araclarin-yarisindan-fazlasini-dunyaya-gonderdi/4088167"
+    },
+    {
+      "source": "cnbce",
+      "text": "borsada gerileme h zland borsa istanbul bist 100 endeksi gune 18 71 puan yuzde 0 15 azal sla 12 231 97 puandan baslad endeks saat 13 00 itibar yla onceki kapan sa gore 53 98 puan yuzde 0 44 azal sla 12 196 70 puana dustu",
+      "link": "https://www.cnbce.com/borsa/bist100de-gerileme-hizlandi-iste-borsada-one-cikan-gelismeler-h39431"
+    },
+    {
+      "source": "cnbce",
+      "text": "astor enerji temettu odemesi yar n hesaplara zaman gececek astor enerji astor 15 ekim persembe gunu yar n hisse bas na brut 2 1911471 tl net 1 8624750 tl nakit temettu dag tacak",
+      "link": "https://www.cnbce.com/borsa/astor-enerji-temettu-odemesi-yarin-hesaplara-ne-zaman-gececek-h39442"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd li yat r mc lar n radar turkiye amerikan turk ticaret yat r m konseyi atic genel sekreteri mustafa k n k abd den turk insaat sektorune yonelik ciddi talep oldugunu buyuk is birligini hayata gecirmek uzere olduklar n soyledi",
+      "link": "https://www.bloomberght.com/abd-li-yatirimcilarin-radari-turkiyede-3791342"
+    },
+    {
+      "source": "bloomberght",
+      "text": "hurmuz iki gemi daha vuruldu ingiltere deniz ticaret operasyonlar ukmto hurmuz bogaz ndan gecen iki konteyner gemisinin kaynag bilinmeyen muhimmatla vuruldugunu bildirdi",
+      "link": "https://www.bloomberght.com/hurmuz-de-iki-gemi-daha-vuruldu-3791341"
+    },
+    {
+      "source": "bloomberght",
+      "text": "alman ekonomisi toparlanma patikas nda almanya ekonomi enerji bakanl g ekonominin ilk yar daki canlanman n ard ndan yaz doneminde gecici yavaslama yasad g n ancak toparlanma patikas nda kalmaya devam ettigini bildirdi",
+      "link": "https://www.bloomberght.com/alman-ekonomisi-toparlanma-patikasinda-3791338"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tasfiye edilecek yat r m fonlar na iliskin kanun teklifi komisyonda tbmm plan butce komisyonunda tasfiyesine karar verilen baz yat r m fonlar hakk nda kanun teklifi nin gorusmelerine basland",
+      "link": "https://www.bloomberght.com/tasfiye-edilecek-yatirim-fonlarina-iliskin-kanun-teklifi-komisyonda-3791333"
+    },
+    {
+      "source": "bloomberght",
+      "text": "uluslararas enerji ajans ndan dizel krizi uyar s uluslararas enerji ajans uea petroldeki zay f tuketim gorunumune ragmen orta dogu rusya daki cat smalar n sonucu olarak motorin diger yak tlar n kuresel arz n n onumuzdeki y l bask alt nda kalmaya devam edecegini bildirdi",
+      "link": "https://www.bloomberght.com/uluslararasi-enerji-ajansi-ndan-dizel-krizi-uyarisi-3791332"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ab liderlerinin ilk gundemi enerji fiyatlar rekabet gucu avrupa birligi ab uyesi ulkelerin liderleri yar n bruksel rekabetcilik yuksek enerji fiyatlar kuresel ekonomik dengesizlikler ab nin gelecekteki butcesi hibrit tehditler ukrayna orta dogu daki gelismeleri gorusmek uzere a",
+      "link": "https://www.bloomberght.com/ab-liderleri-nin-ilk-gundemi-enerji-fiyatlari-ve-rekabet-gucu-3791331"
+    },
+    {
+      "source": "bloomberght",
+      "text": "almanya dan ab ye cin ithalat na kota cagr s bloomberg in haberine gore almanya avrupa birligi nin ab hibrit araclara getirmeyi planlad g s n rlamay emsal alarak cin den ithal edilen ek urun sektorlerine h zla kotalar konulmas birlik yonetimine bask yapacak",
+      "link": "https://www.bloomberght.com/almanyadan-abye-cin-ithalatina-kota-cagrisi-3791321"
+    },
+    {
+      "source": "kap",
+      "text": "zkbvr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdzkbve2634 isin kodlu itfa getiri odemelerinin tamamlanmas hk sirket zkb varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681725"
+    },
+    {
+      "source": "kap",
+      "text": "vvp sirket genel bilgi formu sirket neo portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681724"
+    },
+    {
+      "source": "kap",
+      "text": "hekts ozsermaye hallerine iliskin borsa duyurusu sirket borsa istanbul a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681720"
+    },
+    {
+      "source": "kap",
+      "text": "tfnvk sirket genel bilgi formu sirket tf varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681719"
+    },
+    {
+      "source": "kap",
+      "text": "tfnvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz 8 tertip kira sertifikas sat s n n itfas hk sirket tf varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681718"
+    },
+    {
+      "source": "kap",
+      "text": "manas pay baz nda devre kesici bildirimi manas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681703"
+    },
+    {
+      "source": "kap",
+      "text": "mhrgy pay baz nda devre kesici bildirimi mhrgy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681701"
+    },
+    {
+      "source": "kap",
+      "text": "dofrb paylar n geri al nmas na iliskin bildirim 14 10 2026 tarihli pay geri al m islemleri sirket dof robotik sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681695"
+    },
+    {
+      "source": "kap",
+      "text": "erbos ozel durum ac klamas genel haber soylentilere iliskin ac klama sirket erbosan erciyas boru sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681691"
+    },
+    {
+      "source": "kap",
+      "text": "smrva pay baz nda devre kesici bildirimi smrva e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681683"
+    },
+    {
+      "source": "kap",
+      "text": "ismen iym piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi borsa yat r m fonu piyasa yap c l g islemleri sirket is yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681682"
+    },
+    {
+      "source": "kap",
+      "text": "ayes paylar n geri al nmas na iliskin bildirim pay geri al m na iliskin yonetim kurulu karar sirket ayes celik hasir cit sanayi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1681681"
+    },
     {
       "source": "matriks",
       "text": "tcmb 15 ekim valorlu 1 hafta vadeli 500 milyon dolar tutar nda doviz kars l g tl swap ihalesi act",
