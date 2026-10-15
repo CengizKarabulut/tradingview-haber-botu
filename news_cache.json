@@ -2,8 +2,28 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1682524",
+      "last_seen_key": "kap:1682553",
       "seen_keys": [
+        "kap:1682553",
+        "kap:1682552",
+        "kap:1682548",
+        "kap:1682547",
+        "kap:1682546",
+        "kap:1682545",
+        "kap:1682544",
+        "kap:1682543",
+        "kap:1682542",
+        "kap:1682541",
+        "kap:1682540",
+        "kap:1682538",
+        "kap:1682536",
+        "kap:1682535",
+        "kap:1682534",
+        "kap:1682532",
+        "kap:1682531",
+        "kap:1682528",
+        "kap:1682527",
+        "kap:1682525",
         "kap:1682524",
         "kap:1682523",
         "kap:1682519",
@@ -55,16 +75,16 @@
         "kap:1682443",
         "kap:1682442",
         "kap:1682427",
-        "kap:1682425",
         "kap:1682424",
         "kap:1682407",
-        "kap:1682406",
         "kap:1682405",
         "kap:1682399",
         "kap:1682398",
         "kap:1682397",
         "kap:1682386",
         "kap:1682385",
+        "kap:1682425",
+        "kap:1682406",
         "kap:1682383",
         "kap:1682382",
         "kap:1682364",
@@ -286,113 +306,98 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6822834:0",
+      "last_seen_key": "matriks:matriks:6823816:0",
       "seen_keys": [
-        "matriks:matriks:6822834:0",
-        "matriks:matriks:6822826:0",
-        "matriks:matriks:6822825:0",
-        "matriks:matriks:6822817:0",
-        "matriks:matriks:6822816:0",
-        "matriks:matriks:6822815:0",
-        "matriks:matriks:6822811:0",
-        "matriks:matriks:6822803:0",
-        "matriks:matriks:6822797:0",
-        "matriks:matriks:6822786:0",
-        "matriks:matriks:6822785:0",
-        "matriks:matriks:6822784:0",
-        "matriks:matriks:6822779:0",
-        "matriks:matriks:6822736:0",
-        "matriks:matriks:6822723:0",
-        "matriks:matriks:6822714:0",
-        "matriks:matriks:6822712:0",
-        "matriks:matriks:6822711:0",
-        "matriks:matriks:6822708:0",
-        "matriks:matriks:6822694:0",
-        "matriks:matriks:6822693:0",
-        "matriks:matriks:6822691:0",
-        "matriks:matriks:6822688:0",
-        "matriks:matriks:6822686:0",
-        "matriks:matriks:6822685:0",
-        "matriks:matriks:6822683:0",
-        "matriks:matriks:6822680:0",
-        "matriks:matriks:6822679:0",
-        "matriks:matriks:6822678:0",
-        "matriks:matriks:6822672:0",
-        "matriks:matriks:6822661:0",
-        "matriks:matriks:6822655:0",
-        "matriks:matriks:6822654:0",
-        "matriks:matriks:6822653:0",
-        "matriks:matriks:6822651:0",
-        "matriks:matriks:6822650:0",
-        "matriks:matriks:6822648:0",
-        "matriks:matriks:6822645:0",
-        "matriks:matriks:6822641:0",
-        "matriks:matriks:6822639:0",
-        "matriks:matriks:6822638:0",
-        "matriks:matriks:6822629:0",
-        "matriks:matriks:6822623:0",
-        "matriks:matriks:6822620:0",
-        "matriks:matriks:6822614:0",
-        "matriks:matriks:6822589:0",
-        "matriks:matriks:6822588:0",
-        "matriks:matriks:6822587:0",
-        "matriks:matriks:6822584:0",
-        "matriks:matriks:6822582:0",
-        "matriks:matriks:6822580:0",
-        "matriks:matriks:6822578:0",
-        "matriks:matriks:6822576:0",
-        "matriks:matriks:6822569:0",
-        "matriks:matriks:6822568:0",
-        "matriks:matriks:6822566:0",
-        "matriks:matriks:6822564:0",
-        "matriks:matriks:6822562:0",
-        "matriks:matriks:6822561:0",
-        "matriks:matriks:6822560:0",
-        "matriks:matriks:6822559:0",
-        "matriks:matriks:6822558:0",
-        "matriks:matriks:6822555:0",
-        "matriks:matriks:6822556:0",
-        "matriks:matriks:6822554:0",
-        "matriks:matriks:6822557:0",
-        "matriks:matriks:6822550:0",
-        "matriks:matriks:6822552:0",
-        "matriks:matriks:6822551:0",
-        "matriks:matriks:6822553:0",
-        "matriks:matriks:6822549:0",
-        "matriks:matriks:6822540:0",
-        "matriks:matriks:6822543:0",
-        "matriks:matriks:6822541:0",
-        "matriks:matriks:6822545:0",
-        "matriks:matriks:6822539:0",
-        "matriks:matriks:6822544:0",
-        "matriks:matriks:6822542:0",
-        "matriks:matriks:6822533:0",
-        "matriks:matriks:6822532:0",
-        "matriks:matriks:6822538:0",
-        "matriks:matriks:6822535:0",
-        "matriks:matriks:6822534:0",
-        "matriks:matriks:6822485:0"
+        "matriks:matriks:6823816:0",
+        "matriks:matriks:6823814:0",
+        "matriks:matriks:6823772:0",
+        "matriks:matriks:6823709:0",
+        "matriks:matriks:6823704:0",
+        "matriks:matriks:6823685:0",
+        "matriks:matriks:6823664:0",
+        "matriks:matriks:6823656:0",
+        "matriks:matriks:6823655:0",
+        "matriks:matriks:6823651:0",
+        "matriks:matriks:6823646:0",
+        "matriks:matriks:6823645:0",
+        "matriks:matriks:6823643:0",
+        "matriks:matriks:6823640:0",
+        "matriks:matriks:6823636:0",
+        "matriks:matriks:6823635:0",
+        "matriks:matriks:6823633:0",
+        "matriks:matriks:6823622:0",
+        "matriks:matriks:6823606:0",
+        "matriks:matriks:6823596:0",
+        "matriks:matriks:6823587:0",
+        "matriks:matriks:6823586:0",
+        "matriks:matriks:6823585:0",
+        "matriks:matriks:6823582:0",
+        "matriks:matriks:6823579:0",
+        "matriks:matriks:6823572:0",
+        "matriks:matriks:6823571:0",
+        "matriks:matriks:6823569:0",
+        "matriks:matriks:6823568:0",
+        "matriks:matriks:6823566:0",
+        "matriks:matriks:6823559:0",
+        "matriks:matriks:6823558:0",
+        "matriks:matriks:6823553:0",
+        "matriks:matriks:6823548:0",
+        "matriks:matriks:6823543:0",
+        "matriks:matriks:6823529:0",
+        "matriks:matriks:6823503:0",
+        "matriks:matriks:6823445:0",
+        "matriks:matriks:6823408:0",
+        "matriks:matriks:6823383:0",
+        "matriks:matriks:6823382:0",
+        "matriks:matriks:6823381:0",
+        "matriks:matriks:6823379:0",
+        "matriks:matriks:6823378:0",
+        "matriks:matriks:6823376:0",
+        "matriks:matriks:6823372:0",
+        "matriks:matriks:6823371:0",
+        "matriks:matriks:6823358:0",
+        "matriks:matriks:6823352:0",
+        "matriks:matriks:6823313:0",
+        "matriks:matriks:6823308:0",
+        "matriks:matriks:6823307:0",
+        "matriks:matriks:6823298:0",
+        "matriks:matriks:6823297:0",
+        "matriks:matriks:6823293:0",
+        "matriks:matriks:6823281:0",
+        "matriks:matriks:6823280:0",
+        "matriks:matriks:6823231:0",
+        "matriks:matriks:6823207:0",
+        "matriks:matriks:6823198:0",
+        "matriks:matriks:6823188:0",
+        "matriks:matriks:6823162:0",
+        "matriks:matriks:6823143:0"
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ad055fc58b1b941c208aa77/PICNEWS/tr/spk-tera-yatirim-in-97-milyar-liralik-ihrac-ve-sermaye-artirimi-basvurularini-islemden-kaldirdi-15-10-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ad0952958b1b941c208ac78/PICNEWS/tr/taksitli-satislarda-yeni-donem-ticaret-bakanligina-duzenleme-yetkisi-verildi-15-10-26/",
       "seen_keys": [
-        "forinvest:https://www.foreks.com/haber/detay/6ad055fc58b1b941c208aa77/PICNEWS/tr/spk-tera-yatirim-in-97-milyar-liralik-ihrac-ve-sermaye-artirimi-basvurularini-islemden-kaldirdi-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad0556f422c786f3f7a35fa/PICNEWS/tr/odine-yonetim-kurulu-uyelerinin-tutuklanmasina-ragmen-faaliyetler-kesintisiz-suruyor-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad054ae58b1b941c208aa6d/PICNEWS/tr/fox-news-anketi-abd-li-secmenlerin-yuzde-66-si-ulkenin-gidisatindan-memnun-degil-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad052e2422c786f3f7a35ee/PICNEWS/tr/zelenskiy-ft-ye-konustu-rus-petrol-rafinerilerine-saldirilari-yeniden-baslatacagiz-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad051d5422c786f3f7a35ea/PICNEWS/tr/fed-uyesi-goolsbee-den-enflasyon-uyarisi-yapay-zeka-yatirimlari-ekonomiyi-asiri-isitabilir-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad05164422c786f3f7a35e9/PICNEWS/tr/131-yatirim-fonunun-tasfiyesine-iliskin-kanun-teklifi-komisyondan-gecti-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad0503a422c786f3f7a35e6/PICNEWS/tr/fed-daly-faiz-artisi-gerekebilir-ancak-ekim-ayinda-aceleye-gerek-yok-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad04fc2422c786f3f7a35e3/PICNEWS/tr/ecb-de-faiz-artisi-tartismasi-knot-siki-durus-dolenc-temkinli-adim-istiyor-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad04f1358b1b941c208aa53/PICNEWS/tr/imf-asya-icin-buyume-tahminini-yukseltti-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad04e90422c786f3f7a35db/PICNEWS/tr/boj-koeda-faiz-konusunda-asiri-temkinli-davranilmamali-15-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad04dfc422c786f3f7a35d9/PICNEWS/tr/fed-bej-kitap-raporu-abd-de-enflasyon-baskilari-gucleniyor-istihdam-yatay-seyrediyor-15-10-26/"
+        "forinvest:https://www.foreks.com/haber/detay/6ad0952958b1b941c208ac78/PICNEWS/tr/taksitli-satislarda-yeni-donem-ticaret-bakanligina-duzenleme-yetkisi-verildi-15-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad08e53390e6a39236ff300/PICNEWS/tr/ecb-kazaks-acele-etmeye-gerek-yok-15-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad08e1358b1b941c208ac5e/PICNEWS/tr/boe-breeden-enerji-fiyatlari-kaynakli-maliyet-soku-para-politikasi-yapicilarinin-isini-kolaylastiriyor-15-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad08cdb390e6a39236ff2f5/PICNEWS/tr/kuresel-nikel-arzinda-11-yil-sonra-ilk-daralma-bekleniyor-15-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad08bf6390e6a39236ff2ed/PICNEWS/tr/iran-hurmuz-bogazi-kapali-tum-gecisler-koordinasyona-tabi-15-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad08aea390e6a39236ff2e6/PICNEWS/tr/avrupa-tahvil-faizlerinde-sert-dusus-fransa-da-10-yillik-getiri-yuzde-4-76-ya-geriledi-15-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad08a86422c786f3f7a37f1/PICNEWS/tr/turkiye-nin-tarim-urunleri-ihracati-27-1-milyar-dolara-ulasti-15-10-26/"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/asya-borsalari-abd-enflasyon-verisi-sonrasi-sert-dustu-3791409",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/commerzbank-tan-tl-analizi-adil-degere-yakin-degil-3791432",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/commerzbank-tan-tl-analizi-adil-degere-yakin-degil-3791432",
+        "bloomberght:https://www.bloomberght.com/ucretli-calisan-sayisi-agustos-3791427",
+        "bloomberght:https://www.bloomberght.com/trump-iran-la-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi-3791424",
+        "bloomberght:https://www.bloomberght.com/imf-den-dusuk-degerli-yuan-uyarisi-3791425",
+        "bloomberght:https://www.bloomberght.com/zelenskiy-rafinerilere-yeniden-saldiracagiz-3791416",
+        "bloomberght:https://www.bloomberght.com/kuresel-piyasalarda-sert-satislar-3791415",
+        "bloomberght:https://www.bloomberght.com/tahviller-yeniden-guvenli-liman-oldu-3791413",
+        "bloomberght:https://www.bloomberght.com/anthropic-sonuclari-coreweave-tahvilleri-3791412",
+        "bloomberght:https://www.bloomberght.com/fed-uyesi-goolsbee-enflasyon-verisi-hayal-kirikligi-yaratti-3791411",
+        "bloomberght:https://www.bloomberght.com/fed-uyesi-daly-faiz-artisi-icin-acele-etmeye-gerek-yok-3791410",
         "bloomberght:https://www.bloomberght.com/asya-borsalari-abd-enflasyon-verisi-sonrasi-sert-dustu-3791409",
         "bloomberght:https://www.bloomberght.com/altin-dolarin-gerilemesiyle-yuzde-1-3-yukseldi-3791403",
         "bloomberght:https://www.bloomberght.com/petrol-arz-riskleri-ve-yaptirim-hafifletme-beklentileriyle-geriledi-3791402",
@@ -1727,6 +1732,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "commerzbank tan tl analizi adil degere yak n degil commerzbank n analizine gore turk liras ndaki nominal deger kayb n n temposu henuz adil deger seviyesine yak nsama duzeyinde degil",
+      "link": "https://www.bloomberght.com/commerzbank-tan-tl-analizi-adil-degere-yakin-degil-3791432"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ucretli cal san say s agustos ta yatay seyretti tuik verilerine gore agustos ay nda ucretli cal san say s ayl k bazda yuzde 0 2 yatay seyir izlerken y ll k bazda yuzde 2 artt",
+      "link": "https://www.bloomberght.com/ucretli-calisan-sayisi-agustos-3791427"
+    },
+    {
+      "source": "bloomberght",
+      "text": "trump iran la savas n yak nda bitecegini petrol fiyatlar n n dusecegini yineledi abd baskan donald trump iran la savas n cok yak nda sona erecegi petrol fiyatlar n n dusecegi ifadelerini yineledi",
+      "link": "https://www.bloomberght.com/trump-iran-la-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi-3791424"
+    },
+    {
+      "source": "bloomberght",
+      "text": "imf den dusuk degerli yuan uyar s imf asya pasifik departman direktoru krishna srinivasan cin yuan n n ic talepteki zay fl k nedeniyle reel olarak dusuk degerlenmis durumda oldugunu belirtti",
+      "link": "https://www.bloomberght.com/imf-den-dusuk-degerli-yuan-uyarisi-3791425"
+    },
+    {
+      "source": "bloomberght",
+      "text": "zelenskiy rafinerilere yeniden sald racag z ukrayna devlet baskan volodimir zelenskiy rus petrol rafinerilerine yonelik sald r lar yeniden baslatacag n soyledi",
+      "link": "https://www.bloomberght.com/zelenskiy-rafinerilere-yeniden-saldiracagiz-3791416"
+    },
+    {
+      "source": "bloomberght",
+      "text": "kuresel piyasalarda sert sat slar abd beklentilerin uzerinde gelen cekirdek enflasyon fed in faiz art r mlar na yeniden baslayabilecegi beklentilerini guclendirirken bej kitap fiyat bask lar n n ekonomiye yay ld g na isaret etti",
+      "link": "https://www.bloomberght.com/kuresel-piyasalarda-sert-satislar-3791415"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tahviller yeniden guvenli liman oldu hisse senetlerindeki sat slar n derinlesmesiyle yat r mc lar yeniden devlet tahvillerine yonelirken abd nin 10 y ll k tahvil faizi uc haftan n en dusuk seviyesine geriledi",
+      "link": "https://www.bloomberght.com/tahviller-yeniden-guvenli-liman-oldu-3791413"
+    },
+    {
+      "source": "bloomberght",
+      "text": "yapay zekada kritik gelismeler anthropic sonuclar coreweave tahvilleri yapay zeka sektorunde halka haz rlanan anthropic potansiyel yat r mc lar na finansal sonuclar n ac klarken coreweave in tahvillerindeki sert dusus ai yat r mlar n n finansman na iliskin endiseleri art rd",
+      "link": "https://www.bloomberght.com/anthropic-sonuclari-coreweave-tahvilleri-3791412"
+    },
+    {
+      "source": "bloomberght",
+      "text": "fed goolsbee enflasyon verisi hayal k r kl g yaratt chicago fed baskan austan goolsbee eylul ay nda beklentilerin uzerinde gelen abd enflasyon verisini hayal k r kl g yaratan gelisme olarak nitelendirirken faiz art s konusunda harekete gecmeden once daha fazla veri gormek istedigin",
+      "link": "https://www.bloomberght.com/fed-uyesi-goolsbee-enflasyon-verisi-hayal-kirikligi-yaratti-3791411"
+    },
+    {
+      "source": "bloomberght",
+      "text": "fed uyesi daly faiz art s acele etmeye gerek yok san francisco fed baskan mary daly yuksek enflasyonu kontrol alt na almak k sa vadeli faizlerin ilerleyen donemde yeniden art r lmas n n gerekebilecegini ancak 27 28 ekim toplant s nda boyle ad m atmak acele edilmesine gere",
+      "link": "https://www.bloomberght.com/fed-uyesi-daly-faiz-artisi-icin-acele-etmeye-gerek-yok-3791410"
+    },
+    {
+      "source": "kap",
+      "text": "poltk pay baz nda devre kesici bildirimi poltk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682553"
+    },
+    {
+      "source": "kap",
+      "text": "lider paylar n geri al nmas na iliskin bildirim pay geri al m program n n guncellenmesi hakk nda yonetim kurulu karar sirket ldr turizm a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682552"
+    },
+    {
+      "source": "kap",
+      "text": "ersu pay baz nda devre kesici bildirimi ersu e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682548"
+    },
+    {
+      "source": "kap",
+      "text": "aksue ozel durum ac klamas genel stratejik buyume hedefleri dogrultusunda yap lacak sat nalma islemleri hk sirket aksu enerji ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682547"
+    },
+    {
+      "source": "kap",
+      "text": "prt sirket genel bilgi formu sirket piramit portfoy yonetimi a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682546"
+    },
+    {
+      "source": "kap",
+      "text": "trhol sirket genel bilgi formu sirket tera finansal yatirimlar holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682545"
+    },
+    {
+      "source": "kap",
+      "text": "ahsgy pay baz nda devre kesici bildirimi ahsgy e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682544"
+    },
+    {
+      "source": "kap",
+      "text": "trhol ozel durum ac klamas genel yonetim kurulu uyesinin gorevinden ayr lmas sirket tera finansal yatirimlar holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682543"
+    },
+    {
+      "source": "kap",
+      "text": "tera tra sirket genel bilgi formu sirket tera yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682542"
+    },
+    {
+      "source": "kap",
+      "text": "tera tra ozel durum ac klamas genel yonetim kurulu uyesinin gorevinden ayr lmas sirket tera yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682541"
+    },
+    {
+      "source": "kap",
+      "text": "deniz dnz pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren emtn program kapsam nda yurtd s borclanma arac kupon odemesi itfas xs3050640252 sirket denizbank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682540"
+    },
+    {
+      "source": "kap",
+      "text": "mrbas mrs pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren finansman bono ihrac hk sirket marbas menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682538"
+    },
+    {
+      "source": "kap",
+      "text": "vbtyz pay baz nda devre kesici bildirimi vbtyz e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682536"
+    },
+    {
+      "source": "kap",
+      "text": "dgnmo pay baz nda devre kesici bildirimi dgnmo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682535"
+    },
+    {
+      "source": "kap",
+      "text": "krdmb pay baz nda devre kesici bildirimi krdmb e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682534"
+    },
+    {
+      "source": "kap",
+      "text": "miatk ozel durum ac klamas genel elektrikli arac sarj istasyonlar kurulum sozlesmesi hakk nda sirket mia teknoloji a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682532"
+    },
+    {
+      "source": "kap",
+      "text": "hlvks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdhvkae2611 isin kodlu kira sertifikas ihrac n dorduncu donem donemsel getiri itfa odemesi sirket halk varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682531"
+    },
+    {
+      "source": "kap",
+      "text": "kaplm pay baz nda devre kesici bildirimi kaplm e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682528"
+    },
+    {
+      "source": "kap",
+      "text": "ucaym haber soylentilere iliskin ac klama haber soylentilere iliskin ac klama sirket ucay muhendislik enerji iklimlendirme teknolojileri a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682527"
+    },
+    {
+      "source": "kap",
+      "text": "kuyas pay baz nda devre kesici bildirimi kuyas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1682525"
+    },
     {
       "source": "kap",
       "text": "pbt pbtr pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren pasha yat r m bankas a s vdmk itfas sirket pasha yatirim bankasi a s",
@@ -8635,18 +8790,20 @@
     "deniz": {
       "gunluk_bulten": {
         "seen_keys": [
+          "6e32c32a12857e33a7fc755a1e591708ec7cecd7",
           "bec6e952f10a0ce11164c5fcef485bc22f4a2b72",
           "e466d2f084f37c3ed64a331226f2359a1f82dd89",
           "a995273f41d24a1977bba59ddc3e4c5b2123760a"
         ],
         "seen_semantic_keys": [
+          "d9121682980928ae0080412e9df585fe39677014",
           "66e84f33a485373ffa167d68984ab24aac6463a3",
           "e6e4396690a589d4f9ed5d26d806b14d105d492c",
           "0200199e2a17f99e730c3dfb985df60b4706e949"
         ],
         "rejected_keys": [],
-        "last_published_date": "2026-10-14",
-        "sent_at": "2026-10-14T11:01:39.157404+03:00"
+        "last_published_date": "2026-10-15",
+        "sent_at": "2026-10-15T13:09:00.543253+03:00"
       }
     },
     "phillipcapital": {
