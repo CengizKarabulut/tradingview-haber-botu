@@ -342,6 +342,7 @@
         "cnbce:https://www.cnbce.com/borsa/spkdan-tera-yatirima-uc-basvuruda-kritik-karar-h39478",
         "cnbce:https://www.cnbce.com/sirket-haberleri/bimden-yeni-sirket-karari-hedefinde-yapay-zeka-ve-dijital-bankacilik-var-h39474",
         "cnbce:https://www.cnbce.com/borsa/yatirimci-borsadan-uzaklasiyor-mu-fon-tasfiyelerinde-40-milyar-tllik-surec-h39461",
+        "cnbce:https://www.cnbce.com/haberler/kamu-ihalelerinde-sgk-ve-vergi-borcu-siniri-yukseltildi-h39575",
         "cnbce:https://www.cnbce.com/haberler/hazine-ve-maliye-bakanliginda-yeni-atama-bekir-bayrakdar-kimdir-h39573",
         "cnbce:https://www.cnbce.com/dunya/fransada-sari-yelekliler-yeniden-sokaklara-cikiyor-1000den-fazla-noktada-eylem-h39571",
         "cnbce:https://www.cnbce.com/dunya/abdde-secim-oncesi-supheli-mektup-alarmi-fbi-sorusturma-baslatti-h39569",
@@ -371,15 +372,15 @@
       ]
     },
     "aaekonomi": {
-      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-taksit-surelerini-bddk-kararlariyla-uyumlu-hale-getirdi/4089953",
+      "last_seen_key": "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-genel-muduru-taha-cakmak-gorevinden-istifa-etti/4090245",
       "seen_keys": [
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-genel-muduru-taha-cakmak-gorevinden-istifa-etti/4090245",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-taksit-surelerini-bddk-kararlariyla-uyumlu-hale-getirdi/4089953",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4090133",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupa-otomotiv-pazarinda-cinin-agirligi-artiyor/4089359",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/butce-uygulama-sonuclari-aciklandi/4089375",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyede-sebze-fidesi-uretimi-yillik-7-milyar-adedi-asti/4089427",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/avrupa-otomotiv-pazarinda-cinin-agirligi-artiyor/4089359",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/abdde-hizlanan-enflasyon-yil-sonuna-kadar-yeni-bir-faiz-artisi-ihtimalini-guclendiriyor/4089358",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-genel-muduru-taha-cakmak-gorevinden-istifa-etti/4090245",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiye-innovation-week-2026da-ilk-gun-sona-erdi/4090094",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-gunluk-1530-ucusla-avrupanin-en-yogun-havalimani-oldu/4090080",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-15-ekim-2026/4089893",
@@ -393,8 +394,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/qualys-ceosu-sumedh-thakar-609147-dolar-degerinde-hisse-satt-93CH-4105885",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/msci-endonezyay-bagmsz-piyasa-statusune-indirmeyi-oneriyor-93CH-4105888",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/msci-endonezyay-bagmsz-piyasa-statusune-indirmeyi-oneriyor-93CH-4105888",
+        "investing:https://tr.investing.com/news/transcripts/alcoa-3c-2026da-hisse-bas-kazanc-tahminini-ast-93CH-4105887",
         "investing:https://tr.investing.com/news/insider-trading-news/qualys-ceosu-sumedh-thakar-609147-dolar-degerinde-hisse-satt-93CH-4105885",
         "investing:https://tr.investing.com/news/transcripts/atlasclear-holdings-nis-finans-platformu-kuruyor-93CH-4105884",
         "investing:https://tr.investing.com/news/transcripts/lakewoodamedex-thinkequity-konferansnda-topikal-antimikrobiyal-urunlere-odakland-93CH-4105883",
@@ -403,8 +406,6 @@
         "investing:https://tr.investing.com/news/company-news/wf-holding-18-milyon-dolarlk-halka-arz-tamamlad-93CH-4105880",
         "investing:https://tr.investing.com/news/stock-market-news/cohen--steers-hissesi-bugun-neden-yukseldi-93CH-4105879",
         "investing:https://tr.investing.com/news/stock-market-news/varonis-hissesi-bugun-neden-yukseldi-93CH-4105878",
-        "investing:https://tr.investing.com/news/stock-market-news/alcoa-hissesi-bugun-neden-yukseliyor-93CH-4105877",
-        "investing:https://tr.investing.com/news/company-news/msci-turk-hisse-senetlerinde-endeks-degisikliklerini-dondurdu-93CH-4105874",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -424,7 +425,9 @@
         "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
         "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
-        "investing:https://tr.investing.com/analysis/katlmevim-hissesi-neden-dusuyor-evini-bekleyen-musteriler-ne-olacak-200506276"
+        "investing:https://tr.investing.com/analysis/katlmevim-hissesi-neden-dusuyor-evini-bekleyen-musteriler-ne-olacak-200506276",
+        "investing:https://tr.investing.com/news/stock-market-news/alcoa-hissesi-bugun-neden-yukseliyor-93CH-4105877",
+        "investing:https://tr.investing.com/news/company-news/msci-turk-hisse-senetlerinde-endeks-degisikliklerini-dondurdu-93CH-4105874"
       ]
     },
     "ntvpara": {
@@ -517,8 +520,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:9a09aca66d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:8a55d7f73d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:8a55d7f73d9e8:0",
         "tradingview:fxstreet:9a09aca66d9e8:0",
         "tradingview:cointelegraph:521bf931cd9e8:0",
         "tradingview:cointelegraph:508550d3ad9e8:0",
@@ -622,6 +626,22 @@
       ]
     }
   },
-  "fingerprints": [],
+  "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "sterlin zay flayan dolar birlesik krall k buyume surpriziyle yukseldi",
+      "link": "https://tr.tradingview.com/news/fxstreet:8a55d7f73d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "msci endonezya y bag ms z piyasa statusune indirmeyi oneriyor",
+      "link": "https://tr.investing.com/news/company-news/msci-endonezyay-bagmsz-piyasa-statusune-indirmeyi-oneriyor-93CH-4105888"
+    },
+    {
+      "source": "investing",
+      "text": "alcoa 3c 2026 hisse bas kazanc tahminini ast",
+      "link": "https://tr.investing.com/news/transcripts/alcoa-3c-2026da-hisse-bas-kazanc-tahminini-ast-93CH-4105887"
+    }
+  ],
   "research_reports_v8": {}
 }
