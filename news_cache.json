@@ -2,8 +2,18 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1683125",
+      "last_seen_key": "kap:1683153",
       "seen_keys": [
+        "kap:1683153",
+        "kap:1683152",
+        "kap:1683151",
+        "kap:1683145",
+        "kap:1683144",
+        "kap:1683141",
+        "kap:1683137",
+        "kap:1683136",
+        "kap:1683133",
+        "kap:1683129",
         "kap:1683125",
         "kap:1683124",
         "kap:1683120",
@@ -201,8 +211,26 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6827483:0",
+      "last_seen_key": "matriks:matriks:6827667:0",
       "seen_keys": [
+        "matriks:matriks:6827667:0",
+        "matriks:matriks:6827649:0",
+        "matriks:matriks:6827648:0",
+        "matriks:matriks:6827647:0",
+        "matriks:matriks:6827646:0",
+        "matriks:matriks:6827644:0",
+        "matriks:matriks:6827631:0",
+        "matriks:matriks:6827629:0",
+        "matriks:matriks:6827574:0",
+        "matriks:matriks:6827556:0",
+        "matriks:matriks:6827544:0",
+        "matriks:matriks:6827541:0",
+        "matriks:matriks:6827538:0",
+        "matriks:matriks:6827537:0",
+        "matriks:matriks:6827535:0",
+        "matriks:matriks:6827525:0",
+        "matriks:matriks:6827524:0",
+        "matriks:matriks:6827523:0",
         "matriks:matriks:6827483:0",
         "matriks:matriks:6827476:0",
         "matriks:matriks:6827472:0",
@@ -294,8 +322,9 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ad2099b6bfaf200f9f3c72e/PICNEWS/tr/cin-yapay-zekanin-reel-ekonomiye-entegrasyonunu-hizlandiracak-16-10-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ad20d8c6bfaf200f9f3c742/PICNEWS/tr/iran-umman-denizi-nde-bir-tanker-daha-yasak-bolgede-yanarken-tespit-edildi-16-10-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6ad20d8c6bfaf200f9f3c742/PICNEWS/tr/iran-umman-denizi-nde-bir-tanker-daha-yasak-bolgede-yanarken-tespit-edildi-16-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ad2099b6bfaf200f9f3c72e/PICNEWS/tr/cin-yapay-zekanin-reel-ekonomiye-entegrasyonunu-hizlandiracak-16-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ad208c86bfaf200f9f3c726/PICNEWS/tr/norvec-in-varlik-fonunda-savunma-sirketlerine-yatirim-yasagi-gevseyebilir-16-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ad2005c6bfaf200f9f3c6d5/PICNEWS/tr/forinvest-haber-borsa-kapanis-tahmini-anketi-sonuclandi-16-10-26/",
@@ -311,8 +340,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/fransa-ve-almanya-otomotiv-sektorlerini-korumak-icin-anlasmaya-vardi-3791657",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/kobi-kredilerinde-takipteki-alacak-orani-10-yillik-ortalamayi-asti-3791658",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/kobi-kredilerinde-takipteki-alacak-orani-10-yillik-ortalamayi-asti-3791658",
         "bloomberght:https://www.bloomberght.com/fransa-ve-almanya-otomotiv-sektorlerini-korumak-icin-anlasmaya-vardi-3791657",
         "bloomberght:https://www.bloomberght.com/almanya-da-sigarada-vergi-artisi-federal-meclis-ten-gecti-3791655",
         "bloomberght:https://www.bloomberght.com/kuresel-dokum-sanayisi-76-dunya-dokum-kongresi-icin-istanbul-da-bulusuyor-3791654",
@@ -825,6 +855,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "kobi kredilerinde takipteki alacak oran 10 y ll k ortalamay ast bddk verilerine gore kobi kredilerinde takipteki alacak oran 9 ekim itibar yla yuzde 4 2 ye yukseldi genel ticari kredilerde oran yuzde 2 5 seviyesinde kal rken iki grup aras ndaki fark 1 7 puana ulast",
+      "link": "https://www.bloomberght.com/kobi-kredilerinde-takipteki-alacak-orani-10-yillik-ortalamayi-asti-3791658"
+    },
+    {
+      "source": "forinvest",
+      "text": "iran umman denizi nde tanker daha yasak bolgede yanarken tespit edildi iran donanmas umman denizi nde yasak bolgeden gecmeye cal st g one surulen petrol tankerinin yang n halinde tespit edildigini ac klad",
+      "link": "https://www.foreks.com/haber/detay/6ad20d8c6bfaf200f9f3c742/PICNEWS/tr/iran-umman-denizi-nde-bir-tanker-daha-yasak-bolgede-yanarken-tespit-edildi-16-10-26"
+    },
+    {
+      "source": "matriks",
+      "text": "dunya bankas venezuela ya 5 milyar dolara kadar kredi saglama olas l g ongoruyor bn",
+      "link": "https://tr.tradingview.com/news/matriks:6827667:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd petrol d s ithalat fiyatlar eylul 0 8",
+      "link": "https://tr.tradingview.com/news/matriks:6827649:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd ithalat fiyatlar degisimi eylul ayl k 1 1 beklenti 0 8 onceki 0 7",
+      "link": "https://tr.tradingview.com/news/matriks:6827648:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd petrol urunleri ithalat fiyatlar eylul 4 6",
+      "link": "https://tr.tradingview.com/news/matriks:6827647:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd ihracat fiyatlar degisimi eylul ayl k 2 2 beklenti 1 0 onceki 0 6",
+      "link": "https://tr.tradingview.com/news/matriks:6827646:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gosterge niteligindeki tc merkez bankas dolar al s 49 3573 sat s 49 4463 euro al s 55 5179 sat s 55 6180",
+      "link": "https://tr.tradingview.com/news/matriks:6827644:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd ithalat fiyatlar ac klanacak",
+      "link": "https://tr.tradingview.com/news/matriks:6827631:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bilanco beklentileri yatas indes deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6827629:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gun ici endeks degerlendirme raporu ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6827574:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bilanco beklentileri httbt deniz yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6827556:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj baskan ueda fed baskan warsh gorus al sverisinde bulunma f rsat m oldu ancak gorusmede nelerin ele al nd g konusunda yorum yapmayacag m",
+      "link": "https://tr.tradingview.com/news/matriks:6827544:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj baskan ueda gecmis faiz art r mlar n n finansal kosullar yurt ici fiyatlar uzerindeki kumulatif etkilerini dikkate alarak notr faiz oran na iliskin tahminimizi degerlendirmek istiyoruz",
+      "link": "https://tr.tradingview.com/news/matriks:6827541:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj baskan ueda japonya n n notr faiz oran hakk nda net sey soylemek zor",
+      "link": "https://tr.tradingview.com/news/matriks:6827538:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj baskan ueda haftaki toplant lardan c kan sonuc orta dogu daki cat sman n yapay zeka talebinin kuresel japon ekonomilerini enflasyonu nas l etkileyebilecegi konusunda diger politika yap c larla gorus al sverisinde bulunmak oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6827537:0"
+    },
+    {
+      "source": "matriks",
+      "text": "cin ticaret bakanl g her iki taraf sorunlar n cozumunde samimiyet gostermeli",
+      "link": "https://tr.tradingview.com/news/matriks:6827535:0"
+    },
+    {
+      "source": "matriks",
+      "text": "cin ticaret bakanl g ab cin in kendi c karlar n koruma kararl l g n gucunu kucumsememeli",
+      "link": "https://tr.tradingview.com/news/matriks:6827525:0"
+    },
+    {
+      "source": "matriks",
+      "text": "cin ticaret bakanl g ab cin e bask yaparak c kar elde etmeyi hayal etmemeli",
+      "link": "https://tr.tradingview.com/news/matriks:6827524:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj baskan ueda daha once ifade ettigimiz gibi cekirdek enflasyonun 2 ye oldukca yaklasmas yla para politikam z yeni asamaya girdi enflasyonun yeniden yukselmesine izin veremeyiz",
+      "link": "https://tr.tradingview.com/news/matriks:6827523:0"
+    },
+    {
+      "source": "kap",
+      "text": "gsdde pay baz nda devre kesici bildirimi gsdde e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683153"
+    },
+    {
+      "source": "kap",
+      "text": "verus pay baz nda devre kesici bildirimi verus e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683152"
+    },
+    {
+      "source": "kap",
+      "text": "izfas pay baz nda devre kesici bildirimi izfas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683151"
+    },
+    {
+      "source": "kap",
+      "text": "oyayo pay baz nda devre kesici bildirimi oyayo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683145"
+    },
+    {
+      "source": "kap",
+      "text": "dfktr ihrac tavan na iliskin bildirim ihrac tavan basvurusu sirket doruk faktoring a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683144"
+    },
+    {
+      "source": "kap",
+      "text": "grm gryat yat r m kurulusu varant sertifika senetlerine iliskin bildirim haftal k al m sat m sirket garanti yatirim menkul kiymetler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683141"
+    },
+    {
+      "source": "kap",
+      "text": "snica pay baz nda devre kesici bildirimi snica e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683137"
+    },
+    {
+      "source": "kap",
+      "text": "emvar pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz sirketimiz taraf ndan ihrac edilmis olan trdemvke2644 isin kodlu kira sertifikas n n itfas hk sirket emlak varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683136"
+    },
+    {
+      "source": "kap",
+      "text": "ektvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz sirketimiz taraf ndan ihrac edilmis olan trdevkse26c1 isin kodlu kira sertifikas n n itfas hk sirket emlak katilim varlik kiralama a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683133"
+    },
+    {
+      "source": "kap",
+      "text": "dmd dsyat ozel durum ac klamas genel sube kapan s karar sirket destek yatirim menkul degerler a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683129"
+    },
     {
       "source": "trthaber",
       "text": "turkiye yollar ndaki elektrikli otomobil say s yuzde 52 4 artt turkiye trafige kay tl elektrikli otomobil say s eylul itibar yla y ll k bazda yuzde 52 4 artarak 486 bin 359 a yukseldi hibrit otomobil say s art s n surdurerek ayn donemde 915 bin 892 ye c kt",
@@ -2097,9 +2277,15 @@
     },
     "phillipcapital": {
       "gunluk_bulten": {
-        "seen_keys": [],
-        "seen_semantic_keys": [],
-        "rejected_keys": []
+        "seen_keys": [
+          "3579056778c6f133564c471dbff08023d5787155"
+        ],
+        "seen_semantic_keys": [
+          "51b13c4d765de1d97c2bcc40e1dbd5f15da1416d"
+        ],
+        "rejected_keys": [],
+        "last_published_date": "2026-10-16",
+        "sent_at": "2026-10-16T15:38:03.073126+03:00"
       }
     },
     "seker": {
