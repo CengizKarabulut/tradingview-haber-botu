@@ -2,135 +2,105 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1682829",
+      "last_seen_key": "kap:1682938",
       "seen_keys": [
-        "kap:1682829",
-        "kap:1682828",
-        "kap:1682827",
-        "kap:1682826",
-        "kap:1682825",
-        "kap:1682824",
-        "kap:1682823",
-        "kap:1682822",
-        "kap:1682821",
-        "kap:1682820",
-        "kap:1682819",
-        "kap:1682818",
-        "kap:1682817",
-        "kap:1682816",
-        "kap:1682815",
-        "kap:1682813",
-        "kap:1682812",
-        "kap:1682811",
-        "kap:1682810",
-        "kap:1682809",
-        "kap:1682808",
-        "kap:1682806",
-        "kap:1682805",
-        "kap:1682804",
-        "kap:1682803",
-        "kap:1682802",
-        "kap:1682801",
-        "kap:1682800",
-        "kap:1682799",
-        "kap:1682798",
-        "kap:1682797",
-        "kap:1682796",
-        "kap:1682795",
-        "kap:1682794",
-        "kap:1682793",
-        "kap:1682792",
-        "kap:1682791",
-        "kap:1682789",
-        "kap:1682788",
-        "kap:1682787",
-        "kap:1682786",
-        "kap:1682785",
-        "kap:1682784",
-        "kap:1682783",
-        "kap:1682782",
-        "kap:1682781",
-        "kap:1682780",
-        "kap:1682779",
-        "kap:1682778",
-        "kap:1682777",
-        "kap:1682776",
-        "kap:1682775",
-        "kap:1682774",
-        "kap:1682773",
-        "kap:1682772",
-        "kap:1682771",
-        "kap:1682770",
-        "kap:1682768",
-        "kap:1682767",
-        "kap:1682766",
-        "kap:1682765",
-        "kap:1682764",
-        "kap:1682763",
-        "kap:1682762",
-        "kap:1682761",
-        "kap:1682760",
-        "kap:1682759",
-        "kap:1682758",
-        "kap:1682757",
-        "kap:1682756",
-        "kap:1682755",
-        "kap:1682754",
-        "kap:1682753",
-        "kap:1682752",
-        "kap:1682751",
-        "kap:1682750",
-        "kap:1682749",
-        "kap:1682748",
-        "kap:1682747",
-        "kap:1682746",
-        "kap:1682745",
-        "kap:1682744",
-        "kap:1682743",
-        "kap:1682742",
-        "kap:1682741",
-        "kap:1682740",
-        "kap:1682739",
-        "kap:1682738",
-        "kap:1682737",
-        "kap:1682736",
-        "kap:1682735",
-        "kap:1682734",
-        "kap:1682733",
-        "kap:1682732",
-        "kap:1682731",
-        "kap:1682730",
-        "kap:1682729",
-        "kap:1682728",
-        "kap:1682727",
-        "kap:1682717",
-        "kap:1682716",
-        "kap:1682715",
-        "kap:1682714",
-        "kap:1682713",
-        "kap:1682712",
-        "kap:1682711",
-        "kap:1682710",
-        "kap:1682709",
-        "kap:1682701",
-        "kap:1682700",
-        "kap:1682695",
-        "kap:1682694",
-        "kap:1682693",
-        "kap:1682692",
-        "kap:1682687",
-        "kap:1682686",
-        "kap:1682685",
-        "kap:1682680",
-        "kap:1682679",
-        "kap:1682678",
-        "kap:1682677",
-        "kap:1682676",
-        "kap:1682675",
-        "kap:1682671",
-        "kap:1682667",
-        "kap:1682665",
-        "kap:1682664"
+        "kap:1682938",
+        "kap:1682937",
+        "kap:1682936",
+        "kap:1682935",
+        "kap:1682934",
+        "kap:1682933",
+        "kap:1682932",
+        "kap:1682931",
+        "kap:1682930",
+        "kap:1682929",
+        "kap:1682928",
+        "kap:1682926",
+        "kap:1682925",
+        "kap:1682924",
+        "kap:1682923",
+        "kap:1682922",
+        "kap:1682921",
+        "kap:1682920",
+        "kap:1682919",
+        "kap:1682918",
+        "kap:1682917",
+        "kap:1682916",
+        "kap:1682915",
+        "kap:1682914",
+        "kap:1682913",
+        "kap:1682912",
+        "kap:1682911",
+        "kap:1682910",
+        "kap:1682909",
+        "kap:1682908",
+        "kap:1682907",
+        "kap:1682906",
+        "kap:1682905",
+        "kap:1682904",
+        "kap:1682903",
+        "kap:1682902",
+        "kap:1682901",
+        "kap:1682900",
+        "kap:1682899",
+        "kap:1682898",
+        "kap:1682897",
+        "kap:1682896",
+        "kap:1682895",
+        "kap:1682894",
+        "kap:1682893",
+        "kap:1682892",
+        "kap:1682891",
+        "kap:1682890",
+        "kap:1682889",
+        "kap:1682888",
+        "kap:1682887",
+        "kap:1682886",
+        "kap:1682885",
+        "kap:1682884",
+        "kap:1682883",
+        "kap:1682882",
+        "kap:1682881",
+        "kap:1682880",
+        "kap:1682879",
+        "kap:1682878",
+        "kap:1682877",
+        "kap:1682876",
+        "kap:1682875",
+        "kap:1682874",
+        "kap:1682873",
+        "kap:1682872",
+        "kap:1682871",
+        "kap:1682870",
+        "kap:1682869",
+        "kap:1682868",
+        "kap:1682867",
+        "kap:1682866",
+        "kap:1682865",
+        "kap:1682864",
+        "kap:1682863",
+        "kap:1682862",
+        "kap:1682861",
+        "kap:1682860",
+        "kap:1682859",
+        "kap:1682858",
+        "kap:1682857",
+        "kap:1682855",
+        "kap:1682854",
+        "kap:1682853",
+        "kap:1682852",
+        "kap:1682851",
+        "kap:1682850",
+        "kap:1682848",
+        "kap:1682847",
+        "kap:1682846",
+        "kap:1682845",
+        "kap:1682843",
+        "kap:1682842",
+        "kap:1682841",
+        "kap:1682840",
+        "kap:1682839",
+        "kap:1682838"
       ]
     },
     "bist": {
@@ -221,8 +191,38 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6825945:0",
+      "last_seen_key": "matriks:matriks:6826024:0",
       "seen_keys": [
+        "matriks:matriks:6826024:0",
+        "matriks:matriks:6826021:0",
+        "matriks:matriks:6826018:0",
+        "matriks:matriks:6826017:0",
+        "matriks:matriks:6826015:0",
+        "matriks:matriks:6826013:0",
+        "matriks:matriks:6826012:0",
+        "matriks:matriks:6826010:0",
+        "matriks:matriks:6826002:0",
+        "matriks:matriks:6826001:0",
+        "matriks:matriks:6826000:0",
+        "matriks:matriks:6825992:0",
+        "matriks:matriks:6825991:0",
+        "matriks:matriks:6825988:0",
+        "matriks:matriks:6825986:0",
+        "matriks:matriks:6825985:0",
+        "matriks:matriks:6825983:0",
+        "matriks:matriks:6825978:0",
+        "matriks:matriks:6825973:0",
+        "matriks:matriks:6825970:0",
+        "matriks:matriks:6825969:0",
+        "matriks:matriks:6825967:0",
+        "matriks:matriks:6825966:0",
+        "matriks:matriks:6825962:0",
+        "matriks:matriks:6825960:0",
+        "matriks:matriks:6825959:0",
+        "matriks:matriks:6825955:0",
+        "matriks:matriks:6825953:0",
+        "matriks:matriks:6825950:0",
+        "matriks:matriks:6825948:0",
         "matriks:matriks:6825945:0",
         "matriks:matriks:6825943:0",
         "matriks:matriks:6825941:0",
@@ -763,6 +763,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "matriks",
+      "text": "fx bulteni qnb invest",
+      "link": "https://tr.tradingview.com/news/matriks:6826024:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj ueda ekonomi fiyatlar temel senaryo tahminlerimizle uyumlu seyrediyor",
+      "link": "https://tr.tradingview.com/news/matriks:6826021:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj ueda destekleyici finansal kosullar eylul deki faiz art r m ndan sonra ekonomik faaliyeti desteklemeye devam ediyor",
+      "link": "https://tr.tradingview.com/news/matriks:6826018:0"
+    },
+    {
+      "source": "matriks",
+      "text": "hsbc msci n turkiye karar uyar niteliginde ancak tan nan ek sure hemen istisare surecinin baslat lmamas olcude rahatlama sagl yor rapor",
+      "link": "https://tr.tradingview.com/news/matriks:6826017:0"
+    },
+    {
+      "source": "matriks",
+      "text": "uluslararas piyasalar bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6826015:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj ueda temel enflasyonun 2 lik fiyat hedefini asma riski var",
+      "link": "https://tr.tradingview.com/news/matriks:6826013:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj uchida gelecekteki politika ayarlamalar n n h z zamanlamas temel projeksiyonlar m z n gerceklesme olas l g na kars kars ya oldugumuz risklere bagl olarak belirlenecek",
+      "link": "https://tr.tradingview.com/news/matriks:6826012:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6826010:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj ueda finansal kosullar destekleyici",
+      "link": "https://tr.tradingview.com/news/matriks:6826002:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj ueda baskan yard mc s uchida n n okudugu metin cekirdek enflasyonun 2 civar nda istikrarl lasmas gecmise k yasla daha onemli",
+      "link": "https://tr.tradingview.com/news/matriks:6826001:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj uchida cekirdek enflasyon 2 ye yaklas yor",
+      "link": "https://tr.tradingview.com/news/matriks:6826000:0"
+    },
+    {
+      "source": "matriks",
+      "text": "boj ueda politika faizini ekonomik fiyat finansal gelismelere gore art rmaya devam edecegiz",
+      "link": "https://tr.tradingview.com/news/matriks:6825992:0"
+    },
+    {
+      "source": "matriks",
+      "text": "market watch seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825991:0"
+    },
+    {
+      "source": "matriks",
+      "text": "fx bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825988:0"
+    },
+    {
+      "source": "matriks",
+      "text": "teknik bulten is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825986:0"
+    },
+    {
+      "source": "matriks",
+      "text": "hazine gunluk piyasa bulteni gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825985:0"
+    },
+    {
+      "source": "matriks",
+      "text": "tcmb nin usd cinsi zorunlu kars l klara uygulayacag gecelik faiz oran bugun 2 750 olarak ac kland",
+      "link": "https://tr.tradingview.com/news/matriks:6825983:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten icbc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825978:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk piyasa ozeti garanti bbva yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825973:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bist50 gostergeler analizi aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825970:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bist50 volatilite analizi aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825969:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bist50 teknik bulten aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825967:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten aktif yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825966:0"
+    },
+    {
+      "source": "matriks",
+      "text": "teknik analiz bulteni piramit menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6825962:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk strateji bulteni piramit menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6825960:0"
+    },
+    {
+      "source": "matriks",
+      "text": "fx fikirleri tacirler yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825959:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten fibayat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825955:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten kuzey menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6825953:0"
+    },
+    {
+      "source": "matriks",
+      "text": "fx bulteni anadolu yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825950:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gunluk bulten akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6825948:0"
+    },
     {
       "source": "investing",
       "text": "jefferies talep riskleri nedeniyle siemens hissesini dusurdu",
@@ -1499,6 +1649,45 @@
         "rejected_keys": [],
         "last_published_date": "2026-10-16",
         "sent_at": "2026-10-16T09:22:43.695996+03:00"
+      }
+    },
+    "bulls": {
+      "gunluk_bulten": {
+        "seen_keys": [
+          "b7f49effa9b528d4f0b30959fc4cfae58b452e34"
+        ],
+        "seen_semantic_keys": [
+          "37e6b11d793061cc4841e65e882c997d779d8d68"
+        ],
+        "rejected_keys": [],
+        "last_published_date": "2026-10-16",
+        "sent_at": "2026-10-16T10:23:18.881461+03:00"
+      }
+    },
+    "deniz": {
+      "gunluk_bulten": {
+        "seen_keys": [
+          "ae1bdf193cfb46035cad219e23eec5356d291be4"
+        ],
+        "seen_semantic_keys": [
+          "f1b70b35a9e240f066196257eb7852b306dd9247"
+        ],
+        "rejected_keys": [],
+        "last_published_date": "2026-10-16",
+        "sent_at": "2026-10-16T10:23:23.316392+03:00"
+      }
+    },
+    "qnb": {
+      "gunluk_bulten": {
+        "seen_keys": [
+          "c1974b5fd342b07f63d82bceb82529713f58bf9e"
+        ],
+        "seen_semantic_keys": [
+          "f5c6ccdad2d628626fb851fea4944b860816caa1"
+        ],
+        "rejected_keys": [],
+        "last_published_date": "2026-10-16",
+        "sent_at": "2026-10-16T10:23:28.294462+03:00"
       }
     }
   }
