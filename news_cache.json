@@ -627,18 +627,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/ferguson-coo-thees-127125-dolar-degerinde-ferg-hissesi-satt-93CH-4107608",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/gic-private-ltd-medline-hisselerinden-2748-milyon-dolar-satt-93CH-4107614",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/gic-private-ltd-medline-hisselerinden-2748-milyon-dolar-satt-93CH-4107614",
+        "investing:https://tr.investing.com/news/insider-trading-news/saba-capital-blackrock-ecat-hisselerini-675333-dolara-satt-93CH-4107613",
+        "investing:https://tr.investing.com/news/stock-market-news/deepseek-yapay-zeka-modelini-guncelledi-arama-apilerini-act-4107612",
+        "investing:https://tr.investing.com/news/insider-trading-news/tether-yatrm-fonu-goldcom-hissesine-128-milyon-dolar-yatrd-93CH-4107610",
         "investing:https://tr.investing.com/news/insider-trading-news/ferguson-coo-thees-127125-dolar-degerinde-ferg-hissesi-satt-93CH-4107608",
         "investing:https://tr.investing.com/news/stock-market-news/dunyann-en-yuksek-kazanc-hangi-sirkette-cevap-sasrtabilir-4107607",
         "investing:https://tr.investing.com/news/stock-market-news/cip-endeksi-sox-2008den-bu-yana-en-uzun-dusus-serisini-kaydetti-4107602",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-burvann-yuzde-53luk-dususunu-onceden-gordu-93CH-4107600",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-certara-hissesinde-67lik-kazanc-yakalad-93CH-4107597",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-ttminin-57lik-dususunu-dort-ay-once-isaret-etti-93CH-4107594",
-        "investing:https://tr.investing.com/news/insider-trading-news/bank-of-america-pimco-fon-hisselerinden-162-bin-dolar-ald-154-bin-dolar-satt-93CH-4107593",
-        "investing:https://tr.investing.com/news/insider-trading-news/nwpx-infrastructure-yoneticisi-roman-387-bin-dolarlk-hisse-satt-93CH-4107590",
-        "investing:https://tr.investing.com/news/economy-news/alman-bakan-ukrayna-yardmn-surdurmek-icin-borc-freni-istisnas-istiyor-4107592",
-        "investing:https://tr.investing.com/news/insider-trading-news/idt-yoneticisi-judah-schorr-112-milyon-dolarlk-hisse-satt-93CH-4107589",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -659,6 +659,10 @@
         "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
         "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
+        "investing:https://tr.investing.com/news/insider-trading-news/bank-of-america-pimco-fon-hisselerinden-162-bin-dolar-ald-154-bin-dolar-satt-93CH-4107593",
+        "investing:https://tr.investing.com/news/insider-trading-news/nwpx-infrastructure-yoneticisi-roman-387-bin-dolarlk-hisse-satt-93CH-4107590",
+        "investing:https://tr.investing.com/news/economy-news/alman-bakan-ukrayna-yardmn-surdurmek-icin-borc-freni-istisnas-istiyor-4107592",
+        "investing:https://tr.investing.com/news/insider-trading-news/idt-yoneticisi-judah-schorr-112-milyon-dolarlk-hisse-satt-93CH-4107589",
         "investing:https://tr.investing.com/news/insider-trading-news/nuveen-belediye-kredisi-fonu-mutevellisi-toth-71811-dolar-degerinde-hisse-satt-93CH-4107588",
         "investing:https://tr.investing.com/news/economy-news/rusya-ukraynadaki-celik-fabrikalarn-ve-enerji-altyapsn-vurdugunu-acklad-4107587",
         "investing:https://tr.investing.com/news/insider-trading-news/bjs-wholesale-evp-ve-cfo-felice-887-bin-dolarlk-hisse-satt-93CH-4107585",
@@ -1218,6 +1222,26 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "gic private ltd medline hisselerinden 274 8 milyon dolar satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/gic-private-ltd-medline-hisselerinden-2748-milyon-dolar-satt-93CH-4107614"
+    },
+    {
+      "source": "investing",
+      "text": "saba capital blackrock ecat hisselerini 675 333 dolara satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/saba-capital-blackrock-ecat-hisselerini-675333-dolara-satt-93CH-4107613"
+    },
+    {
+      "source": "investing",
+      "text": "deepseek yapay zeka modelini guncelledi arama api lerini act",
+      "link": "https://tr.investing.com/news/stock-market-news/deepseek-yapay-zeka-modelini-guncelledi-arama-apilerini-act-4107612"
+    },
+    {
+      "source": "investing",
+      "text": "tether yat r m fonu gold com hissesine 1 28 milyon dolar yat rd",
+      "link": "https://tr.investing.com/news/insider-trading-news/tether-yatrm-fonu-goldcom-hissesine-128-milyon-dolar-yatrd-93CH-4107610"
+    },
     {
       "source": "tradingview",
       "text": "solana dayan kl l k gosteriyor ancak fidelity baz alanlar n izlenmesi gerektigini belirtiyor",
