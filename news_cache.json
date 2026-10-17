@@ -618,8 +618,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-ttminin-57lik-dususunu-dort-ay-once-isaret-etti-93CH-4107594",
+      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpro-certara-hissesinde-67lik-kazanc-yakalad-93CH-4107597",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/investment-ideas/investingpro-certara-hissesinde-67lik-kazanc-yakalad-93CH-4107597",
         "investing:https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-ttminin-57lik-dususunu-dort-ay-once-isaret-etti-93CH-4107594",
         "investing:https://tr.investing.com/news/insider-trading-news/bank-of-america-pimco-fon-hisselerinden-162-bin-dolar-ald-154-bin-dolar-satt-93CH-4107593",
         "investing:https://tr.investing.com/news/insider-trading-news/nwpx-infrastructure-yoneticisi-roman-387-bin-dolarlk-hisse-satt-93CH-4107590",
@@ -629,7 +630,6 @@
         "investing:https://tr.investing.com/news/economy-news/rusya-ukraynadaki-celik-fabrikalarn-ve-enerji-altyapsn-vurdugunu-acklad-4107587",
         "investing:https://tr.investing.com/news/insider-trading-news/bjs-wholesale-evp-ve-cfo-felice-887-bin-dolarlk-hisse-satt-93CH-4107585",
         "investing:https://tr.investing.com/news/insider-trading-news/taketwo-interactive-yoneticisi-siminoff-67775-dolarlk-hisse-satt-93CH-4107584",
-        "investing:https://tr.investing.com/news/insider-trading-news/gilead-iletisim-direktoru-468660-dolarlk-hisse-satt-93CH-4107583",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -650,6 +650,7 @@
         "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
         "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
+        "investing:https://tr.investing.com/news/insider-trading-news/gilead-iletisim-direktoru-468660-dolarlk-hisse-satt-93CH-4107583",
         "investing:https://tr.investing.com/news/stock-market-news/citi-cinli-yapay-zeka-halka-arzlarna-talebin-surecegini-ongoruyor-4107581",
         "investing:https://tr.investing.com/news/insider-trading-news/beta-bionics-cco-mark-hopman-13446-dolarlk-hisse-satt-93CH-4107580",
         "investing:https://tr.investing.com/news/insider-trading-news/paylocity-yonetim-kurulu-baskan-248-milyon-dolarlk-hisse-satt-93CH-4107567",
@@ -1200,6 +1201,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "investingpro certara hissesinde 67 lik kazanc yakalad",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpro-certara-hissesinde-67lik-kazanc-yakalad-93CH-4107597"
+    },
     {
       "source": "tradingview",
       "text": "apple n ilk katlanabilir iphone u dakikalar icinde tukendi",
