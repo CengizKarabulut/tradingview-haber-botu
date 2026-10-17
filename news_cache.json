@@ -567,9 +567,9 @@
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/cinin-rezervindeki-abd-devlet-tahvilleri-18-yilin-en-dusuk-seviyesine-geriledi/4092205",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/takasbanktan-tpp-ve-tefas-islemlerine-iliskin-aciklama/4092190",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/butceden-tarimsal-desteklere-gelecek-yil-icin-235-milyar-lira-ayrildi/4091734",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-jeotermal-deneyimi-cop31de-uluslararasi-gundeme-tasinacak/4091904",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/eylulde-elektrikli-araclara-3-milyonun-uzerinde-sarj-islemi-yapildi/4091726",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/butceden-tarimsal-desteklere-gelecek-yil-icin-235-milyar-lira-ayrildi/4091734",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ipard-iii-programi-11-basvuru-sonuclari-aciklandi/4091687",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-gabardan-yakinda-yeni-petrol-mujdesi-verebileceklerini-soyledi/4091897",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-ilk-yuzer-uretim-platformu-osman-gazi-gorev-yerine-ugurlandi/4091790",
@@ -640,8 +640,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/limoneirann-cfosu-hamm-11905-dolar-degerinde-hisse-satt-93CH-4107634",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/pagerduty-yonetim-kurulu-baskan-16-milyon-dolarlk-hisse-satt-93CH-4107638",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/pagerduty-yonetim-kurulu-baskan-16-milyon-dolarlk-hisse-satt-93CH-4107638",
+        "investing:https://tr.investing.com/news/insider-trading-news/first-guaranty-bancshares-yoneticisi-smith-822013-dolar-degerinde-hisse-ald-93CH-4107637",
         "investing:https://tr.investing.com/news/insider-trading-news/limoneirann-cfosu-hamm-11905-dolar-degerinde-hisse-satt-93CH-4107634",
         "investing:https://tr.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-83-milyon-dolarlk-hisse-satt-93CH-4107633",
         "investing:https://tr.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-65893-dolarlk-hisse-satt-93CH-4107632",
@@ -650,8 +652,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/on-semiconductor-yoneticisi-125-milyon-dolarlk-hisse-satt-93CH-4107628",
         "investing:https://tr.investing.com/news/economy-news/faiz-oranlar-ekonomi-icin-hisse-degerlemelerinden-daha-onemli-olabilir-4107626",
         "investing:https://tr.investing.com/news/insider-trading-news/gilead-baskan-ve-ceosu-oday-22-milyon-dolarlk-hisse-satt-93CH-4107624",
-        "investing:https://tr.investing.com/news/cryptocurrency-news/eos-18-orannda-yukseldi-4107622",
-        "investing:https://tr.investing.com/news/insider-trading-news/anterix-cfosu-elena-marquez-400606-dolarlk-hisse-satt-93CH-4107621",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -672,6 +672,8 @@
         "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
         "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
+        "investing:https://tr.investing.com/news/cryptocurrency-news/eos-18-orannda-yukseldi-4107622",
+        "investing:https://tr.investing.com/news/insider-trading-news/anterix-cfosu-elena-marquez-400606-dolarlk-hisse-satt-93CH-4107621",
         "investing:https://tr.investing.com/news/stock-market-news/mercedes-premium-elektrikli-arac-gamn-genisletiyor-4107620",
         "investing:https://tr.investing.com/news/insider-trading-news/pedevco-yoneticisi-simon-kukes-191-milyon-dolarlk-hisse-ald-93CH-4107618",
         "investing:https://tr.investing.com/news/stock-market-news/hafza-cipleri-endiseler-hakl-m-4107616",
@@ -1251,6 +1253,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "pagerduty yonetim kurulu baskan 1 6 milyon dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/pagerduty-yonetim-kurulu-baskan-16-milyon-dolarlk-hisse-satt-93CH-4107638"
+    },
+    {
+      "source": "investing",
+      "text": "first guaranty bancshares yoneticisi smith 822 013 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/first-guaranty-bancshares-yoneticisi-smith-822013-dolar-degerinde-hisse-ald-93CH-4107637"
+    },
     {
       "source": "investing",
       "text": "limoneira n n cfo su hamm 11 905 dolar degerinde hisse satt",
