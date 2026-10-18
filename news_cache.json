@@ -684,8 +684,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/veradermics-sac-dokulmesi-denemesi-sonuclarn-pazartesi-sunacak-93CH-4107747",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/xpo-cfosu-kyle-wismans-131602-dolar-degerinde-hisse-satt-93CH-4107748",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/xpo-cfosu-kyle-wismans-131602-dolar-degerinde-hisse-satt-93CH-4107748",
         "investing:https://tr.investing.com/news/company-news/veradermics-sac-dokulmesi-denemesi-sonuclarn-pazartesi-sunacak-93CH-4107747",
         "investing:https://tr.investing.com/news/company-news/disc-medicine-bitopertin-icin-faz-3-deneme-sonuclarn-sunacak-93CH-4107745",
         "investing:https://tr.investing.com/news/insider-trading-news/mink-brook-dlh-hisselerinde-736666-dolarlk-yeniden-dengeleme-yapt-93CH-4107744",
@@ -695,7 +696,6 @@
         "investing:https://tr.investing.com/news/stock-market-news/avrupa-kazanclar-onizlemesi-3c-sonuclar-yuksek-beklentileri-karslayabilir-mi-4107738",
         "investing:https://tr.investing.com/news/economy-news/ara-secimler-ubs-demokratlarn-tam-hakimiyetine-50-olaslk-veriyor-4107735",
         "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-icici-bank-icin-hisse-hedefini-yukseltti-93CH-4107733",
-        "investing:https://tr.investing.com/news/company-news/spyre-ibd-antikor-tedavileriyle-ilgili-klinik-veri-sundu-93CH-4107694",
         "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
@@ -716,6 +716,7 @@
         "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
         "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
+        "investing:https://tr.investing.com/news/company-news/spyre-ibd-antikor-tedavileriyle-ilgili-klinik-veri-sundu-93CH-4107694",
         "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-robert-abel-495-dolar-degerinde-hisse-ald-93CH-4107693",
         "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-mowery-1982-dolar-degerinde-hisse-ald-93CH-4107692",
         "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-joel-l-frank-2478-dolarlk-hisse-ald-93CH-4107691"
@@ -860,8 +861,12 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:9bca7007fd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:d71407ff6d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:d71407ff6d9e8:0",
+        "tradingview:fxstreet:3146782a0d9e8:0",
+        "tradingview:fxstreet:edfe278ccd9e8:0",
+        "tradingview:beincrypto:2477423d2d9e8:0",
         "tradingview:fxstreet:9bca7007fd9e8:0",
         "tradingview:beincrypto:d83a17c4cd9e8:0",
         "tradingview:beincrypto:8be57a697d9e8:0",
@@ -1121,6 +1126,31 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "abd baskan donald trump rusya gorusmeleri surdurmeyi amaclayan dizel anlasmas n n oldugunu soyluyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:d71407ff6d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "rba dan kent notr faiz oranlar n n yurt icinde kuresel olarak artt g na dair makul gosterge",
+      "link": "https://tr.tradingview.com/news/fxstreet:3146782a0d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "euro fransa daki siyasi calkant mali riskler nedeniyle 1 1200 civar nda baz sat c lar cekiyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:edfe278ccd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "spacex yorunge yar s nda 80 lik hakimiyet",
+      "link": "https://tr.tradingview.com/news/beincrypto:2477423d2d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "xpo cfo su kyle wismans 131 602 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/xpo-cfosu-kyle-wismans-131602-dolar-degerinde-hisse-satt-93CH-4107748"
+    },
     {
       "source": "tradingview",
       "text": "iran abd sald r lara yeniden baslarsa yeni operasyonel plan oldugunu soyluyor",
