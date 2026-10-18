@@ -567,9 +567,9 @@
       "seen_keys": [
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/cinin-rezervindeki-abd-devlet-tahvilleri-18-yilin-en-dusuk-seviyesine-geriledi/4092205",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/takasbanktan-tpp-ve-tefas-islemlerine-iliskin-aciklama/4092190",
-        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/butceden-tarimsal-desteklere-gelecek-yil-icin-235-milyar-lira-ayrildi/4091734",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-jeotermal-deneyimi-cop31de-uluslararasi-gundeme-tasinacak/4091904",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/eylulde-elektrikli-araclara-3-milyonun-uzerinde-sarj-islemi-yapildi/4091726",
+        "aaekonomi:https://www.aa.com.tr/tr/ekonomi/butceden-tarimsal-desteklere-gelecek-yil-icin-235-milyar-lira-ayrildi/4091734",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/ipard-iii-programi-11-basvuru-sonuclari-aciklandi/4091687",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-gabardan-yakinda-yeni-petrol-mujdesi-verebileceklerini-soyledi/4091897",
         "aaekonomi:https://www.aa.com.tr/tr/ekonomi/turkiyenin-ilk-yuzer-uretim-platformu-osman-gazi-gorev-yerine-ugurlandi/4091790",
@@ -640,8 +640,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/iran-savas-hurmuz-yaknlarnda-tankerlere-saldr-4107654",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/standex-yoneticisi-thomas-chorman-13569-dolar-degerinde-hisse-satt-93CH-4107656",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/standex-yoneticisi-thomas-chorman-13569-dolar-degerinde-hisse-satt-93CH-4107656",
         "investing:https://tr.investing.com/news/economy-news/iran-savas-hurmuz-yaknlarnda-tankerlere-saldr-4107654",
         "investing:https://tr.investing.com/news/technology-news/yapay-zeka-ilac-sektorunde-klinik-oncesi-arastrmalar-nasl-degistiriyor-4107652",
         "investing:https://tr.investing.com/news/stock-market-news/asya-yapay-zeka-hisseleri-dustu-finansman-maliyetleri-harcama-patlamasn-tehdit-ediyor-4107649",
@@ -651,7 +652,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/clover-health-ceosu-13-milyon-dolarlk-hisse-satt-93CH-4107642",
         "investing:https://tr.investing.com/news/economy-news/abd-israili-bat-seriada-yerlesimci-siddetini-dizginlemeye-cagrd-4107640",
         "investing:https://tr.investing.com/news/insider-trading-news/maze-therapeutics-ceosu-jason-coloma-932259-dolar-degerinde-hisse-satt-93CH-4107639",
-        "investing:https://tr.investing.com/news/insider-trading-news/pagerduty-yonetim-kurulu-baskan-16-milyon-dolarlk-hisse-satt-93CH-4107638",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -672,6 +672,7 @@
         "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
         "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
+        "investing:https://tr.investing.com/news/insider-trading-news/pagerduty-yonetim-kurulu-baskan-16-milyon-dolarlk-hisse-satt-93CH-4107638",
         "investing:https://tr.investing.com/news/insider-trading-news/first-guaranty-bancshares-yoneticisi-smith-822013-dolar-degerinde-hisse-ald-93CH-4107637",
         "investing:https://tr.investing.com/news/insider-trading-news/limoneirann-cfosu-hamm-11905-dolar-degerinde-hisse-satt-93CH-4107634",
         "investing:https://tr.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-83-milyon-dolarlk-hisse-satt-93CH-4107633",
@@ -1265,6 +1266,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "standex yoneticisi thomas chorman 13 569 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/standex-yoneticisi-thomas-chorman-13569-dolar-degerinde-hisse-satt-93CH-4107656"
+    },
     {
       "source": "tradingview",
       "text": "ethereum kurucusu vitalik buterin den paranoid mod yapay zeka s rlar n z guvende",
