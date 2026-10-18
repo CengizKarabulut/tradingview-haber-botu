@@ -675,8 +675,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-207112-dolarlk-hisse-satt-93CH-4107743",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-207112-dolarlk-hisse-satt-93CH-4107743",
+        "investing:https://tr.investing.com/news/insider-trading-news/park-ohio-sekreteri-ve-hukuk-muduru-vilsack-148000-dolar-degerinde-hisse-satt-93CH-4107742",
+        "investing:https://tr.investing.com/news/stock-market-news/anthropic-hisselerinin-5ini-yeni-kamu-yarar-fonuna-aktaryor-4107740",
+        "investing:https://tr.investing.com/news/stock-market-news/avrupa-kazanclar-onizlemesi-3c-sonuclar-yuksek-beklentileri-karslayabilir-mi-4107738",
+        "investing:https://tr.investing.com/news/economy-news/ara-secimler-ubs-demokratlarn-tam-hakimiyetine-50-olaslk-veriyor-4107735",
+        "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-icici-bank-icin-hisse-hedefini-yukseltti-93CH-4107733",
+        "investing:https://tr.investing.com/news/company-news/spyre-ibd-antikor-tedavileriyle-ilgili-klinik-veri-sundu-93CH-4107694",
+        "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-robert-abel-495-dolar-degerinde-hisse-ald-93CH-4107693",
+        "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-mowery-1982-dolar-degerinde-hisse-ald-93CH-4107692",
+        "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-joel-l-frank-2478-dolarlk-hisse-ald-93CH-4107691",
         "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
@@ -1097,6 +1107,56 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "park ohio holdings clo vilsack 207 112 dolarl k hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-207112-dolarlk-hisse-satt-93CH-4107743"
+    },
+    {
+      "source": "investing",
+      "text": "park ohio sekreteri hukuk muduru vilsack 148 000 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/park-ohio-sekreteri-ve-hukuk-muduru-vilsack-148000-dolar-degerinde-hisse-satt-93CH-4107742"
+    },
+    {
+      "source": "investing",
+      "text": "anthropic hisselerinin 5 ini yeni kamu yarar fonuna bag sl yor",
+      "link": "https://tr.investing.com/news/stock-market-news/anthropic-hisselerinin-5ini-yeni-kamu-yarar-fonuna-aktaryor-4107740"
+    },
+    {
+      "source": "investing",
+      "text": "avrupa kazanclar onizlemesi 3c sonuclar yuksek beklentileri kars layabilir",
+      "link": "https://tr.investing.com/news/stock-market-news/avrupa-kazanclar-onizlemesi-3c-sonuclar-yuksek-beklentileri-karslayabilir-mi-4107738"
+    },
+    {
+      "source": "investing",
+      "text": "ara secimler ubs demokratlar n tam hakimiyetine 50 olas l k veriyor",
+      "link": "https://tr.investing.com/news/economy-news/ara-secimler-ubs-demokratlarn-tam-hakimiyetine-50-olaslk-veriyor-4107735"
+    },
+    {
+      "source": "investing",
+      "text": "jpmorgan icici bank hisse hedefini yukseltti",
+      "link": "https://tr.investing.com/news/analyst-ratings/jpmorgan-icici-bank-icin-hisse-hedefini-yukseltti-93CH-4107733"
+    },
+    {
+      "source": "investing",
+      "text": "spyre ibd antikor tedavileriyle ilgili klinik veri sundu",
+      "link": "https://tr.investing.com/news/company-news/spyre-ibd-antikor-tedavileriyle-ilgili-klinik-veri-sundu-93CH-4107694"
+    },
+    {
+      "source": "investing",
+      "text": "mid penn bancorp yoneticisi robert abel 495 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-robert-abel-495-dolar-degerinde-hisse-ald-93CH-4107693"
+    },
+    {
+      "source": "investing",
+      "text": "mid penn bancorp yoneticisi mowery 1 982 dolar degerinde hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-mowery-1982-dolar-degerinde-hisse-ald-93CH-4107692"
+    },
+    {
+      "source": "investing",
+      "text": "mid penn bancorp yoneticisi joel l frank 2 478 dolarl k hisse ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-joel-l-frank-2478-dolarlk-hisse-ald-93CH-4107691"
+    },
     {
       "source": "tradingview",
       "text": "anthropic tan halka arz oncesi 48 milyar dolar l k hisse yat r mc lar anlama geliyor",
