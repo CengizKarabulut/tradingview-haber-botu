@@ -328,8 +328,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/tasfiye-surecindeki-fon-sayisi-131-den-65e-dustu-3791749",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-19102026-3791750",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/resmi-gazete-de-bugun-19102026-3791750",
         "bloomberght:https://www.bloomberght.com/tasfiye-surecindeki-fon-sayisi-131-den-65e-dustu-3791749",
         "bloomberght:https://www.bloomberght.com/trump-tan-fransa-daki-protestolara-gocmen-yorumu-3791748",
         "bloomberght:https://www.bloomberght.com/bakan-bayraktar-dan-dogalgazda-zam-ve-elektrikte-limit-acilamasi-3791747",
@@ -486,6 +487,7 @@
         "cnbce:https://www.cnbce.com/sirket-haberleri/thyden-295-ucaklik-motor-hamlesi-bakim-merkezi-kuracak-h39629",
         "cnbce:https://www.cnbce.com/borsa/sabanci-holdingden-dev-hisse-geri-alim-karari-h39612",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-2-hisse-uzerindeki-yasaklar-bugun-kalkiyor-h39584",
+        "cnbce:https://www.cnbce.com/enerji/epdkdan-elektrik-piyasasinda-kapsamli-degisiklik-iste-yeni-kurallar-h39717",
         "cnbce:https://www.cnbce.com/dunya/fransada-siddet-olaylarinin-ardindan-macrondan-yeni-onlem-sinyali-h39712",
         "cnbce:https://www.cnbce.com/haberler/trumpa-halk-destegi-geriledi-mi-abdde-dikkat-ceken-ara-secim-anketi-h39711",
         "cnbce:https://www.cnbce.com/turizm/yunanistanda-denizin-ortasinda-bir-ada-satisa-cikti-fiyati-belli-oldu-h39709",
@@ -675,8 +677,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-207112-dolarlk-hisse-satt-93CH-4107743",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/disc-medicine-bitopertin-icin-faz-3-deneme-sonuclarn-sunacak-93CH-4107745",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/company-news/disc-medicine-bitopertin-icin-faz-3-deneme-sonuclarn-sunacak-93CH-4107745",
+        "investing:https://tr.investing.com/news/insider-trading-news/mink-brook-dlh-hisselerinde-736666-dolarlk-yeniden-dengeleme-yapt-93CH-4107744",
         "investing:https://tr.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-207112-dolarlk-hisse-satt-93CH-4107743",
         "investing:https://tr.investing.com/news/insider-trading-news/park-ohio-sekreteri-ve-hukuk-muduru-vilsack-148000-dolar-degerinde-hisse-satt-93CH-4107742",
         "investing:https://tr.investing.com/news/stock-market-news/anthropic-hisselerinin-5ini-yeni-kamu-yarar-fonuna-aktaryor-4107740",
@@ -685,8 +689,6 @@
         "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-icici-bank-icin-hisse-hedefini-yukseltti-93CH-4107733",
         "investing:https://tr.investing.com/news/company-news/spyre-ibd-antikor-tedavileriyle-ilgili-klinik-veri-sundu-93CH-4107694",
         "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-robert-abel-495-dolar-degerinde-hisse-ald-93CH-4107693",
-        "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-mowery-1982-dolar-degerinde-hisse-ald-93CH-4107692",
-        "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-joel-l-frank-2478-dolarlk-hisse-ald-93CH-4107691",
         "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
@@ -706,7 +708,9 @@
         "investing:https://tr.investing.com/analysis/bistten-buyuk-kacs-herkes-buraya-gidiyor-200506535",
         "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
         "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
-        "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446"
+        "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
+        "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-mowery-1982-dolar-degerinde-hisse-ald-93CH-4107692",
+        "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-joel-l-frank-2478-dolarlk-hisse-ald-93CH-4107691"
       ]
     },
     "ntvpara": {
@@ -1107,6 +1111,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "disc medicine bitopertin faz 3 deneme sonuclar n sunacak",
+      "link": "https://tr.investing.com/news/company-news/disc-medicine-bitopertin-icin-faz-3-deneme-sonuclarn-sunacak-93CH-4107745"
+    },
+    {
+      "source": "investing",
+      "text": "mink brook dlh hisselerinde 736 666 dolarl k yeniden dengeleme yapt",
+      "link": "https://tr.investing.com/news/insider-trading-news/mink-brook-dlh-hisselerinde-736666-dolarlk-yeniden-dengeleme-yapt-93CH-4107744"
+    },
+    {
+      "source": "bloomberght",
+      "text": "resmi gazete bugun 19 10 2026 resmi gazete yay mlanan yonetmelikler tebligler kararlar",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-19102026-3791750"
+    },
     {
       "source": "investing",
       "text": "park ohio holdings clo vilsack 207 112 dolarl k hisse satt",
