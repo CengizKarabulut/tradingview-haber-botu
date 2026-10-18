@@ -475,15 +475,18 @@
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-2-hisse-uzerindeki-yasaklar-bugun-kalkiyor-h39584",
         "cnbce:https://www.cnbce.com/piyasalar/mscidan-turkiye-karari-hisse-endekslerinde-degisiklikler-donduruldu-h39574",
         "cnbce:https://www.cnbce.com/sirket-haberleri/yapi-kredi-ve-azimut-arasindaki-anlasmaya-rekabet-kurulundan-muafiyet-h39572",
+        "cnbce:https://www.cnbce.com/haberler/devletin-2027-pay-geliri-hedefi-belli-oldu-779-milyar-liralik-gelir-kalemi-h39696",
+        "cnbce:https://www.cnbce.com/haberler/1-trilyon-lirayi-asacak-butceden-ulastirmaya-dikkat-ceken-kaynak-h39695",
+        "cnbce:https://www.cnbce.com/haberler/mecliste-ajanda-yogun-gundem-fon-duzenlemesi-ve-butce-maratonu-h39694",
         "cnbce:https://www.cnbce.com/haberler/airbus-yetkilileri-istanbulun-kuresel-hava-ulasimindaki-onemi-artacak-h39692",
         "cnbce:https://www.cnbce.com/haberler/bakanlik-dugmeye-basti-meta-tiktok-ve-isletmelere-milyonlarca-lira-ceza-h39689",
         "cnbce:https://www.cnbce.com/haberler/takasbanktan-aciklama-sosyal-medyadaki-iddialar-yalanlandi-h39688",
         "cnbce:https://www.cnbce.com/haberler/rusya-duyurdu-ukrayna-en-buyuk-petrol-tesislerinden-birini-daha-hedef-aldi-h39685",
         "cnbce:https://www.cnbce.com/haberler/selden-etkilenenleri-ilgilendiriyor-nakit-devlet-destegi-aciklamasi-h39684",
+        "cnbce:https://www.cnbce.com/haberler/erdogan-fon-surecinde-3-onceligi-acikladi-3-lirasini-30a-katlayana-bedelini-odetecegiz-h39627",
         "cnbce:https://www.cnbce.com/haberler/rusya-yaptirimlarinda-kritik-degisiklik-trump-en-agir-maddeleri-durdurdu-h39678",
         "cnbce:https://www.cnbce.com/haberler/yargitaydan-bosanacak-ciftleri-ilgilendiren-karar-altinlar-icin-kesinlesme-sarti-yok-h39677",
         "cnbce:https://www.cnbce.com/haberler/ibb-duyurdu-bu-bolgede-tramvay-hattinda-seferler-durduruluyor-h39676",
-        "cnbce:https://www.cnbce.com/haberler/erdogan-fon-surecinde-3-onceligi-acikladi-3-lirasini-30a-katlayana-bedelini-odetecegiz-h39627",
         "cnbce:https://www.cnbce.com/haberler/cumhurbaskani-erdogan-duyurdu-38-bin-saglik-personeli-alinacak-h39675",
         "cnbce:https://www.cnbce.com/haberler/mersinde-25-saatlik-yol-18-dakikaya-dusuyor-otoyolun-acilis-tarihi-belli-oldu-h39669",
         "cnbce:https://www.cnbce.com/haberler/moodys-misirin-kredi-notunu-yukseltti-gorunum-pozitife-dondu-h39666",
@@ -904,8 +907,9 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/sosyal-medyada-mevzuata-aykiri-ilan-veren-152-isletmeye-152-milyon-lira-ceza-1746811",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/ankara-kayseri-hizli-tren-projesi-bakan-uraloglu-hattimizda-fiziki-ilerleme-yuzde-50yi-asti-1746833",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/ankara-kayseri-hizli-tren-projesi-bakan-uraloglu-hattimizda-fiziki-ilerleme-yuzde-50yi-asti-1746833",
         "ntvpara:https://www.ntv.com.tr/ntvpara/sosyal-medyada-mevzuata-aykiri-ilan-veren-152-isletmeye-152-milyon-lira-ceza-1746811",
         "ntvpara:https://www.ntv.com.tr/ntvpara/okullarin-2027-yili-pansiyon-ucretleri-belirlendi-1746696",
         "ntvpara:https://www.ntv.com.tr/ntvpara/tabelalar-degisecek-benzine-indirim-geliyor-1746668",
@@ -1290,6 +1294,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "ntvpara",
+      "text": "ankara kayseri h zl tren projesi bakan uraloglu hatt m zda fiziki ilerleme yuzde 50 yi ast ulast rma altyap bakan abdulkadir uraloglu ankara kayseri aras nda demir yoluyla seyahat suresini 1 saat 45 dakikaya dusurecegiz dedi",
+      "link": "https://www.ntv.com.tr/ntvpara/ankara-kayseri-hizli-tren-projesi-bakan-uraloglu-hattimizda-fiziki-ilerleme-yuzde-50yi-asti-1746833"
+    },
     {
       "source": "tradingview",
       "text": "bangkok ta 75 milyon dolarl k uluslararas suc sebekesine bagl cinli supheli gozalt na al nd",
