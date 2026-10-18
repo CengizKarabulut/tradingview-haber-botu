@@ -486,6 +486,7 @@
         "cnbce:https://www.cnbce.com/sirket-haberleri/thyden-295-ucaklik-motor-hamlesi-bakim-merkezi-kuracak-h39629",
         "cnbce:https://www.cnbce.com/borsa/sabanci-holdingden-dev-hisse-geri-alim-karari-h39612",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-2-hisse-uzerindeki-yasaklar-bugun-kalkiyor-h39584",
+        "cnbce:https://www.cnbce.com/dunya/fransada-siddet-olaylarinin-ardindan-macrondan-yeni-onlem-sinyali-h39712",
         "cnbce:https://www.cnbce.com/haberler/trumpa-halk-destegi-geriledi-mi-abdde-dikkat-ceken-ara-secim-anketi-h39711",
         "cnbce:https://www.cnbce.com/turizm/yunanistanda-denizin-ortasinda-bir-ada-satisa-cikti-fiyati-belli-oldu-h39709",
         "cnbce:https://www.cnbce.com/enerji/elektrikte-destek-limiti-dusuyor-mu-bakan-bayraktardan-2027-mesaji-h39705",
@@ -674,8 +675,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/avrupa-kazanclar-onizlemesi-3c-sonuclar-yuksek-beklentileri-karslayabilir-mi-4107738",
+      "last_seen_key": "investing:https://tr.investing.com/news/stock-market-news/anthropic-hisselerinin-5ini-yeni-kamu-yarar-fonuna-aktaryor-4107740",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/stock-market-news/anthropic-hisselerinin-5ini-yeni-kamu-yarar-fonuna-aktaryor-4107740",
         "investing:https://tr.investing.com/news/stock-market-news/avrupa-kazanclar-onizlemesi-3c-sonuclar-yuksek-beklentileri-karslayabilir-mi-4107738",
         "investing:https://tr.investing.com/news/economy-news/ara-secimler-ubs-demokratlarn-tam-hakimiyetine-50-olaslk-veriyor-4107735",
         "investing:https://tr.investing.com/news/analyst-ratings/jpmorgan-icici-bank-icin-hisse-hedefini-yukseltti-93CH-4107733",
@@ -685,7 +687,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-joel-l-frank-2478-dolarlk-hisse-ald-93CH-4107691",
         "investing:https://tr.investing.com/news/insider-trading-news/mid-penn-bancorp-yoneticisi-albert-evans-9982-dolar-degerinde-hisse-ald-93CH-4107689",
         "investing:https://tr.investing.com/news/stock-market-news/yapay-zeka-finansman-endiseleri-arasnda-bu-2-hisseyi-aln-analist-4107688",
-        "investing:https://tr.investing.com/news/insider-trading-news/princeton-bancorp-yoneticisi-martin-tuchman-95160-dolarlk-hisse-satt-93CH-4107686",
         "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
@@ -706,6 +707,7 @@
         "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
         "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
+        "investing:https://tr.investing.com/news/insider-trading-news/princeton-bancorp-yoneticisi-martin-tuchman-95160-dolarlk-hisse-satt-93CH-4107686",
         "investing:https://tr.investing.com/news/investment-ideas/logo-yazlm-investingpronun-cagrs-sonras-45-kazandrd-93CH-4107685",
         "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-turk-gda-hissesinde-48-dusus-tespit-etti-93CH-4107684",
         "investing:https://tr.investing.com/news/investment-ideas/kelly-services-fair-value-sinyalinden-sonra-67-getiri-saglad-93CH-4107683",
@@ -1348,6 +1350,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "anthropic hisselerinin 5 ini yeni kamu yarar fonuna bag sl yor",
+      "link": "https://tr.investing.com/news/stock-market-news/anthropic-hisselerinin-5ini-yeni-kamu-yarar-fonuna-aktaryor-4107740"
+    },
     {
       "source": "tradingview",
       "text": "wall street te kara pazartesi korkusu trader lar yapay zeka hisselerinde 52 milyon dolar kaybetti",
