@@ -328,8 +328,9 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/iran-da-devlet-bankasi-ulusal-petrol-sirketinin-hesaplarini-dondurdu-3791745",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/ingilterede-enflasyon-faiz-artiriminin-onunu-acabilir-3791746",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/ingilterede-enflasyon-faiz-artiriminin-onunu-acabilir-3791746",
         "bloomberght:https://www.bloomberght.com/iran-da-devlet-bankasi-ulusal-petrol-sirketinin-hesaplarini-dondurdu-3791745",
         "bloomberght:https://www.bloomberght.com/takasbanktan-finansman-iddialarina-yanit-3791742",
         "bloomberght:https://www.bloomberght.com/sigortaya-guveni-zedelemek-ekonomik-dayanikliliga-zarar-verir-3791743",
@@ -1074,8 +1075,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:ce425221ed9e8:0",
+      "last_seen_key": "tradingview:cointelegraph:508550d3ad9e8:0",
       "seen_keys": [
+        "tradingview:cointelegraph:508550d3ad9e8:0",
+        "tradingview:cointelegraph:10544c986d9e8:0",
         "tradingview:beincrypto:ce425221ed9e8:0",
         "tradingview:cointelegraph:691983e0ad9e8:0",
         "tradingview:beincrypto:1ef58a684d9e8:0",
@@ -1090,7 +1093,6 @@
         "tradingview:beincrypto:2adb621a5d9e8:0",
         "tradingview:beincrypto:a3c75c5eed9e8:0",
         "tradingview:beincrypto:eddc9d161d9e8:0",
-        "tradingview:cointelegraph:508550d3ad9e8:0",
         "tradingview:cointelegraph:028ef2714d9e8:0",
         "tradingview:beincrypto:d00d1e3cfd9e8:0",
         "tradingview:beincrypto:3ccec7de6d9e8:0",
@@ -1328,6 +1330,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "reuters cogu amerikal secimlerde bahis oynanmas na kars",
+      "link": "https://tr.tradingview.com/news/cointelegraph:10544c986d9e8:0"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ingiltere enflasyon faiz art r m n n onunu acabilir ingiltere enflasyonun eylul yuzde 3 4 e yukselerek dokuz ay n zirvesine c kmas beklenirken ac klanacak verilerin ingiltere merkez bankas n n boe 5 kas m daki toplant s nda faiz art r m karar almas na zemin haz rlayabilecegi deg",
+      "link": "https://www.bloomberght.com/ingilterede-enflasyon-faiz-artiriminin-onunu-acabilir-3791746"
+    },
     {
       "source": "tradingview",
       "text": "michael saylor wall street neden nakit yerine bitcoin i tercih etmiyor",
