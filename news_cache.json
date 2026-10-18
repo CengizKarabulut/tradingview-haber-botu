@@ -640,18 +640,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/softbank-allied-universal-18-milyar-dolara-alabilir-4107645",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/iran-savas-hurmuz-yaknlarnda-tankerlere-saldr-4107654",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/iran-savas-hurmuz-yaknlarnda-tankerlere-saldr-4107654",
+        "investing:https://tr.investing.com/news/technology-news/yapay-zeka-ilac-sektorunde-klinik-oncesi-arastrmalar-nasl-degistiriyor-4107652",
+        "investing:https://tr.investing.com/news/stock-market-news/asya-yapay-zeka-hisseleri-dustu-finansman-maliyetleri-harcama-patlamasn-tehdit-ediyor-4107649",
+        "investing:https://tr.investing.com/news/economy-news/venezuela-abd-is-birligiyle-76-milyar-dolarlk-yatrm-bekliyor-4107647",
         "investing:https://tr.investing.com/news/company-news/softbank-allied-universal-18-milyar-dolara-alabilir-4107645",
         "investing:https://tr.investing.com/news/insider-trading-news/extreme-networks-ceosu-edward-meyercord-109-milyon-dolarlk-hisse-satt-93CH-4107643",
         "investing:https://tr.investing.com/news/insider-trading-news/clover-health-ceosu-13-milyon-dolarlk-hisse-satt-93CH-4107642",
         "investing:https://tr.investing.com/news/economy-news/abd-israili-bat-seriada-yerlesimci-siddetini-dizginlemeye-cagrd-4107640",
         "investing:https://tr.investing.com/news/insider-trading-news/maze-therapeutics-ceosu-jason-coloma-932259-dolar-degerinde-hisse-satt-93CH-4107639",
         "investing:https://tr.investing.com/news/insider-trading-news/pagerduty-yonetim-kurulu-baskan-16-milyon-dolarlk-hisse-satt-93CH-4107638",
-        "investing:https://tr.investing.com/news/insider-trading-news/first-guaranty-bancshares-yoneticisi-smith-822013-dolar-degerinde-hisse-ald-93CH-4107637",
-        "investing:https://tr.investing.com/news/insider-trading-news/limoneirann-cfosu-hamm-11905-dolar-degerinde-hisse-satt-93CH-4107634",
-        "investing:https://tr.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-83-milyon-dolarlk-hisse-satt-93CH-4107633",
-        "investing:https://tr.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-65893-dolarlk-hisse-satt-93CH-4107632",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
         "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
@@ -672,6 +672,10 @@
         "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
         "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
+        "investing:https://tr.investing.com/news/insider-trading-news/first-guaranty-bancshares-yoneticisi-smith-822013-dolar-degerinde-hisse-ald-93CH-4107637",
+        "investing:https://tr.investing.com/news/insider-trading-news/limoneirann-cfosu-hamm-11905-dolar-degerinde-hisse-satt-93CH-4107634",
+        "investing:https://tr.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-83-milyon-dolarlk-hisse-satt-93CH-4107633",
+        "investing:https://tr.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-65893-dolarlk-hisse-satt-93CH-4107632",
         "investing:https://tr.investing.com/news/insider-trading-news/jetblue-dijital-ve-teknoloji-direktoru-8580-dolarlk-hisse-satt-93CH-4107631",
         "investing:https://tr.investing.com/news/insider-trading-news/powell-industries-baskan-yardmcs-mauney-56488-dolarlk-hisse-satt-93CH-4107629",
         "investing:https://tr.investing.com/news/insider-trading-news/on-semiconductor-yoneticisi-125-milyon-dolarlk-hisse-satt-93CH-4107628",
@@ -1015,8 +1019,10 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:beincrypto:c853ea95ed9e8:0",
+      "last_seen_key": "tradingview:beincrypto:f6482608cd9e8:0",
       "seen_keys": [
+        "tradingview:beincrypto:f6482608cd9e8:0",
+        "tradingview:beincrypto:ca403d278d9e8:0",
         "tradingview:beincrypto:c853ea95ed9e8:0",
         "tradingview:beincrypto:2adb621a5d9e8:0",
         "tradingview:beincrypto:a3c75c5eed9e8:0",
@@ -1259,6 +1265,36 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ethereum kurucusu vitalik buterin den paranoid mod yapay zeka s rlar n z guvende",
+      "link": "https://tr.tradingview.com/news/beincrypto:f6482608cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "anthropic n dusuk notu bitcoin tart sma buyuyor",
+      "link": "https://tr.tradingview.com/news/beincrypto:ca403d278d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "iran savas hurmuz yak nlar nda tankerlere sald r",
+      "link": "https://tr.investing.com/news/economy-news/iran-savas-hurmuz-yaknlarnda-tankerlere-saldr-4107654"
+    },
+    {
+      "source": "investing",
+      "text": "yapay zeka ilac sektorunde klinik oncesi arast rmalar nas l degistiriyor",
+      "link": "https://tr.investing.com/news/technology-news/yapay-zeka-ilac-sektorunde-klinik-oncesi-arastrmalar-nasl-degistiriyor-4107652"
+    },
+    {
+      "source": "investing",
+      "text": "asya yapay zeka hisseleri dustu finansman maliyetleri harcama patlamas n tehdit ediyor",
+      "link": "https://tr.investing.com/news/stock-market-news/asya-yapay-zeka-hisseleri-dustu-finansman-maliyetleri-harcama-patlamasn-tehdit-ediyor-4107649"
+    },
+    {
+      "source": "investing",
+      "text": "venezuela abd is birligiyle 76 milyar dolarl k yat r m bekliyor",
+      "link": "https://tr.investing.com/news/economy-news/venezuela-abd-is-birligiyle-76-milyar-dolarlk-yatrm-bekliyor-4107647"
+    },
     {
       "source": "investing",
       "text": "softbank allied universal 18 milyar dolara sat n almak gorusmelere baslad",
