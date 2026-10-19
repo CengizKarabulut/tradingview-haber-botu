@@ -2,8 +2,13 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1683589",
+      "last_seen_key": "kap:1683613",
       "seen_keys": [
+        "kap:1683613",
+        "kap:1683610",
+        "kap:1683609",
+        "kap:1683607",
+        "kap:1683604",
         "kap:1683589",
         "kap:1683588",
         "kap:1683587",
@@ -62,7 +67,6 @@
         "kap:1683493",
         "kap:1683492",
         "kap:1683491",
-        "kap:1683490",
         "kap:1683489",
         "kap:1683486",
         "kap:1683485",
@@ -87,6 +91,7 @@
         "kap:1683462",
         "kap:1683461",
         "kap:1683460",
+        "kap:1683490",
         "kap:1683459",
         "kap:1683458",
         "kap:1683457",
@@ -184,19 +189,25 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6832312:0",
+      "last_seen_key": "matriks:matriks:6832380:0",
       "seen_keys": [
+        "matriks:matriks:6832380:0",
+        "matriks:matriks:6832332:0",
         "matriks:matriks:6832312:0",
         "matriks:matriks:6832283:0",
         "matriks:matriks:6832256:0",
         "matriks:matriks:6832246:0",
         "matriks:matriks:6832240:0",
         "matriks:matriks:6832235:0",
+        "matriks:matriks:6832209:0",
+        "matriks:matriks:6832161:0",
         "matriks:matriks:6832149:0",
         "matriks:matriks:6832148:0",
         "matriks:matriks:6832147:0",
         "matriks:matriks:6832142:0",
         "matriks:matriks:6832140:0",
+        "matriks:matriks:6832086:0",
+        "matriks:matriks:6832074:0",
         "matriks:matriks:6832004:0",
         "matriks:matriks:6832001:0",
         "matriks:matriks:6831999:0",
@@ -245,8 +256,12 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ad5f35e86baa614dfece336/PICNEWS/tr/bundesbank-almanya-da-fiyat-artislarinda-yukari-yonlu-riskler-agir-basiyor-19-10-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ad5f74386baa614dfece362/PICNEWS/tr/fransa-da-olaganustu-hal-secenegi-masada-kismi-sokaga-cikma-yasaklari-uygulanacak-19-10-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6ad5f74386baa614dfece362/PICNEWS/tr/fransa-da-olaganustu-hal-secenegi-masada-kismi-sokaga-cikma-yasaklari-uygulanacak-19-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad5f63658b1b941c208c90a/PICNEWS/tr/abd-ile-iran-arasinda-kritik-anlasma-beklentisi-bu-hafta-aciklanabilir-19-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad5f4d958b1b941c208c904/PICNEWS/tr/forinvest-haber-borsa-kapanis-tahmini-anketi-sonuclandi-19-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad5f3a486baa614dfece338/PICNEWS/tr/cme-group-tungsten-icin-vadeli-islemler-baslatiyor-19-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ad5f35e86baa614dfece336/PICNEWS/tr/bundesbank-almanya-da-fiyat-artislarinda-yukari-yonlu-riskler-agir-basiyor-19-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ad5f25686baa614dfece323/PICNEWS/tr/citi-den-fransa-uyarisi-hisselerdeki-dalgalanma-yaza-kadar-surebilir-19-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6ad5f204422c786f3f7a5476/PICNEWS/tr/morgan-stanley-abd-de-hisse-senetlerinde-risk-alma-zamani-yaklasiyor-19-10-26/",
@@ -444,15 +459,16 @@
         "cnbce:https://www.cnbce.com/borsa/bulls-portfoyden-53-milyar-liralik-tasfiye-aciklamasi-h39710",
         "cnbce:https://www.cnbce.com/borsa/spk-duyurdu-hedef-portfoy-fonlari-olagan-tasfiye-surecine-dahil-edildi-h39653",
         "cnbce:https://www.cnbce.com/borsa/spkdan-borsada-iki-sirkete-yonelik-suc-duyurusu-karari-2-yil-islem-yasagi-h39652",
+        "cnbce:https://www.cnbce.com/dunya/washington-tahran-hattinda-uzlasma-beklentisi-gozler-bu-haftada-h39774",
         "cnbce:https://www.cnbce.com/haberler/ekk-toplantisi-sona-erdi-kritik-toplanti-yaklasik-4-saat-surdu-h39735",
         "cnbce:https://www.cnbce.com/piyasalar/cin-merkez-bankasindan-yuan-hamlesi-kuresel-piyasalarda-yeni-donem-h39771",
         "cnbce:https://www.cnbce.com/haberler/jpmorgandan-savunma-atagi-kritik-sektorlere-milyarlarca-dolar-yatirildi-h39770",
         "cnbce:https://www.cnbce.com/haberler/kuresel-gida-enflasyonunda-alarm-150-ulkenin-3te-1ine-yakini-baski-altinda-h39769",
         "cnbce:https://www.cnbce.com/haberler/istanbulda-sel-felaketinin-ardindan-odemeler-basliyor-2-bin-500-kisiye-10-bin-tl-h39767",
         "cnbce:https://www.cnbce.com/haberler/kalkinma-yolu-projesi-ile-70-bin-kisiye-istihdam-hedefi-h39766",
+        "cnbce:https://www.cnbce.com/piyasalar/cin-abd-tahvillerini-elden-cikariyor-18-yilin-dibinde-h39683",
         "cnbce:https://www.cnbce.com/haberler/alman-sanayisinde-buyuk-kayip-7-yilda-500-bin-kisilik-istihdam-kaybi-h39764",
         "cnbce:https://www.cnbce.com/haberler/hedef-portfoyden-olagan-tasfiye-aciklamasi-hangi-fonlarda-odemeler-basliyor-h39760",
-        "cnbce:https://www.cnbce.com/piyasalar/cin-abd-tahvillerini-elden-cikariyor-18-yilin-dibinde-h39683",
         "cnbce:https://www.cnbce.com/haberler/rekabet-kurumundan-10-yemek-sirketine-ihale-sorusturmasi-h39757",
         "cnbce:https://www.cnbce.com/haberler/elon-musktan-tarihi-vaat-72-milyon-cocuga-spacex-hissesi-h39756",
         "cnbce:https://www.cnbce.com/dunya/rubio-acikladi-abd-ile-hindistan-arasinda-kritik-anlasma-kapida-h39755",
@@ -674,8 +690,9 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/analyst-ratings/keybanc-global-payments-hissesi-icin-hedef-fiyat-belirledi-93CH-4108345",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/ubs-eurusd-paritesinin-116-dolara-yukselecegini-ongoruyor-4108349",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/ubs-eurusd-paritesinin-116-dolara-yukselecegini-ongoruyor-4108349",
         "investing:https://tr.investing.com/news/analyst-ratings/keybanc-global-payments-hissesi-icin-hedef-fiyat-belirledi-93CH-4108345",
         "investing:https://tr.investing.com/news/stock-market-news/albert-heijnda-siber-saldr-sonras-teslimatlar-persembeye-ertelendi-93CH-4108342",
         "investing:https://tr.investing.com/news/company-news/sunshine-silver-2028-yeniden-baslatma-oncesi-maden-gelisimini-ilerletiyor-93CH-4108340",
@@ -685,6 +702,26 @@
         "investing:https://tr.investing.com/news/stock-market-news/uber-londradaki-453-milyon-dolarlk-taksi-davasn-reddettirdi-93CH-4108321",
         "investing:https://tr.investing.com/news/company-news/kcl-investmentsn-serval-resourcestaki-pay-212ye-dustu-93CH-4108320",
         "investing:https://tr.investing.com/news/stock-market-news/83-72-kazanc-kilitlendi-yapay-zeka-secimi-hisseler-nasl-kazandrd-4108326",
+        "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
+        "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
+        "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
+        "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
+        "investing:https://tr.investing.com/analysis/dxyde-100-snav-dolar-fed-sahinligi-ve-jeopolitik-risklerle-yeniden-guc-topluyor-200504494",
+        "investing:https://tr.investing.com/analysis/dolartlde-kontrollu-yukselis-suruyor-enflasyon-raporu-kur-icin-ne-soyluyor-200504447",
+        "investing:https://tr.investing.com/analysis/kuresel-piyasalarda-dolar-ckmaz-jeopolitik-riskler-ve-fedde-bayrak-degisimi-200504388",
+        "investing:https://tr.investing.com/analysis/dolartl-45-bandnda-gozler-enerji-ve-enflasyon-basksnda-200504339",
+        "investing:https://tr.investing.com/analysis/dolartlde-45-esigi-asld-tl-uzerinde-enerji-ve-fed-basks-artyor-200504241",
+        "investing:https://tr.investing.com/analysis/dolarn-yeni-snav-enerji-soku-ve-fed-haftas-200504173",
+        "investing:https://tr.investing.com/analysis/investingpro-ile-risk-analizi-ve-hisse-secimi-200506643",
+        "investing:https://tr.investing.com/analysis/mscinin-turkiye-karar-ne-anlama-geliyor-200506639",
+        "investing:https://tr.investing.com/analysis/warren-buffett-gibi-nasl-yatrm-yaplr-200506598",
+        "investing:https://tr.investing.com/analysis/yapay-zeka-ekim-icin-hisselerini-secti-liste-beklentilerin-dsnda-200506560",
+        "investing:https://tr.investing.com/analysis/ekim-aynn-potansiyelli-hisseleri-gec-kalmadan-izleyin-200506555",
+        "investing:https://tr.investing.com/analysis/fon-krizinde-hisse-yatrmclar-nasl-tuzaga-dustu-200506552",
+        "investing:https://tr.investing.com/analysis/borsa-istanbulda-ucuz-hisse-gercekten-ucuz-mu-200506548",
+        "investing:https://tr.investing.com/analysis/bistten-buyuk-kacs-herkes-buraya-gidiyor-200506535",
+        "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
+        "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/news/stock-market-news/endonezya-hisseleri-msci-uyarsyla-alt-yln-dibini-gordu-4107806",
         "investing:https://tr.investing.com/news/company-news/zealand-pharma-zp9830-icin-olumlu-faz-1-sonuclar-bildirdi-93CH-4107803",
         "investing:https://tr.investing.com/news/insider-trading-news/federal-realty-yoneticisi-163341-dolarlk-frt-hissesi-satt-93CH-4107800",
@@ -698,25 +735,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/castellum-coo-andrew-merriman-sirket-hisselerinden-747-dolar-ald-93CH-4107786",
         "investing:https://tr.investing.com/news/insider-trading-news/castellum-ceosu-ives-909-dolar-degerinde-hisse-senedi-ald-93CH-4107785",
         "investing:https://tr.investing.com/news/economy-news/iran-abdyi-hurmuzu-yeniden-acma-teklifini-kabul-etmeye-cagrd-4107784",
-        "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
-        "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
-        "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
-        "investing:https://tr.investing.com/analysis/dolartlde-yukselisin-perde-arkas-degisiyor-200504549",
-        "investing:https://tr.investing.com/analysis/dxyde-100-snav-dolar-fed-sahinligi-ve-jeopolitik-risklerle-yeniden-guc-topluyor-200504494",
-        "investing:https://tr.investing.com/analysis/dolartlde-kontrollu-yukselis-suruyor-enflasyon-raporu-kur-icin-ne-soyluyor-200504447",
-        "investing:https://tr.investing.com/analysis/kuresel-piyasalarda-dolar-ckmaz-jeopolitik-riskler-ve-fedde-bayrak-degisimi-200504388",
-        "investing:https://tr.investing.com/analysis/dolartl-45-bandnda-gozler-enerji-ve-enflasyon-basksnda-200504339",
-        "investing:https://tr.investing.com/analysis/dolartlde-45-esigi-asld-tl-uzerinde-enerji-ve-fed-basks-artyor-200504241",
-        "investing:https://tr.investing.com/analysis/dolarn-yeni-snav-enerji-soku-ve-fed-haftas-200504173",
-        "investing:https://tr.investing.com/analysis/mscinin-turkiye-karar-ne-anlama-geliyor-200506639",
-        "investing:https://tr.investing.com/analysis/warren-buffett-gibi-nasl-yatrm-yaplr-200506598",
-        "investing:https://tr.investing.com/analysis/yapay-zeka-ekim-icin-hisselerini-secti-liste-beklentilerin-dsnda-200506560",
-        "investing:https://tr.investing.com/analysis/ekim-aynn-potansiyelli-hisseleri-gec-kalmadan-izleyin-200506555",
-        "investing:https://tr.investing.com/analysis/fon-krizinde-hisse-yatrmclar-nasl-tuzaga-dustu-200506552",
-        "investing:https://tr.investing.com/analysis/borsa-istanbulda-ucuz-hisse-gercekten-ucuz-mu-200506548",
-        "investing:https://tr.investing.com/analysis/bistten-buyuk-kacs-herkes-buraya-gidiyor-200506535",
-        "investing:https://tr.investing.com/analysis/borsa-istanbulun-kasm-snav-msci-karnesinde-ne-yazacak-200506468",
-        "investing:https://tr.investing.com/analysis/kaybettirmeyen-ozel-filtrem-bu-hisseler-batmaz-200506467",
         "investing:https://tr.investing.com/analysis/bu-strateji-ile-kaybetmen-imkansz-ozel-filtrem-200506446",
         "investing:https://tr.investing.com/news/commodities-news/warshn-acklamalar-fed-faiz-arts-beklentilerini-azaltt-altn-yukseldi-4107764",
         "investing:https://tr.investing.com/news/stock-market-news/fleetpartners-hissesi-neden-yukseliste-93CH-4107762",
@@ -747,8 +765,13 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/petrol-neden-yukseldi-simdi-neden-geriliyor-1746936",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/rekabet-kurulundan-10-yemek-sirketine-sorusturma-1746996",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/rekabet-kurulundan-10-yemek-sirketine-sorusturma-1746996",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-efsane-model-corolla-sekil-degistiriyor-geri-sayim-basladi-1746982",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-altin-fiyatlari-canli-grafik-19-ekim-2026-gram-ve-ceyrek-altin-fiyatlari-bugun-ne-kadar-1746953",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-merkez-bankasi-faiz-karari-ne-zaman-ekonomistlerin-beklentisi-ne-yonde-tcmb-ekim-ayi-faiz-karari-1746950",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/galeri-sarji-cabuk-bitenler-dikkat-paranizi-cope-atmayin-1746942",
         "ntvpara:https://www.ntv.com.tr/ntvpara/petrol-neden-yukseldi-simdi-neden-geriliyor-1746936",
         "ntvpara:https://www.ntv.com.tr/ntvpara/ankara-kayseri-arasi-1-saat-45-dakikaya-dusecek-1746833",
         "ntvpara:https://www.ntv.com.tr/ntvpara/sosyal-medyada-mevzuata-aykiri-ilan-veren-152-isletmeye-152-milyon-lira-ceza-1746811",
@@ -793,8 +816,14 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayrildi-960456.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-ihracatinda-9-ayda-211-milyar-dolarlik-rekor-960515.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/turkiye-ihracatinda-9-ayda-211-milyar-dolarlik-rekor-960515.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/rekabet-kurulu-10-yemek-sirketi-hakkinda-sorusturma-baslatti-960514.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-toparlanma-egiliminde-960505.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/borsa-istanbul-yeni-haftaya-1174568-puandan-basladi-960501.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/ekonomi-koordinasyon-kurulu-toplandi-960499.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/altin-gune-yukselisle-basladi-iste-fiyatlar-960496.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayrildi-960456.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/turkiyenin-ticari-arac-ihracati-5-milyar-dolari-asti-960455.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/gelecek-yilin-butcesine-pay-gelirlerinden-7789-milyar-lira-katki-saglanacak-960452.html",
@@ -886,8 +915,16 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:matriks:6831071:0",
+      "last_seen_key": "tradingview:tag:reuters.com,2026:newsml_L8N4650FQ:0",
       "seen_keys": [
+        "tradingview:tag:reuters.com,2026:newsml_L8N4650FQ:0",
+        "tradingview:matriks:6831943:0",
+        "tradingview:fxstreet:9de01854cd9e8:0",
+        "tradingview:matriks:6831924:0",
+        "tradingview:matriks:6831923:0",
+        "tradingview:matriks:6831919:0",
+        "tradingview:matriks:6831915:0",
+        "tradingview:matriks:6831900:0",
         "tradingview:matriks:6831071:0",
         "tradingview:matriks:6831070:0",
         "tradingview:matriks:6831067:0",
@@ -1007,6 +1044,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "turk leasing faktoring sektorlerinde aktif kalitesi uzerindeki bask art yor fitch",
+      "link": "https://tr.tradingview.com/news/reuters.com,2026:newsml_L8N4650FQ:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "volkswagen n 2030 a kadar maaslar dondurma plan cal san temsilcilerinden tepki gordu",
+      "link": "https://tr.tradingview.com/news/matriks:6831943:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "abd dolar endeksi fiyat analizi 102 00 nin alt nda kalmaya devam ediyor dokuz gunluk ema",
+      "link": "https://tr.tradingview.com/news/fxstreet:9de01854cd9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "gunluk fx teknik analiz raporu is yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6831924:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin merkez bankas baskan cin merkez bankas piyasa talebine yan t vererek yuksek kaliteli politika araclar desteklerini guclendirecek ayr ca yuan n uluslararas lasmas n tesvik edecek",
+      "link": "https://tr.tradingview.com/news/matriks:6831923:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "bakan bolat yys lerimiz gumruklerde ab kars l kl tan ma donemi basl yor",
+      "link": "https://tr.tradingview.com/news/matriks:6831919:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "cin merkez bankas baskan cin yurt d s ndaki finansal kuruluslar n yurt ici doviz piyasas nda yuan islemleri gerceklestirmesini kolaylast racak cctv",
+      "link": "https://tr.tradingview.com/news/matriks:6831915:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "turkiye ihracat nda 9 ayda 211 milyar dolarl k rekor turkiye nin ocak eylul donemi ihracat y ll k bazda yuzde 5 2 artarak 211 milyar dolara ulas rken 26 sektorden 18 i ihracat n art rd en yuksek art s yuzde 42 yas meyve sebze sektorunde kaydedildi",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ihracatinda-9-ayda-211-milyar-dolarlik-rekor-960515.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "rekabet kurulu 10 yemek sirketi hakk nda sorusturma baslatt rekabet kurulu kamu kurum kuruluslar n n toplu yemek hizmeti al mlar na yonelik ihalelerde dan s kl hareket ederek kamu zarar na yol act klar iddias yla 10 sirket hakk nda sorusturma baslatt",
+      "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurulu-10-yemek-sirketi-hakkinda-sorusturma-baslatti-960514.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "kuresel piyasalar toparlanma egiliminde kuresel piyasalar orta dogu yeni uzlas plan uzerinde cal s lmas cin ac klanan makroekonomik verilerden al nan olumlu sinyallerin risk istah n desteklemesiyle haftaya toparlanma egilimiyle baslad",
+      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-toparlanma-egiliminde-960505.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "borsa istanbul yeni haftaya 11 745 68 puandan baslad borsa istanbul bist 100 endeksi haftaya yuzde 0 20 yukselisle 11 745 68 puandan baslad",
+      "link": "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-yeni-haftaya-1174568-puandan-basladi-960501.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "ekonomi koordinasyon kurulu topland ekonomi koordinasyon kurulu ekim ay gundemi bestepe topland toplant ya cumhurbaskan yard mc s cevdet y lmaz baskanl k ediyor",
+      "link": "https://www.trthaber.com/haber/ekonomi/ekonomi-koordinasyon-kurulu-toplandi-960499.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "alt n gune yukselisle baslad iste fiyatlar gram alt n haftan n ilk gunune yukselisle baslamas n n ard ndan 6 bin 655 liradan islem goruyor ceyrek alt n 10 bin 900 liradan cumhuriyet alt n 43 bin 399 liradan sat l yor",
+      "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-yukselisle-basladi-iste-fiyatlar-960496.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "rekabet kurulu ndan 10 yemek sirketine sorusturma rekabet kurulu kamu kurumlar na toplu yemek hizmeti saglayan 10 sirket hakk nda sorusturma baslat lmas na karar verdi",
+      "link": "https://www.ntv.com.tr/ntvpara/rekabet-kurulundan-10-yemek-sirketine-sorusturma-1746996"
+    },
+    {
+      "source": "ntvpara",
+      "text": "efsane model corolla sekil degistiriyor geri say m baslad toyota yeni nesil corolla dugmeye bast elektrikli hibrit benzinli motorlar tek mimaride bulusturan cok yollu platform corolla ya geliyor",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-efsane-model-corolla-sekil-degistiriyor-geri-sayim-basladi-1746982"
+    },
+    {
+      "source": "ntvpara",
+      "text": "alt n fiyatlar canl grafik 19 ekim 2026 gram ceyrek alt n fiyatlar bugun kadar piyasalar n yeni haftaya baslamas yla birlikte alt n fiyatlar ndaki yukar yonlu grafik canl veriler yat r mc lar vatandaslar taraf ndan yak ndan takip ediliyor gram alt n haftan n ilk gunune yukselisle baslamas n n ard ndan 6 bin",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-altin-fiyatlari-canli-grafik-19-ekim-2026-gram-ve-ceyrek-altin-fiyatlari-bugun-ne-kadar-1746953"
+    },
+    {
+      "source": "ntvpara",
+      "text": "merkez bankas faiz karar zaman ekonomistlerin beklentisi yonde tcmb ekim ay faiz karar turkiye cumhuriyet merkez bankas tcmb ekim ay faiz karar geri say m baslad dolar alt n borsa mevduat faizi yat r mc lar taraf ndan yak ndan takip edilen ekim ay faiz karar n n yonde olacag ekonomistlerin beklenti ank",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-merkez-bankasi-faiz-karari-ne-zaman-ekonomistlerin-beklentisi-ne-yonde-tcmb-ekim-ayi-faiz-karari-1746950"
+    },
+    {
+      "source": "ntvpara",
+      "text": "sarj cabuk bitenler dikkat paran z cope atmay n telefon tamircisi ozel servisler yetkili servisler aras ndaki rekabette fiyatlar neredeyse esitlendi yetkili serviste yap lan pil ekran degisimleri 6 ay boyunca garanti alt na al n yor",
+      "link": "https://www.ntv.com.tr/ntvpara/galeri-sarji-cabuk-bitenler-dikkat-paranizi-cope-atmayin-1746942"
+    },
+    {
+      "source": "investing",
+      "text": "ubs eur usd paritesinin 1 16 dolara yukselecegini ongoruyor",
+      "link": "https://tr.investing.com/news/economy-news/ubs-eurusd-paritesinin-116-dolara-yukselecegini-ongoruyor-4108349"
+    },
+    {
+      "source": "forinvest",
+      "text": "fransa olaganustu hal secenegi masada k smi sokaga c kma yasaklar uygulanacak fransa basbakan sebastien lecornu 17 ekim yasanan siddet olaylar n n ard ndan baz bolgelerde k smi sokaga c kma yasaklar uygulanmas n istedi lecornu gerekli gorulmesi halinde olaganustu hal",
+      "link": "https://www.foreks.com/haber/detay/6ad5f74386baa614dfece362/PICNEWS/tr/fransa-da-olaganustu-hal-secenegi-masada-kismi-sokaga-cikma-yasaklari-uygulanacak-19-10-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "abd iran aras nda kritik anlasma beklentisi hafta ac klanabilir abd iran aras nda askeri gerilimin yeniden t rmanmas n onlemek amac yla yurutulen diplomatik girisimlerde onemli gelisme yasanabilecegi bildirildi al araby al jadeed in arabuluculuk cal smal",
+      "link": "https://www.foreks.com/haber/detay/6ad5f63658b1b941c208c90a/PICNEWS/tr/abd-ile-iran-arasinda-kritik-anlasma-beklentisi-bu-hafta-aciklanabilir-19-10-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "forinvest haber borsa kapan s tahmini anketi sonucland forinvest haber taraf ndan analistlerle duzenlenen ankette bist100 endeksi kapan s fark degerine iliskin medyan tahmin 68 34 puan ortalama tahmini ise 74 51 puan oldu ankette en yuksek beklenti 9",
+      "link": "https://www.foreks.com/haber/detay/6ad5f4d958b1b941c208c904/PICNEWS/tr/forinvest-haber-borsa-kapanis-tahmini-anketi-sonuclandi-19-10-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "cme group tungsten vadeli islemler baslat yor dunyan n onde gelen turev urun piyasas isletmecilerinden cme group stratejik minerallere yonelik artan talep dogrultusunda tungsten vadeli islem sozlesmelerini piyasaya sunacag n ac klad duzenley",
+      "link": "https://www.foreks.com/haber/detay/6ad5f3a486baa614dfece338/PICNEWS/tr/cme-group-tungsten-icin-vadeli-islemler-baslatiyor-19-10-26"
+    },
+    {
+      "source": "matriks",
+      "text": "uluslararas piyasalar gunluk bulten gedik yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6832380:0"
+    },
+    {
+      "source": "matriks",
+      "text": "haftal k strateji bulteni vak f yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6832332:0"
+    },
+    {
+      "source": "kap",
+      "text": "crfsa pay baz nda devre kesici bildirimi crfsa e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683613"
+    },
+    {
+      "source": "kap",
+      "text": "sktas pay baz nda devre kesici bildirimi sktas e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683610"
+    },
+    {
+      "source": "kap",
+      "text": "tmks pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren turkiye menkul k ymetlestirme sirketi fibabanka ikinci varl k finansman fonu vdmk itfas sirket birlesik ipotek finansmani a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683609"
+    },
+    {
+      "source": "kap",
+      "text": "hsb hsbcb yetki izin belgelerine iliskin bildirim faaliyet izinleri yetki belgesi sirket hsbc bank a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683607"
+    },
+    {
+      "source": "kap",
+      "text": "brisa finansal takvim finansal takvim sirket brisa bridgestone sabanci lastik sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1683604"
+    },
     {
       "source": "investing",
       "text": "keybanc global payments hissesi hedef fiyat belirledi",
