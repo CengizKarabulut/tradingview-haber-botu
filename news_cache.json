@@ -2,8 +2,10 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1684689",
+      "last_seen_key": "kap:1684691",
       "seen_keys": [
+        "kap:1684691",
+        "kap:1684690",
         "kap:1684689",
         "kap:1684688",
         "kap:1684687",
@@ -534,93 +536,86 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6836594:0",
+      "last_seen_key": "matriks:matriks:6837148:0",
       "seen_keys": [
-        "matriks:matriks:6836594:0",
-        "matriks:matriks:6836588:0",
-        "matriks:matriks:6836586:0",
-        "matriks:matriks:6836581:0",
-        "matriks:matriks:6836574:0",
-        "matriks:matriks:6836569:0",
-        "matriks:matriks:6836568:0",
-        "matriks:matriks:6836565:0",
-        "matriks:matriks:6836562:0",
-        "matriks:matriks:6836558:0",
-        "matriks:matriks:6836556:0",
-        "matriks:matriks:6836555:0",
-        "matriks:matriks:6836554:0",
-        "matriks:matriks:6836549:0",
-        "matriks:matriks:6836546:0",
-        "matriks:matriks:6836544:0",
-        "matriks:matriks:6836543:0",
-        "matriks:matriks:6836539:0",
-        "matriks:matriks:6836538:0",
-        "matriks:matriks:6836536:0",
-        "matriks:matriks:6836531:0",
-        "matriks:matriks:6836525:0",
-        "matriks:matriks:6836523:0",
-        "matriks:matriks:6836521:0",
-        "matriks:matriks:6836515:0",
-        "matriks:matriks:6836511:0",
-        "matriks:matriks:6836508:0",
-        "matriks:matriks:6836505:0",
-        "matriks:matriks:6836503:0",
-        "matriks:matriks:6836488:0",
-        "matriks:matriks:6836471:0",
-        "matriks:matriks:6836468:0",
-        "matriks:matriks:6836461:0",
-        "matriks:matriks:6836416:0",
-        "matriks:matriks:6836401:0",
-        "matriks:matriks:6836385:0",
-        "matriks:matriks:6836380:0",
-        "matriks:matriks:6836371:0",
-        "matriks:matriks:6836363:0",
-        "matriks:matriks:6836360:0",
-        "matriks:matriks:6836359:0",
-        "matriks:matriks:6836358:0",
-        "matriks:matriks:6836357:0",
-        "matriks:matriks:6836356:0",
-        "matriks:matriks:6836352:0",
-        "matriks:matriks:6836287:0",
-        "matriks:matriks:6836277:0",
-        "matriks:matriks:6836255:0",
-        "matriks:matriks:6836248:0",
-        "matriks:matriks:6836247:0",
-        "matriks:matriks:6836246:0",
-        "matriks:matriks:6836241:0",
-        "matriks:matriks:6836206:0",
-        "matriks:matriks:6836161:0",
-        "matriks:matriks:6836132:0",
-        "matriks:matriks:6836098:0",
-        "matriks:matriks:6836092:0",
-        "matriks:matriks:6836091:0",
-        "matriks:matriks:6836088:0",
-        "matriks:matriks:6836087:0",
-        "matriks:matriks:6836070:0",
-        "matriks:matriks:6836068:0",
-        "matriks:matriks:6836067:0",
-        "matriks:matriks:6836061:0",
-        "matriks:matriks:6836056:0",
-        "matriks:matriks:6836030:0",
-        "matriks:matriks:6836029:0",
-        "matriks:matriks:6836002:0"
+        "matriks:matriks:6837148:0",
+        "matriks:matriks:6837147:0",
+        "matriks:matriks:6837144:0",
+        "matriks:matriks:6837141:0",
+        "matriks:matriks:6837133:0",
+        "matriks:matriks:6837130:0",
+        "matriks:matriks:6837126:0",
+        "matriks:matriks:6837106:0",
+        "matriks:matriks:6837103:0",
+        "matriks:matriks:6837099:0",
+        "matriks:matriks:6837098:0",
+        "matriks:matriks:6837096:0",
+        "matriks:matriks:6837090:0",
+        "matriks:matriks:6837088:0",
+        "matriks:matriks:6837086:0",
+        "matriks:matriks:6837084:0",
+        "matriks:matriks:6837083:0",
+        "matriks:matriks:6837080:0",
+        "matriks:matriks:6837078:0",
+        "matriks:matriks:6837070:0",
+        "matriks:matriks:6837061:0",
+        "matriks:matriks:6837062:0",
+        "matriks:matriks:6837060:0",
+        "matriks:matriks:6837057:0",
+        "matriks:matriks:6837059:0",
+        "matriks:matriks:6837058:0",
+        "matriks:matriks:6837045:0",
+        "matriks:matriks:6837049:0",
+        "matriks:matriks:6837043:0",
+        "matriks:matriks:6837042:0",
+        "matriks:matriks:6837050:0",
+        "matriks:matriks:6837046:0",
+        "matriks:matriks:6837051:0",
+        "matriks:matriks:6837052:0",
+        "matriks:matriks:6837054:0",
+        "matriks:matriks:6837053:0",
+        "matriks:matriks:6837055:0",
+        "matriks:matriks:6837048:0",
+        "matriks:matriks:6837047:0",
+        "matriks:matriks:6837044:0",
+        "matriks:matriks:6837035:0",
+        "matriks:matriks:6837041:0",
+        "matriks:matriks:6837031:0",
+        "matriks:matriks:6837039:0",
+        "matriks:matriks:6837034:0",
+        "matriks:matriks:6837033:0",
+        "matriks:matriks:6837038:0",
+        "matriks:matriks:6837030:0",
+        "matriks:matriks:6837029:0",
+        "matriks:matriks:6837032:0",
+        "matriks:matriks:6837028:0",
+        "matriks:matriks:6837026:0",
+        "matriks:matriks:6836933:0"
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ad76f8bb804e1686a486432/PICNEWS/tr/bessent-abd-enerji-sokunun-etkilerinden-cikiyor-faizlerin-dusmesini-bekliyoruz-20-10-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ad8434d58b1b941c208df24/PICNEWS/tr/iklim-bilimciden-kritik-uyari-amazon-ormanlari-ve-okyanus-akintilari-cokusun-esiginde-21-10-26/",
       "seen_keys": [
-        "forinvest:https://www.foreks.com/haber/detay/6ad76f8bb804e1686a486432/PICNEWS/tr/bessent-abd-enerji-sokunun-etkilerinden-cikiyor-faizlerin-dusmesini-bekliyoruz-20-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad765c5b804e1686a486364/PICNEWS/tr/ingiltere-husi-saldirilarina-karsi-suudi-arabistan-a-savas-ucaklari-gonderiyor-20-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad764eb422c786f3f7a6257/PICNEWS/tr/fed-in-gelecek-hafta-faizi-sabit-tutmasi-aralikta-artirmasi-bekleniyor-20-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad76177422c786f3f7a6221/PICNEWS/tr/amazon-abd-de-300-binden-fazla-kisiyi-ise-alacak-ucret-ve-yan-haklari-artiriyor-20-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad760bf58b1b941c208d653/PICNEWS/tr/abd-de-konut-baslangiclari-beklentilerin-altinda-kaldi-20-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad75a1358b1b941c208d61e/PICNEWS/tr/apple-dan-iphone-uretimi-icin-abd-de-yeni-yatirim-20-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad75893b804e1686a4862e1/PICNEWS/tr/ingiltere-den-apple-a-rekabet-hamlesi-20-10-26/"
+        "forinvest:https://www.foreks.com/haber/detay/6ad8434d58b1b941c208df24/PICNEWS/tr/iklim-bilimciden-kritik-uyari-amazon-ormanlari-ve-okyanus-akintilari-cokusun-esiginde-21-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad842cb58b1b941c208df21/PICNEWS/tr/ecb-lane-euronun-kuresel-kullaniminin-artmasi-enflasyonla-mucadeleyi-guclendirebilir-21-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad84269422c786f3f7a6b3b/PICNEWS/tr/avrupa-da-bakir-arzi-sikisiyor-2027-teslimat-primleri-rekor-seviyeye-cikti-21-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad8419e422c786f3f7a6b29/PICNEWS/tr/abd-den-rusya-ya-yeni-baris-teklifi-witkoff-bugun-putin-ile-gorusecek-21-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad8409058b1b941c208defb/PICNEWS/tr/boj-baskan-yardimcisi-himino-dan-faiz-uyarisi-gecikme-enflasyon-riskini-artirabilir-21-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad8401758b1b941c208dee8/PICNEWS/tr/netanyahu-iran-a-yeniden-saldirmak-istiyor-israil-ordusuna-yeni-operasyon-plani-talimati-21-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ad83ed8422c786f3f7a6af6/PICNEWS/tr/ing-den-tcmb-icin-100-baz-puanlik-faiz-indirimi-beklentisi-yil-sonu-tahmini-yuzde-35-21-10-26/"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/libya-devlet-yuksek-konseyi-deniz-yetki-mutabakatinin-onayindan-memnunuz-3792033",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/goldman-sachs-kuresel-petrol-tasimaciligi-maliyetlerini-yediye-katladi-3792041",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/goldman-sachs-kuresel-petrol-tasimaciligi-maliyetlerini-yediye-katladi-3792041",
+        "bloomberght:https://www.bloomberght.com/morgan-stanley-akaryakit-piyasasindaki-sikisiklik-2027-ortasina-kadar-surebilir-3792040",
+        "bloomberght:https://www.bloomberght.com/altin-yukselen-petrol-fiyatlariyla-geriledi-3792039",
+        "bloomberght:https://www.bloomberght.com/petrol-orta-dogudaki-arz-endiseleriyle-yukseldi-3792038",
+        "bloomberght:https://www.bloomberght.com/wsj-anthropic-gelecekte-ek-bilgi-islem-kapasitesi-icin-750-milyar-dolar-harcayabilir-3792037",
+        "bloomberght:https://www.bloomberght.com/elon-musk-spacex-ile-tesla-nin-olasi-birlesme-icin-komiteler-kurdugunu-belirtti-3792036",
+        "bloomberght:https://www.bloomberght.com/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmm-genel-kurulun-3792035",
+        "bloomberght:https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-21-ekim-2026-3792034",
         "bloomberght:https://www.bloomberght.com/libya-devlet-yuksek-konseyi-deniz-yetki-mutabakatinin-onayindan-memnunuz-3792033",
         "bloomberght:https://www.bloomberght.com/spacex-zarardan-kra-gecti-ucuncu-ceyrek-geliri-yuzde-161-artti-3792032",
         "bloomberght:https://www.bloomberght.com/trump-iran-ile-savas-cok-yakinda-sona-erecek-3792031",
@@ -696,18 +691,19 @@
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbulda-14-hissenin-fiili-dolasim-orani-degisiyor-h39857",
         "cnbce:https://www.cnbce.com/halka-arz/flo-magazacilik-halka-arz-icin-spkya-basvurdu-510-milyon-pay-satisa-sunulacak-h39845",
         "cnbce:https://www.cnbce.com/haberler/cevdet-yilmazdan-fon-aciklamasi-olaganustu-tasfiye-icin-kanuni-duzenleme-meclis-gundeminde-h39830",
+        "cnbce:https://www.cnbce.com/haberler/spkdan-yatirimci-alacaklarinin-iadesine-yeni-duzenleme-h39931",
+        "cnbce:https://www.cnbce.com/haberler/garanti-bbva-genel-muduru-mahmut-akten-cnbc-eye-konustu-faiz-indirimi-bekliyoruz-fonlardan-ciddi-cikis-yok-h39927",
         "cnbce:https://www.cnbce.com/dunya/fransada-sari-yelekliler-alarmi-sokaga-cikma-yasagi-12-kente-yayildi-h39924",
         "cnbce:https://www.cnbce.com/haberler/epdkdan-elektrik-piyasasinda-yeni-teminat-duzenlemesi-h39923",
         "cnbce:https://www.cnbce.com/haberler/noter-olmak-isteyenlere-firsat-6-noterlik-icin-basvuru-basladi-h39922",
         "cnbce:https://www.cnbce.com/dunya/trumptan-iran-mesaji-savas-bitecek-petrol-fiyatlari-dusecek-h39917",
         "cnbce:https://www.cnbce.com/haberler/sanayi-uretici-fiyatlari-aciklandi-en-yuksek-artis-enerjide-h39915",
         "cnbce:https://www.cnbce.com/dunya/trumptan-zelenskiyye-yeni-cagri-avrupanin-sabri-tukeniyor-h39914",
-        "cnbce:https://www.cnbce.com/teknoloji/brezilyada-secim-oncesi-meta-kiskaci-24-saatte-belge-sunacak-h39913",
         "cnbce:https://www.cnbce.com/haberler/spk-baskani-mahmut-sutcu-saglik-sorunlari-nedeniyle-istifasini-sundu-h39793",
         "cnbce:https://www.cnbce.com/otomotiv/volkswagenden-radikal-maas-plani-2030a-kadar-zam-yapilmayabilir-h39761",
         "cnbce:https://www.cnbce.com/haberler/hazine-ve-maliye-bakan-yardimcisi-osman-celik-emekliligini-istedi-bakan-simseke-sunuldu-h39794",
-        "cnbce:https://www.cnbce.com/borsa/msci-turkiyeden-ne-istiyor-3-maddede-net-cevap-h39721",
         "cnbce:https://www.cnbce.com/altin/merkez-bankalari-altin-toplamaya-devam-ediyor-goldman-sachstan-kritik-degerlendirme-h39795",
+        "cnbce:https://www.cnbce.com/teknoloji/brezilyada-secim-oncesi-meta-kiskaci-24-saatte-belge-sunacak-h39913",
         "cnbce:https://www.cnbce.com/dunya/trumpin-yuzde-50lik-tarifelerine-dava-kanada-urunleri-icin-mahkemeye-basvurdu-h39911",
         "cnbce:https://www.cnbce.com/dunya/fransada-24-ekim-onlemi-sari-yelekliler-icin-polis-sayisi-artiriliyor-h39908",
         "cnbce:https://www.cnbce.com/dunya/abd-5-cinli-sirkete-yaptirim-uyguladi-pekinden-misilleme-mesaji-geldi-h39907",
@@ -722,6 +718,7 @@
         "cnbce:https://www.cnbce.com/haberler/sp-yetkilisi-cnbc-eye-konustu-turkiyenin-kredi-notuna-iliskin-net-mesaj-h39868",
         "cnbce:https://www.cnbce.com/haberler/dunya-saatlerinde-tarihi-degisiklik-artik-saniye-donemi-sona-eriyor-h39866",
         "cnbce:https://www.cnbce.com/haberler/hsbcden-carpici-hurmuz-ongorusu-turkiye-dahil-bolgede-872-milyar-dolarlik-altyapi-projesi-h39860",
+        "cnbce:https://www.cnbce.com/borsa/msci-turkiyeden-ne-istiyor-3-maddede-net-cevap-h39721",
         "cnbce:https://www.cnbce.com/haberler/tesla-uctu-hisseler-yaya-kaldi-analistten-dususe-cds-yorumu-h39850",
         "cnbce:https://www.cnbce.com/borsa/turkiye-sigortadan-4-milyar-tllik-pay-geri-alim-karari-h39823",
         "cnbce:https://www.cnbce.com/haberler/fitch-acikladi-turkiye-esg-borclanma-araci-ihraclarinda-besinci-oldu-h39848",
@@ -925,18 +922,18 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/mutevelli-robert-young-l-176-milyon-dolarlk-hisse-satt-93CH-4111753",
+      "last_seen_key": "investing:https://tr.investing.com/news/company-news/serabi-gold-izin-gecikmeleri-nedeniyle-2026-uretim-tahminini-dusurdu-93CH-4111789",
       "seen_keys": [
-        "investing:https://tr.investing.com/news/insider-trading-news/mutevelli-robert-young-l-176-milyon-dolarlk-hisse-satt-93CH-4111753",
-        "investing:https://tr.investing.com/news/commodities-news/altn-iran-bars-umutlar-solarken-4110-dolara-yakn-dustu-4111752",
-        "investing:https://tr.investing.com/news/insider-trading-news/brc-inc-kurucusu-evan-hafer-87768-dolar-degerinde-hisse-satt-93CH-4111750",
-        "investing:https://tr.investing.com/news/insider-trading-news/meiragtx-cfo-ve-coosu-richard-giroux-557200-dolar-degerinde-hisse-satt-93CH-4111749",
-        "investing:https://tr.investing.com/news/economy-news/avustralyada-enflasyon-gorunumu-onemli-olcude-kotulesti-4111748",
-        "investing:https://tr.investing.com/news/insider-trading-news/nippon-life-insurance-corebridge-financialda-12-milyon-dolar-ald-93CH-4111745",
-        "investing:https://tr.investing.com/news/insider-trading-news/oruka-therapeutics-hukuk-muduru-706-bin-dolarlk-hisse-satt-93CH-4111744",
-        "investing:https://tr.investing.com/news/company-news/disc-medicine-450-milyon-dolarlk-hisse-arzn-fiyatlad-93CH-4111742",
-        "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-orta-dogu-gerilimleri-ve-abd-stok-dususuyle-yukseldi-4111741",
-        "investing:https://tr.investing.com/news/transcripts/sentinelone-onecon-2026da-yapay-zeka-avlanr-insanlar-karar-verir-93CH-4111739",
+        "investing:https://tr.investing.com/news/company-news/serabi-gold-izin-gecikmeleri-nedeniyle-2026-uretim-tahminini-dusurdu-93CH-4111789",
+        "investing:https://tr.investing.com/news/insider-trading-news/clover-health-ceosu-jamie-reynoso-17931-dolar-degerinde-hisse-satt-93CH-4111788",
+        "investing:https://tr.investing.com/news/stock-market-news/nvidia-halka-arz-iptal-edilen-firmus-gride-yatrm-gorusmelerinde-4111787",
+        "investing:https://tr.investing.com/news/stock-market-news/starbucks-cinde-oturma-icin-alsveris-zorunlulugu-getiriyor-93CH-4111785",
+        "investing:https://tr.investing.com/news/economy-news/rbann-kasm-zamm-ihtimali-enflasyon-uyars-sonras-50yi-ast-4111784",
+        "investing:https://tr.investing.com/news/stock-market-news/align-partners-skdaki-15-hissesini-acklad-4111782",
+        "investing:https://tr.investing.com/news/company-news/allegiance-resources-900000-c-dolara-kadar-ozel-sats-acklad-93CH-4111780",
+        "investing:https://tr.investing.com/news/stock-market-news/sk-hynix-hisseleri-bugun-neden-yukseldi-93CH-4111779",
+        "investing:https://tr.investing.com/news/stock-market-news/asya-hisseleri-spacex-ve-super-micro-sonuclaryla-toparland-4111775",
+        "investing:https://tr.investing.com/news/stock-market-news/woodside-energy-2026-uretim-tahminini-dusurdu-3c-geliri-artt-93CH-4111772",
         "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
@@ -957,6 +954,16 @@
         "investing:https://tr.investing.com/analysis/fon-krizinde-hisse-yatrmclar-nasl-tuzaga-dustu-200506552",
         "investing:https://tr.investing.com/analysis/borsa-istanbulda-ucuz-hisse-gercekten-ucuz-mu-200506548",
         "investing:https://tr.investing.com/analysis/bistten-buyuk-kacs-herkes-buraya-gidiyor-200506535",
+        "investing:https://tr.investing.com/news/insider-trading-news/mutevelli-robert-young-l-176-milyon-dolarlk-hisse-satt-93CH-4111753",
+        "investing:https://tr.investing.com/news/commodities-news/altn-iran-bars-umutlar-solarken-4110-dolara-yakn-dustu-4111752",
+        "investing:https://tr.investing.com/news/insider-trading-news/brc-inc-kurucusu-evan-hafer-87768-dolar-degerinde-hisse-satt-93CH-4111750",
+        "investing:https://tr.investing.com/news/insider-trading-news/meiragtx-cfo-ve-coosu-richard-giroux-557200-dolar-degerinde-hisse-satt-93CH-4111749",
+        "investing:https://tr.investing.com/news/economy-news/avustralyada-enflasyon-gorunumu-onemli-olcude-kotulesti-4111748",
+        "investing:https://tr.investing.com/news/insider-trading-news/nippon-life-insurance-corebridge-financialda-12-milyon-dolar-ald-93CH-4111745",
+        "investing:https://tr.investing.com/news/insider-trading-news/oruka-therapeutics-hukuk-muduru-706-bin-dolarlk-hisse-satt-93CH-4111744",
+        "investing:https://tr.investing.com/news/company-news/disc-medicine-450-milyon-dolarlk-hisse-arzn-fiyatlad-93CH-4111742",
+        "investing:https://tr.investing.com/news/commodities-news/petrol-fiyatlar-orta-dogu-gerilimleri-ve-abd-stok-dususuyle-yukseldi-4111741",
+        "investing:https://tr.investing.com/news/transcripts/sentinelone-onecon-2026da-yapay-zeka-avlanr-insanlar-karar-verir-93CH-4111739",
         "investing:https://tr.investing.com/news/insider-trading-news/el-pollo-loco-yoneticisi-sardar-biglari-421674-dolar-degerinde-loco-hissesi-satt-93CH-4111736",
         "investing:https://tr.investing.com/news/stock-market-news/nextdc-hisseleri-gorunum-dususu-sonras-42-caklarak-9-yllk-dibe-vurdu-4111737",
         "investing:https://tr.investing.com/news/stock-market-news/nextdc-hissesi-bugun-neden-cakld-93CH-4111735",
@@ -1160,8 +1167,11 @@
       ]
     },
     "ntvpara": {
-      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/spk-3-araci-kurumun-faaliyetini-gecici-olarak-durdurdu-1747226",
+      "last_seen_key": "ntvpara:https://www.ntv.com.tr/ntvpara/petrolde-yuzde-10luk-sicrama-1747244",
       "seen_keys": [
+        "ntvpara:https://www.ntv.com.tr/ntvpara/petrolde-yuzde-10luk-sicrama-1747244",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/dolar-endeksinde-3-haftalik-tablo-degisti-1747241",
+        "ntvpara:https://www.ntv.com.tr/ntvpara/istanbulda-3-bin-hasar-basvurusu-sel-zarari-sigorta-maliyeti-45-milyar-tlye-ulasti-1747237",
         "ntvpara:https://www.ntv.com.tr/ntvpara/spk-3-araci-kurumun-faaliyetini-gecici-olarak-durdurdu-1747226",
         "ntvpara:https://www.ntv.com.tr/ntvpara/bir-fon-disari-cikarttigi-parayi-getirecek-10-milyon-ustu-kazananlara-takip-suruyor-1747134",
         "ntvpara:https://www.ntv.com.tr/ntvpara/cevdet-yilmazdan-fon-aciklamasi-1747126",
@@ -1223,8 +1233,11 @@
       ]
     },
     "trthaber": {
-      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/spk-pusula-alnus-ve-bulls-yatirim-sirketlerinin-faaliyetleri-durduruldu-960691.html",
+      "last_seen_key": "trthaber:https://www.trthaber.com/haber/ekonomi/tgs-fortune-500-turkiye-listesinde-ilk-100e-girdi-960703.html",
       "seen_keys": [
+        "trthaber:https://www.trthaber.com/haber/ekonomi/tgs-fortune-500-turkiye-listesinde-ilk-100e-girdi-960703.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/spkdan-3-araci-kuruma-faaliyet-durdurma-karari-960700.html",
+        "trthaber:https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarin-gozu-faiz-kararina-cevrildi-960698.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/spk-pusula-alnus-ve-bulls-yatirim-sirketlerinin-faaliyetleri-durduruldu-960691.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gunu-yukselisle-kapatti-960665.html",
         "trthaber:https://www.trthaber.com/haber/ekonomi/gabarda-ilk-hedef-gunluk-100-bin-varil-petrol-960651.html",
@@ -1342,8 +1355,11 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:756fad642d9e8:0",
+      "last_seen_key": "tradingview:matriks:6836933:0",
       "seen_keys": [
+        "tradingview:matriks:6836933:0",
+        "tradingview:beincrypto:1ed2d8a88d9e8:0",
+        "tradingview:fxstreet:f36e49e46d9e8:0",
         "tradingview:fxstreet:756fad642d9e8:0",
         "tradingview:fxstreet:98cd2a3e0d9e8:0",
         "tradingview:cointelegraph:f68ceca1bd9e8:0",
@@ -1627,13 +1643,164 @@
       ]
     },
     "forexfactory": {
-      "last_seen_key": "forexfactory:upcoming:GBP:2026-10-15T22:00:00-04:00:boe gov bailey speaks",
+      "last_seen_key": "forexfactory:upcoming:GBP:2026-10-21T02:00:00-04:00:cpi y/y",
       "seen_keys": [
+        "forexfactory:upcoming:GBP:2026-10-21T02:00:00-04:00:cpi y/y",
         "forexfactory:upcoming:GBP:2026-10-15T22:00:00-04:00:boe gov bailey speaks"
       ]
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "emisyon hacmi 20 10 2026 itibariyle 1010 08 milyar tl",
+      "link": "https://tr.tradingview.com/news/matriks:6836933:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "elon musk spacex 1 trilyon dolar hedefi tesla birlesme sinyali",
+      "link": "https://tr.tradingview.com/news/beincrypto:1ed2d8a88d9e8:0"
+    },
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini ingiltere tufe enflasyonu ac klamas oncesinde 1 3400 seviyesinin alt na hafifce geriledi",
+      "link": "https://tr.tradingview.com/news/fxstreet:f36e49e46d9e8:0"
+    },
+    {
+      "source": "trthaber",
+      "text": "tgs fortune 500 turkiye listesinde ilk 100 e girdi turk hava yollar thy istiraki turkish ground services tgs 2025 y l net sat s gelirlerine gore haz rlanan fortune 500 turkiye listesinde 96 nc s rada yer ald",
+      "link": "https://www.trthaber.com/haber/ekonomi/tgs-fortune-500-turkiye-listesinde-ilk-100e-girdi-960703.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "spkdan 3 arac kuruma faaliyet durdurma karar sermaye piyasas kurulu ndan spk yat r mc lar yak ndan ilgilendiren kritik karar geldi kurul uc arac kurumun faaliyetlerini gecici olarak durdurdu alnus yat r m bulls yat r m pusula yat r m n islemleri gece yar s itibar yla",
+      "link": "https://www.trthaber.com/haber/ekonomi/spkdan-3-araci-kuruma-faaliyet-durdurma-karari-960700.html"
+    },
+    {
+      "source": "trthaber",
+      "text": "yurt ici piyasalar n gozu faiz karar na cevrildi piyasalar n yat r mc lar n odag nda yer alan turkiye cumhuriyet merkez bankas n n tcmb y l n yedinci faiz karar yar n ac klanacak beklenti anketine kat lan ekonomistler ekim ay nda politika faizinin 1 puan indirilerek yuzde 36 ya cek",
+      "link": "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarin-gozu-faiz-kararina-cevrildi-960698.html"
+    },
+    {
+      "source": "ntvpara",
+      "text": "petrolde yuzde 10 luk s crama iki haftada 18 geminin hedef al nmas arz risklerini katlad ortadogu dan sevkiyatlar savas oncesinin yuzde 80 ine ulassa fiyatlar yukselmeye devam ediyor",
+      "link": "https://www.ntv.com.tr/ntvpara/petrolde-yuzde-10luk-sicrama-1747244"
+    },
+    {
+      "source": "ntvpara",
+      "text": "dolar endeksinde 3 haftal k tablo degisti uc haftan n dip seviyesinden toparlanan dolar endeksi 101 7 band nda dengelendi abd iran hatt ndan gelen ac klamalar petrol fiyatlar piyasada ruzgar yeniden estirdi",
+      "link": "https://www.ntv.com.tr/ntvpara/dolar-endeksinde-3-haftalik-tablo-degisti-1747241"
+    },
+    {
+      "source": "ntvpara",
+      "text": "istanbul 3 bin hasar basvurusu sel zarar sigorta maliyeti 4 5 milyar tl ye ulast gecen hafta yasanan selin sigorta bilancosu belli oldu istanbul konut isyeri otomobiller 3 bin hasar ihbar yap ld 4 bucuk milyar liraya yak n odeme gerceklestirilecek",
+      "link": "https://www.ntv.com.tr/ntvpara/istanbulda-3-bin-hasar-basvurusu-sel-zarari-sigorta-maliyeti-45-milyar-tlye-ulasti-1747237"
+    },
+    {
+      "source": "investing",
+      "text": "serabi gold izin gecikmeleri nedeniyle 2026 uretim tahminini dusurdu",
+      "link": "https://tr.investing.com/news/company-news/serabi-gold-izin-gecikmeleri-nedeniyle-2026-uretim-tahminini-dusurdu-93CH-4111789"
+    },
+    {
+      "source": "investing",
+      "text": "clover health ceo su jamie reynoso 17 931 dolar degerinde hisse satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/clover-health-ceosu-jamie-reynoso-17931-dolar-degerinde-hisse-satt-93CH-4111788"
+    },
+    {
+      "source": "investing",
+      "text": "nvidia halka arz iptal edilen firmus grid e yat r m gorusmelerinde",
+      "link": "https://tr.investing.com/news/stock-market-news/nvidia-halka-arz-iptal-edilen-firmus-gride-yatrm-gorusmelerinde-4111787"
+    },
+    {
+      "source": "investing",
+      "text": "starbucks cin oturma al sveris zorunlulugu getiriyor",
+      "link": "https://tr.investing.com/news/stock-market-news/starbucks-cinde-oturma-icin-alsveris-zorunlulugu-getiriyor-93CH-4111785"
+    },
+    {
+      "source": "investing",
+      "text": "rba n n kas m zamm ihtimali enflasyon uyar s sonras 50 yi ast",
+      "link": "https://tr.investing.com/news/economy-news/rbann-kasm-zamm-ihtimali-enflasyon-uyars-sonras-50yi-ast-4111784"
+    },
+    {
+      "source": "investing",
+      "text": "align partners sk daki 1 5 hissesini ac klad",
+      "link": "https://tr.investing.com/news/stock-market-news/align-partners-skdaki-15-hissesini-acklad-4111782"
+    },
+    {
+      "source": "investing",
+      "text": "allegiance resources 900 000 c dolara kadar ozel sat s ac klad",
+      "link": "https://tr.investing.com/news/company-news/allegiance-resources-900000-c-dolara-kadar-ozel-sats-acklad-93CH-4111780"
+    },
+    {
+      "source": "investing",
+      "text": "sk hynix hisseleri bugun neden yukseldi",
+      "link": "https://tr.investing.com/news/stock-market-news/sk-hynix-hisseleri-bugun-neden-yukseldi-93CH-4111779"
+    },
+    {
+      "source": "investing",
+      "text": "asya hisseleri spacex super micro sonuclar yla toparland",
+      "link": "https://tr.investing.com/news/stock-market-news/asya-hisseleri-spacex-ve-super-micro-sonuclaryla-toparland-4111775"
+    },
+    {
+      "source": "investing",
+      "text": "woodside energy 2026 uretim tahminini dusurdu 3c geliri artt",
+      "link": "https://tr.investing.com/news/stock-market-news/woodside-energy-2026-uretim-tahminini-dusurdu-3c-geliri-artt-93CH-4111772"
+    },
+    {
+      "source": "forexfactory",
+      "text": "gbp cpi y y yaklas k 46 sonra etki yuksek beklenti 3 4 onceki 3 1",
+      "link": "https://www.forexfactory.com/calendar"
+    },
+    {
+      "source": "bloomberght",
+      "text": "goldman sachs kuresel petrol tas mac l g maliyetlerini yediye katlad goldman sachs a gore orta dogu daki savas kuresel petrol tas mac l g maliyetlerini y lda yaklas k yedi kat art rd",
+      "link": "https://www.bloomberght.com/goldman-sachs-kuresel-petrol-tasimaciligi-maliyetlerini-yediye-katladi-3792041"
+    },
+    {
+      "source": "bloomberght",
+      "text": "morgan stanley akaryak t piyasas ndaki s k s kl k 2027 ortas na kadar surebilir morgan stanley mevcut savas kaynakl arz kesintileri hafiflese bile kuresel petrol urunleri piyasas ndaki s k s kl g n 2027 ortas na kadar devam edebilecegini ongordu",
+      "link": "https://www.bloomberght.com/morgan-stanley-akaryakit-piyasasindaki-sikisiklik-2027-ortasina-kadar-surebilir-3792040"
+    },
+    {
+      "source": "bloomberght",
+      "text": "alt n yukselen petrol fiyatlar yla geriledi alt n yukselen petrol fiyatlar n n enflasyon endiselerini art rmas yat r mc lar n gelecek haftaki abd merkez bankas fed toplant s na odaklanmas yla carsamba gunu ust uste dorduncu seansta dusus kaydetti",
+      "link": "https://www.bloomberght.com/altin-yukselen-petrol-fiyatlariyla-geriledi-3792039"
+    },
+    {
+      "source": "bloomberght",
+      "text": "petrol orta dogu daki arz endiseleriyle yukseldi petrol k z ldeniz deki deniz tas mac l g riskleri suudi arabistan n petrol altyap s na yonelik sald r tehditlerinin orta dogu arz kesintisi endiselerini art rmas yla carsamba gunu yukseldi",
+      "link": "https://www.bloomberght.com/petrol-orta-dogudaki-arz-endiseleriyle-yukseldi-3792038"
+    },
+    {
+      "source": "bloomberght",
+      "text": "wsj anthropic gelecekte ek bilgi islem kapasitesi 750 milyar dolar harcayabilir abd merkezli yapay zeka sirketi anthropic in gelecek y llarda ek bilgi islem kapasitesi 750 milyar dolar harcayabilecegi belirtildi",
+      "link": "https://www.bloomberght.com/wsj-anthropic-gelecekte-ek-bilgi-islem-kapasitesi-icin-750-milyar-dolar-harcayabilir-3792037"
+    },
+    {
+      "source": "bloomberght",
+      "text": "elon musk spacex tesla n n olas birlesme komiteler kurdugunu belirtti spacex tesla n n ust yoneticisi ceo elon musk iki sirketin olas birlesmeyi degerlendirmek uzere ozel komiteler kurdugunu ancak komitelerin henuz anlasmaya varmad g n bildirdi",
+      "link": "https://www.bloomberght.com/elon-musk-spacex-ile-tesla-nin-olasi-birlesme-icin-komiteler-kurdugunu-belirtti-3792036"
+    },
+    {
+      "source": "bloomberght",
+      "text": "tasfiyesine karar verilen baz yat r m fonlar na iliskin duzenlemeleri iceren kanun teklifi tbmm genel kurulu nda tbmm genel kurulunda tasfiyesine karar verilen baz yat r m fonlar hakk nda kanun teklifi nin tumu uzerindeki gorusmeler tamamland",
+      "link": "https://www.bloomberght.com/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmm-genel-kurulun-3792035"
+    },
+    {
+      "source": "bloomberght",
+      "text": "ekonomi siyaset gundemi 21 ekim 2026 ekonomi siyaset gundeminde one c kanlar",
+      "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-21-ekim-2026-3792034"
+    },
+    {
+      "source": "kap",
+      "text": "tkfen ozel durum ac klamas genel bag ms z yonetim kurulu uye adaylar spk uygunluk onay sirket tekfen holding a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1684691"
+    },
+    {
+      "source": "kap",
+      "text": "tezol paylar n geri al nmas na iliskin bildirim pay geri al m islemleri sirket europap tezol kagit sanayi ticaret a s",
+      "link": "https://www.kap.org.tr/tr/Bildirim/1684690"
+    },
     {
       "source": "tradingview",
       "text": "avustralya dolar sahin rba n n usd deki yukselisi dengelemesiyle ayl k zirvesine yak n 0 7000 in uzerinde islem goruyor",
@@ -8983,156 +9150,6 @@
       "source": "bloomberght",
       "text": "istanbul kiraya guneydogu anadolu g daya en fazla pay ay rd turkiye genelinde hanehalk tuketim harcamalar n n yuzde 25 6 s istanbul gerceklesti harcamalar icinde konut kiran n pay istanbul yuzde 29 6 ya izmir yuzde 30 2 ye c karken g daya en yuksek pay yuzde 29 6 sanl urfa d",
       "link": "https://www.bloomberght.com/istanbul-kiraya-guneydogu-anadolu-gidaya-en-fazla-payi-ayirdi-3791624"
-    },
-    {
-      "source": "bloomberght",
-      "text": "y lmaz 2027 y l butcesi dayan kl l k refah donusum butcesidir cumhurbaskan yard mc s cevdet y lmaz 2027 y l butcesinde 27 trilyon 276 milyar lira gider 23 trilyon 408 milyar lira gelir ongorduklerini belirterek butce ac g n n milli gelire oran n n yuzde 3 5 olmas n n beklendigini ac klad",
-      "link": "https://www.bloomberght.com/yilmaz-2027-yili-butcesi-dayaniklilik-refah-ve-donusum-butcesidir-3791621"
-    },
-    {
-      "source": "bloomberght",
-      "text": "konut fiyatlar nda reel kay p serisi devam ediyor turkiye cumhuriyet merkez bankas n n tcmb verilerine gore eylul konut fiyatlar nda reel kay p yuzde 5 7 oldu",
-      "link": "https://www.bloomberght.com/konut-fiyatlarinda-reel-kayip-serisi-devam-ediyor-3791601"
-    },
-    {
-      "source": "bloomberght",
-      "text": "enflasyon beklentilerinde l ml yukselis turkiye cumhuriyet merkez bankas ekim ay na iliskin piyasa kat l mc lar anketini yay mlad",
-      "link": "https://www.bloomberght.com/enflasyon-beklentilerinde-ilimli-yukselis-3791574"
-    },
-    {
-      "source": "bloomberght",
-      "text": "borsa msci uyar s yla geriledi bist 100 endeksi msci n yeni uyar s n n ard ndan haftan n islem gunune dususle girdi",
-      "link": "https://www.bloomberght.com/borsa-msci-uyarisiyla-geriledi-3791565"
-    },
-    {
-      "source": "bloomberght",
-      "text": "konut sat slar eylul y ll k dusus serisini surdurdu turkiye istatistik kurumu tuik eylul ay na iliskin konut sat s verilerini ac klad",
-      "link": "https://www.bloomberght.com/konut-satislari-eylul-3791564"
-    },
-    {
-      "source": "bloomberght",
-      "text": "thy cfm international aras nda motor anlasmas thy cfm international aras nda toplam 295 adede kadar b737 max tipi ucak motor yedek motor temin edilmesi motorlar bak m hizmeti sat n al nmas thy kontrolunde motor bak m merkezi kurulmas hususlar nda mutabakat za",
-      "link": "https://www.bloomberght.com/thy-ile-cfm-international-arasinda-motor-anlasmasi-3791563"
-    },
-    {
-      "source": "bloomberght",
-      "text": "bloomberg ht tuketici guven on endeksi ekim yukseldi bloomberg ht tuketici guven on endeksi ekim ay nda yukseldi tuketici guvenini artt ran ana unsur tuketim egiliminde yukselis oldu mevcut durum alg s ndaki bozulma ise sermaye piyasalar nda yasananlar n reel sektor uzerinde etkisinin devam",
-      "link": "https://www.bloomberght.com/bloomberg-ht-tuketici-guven-on-endeksi-ekim-de-yukseldi-3791562"
-    },
-    {
-      "source": "bloomberght",
-      "text": "ab liderler zirvesi sonuc bildirgesinde acil onlem cagr s avrupa birligi ab uyesi ulkelerin liderleri yuksek enerji fiyatlar na kars acil onlemler al nmas sanayinin rekabet gucunun art r lmas burokratik yuklerin azalt lmas cagr s nda bulundu",
-      "link": "https://www.bloomberght.com/ab-liderler-zirvesi-sonuc-bildirgesinde-acil-onlem-cagrisi-3791554"
-    },
-    {
-      "source": "bloomberght",
-      "text": "kuresel piyasalarda yapay zeka kaynakl dusus tersine cevrildi wall street dun yapay zeka yat r mlar n n surdurulebilirligine iliskin endiselerin tetikledigi uc gunluk dususun ard ndan toparland",
-      "link": "https://www.bloomberght.com/kuresel-piyasalarda-yapay-zeka-kaynakli-dusus-tersine-cevrildi-3791551"
-    },
-    {
-      "source": "matriks",
-      "text": "fx bulteni qnb invest",
-      "link": "https://tr.tradingview.com/news/matriks:6826024:0"
-    },
-    {
-      "source": "matriks",
-      "text": "boj ueda ekonomi fiyatlar temel senaryo tahminlerimizle uyumlu seyrediyor",
-      "link": "https://tr.tradingview.com/news/matriks:6826021:0"
-    },
-    {
-      "source": "matriks",
-      "text": "boj ueda destekleyici finansal kosullar eylul deki faiz art r m ndan sonra ekonomik faaliyeti desteklemeye devam ediyor",
-      "link": "https://tr.tradingview.com/news/matriks:6826018:0"
-    },
-    {
-      "source": "matriks",
-      "text": "hsbc msci n turkiye karar uyar niteliginde ancak tan nan ek sure hemen istisare surecinin baslat lmamas olcude rahatlama sagl yor rapor",
-      "link": "https://tr.tradingview.com/news/matriks:6826017:0"
-    },
-    {
-      "source": "matriks",
-      "text": "uluslararas piyasalar bulteni info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6826015:0"
-    },
-    {
-      "source": "matriks",
-      "text": "boj ueda temel enflasyonun 2 lik fiyat hedefini asma riski var",
-      "link": "https://tr.tradingview.com/news/matriks:6826013:0"
-    },
-    {
-      "source": "matriks",
-      "text": "boj uchida gelecekteki politika ayarlamalar n n h z zamanlamas temel projeksiyonlar m z n gerceklesme olas l g na kars kars ya oldugumuz risklere bagl olarak belirlenecek",
-      "link": "https://tr.tradingview.com/news/matriks:6826012:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk bulten tacirler yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6826010:0"
-    },
-    {
-      "source": "matriks",
-      "text": "boj ueda finansal kosullar destekleyici",
-      "link": "https://tr.tradingview.com/news/matriks:6826002:0"
-    },
-    {
-      "source": "matriks",
-      "text": "boj ueda baskan yard mc s uchida n n okudugu metin cekirdek enflasyonun 2 civar nda istikrarl lasmas gecmise k yasla daha onemli",
-      "link": "https://tr.tradingview.com/news/matriks:6826001:0"
-    },
-    {
-      "source": "matriks",
-      "text": "boj uchida cekirdek enflasyon 2 ye yaklas yor",
-      "link": "https://tr.tradingview.com/news/matriks:6826000:0"
-    },
-    {
-      "source": "matriks",
-      "text": "boj ueda politika faizini ekonomik fiyat finansal gelismelere gore art rmaya devam edecegiz",
-      "link": "https://tr.tradingview.com/news/matriks:6825992:0"
-    },
-    {
-      "source": "matriks",
-      "text": "market watch seker yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6825991:0"
-    },
-    {
-      "source": "matriks",
-      "text": "fx bulteni info yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6825988:0"
-    },
-    {
-      "source": "matriks",
-      "text": "teknik bulten is yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6825986:0"
-    },
-    {
-      "source": "matriks",
-      "text": "hazine gunluk piyasa bulteni gedik yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6825985:0"
-    },
-    {
-      "source": "matriks",
-      "text": "tcmb nin usd cinsi zorunlu kars l klara uygulayacag gecelik faiz oran bugun 2 750 olarak ac kland",
-      "link": "https://tr.tradingview.com/news/matriks:6825983:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk bulten icbc yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6825978:0"
-    },
-    {
-      "source": "matriks",
-      "text": "gunluk piyasa ozeti garanti bbva yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6825973:0"
-    },
-    {
-      "source": "matriks",
-      "text": "bist50 gostergeler analizi aktif yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6825970:0"
-    },
-    {
-      "source": "matriks",
-      "text": "bist50 volatilite analizi aktif yat r m",
-      "link": "https://tr.tradingview.com/news/matriks:6825969:0"
     }
   ],
   "research_reports_v8": {
