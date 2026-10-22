@@ -2,116 +2,106 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1685883",
+      "last_seen_key": "kap:1686035",
       "seen_keys": [
-        "kap:1685883",
-        "kap:1685882",
-        "kap:1685881",
-        "kap:1685880",
-        "kap:1685879",
-        "kap:1685878",
-        "kap:1685877",
-        "kap:1685876",
-        "kap:1685875",
-        "kap:1685874",
-        "kap:1685872",
-        "kap:1685871",
-        "kap:1685870",
-        "kap:1685869",
-        "kap:1685868",
-        "kap:1685867",
-        "kap:1685866",
-        "kap:1685864",
-        "kap:1685863",
-        "kap:1685862",
-        "kap:1685861",
-        "kap:1685859",
-        "kap:1685858",
-        "kap:1685857",
-        "kap:1685856",
-        "kap:1685855",
-        "kap:1685854",
-        "kap:1685850",
-        "kap:1685849",
-        "kap:1685845",
-        "kap:1685844",
-        "kap:1685843",
-        "kap:1685842",
-        "kap:1685841",
-        "kap:1685840",
-        "kap:1685839",
-        "kap:1685838",
-        "kap:1685837",
-        "kap:1685836",
-        "kap:1685835",
-        "kap:1685834",
-        "kap:1685833",
-        "kap:1685832",
-        "kap:1685829",
-        "kap:1685828",
-        "kap:1685825",
-        "kap:1685824",
-        "kap:1685822",
-        "kap:1685821",
-        "kap:1685819",
-        "kap:1685812",
-        "kap:1685811",
-        "kap:1685810",
-        "kap:1685809",
-        "kap:1685808",
-        "kap:1685807",
-        "kap:1685806",
-        "kap:1685805",
-        "kap:1685804",
-        "kap:1685803",
-        "kap:1685802",
-        "kap:1685801",
-        "kap:1685798",
-        "kap:1685797",
-        "kap:1685796",
-        "kap:1685795",
-        "kap:1685794",
-        "kap:1685793",
-        "kap:1685790",
-        "kap:1685789",
-        "kap:1685788",
-        "kap:1685787",
-        "kap:1685785",
-        "kap:1685784",
-        "kap:1685782",
-        "kap:1685781",
-        "kap:1685780",
-        "kap:1685779",
-        "kap:1685778",
-        "kap:1685777",
-        "kap:1685776",
-        "kap:1685775",
-        "kap:1685774",
-        "kap:1685773",
-        "kap:1685772",
-        "kap:1685771",
-        "kap:1685769",
-        "kap:1685768",
-        "kap:1685765",
-        "kap:1685763",
-        "kap:1685865",
-        "kap:1685761",
-        "kap:1685760",
-        "kap:1685759",
-        "kap:1685758",
-        "kap:1685757",
-        "kap:1685756",
-        "kap:1685860",
-        "kap:1685754",
-        "kap:1685753",
-        "kap:1685751",
-        "kap:1685750",
-        "kap:1685749",
-        "kap:1685748",
-        "kap:1685747",
-        "kap:1685746",
-        "kap:1685745",
-        "kap:1685736"
+        "kap:1686035",
+        "kap:1686034",
+        "kap:1686033",
+        "kap:1686032",
+        "kap:1686031",
+        "kap:1686027",
+        "kap:1686026",
+        "kap:1686025",
+        "kap:1686024",
+        "kap:1686023",
+        "kap:1686022",
+        "kap:1686019",
+        "kap:1686018",
+        "kap:1686017",
+        "kap:1686016",
+        "kap:1686015",
+        "kap:1686014",
+        "kap:1686013",
+        "kap:1686012",
+        "kap:1686011",
+        "kap:1686010",
+        "kap:1686009",
+        "kap:1686008",
+        "kap:1686007",
+        "kap:1686006",
+        "kap:1686005",
+        "kap:1686004",
+        "kap:1686003",
+        "kap:1686002",
+        "kap:1686001",
+        "kap:1686000",
+        "kap:1685999",
+        "kap:1685998",
+        "kap:1685996",
+        "kap:1685995",
+        "kap:1685994",
+        "kap:1685993",
+        "kap:1685992",
+        "kap:1685991",
+        "kap:1685990",
+        "kap:1685989",
+        "kap:1685988",
+        "kap:1685987",
+        "kap:1685986",
+        "kap:1685985",
+        "kap:1685984",
+        "kap:1685983",
+        "kap:1685982",
+        "kap:1685981",
+        "kap:1685979",
+        "kap:1685978",
+        "kap:1685977",
+        "kap:1685976",
+        "kap:1685975",
+        "kap:1685974",
+        "kap:1685973",
+        "kap:1685972",
+        "kap:1685971",
+        "kap:1685970",
+        "kap:1685969",
+        "kap:1685968",
+        "kap:1685967",
+        "kap:1685966",
+        "kap:1685965",
+        "kap:1685964",
+        "kap:1685963",
+        "kap:1685962",
+        "kap:1685961",
+        "kap:1685960",
+        "kap:1685957",
+        "kap:1685956",
+        "kap:1685955",
+        "kap:1685954",
+        "kap:1685953",
+        "kap:1685952",
+        "kap:1685951",
+        "kap:1685950",
+        "kap:1685949",
+        "kap:1685948",
+        "kap:1685947",
+        "kap:1685946",
+        "kap:1685945",
+        "kap:1685944",
+        "kap:1685943",
+        "kap:1685942",
+        "kap:1685941",
+        "kap:1685940",
+        "kap:1685939",
+        "kap:1685938",
+        "kap:1685937",
+        "kap:1685936",
+        "kap:1685935",
+        "kap:1685934",
+        "kap:1685933",
+        "kap:1685932",
+        "kap:1685931",
+        "kap:1685930",
+        "kap:1685929"
       ]
     },
     "bist": {
@@ -206,8 +196,32 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6842807:0",
+      "last_seen_key": "matriks:matriks:6843083:0",
       "seen_keys": [
+        "matriks:matriks:6843083:0",
+        "matriks:matriks:6843045:0",
+        "matriks:matriks:6843041:0",
+        "matriks:matriks:6843040:0",
+        "matriks:matriks:6843042:0",
+        "matriks:matriks:6843037:0",
+        "matriks:matriks:6843044:0",
+        "matriks:matriks:6843048:0",
+        "matriks:matriks:6843047:0",
+        "matriks:matriks:6843039:0",
+        "matriks:matriks:6843036:0",
+        "matriks:matriks:6843043:0",
+        "matriks:matriks:6843038:0",
+        "matriks:matriks:6843031:0",
+        "matriks:matriks:6843033:0",
+        "matriks:matriks:6843034:0",
+        "matriks:matriks:6843032:0",
+        "matriks:matriks:6843035:0",
+        "matriks:matriks:6843030:0",
+        "matriks:matriks:6842984:0",
+        "matriks:matriks:6842954:0",
+        "matriks:matriks:6842911:0",
+        "matriks:matriks:6842871:0",
+        "matriks:matriks:6842859:0",
         "matriks:matriks:6842807:0",
         "matriks:matriks:6842803:0",
         "matriks:matriks:6842795:0",
@@ -300,23 +314,25 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ada11da58b1b941c208f20f/PICNEWS/tr/sirketlerin-doviz-acigi-213-milyar-dolara-yukseldi-22-10-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6ada29d3422c786f3f7a8002/PICNEWS/tr/mercan-kimya-da-bedelsiz-sermaye-artirimi-2-kasim-da-basliyor-22-10-26/",
       "seen_keys": [
-        "forinvest:https://www.foreks.com/haber/detay/6ada11da58b1b941c208f20f/PICNEWS/tr/sirketlerin-doviz-acigi-213-milyar-dolara-yukseldi-22-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ada10f858b1b941c208f1f1/PICNEWS/tr/citi-ingiltere-de-banka-hisselerinin-yonunu-butce-belirleyecek-22-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ada0ffe422c786f3f7a7ddd/PICNEWS/tr/abd-de-issizlik-maasi-basvurulari-194-bine-geriledi-22-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ada062c9e3f57734fbcd21c/PICNEWS/tr/spk-dan-takas-kesinligi-ve-pay-blokaji-aciklamasi-22-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad9fd419e3f57734fbcd19b/PICNEWS/tr/fon-tasfiyelerinde-49-7-milyar-liralik-odeme-yapildi-kalan-fon-sayisi-47-ye-geriledi-22-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad9f5eb422c786f3f7a7ca6/PICNEWS/tr/merkez-bankasi-rezervlerinde-sert-dusus-swap-haric-net-rezerv-4-9-milyar-dolar-azaldi-22-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad9f50158b1b941c208f0af/PICNEWS/tr/yabanci-yatirimcilarin-hisse-senedi-satislari-surdu-portfoy-degeri-34-milyar-dolara-geriledi-22-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad9ee759e3f57734fbcd11f/PICNEWS/tr/mevduat-bir-haftada-761-milyar-lira-artti-22-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad9ece8422c786f3f7a7c53/PICNEWS/tr/tcmb-faiz-icin-beklenen-adimi-atti-22-10-26/",
-        "forinvest:https://www.foreks.com/haber/detay/6ad9eb049e3f57734fbcd0f5/PICNEWS/tr/avrupa-parlamentosu-enerji-ithalatinda-metan-kurallarini-2031-e-ertelemek-istiyor-22-10-26/"
+        "forinvest:https://www.foreks.com/haber/detay/6ada29d3422c786f3f7a8002/PICNEWS/tr/mercan-kimya-da-bedelsiz-sermaye-artirimi-2-kasim-da-basliyor-22-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ada294d422c786f3f7a7ff8/PICNEWS/tr/piyasaya-bakis-borsa-gunu-dususle-kapatti-22-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ada288f58b1b941c208f3eb/PICNEWS/tr/gelecek-varlik-garanti-bbva-dan-toplamda-2-milyar-tl-lik-alacak-portfoyu-devraldi-22-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ada281058b1b941c208f3c6/PICNEWS/tr/birikim-varlik-in-kazandigi-548-9-milyon-tl-lik-alacak-portfoyu-ihalesi-iptal-edildi-22-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ada26079e3f57734fbcd3c0/PICNEWS/tr/turk-ilac-ve-barem-ambalaj-hakkinda-bir-yillik-kesin-muhlet-karari-22-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ada258d9e3f57734fbcd3b7/PICNEWS/tr/turkiye-ve-kanada-dan-ticarette-10-milyar-dolarlik-hedef-serbest-ticaret-gorusmeleri-basliyor-22-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6ada2455422c786f3f7a7ee2/PICNEWS/tr/zorlu-enerji-electrip-teki-hisselerini-147-6-milyon-dolara-satti-22-10-26/"
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/italya-da-mazot-protestosu-yollari-tikadi-raflari-bos-birakti-3792268",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/abd-den-dort-sirkete-389-milyon-dolarlik-cip-ve-kritik-malzeme-destegi-3792297",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/abd-den-dort-sirkete-389-milyon-dolarlik-cip-ve-kritik-malzeme-destegi-3792297",
+        "bloomberght:https://www.bloomberght.com/erdogan-kanada-ile-ticareti-10-milyar-dolara-cikarmayi-hedefliyoruz-3792292",
+        "bloomberght:https://www.bloomberght.com/fransa-nin-borclanma-risk-primi-alarmi-3792282",
+        "bloomberght:https://www.bloomberght.com/meta-hisselerinde-harcama-planini-artirmasindan-sonra-sert-dusus-3792280",
+        "bloomberght:https://www.bloomberght.com/yabanci-bankalardan-tcmb-degerlendirmesi-3792278",
         "bloomberght:https://www.bloomberght.com/italya-da-mazot-protestosu-yollari-tikadi-raflari-bos-birakti-3792268",
         "bloomberght:https://www.bloomberght.com/aramco-da-saldiri-alarmi-genel-merkez-bosaltildi-evden-calismaya-geciliyor-3792266",
         "bloomberght:https://www.bloomberght.com/ulker-den-findik-projesi-3792256",
@@ -488,8 +504,9 @@
       ]
     },
     "cnbce": {
-      "last_seen_key": "cnbce:https://www.cnbce.com/sirket-haberleri/ssaatten-61-milyon-tllik-hamle-265-bin-lot-geri-alindi-h40067",
+      "last_seen_key": "cnbce:https://www.cnbce.com/sirket-haberleri/borsada-iki-sirketin-konkordato-surecinde-kritik-gelisme-1-yil-sure-verildi-h40091",
       "seen_keys": [
+        "cnbce:https://www.cnbce.com/sirket-haberleri/borsada-iki-sirketin-konkordato-surecinde-kritik-gelisme-1-yil-sure-verildi-h40091",
         "cnbce:https://www.cnbce.com/sirket-haberleri/ssaatten-61-milyon-tllik-hamle-265-bin-lot-geri-alindi-h40067",
         "cnbce:https://www.cnbce.com/borsa/borsa-istanbul-canli-bist-100de-son-durum-ve-gunun-gelismeleri-h40036",
         "cnbce:https://www.cnbce.com/borsa/jpmorgandan-turkiye-aciklamasi-cekilmiyoruz-buyume-icin-calismalar-suruyor-h40011",
@@ -1807,6 +1824,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "cnbce",
+      "text": "iki sirketin konkordato surecinde kritik gelisme 1 y l sure verildi barem ambalaj barma turk ilac serum sanayi trilc hakk nda yurutulen konkordato sureclerinde yeni gelisme yasand mahkemeler iki sirketin taraf oldugu davalarda 1 y l sureyle kesin muhlet karar verdi",
+      "link": "https://www.cnbce.com/sirket-haberleri/borsada-iki-sirketin-konkordato-surecinde-kritik-gelisme-1-yil-sure-verildi-h40091"
+    },
+    {
+      "source": "bloomberght",
+      "text": "abd den dort sirkete 389 milyon dolarl k cip kritik malzeme destegi abd ticaret bakanl g yar iletken kritik malzeme teknolojileri gelistiren dort sirkete toplam 389 milyon dolara kadar finansman saglamay planlad g n ac klad",
+      "link": "https://www.bloomberght.com/abd-den-dort-sirkete-389-milyon-dolarlik-cip-ve-kritik-malzeme-destegi-3792297"
+    },
+    {
+      "source": "bloomberght",
+      "text": "erdogan kanada ticareti 10 milyar dolara c karmay hedefliyoruz cumhurbaskan erdogan atacag m z ad mlarla yaklas k 3 milyar dolar civar nda seyreden ticaret hacmimizi ilk olarak 5 milyar akabinde 10 milyar dolara c karmay temenni ediyoruz dedi",
+      "link": "https://www.bloomberght.com/erdogan-kanada-ile-ticareti-10-milyar-dolara-cikarmayi-hedefliyoruz-3792292"
+    },
+    {
+      "source": "bloomberght",
+      "text": "fransa borclanma risk primi alarm fransa butce belirsizligi toplumsal huzursuzluk tahvil piyasalar nda sert hareketlilige yol acarken ulkenin borclanma risk primi euro bolgesi borc krizi donemindeki seviyelere ulast",
+      "link": "https://www.bloomberght.com/fransa-nin-borclanma-risk-primi-alarmi-3792282"
+    },
+    {
+      "source": "bloomberght",
+      "text": "meta hisselerinde harcama plan n art rmas ndan sonra sert dusus meta platforms un hisseleri ceo mark zuckerberg in yat r mc lara sirketin yapay zekaya daha agresif sekilde yat r m yapacag n ac klamas n n ard ndan deger kaybetti",
+      "link": "https://www.bloomberght.com/meta-hisselerinde-harcama-planini-artirmasindan-sonra-sert-dusus-3792280"
+    },
+    {
+      "source": "bloomberght",
+      "text": "yabanc bankalardan tcmb degerlendirmesi turkiye cumhuriyet merkez bankas tcmb dokuz ayl k aran n ard ndan politika faizini 100 baz puan indirerek 36 seviyesine cekerken yabanc bankalar barclays citi ing hsbc yay mlad klar analiz raporlar nda indirimin detaylar n",
+      "link": "https://www.bloomberght.com/yabanci-bankalardan-tcmb-degerlendirmesi-3792278"
+    },
+    {
+      "source": "matriks",
+      "text": "bist 100 endeksi bugun 3 08 geriledi 11220 toplam gunluk islem hacmi 140 milyar 941 milyon tl oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6843083:0"
+    },
+    {
+      "source": "matriks",
+      "text": "alternatif bank musterilerinin nakit ihtiyaclar na avantajl faiz oranlar ertelemeli odeme imkan dijital basvuru kolayl g yla cozum sunuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6843045:0"
+    },
+    {
+      "source": "matriks",
+      "text": "evidea antalya daki ilk magazas n mall of antalya avm hizmete act",
+      "link": "https://tr.tradingview.com/news/matriks:6843041:0"
+    },
+    {
+      "source": "matriks",
+      "text": "kpmg ceo lar dijital dayan kl l k yapay zekaya odaklan yor",
+      "link": "https://tr.tradingview.com/news/matriks:6843040:0"
+    },
+    {
+      "source": "matriks",
+      "text": "lc waikiki tegv yasamsal gelisim yolculugu cocuklar n sosyal duygusal gelisimini desteklemeyi hedefliyor",
+      "link": "https://tr.tradingview.com/news/matriks:6843042:0"
+    },
+    {
+      "source": "matriks",
+      "text": "mapfre sigorta is ortaklar yla endulus seyahatinde araya geldi",
+      "link": "https://tr.tradingview.com/news/matriks:6843037:0"
+    },
+    {
+      "source": "matriks",
+      "text": "omoda jaecoo gelecegin otomobil teknolojilerini uygulamal olarak sergiledi",
+      "link": "https://tr.tradingview.com/news/matriks:6843044:0"
+    },
+    {
+      "source": "matriks",
+      "text": "oppo mobil isletim sisteminin en yeni nesli coloros 17 yi kuresel pazarda tan tt",
+      "link": "https://tr.tradingview.com/news/matriks:6843048:0"
+    },
+    {
+      "source": "matriks",
+      "text": "starbucks n turkiye deki ilk flagship magazas tersane istanbul ac ld",
+      "link": "https://tr.tradingview.com/news/matriks:6843047:0"
+    },
+    {
+      "source": "matriks",
+      "text": "turk telekom dan s n rs z mobil internet",
+      "link": "https://tr.tradingview.com/news/matriks:6843039:0"
+    },
+    {
+      "source": "matriks",
+      "text": "un co sigorta servis yonetiminde gelecege odakland",
+      "link": "https://tr.tradingview.com/news/matriks:6843036:0"
+    },
+    {
+      "source": "matriks",
+      "text": "uib akademi otomotiv sektorunde su geri kazan m ele al nd",
+      "link": "https://tr.tradingview.com/news/matriks:6843043:0"
+    },
+    {
+      "source": "matriks",
+      "text": "weber in usta sadakat program we club 2026 25 y l n kutluyor",
+      "link": "https://tr.tradingview.com/news/matriks:6843038:0"
+    },
+    {
+      "source": "matriks",
+      "text": "acer aspire lite 15 performanstan odun vermeden butce dostu dizustu bilgisayar arayan ogrencilere gunluk kullan c lara guclu secenek sunuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6843031:0"
+    },
+    {
+      "source": "matriks",
+      "text": "cbn lojistik te genel mudurluk gorevine selman coban atand",
+      "link": "https://tr.tradingview.com/news/matriks:6843033:0"
+    },
+    {
+      "source": "matriks",
+      "text": "canon vision canon un buyuyen icerik ureticileri toplulugunu kez kapadokya araya getirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6843034:0"
+    },
+    {
+      "source": "matriks",
+      "text": "teamsec finance ilk faaliyet y l nda 76 isletmeye 211 islemde yaklas k 2 5 milyar tl finansman saglad",
+      "link": "https://tr.tradingview.com/news/matriks:6843032:0"
+    },
+    {
+      "source": "matriks",
+      "text": "turkcell den 174 ulkede gecerli global 3 gb paketi hediye",
+      "link": "https://tr.tradingview.com/news/matriks:6843035:0"
+    },
+    {
+      "source": "matriks",
+      "text": "cix istanbul bulgaristan daki bix bg ye dogrudan baglant bulut hizmetlerini icerikleri kullan c lara yak nlast r yor",
+      "link": "https://tr.tradingview.com/news/matriks:6843030:0"
+    },
+    {
+      "source": "matriks",
+      "text": "fransa n n 5 y ll k cds leri 100 baz puan n uzerine c karak ekim 2012 den yana ilk kez seviyeyi ast",
+      "link": "https://tr.tradingview.com/news/matriks:6842984:0"
+    },
+    {
+      "source": "matriks",
+      "text": "selcuk gonencler teknik rota yeni bolum matriks youtube kanal nda",
+      "link": "https://tr.tradingview.com/news/matriks:6842954:0"
+    },
+    {
+      "source": "matriks",
+      "text": "kanada basbakan carney kanadal turk muzakereciler ticaret gorusmelerinin ilk turu gelecek ay ankara araya gelecek",
+      "link": "https://tr.tradingview.com/news/matriks:6842911:0"
+    },
+    {
+      "source": "matriks",
+      "text": "makro analiz tcmb para politikas kurulu karar akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6842871:0"
+    },
+    {
+      "source": "matriks",
+      "text": "forex endeks bulteni integral yat r m menkul degerler",
+      "link": "https://tr.tradingview.com/news/matriks:6842859:0"
+    },
     {
       "source": "trthaber",
       "text": "toki 61 ilde 725 arsay sat sa c karacak cevre sehircilik iklim degisikligi bakanl g toplu konut idaresi baskanl g toki ankara istanbul izmir in aralar nda bulundugu 61 ildeki 725 arsay 5 6 kas m ac k art rma yontemiyle sat sa sunacak",
@@ -9156,156 +9323,6 @@
       "source": "investing",
       "text": "uniti group hissesi 5 44 dolara duserek 52 haftan n dibini gordu",
       "link": "https://tr.investing.com/news/company-news/uniti-group-hissesi-544-dolara-duserek-52-haftann-dibini-gordu-93CH-4109402"
-    },
-    {
-      "source": "investing",
-      "text": "oge energy hisseleri neden bugun dusuyor",
-      "link": "https://tr.investing.com/news/stock-market-news/oge-energy-hisseleri-neden-bugun-dusuyor-93CH-4109401"
-    },
-    {
-      "source": "investing",
-      "text": "agnc hissesi 8 40 dolarda 52 haftal k dip yapt",
-      "link": "https://tr.investing.com/news/company-news/agnc-hissesi-840-dolarda-52-haftalk-dip-yapt-93CH-4109397"
-    },
-    {
-      "source": "investing",
-      "text": "hedge fonlar teknoloji hisselerini rekor h zla satt",
-      "link": "https://tr.investing.com/news/stock-market-news/hedge-fonlar-teknoloji-hisselerini-rekor-hzla-satt-4109403"
-    },
-    {
-      "source": "investing",
-      "text": "oceanfirst financial hissesi 15 65 dolara duserek 52 haftan n dibini gordu",
-      "link": "https://tr.investing.com/news/company-news/oceanfirst-financial-hissesi-1565-dolara-duserek-52-haftann-dibini-gordu-93CH-4109395"
-    },
-    {
-      "source": "kap",
-      "text": "egegy paylar n geri al nmas na iliskin bildirim pay geri al m islemi sirket egeyapi avrupa gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684176"
-    },
-    {
-      "source": "investing",
-      "text": "installed building products 250 milyon dolarl k kredi art s istiyor",
-      "link": "https://tr.investing.com/news/company-news/installed-building-products-250-milyon-dolarlk-kredi-arts-istiyor-93CH-4109391"
-    },
-    {
-      "source": "investing",
-      "text": "plata 4 y ldan k sa surede 1 milyar dolarl k gelire ulast",
-      "link": "https://tr.investing.com/news/stock-market-news/plata-4-yldan-ksa-surede-1-milyar-dolarlk-gelire-ulast-93CH-4109390"
-    },
-    {
-      "source": "cnbce",
-      "text": "borsada islem goren ralyh konkordato basvurusunda bulundu ral yat r m holding ralyh konkordato basvurusu kapsam nda mahkemeden 3 ay gecici muhlet ald sirket finansmana erisimde yasanan daralman n k sa vadeli likidite uzerinde bask olusturdugunu belirtirken 30 haziran 2026 itibar yla 9 2",
-      "link": "https://www.cnbce.com/borsa/borsada-islem-goren-ralyh-konkordato-basvurusunda-bulundu-h39804"
-    },
-    {
-      "source": "cnbce",
-      "text": "dogus otomotiv den tuvturk karar yuzde 33 3 luk pay n sat yor dogus otomotiv bagl ortakl g n n is ortakl g tuvturk guney deki yuzde 33 333 luk paylar n n tamam n n sat s niyet mektubu imzaland al c lar turka n n iki bolge sirketi olurken sat s bedeli islem tarihi henuz ac klanmad",
-      "link": "https://www.cnbce.com/borsa/dogus-otomotivden-tuvturk-karari-yuzde-333luk-payini-satiyor-h39802"
-    },
-    {
-      "source": "bloomberght",
-      "text": "trump tan kad n sagl g arast rmalar n guclendirecek kararname abd baskan donald trump esi melania trump n onculugunde kad n sagl g na yonelik federal arast rmalar n guclendirilmesini amaclayan baskanl k kararnamesi ni imzalad",
-      "link": "https://www.bloomberght.com/trump-tan-kadin-sagligi-arastirmalarini-guclendirecek-kararname-3791839"
-    },
-    {
-      "source": "bloomberght",
-      "text": "tmsf tera yat r m teknoloji holding e kayyum olarak atand tasarruf mevduat sigorta fonu tmsf istanbul 5 sulh ceza hakimliginin karar yla tera yat r m teknoloji holding e kayyum olarak atand",
-      "link": "https://www.bloomberght.com/tmsf-tera-yatirim-teknoloji-holding-e-kayyum-olarak-atandi-3791838"
-    },
-    {
-      "source": "bloomberght",
-      "text": "iran avrupa abd gibi yanl s hesaplamalar n n bedelini oduyor iran d sisleri bakan abbas erakci avrupa ulkelerini abd birlikte iran a yonelik sald r lara ortak olmakla suclayarak avrupa n n abd gibi yanl s politikalar n n bedelini odedigini savundu",
-      "link": "https://www.bloomberght.com/iran-avrupa-da-abd-gibi-yanlis-hesaplamalarinin-bedelini-oduyor-3791837"
-    },
-    {
-      "source": "bloomberght",
-      "text": "sabanc ailesi holding yoneticilerinden 238 milyon tl lik hisse al m sabanc holding in 7 milyar tl lik pay geri al m program n ac klamas n n ard ndan sabanc ailesi uyeleri holding in ust duzey yoneticileri sirket hisselerinde yaklas k 237 9 milyon tl lik al m gerceklestirdi",
-      "link": "https://www.bloomberght.com/sabanci-ailesi-ve-holding-yoneticilerinden-238-milyon-tl-lik-hisse-alimi-3791836"
-    },
-    {
-      "source": "bloomberght",
-      "text": "abd yuksek mahkemesi google n patent itiraz n reddetti abd yuksek mahkemesi google n eski patentlerin gecerlilik incelemelerini s n rland ran yerlesik beklentiler kural na yonelik itiraz n incelemeyi reddetti",
-      "link": "https://www.bloomberght.com/yuksek-mahkeme-google-in-patent-itirazini-reddetti-3791835"
-    },
-    {
-      "source": "forinvest",
-      "text": "kiler holding den 180 milyon tl lik ek pay geri al m karar kiler holding a s klrho bagl ortakl g kiler tekstil enerji yat r mlar sanayi ticaret a s taraf ndan holding paylar n n geri al nmas na yonelik 180 milyon tl butceli ek program baslat lmas n",
-      "link": "https://www.foreks.com/haber/detay/6ad63c2658b1b941c208cdbc/PICNEWS/tr/kiler-holding-den-180-milyon-tl-lik-ek-pay-geri-alim-karari-19-10-26"
-    },
-    {
-      "source": "forinvest",
-      "text": "cemas dokum yuzde 50 bedelsiz sermaye art r m basvurusunu geri cekti cemas dokum sanayi a s cemas yuzde 50 oran nda bedelsiz sermaye art r m sermaye piyasas kuruluna spk yapt g basvuruyu geri cekme karar ald sirket karar n gerekcesi olarak pay fiyat n",
-      "link": "https://www.foreks.com/haber/detay/6ad63ac258b1b941c208cda9/PICNEWS/tr/cemas-dokum-yuzde-50-bedelsiz-sermaye-artirimi-basvurusunu-geri-cekti-19-10-26"
-    },
-    {
-      "source": "matriks",
-      "text": "ilk el konut sat slar artt ikinci elde yuzde 15 3 dusus",
-      "link": "https://tr.tradingview.com/news/matriks:6833622:0"
-    },
-    {
-      "source": "kap",
-      "text": "merko hak kullan m surec iptal bildirimi sirket merko gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684175"
-    },
-    {
-      "source": "kap",
-      "text": "tckrc haber soylentilere iliskin ac klama haber soylentilere iliskin ac klama sirket kirac galvaniz telekominikasyon metal makine insaat elektrik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684174"
-    },
-    {
-      "source": "kap",
-      "text": "merko sermaye art r m azalt m islemlerine iliskin bildirim bedelli sermaye art r m karar n n yururlukten kald r lmas hakk nda sirket merko gida sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684173"
-    },
-    {
-      "source": "kap",
-      "text": "soke paylar n geri al nmas na iliskin bildirim 19 10 2026 tarihli pay geri al m islemleri hk sirket soke degirmencilik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684172"
-    },
-    {
-      "source": "kap",
-      "text": "akm akmen yat r m kurulusu varant sertifika senetlerine iliskin bildirim 19 10 2026 vadeli bist30 endeksi pay senedi dayanak varl kl varantlar n itfas sirket ak yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684171"
-    },
-    {
-      "source": "kap",
-      "text": "ralyh pazar degisikligi paylar n yak n izleme pazar na al nmas sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684170"
-    },
-    {
-      "source": "kap",
-      "text": "uluun paylar n geri al nmas na iliskin bildirim 19 10 2026 tarihli pay geri al m islemleri hk sirket ulusoy un sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684169"
-    },
-    {
-      "source": "kap",
-      "text": "ekgyo ozel durum ac klamas genel istanbul eyupsultan 5 levent ihale ilan sirket emlak konut gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684166"
-    },
-    {
-      "source": "kap",
-      "text": "mavi paylar n geri al nmas na iliskin bildirim 19 10 2026 tarihli pay geri al m islemleri sirket mavi giyim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684160"
-    },
-    {
-      "source": "kap",
-      "text": "orzax paylar n geri al nmas na iliskin bildirim 19 10 2026 tarihli pay geri al m islemi sirket orzaks ilac kimya sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684159"
-    },
-    {
-      "source": "kap",
-      "text": "ralyh ozel durum ac klamas genel konkordato talebi gecici muhlet karar hakk nda sirket ral yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684158"
-    },
-    {
-      "source": "kap",
-      "text": "kpeks paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket kapeks kimya sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684157"
-    },
-    {
-      "source": "kap",
-      "text": "aagyo paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket agaoglu avrasya gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684156"
     }
   ],
   "research_reports_v8": {
