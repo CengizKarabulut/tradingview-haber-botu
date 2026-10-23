@@ -261,6 +261,8 @@
         "matriks:matriks:6843257:0",
         "matriks:matriks:6843250:0",
         "matriks:matriks:6843242:0",
+        "matriks:matriks:6843144:0",
+        "matriks:matriks:6843141:0",
         "matriks:matriks:6843093:0",
         "matriks:matriks:6843083:0",
         "matriks:matriks:6843073:0",
@@ -940,8 +942,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/zai-lab-ozel-yerlestirme-ile-250-milyon-dolar-toplad-93CH-4116451",
+      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/agora-ceosu-zhao-bin-sirket-hisselerinden-168304-dolar-ald-93CH-4116455",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/insider-trading-news/agora-ceosu-zhao-bin-sirket-hisselerinden-168304-dolar-ald-93CH-4116455",
+        "investing:https://tr.investing.com/news/insider-trading-news/bank-of-america-invesco-trust-ii-hisselerini-860-dolara-satt-93CH-4116454",
         "investing:https://tr.investing.com/news/company-news/zai-lab-ozel-yerlestirme-ile-250-milyon-dolar-toplad-93CH-4116451",
         "investing:https://tr.investing.com/news/stock-market-news/sk-hynix-hisseleri-neden-dusuyor-93CH-4116450",
         "investing:https://tr.investing.com/news/stock-market-news/samsung-electronics-hisseleri-neden-dusuyor-93CH-4116449",
@@ -950,8 +954,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/rapport-therapeutics-yoneticisi-wendy-young-99991-dolarlk-hisse-ald-93CH-4116445",
         "investing:https://tr.investing.com/news/insider-trading-news/rapport-therapeutics-yoneticisi-248891-dolar-hisse-ald-93CH-4116444",
         "investing:https://tr.investing.com/news/insider-trading-news/rapport-therapeutics-yoneticisi-paul-m-974-bin-dolarlk-hisse-ald-93CH-4116443",
-        "investing:https://tr.investing.com/news/insider-trading-news/bucklen-magazalar-kdemli-baskan-yardmcs-116870-dolar-degerinde-hisse-satt-93CH-4116442",
-        "investing:https://tr.investing.com/news/commodities-news/trump-savunma-yasasn-devreye-soktu-petrol-fiyatlar-dustu-4116441",
         "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
@@ -972,6 +974,8 @@
         "investing:https://tr.investing.com/analysis/fon-krizinde-hisse-yatrmclar-nasl-tuzaga-dustu-200506552",
         "investing:https://tr.investing.com/analysis/borsa-istanbulda-ucuz-hisse-gercekten-ucuz-mu-200506548",
         "investing:https://tr.investing.com/analysis/bistten-buyuk-kacs-herkes-buraya-gidiyor-200506535",
+        "investing:https://tr.investing.com/news/insider-trading-news/bucklen-magazalar-kdemli-baskan-yardmcs-116870-dolar-degerinde-hisse-satt-93CH-4116442",
+        "investing:https://tr.investing.com/news/commodities-news/trump-savunma-yasasn-devreye-soktu-petrol-fiyatlar-dustu-4116441",
         "investing:https://tr.investing.com/news/insider-trading-news/penguin-solutions-svp-kuykendall-40649-dolarlk-hisse-satt-93CH-4116439",
         "investing:https://tr.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceosu-201-milyar-dolarlk-hisse-satt-93CH-4116438",
         "investing:https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-nasdaqn-en-kotu-gununden-sonra-sakin-4116437",
@@ -1604,8 +1608,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:b32af1c1fd9e8:0",
+      "last_seen_key": "tradingview:fxstreet:9499a4b19d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:9499a4b19d9e8:0",
         "tradingview:fxstreet:b32af1c1fd9e8:0",
         "tradingview:fxstreet:c8c13bd9ed9e8:0",
         "tradingview:cointelegraph:c8a2478bcd9e8:0",
@@ -1656,6 +1661,8 @@
         "tradingview:fxstreet:63a72e700d9e8:0",
         "tradingview:tag:reuters.com,2026:newsml_L8N46822G:0",
         "tradingview:beincrypto:07563499fd9e8:0",
+        "tradingview:matriks:6843144:0",
+        "tradingview:matriks:6843141:0",
         "tradingview:matriks:6843093:0",
         "tradingview:fxstreet:dc3b4b24ad9e8:0",
         "tradingview:matriks:6843083:0",
@@ -2102,10 +2109,7 @@
         "tradingview:matriks:6833096:0",
         "tradingview:beincrypto:69cca43f3d9e8:0",
         "tradingview:matriks:6833083:0",
-        "tradingview:matriks:6833077:0",
-        "tradingview:tag:reuters.com,2026:newsml_L8N46518Y:0",
-        "tradingview:matriks:6833070:0",
-        "tradingview:matriks:6833069:0"
+        "tradingview:matriks:6833077:0"
       ]
     },
     "forexfactory": {
@@ -2118,6 +2122,21 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "euro usd sat slar h z kesmeden devam ederken yukseliyor fransa n n borc endiseleri kazanclar s n rl yor",
+      "link": "https://tr.tradingview.com/news/fxstreet:9499a4b19d9e8:0"
+    },
+    {
+      "source": "investing",
+      "text": "agora ceo su zhao bin sirket hisselerinden 168 304 dolar ald",
+      "link": "https://tr.investing.com/news/insider-trading-news/agora-ceosu-zhao-bin-sirket-hisselerinden-168304-dolar-ald-93CH-4116455"
+    },
+    {
+      "source": "investing",
+      "text": "bank of america invesco trust ii hisselerini 860 dolara satt",
+      "link": "https://tr.investing.com/news/insider-trading-news/bank-of-america-invesco-trust-ii-hisselerini-860-dolara-satt-93CH-4116454"
+    },
     {
       "source": "tradingview",
       "text": "cin merkez bankas pboc usd cny referans kurunu onceki 6 7195 seviyesine k yasla 6 7180 olarak belirledi",
@@ -9602,21 +9621,6 @@
       "source": "kap",
       "text": "flap pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
       "link": "https://www.kap.org.tr/tr/Bildirim/1684207"
-    },
-    {
-      "source": "kap",
-      "text": "bvf dap ddf fpk hkg ikv mcu okd pru ycy ysl kamuyu ayd nlatma platformu duyurusu yat r m fonlar na iliskin rehberin 9 8 maddesi geregince yap lan ac klama sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684206"
-    },
-    {
-      "source": "kap",
-      "text": "egegy pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684205"
-    },
-    {
-      "source": "kap",
-      "text": "kocmt pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684204"
     }
   ],
   "research_reports_v8": {
