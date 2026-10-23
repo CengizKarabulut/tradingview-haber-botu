@@ -2,102 +2,101 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1686648",
+      "last_seen_key": "kap:1686766",
       "seen_keys": [
-        "kap:1686648",
-        "kap:1686647",
-        "kap:1686646",
-        "kap:1686645",
-        "kap:1686644",
-        "kap:1686643",
-        "kap:1686642",
-        "kap:1686641",
-        "kap:1686640",
-        "kap:1686639",
-        "kap:1686638",
-        "kap:1686637",
-        "kap:1686636",
-        "kap:1686635",
-        "kap:1686634",
-        "kap:1686633",
-        "kap:1686632",
-        "kap:1686631",
-        "kap:1686630",
-        "kap:1686629",
-        "kap:1686628",
-        "kap:1686627",
-        "kap:1686626",
-        "kap:1686625",
-        "kap:1686624",
-        "kap:1686623",
-        "kap:1686622",
-        "kap:1686621",
-        "kap:1686620",
-        "kap:1686619",
-        "kap:1686618",
-        "kap:1686617",
-        "kap:1686616",
-        "kap:1686614",
-        "kap:1686613",
-        "kap:1686612",
-        "kap:1686611",
-        "kap:1686610",
-        "kap:1686609",
-        "kap:1686608",
-        "kap:1686607",
-        "kap:1686606",
-        "kap:1686605",
-        "kap:1686604",
-        "kap:1686603",
-        "kap:1686602",
-        "kap:1686601",
-        "kap:1686600",
-        "kap:1686587",
-        "kap:1686586",
-        "kap:1686584",
-        "kap:1686583",
-        "kap:1686582",
-        "kap:1686581",
-        "kap:1686580",
-        "kap:1686579",
-        "kap:1686578",
-        "kap:1686577",
-        "kap:1686573",
-        "kap:1686571",
-        "kap:1686569",
-        "kap:1686568",
-        "kap:1686563",
-        "kap:1686562",
-        "kap:1686560",
-        "kap:1686559",
-        "kap:1686558",
-        "kap:1686557",
-        "kap:1686556",
-        "kap:1686555",
-        "kap:1686554",
-        "kap:1686553",
-        "kap:1686552",
-        "kap:1686550",
-        "kap:1686549",
-        "kap:1686548",
-        "kap:1686547",
-        "kap:1686546",
-        "kap:1686545",
-        "kap:1686544",
-        "kap:1686543",
-        "kap:1686536",
-        "kap:1686535",
-        "kap:1686534",
-        "kap:1686531",
-        "kap:1686530",
-        "kap:1686528",
-        "kap:1686526",
-        "kap:1686524",
-        "kap:1686523",
-        "kap:1686522",
-        "kap:1686521",
-        "kap:1686519",
-        "kap:1686518"
+        "kap:1686766",
+        "kap:1686765",
+        "kap:1686764",
+        "kap:1686761",
+        "kap:1686760",
+        "kap:1686759",
+        "kap:1686758",
+        "kap:1686757",
+        "kap:1686756",
+        "kap:1686755",
+        "kap:1686754",
+        "kap:1686753",
+        "kap:1686752",
+        "kap:1686751",
+        "kap:1686750",
+        "kap:1686745",
+        "kap:1686744",
+        "kap:1686743",
+        "kap:1686742",
+        "kap:1686741",
+        "kap:1686740",
+        "kap:1686739",
+        "kap:1686738",
+        "kap:1686737",
+        "kap:1686736",
+        "kap:1686735",
+        "kap:1686734",
+        "kap:1686733",
+        "kap:1686732",
+        "kap:1686731",
+        "kap:1686730",
+        "kap:1686729",
+        "kap:1686728",
+        "kap:1686727",
+        "kap:1686726",
+        "kap:1686725",
+        "kap:1686724",
+        "kap:1686723",
+        "kap:1686722",
+        "kap:1686721",
+        "kap:1686720",
+        "kap:1686719",
+        "kap:1686718",
+        "kap:1686717",
+        "kap:1686716",
+        "kap:1686715",
+        "kap:1686714",
+        "kap:1686713",
+        "kap:1686712",
+        "kap:1686711",
+        "kap:1686710",
+        "kap:1686709",
+        "kap:1686708",
+        "kap:1686707",
+        "kap:1686706",
+        "kap:1686705",
+        "kap:1686704",
+        "kap:1686703",
+        "kap:1686702",
+        "kap:1686701",
+        "kap:1686700",
+        "kap:1686699",
+        "kap:1686698",
+        "kap:1686696",
+        "kap:1686694",
+        "kap:1686693",
+        "kap:1686692",
+        "kap:1686691",
+        "kap:1686689",
+        "kap:1686687",
+        "kap:1686686",
+        "kap:1686685",
+        "kap:1686684",
+        "kap:1686683",
+        "kap:1686682",
+        "kap:1686681",
+        "kap:1686680",
+        "kap:1686679",
+        "kap:1686678",
+        "kap:1686677",
+        "kap:1686676",
+        "kap:1686675",
+        "kap:1686674",
+        "kap:1686673",
+        "kap:1686672",
+        "kap:1686671",
+        "kap:1686670",
+        "kap:1686669",
+        "kap:1686668",
+        "kap:1686667",
+        "kap:1686666",
+        "kap:1686665",
+        "kap:1686663"
       ]
     },
     "bist": {
@@ -194,8 +193,33 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6845771:0",
+      "last_seen_key": "matriks:matriks:6846092:0",
       "seen_keys": [
+        "matriks:matriks:6846092:0",
+        "matriks:matriks:6846090:0",
+        "matriks:matriks:6846076:0",
+        "matriks:matriks:6846075:0",
+        "matriks:matriks:6846074:0",
+        "matriks:matriks:6846069:0",
+        "matriks:matriks:6846068:0",
+        "matriks:matriks:6846018:0",
+        "matriks:matriks:6846013:0",
+        "matriks:matriks:6846011:0",
+        "matriks:matriks:6846002:0",
+        "matriks:matriks:6845984:0",
+        "matriks:matriks:6845968:0",
+        "matriks:matriks:6845967:0",
+        "matriks:matriks:6845964:0",
+        "matriks:matriks:6845962:0",
+        "matriks:matriks:6845956:0",
+        "matriks:matriks:6845954:0",
+        "matriks:matriks:6845926:0",
+        "matriks:matriks:6845921:0",
+        "matriks:matriks:6845903:0",
+        "matriks:matriks:6845821:0",
+        "matriks:matriks:6845809:0",
+        "matriks:matriks:6845794:0",
+        "matriks:matriks:6845778:0",
         "matriks:matriks:6845771:0",
         "matriks:matriks:6845753:0",
         "matriks:matriks:6845738:0",
@@ -261,8 +285,11 @@
       ]
     },
     "forinvest": {
-      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6adb36b758b1b941c208fd95/PICNEWS/tr/bofa-hisse-senetleri-ve-dolarda-dusus-kasim-ortasina-kadar-surebilir-23-10-26/",
+      "last_seen_key": "forinvest:https://www.foreks.com/haber/detay/6adb4d3f4a09973672cb8480/PICNEWS/tr/avrupa-bankalarinin-bilancolari-beklentilerin-altinda-kaldi-23-10-26/",
       "seen_keys": [
+        "forinvest:https://www.foreks.com/haber/detay/6adb4d3f4a09973672cb8480/PICNEWS/tr/avrupa-bankalarinin-bilancolari-beklentilerin-altinda-kaldi-23-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6adb3f014a09973672cb83c6/PICNEWS/tr/turkiye-nin-celik-uretimi-9-ayda-yuzde-6-1-artti-dunya-uretimi-geriledi-23-10-26/",
+        "forinvest:https://www.foreks.com/haber/detay/6adb3bce58b1b941c208fde2/PICNEWS/tr/forinvest-haber-borsa-kapanis-tahmini-anketi-sonuclandi-23-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6adb36b758b1b941c208fd95/PICNEWS/tr/bofa-hisse-senetleri-ve-dolarda-dusus-kasim-ortasina-kadar-surebilir-23-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6adb364f4a09973672cb8347/PICNEWS/tr/jpmorgan-zayiflama-ilaclari-pazari-cin-hindistan-ve-brezilya-da-22-milyar-dolara-ulasabilir-23-10-26/",
         "forinvest:https://www.foreks.com/haber/detay/6adb354058b1b941c208fd82/PICNEWS/tr/sanifoam-dan-30-milyon-tl-lik-pay-geri-alim-karari-23-10-26/",
@@ -273,8 +300,11 @@
       ]
     },
     "bloomberght": {
-      "last_seen_key": "bloomberght:https://www.bloomberght.com/carrefour-hisselerinde-kuresel-finans-krizinden-beri-en-sert-dusus-3792400",
+      "last_seen_key": "bloomberght:https://www.bloomberght.com/iea-baskani-birol-enerji-krizinin-2027-de-de-devam-edecegi-gorusunde-3792403",
       "seen_keys": [
+        "bloomberght:https://www.bloomberght.com/iea-baskani-birol-enerji-krizinin-2027-de-de-devam-edecegi-gorusunde-3792403",
+        "bloomberght:https://www.bloomberght.com/rusya-politika-faizini-yuzde-14-te-sabit-birakti-3792402",
+        "bloomberght:https://www.bloomberght.com/konutta-reel-dusus-derinlesti-izmir-one-cikti-3792401",
         "bloomberght:https://www.bloomberght.com/carrefour-hisselerinde-kuresel-finans-krizinden-beri-en-sert-dusus-3792400",
         "bloomberght:https://www.bloomberght.com/turk-eximbank-ile-edc-arasinda-mutabakat-zapti-3792399",
         "bloomberght:https://www.bloomberght.com/s-p-global-ratings-e-gore-turk-bankacilik-sektorunde-riskler-yonetilebilir-duzeyde-3792398",
@@ -2002,6 +2032,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "bloomberght",
+      "text": "iea baskan birol enerji krizinin 2027 devam edecegi gorusunde uluslararas enerji ajans iea baskan fatih birol 2027 enerji krizinin normalize olacag konusunda iyimser olmad g n dile getirdi",
+      "link": "https://www.bloomberght.com/iea-baskani-birol-enerji-krizinin-2027-de-de-devam-edecegi-gorusunde-3792403"
+    },
+    {
+      "source": "bloomberght",
+      "text": "rusya politika faizini yuzde 14 te sabit b rakt bankadan yap lan ac klamada ekonominin y l n ikinci yar s nda l ml buyumesini surdurdugu fiyat bask s n n enflasyon beklentilerinin yuksek seyretmeye devam ettigi belirtildi",
+      "link": "https://www.bloomberght.com/rusya-politika-faizini-yuzde-14-te-sabit-birakti-3792402"
+    },
+    {
+      "source": "bloomberght",
+      "text": "konutta reel dusus derinlesti izmir one c kt bahcesehir universitesi ekonomik toplumsal arast rmalar merkezi nin betam ekim 2026 konut piyasas raporlar na gore reel sat l k konut fiyatlar onceki y l n ayn ay na k yasla turkiye genelinde yuzde 7 8 istanbul yuzde 4 ank",
+      "link": "https://www.bloomberght.com/konutta-reel-dusus-derinlesti-izmir-one-cikti-3792401"
+    },
+    {
+      "source": "forinvest",
+      "text": "avrupa bankalar n n bilancolar beklentilerin alt nda kald avrupa bankalar ucuncu ceyrek bilanco sezonuna zay f baslang c yapt ubs nin analizine gore su ana kadar finansal sonuclar n ac klayan bankan n takip ettigi sekiz avrupa bankas n n toplam v",
+      "link": "https://www.foreks.com/haber/detay/6adb4d3f4a09973672cb8480/PICNEWS/tr/avrupa-bankalarinin-bilancolari-beklentilerin-altinda-kaldi-23-10-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "turkiye nin celik uretimi 9 ayda yuzde 6 1 artt dunya uretimi geriledi turkiye nin ham celik uretimi eylul ay nda gecen y l n ayn donemine gore yuzde 0 8 artarak 3 2 milyon tona yukseldi y l n ilk dokuz ay nda ise uretim yuzde 6 1 art sla 29 8 milyon tona ulast ayn",
+      "link": "https://www.foreks.com/haber/detay/6adb3f014a09973672cb83c6/PICNEWS/tr/turkiye-nin-celik-uretimi-9-ayda-yuzde-6-1-artti-dunya-uretimi-geriledi-23-10-26"
+    },
+    {
+      "source": "forinvest",
+      "text": "forinvest haber borsa kapan s tahmini anketi sonucland forinvest haber taraf ndan analistlerle duzenlenen ankette bist100 endeksi kapan s fark degerine iliskin medyan tahmin 247 1 puan ortalama tahmini ise 283 05 puan oldu ankette en yuksek beklenti",
+      "link": "https://www.foreks.com/haber/detay/6adb3bce58b1b941c208fde2/PICNEWS/tr/forinvest-haber-borsa-kapanis-tahmini-anketi-sonuclandi-23-10-26"
+    },
+    {
+      "source": "matriks",
+      "text": "bist k ymetli madenler piyasas nda haftal k 1 387 kg alt n 2 933 kg gumus islemi yap ld",
+      "link": "https://tr.tradingview.com/news/matriks:6846092:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bist k ymetli madenler piyasas nda bugun 879 kg alt n 1 120 kg gumus islemi yap ld",
+      "link": "https://tr.tradingview.com/news/matriks:6846090:0"
+    },
+    {
+      "source": "matriks",
+      "text": "cin enerji idaresi onumuzdeki donemde petrol dogal gaz uretimini arz kapasitesini art rmak mumkun olan her sey yap lmal",
+      "link": "https://tr.tradingview.com/news/matriks:6846076:0"
+    },
+    {
+      "source": "matriks",
+      "text": "cin enerji idaresi ulusal duzeyde birden fazla petrol dogal gaz stratejik rezerv ussunun kurulmas h zland r lmal",
+      "link": "https://tr.tradingview.com/news/matriks:6846075:0"
+    },
+    {
+      "source": "matriks",
+      "text": "cin enerji idaresi petrol dogal gaz sirketleri ulusal enerji guvenliginin korunmas nda temel sorumlulugu ustlenmeli",
+      "link": "https://tr.tradingview.com/news/matriks:6846074:0"
+    },
+    {
+      "source": "matriks",
+      "text": "yurt d s gunluk bulten phillipcapital",
+      "link": "https://tr.tradingview.com/news/matriks:6846069:0"
+    },
+    {
+      "source": "matriks",
+      "text": "haftal k alt n raporu ahlatc yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6846068:0"
+    },
+    {
+      "source": "matriks",
+      "text": "rusya merkez bankas baskan nabiullina rusya abd dizel anlasmas enflasyonu onemli olcude etkilemeyecek",
+      "link": "https://tr.tradingview.com/news/matriks:6846018:0"
+    },
+    {
+      "source": "matriks",
+      "text": "seker yat r m eregl 42 24 tl hedef fiyat belirledi al tavsiyesini korudu onceki hedef fiyat 42 24 tl",
+      "link": "https://tr.tradingview.com/news/matriks:6846013:0"
+    },
+    {
+      "source": "matriks",
+      "text": "cboe volatilite endeksi vix 0 94 puan yukselerek 19 96 seviyesine c kt",
+      "link": "https://tr.tradingview.com/news/matriks:6846011:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ebebek 2026 y l ucuncu ceyrek finansal sonuclar n ac klad",
+      "link": "https://tr.tradingview.com/news/matriks:6846002:0"
+    },
+    {
+      "source": "matriks",
+      "text": "kanada merkez bankas anketi gelecekte ihracat art s bekledigini bildiren firmalar n net dengesi ucuncu ceyrekte yukseldi",
+      "link": "https://tr.tradingview.com/news/matriks:6845984:0"
+    },
+    {
+      "source": "matriks",
+      "text": "hindistan merkez bankas baskan fiyat istikrar n saglama hedefinde kararl y z",
+      "link": "https://tr.tradingview.com/news/matriks:6845968:0"
+    },
+    {
+      "source": "matriks",
+      "text": "hindistan merkez bankas baskan para politikas n n finansal istikrar kullan ld g zamanlar olabilir buna ihtiyac olup olmad g n para politikas kurulu degerlendirecek",
+      "link": "https://tr.tradingview.com/news/matriks:6845967:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bilanco analizi eregl seker yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6845964:0"
+    },
+    {
+      "source": "matriks",
+      "text": "hindistan merkez bankas baskan finansal istikrar olmadan fiyat istikrar n saglayamazs n z iki hedef birbirine bagl d r",
+      "link": "https://tr.tradingview.com/news/matriks:6845962:0"
+    },
+    {
+      "source": "matriks",
+      "text": "hindistan merkez bankas baskan ndtv zirvesi para politikas genel olarak finansal istikrar arac degildir",
+      "link": "https://tr.tradingview.com/news/matriks:6845956:0"
+    },
+    {
+      "source": "matriks",
+      "text": "takasbank para piyasas nda bugun 88 milyar 37 milyon tl lik islem hacmi gerceklesti",
+      "link": "https://tr.tradingview.com/news/matriks:6845954:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ac l s oncesi kuresel piyasalar bulteni info yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6845926:0"
+    },
+    {
+      "source": "matriks",
+      "text": "rusya merkez bankas baskan nabiullina mali istikrara yonelik su anda risk yok",
+      "link": "https://tr.tradingview.com/news/matriks:6845903:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bilanco analizi eregl anadolu yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6845821:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd wti ham petrolu orta dogu artan gerilimlere iliskin endiselerle varil bas na 2 dolar n uzerinde yukselerek 101 62 dolara c kt",
+      "link": "https://tr.tradingview.com/news/matriks:6845809:0"
+    },
+    {
+      "source": "matriks",
+      "text": "rusya merkez bankas baskan nabiullina gelecek y l faiz indirimleri alan var",
+      "link": "https://tr.tradingview.com/news/matriks:6845794:0"
+    },
+    {
+      "source": "matriks",
+      "text": "rusya merkez bankas baskan nabiullina bugun sadece politika faiiznin sabit tutulmas n muzakere ettik",
+      "link": "https://tr.tradingview.com/news/matriks:6845778:0"
+    },
     {
       "source": "bloomberght",
       "text": "carrefour hisselerinde kuresel finans krizinden beri en sert dusus supermarket zinciri carrefour un hisseleri fransa genelinde yasanan protestolar n tum y l gorunumunu olumsuz etkileyecegi uyar s n n ard ndan kuresel finans krizinden yana en kotu haftas n kaydetmeye haz rlan yor",
@@ -9351,156 +9531,6 @@
       "source": "kap",
       "text": "katvk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faizsiz trdktlme2631 yurtici kira sertifikas ihrac n n itfa kupon odemesi sirket katilim varlik kiralama a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1684486"
-    },
-    {
-      "source": "kap",
-      "text": "tmsn pay baz nda devre kesici bildirimi tmsn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684481"
-    },
-    {
-      "source": "kap",
-      "text": "afb aktif pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon oran belirlenmesi sirket aktif yatirim bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684479"
-    },
-    {
-      "source": "kap",
-      "text": "dnisi ozel durum ac klamas genel yonetici sorumluluk sigortas yenilemesi hakk nda sirket dinamik isi makina yalitim malzemeleri sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684478"
-    },
-    {
-      "source": "kap",
-      "text": "cagfa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfcgdfe2625 isin kodlu ihrac n 4 kupon faiz oran n n belirlenmesi sirket cagdas faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684477"
-    },
-    {
-      "source": "kap",
-      "text": "fny qnbin sirket genel bilgi formu sirket qnb yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684475"
-    },
-    {
-      "source": "kap",
-      "text": "etyat ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro trend yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684474"
-    },
-    {
-      "source": "kap",
-      "text": "eukyo ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro kapital yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684473"
-    },
-    {
-      "source": "kap",
-      "text": "clkmt pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren kupon oran belirlenmesi sirket celik motor ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684472"
-    },
-    {
-      "source": "kap",
-      "text": "euyo ozel durum ac klamas genel bias olusan ag rl kl ortalama fiyat n pay bas na net aktif degerin 2 kat n asmas sirket euro menkul kiymet yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684471"
-    },
-    {
-      "source": "kap",
-      "text": "bascm hak kullan m sirket borsa istanbul a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684470"
-    },
-    {
-      "source": "kap",
-      "text": "brisa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trsbrsa42716 isin kodlu tahvilin 2 kupon faiz oran n n belirlenmesi sirket brisa bridgestone sabanci lastik sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684469"
-    },
-    {
-      "source": "kap",
-      "text": "blcyt ozel durum ac klamas genel bag ms z yonetim kurulu uyesi atamas sirket bilici yatirim sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684468"
-    },
-    {
-      "source": "kap",
-      "text": "aksa eregl borsada islem goren tipe donusum duyurusu donusum sirket merkezi kayit kurulusu a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684467"
-    },
-    {
-      "source": "kap",
-      "text": "katmr genel kurul islemlerine iliskin bildirim 2025 y l olagan genel kurul 2 toplant cagr s hk sirket katmerciler arac ustu ekipman sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684462"
-    },
-    {
-      "source": "kap",
-      "text": "vangd pay baz nda devre kesici bildirimi vangd e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684461"
-    },
-    {
-      "source": "kap",
-      "text": "ykb ykbnk pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren yurtd s nda borclanma arac ihrac n n tamamlanmas sirket yapi kredi bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684460"
-    },
-    {
-      "source": "kap",
-      "text": "vakfn ozel durum ac klamas genel ihrac tavan na iliskin al nan yonetim kurulu karar hk sirket vakif finansal kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684459"
-    },
-    {
-      "source": "kap",
-      "text": "kgyo pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren finansman bonosu erken itfa sirket koray gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684454"
-    },
-    {
-      "source": "kap",
-      "text": "kgyo pay d s sermaye piyasas arac al m sat m bildirimi finansman bonosu geri al m hk sirket koray gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684450"
-    },
-    {
-      "source": "kap",
-      "text": "krtek esas sozlesme guncel esas sozlesme sirket karsu tekstil sanayii ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684449"
-    },
-    {
-      "source": "kap",
-      "text": "sirket genel bilgi formu sirket hlb saygin bagimsiz denetim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684442"
-    },
-    {
-      "source": "kap",
-      "text": "trate kredi derecelendirmesi kredi derecelendirme notunun ask ya al nmas sirket istanbul uluslararasi derecelendirme hizmetleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684431"
-    },
-    {
-      "source": "kap",
-      "text": "bigtk pay baz nda devre kesici bildirimi bigtk e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684430"
-    },
-    {
-      "source": "kap",
-      "text": "krtek sermaye art r m azalt m islemlerine iliskin bildirim sermaye art r m n n tescili sirket karsu tekstil sanayii ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684429"
-    },
-    {
-      "source": "kap",
-      "text": "euyo pay baz nda devre kesici bildirimi euyo e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684428"
-    },
-    {
-      "source": "kap",
-      "text": "takasbank para piyasas gunluk bulten sirket istanbul takas saklama bankasi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684427"
-    },
-    {
-      "source": "kap",
-      "text": "arena tsrs uyumlu surdurulebilirlik raporu tsrs uyumlu 01 04 2025 31 03 2026 donemi surdurulebilirlik raporu sirket arena bilgisayar sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684426"
-    },
-    {
-      "source": "kap",
-      "text": "ozrdn pay baz nda devre kesici bildirimi ozrdn e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684425"
-    },
-    {
-      "source": "kap",
-      "text": "trffa pay d s nda sermaye piyasas arac islemlerine iliskin bildirim faiz iceren trfaren42718 isin kodlu ihrac n 2 kupon faiz odemesi sirket tera finans faktoring a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684424"
-    },
-    {
-      "source": "kap",
-      "text": "ktlev pay baz nda devre kesici bildirimi ktlev e islem s ras nda pay baz nda devre kesici uygulamas devreye girmistir sirket borsa istanbul bistech devre kesici uygulamasi",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684416"
     }
   ],
   "research_reports_v8": {
