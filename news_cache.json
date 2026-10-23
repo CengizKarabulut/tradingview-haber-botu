@@ -2,112 +2,101 @@
   "source_version": "multi-source-v3",
   "sources": {
     "kap": {
-      "last_seen_key": "kap:1686791",
+      "last_seen_key": "kap:1687021",
       "seen_keys": [
-        "kap:1686791",
-        "kap:1686790",
-        "kap:1686789",
-        "kap:1686788",
-        "kap:1686787",
-        "kap:1686774",
-        "kap:1686772",
-        "kap:1686771",
-        "kap:1686770",
-        "kap:1686769",
-        "kap:1686767",
-        "kap:1686766",
-        "kap:1686765",
-        "kap:1686764",
-        "kap:1686761",
-        "kap:1686760",
-        "kap:1686759",
-        "kap:1686758",
-        "kap:1686757",
-        "kap:1686756",
-        "kap:1686755",
-        "kap:1686754",
-        "kap:1686753",
-        "kap:1686752",
-        "kap:1686751",
-        "kap:1686750",
-        "kap:1686745",
-        "kap:1686744",
-        "kap:1686743",
-        "kap:1686742",
-        "kap:1686741",
-        "kap:1686740",
-        "kap:1686739",
-        "kap:1686738",
-        "kap:1686737",
-        "kap:1686736",
-        "kap:1686735",
-        "kap:1686734",
-        "kap:1686733",
-        "kap:1686732",
-        "kap:1686731",
-        "kap:1686730",
-        "kap:1686729",
-        "kap:1686728",
-        "kap:1686727",
-        "kap:1686726",
-        "kap:1686725",
-        "kap:1686724",
-        "kap:1686723",
-        "kap:1686722",
-        "kap:1686721",
-        "kap:1686720",
-        "kap:1686719",
-        "kap:1686718",
-        "kap:1686717",
-        "kap:1686716",
-        "kap:1686715",
-        "kap:1686714",
-        "kap:1686713",
-        "kap:1686712",
-        "kap:1686711",
-        "kap:1686710",
-        "kap:1686709",
-        "kap:1686708",
-        "kap:1686707",
-        "kap:1686706",
-        "kap:1686705",
-        "kap:1686704",
-        "kap:1686703",
-        "kap:1686702",
-        "kap:1686701",
-        "kap:1686700",
-        "kap:1686699",
-        "kap:1686698",
-        "kap:1686696",
-        "kap:1686694",
-        "kap:1686693",
-        "kap:1686692",
-        "kap:1686691",
-        "kap:1686689",
-        "kap:1686687",
-        "kap:1686686",
-        "kap:1686685",
-        "kap:1686684",
-        "kap:1686683",
-        "kap:1686682",
-        "kap:1686681",
-        "kap:1686680",
-        "kap:1686679",
-        "kap:1686678",
-        "kap:1686677",
-        "kap:1686676",
-        "kap:1686675",
-        "kap:1686674",
-        "kap:1686673",
-        "kap:1686672",
-        "kap:1686671",
-        "kap:1686670",
-        "kap:1686669",
-        "kap:1686668",
-        "kap:1686667",
-        "kap:1686666",
-        "kap:1686665",
-        "kap:1686663"
+        "kap:1687021",
+        "kap:1687020",
+        "kap:1687018",
+        "kap:1687017",
+        "kap:1687016",
+        "kap:1687015",
+        "kap:1687014",
+        "kap:1687013",
+        "kap:1687012",
+        "kap:1687011",
+        "kap:1687010",
+        "kap:1687009",
+        "kap:1687008",
+        "kap:1687007",
+        "kap:1687006",
+        "kap:1687005",
+        "kap:1687004",
+        "kap:1686999",
+        "kap:1686998",
+        "kap:1686997",
+        "kap:1686996",
+        "kap:1686995",
+        "kap:1686994",
+        "kap:1686993",
+        "kap:1686992",
+        "kap:1686990",
+        "kap:1686989",
+        "kap:1686988",
+        "kap:1686987",
+        "kap:1686986",
+        "kap:1686984",
+        "kap:1686983",
+        "kap:1686982",
+        "kap:1686981",
+        "kap:1686980",
+        "kap:1686979",
+        "kap:1686978",
+        "kap:1686977",
+        "kap:1686976",
+        "kap:1686975",
+        "kap:1686974",
+        "kap:1686973",
+        "kap:1686972",
+        "kap:1686971",
+        "kap:1686970",
+        "kap:1686969",
+        "kap:1686968",
+        "kap:1686967",
+        "kap:1686966",
+        "kap:1686964",
+        "kap:1686963",
+        "kap:1686962",
+        "kap:1686960",
+        "kap:1686959",
+        "kap:1686958",
+        "kap:1686957",
+        "kap:1686956",
+        "kap:1686955",
+        "kap:1686954",
+        "kap:1686953",
+        "kap:1686952",
+        "kap:1686951",
+        "kap:1686950",
+        "kap:1686949",
+        "kap:1686948",
+        "kap:1686947",
+        "kap:1686946",
+        "kap:1686945",
+        "kap:1686944",
+        "kap:1686943",
+        "kap:1686942",
+        "kap:1686941",
+        "kap:1686940",
+        "kap:1686939",
+        "kap:1686938",
+        "kap:1686937",
+        "kap:1686936",
+        "kap:1686935",
+        "kap:1686934",
+        "kap:1686933",
+        "kap:1686932",
+        "kap:1686931",
+        "kap:1686929",
+        "kap:1686927",
+        "kap:1686926",
+        "kap:1686925",
+        "kap:1686924",
+        "kap:1686923",
+        "kap:1686922",
+        "kap:1686920",
+        "kap:1686919",
+        "kap:1686917",
+        "kap:1686916"
       ]
     },
     "bist": {
@@ -204,8 +193,38 @@
       ]
     },
     "matriks": {
-      "last_seen_key": "matriks:matriks:6846105:0",
+      "last_seen_key": "matriks:matriks:6846491:0",
       "seen_keys": [
+        "matriks:matriks:6846491:0",
+        "matriks:matriks:6846487:0",
+        "matriks:matriks:6846497:0",
+        "matriks:matriks:6846490:0",
+        "matriks:matriks:6846495:0",
+        "matriks:matriks:6846489:0",
+        "matriks:matriks:6846492:0",
+        "matriks:matriks:6846478:0",
+        "matriks:matriks:6846479:0",
+        "matriks:matriks:6846486:0",
+        "matriks:matriks:6846483:0",
+        "matriks:matriks:6846482:0",
+        "matriks:matriks:6846484:0",
+        "matriks:matriks:6846481:0",
+        "matriks:matriks:6846480:0",
+        "matriks:matriks:6846477:0",
+        "matriks:matriks:6846474:0",
+        "matriks:matriks:6846476:0",
+        "matriks:matriks:6846475:0",
+        "matriks:matriks:6846472:0",
+        "matriks:matriks:6846471:0",
+        "matriks:matriks:6846456:0",
+        "matriks:matriks:6846424:0",
+        "matriks:matriks:6846351:0",
+        "matriks:matriks:6846350:0",
+        "matriks:matriks:6846270:0",
+        "matriks:matriks:6846227:0",
+        "matriks:matriks:6846183:0",
+        "matriks:matriks:6846176:0",
+        "matriks:matriks:6846157:0",
         "matriks:matriks:6846105:0",
         "matriks:matriks:6846092:0",
         "matriks:matriks:6846090:0",
@@ -2092,6 +2111,156 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "matriks",
+      "text": "aifd yenilikci ilaclar sempozyumu nda inovasyondan erisime butunsel donusum ele al nacak",
+      "link": "https://tr.tradingview.com/news/matriks:6846491:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bilgi iletisimde istihdam azal rken finansta art yor",
+      "link": "https://tr.tradingview.com/news/matriks:6846487:0"
+    },
+    {
+      "source": "matriks",
+      "text": "elita g kuresel bitkisel yag pazar nda guvenilir tedarik surdurulebilir is birliklerine odakland",
+      "link": "https://tr.tradingview.com/news/matriks:6846497:0"
+    },
+    {
+      "source": "matriks",
+      "text": "hdi fibaemeklilik marks spencer dan meme kanseri fark ndal g na destek",
+      "link": "https://tr.tradingview.com/news/matriks:6846490:0"
+    },
+    {
+      "source": "matriks",
+      "text": "kron teknoloji kritik php ac klar na kars yama guncelleme cal smalar n n yan s ra kurumlar n ayr cal kl erisimleri gozden gecirmesi gerektigine dikkat cekiyor",
+      "link": "https://tr.tradingview.com/news/matriks:6846495:0"
+    },
+    {
+      "source": "matriks",
+      "text": "samsung beyaz esya tv kucuk ev aletlerinde turkiye nin en guvenilir markas secildi",
+      "link": "https://tr.tradingview.com/news/matriks:6846489:0"
+    },
+    {
+      "source": "matriks",
+      "text": "togg t10f 4more kehribar serisi yollara c k yor",
+      "link": "https://tr.tradingview.com/news/matriks:6846492:0"
+    },
+    {
+      "source": "matriks",
+      "text": "aksigorta ozel sagl k sigortas nda 10 50 yas aras ndaki sigortal lara yuzde 40 indirim sunan kampanyas n baslatt",
+      "link": "https://tr.tradingview.com/news/matriks:6846478:0"
+    },
+    {
+      "source": "matriks",
+      "text": "albaraka garaj ankara h zland rma program on basvuru sureci resmen baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6846479:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bogazici zirvesi 70 ulkeden ust duzey temsilciyi istanbul bulusturacak",
+      "link": "https://tr.tradingview.com/news/matriks:6846486:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bupa turkiye ceo gorevine ebru keskin kulalar atand",
+      "link": "https://tr.tradingview.com/news/matriks:6846483:0"
+    },
+    {
+      "source": "matriks",
+      "text": "entegre harc uc y lda ar ge cal smalar sonucunda gelistirdigi urunleri ticari basar ya donusturuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6846482:0"
+    },
+    {
+      "source": "matriks",
+      "text": "kardemir celik in yonetim kurulu uyesi ozlem bak rel ayd n sanayi odas meclis uyeligine secildi",
+      "link": "https://tr.tradingview.com/news/matriks:6846484:0"
+    },
+    {
+      "source": "matriks",
+      "text": "opet turkiye nin en guvenilir markas oldu",
+      "link": "https://tr.tradingview.com/news/matriks:6846481:0"
+    },
+    {
+      "source": "matriks",
+      "text": "vodafone flex apple samsung huawei xiaomi nin en yeni ak ll saat modellerini tek cat alt nda bulusturuyor",
+      "link": "https://tr.tradingview.com/news/matriks:6846480:0"
+    },
+    {
+      "source": "matriks",
+      "text": "canon vision canon un buyuyen icerik ureticileri toplulugunu kez kapadokya araya getirdi",
+      "link": "https://tr.tradingview.com/news/matriks:6846477:0"
+    },
+    {
+      "source": "matriks",
+      "text": "eset sagl k sigortas doland r c l g ilgili uyar lar n paylast",
+      "link": "https://tr.tradingview.com/news/matriks:6846474:0"
+    },
+    {
+      "source": "matriks",
+      "text": "sonos ev sinemas kisisel dinleme urun yelpazesini genisleten yeni urunleri sonos beam ultra sonos ace ultra y tan tt",
+      "link": "https://tr.tradingview.com/news/matriks:6846476:0"
+    },
+    {
+      "source": "matriks",
+      "text": "sagl kl fikrim var proje yar smas ucuncu kez basvurulara ac ld",
+      "link": "https://tr.tradingview.com/news/matriks:6846475:0"
+    },
+    {
+      "source": "matriks",
+      "text": "borsa istanbul gunu 103 38 puan 0 92 dususle kapatt matriks haber anketi 175 94 puan",
+      "link": "https://tr.tradingview.com/news/matriks:6846472:0"
+    },
+    {
+      "source": "matriks",
+      "text": "bayraktar slovakya basbakan yard mc s dogal gaz tedarikinden nukleer enerjiye yenilenebilir kaynaklardan enerji verimliligine arz guvenligine kadar genis yelpazedeki is birligi imkanlar n degerlendirdik",
+      "link": "https://tr.tradingview.com/news/matriks:6846471:0"
+    },
+    {
+      "source": "matriks",
+      "text": "tcmb ag rl kl ortalama fonlama maliyeti 23 ekim itibar yla 36 04 tcmb",
+      "link": "https://tr.tradingview.com/news/matriks:6846456:0"
+    },
+    {
+      "source": "matriks",
+      "text": "ozel haber bilanco donemi baslad matriks haber anketinde beklentisi bulunan dort sirketin net kar tahminleri ast",
+      "link": "https://tr.tradingview.com/news/matriks:6846424:0"
+    },
+    {
+      "source": "matriks",
+      "text": "merkez bankas n n sonraki is gunu ac klad g gecici rezerv 865372 2 milyon tl",
+      "link": "https://tr.tradingview.com/news/matriks:6846351:0"
+    },
+    {
+      "source": "matriks",
+      "text": "haftal k bulten is bankas",
+      "link": "https://tr.tradingview.com/news/matriks:6846350:0"
+    },
+    {
+      "source": "matriks",
+      "text": "kredi mevduat faiz oranlar bizim menkul",
+      "link": "https://tr.tradingview.com/news/matriks:6846270:0"
+    },
+    {
+      "source": "matriks",
+      "text": "gelecek hafta ac klanacak onemli veriler takvim",
+      "link": "https://tr.tradingview.com/news/matriks:6846227:0"
+    },
+    {
+      "source": "matriks",
+      "text": "abd tahvili getirileri pmi verilerinin ard ndan yukselisini surdurdu 10 y ll k abd tahvilinin getirisi olarak 3 74 baz puan art sla 4 99 seviyesine yukseldi",
+      "link": "https://tr.tradingview.com/news/matriks:6846183:0"
+    },
+    {
+      "source": "matriks",
+      "text": "haftal k bulten akbank ekonomik arast rmalar ak yat r m",
+      "link": "https://tr.tradingview.com/news/matriks:6846176:0"
+    },
+    {
+      "source": "matriks",
+      "text": "new york borsas sat c l baslad",
+      "link": "https://tr.tradingview.com/news/matriks:6846157:0"
+    },
     {
       "source": "tradingview",
       "text": "4 000 alt n sert sat s dalgas n n ard ndan zeminini korumaya cal s yor",
@@ -9441,156 +9610,6 @@
       "source": "kap",
       "text": "krvgd paylar n geri al nmas na iliskin bildirim 20 10 2026 tarihli pay geri al m islemleri sirket kervan gida sanayi ticaret a s",
       "link": "https://www.kap.org.tr/tr/Bildirim/1684634"
-    },
-    {
-      "source": "kap",
-      "text": "selec paylar n geri al nmas na iliskin bildirim 20 10 2026 tarihli pay geri al m islemleri sirket selcuk ecza deposu ticaret sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684633"
-    },
-    {
-      "source": "kap",
-      "text": "taten paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket tatlipinar enerji uretim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684632"
-    },
-    {
-      "source": "kap",
-      "text": "escar paylar n geri al nmas na iliskin bildirim sirket paylar n n geri al m na iliskin bildirim hk sirket escar filo kiralama hizmetleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684631"
-    },
-    {
-      "source": "kap",
-      "text": "klgyo paylar n geri al nmas na iliskin bildirim pay geri al m islemleri sirket kiler gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684630"
-    },
-    {
-      "source": "kap",
-      "text": "klrho paylar n geri al nmas na iliskin bildirim pay geri al m islemleri sirket kiler holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684629"
-    },
-    {
-      "source": "kap",
-      "text": "kcp faaliyet raporu konsolide olmayan 30 09 2026 faaliyet raporu sirket yapi kredi portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684628"
-    },
-    {
-      "source": "kap",
-      "text": "kcp finansal rapor sirket yapi kredi portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684627"
-    },
-    {
-      "source": "kap",
-      "text": "akfis paylar n geri al nmas na iliskin bildirim 20 10 2026 tarihli pay geri al m islemleri hk sirket akfen insaat turizm ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684626"
-    },
-    {
-      "source": "kap",
-      "text": "kocmt paylar n geri al nmas na iliskin bildirim 20 10 2026 tarihli pay geri al m islemleri hk sirket koc metalurji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684625"
-    },
-    {
-      "source": "kap",
-      "text": "kcp sorumluluk beyan konsolide olmayan 30 09 2026 sorumluluk beyan sirket yapi kredi portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684624"
-    },
-    {
-      "source": "kap",
-      "text": "tralt pay al m sat m bildirimi tr anadolu metal madencilik isletmeleri a s paylar nda al m bildirimi sirket turk altin isletmeleri a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684623"
-    },
-    {
-      "source": "kap",
-      "text": "gedik paylar n geri al nmas na iliskin bildirim 20 10 2026 tarihli pay geri al m islemleri sirket gedik yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684622"
-    },
-    {
-      "source": "kap",
-      "text": "zergy paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket zeray gayrimenkul yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684621"
-    },
-    {
-      "source": "kap",
-      "text": "enery paylar n geri al nmas na iliskin bildirim 20 10 2026 tarihli pay geri al m islemleri sirket enerya enerji a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684620"
-    },
-    {
-      "source": "kap",
-      "text": "ahgaz paylar n geri al nmas na iliskin bildirim 20 10 2026 tarihli pay geri al m islemleri sirket ahlatci dogal gaz dagitim enerji yatirim a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684608"
-    },
-    {
-      "source": "kap",
-      "text": "bulgs paylar n geri al nmas na iliskin bildirim pay geri al m islemleri sirket bulls girisim sermayesi yatirim ortakligi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684607"
-    },
-    {
-      "source": "kap",
-      "text": "oya oyyat piyasa yap c l g kapsam nda gerceklestirilen islemler bildirimi 20 10 2026 tarihli oyayo piyasa yapiciligi islemleri sirket oyak yatirim menkul degerler a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684606"
-    },
-    {
-      "source": "kap",
-      "text": "gyvar ihrac tavan na iliskin bildirim kira sertifikas ihrac na iliskin yonetim kurulu karar al nmas hakk nda sirket gy varlik kiralama a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684605"
-    },
-    {
-      "source": "kap",
-      "text": "rnpol paylar n geri al nmas na iliskin bildirim pay geri al m7 sirket rainbow polikarbonat sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684604"
-    },
-    {
-      "source": "kap",
-      "text": "eup sorumluluk beyan konsolide olmayan global md portfoy yonetimi a s 30 09 2026 tarihli sorumluluk beyan sirket global md portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684603"
-    },
-    {
-      "source": "kap",
-      "text": "sirket genel bilgi formu sirket hdi fiba emeklilik hayat a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684602"
-    },
-    {
-      "source": "kap",
-      "text": "eup faaliyet raporu konsolide olmayan global md portfoy yonetimi a s 30 06 2026 tarihli faaliyet raporu sirket global md portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684601"
-    },
-    {
-      "source": "kap",
-      "text": "eup finansal rapor sirket global md portfoy yonetimi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684600"
-    },
-    {
-      "source": "kap",
-      "text": "inveo sirket genel bilgi formu sirket inveo yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684599"
-    },
-    {
-      "source": "kap",
-      "text": "suntk sirket genel bilgi formu sirket sun tekstil sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684598"
-    },
-    {
-      "source": "kap",
-      "text": "inveo ozel durum ac klamas genel yat r mc iliskileri muduru atamas hk sirket inveo yatirim holding a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684597"
-    },
-    {
-      "source": "kap",
-      "text": "albtn paylar n geri al nmas na iliskin bildirim 20 10 2026 tarihli pay geri al m islemleri sirket albayrak hazir beton sanayi ticaret a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684596"
-    },
-    {
-      "source": "kap",
-      "text": "kpeks paylar n geri al nmas na iliskin bildirim paylar n geri al nmas na iliskin bildirim sirket kapeks kimya sanayi a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684595"
-    },
-    {
-      "source": "kap",
-      "text": "sek skbnk izahname spk taraf ndan onaylanan bedelli sermaye art r m na iliskin izahnamenin spk taraf ndan onaylanmas sirket sekerbank t a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684594"
-    },
-    {
-      "source": "kap",
-      "text": "sek skbnk sermaye art r m azalt m islemlerine iliskin bildirim bedelli sermaye art r m na iliskin izahnamenin spk taraf ndan onaylanmas sirket sekerbank t a s",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684593"
     }
   ],
   "research_reports_v8": {
