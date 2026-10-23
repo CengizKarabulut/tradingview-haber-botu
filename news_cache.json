@@ -1608,8 +1608,9 @@
       ]
     },
     "tradingview": {
-      "last_seen_key": "tradingview:fxstreet:9499a4b19d9e8:0",
+      "last_seen_key": "tradingview:fxstreet:29b7d0315d9e8:0",
       "seen_keys": [
+        "tradingview:fxstreet:29b7d0315d9e8:0",
         "tradingview:fxstreet:9499a4b19d9e8:0",
         "tradingview:fxstreet:b32af1c1fd9e8:0",
         "tradingview:fxstreet:c8c13bd9ed9e8:0",
@@ -2108,8 +2109,7 @@
         "tradingview:matriks:6833140:0",
         "tradingview:matriks:6833096:0",
         "tradingview:beincrypto:69cca43f3d9e8:0",
-        "tradingview:matriks:6833083:0",
-        "tradingview:matriks:6833077:0"
+        "tradingview:matriks:6833083:0"
       ]
     },
     "forexfactory": {
@@ -2122,6 +2122,11 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "tradingview",
+      "text": "ingiliz sterlini s cak tufe verilerinin boe faiz art r m beklentilerini koruklemesiyle 1 3400 seviyesinin uzerinde kazanclar n koruyor",
+      "link": "https://tr.tradingview.com/news/fxstreet:29b7d0315d9e8:0"
+    },
     {
       "source": "tradingview",
       "text": "euro usd sat slar h z kesmeden devam ederken yukseliyor fransa n n borc endiseleri kazanclar s n rl yor",
@@ -9616,11 +9621,6 @@
       "source": "kap",
       "text": "bioen pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
       "link": "https://www.kap.org.tr/tr/Bildirim/1684208"
-    },
-    {
-      "source": "kap",
-      "text": "flap pay al m sat m bildirimi pay al m sat m bildirimi sirket kamuyu aydinlatma platformu",
-      "link": "https://www.kap.org.tr/tr/Bildirim/1684207"
     }
   ],
   "research_reports_v8": {
