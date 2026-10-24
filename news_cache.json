@@ -655,6 +655,7 @@
         "cnbce:https://www.cnbce.com/borsa/aselsandan-yeni-is-iliskisi-4425-milyon-dolara-imza-atildi-h40140",
         "cnbce:https://www.cnbce.com/borsa/bimde-mustafa-latif-topbastan-dikkat-ceken-hisse-geri-alimi-h40134",
         "cnbce:https://www.cnbce.com/borsa/bist-temettu-endekslerinde-yeni-donem-hangi-hisseler-eklendi-hangileri-cikarildi-h40115",
+        "cnbce:https://www.cnbce.com/haberler/sanayi-ve-teknoloji-bakanligina-uc-yil-icin-8812-milyar-liralik-kaynak-h40209",
         "cnbce:https://www.cnbce.com/haberler/hatay-havalimanini-yenileme-calismalari-yil-sonuna-kadar-tamamlanacak-h40206",
         "cnbce:https://www.cnbce.com/haberler/tupras-dev-isbirligine-imzayi-atti-abd-ticaret-ve-kalkinma-ajansi-ile-smr-anlasmasi-h40203",
         "cnbce:https://www.cnbce.com/haberler/turkiye-ve-kanada-arasinda-10-milyar-dolarlik-ticaret-hedefi-deikten-hayal-degil-yaniti-h40202",
@@ -662,9 +663,9 @@
         "cnbce:https://www.cnbce.com/haberler/7-ilde-hazineye-ait-tasinmazlar-ozellestirilecek-istanbul-ankara-ve-izmir-de-listede-h40199",
         "cnbce:https://www.cnbce.com/haberler/istanbulda-bugun-bazi-yollar-kapali-olacak-h40198",
         "cnbce:https://www.cnbce.com/haberler/imfden-turkiye-hakkinda-kritik-rapor-mali-seffaflikta-ust-siralarda-h40197",
-        "cnbce:https://www.cnbce.com/haberler/protestolar-sonrasi-kritik-hale-gelmisti-moodysten-fransa-aciklamasi-h40196",
         "cnbce:https://www.cnbce.com/son-dakika/fonlarin-tasfiyesine-iliskin-kanun-teklifi-meclisten-gecti-iste-yasanin-detaylari-h40104",
         "cnbce:https://www.cnbce.com/dunya/ingiltere-ekonomisinde-8-ayin-en-hizli-buyumesi-pmi-verileri-yukseldi-h40175",
+        "cnbce:https://www.cnbce.com/haberler/protestolar-sonrasi-kritik-hale-gelmisti-moodysten-fransa-aciklamasi-h40196",
         "cnbce:https://www.cnbce.com/haberler/musktan-ukrayna-yonetimine-sert-suclama-elitler-zenginlesiyor-halkin-cocuklari-oluyor-h40195",
         "cnbce:https://www.cnbce.com/haberler/trumptan-irana-yeni-saldiri-sinyali-bir-epic-fury-daha-yapabiliriz-h40193",
         "cnbce:https://www.cnbce.com/haberler/bankacilik-sektorunde-grev-alarmi-150-bin-calisan-icin-kritik-hafta-h40192",
@@ -1012,8 +1013,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/insider-trading-news/kohls-hukuk-muduru-550560-dolarlk-hisse-satt-93CH-4118448",
+      "last_seen_key": "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-bwfgnin-109luk-kazancn-onceden-tespit-etti-93CH-4118450",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-bwfgnin-109luk-kazancn-onceden-tespit-etti-93CH-4118450",
+        "investing:https://tr.investing.com/news/investment-ideas/propetronun-49luk-dususu-gercege-uygun-deger-nasl-uyard-93CH-4118449",
         "investing:https://tr.investing.com/news/insider-trading-news/kohls-hukuk-muduru-550560-dolarlk-hisse-satt-93CH-4118448",
         "investing:https://tr.investing.com/news/general-news/paris-yeni-protestolar-oncesi-guvenlik-guclerini-konuslandrd-4118447",
         "investing:https://tr.investing.com/news/company-news/alaska-lng-gelistiricisi-rus-sirket-finansman-nedeniyle-inceleniyor-4118445",
@@ -1022,8 +1025,6 @@
         "investing:https://tr.investing.com/news/insider-trading-news/travelers-baskan-schnitzer-353-milyon-dolarlk-hisse-satt-93CH-4118441",
         "investing:https://tr.investing.com/news/economy-news/ukrayna-askeri-starlink-hizmeti-10-gunluk-kesintiden-sonra-normale-dondu-4118440",
         "investing:https://tr.investing.com/news/insider-trading-news/nexus-capital-rent-the-runway-hisselerinden-225-milyon-dolar-ald-93CH-4118438",
-        "investing:https://tr.investing.com/news/insider-trading-news/chs-us-investments-rent-the-runway-hisselerinden-16-milyon-dolar-ald-93CH-4118437",
-        "investing:https://tr.investing.com/news/insider-trading-news/ibotta-ceosu-bryan-leach-247-milyon-dolarlk-hisse-satt-93CH-4118436",
         "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
@@ -1044,6 +1045,8 @@
         "investing:https://tr.investing.com/analysis/ekim-aynn-potansiyelli-hisseleri-gec-kalmadan-izleyin-200506555",
         "investing:https://tr.investing.com/analysis/fon-krizinde-hisse-yatrmclar-nasl-tuzaga-dustu-200506552",
         "investing:https://tr.investing.com/analysis/borsa-istanbulda-ucuz-hisse-gercekten-ucuz-mu-200506548",
+        "investing:https://tr.investing.com/news/insider-trading-news/chs-us-investments-rent-the-runway-hisselerinden-16-milyon-dolar-ald-93CH-4118437",
+        "investing:https://tr.investing.com/news/insider-trading-news/ibotta-ceosu-bryan-leach-247-milyon-dolarlk-hisse-satt-93CH-4118436",
         "investing:https://tr.investing.com/news/insider-trading-news/ibottann-insan-kaynaklar-direktoru-37376-dolarlk-hisse-satt-93CH-4118435",
         "investing:https://tr.investing.com/news/insider-trading-news/city-holding-co-yoneticisi-reyes-13502-dolar-degerinde-hisse-ald-93CH-4118434",
         "investing:https://tr.investing.com/news/insider-trading-news/united-therapeutics-ceosu-55-milyon-dolarlk-hisse-satt-93CH-4118413",
@@ -1511,9 +1514,7 @@
         "investing:https://tr.investing.com/news/forex-news/asya-dovizleri-yukseldi-yuan-cinin-3-ceyrek-gsyihsini-gecmesiyle-4-yln-zirvesinde-4107791",
         "investing:https://tr.investing.com/news/insider-trading-news/castellum-cfosu-david-bell-sirket-hisselerinden-747-dolar-ald-93CH-4107789",
         "investing:https://tr.investing.com/news/insider-trading-news/taketwo-yoneticisi-william-gordon-2-milyon-dolarlk-hisse-satt-93CH-4107787",
-        "investing:https://tr.investing.com/news/insider-trading-news/castellum-coo-andrew-merriman-sirket-hisselerinden-747-dolar-ald-93CH-4107786",
-        "investing:https://tr.investing.com/news/insider-trading-news/castellum-ceosu-ives-909-dolar-degerinde-hisse-senedi-ald-93CH-4107785",
-        "investing:https://tr.investing.com/news/economy-news/iran-abdyi-hurmuzu-yeniden-acma-teklifini-kabul-etmeye-cagrd-4107784"
+        "investing:https://tr.investing.com/news/insider-trading-news/castellum-coo-andrew-merriman-sirket-hisselerinden-747-dolar-ald-93CH-4107786"
       ]
     },
     "ntvpara": {
@@ -2196,6 +2197,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "investingpro nun gercege uygun degeri bwfg nin 109 luk kazanc n onceden tespit etti",
+      "link": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-bwfgnin-109luk-kazancn-onceden-tespit-etti-93CH-4118450"
+    },
+    {
+      "source": "investing",
+      "text": "propetro nun 49 luk dususu gercege uygun deger nas l uyard",
+      "link": "https://tr.investing.com/news/investment-ideas/propetronun-49luk-dususu-gercege-uygun-deger-nasl-uyard-93CH-4118449"
+    },
     {
       "source": "tradingview",
       "text": "uniswap cuzdanlar nda 4 y l n zirvesi uni fiyat yukselir",
@@ -9685,16 +9696,6 @@
       "source": "tradingview",
       "text": "ingiliz sterlini ingiltere tufe enflasyonu ac klamas oncesinde 1 3400 seviyesinin alt na hafifce geriledi",
       "link": "https://tr.tradingview.com/news/fxstreet:f36e49e46d9e8:0"
-    },
-    {
-      "source": "trthaber",
-      "text": "tgs fortune 500 turkiye listesinde ilk 100 e girdi turk hava yollar thy istiraki turkish ground services tgs 2025 y l net sat s gelirlerine gore haz rlanan fortune 500 turkiye listesinde 96 nc s rada yer ald",
-      "link": "https://www.trthaber.com/haber/ekonomi/tgs-fortune-500-turkiye-listesinde-ilk-100e-girdi-960703.html"
-    },
-    {
-      "source": "trthaber",
-      "text": "spkdan 3 arac kuruma faaliyet durdurma karar sermaye piyasas kurulu ndan spk yat r mc lar yak ndan ilgilendiren kritik karar geldi kurul uc arac kurumun faaliyetlerini gecici olarak durdurdu alnus yat r m bulls yat r m pusula yat r m n islemleri gece yar s itibar yla",
-      "link": "https://www.trthaber.com/haber/ekonomi/spkdan-3-araci-kuruma-faaliyet-durdurma-karari-960700.html"
     }
   ],
   "research_reports_v8": {
