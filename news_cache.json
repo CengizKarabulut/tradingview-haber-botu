@@ -973,8 +973,10 @@
       ]
     },
     "investing": {
-      "last_seen_key": "investing:https://tr.investing.com/news/company-news/windward-bio-ilac-denemelerini-finanse-etmek-icin-nasdaqta-halka-arz-pesinde-4118376",
+      "last_seen_key": "investing:https://tr.investing.com/news/economy-news/rusya-ve-ukrayna-yerel-ateskes-konusunda-anlast-yeni-bars-gorusmeleri-planlanyor--reuters-4118379",
       "seen_keys": [
+        "investing:https://tr.investing.com/news/economy-news/rusya-ve-ukrayna-yerel-ateskes-konusunda-anlast-yeni-bars-gorusmeleri-planlanyor--reuters-4118379",
+        "investing:https://tr.investing.com/news/company-news/goldcana-1-milyon-c-tutarnda-ozel-yerlestirme-kapatt-93CH-4118378",
         "investing:https://tr.investing.com/news/company-news/windward-bio-ilac-denemelerini-finanse-etmek-icin-nasdaqta-halka-arz-pesinde-4118376",
         "investing:https://tr.investing.com/news/company-news/cathie-woodun-ark-alphabet-hissesi-satt-freenome-ald-93CH-4118375",
         "investing:https://tr.investing.com/news/company-news/gta-vi-on-siparis-performans-nasl-degerlendirilmeli-4118374",
@@ -983,8 +985,6 @@
         "investing:https://tr.investing.com/news/sec-filings/wynn-resorts-bagl-sirketi-makaoda-137-milyar-mop-yatrm-yapacak-93CH-4118370",
         "investing:https://tr.investing.com/news/sec-filings/picard-medical-varantlar-200000-hisse-senediyle-degistirdi-93CH-4118369",
         "investing:https://tr.investing.com/news/sec-filings/acadia-pharmaceuticals-arge-baskannn-emekliligini-duyurdu-93CH-4118368",
-        "investing:https://tr.investing.com/news/sec-filings/arc-group-securities-acquisition-i-nasdaqdan-varant-listesi-hakknda-bildirim-ald-93CH-4118365",
-        "investing:https://tr.investing.com/news/company-news/graphano-energy-ozel-yerlestirmeyi-degistirdi-aks-paylar-ekledi-93CH-4118364",
         "investing:https://tr.investing.com/analysis/sirketler-neden-tl-yerine-dolar-ve-euro-kredisi-kullanyor-200506641",
         "investing:https://tr.investing.com/analysis/dxyde-sksma-kuresel-riskleri-buyutuyor-200504668",
         "investing:https://tr.investing.com/analysis/dolarn-guvenli-liman-primi-bitti-mi-dxy-icin-gerceklik-testi-baslyor-200504589",
@@ -1005,6 +1005,8 @@
         "investing:https://tr.investing.com/analysis/ekim-aynn-potansiyelli-hisseleri-gec-kalmadan-izleyin-200506555",
         "investing:https://tr.investing.com/analysis/fon-krizinde-hisse-yatrmclar-nasl-tuzaga-dustu-200506552",
         "investing:https://tr.investing.com/analysis/borsa-istanbulda-ucuz-hisse-gercekten-ucuz-mu-200506548",
+        "investing:https://tr.investing.com/news/sec-filings/arc-group-securities-acquisition-i-nasdaqdan-varant-listesi-hakknda-bildirim-ald-93CH-4118365",
+        "investing:https://tr.investing.com/news/company-news/graphano-energy-ozel-yerlestirmeyi-degistirdi-aks-paylar-ekledi-93CH-4118364",
         "investing:https://tr.investing.com/news/company-news/spacexin-40-milyar-dolarlk-yapay-zeka-borc-anlasmas-zorluklarla-kars-karsya-4118367",
         "investing:https://tr.investing.com/news/sec-filings/ardent-health-eski-ceosunun-ayrlsn-hakl-nedenle-fesih-olarak-yeniden-snflandrd-93CH-4118363",
         "investing:https://tr.investing.com/news/sec-filings/allegiant-travel-boeing-ucak-opsiyonlarn-kulland-93CH-4118362",
@@ -2237,6 +2239,16 @@
     }
   },
   "fingerprints": [
+    {
+      "source": "investing",
+      "text": "rusya ukrayna yerel ateskes konusunda anlast yeni bar s gorusmeleri planlan yor reuters",
+      "link": "https://tr.investing.com/news/economy-news/rusya-ve-ukrayna-yerel-ateskes-konusunda-anlast-yeni-bars-gorusmeleri-planlanyor--reuters-4118379"
+    },
+    {
+      "source": "investing",
+      "text": "goldcana 1 milyon c tutar nda ozel yerlestirme kapatt",
+      "link": "https://tr.investing.com/news/company-news/goldcana-1-milyon-c-tutarnda-ozel-yerlestirme-kapatt-93CH-4118378"
+    },
     {
       "source": "trthaber",
       "text": "turkiye mali seffafl k degerlendirmesinde ust s ralarda yer ald uluslararas para fonu imf turkiye nin mali seffafl k alan nda 10 y lda onemli gelisme kaydettigini belirtti",
@@ -9726,16 +9738,6 @@
       "source": "investing",
       "text": "upexi ld micro solana hazine bahsi buyume disiplin ar yor",
       "link": "https://tr.investing.com/news/transcripts/upexi-ld-microda-solana-hazine-bahsi-buyume-ve-disiplin-aryor-93CH-4111698"
-    },
-    {
-      "source": "bloomberght",
-      "text": "libya devlet yuksek konseyi deniz yetki mutabakat n n onay ndan memnunuz libya devlet yuksek konseyi turkiye libya aras nda 2019 imzalanan deniz yetki alanlar mutabakat n n temsilciler meclisi taraf ndan onaylanmas n memnuniyetle kars lad",
-      "link": "https://www.bloomberght.com/libya-devlet-yuksek-konseyi-deniz-yetki-mutabakatinin-onayindan-memnunuz-3792033"
-    },
-    {
-      "source": "tradingview",
-      "text": "spacex in surpriz q3 geliri hangi 3 hisse kazancl c kabilir",
-      "link": "https://tr.tradingview.com/news/beincrypto:6ca372110d9e8:0"
     }
   ],
   "research_reports_v8": {
